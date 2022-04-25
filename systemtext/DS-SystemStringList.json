@@ -14126,15 +14126,15 @@
         },
         {
             "key": "SYS_WORD_8250",
-            "value": "Reload the data."
+            "value": "Reload the title screen to receive your bonus."
         },
         {
             "key": "SYS_WORD_8251",
-            "value": "Suspended Battle"
+            "value": "Suspended Battle Data"
         },
         {
             "key": "SYS_WORD_8252",
-            "value": "dummy"
+            "value": "Xbox service disconnected."
         },
         {
             "key": "SAVE_INFO_SAVEDATA_DETAIL_Common",
