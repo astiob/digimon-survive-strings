@@ -1,0 +1,28 @@
+{
+	"scenario_text":[
+		{
+			"key":"EP05_MOVESELECT_Q1",
+			"value":"どっちへ進もう？"
+		},
+		{
+			"key":"EP05_MOVESELECT_Q1_A1",
+			"value":"右に進む"
+		},
+		{
+			"key":"EP05_MOVESELECT_Q1_A2",
+			"value":"前に進む"
+		},
+		{
+			"key":"EP05_MOVESELECT_Q1_A3",
+			"value":"左に進む"
+		},
+		{
+			"key":"EP05_MOVESELECT_Q1_A4",
+			"value":"後に進む"
+		},
+		{
+			"key":"EP05_S9999_0001",
+			"value":"シュウジ編 START"
+		}
+	]
+}
