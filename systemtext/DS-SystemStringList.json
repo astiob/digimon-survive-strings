@@ -610,7 +610,7 @@
         },
         {
             "key": "SYS_WORD_0104",
-            "value": "Event Bat"
+            "value": "Event Bat."
         },
         {
             "key": "SYS_WORD_0105",
@@ -626,7 +626,7 @@
         },
         {
             "key": "SYS_WORD_0108",
-            "value": "Free Bat"
+            "value": "Free Bat."
         },
         {
             "key": "SYS_WORD_0109",
@@ -3906,7 +3906,7 @@
         },
         {
             "key": "NAME_SKILL_1105",
-            "value": "Deals Wind damage to target(s), with\na high chance of paralyzing and\npoisoning them."
+            "value": "Deals Light damage to target(s), with a moderate chance of confusing them."
         },
         {
             "key": "NAME_SKILL_1106",
@@ -9582,7 +9582,7 @@
         },
         {
             "key": "PARTNER_TALK_BUFF_911",
-            "value": "Status Abnormalities and Stat Reductions\nRemoved!"
+            "value": "Status Abnormalities and Stat Reductions Removed!"
         },
         {
             "key": "PARTNER_TALK_BUFF_912",
@@ -10374,7 +10374,7 @@
         },
         {
             "key": "NAME_ITEM_1334",
-            "value": "Status Ab. Resistance, Damage Reduction\nThis strange crystal seems protected by\ngreat power. Maybe it’ll protect me too?"
+            "value": "Stat. Ab. Resist, Dmg. Reduc. (No Stack)\nThis strange crystal seems protected by great power. Maybe it’ll protect me too?"
         },
         {
             "key": "NAME_ITEM_1335",
@@ -10382,7 +10382,7 @@
         },
         {
             "key": "NAME_ITEM_1336",
-            "value": "Double Attack, Stats Boost\nThis crystal gives off a real violent\nvibe... Baddies better beware!"
+            "value": "Double Attack (Doesn't Stack), Stats Boost\nThis crystal gives off a real violent\nvibe... Baddies better beware!"
         },
         {
             "key": "SYS_WORD_8072",
@@ -10986,15 +10986,15 @@
         },
         {
             "key": "Tutorial_Adv_003",
-            "value": "Use <sprite index=45> or <sprite index=28> to select a response or action,\nthen press <sprite index=20>."
+            "value": "Use <sprite index=45> or <sprite index=28> to select a response or action,\nand then press <sprite index=20>."
         },
         {
             "key": "Tutorial_Adv_004",
-            "value": "Use <sprite index=44> or <sprite index=16> to select a response or action,\nthen press <sprite index=8>."
+            "value": "Use <sprite index=44> or <sprite index=16> to select a response or action,\nand then press <sprite index=8>."
         },
         {
             "key": "Tutorial_Adv_005",
-            "value": "Use <sprite index=46> or <sprite index=40> to select a response or action,\nthen press <sprite index=33>."
+            "value": "Use <sprite index=46> or <sprite index=40> to select a response or action,\nand then press <sprite index=33>."
         },
         {
             "key": "Tutorial_Adv_006",
@@ -11062,7 +11062,7 @@
         },
         {
             "key": "Tutorial_Adv_022",
-            "value": "Targets that lead to important story\nconversations will be marked with a “!”,"
+            "value": "Targets that lead to important story\nconversations will be marked with a <sprite index=6>,"
         },
         {
             "key": "Tutorial_Adv_023",
@@ -11098,7 +11098,7 @@
         },
         {
             "key": "Tutorial_Adv_031",
-            "value": "Clues will be marked with a “!” during\nexploration too, so keep an eye out for them!"
+            "value": "Clues will be marked with a <sprite index=6> during\nexploration too, so keep an eye out for them!"
         },
         {
             "key": "Tutorial_Adv_032",
@@ -11594,7 +11594,7 @@
         },
         {
             "key": "Tutorial_Battle_064",
-            "value": "During battle, it’s always important to keep\nattack and defense in mind you take your turns."
+            "value": "During battle, it’s important to keep attack\nand defense in mind when you take your turns."
         },
         {
             "key": "Tutorial_Battle_065",
@@ -11798,7 +11798,7 @@
         },
         {
             "key": "Tutorial_Battle_115",
-            "value": "Choose Attack from the Skill List and to\npress <sprite index=8> to confirm."
+            "value": "Choose Attack from the Skill List and\npress <sprite index=8> to confirm."
         },
         {
             "key": "Tutorial_Battle_116",
@@ -11826,7 +11826,7 @@
         },
         {
             "key": "Tutorial_Battle_122",
-            "value": "It’s important to check up on other units in\nbattle. Switch to the free cursor get more info."
+            "value": "It’s important to check up on other units in\nbattle. Switch to the free cursor to get more info."
         },
         {
             "key": "Tutorial_Battle_123",
@@ -14134,7 +14134,7 @@
         },
         {
             "key": "SYS_WORD_8252",
-            "value": "Xbox service disconnected."
+            "value": "The network connection to Xbox network was lost."
         },
         {
             "key": "SAVE_INFO_SAVEDATA_DETAIL_Common",
@@ -14175,6 +14175,94 @@
         {
             "key": "SAVE_DEFUI_EXISTS_CURRUPTED_DATA_Common",
             "value": "There is corrupted save data."
+        },
+        {
+            "key": "SYS_WORD_8253",
+            "value": "Restricted"
+        },
+        {
+            "key": "SYS_WORD_8254",
+            "value": "The Talk command can’t be used for the following partner\nunits in this battle:"
+        },
+        {
+            "key": "SYS_WORD_8255",
+            "value": "System 1"
+        },
+        {
+            "key": "SYS_WORD_8256",
+            "value": "System 2"
+        },
+        {
+            "key": "SYS_WORD_8257",
+            "value": "Vibration Setting"
+        },
+        {
+            "key": "SYS_WORD_8258",
+            "value": "Vibrate"
+        },
+        {
+            "key": "SYS_WORD_8258_sw",
+            "value": "Vibration feature"
+        },
+        {
+            "key": "SYS_WORD_8259",
+            "value": "AI battle has reached a deadlock.\nAuto-Battle cancelled."
+        },
+        {
+            "key": "SYS_WORD_8255_xb",
+            "value": "Console 1"
+        },
+        {
+            "key": "SYS_WORD_8256_xb",
+            "value": "Console 2"
+        },
+        {
+            "key": "SYS_WORD_8260",
+            "value": "Keyboard"
+        },
+        {
+            "key": "SYS_WORD_8261",
+            "value": "Gamepad"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02",
+            "value": "Downloadable content enabled."
+        },
+        {
+            "key": "AOC_GET_FAILURE_04",
+            "value": "The following downloadable content is\nenabled, but you have reached your\nmonster limit. Discard extra monsters."
+        },
+        {
+            "key": "SYS_WORD_8262",
+            "value": "RS button"
+        },
+        {
+            "key": "SYS_WORD_8263",
+            "value": "LS button"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_ps",
+            "value": "Downloadable content enabled."
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_sw",
+            "value": "Downloadable content enabled."
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_xb",
+            "value": "Downloadable content enabled."
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_ps",
+            "value": "The following downloadable content is\nenabled, but you have reached your\nmonster limit. Discard extra monsters."
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_sw",
+            "value": "The following downloadable content is\nenabled, but you have reached your\nmonster limit. Discard extra monsters."
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_xb",
+            "value": "The following downloadable content is\nenabled, but you have reached your\nmonster limit. Discard extra monsters."
         }
     ]
 }

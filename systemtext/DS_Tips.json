@@ -234,7 +234,7 @@
         },
         {
             "key": "TIPS_DETAIL_003",
-            "value": "Karma will effect Agumon’s Evolution. The highest Karma value at the moment of Evolution will decide what Monster Agumon evolves into."
+            "value": "Karma will effect Agumon’s evolution."
         },
         {
             "key": "TIPS_DETAIL_004",
@@ -374,7 +374,7 @@
         },
         {
             "key": "TIPS_DETAIL_038",
-            "value": "During battle, units evolved through the Evolve command\nconsume the same amount of SP used to initially evolve each\nturn in order to maintain their form, and return to their\noriginal (Rookie) form when SP runs out. You can also\nreturn them to their original form (aka Devolve them)\nvoluntarily."
+            "value": "During battle, monsters evolved through the Evolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (devolve them) voluntarily."
         },
         {
             "key": "TIPS_DETAIL_039",

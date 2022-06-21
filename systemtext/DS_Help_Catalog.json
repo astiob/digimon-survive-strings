@@ -106,7 +106,7 @@
         },
         {
             "key": "HELP_DETAIL_ADV_03",
-            "value": "Karma will effect Agumon’s Evolution. The highest Karma value at the moment of Evolution will decide what monster Agumon evolves into."
+            "value": "Karma will effect Agumon’s evolution."
         },
         {
             "key": "HELP_DETAIL_ADV_04",
@@ -210,7 +210,7 @@
         },
         {
             "key": "HELP_DETAIL_MAP_02",
-            "value": "Important events will occur in places marked with <sprite index=0> or <sprite index=2> on the map list as the story progresses. <sprite index=0> will trigger when you move to that location, and <sprite index=2> will trigger events when you talk with characters in that location."
+            "value": "Important events will occur in places marked with <sprite index=0> or <sprite index=2> on the map list as the story progresses (and may trigger during exploration of these places)."
         },
         {
             "key": "HELP_DETAIL_MAP_03",
@@ -554,7 +554,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_35",
-            "value": "Evolved units consume the same amount of SP used to initially evolve each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
+            "value": "Evolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
         },
         {
             "key": "HELP_DETAIL_SLG_36",
@@ -1055,6 +1055,10 @@
         {
             "key": "HELP_DETAIL_SLG_60",
             "value": "You’re given four options when you lose an Event Battle: Retry, Restart from Map, Load, or Return to Title. Choosing Load or Return to Title lets you return to the Adventure scene prior to the battle. Choosing Restart from Map lets you train in Free Battles before retrying the Event Battle."
+        },
+        {
+            "key": "HELP_INFO_st",
+            "value": "*For default control settings"
         }
     ]
 }

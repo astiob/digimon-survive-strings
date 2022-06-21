@@ -138,27 +138,27 @@
 		},
 		{
 			"key":"EP03_S1000_Q2_A2",
-			"value":"(What should I say to those two?)"
+			"value":"There's still more."
 		},
 		{
 			"key":"EP03_S1000_0031",
-			"value":"Stop playing games!"
+			"value":"Talking to you calmed me down a little bit...\nThanks, Takuma."
 		},
 		{
 			"key":"EP03_S1000_0032",
-			"value":"Let me play, too."
+			"value":"No problem, same here. We should hear\neveryone's take on the sitaution, anyways."
 		},
 		{
 			"key":"EP03_S1000_0200",
-			"value":"I wish we could contact somebody, but all we\nget is the occasional garbled message."
+			"value":"I wish we could even contact someone, instead \nof getting those random, jarbled messages..."
 		},
 		{
 			"key":"EP03_S1000_0201",
-			"value":"Yeah, I’d kill for a signal right about now."
+			"value":"I know... It'd be great if we could even\nget a signal."
 		},
 		{
 			"key":"EP03_S1000_0033",
-			"value":"Encourage Shuuji."
+			"value":"I've calmed down a bit now. Thanks for talking\nto me, Takuma."
 		}
 	]
 }
