@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0341_0001",
-			"value":"う～ん、シュウジさん\nどこに行っちゃったんだろう？"
+			"value":"Hmm, where the heck did Shuuji go?"
 		},
 		{
 			"key":"EP05_S0341_0002",
-			"value":"こっちの方じゃないのかな……？"
+			"value":"You think he went this way?"
 		},
 		{
 			"key":"EP05_S0341_0003",
-			"value":"むむむ……"
+			"value":"Hmm, hmm, hmm..."
 		},
 		{
 			"key":"EP05_S0341_0004",
-			"value":"あ、聞こえた！　シュウジの声よ！"
+			"value":"Oh, just now! I hear Shuuji’s voice!"
 		},
 		{
 			"key":"EP05_S0341_0005",
-			"value":"え、ホント！？"
+			"value":"Wait, really?!"
 		},
 		{
 			"key":"EP05_S0341_0006",
-			"value":"ええ、ここよりもっと……後ろの方ね！"
+			"value":"Yeah, I think...somewhere behind us!"
 		},
 		{
 			"key":"EP05_S0341_0007",
-			"value":"後ろって……どっち？"
+			"value":"Behind us...which way is that?"
 		},
 		{
 			"key":"EP05_S0341_0008",
-			"value":"まぁでも、ここにはいないってことだね"
+			"value":"At the very least, he’s not around here."
 		},
 		{
 			"key":"EP05_S0341_0009",
-			"value":"声が聞こえたのは確かよ\nもうちょっと探ってみるわ"
+			"value":"I know I heard his voice. Let’s look around\na bit longer."
 		}
 	]
 }

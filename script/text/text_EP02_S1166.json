@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1166_0001",
-			"value":"今のところ敵の気配は感じないが\n油断はできないな……"
+			"value":"I’m not sensing any enemies at the moment,\nbut we should remain on guard."
 		},
 		{
 			"key":"EP02_S1166_0002",
-			"value":"姿が見えないんじゃ\n襲われるまで気づけないもんな"
+			"value":"Right. If we can’t see it, we won’t know\nwhere it is until it’s on us."
 		},
 		{
 			"key":"EP02_S1166_0003",
-			"value":"俺たちならある程度は気配で察知できるが\nヤツはそれすら巧妙に隠している"
+			"value":"Normally we can tell when something’s nearby,\nbut this creature eludes even our senses."
 		},
 		{
 			"key":"EP02_S1166_0004",
-			"value":"いつ襲われるかわからん\n気を抜くなよ"
+			"value":"We may be attacked at any moment. Stay alert."
 		},
 		{
 			"key":"EP02_S1166_0005",
-			"value":"わ、わかった"
+			"value":"Sure, okay."
 		},
 		{
 			"key":"EP02_S1166_0006",
-			"value":"いつまたヤツに襲われるかわからん\n気を抜くなよ"
+			"value":"We may be attacked again at any time. Stay\nalert."
 		}
 	]
 }

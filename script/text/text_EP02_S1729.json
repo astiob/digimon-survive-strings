@@ -1,168 +1,168 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP02_S1729_0001",
-            "value": "これは、川、か……"
-        },
-        {
-            "key": "EP02_S1729_0002",
-            "value": "足跡はこっちに続いてるから、サキたちがこの先に\n行ったのは間違いなさそうだけど……"
-        },
-        {
-            "key": "EP02_S1729_0003",
-            "value": "向こう岸には……足跡がないわ？"
-        },
-        {
-            "key": "EP02_S1729_0004",
-            "value": "ふむ、川を利用して足跡から追跡されるのを\n防いだのか。いい手だが、困ったね……"
-        },
-        {
-            "key": "EP02_S1729_0005",
-            "value": "流されちまったんじゃねーの？"
-        },
-        {
-            "key": "EP02_S1729_0006",
-            "value": "キュゥッ！？"
-        },
-        {
-            "key": "EP02_S1729_0007",
-            "value": "そんな……！　すぐに助けないと！"
-        },
-        {
-            "key": "EP02_S1729_0008",
-            "value": "ええ！　急ぎましょう！"
-        },
-        {
-            "key": "EP02_S1729_0009",
-            "value": "待った待った！　賢く逃げてる可能性だってあるだろ！\n他の道を探す方がいいって！"
-        },
-        {
-            "key": "EP02_S1729_0010",
-            "value": "俺もミノルと同意見だ"
-        },
-        {
-            "key": "EP02_S1729_0011",
-            "value": "ダム自体が一向に見つからないのが\n気になるところだが……"
-        },
-        {
-            "key": "EP02_S1729_0012",
-            "value": "タクマ、どうする？"
-        },
-        {
-            "key": "EP02_S1729_0013",
-            "value": "（流されたか、他の道か\n　それとも、そもそもから疑うか）"
-        },
-        {
-            "key": "EP02_S1729_Q1",
-            "value": "（サキたちを追うにはどうしたらいいんだろう……）"
-        },
-        {
-            "key": "EP02_S1729_Q1_A1",
-            "value": "流されたかもしれない"
-        },
-        {
-            "key": "EP02_S1729_Q1_A2",
-            "value": "騙されたか？"
-        },
-        {
-            "key": "EP02_S1729_Q1_A3",
-            "value": "他の道を探そう"
-        },
-        {
-            "key": "EP02_S1729_0014",
-            "value": "万が一でも流されたとしたら大変だ\n確認しに行こう"
-        },
-        {
-            "key": "EP02_S1729_0015",
-            "value": "そ、そうよね！"
-        },
-        {
-            "key": "EP02_S1729_0016",
-            "value": "大丈夫か？　無駄足になりそうじゃね？"
-        },
-        {
-            "key": "EP02_S1729_0017",
-            "value": "溺れたんじゃないってわかれば\n無駄なんかじゃないさ"
-        },
-        {
-            "key": "EP02_S1729_0018",
-            "value": "まさか、ゴマモンに騙されたのか？"
-        },
-        {
-            "key": "EP02_S1729_0019",
-            "value": "はぁ！？"
-        },
-        {
-            "key": "EP02_S1729_0020",
-            "value": "その可能性は考えていたが……\nそうだとすれば振り出しに戻ってしまう"
-        },
-        {
-            "key": "EP02_S1729_0021",
-            "value": "そ、そんな……\n何を信じたらいいの……？"
-        },
-        {
-            "key": "EP02_S1729_0022",
-            "value": "溺れる危険を冒して川を渡ろうとするはずがない\nきっと他の道を使ってるんだ"
-        },
-        {
-            "key": "EP02_S1729_0023",
-            "value": "そ、そうよね！　きっと無事よね！"
-        },
-        {
-            "key": "EP02_S1729_0024",
-            "value": "んで、その道はどこにあるっつーんだよ"
-        },
-        {
-            "key": "EP02_S1729_0025",
-            "value": "お～い、オマエら～！\nこんなとこでどうしたんだ～？"
-        },
-        {
-            "key": "EP02_S1729_0026",
-            "value": "あ、さっきの……ゴマモン！"
-        },
-        {
-            "key": "EP02_S1729_0027",
-            "value": "さっき話した仲間の足跡を追ってたんだけど\nここの川で途切れちゃってて……"
-        },
-        {
-            "key": "EP02_S1729_0028",
-            "value": "んん？　オマエらダムに向かってるんだよな？"
-        },
-        {
-            "key": "EP02_S1729_0029",
-            "value": "そうだよ！"
-        },
-        {
-            "key": "EP02_S1729_0030",
-            "value": "そのダムへの道がわかんなくてさ～"
-        },
-        {
-            "key": "EP02_S1729_0031",
-            "value": "あ、そうかそうか！　うっかりしてた！\n確かにあそこは見つけにくいもんな～！"
-        },
-        {
-            "key": "EP02_S1729_0032",
-            "value": "ダムへ行けるたった一つの道、<color=#B41919>水路</color>は\nこっちにあるんだ！"
-        },
-        {
-            "key": "EP02_S1729_0033",
-            "value": "あぁ、よかったぁ！\n道はあるのね？"
-        },
-        {
-            "key": "EP02_S1729_0034",
-            "value": "おう！　ちゃんとあるし案内するぜ？\n受けた恩は返さないとな！"
-        },
-        {
-            "key": "EP02_S1729_0035",
-            "value": "ならすぐに行きましょう！"
-        },
-        {
-            "key": "EP02_S1729_0036",
-            "value": "うむ！　案内を頼む！"
-        },
-        {
-            "key": "EP02_S1729_0037",
-            "value": "こっちだ、ついて来いよ！"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP02_S1729_0001",
+			"value":"Is this a river?"
+		},
+		{
+			"key":"EP02_S1729_0002",
+			"value":"There are more footprints. They must have\ncome this way..."
+		},
+		{
+			"key":"EP02_S1729_0003",
+			"value":"Are there footprints on the other side?"
+		},
+		{
+			"key":"EP02_S1729_0004",
+			"value":"They might have used the river to lose the\ntrail. That was clever, but..."
+		},
+		{
+			"key":"EP02_S1729_0005",
+			"value":"Maybe they drowned?"
+		},
+		{
+			"key":"EP02_S1729_0006",
+			"value":"Kewww?!"
+		},
+		{
+			"key":"EP02_S1729_0007",
+			"value":"No! We have to save them!"
+		},
+		{
+			"key":"EP02_S1729_0008",
+			"value":"Yes, we need to find them right away!"
+		},
+		{
+			"key":"EP02_S1729_0009",
+			"value":"Hang on! They might’ve gotten away!\nWe need to find them!"
+		},
+		{
+			"key":"EP02_S1729_0010",
+			"value":"I agree with Minoru."
+		},
+		{
+			"key":"EP02_S1729_0011",
+			"value":"I’m a little worried that we haven’t found\nthe dam yet..."
+		},
+		{
+			"key":"EP02_S1729_0012",
+			"value":"What should we do, Takuma?"
+		},
+		{
+			"key":"EP02_S1729_0013",
+			"value":"(They either drowned or found another way...\nOr something else entirely?)"
+		},
+		{
+			"key":"EP02_S1729_Q1",
+			"value":"(How can we follow after them?)"
+		},
+		{
+			"key":"EP02_S1729_Q1_A1",
+			"value":"Maybe they drowned."
+		},
+		{
+			"key":"EP02_S1729_Q1_A2",
+			"value":"They fooled us, too?"
+		},
+		{
+			"key":"EP02_S1729_Q1_A3",
+			"value":"Look somewhere else."
+		},
+		{
+			"key":"EP02_S1729_0014",
+			"value":"It would be terrible if they drowned.\nWe need to make sure."
+		},
+		{
+			"key":"EP02_S1729_0015",
+			"value":"I know. You’re right."
+		},
+		{
+			"key":"EP02_S1729_0016",
+			"value":"Is this okay? We’re not wasting time?"
+		},
+		{
+			"key":"EP02_S1729_0017",
+			"value":"It won’t be a waste if we find out they\nhaven’t drowned."
+		},
+		{
+			"key":"EP02_S1729_0018",
+			"value":"What if we were tricked by Gomamon?"
+		},
+		{
+			"key":"EP02_S1729_0019",
+			"value":"Huh?!"
+		},
+		{
+			"key":"EP02_S1729_0020",
+			"value":"I was wondering about that... If that’s what\nthis is, we need to go back."
+		},
+		{
+			"key":"EP02_S1729_0021",
+			"value":"No way...\nWhat should we believe?"
+		},
+		{
+			"key":"EP02_S1729_0022",
+			"value":"If there was a risk of drowning, they\nwouldn’t try crossing. They went another way."
+		},
+		{
+			"key":"EP02_S1729_0023",
+			"value":"You’re right! They must be okay!"
+		},
+		{
+			"key":"EP02_S1729_0024",
+			"value":"But where is that other way?"
+		},
+		{
+			"key":"EP02_S1729_0025",
+			"value":"Hey, you guys!\nWhat are you doing here?"
+		},
+		{
+			"key":"EP02_S1729_0026",
+			"value":"It’s Gomamon!"
+		},
+		{
+			"key":"EP02_S1729_0027",
+			"value":"We were following the footprints of the kids\nwe told you about. We got to the river..."
+		},
+		{
+			"key":"EP02_S1729_0028",
+			"value":"What? Weren’t you headed for the dam?"
+		},
+		{
+			"key":"EP02_S1729_0029",
+			"value":"That’s right!"
+		},
+		{
+			"key":"EP02_S1729_0030",
+			"value":"We couldn’t find the way there!"
+		},
+		{
+			"key":"EP02_S1729_0031",
+			"value":"That’s right! I completely forgot!\nIt’s really hard to find!"
+		},
+		{
+			"key":"EP02_S1729_0032",
+			"value":"There’s only way to the dam.\nThe canal is over here!"
+		},
+		{
+			"key":"EP02_S1729_0033",
+			"value":"Thank goodness!\nThere is a way?"
+		},
+		{
+			"key":"EP02_S1729_0034",
+			"value":"There is indeed, and I’ll show you.\nI owe it to you!"
+		},
+		{
+			"key":"EP02_S1729_0035",
+			"value":"Then let’s go now."
+		},
+		{
+			"key":"EP02_S1729_0036",
+			"value":"Yes, show us the way!"
+		},
+		{
+			"key":"EP02_S1729_0037",
+			"value":"It’s this way! Follow me!"
+		}
+	]
 }

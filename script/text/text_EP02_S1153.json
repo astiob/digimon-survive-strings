@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1153_0001",
-			"value":"タクマ、なんだかソワソワしてるな？"
+			"value":"What’s wrong, Takuma? You seem nervous."
 		},
 		{
 			"key":"EP02_S1153_0002",
-			"value":"えっと……さっき、人の声とか音とか\n聞こえなかった？"
+			"value":"Uh...did you hear something just now? Like\nsomeone’s voice?"
 		},
 		{
 			"key":"EP02_S1153_0003",
-			"value":"キレイな音なら聞こえたぞ！"
+			"value":"I heard something that sounded really pretty."
 		},
 		{
 			"key":"EP02_S1153_0004",
-			"value":"そ、そう！　それだよ！\nどこから聞こえたかわかる！？"
+			"value":"Yeah, that’s it! Could you tell which way it\nwas coming from?"
 		},
 		{
 			"key":"EP02_S1153_0005",
-			"value":"その扉の向こうから聞こえたな"
+			"value":"It sounded like it came from over there."
 		},
 		{
 			"key":"EP02_S1153_0006",
-			"value":"ここって……音楽室か？\n入れるかな"
+			"value":"You mean the music room? Why don’t we go\ncheck it out?"
 		},
 		{
 			"key":"EP02_S1153_0007",
-			"value":"キレイな音なら、その扉の向こうから聞こえたぞ！\nオンガクシツ？　ってとこだ！"
+			"value":"That pretty sound came from over there! The,\nuh, myuuu-zick room."
 		}
 	]
 }

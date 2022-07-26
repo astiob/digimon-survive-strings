@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1400_0001",
-			"value":"タクマー、なんにもないなー"
+			"value":"Takuma, nothing's here."
 		},
 		{
 			"key":"EP02_S1400_0002",
-			"value":"そうだなぁ……\n他のとこも見てみるか"
+			"value":"Well, let me think.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1400_0003",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP02_S1400_0004",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1400_0201",
-			"value":"あ、タクマ！\nこれ食べられるやつじゃないか？"
+			"value":"Look, Takuma! I think this is one of those\nplants we can eat!"
 		},
 		{
 			"key":"EP02_S1400_0202",
-			"value":"え、そうなのか？"
+			"value":"Uh, are you sure?"
 		},
 		{
 			"key":"EP02_S1400_0203",
-			"value":"ムシャムシャ"
+			"value":"*chew* *chew*"
 		},
 		{
 			"key":"EP02_S1400_0204",
-			"value":"わっ、いきなり食べるなよアグモン！\n食べられるかわからないのに……"
+			"value":"Hey! Don’t just start eating it! We don’t\neven know if it’s safe!"
 		},
 		{
 			"key":"EP02_S1400_0205",
-			"value":"うぇ～、おいしくない～……"
+			"value":"Bleh! That was awful!"
 		},
 		{
 			"key":"EP02_S1400_0206",
-			"value":"大丈夫か？　まったく、何やってるんだよ"
+			"value":"Are you okay? I can’t believe you just did\nthat!"
 		},
 		{
 			"key":"EP02_S1400_0207",
-			"value":"ヘンだな～。ミノルみたいにすれば\n食べられると思ったのに"
+			"value":"That’s weird... I did the same thing Minoru\ndid. Why didn’t it work for me?"
 		},
 		{
 			"key":"EP02_S1400_0208",
-			"value":"あのなぁ……よくわからない物を\n口に入れちゃ駄目だ"
+			"value":"Look, you can’t go around shoving things in\nyour mouth when you don’t know what they are."
 		},
 		{
 			"key":"EP02_S1400_0209",
-			"value":"うん、わかった～！"
+			"value":"Right! Now I know."
 		},
 		{
 			"key":"EP02_S1400_0210",
-			"value":"この辺には何もなさそうだし\n他のとこを見てみるか"
+			"value":"I don’t think we’ll find anything here. Let’s\ncheck somewhere else."
 		},
 		{
 			"key":"EP02_S1400_0211",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		}
 	]
 }

@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S9108_0001",
-			"value":"ここは、いったい……？"
+			"value":"What is this place?"
 		},
 		{
 			"key":"EP09_S9108_0002",
-			"value":"壁に穴が開いててさ\nそれを怪しいなって思って調べたら──"
+			"value":"There’s a hole in the wall. It looked\nsuspicious to me, and when I checked it..."
 		},
 		{
 			"key":"EP09_S9108_0003",
-			"value":"ここに繋がってたんだよ\nでも、ジジモンも知らないのか？"
+			"value":"It was connected to this area. Did you know\nabout this, Jijimon?"
 		},
 		{
 			"key":"EP09_S9108_0004",
-			"value":"ああ……ワシも初めてじゃ"
+			"value":"I’m afraid this is the first I’ve heard of\nit."
 		},
 		{
 			"key":"EP09_S9108_0005",
-			"value":"タクマ……\nここ、前に来た時、変な感じがしたとこだ……"
+			"value":"Takuma... I felt something off about this\nplace last time we were here."
 		},
 		{
 			"key":"EP09_S9108_0006",
-			"value":"そういえば、そんなこと言ってたな\n何があるかわかるか？"
+			"value":"Oh yeah, you did mention that, didn’t you.\nAny idea what it could be?"
 		},
 		{
 			"key":"EP09_S9108_0007",
-			"value":"ん～……わかんないけど、すごく強い気配はする\n強すぎて、ビリビリくる……"
+			"value":"Umm... I dunno, but it’s super strong. I’m\nshaking just sensing it..."
 		},
 		{
 			"key":"EP09_S9108_0008",
-			"value":"見た感じ敵の気配はないけど……"
+			"value":"It doesn’t feel hostile or anything, it’s\njust..."
 		},
 		{
 			"key":"EP09_S9108_0009",
-			"value":"（ここでモタモタしてたら\n　敵に追いつかれるかもしれない）"
+			"value":"(If we stick around here, the enemy’s bound\nto catch up with us.)"
 		},
 		{
 			"key":"EP09_S9108_Q1",
-			"value":"（僕たちはどうすればいい……？）"
+			"value":"(What should we do?!)"
 		},
 		{
 			"key":"EP09_S9108_Q1_A1",
-			"value":"他に道はないのか？"
+			"value":"Look for other paths?"
 		},
 		{
 			"key":"EP09_S9108_Q1_A2",
-			"value":"迎え撃つしかない"
+			"value":"Take them head-on!"
 		},
 		{
 			"key":"EP09_S9108_Q1_A3",
-			"value":"先に進もう"
+			"value":"Keep going ahead."
 		},
 		{
 			"key":"EP09_S9108_0010",
-			"value":"他に道は？"
+			"value":"Look for other paths?"
 		},
 		{
 			"key":"EP09_S9108_0011",
-			"value":"他に道はないか？"
+			"value":"Are there any other paths?"
 		},
 		{
 			"key":"EP09_S9108_0012",
-			"value":"とりあえず見つけたのはここだけだ"
+			"value":"This is the only one we’ve found, at the very\nleast."
 		},
 		{
 			"key":"EP09_S9108_0013",
-			"value":"他を探すとなると、敵に追いつかれるかも……"
+			"value":"The bad guys might catch up while we look for\nanother way forward..."
 		},
 		{
 			"key":"EP09_S9108_0014",
-			"value":"そうだよな……"
+			"value":"Yeah, you’re probably right."
 		},
 		{
 			"key":"EP09_S9108_0015",
-			"value":"迎え撃とう"
+			"value":"Take them head-on!"
 		},
 		{
 			"key":"EP09_S9108_0016",
-			"value":"敵が後ろから来るならちょうどいい\nここで迎え撃とう"
+			"value":"If the enemy’s coming from behind, all the\nbetter. We’ll take them out here."
 		},
 		{
 			"key":"EP09_S9108_0017",
-			"value":"待って。この先に敵がいないとも限らないわ\nここだって挟み撃ちされる可能性もあるわよ"
+			"value":"Hold on, we don’t know if there are any\nahead. We could get flanked on both sides."
 		},
 		{
 			"key":"EP09_S9108_0018",
-			"value":"あ、そうか……"
+			"value":"Ah, that’s true..."
 		},
 		{
 			"key":"EP09_S9108_0019",
-			"value":"進もう"
+			"value":"Keep going ahead."
 		},
 		{
 			"key":"EP09_S9108_0020",
-			"value":"敵が迫ってるんだ\nとにかく進もう"
+			"value":"The enemy’s following us, we should keep on\ngoing for now."
 		},
 		{
 			"key":"EP09_S9108_0021",
-			"value":"いいのかよ？\nこの先にだって敵はいるかもしれねえんだぜ？"
+			"value":"You sure about that? No telling if we got\nmore of ‘em waiting on ahead."
 		},
 		{
 			"key":"EP09_S9108_0022",
-			"value":"だったらなおさら急がないと\n後ろから来る敵と合流されたらマズイ"
+			"value":"If that’s true, we better hurry. It’ll be bad\nnews if we get sandwiched between them."
 		},
 		{
 			"key":"EP09_S9108_0023",
-			"value":"おぉ、まぁそうか……"
+			"value":"Ahh, yeah that’s true."
 		},
 		{
 			"key":"EP09_S9108_0024",
-			"value":"どっちにしろ挟み撃ちされるなら\nこのまま進んだ方がマシだと思う"
+			"value":"If we’re gonna get stuck between them either\nway, might as forge on ahead."
 		},
 		{
 			"key":"EP09_S9108_0025",
-			"value":"みんな、進もう！"
+			"value":"Let’s head out, everyone!"
 		}
 	]
 }

@@ -2,171 +2,171 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1822_0001",
-			"value":"あそこだ、タクマ！\n変なやつ、いたー！"
+			"value":"Takuma, there! That’s it! That’s the weird\nthing!"
 		},
 		{
 			"key":"EP07_S1822_0002",
-			"value":"えっ！？　うわあっ！？\nニ、ニンゲン！？"
+			"value":"Huh?! UWAAAH! A hew-mun?"
 		},
 		{
 			"key":"EP07_S1822_0003",
-			"value":"こんなところにケモノが！？\nみんなに危害を加える前に、追い返さないと！"
+			"value":"A creature? Here? Chase it away before it can\nhurt anyone!"
 		},
 		{
 			"key":"EP07_S1822_0004",
-			"value":"（あれ、でも……あんまり敵意を感じないな\n　もしかしたら話ができるかも？）"
+			"value":"(But it doesn’t seem very threatening.\nMaybe it can talk?)"
 		},
 		{
 			"key":"EP07_S1822_0005",
-			"value":"（相手の目的がわかれば\n　手を取り合うこともできるかも？）"
+			"value":"(If we know what it wants we might be able to\nwork together.)"
 		},
 		{
 			"key":"EP07_S1822_Q1",
-			"value":"（あのケモノにどう対応しよう？）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP07_S1822_Q1_A1",
-			"value":"話しかけよう"
+			"value":"Try talking to it."
 		},
 		{
 			"key":"EP07_S1822_Q1_A2",
-			"value":"追い返そう"
+			"value":"Chase it away."
 		},
 		{
 			"key":"EP07_S1822_Q1_A3",
-			"value":"ナッツを渡そう"
+			"value":"Give it some nuts."
 		},
 		{
 			"key":"EP07_S1822_0006",
-			"value":"話しかける"
+			"value":"Try talking to it."
 		},
 		{
 			"key":"EP07_S1822_0007",
-			"value":"あ、あのさ、一人？\nどうしてこんなところに？"
+			"value":"Hello? Are you all alone?\nWhy are you out here?"
 		},
 		{
 			"key":"EP07_S1822_0008",
-			"value":"は、話すことなんて何も……"
+			"value":"I’ve got nothing to say to you..."
 		},
 		{
 			"key":"EP07_S1822_0009",
-			"value":"タクマ、あいつの口の端に\n何かついてるぞ！"
+			"value":"Takuma, look! There’s something on its mouth!"
 		},
 		{
 			"key":"EP07_S1822_0010",
-			"value":"あれ……ナッツの欠片？"
+			"value":"Is that...a piece of a nut?"
 		},
 		{
 			"key":"EP07_S1822_0011",
-			"value":"う……うわー！！"
+			"value":"Ahhh... AAAAAAH!"
 		},
 		{
 			"key":"EP07_S1822_0012",
-			"value":"逃げちゃった……"
+			"value":"It ran off..."
 		},
 		{
 			"key":"EP07_S1822_0013",
-			"value":"もしかしてあいつ、保存食のナッツを\n盗み食いしてたのか？"
+			"value":"I wonder if it stole some of the nuts we were\nsaving..."
 		},
 		{
 			"key":"EP07_S1822_0014",
-			"value":"お腹空いてたのかもなー？"
+			"value":"It must have been hungry."
 		},
 		{
 			"key":"EP07_S1822_0015",
-			"value":"追い返す"
+			"value":"Chase it away."
 		},
 		{
 			"key":"EP07_S1822_0016",
-			"value":"（敵意がないように見せかけているだけで\n　実は敵なのかもしれない）"
+			"value":"(It doesn’t seem threatening, but that could\nall be an act.)"
 		},
 		{
 			"key":"EP07_S1822_0017",
-			"value":"やっぱり危険だ\nアグモン、追い返そう！"
+			"value":"It’s gotta be dangerous.\nAgumon, let’s chase it away!"
 		},
 		{
 			"key":"EP07_S1822_0018",
-			"value":"うん！"
+			"value":"Right!"
 		},
 		{
 			"key":"EP07_S1822_0019",
-			"value":"う、うわー！"
+			"value":"Ahhh... AAAAAAH!"
 		},
 		{
 			"key":"EP07_S1822_0020",
-			"value":"あ……戦う前に逃げちゃった"
+			"value":"It ran off before we could fight..."
 		},
 		{
 			"key":"EP07_S1822_0021",
-			"value":"……あれ？\n本当に敵意のないケモノだったのかな？"
+			"value":"Hang on. It might not have been an enemy..."
 		},
 		{
 			"key":"EP07_S1822_0022",
-			"value":"ナッツを渡す"
+			"value":"Give it some nuts."
 		},
 		{
 			"key":"EP07_S1822_0023",
-			"value":"君に戦う気がないなら\n僕たちも争うつもりはないよ"
+			"value":"If you won’t fight us, we won’t fight you."
 		},
 		{
 			"key":"EP07_S1822_0024",
-			"value":"ほ、本当？\n……本当なら、頼みがあるんだ"
+			"value":"Really? If that’s the case, I need to ask you\nsomething."
 		},
 		{
 			"key":"EP07_S1822_0025",
-			"value":"ぼく、お腹が空いてて"
+			"value":"I’m so hungry..."
 		},
 		{
 			"key":"EP07_S1822_0026",
-			"value":"そこの建物からナッツを少しもらったけど\n全然足りなくてさ……"
+			"value":"I found some nuts in that building but I’m\nstill so hungry..."
 		},
 		{
 			"key":"EP07_S1822_0027",
-			"value":"食べ物が欲しいんだな？\nそれならこのナッツ、食べる？"
+			"value":"You want something to eat?\nDo you want these nuts?"
 		},
 		{
 			"key":"EP07_S1822_0028",
-			"value":"！！！\nい、いただきます！"
+			"value":"Really? Yes, please!"
 		},
 		{
 			"key":"EP07_S1822_0029",
-			"value":"食べたー！"
+			"value":"It ate them all!"
 		},
 		{
 			"key":"EP07_S1822_0030",
-			"value":"あぐ……もぐもぐもぐ……\n――！！"
+			"value":"*munch* *munch* *munch*"
 		},
 		{
 			"key":"EP07_S1822_0031",
-			"value":"ばぐばぐばぐばぐ……！！\nもしゃ……もしゃ……もしゃ……！"
+			"value":"*om* *nom* *nom* Yum, yum!"
 		},
 		{
 			"key":"EP07_S1822_0032",
-			"value":"おいしー！\n……でも、まだ足りない"
+			"value":"So good! But I’m still hungry..."
 		},
 		{
 			"key":"EP07_S1822_0033",
-			"value":"う……今はこれ以上は持ってないよ"
+			"value":"Hmm... I can’t carry any more right now."
 		},
 		{
 			"key":"EP07_S1822_0034",
-			"value":"そうだ、なら僕たちの仲間になるか？"
+			"value":"But hang on. You could join us!"
 		},
 		{
 			"key":"EP07_S1822_0035",
-			"value":"勝手に食べ物を分けることはできないけど\n仲間となれば話は別だ"
+			"value":"We can’t just give you our food, but if you\njoined the group, that’d be different."
 		},
 		{
 			"key":"EP07_S1822_0036",
-			"value":"今日はたくさん味方がほしいんだ\nご飯あげるから、代わりに協力して！"
+			"value":"We need a lot of allies today.\nIf we feed you, will you help us?"
 		},
 		{
 			"key":"EP07_S1822_0037",
-			"value":"やる！　ご飯をくれるなら\n喜んで協力するよ！"
+			"value":"I will! For food, I’ll happily help!"
 		},
 		{
 			"key":"EP07_S1822_0038",
-			"value":"ぼくはベタモン\nよろしくね！！"
+			"value":"I’m Betamon. Nice to meet you!"
 		}
 	]
 }

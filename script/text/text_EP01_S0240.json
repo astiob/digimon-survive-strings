@@ -2,111 +2,111 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0240_0001",
-			"value":"う、うわ～っ！\nこっち来るなあ～～～～っ！！"
+			"value":"Shoo! Back off, dang it!"
 		},
 		{
 			"key":"EP01_S0240_0002",
-			"value":"お、おい……アレ！\nミノルがゴツモンに襲われてる！"
+			"value":"Look...over there! Minoru’s being attacked by\nGotsumon!"
 		},
 		{
 			"key":"EP01_S0240_0003",
-			"value":"どうする、タクマ！？"
+			"value":"What should we do, Takuma?!"
 		},
 		{
 			"key":"EP01_S0240_Q1",
-			"value":"（僕はどうすればいい……？）"
+			"value":"(Good question...)"
 		},
 		{
 			"key":"EP01_S0240_Q1_A1",
-			"value":"ミノルを助けよう！"
+			"value":"Save Minoru!"
 		},
 		{
 			"key":"EP01_S0240_Q1_A2",
-			"value":"逃げよう！"
+			"value":"Run away!"
 		},
 		{
 			"key":"EP01_S0240_Q1_A3",
-			"value":"まずは様子見だ……"
+			"value":"Watch and wait."
 		},
 		{
 			"key":"EP01_S0240_0004",
-			"value":"だよな～！\nさすがタクマだ！"
+			"value":"Yeah, that’s what I’m talking about, Takuma!"
 		},
 		{
 			"key":"EP01_S0240_0005",
-			"value":"ああ！　友達のピンチを\n放っとけるものか！"
+			"value":"Of course! I can’t just leave my friend to\nfight those things alone!"
 		},
 		{
 			"key":"EP01_S0240_0006",
-			"value":"……どうしよう？\n一匹ならまだしも、あの数はキツイよな？"
+			"value":"What should we do? A single Gotsumon is one\nthing, but can you take on that many?"
 		},
 		{
 			"key":"EP01_S0240_0007",
-			"value":"う～……わかんない"
+			"value":"Uhhh, I dunno..."
 		},
 		{
 			"key":"EP01_S0240_0008",
-			"value":"ここは……一旦、退くか"
+			"value":"In that case...let’s get out of here."
 		},
 		{
 			"key":"EP01_S0240_0009",
-			"value":"そうだね、タクマ\n慎重にいかないとね"
+			"value":"Good idea, Takuma. We better be careful with\nthese guys."
 		},
 		{
 			"key":"EP01_S0240_0010",
-			"value":"そうだな、少し様子を見てみよう\nミノルも今すぐ襲われるって感じでもないし……"
+			"value":"Hmm, let’s wait and see what happens.\nThey don’t seem to be going after Minoru..."
 		},
 		{
 			"key":"EP01_S0240_0023",
-			"value":"うん、ボクも様子を見た方がいいと思うよ"
+			"value":"I think you’re right. Let’s see what they do."
 		},
 		{
 			"key":"EP01_S0240_0011",
-			"value":"第一、あれから結構経ってるのに\nず～っとゴツモンに追われてたわけでもないよな？"
+			"value":"Do you think the Gotsumon have been chasing\nMinoru this whole time?"
 		},
 		{
 			"key":"EP01_S0240_0012",
-			"value":"一体、何があったんだ……？"
+			"value":"I wonder what happened?"
 		},
 		{
 			"key":"EP01_S0240_0013",
-			"value":"まず石のカタマリみたいなヤツだから\n真正面からぶつかっても危険だ"
+			"value":"It’s too dangerous to tackle something that\nstony thing head-on."
 		},
 		{
 			"key":"EP01_S0240_0014",
-			"value":"うまくタイミングを見て……\nあっ、まずい！　もう一匹現れた！"
+			"value":"Let’s look for the right time to...\nAhh shoot, another one just showed up!"
 		},
 		{
 			"key":"EP01_S0240_0015",
-			"value":"せええいっ！"
+			"value":"Hiyaaah!"
 		},
 		{
 			"key":"EP01_S0240_0016",
-			"value":"あっ、お前は……！"
+			"value":"Ah, you’re...!"
 		},
 		{
 			"key":"EP01_S0240_0017",
-			"value":"大丈夫か、ミノル！"
+			"value":"Are you okay, Minoru?!"
 		},
 		{
 			"key":"EP01_S0240_0018",
-			"value":"あいつ……ミノルを助けたぞ！？"
+			"value":"That one...saved him?"
 		},
 		{
 			"key":"EP01_S0240_0019",
-			"value":"あれはファルコモン！　知ってる！\n悪いやつじゃないぞ！"
+			"value":"Oh, I know him! That’s Falcomon!\nHe’s not like the bad ones!"
 		},
 		{
 			"key":"EP01_S0240_0020",
-			"value":"だから言っただろう\n俺は敵ではないと"
+			"value":"Now do you believe me? I told you I wasn’t\nyour foe."
 		},
 		{
 			"key":"EP01_S0240_0021",
-			"value":"うぅっ……う、疑って悪かったよ\nた、助けてっ……！"
+			"value":"Nnngh... All right, all right, I’m sorry for\ndoubting you! Just help me out, please!"
 		},
 		{
 			"key":"EP01_S0240_0022",
-			"value":"承知！　ミノルが助けを望むなら\n全力で応えよう！"
+			"value":"Understood! If you want my help, then my help\nis what you shall have!"
 		}
 	]
 }

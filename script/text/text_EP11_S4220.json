@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4220_0001",
-			"value":"タクマ！　タクマ、こっちに来て！"
+			"value":"Takuma! Over here, Takuma!"
 		},
 		{
 			"key":"EP11_S4220_0002",
-			"value":"どうしたんだ？\nまさか……！？"
+			"value":"What is it?\nWait, are those...?!"
 		},
 		{
 			"key":"EP11_S4220_0003",
-			"value":"ほらこれ！　足跡！"
+			"value":"Here, look! Footprints!"
 		},
 		{
 			"key":"EP11_S4220_0004",
-			"value":"これってカイトとドラクモン……？"
+			"value":"Could these belong to Kaito and Dracmon...?"
 		},
 		{
 			"key":"EP11_S4220_0005",
-			"value":"この特徴的な足跡……！\nよかった。学校の近くまで来てたんだ"
+			"value":"These are pretty distinctive footprints!\nGood, they’re close to the school..."
 		},
 		{
 			"key":"EP11_S4220_0006",
-			"value":"うん……でも、ちょっと変なんだ\n向かっている方向が逆……？"
+			"value":"Yeah... But this is weird. They’re heading\nin the wrong direction..."
 		},
 		{
 			"key":"EP11_S4220_0007",
-			"value":"たしかに……学校と\n反対方向に向かってる"
+			"value":"Yeah, you’re right...\nThe school is the other way."
 		},
 		{
 			"key":"EP11_S4220_0008",
-			"value":"日が暮れて道に迷った……とか"
+			"value":"Maybe the sun went down and he got lost\nor something."
 		},
 		{
 			"key":"EP11_S4220_0009",
-			"value":"ドラクモンがいるのに？"
+			"value":"With Dracmon by his side? I don’t think so."
 		},
 		{
 			"key":"EP11_S4220_0010",
-			"value":"そうだよな……じゃあ、なぜ？\n何か見つけて、一人で行ったとでも……？"
+			"value":"Oh, right... Well why, then?\nMaybe he went looking for something?"
 		},
 		{
 			"key":"EP11_S4220_0011",
-			"value":"（……何だか嫌な予感がする\nみんなを呼んで追いかけよう）"
+			"value":"(...I’ve got a bad feeling about this.\nI’d better get everyone after him.)"
 		}
 	]
 }

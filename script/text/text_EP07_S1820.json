@@ -2,199 +2,199 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1820_0001",
-			"value":"あそこだ、タクマ！\n変な気配の元、あいつだー！"
+			"value":"Takuma, there! That’s it! That’s the source\nof the weird feeling!"
 		},
 		{
 			"key":"EP07_S1820_0002",
-			"value":"う、うわぁ！\nなんやねん、自分！"
+			"value":"Ahhh... AAAAAAH! What’s going on, y’all?"
 		},
 		{
 			"key":"EP07_S1820_0003",
-			"value":"（か、関西弁！？）"
+			"value":"(A country accent?)"
 		},
 		{
 			"key":"EP07_S1820_0004",
-			"value":"ワテはただ、通りがかっただけやさかい！\nほっといてんか！"
+			"value":"I’m just passing through, y’all! Leave me be!"
 		},
 		{
 			"key":"EP07_S1820_0005",
-			"value":"（襲ってこない……？　敵じゃないのか）"
+			"value":"(It’s not attacking? Not an enemy?)"
 		},
 		{
 			"key":"EP07_S1820_0006",
-			"value":"（だったらうまく話せば\n　味方になってくれるかも？）"
+			"value":"(It might be friendly if we say the right\nthing.)"
 		},
 		{
 			"key":"EP07_S1820_0007",
-			"value":"あ、あのさ！"
+			"value":"Hey there!"
 		},
 		{
 			"key":"EP07_S1820_Q1",
-			"value":"（あのテントモンをどう説得しよう？）"
+			"value":"(How can I make Tentomon understand?)"
 		},
 		{
 			"key":"EP07_S1820_Q2",
-			"value":"僕たちと一緒に来ない？"
+			"value":"Come with us?"
 		},
 		{
 			"key":"EP07_S1820_Q3",
-			"value":"ここにいたら危ないよ"
+			"value":"It’s dangerous here."
 		},
 		{
 			"key":"EP07_S1820_Q4",
-			"value":"こっちに来るな！"
+			"value":"Stay back!"
 		},
 		{
 			"key":"EP07_S1820_0008",
-			"value":"僕たちと一緒に来ない？"
+			"value":"Come with us?"
 		},
 		{
 			"key":"EP07_S1820_0009",
-			"value":"僕たちと一緒に来ない！？"
+			"value":"Do you wanna come with is?"
 		},
 		{
 			"key":"EP07_S1820_0010",
-			"value":"はぁ？\nあんさん急に何言い出すんや？"
+			"value":"What? What do y’all mean by that?"
 		},
 		{
 			"key":"EP07_S1820_0011",
-			"value":"え、えーっと……僕たち、これから\n大きな戦いに向かうところなんだ"
+			"value":"It’s just...\nWe’re heading to a big fight now."
 		},
 		{
 			"key":"EP07_S1820_0012",
-			"value":"一人でも戦力が欲しいっていうか\n味方になってくれたらうれしいっていうか……"
+			"value":"We really need help, and I was hoping you\nmight join us..."
 		},
 		{
 			"key":"EP07_S1820_0013",
-			"value":"ご、ごめん、僕からしてほしいことばっかりで\nこれじゃ交渉になってないよね"
+			"value":"Wait, sorry. I know you have no reason to do\na stranger any favors, but..."
 		},
 		{
 			"key":"EP07_S1820_0014",
-			"value":"……ええで"
+			"value":"Fine by me."
 		},
 		{
 			"key":"EP07_S1820_0015",
-			"value":"そうだよね、いいわけない……"
+			"value":"That’s okay, I knew it was a long shot..."
 		},
 		{
 			"key":"EP07_S1820_0016",
-			"value":"……えっ！？　いいの！？"
+			"value":"Wait, what?! Are you sure?"
 		},
 		{
 			"key":"EP07_S1820_0017",
-			"value":"ええで\n丁度誰かと一緒にいたいと思っとったんや"
+			"value":"Fine by me. I was just feelin’ lonesome,\nmyself."
 		},
 		{
 			"key":"EP07_S1820_0018",
-			"value":"食料調達やら安全確保やら\n一人やと何かと不便なんですわ"
+			"value":"It’s hard trying to scare up food and safety\nall on your own."
 		},
 		{
 			"key":"EP07_S1820_0019",
-			"value":"それとな、ワテ、ここに住んで長い連中とは\nどうもソリが合わへんねん"
+			"value":"And the folks I’d been living here with since\nforever have started bein’ disagreeable."
 		},
 		{
 			"key":"EP07_S1820_0020",
-			"value":"なんや暴力的で悪だくみして\n気に入らんことあったら怒鳴り散らして……"
+			"value":"Gettin’ all violent and stuff.\nAnd they get mad at the drop of a hat."
 		},
 		{
 			"key":"EP07_S1820_0021",
-			"value":"それに対してあんさんたちのそのまっすぐな頼み方\n裏表のなさそうな顔！"
+			"value":"And I kinda like how y’all are straight with\nme. No lies on y’all’s face!"
 		},
 		{
 			"key":"EP07_S1820_0022",
-			"value":"気に入りましたわ！\nワテはあんさんらについてく！"
+			"value":"I like y’all! I’ll go with y’all, sure!"
 		},
 		{
 			"key":"EP07_S1820_0023",
-			"value":"わあ……素直に言ってよかったね、タクマ！"
+			"value":"Good job, Takuma. Honesty worked!"
 		},
 		{
 			"key":"EP07_S1820_0024",
-			"value":"そうだね\nよろしく"
+			"value":"I guess so. Nice to meet you!"
 		},
 		{
 			"key":"EP07_S1820_0025",
-			"value":"ワテはテントモン\nあんじょう頼んまっせ！"
+			"value":"Name’s Tentomon.\nNice to meet y’all!"
 		},
 		{
 			"key":"EP07_S1820_0026",
-			"value":"ここにいたら危ないよ"
+			"value":"It’s dangerous here."
 		},
 		{
 			"key":"EP07_S1820_0027",
-			"value":"ここにいたら危ないよ！\n敵のケモノに襲われるかもしれない"
+			"value":"It’s dangerous to stay here.\nThe enemy might attack at any moment!"
 		},
 		{
 			"key":"EP07_S1820_0028",
-			"value":"敵って誰やねん！\nあんさんら、ナニモンや！？"
+			"value":"Enemy? What are y’all on about?\nWho are y’all, anyways?"
 		},
 		{
 			"key":"EP07_S1820_0029",
-			"value":"ナニモン……って言われると\n人間なんだけど"
+			"value":"Who? I’m just a human."
 		},
 		{
 			"key":"EP07_S1820_0030",
-			"value":"いきなりぽっと現れたニンゲンに\n危険やなんや言われて信用できるかいな"
+			"value":"And I’m supposed to trust a hew-mun who just\npops out, shoutin’ at me?"
 		},
 		{
 			"key":"EP07_S1820_0031",
-			"value":"うっ……そ、そうだよね"
+			"value":"Oh...yeah. I guess I can’t blame you."
 		},
 		{
 			"key":"EP07_S1820_0032",
-			"value":"なんやわからんが失礼させてもらいます！\nほな！"
+			"value":"Forget y’all. I’m seeing myself out!"
 		},
 		{
 			"key":"EP07_S1820_0033",
-			"value":"行っちゃった……"
+			"value":"There he goes..."
 		},
 		{
 			"key":"EP07_S1820_0034",
-			"value":"（うーん、もうちょっと上手く説得できたら\n　違う結果になってたかもな……）"
+			"value":"(That might have gone better if I’d used\na different approach...)"
 		},
 		{
 			"key":"EP07_S1820_0035",
-			"value":"こっちに来るな！"
+			"value":"Stay back!"
 		},
 		{
 			"key":"EP07_S1820_0036",
-			"value":"あ、あの……"
+			"value":"Um..."
 		},
 		{
 			"key":"EP07_S1820_0037",
-			"value":"（待てよ、あいつはケモノだぞ？）"
+			"value":"(Hang on! That’s a creature too?)"
 		},
 		{
 			"key":"EP07_S1820_0038",
-			"value":"（人間と一緒にいるわけでもないし\n　敵じゃないと決まったわけじゃ……）"
+			"value":"(It’s all alone. It can’t be an enemy...)"
 		},
 		{
 			"key":"EP07_S1820_0039",
-			"value":"なんやねん、声かけておいて\nいきなり黙りこくって……"
+			"value":"What are y’all shouting about?\nNo reason to be angry..."
 		},
 		{
 			"key":"EP07_S1820_0040",
-			"value":"うわぁ！？\nこ、こっちに来るな！"
+			"value":"No! Stay back!"
 		},
 		{
 			"key":"EP07_S1820_0041",
-			"value":"失礼なやっちゃな！"
+			"value":"Y’all are rude!"
 		},
 		{
 			"key":"EP07_S1820_0042",
-			"value":"あんさんみたいな怪しいニンゲンになんか\n言われんでも近寄らんわ！"
+			"value":"I don’t like some weird hew-mun telling me to\nstay back!"
 		},
 		{
 			"key":"EP07_S1820_0043",
-			"value":"い、行っちゃった……"
+			"value":"He left..."
 		},
 		{
 			"key":"EP07_S1820_0044",
-			"value":"ボクたち、怪しいのかな？"
+			"value":"We were the weird ones?"
 		},
 		{
 			"key":"EP07_S1820_0045",
-			"value":"どうだろう……ともあれ\n悪いことしちゃったな"
+			"value":"I wonder...but I think I screwed up."
 		}
 	]
 }

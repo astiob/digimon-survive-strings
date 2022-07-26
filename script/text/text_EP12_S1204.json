@@ -2,211 +2,211 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S1204_0001",
-			"value":"ハァッ、ハァッ、ハァッ……！"
+			"value":"*huff* *huff* *puff*"
 		},
 		{
 			"key":"EP12_S1204_0002",
-			"value":"シャコモン、苦しそう……！"
+			"value":"Syakomon, you don’t look so good..."
 		},
 		{
 			"key":"EP12_S1204_0003",
-			"value":"シャコモン、下がって！\nもう無理だよ！"
+			"value":"Syakomon, get back! This is too much!"
 		},
 		{
 			"key":"EP12_S1204_0004",
-			"value":"ううん、平気……\n私、まだやれるから……"
+			"value":"No, I’m fine! I can keep fighting!"
 		},
 		{
 			"key":"EP12_S1204_0005",
-			"value":"シェ、シェル～……"
+			"value":"Sh-sheeelll..."
 		},
 		{
 			"key":"EP12_S1204_0006",
-			"value":"シェルモン、苦しそう……！"
+			"value":"Shellmon, you don’t look so good..."
 		},
 		{
 			"key":"EP12_S1204_0007",
-			"value":"シェルモン、下がって！\nもう無理だよ！"
+			"value":"Shellmon, get back! This is too much!"
 		},
 		{
 			"key":"EP12_S1204_0008",
-			"value":"平気、まだやれる……！"
+			"value":"It’s okay, I can still fight!"
 		},
 		{
 			"key":"EP12_S1204_0009",
-			"value":"はぁっ、はぁっ……！"
+			"value":"*huff* *huff*...!"
 		},
 		{
 			"key":"EP12_S1204_0010",
-			"value":"マーメイモン、苦しそう……！"
+			"value":"Mermaimon, you don’t look so good..."
 		},
 		{
 			"key":"EP12_S1204_0011",
-			"value":"マーメイモン、下がって！\nもう無理だよ！"
+			"value":"Mermaimon, get back! This is too much!"
 		},
 		{
 			"key":"EP12_S1204_0012",
-			"value":"へへ……このくらい、どうってことないよ\nパーティーはまだ始まったばかりじゃないか……"
+			"value":"Heheh, this is nothing! The party’s just\ngetting started!"
 		},
 		{
 			"key":"EP12_S1204_0013",
-			"value":"ぴぃ、ぴぃぃ～……"
+			"value":"Peep, peeep!"
 		},
 		{
 			"key":"EP12_S1204_0014",
-			"value":"マリンエンジェモン、苦しそう……！"
+			"value":"MarineAngemon, you don’t look so good..."
 		},
 		{
 			"key":"EP12_S1204_0015",
-			"value":"マリンエンジェモン、下がって！\nもう無理だよ！"
+			"value":"MarineAngemon, get back! This is too much!"
 		},
 		{
 			"key":"EP12_S1204_0016",
-			"value":"ぴぃぷぅ！\n（平気平気！）"
+			"value":"Peep pyu!\n(I’m fine!)"
 		},
 		{
 			"key":"EP12_S1204_0017",
-			"value":"ぬ……\nまだ、敵は倒れぬ、か……"
+			"value":"Ngh... Still the enemy does not fall?"
 		},
 		{
 			"key":"EP12_S1204_0018",
-			"value":"チンロンモン、苦しそう……！"
+			"value":"Azulongmon, you don’t look so good..."
 		},
 		{
 			"key":"EP12_S1204_0019",
-			"value":"チンロンモン、下がって！\nもう無理だよ！"
+			"value":"Azulongmon, get back! This is too much!"
 		},
 		{
 			"key":"EP12_S1204_0020",
-			"value":"この世界の守護たる我が退くわけにはいかぬ\nまして、我が相棒も立ち向かっているとなれば"
+			"value":"I am a defender of this world! I will not\nfall back. Not while my partner stands firm."
 		},
 		{
 			"key":"EP12_S1204_0021",
-			"value":"だけど……！！"
+			"value":"But I don’t want to lose you..."
 		},
 		{
 			"key":"EP12_S1204_0022",
-			"value":"ミウ、あともう一踏ん張りだ！"
+			"value":"Miu, we’ve almost got this!"
 		},
 		{
 			"key":"EP12_S1204_0023",
-			"value":"ジジモンもミウを見守っているぞ！"
+			"value":"Don’t forget, Jijimon is watching over you!"
 		},
 		{
 			"key":"EP12_S1204_0024",
-			"value":"……っ！　ジジモン……！"
+			"value":"...Jijimon!"
 		},
 		{
 			"key":"EP12_S1204_0025",
-			"value":"そうよ、ミウ\nミウ一人の問題じゃないわ"
+			"value":"That’s right, Miu! You’re not just in this\nfor yourself!"
 		},
 		{
 			"key":"EP12_S1204_0026",
-			"value":"ミウはね、ジジモンの意思を背負っているのよ"
+			"value":"You’ve got Jijimon’s wishes to honor as well!"
 		},
 		{
 			"key":"EP12_S1204_0027",
-			"value":"そう、ジジモン、みんな！"
+			"value":"That’s right! Everyone, not just Jijimon!"
 		},
 		{
 			"key":"EP12_S1204_0028",
-			"value":"みんな、ミウ、応援してる！"
+			"value":"Everyone’s rooting for you, Miu!"
 		},
 		{
 			"key":"EP12_S1204_0029",
-			"value":"そうさ、ミウ\nアタシたちは、いろんなモンを背負って戦ってる"
+			"value":"That’s right, Miu. There’s a lot we need to\naccomplish in this fight."
 		},
 		{
 			"key":"EP12_S1204_0030",
-			"value":"だから、負けられないんだよ。ジジモンたちにも\n胸張って言える戦いをしようじゃないか"
+			"value":"So we can’t afford to lose. Let’s make this\nbattle something Jijimon would be proud of!"
 		},
 		{
 			"key":"EP12_S1204_0031",
-			"value":"ぴいぴぃ、ぴぃぷぅ\n（みんな、ミウの帰りを待ってるよ）"
+			"value":"Peepeep, peep pyu.\n(Everyone wants you to come back, Miu.)"
 		},
 		{
 			"key":"EP12_S1204_0032",
-			"value":"ぴぃぴぃぷう、ぴぃぷう？\n（そうだ、ジジモンにも、おみやげ持っていこ？）"
+			"value":"Peepeep pyu, peep pyu?\n(Why don’t we bring Jijimon a souvenir?)"
 		},
 		{
 			"key":"EP12_S1204_0033",
-			"value":"汝らはもはや、ただのマレビトではない\nこの世界で汝らを大切に思う者たちがいるのだ"
+			"value":"You are no longer just a visitor from another\nworld. There are those here who care for you."
 		},
 		{
 			"key":"EP12_S1204_0034",
-			"value":"ジジモンをはじめ、多くの者たちが\n汝らの勝利と、帰還を願っているのだ"
+			"value":"Jijimon and many others are wishing for you\nto triumph and return home."
 		},
 		{
 			"key":"EP12_S1204_0035",
-			"value":"ジジモンの……"
+			"value":"Jijimon..."
 		},
 		{
 			"key":"EP12_S1204_0036",
-			"value":"そう、だよね……逃げちゃいけない……\nジジモンのために、その仲間たちのために――"
+			"value":"You’re right... We can’t just run. We need to\ndo this! For Jijimon, for all the others..."
 		},
 		{
 			"key":"EP12_S1204_0037",
-			"value":"なによりも、ウチら自身のために！"
+			"value":"...and most importantly, for ourselves!"
 		},
 		{
 			"key":"EP12_S1204_0038",
-			"value":"うんっ！"
+			"value":"Right!"
 		},
 		{
 			"key":"EP12_S1204_0039",
-			"value":"シャコモン、やるよ！！"
+			"value":"Let’s do this, Syakomon!"
 		},
 		{
 			"key":"EP12_S1204_0040",
-			"value":"まかせて、ミウ！！"
+			"value":"Leave it to me, Miu!"
 		},
 		{
 			"key":"EP12_S1204_0041",
-			"value":"おうっ！"
+			"value":"You said it!"
 		},
 		{
 			"key":"EP12_S1204_0042",
-			"value":"シェルモン、やるよ！"
+			"value":"Let’s do this, Shellmon!"
 		},
 		{
 			"key":"EP12_S1204_0043",
-			"value":"ミウ、まかせろ！！"
+			"value":"Leave it to me, Miu!"
 		},
 		{
 			"key":"EP12_S1204_0044",
-			"value":"ああ、その意気さ！"
+			"value":"That’s the spirit!"
 		},
 		{
 			"key":"EP12_S1204_0045",
-			"value":"マーメイモン、やるよ！！"
+			"value":"Let’s do this, Mermaimon!"
 		},
 		{
 			"key":"EP12_S1204_0046",
-			"value":"ああ。アタシたちの本気を見せるよ、ミウ！！"
+			"value":"You got it. Time to show what we’re made of!"
 		},
 		{
 			"key":"EP12_S1204_0047",
-			"value":"ぴぃ！\n（うんっ！）"
+			"value":"Peep!\n(Right!)"
 		},
 		{
 			"key":"EP12_S1204_0048",
-			"value":"マリンエンジェモン、やるよ！！"
+			"value":"Let’s do this, MarineAngemon!"
 		},
 		{
 			"key":"EP12_S1204_0049",
-			"value":"ぴぃぷうっ！！\n（まかせて、ミウ！！）"
+			"value":"Peep pyuu!!!\n(Leave it to me, Miu!!!)"
 		},
 		{
 			"key":"EP12_S1204_0050",
-			"value":"……その通りだ。今や「我ら」であったな"
+			"value":"...Precisely. It’s “us” now."
 		},
 		{
 			"key":"EP12_S1204_0051",
-			"value":"チンロンモン、やるよ！！"
+			"value":"Let’s do this, Azulongmon!"
 		},
 		{
 			"key":"EP12_S1204_0052",
-			"value":"心得た、我が相棒・ミウよ！\n今こそ我が力を示さん！！"
+			"value":"As you wish, my partner, Miu! Witness my\npower!!!"
 		}
 	]
 }

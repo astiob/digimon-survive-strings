@@ -2,87 +2,87 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1010_0001",
-			"value":"あ、アオイさんとサキだ\n食料の準備をしてくれてるのか"
+			"value":"Hey there Aoi, Saki. Getting our things\nready?"
 		},
 		{
 			"key":"EP07_S1010_0002",
-			"value":"ごっはん、ごはん～♪"
+			"value":"Food, food, yummy food!"
 		},
 		{
 			"key":"EP07_S1010_0003",
-			"value":"あ、つまみ食いはダメだからね"
+			"value":"Hey, no snacking!"
 		},
 		{
 			"key":"EP07_S1010_0004",
-			"value":"してないわよ～"
+			"value":"I’m not!"
 		},
 		{
 			"key":"EP07_S1010_0005",
-			"value":"あれ？\nナッツの袋が少なくない？"
+			"value":"Hm? Is this bag low on nuts all of a sudden?"
 		},
 		{
 			"key":"EP07_S1010_0006",
-			"value":"あら、本当ね\n誰か食べたのかな？"
+			"value":"Oh, you’re right. Maybe someone ate some?"
 		},
 		{
 			"key":"EP07_S1010_0007",
-			"value":"わ、私じゃないわよ～？"
+			"value":"Don’t look at me!"
 		},
 		{
 			"key":"EP07_S1010_0008",
-			"value":"別に疑ってるわけじゃ……"
+			"value":"I never said I suspected you."
 		},
 		{
 			"key":"EP07_S1010_0009",
-			"value":"私でもないよ？"
+			"value":"It wasn’t me either."
 		},
 		{
 			"key":"EP07_S1010_0010",
-			"value":"うん、わかってるよ"
+			"value":"Yeah, I can see that."
 		},
 		{
 			"key":"EP07_S1010_0011",
-			"value":"あれ、タクマ？\nそんなところで何やってんの？"
+			"value":"Huh? Takuma? What are you doing there?"
 		},
 		{
 			"key":"EP07_S1010_0012",
-			"value":"いや、たまたま通りがかって……"
+			"value":"I was just passing by..."
 		},
 		{
 			"key":"EP07_S1010_0013",
-			"value":"まさか、なくなってるナッツって\nタクマが食べちゃったんじゃないの？"
+			"value":"Wait. Was it you who ate the missing nuts?"
 		},
 		{
 			"key":"EP07_S1010_0014",
-			"value":"ええ！？　ち、違うよ！"
+			"value":"What? No way!"
 		},
 		{
 			"key":"EP07_S1010_0015",
-			"value":"タクマくんはそんなことする人じゃ……"
+			"value":"It seems like something you’d do..."
 		},
 		{
 			"key":"EP07_S1010_0016",
-			"value":"あはは、冗談よ、冗談！\nそんなに真に受けないでよ"
+			"value":"Ahaha, I’m just kidding!\nDon’t be so serious!"
 		},
 		{
 			"key":"EP07_S1010_0017",
-			"value":"な、なんだよ、もう……"
+			"value":"Always joking..."
 		},
 		{
 			"key":"EP07_S1010_0018",
-			"value":"ちょっとからかっただけだよ\n気に障ったなら……そうだ"
+			"value":"I was just teasing. Don’t take it the wrong\nway... Oh!"
 		},
 		{
 			"key":"EP07_S1010_0019",
-			"value":"お詫びに、残ってるナッツあげる\nタクマが持ってて"
+			"value":"Have the rest of the nuts as an apology.\nGo on, Takuma, take them."
 		},
 		{
 			"key":"EP07_S1010_0020",
-			"value":"どうせ一袋じゃみんなに行き渡らないし\n特別ね、ふふ"
+			"value":"We don’t need to add that bag to the pile\nanyway, so it’s special, just for you. Heh!"
 		},
 		{
 			"key":"EP07_S1010_0021",
-			"value":"（美味しそうだな……\n　せっかくもらったんだ、必要な時に使おう）"
+			"value":"(They look good... Since they were a gift,\nlet me save ‘em for when I need ‘em."
 		}
 	]
 }

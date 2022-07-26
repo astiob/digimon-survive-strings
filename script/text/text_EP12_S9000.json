@@ -1,108 +1,108 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP12_S9000_0001",
-            "value": "――この力……この力ぞ……！"
-        },
-        {
-            "key": "EP12_S9000_0002",
-            "value": "この力があれば、我を捨てた一族どもに……！"
-        },
-        {
-            "key": "EP12_S9000_0003",
-            "value": "そんな、まさか……！！\n何たること……"
-        },
-        {
-            "key": "EP12_S9000_0004",
-            "value": "いけませぬ、そんな――\nハルチカ殿！！"
-        },
-        {
-            "key": "EP12_S9000_0005",
-            "value": "彼奴を止めるのです、ハルチカ殿！！！"
-        },
-        {
-            "key": "EP12_S9000_0006",
-            "value": "……もはや遅し！"
-        },
-        {
-            "key": "EP12_S9000_0007",
-            "value": "おぬしら……"
-        },
-        {
-            "key": "EP12_S9000_0008",
-            "value": "お願いです、ハルチカ様！\nお気をお鎮めくだされ！"
-        },
-        {
-            "key": "EP12_S9000_0009",
-            "value": "このままでは……\n我らとて、黙って見てるだけとはいきませぬぞ？"
-        },
-        {
-            "key": "EP12_S9000_0010",
-            "value": "フン……\n今更、貴様らの言葉など詮なきこと……"
-        },
-        {
-            "key": "EP12_S9000_0011",
-            "value": "ほうれ……我が同胞<space=-2em><voffset=1em><size=50%><mspace=1em>はらから</mspace></size></voffset><space=0em>は\n既に斯様なものよ"
-        },
-        {
-            "key": "EP12_S9000_0012",
-            "value": "グォオオオオオオオオオオッ！！！！"
-        },
-        {
-            "key": "EP12_S9000_0013",
-            "value": "なんたる……なんたることを……！"
-        },
-        {
-            "key": "EP12_S9000_0014",
-            "value": "……喰らえ、喰らいつくし\n暗黒が力……その身に宿すべし！"
-        },
-        {
-            "key": "EP12_S9000_0015",
-            "value": "この――我の肉を喰らうのだ！！！！"
-        },
-        {
-            "key": "EP12_S9000_0016",
-            "value": "グォオオオオオオオオオオオオオオオッ！！！！"
-        },
-        {
-            "key": "EP12_S9000_0017",
-            "value": "ああ……ハルチカ殿……！！！"
-        },
-        {
-            "key": "EP12_S9000_0018",
-            "value": "皆の者……どうする！？\nこのままだと彼奴は……！！！"
-        },
-        {
-            "key": "EP12_S9000_0019",
-            "value": "や、やるしかないのか……！？"
-        },
-        {
-            "key": "EP12_S9000_0020",
-            "value": "うむ……如何にハルチカ様と合一しようと\n邪悪な者など放っておけぬ！！"
-        },
-        {
-            "key": "EP12_S9000_0021",
-            "value": "グォオオオオオオオオオオオオオオオッ！！！！"
-        },
-        {
-            "key": "EP12_S9000_0022",
-            "value": "フシュルルルルル……！！！"
-        },
-        {
-            "key": "EP12_S9000_0023",
-            "value": "ククク……ハハハハハハハハハハ……！\n我ヲ生ケ贄ヘト追イ落トシタ姉上トソノ一族……！"
-        },
-        {
-            "key": "EP12_S9000_0024",
-            "value": "否、世界そのものを……この手で！"
-        },
-        {
-            "key": "EP12_S9000_0025",
-            "value": "この怒りと憎しみの尽きるまで\n灰燼にせん……！"
-        },
-        {
-            "key": "EP12_S9000_0026",
-            "value": "グォオオオオオオオオオオオオオオオッ！！！！"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP12_S9000_0001",
+			"value":"Yes, this is it! This is the power I need!"
+		},
+		{
+			"key":"EP12_S9000_0002",
+			"value":"With it, I can take my revenge on that\nwretched clan that threw me away!"
+		},
+		{
+			"key":"EP12_S9000_0003",
+			"value":"You cannot mean it! It’s unspeakable!"
+		},
+		{
+			"key":"EP12_S9000_0004",
+			"value":"No, Master Haruchika, you mustn’t!"
+		},
+		{
+			"key":"EP12_S9000_0005",
+			"value":"We will stop you, Master Haruchika!!!"
+		},
+		{
+			"key":"EP12_S9000_0006",
+			"value":"It’s too late!"
+		},
+		{
+			"key":"EP12_S9000_0007",
+			"value":"Can’t you see that?"
+		},
+		{
+			"key":"EP12_S9000_0008",
+			"value":"Please, Master Haruchika! Calm yourself!"
+		},
+		{
+			"key":"EP12_S9000_0009",
+			"value":"If you refuse to turn aside, we will not\nstand idly by!"
+		},
+		{
+			"key":"EP12_S9000_0010",
+			"value":"Hmph... Say what you will. Your words will\nnot avail you now."
+		},
+		{
+			"key":"EP12_S9000_0011",
+			"value":"Behold the form my companion already has\ntaken on."
+		},
+		{
+			"key":"EP12_S9000_0012",
+			"value":"Graaaaaaaaawr!"
+		},
+		{
+			"key":"EP12_S9000_0013",
+			"value":"Oh, it’s unspeakable... What have you done?"
+		},
+		{
+			"key":"EP12_S9000_0014",
+			"value":"Now feast! Feast until you can feast no more!\nDarkness is power! It shall dwell within you!"
+		},
+		{
+			"key":"EP12_S9000_0015",
+			"value":"Feast upon...my flesh!!!"
+		},
+		{
+			"key":"EP12_S9000_0016",
+			"value":"GRAAAAAAAAAAAAAAAAAAAAAAAAWR!!!"
+		},
+		{
+			"key":"EP12_S9000_0017",
+			"value":"No! Master Haruchika!!!"
+		},
+		{
+			"key":"EP12_S9000_0018",
+			"value":"What are we to do?! This cannot go on!!!"
+		},
+		{
+			"key":"EP12_S9000_0019",
+			"value":"Have we no choice but to fight?!"
+		},
+		{
+			"key":"EP12_S9000_0020",
+			"value":"Indeed. Loathe as I am to oppose Master\nHaruchika, this evil must not be unleashed!!!"
+		},
+		{
+			"key":"EP12_S9000_0021",
+			"value":"GRAAAAAAAAAAAAAAAAAAAAAAAAWR!!!"
+		},
+		{
+			"key":"EP12_S9000_0022",
+			"value":"Grrrrrr...!!!"
+		},
+		{
+			"key":"EP12_S9000_0023",
+			"value":"Heheheh... Hahahahahahaha! I will visit\ncomplete destruction upon them!"
+		},
+		{
+			"key":"EP12_S9000_0024",
+			"value":"My sister, who offered me as a sacrifice, and\nall her cursed clan, no the entire world..."
+		},
+		{
+			"key":"EP12_S9000_0025",
+			"value":"...I will tear them down with my own hands,\nuntil my rage and hatred have been sated!"
+		},
+		{
+			"key":"EP12_S9000_0026",
+			"value":"GRAAAAAAAAAAAAAAAAAAAAAAAAWR!!!"
+		}
+	]
 }

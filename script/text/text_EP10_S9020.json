@@ -2,175 +2,175 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9020_0001",
-			"value":"二人ともおっせーよ！\nまた何か事件に巻き込まれたのかと思ったぜ"
+			"value":"Well, you two sure took your time. I thought\nyou were goners for sure."
 		},
 		{
 			"key":"EP10_S9020_0002",
-			"value":"ごめんなさい、この前の戦いで壊れた場所の修理を\n手伝っていたら、時間がかかってしまって……"
+			"value":"Sorry, we got caught up in helping out with\nthe repairs after our last fight."
 		},
 		{
 			"key":"EP10_S9020_0003",
-			"value":"そんなの、後でゆっくりやればいいじゃねぇか\n今生の別れってわけじゃないだろ？"
+			"value":"What?! That’s the kinda thing you can do any\ntime! It’s hardly life or death, now is it?"
 		},
 		{
 			"key":"EP10_S9020_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S9020_0005",
-			"value":"……だろ？\nなぁおい、黙るなって……"
+			"value":"Hey, don’t just clam up on me. Answer the\nquestion!"
 		},
 		{
 			"key":"EP10_S9020_0006",
-			"value":"（ここを発った僕たちが、再びここに\n　戻ってこられるかはわからない）"
+			"value":"(After we leave here, there’s no guarantee\nwe’ll ever come back.)"
 		},
 		{
 			"key":"EP10_S9020_0007",
-			"value":"（アオイさんもリョウも、きっとそれはわかっている\n　二人の気持ちは痛いほどわかる）"
+			"value":"(Aoi and Ryo both know that, and it’s\npainfully clear what they’re both thinking.)"
 		},
 		{
 			"key":"EP10_S9020_0008",
-			"value":"ところで、おぬしたち\n次はどこに向かうか、決めたのかの？"
+			"value":"Incidentally, have you all considered where\nyou’ll be going next?"
 		},
 		{
 			"key":"EP10_S9020_0009",
-			"value":"先ほど、教授とも相談したのですが\n北へ向かうのが先決だろうと考えています"
+			"value":"We talked things over with the Professor, and\ndecided our best bet is to head north."
 		},
 		{
 			"key":"EP10_S9020_0010",
-			"value":"今まで集めた情報によると、霧による浸食は\n北が一番進んでいるそうです"
+			"value":"From what we’ve been able to determine,\nthat’s where the fog is at its thickest."
 		},
 		{
 			"key":"EP10_S9020_0011",
-			"value":"四聖獣が霧の影響を受けるのかはわからないが\n彼らに接触する方法が失われては困るからね"
+			"value":"We’re not sure how it will affect the Four\nSovereign Monsters, but we can’t lose contact."
 		},
 		{
 			"key":"EP10_S9020_0012",
-			"value":"海の向こうか。くれぐれも、気をつけてのぅ\nなぁに、大丈夫じゃよ"
+			"value":"So you will cross the sea. Make sure you\nexercise all due caution!"
 		},
 		{
 			"key":"EP10_S9020_0013",
-			"value":"四聖獣はきっと\nおぬしらに力を貸してくれるはずじゃ"
+			"value":"Yet I’m confident you will succeed in gaining\nthe aid of the Four Sovereign Monsters."
 		},
 		{
 			"key":"EP10_S9020_0014",
-			"value":"だといいんですが……"
+			"value":"I certainly hope so."
 		},
 		{
 			"key":"EP10_S9020_0015",
-			"value":"心配せんでもいい\nおぬしたちはきっとうまくやれる"
+			"value":"Come, come, do not fear. I’m sure you’ll all\nbe fine."
 		},
 		{
 			"key":"EP10_S9020_0016",
-			"value":"ただの勘じゃがの\nしかし、ワシは鋭いのでな"
+			"value":"True, I may only have an intuition, but I’ve\nfound my instincts to generally be correct."
 		},
 		{
 			"key":"EP10_S9020_0017",
-			"value":"はい！　必ずやり遂げてみせます！"
+			"value":"Yeah! We’ll make sure you’re right about\nthis, at least."
 		},
 		{
 			"key":"EP10_S9020_Q1",
-			"value":"（ジジモンに何て言おう）"
+			"value":"(What do I say to Jijimon?)"
 		},
 		{
 			"key":"EP10_S9020_Q1_A1",
-			"value":"世界を救う為に！"
+			"value":"We’ll save the world!"
 		},
 		{
 			"key":"EP10_S9020_Q1_A2",
-			"value":"ミユキを救う為に！"
+			"value":"We’ll rescue Miyuki!"
 		},
 		{
 			"key":"EP10_S9020_Q1_A3",
-			"value":"主を止める為に！"
+			"value":"We’ll stop the Master!"
 		},
 		{
 			"key":"EP10_S9020_0018",
-			"value":"世界を救う為に！"
+			"value":"We'll save the world!"
 		},
 		{
 			"key":"EP10_S9020_0019",
-			"value":"ミユキを主から取り戻す為に！"
+			"value":"We'll get Miyuki back from the Master!"
 		},
 		{
 			"key":"EP10_S9020_0020",
-			"value":"主を止める為に！"
+			"value":"We'll stop the Master!"
 		},
 		{
 			"key":"EP10_S9020_0021",
-			"value":"（この時、僕は自然と前向きな言葉を返せた\n　ジジモンの言葉に乗せられたのか、それとも……）"
+			"value":"(Such positive words came naturally. I wonder\nif that’s because of what Jijimon said...)"
 		},
 		{
 			"key":"EP10_S9020_0022",
-			"value":"タクマくん……そうね\n私たちが弱気になっても仕方ないわね"
+			"value":"You’re right, Takuma. There’s no point in us\nlosing heart now."
 		},
 		{
 			"key":"EP10_S9020_0023",
-			"value":"その通りだ\n今は僕らがやり遂げるしかない"
+			"value":"That’s the spirit. Let’s focus on getting\nthis done."
 		},
 		{
 			"key":"EP10_S9020_0024",
-			"value":"信じます、ジジモン。あなたの勘を……\nそれでは"
+			"value":"I trust your instincts, Jijimon. Now, we’d\nbetter get going."
 		},
 		{
 			"key":"EP10_S9020_0025",
-			"value":"お世話になりました\n失礼します！"
+			"value":"Thank you for all your help. So long!"
 		},
 		{
 			"key":"EP10_S9020_0026",
-			"value":"行きましょう、みんな！"
+			"value":"Let’s go, everyone!"
 		},
 		{
 			"key":"EP10_S9020_0027",
-			"value":"（いよいよ僕らは、北を目指して歩き出した）"
+			"value":"(We’re all heading north at last.)"
 		},
 		{
 			"key":"EP10_S9020_0028",
-			"value":"それじゃあのぅ！"
+			"value":"Farewell!"
 		},
 		{
 			"key":"EP10_S9020_0029",
-			"value":"（ジジモンたちは、最後まで僕たちを\n　見送ってくれた）"
+			"value":"(Jijimon and the others stay to see us off\nuntil we’re out of sight.)"
 		},
 		{
 			"key":"EP10_S9020_0030",
-			"value":"（今ならその気づかいが理解できる\n　それはきっと、僕たちが培った絆なんだ）"
+			"value":"(At this point, I appreciate how much that\nshows they care. It’s proof we share a bond.)"
 		},
 		{
 			"key":"EP10_S9020_0031",
-			"value":"……ぐす\nったく、泣かせることしやがって……"
+			"value":"*sniff* Man, why’d they have to go and do\nsomething to make me cry?"
 		},
 		{
 			"key":"EP10_S9020_0032",
-			"value":"リョウ、泣いてるの？"
+			"value":"Ryo, you’re crying?"
 		},
 		{
 			"key":"EP10_S9020_0033",
-			"value":"当たり前だろ……オレたち\n世話になってばっかでさ"
+			"value":"Of course I’m crying! Think about how much\nthey did for us!"
 		},
 		{
 			"key":"EP10_S9020_0034",
-			"value":"最後までさ、こんなのさ……\n我慢できねぇよ……"
+			"value":"And now this... It’s just too much."
 		},
 		{
 			"key":"EP10_S9020_0035",
-			"value":"（この冒険は、僕ら自身が望んだものじゃない\n　でも……）"
+			"value":"(None of us really wanted to be on an\nadventure like this...)"
 		},
 		{
 			"key":"EP10_S9020_0036",
-			"value":"（僕たちは確かにどこか成長しているんだと思う）"
+			"value":"(...but I think we’ve all grown as a result.)"
 		},
 		{
 			"key":"EP10_S9020_0037",
-			"value":"（以前のリョウなら、きっと、認めなかったはずだ\n　……リョウだけじゃない、きっと、僕も）"
+			"value":"(Ryo would never have acknowledged his\nfeelings before. And it’s not just him.)"
 		},
 		{
 			"key":"EP10_S9020_0038",
-			"value":"（僕たちは成長している\n　ジジモンもそれがわかっていたから――）"
+			"value":"(I’ve grown too. I feel like we all have.\nMaybe that’s what Jijimon saw in us.)"
 		},
 		{
 			"key":"EP10_S9020_0039",
-			"value":"（僕たちを送り出してくれたんだろう\n　僕たちなら、きっと、大丈夫だ）"
+			"value":"(Maybe that’s why he said what he did. The\nway we are now, things really could be okay.)"
 		}
 	]
 }

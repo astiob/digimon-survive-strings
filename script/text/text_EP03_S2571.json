@@ -2,251 +2,251 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2571_0001",
-			"value":"ん……あ、あれ？\nオレ、は……"
+			"value":"Mm...huh? Wh-what happened?"
 		},
 		{
 			"key":"EP03_S2571_0002",
-			"value":"はっ！　そ、そうだ、一つ目のバケモノに\n落とされて……お、オレ、死んで……"
+			"value":"Oh, right! Th-that monster dropped me, and...\nI d-died..."
 		},
 		{
 			"key":"EP03_S2571_0003",
-			"value":"あ……い、いや、生きてる……？\nな、なんで……すげえ高さ、だったのに……"
+			"value":"Wait...no, I’m...alive? But how? I was up so\nhigh..."
 		},
 		{
 			"key":"EP03_S2571_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2571_0005",
-			"value":"ひゃぁぁっ！？"
+			"value":"Aaaugh?!"
 		},
 		{
 			"key":"EP03_S2571_0006",
-			"value":"お、お前かよ！　脅かすんじゃねえよクソガキ！"
+			"value":"Oh, it’s just you. Ugh, don’t scare me like\nthat, you miserable little brat!"
 		},
 		{
 			"key":"EP03_S2571_0007",
-			"value":"それが命を救った相手に対する態度？"
+			"value":"That’s the thanks I get for saving you?"
 		},
 		{
 			"key":"EP03_S2571_0008",
-			"value":"は？　お前が？\nはは……馬鹿言ってんじゃねーよ"
+			"value":"You? Save me? Hah, don’t be ridiculous!"
 		},
 		{
 			"key":"EP03_S2571_0009",
-			"value":"ふん……まぁ、別にいいけどね\nお前なんてどうでもいいし"
+			"value":"Hmph... Well, whatever. Not that I care about\nyou, anyway."
 		},
 		{
 			"key":"EP03_S2571_0010",
-			"value":"あぁ！？　ガキに見下される覚えはねえ……"
+			"value":"What was that?! I don’t have to take that\nfrom some little brat!"
 		},
 		{
 			"key":"EP03_S2571_0011",
-			"value":"…………っ！"
+			"value":"...!"
 		},
 		{
 			"key":"EP03_S2571_0012",
-			"value":"な……あ、あぁ……"
+			"value":"Ah...gah..."
 		},
 		{
 			"key":"EP03_S2571_0013",
-			"value":"お、お前……何なんだよぉ……\nなんて目で、見てんだよぉ……"
+			"value":"What the hell is wrong with you? Don’t look\nat me like that..."
 		},
 		{
 			"key":"EP03_S2571_0014",
-			"value":"……だから、言ってるでしょ"
+			"value":"Like I said."
 		},
 		{
 			"key":"EP03_S2571_0015",
-			"value":"お前なんて"
+			"value":"I...don’t care...about you."
 		},
 		{
 			"key":"EP03_S2571_0016",
-			"value":"どうでもいいんだよ"
+			"value":"Not at all!"
 		},
 		{
 			"key":"EP03_S2571_0017",
-			"value":"ひ……ば、バケモノぉ……"
+			"value":"You’re a monster!"
 		},
 		{
 			"key":"EP03_S2571_0018",
-			"value":"た、たす、助け……ま、ママぁ……"
+			"value":"Help me, Mommy!"
 		},
 		{
 			"key":"EP03_S2571_0019",
-			"value":"うぐっ！　い、痛え……"
+			"value":"Urgh! Ow!"
 		},
 		{
 			"key":"EP03_S2571_0020",
-			"value":"動かない方がいいよ。死ななかったとは言え\nあちこち怪我してるんだから"
+			"value":"You probably shouldn’t try to move. You may\nnot have died, but you were injured."
 		},
 		{
 			"key":"EP03_S2571_0021",
-			"value":"うくっ……た、助けて、ママぁ……"
+			"value":"Urgh... Mommy, save me..."
 		},
 		{
 			"key":"EP03_S2571_0022",
-			"value":"あっ、そうだ、スマホ！\nスマホでママに電話を……！"
+			"value":"Wait, that’s right! I’ve got my phone! I can\ncall Mommy..."
 		},
 		{
 			"key":"EP03_S2571_0023",
-			"value":"……な、なんでっ、電話できねえんだよぉっ！"
+			"value":"Why isn’t it working?!"
 		},
 		{
 			"key":"EP03_S2571_0024",
-			"value":"うっ、うぅ……なんで……\nぐすっ、ママに連絡できねえんだよぉっ……"
+			"value":"*sob*... Why...? *sob* I can’t c-call my\nmommy..."
 		},
 		{
 			"key":"EP03_S2571_0025",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2571_0026",
-			"value":"どうして現実世界に帰りたいの？"
+			"value":"Why do you want to return to the real world?"
 		},
 		{
 			"key":"EP03_S2571_0027",
-			"value":"ぐすっ、ぐすっ……うぅっ……"
+			"value":"*sniff*...*sniff*...*sob*..."
 		},
 		{
 			"key":"EP03_S2571_0028",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2571_0029",
-			"value":"……こ、ここには、オレの居場所なんてねえ\nここは、オレの世界じゃ、ねえんだ"
+			"value":"I d-don’t belong here. This isn’t my world."
 		},
 		{
 			"key":"EP03_S2571_0030",
-			"value":"タクマたちは、オレが気に入らねえんだ\n何かっていうとオレを邪魔者扱いして……"
+			"value":"Takuma and the others all hate me. I know\nbecause they all treat me like dead weight."
 		},
 		{
 			"key":"EP03_S2571_0031",
-			"value":"あいつら、バケモノ従えて\nオレを排除しようとしてんだよ……"
+			"value":"They’re trying to use those monsters of\ntheirs to get rid of me..."
 		},
 		{
 			"key":"EP03_S2571_0032",
-			"value":"ふーん……お前にはそう見えてるんだ"
+			"value":"Oh? Is that how it looks to you?"
 		},
 		{
 			"key":"EP03_S2571_0033",
-			"value":"だ、だから、オレは帰りてえんだ！\n元の世界に、家に帰りてえんだよ！"
+			"value":"That’s why I want to go back! Back to my\nworld, back to my home!"
 		},
 		{
 			"key":"EP03_S2571_0034",
-			"value":"だ、大丈夫だ……今に、ママから連絡が来て\nオレを、助けてくれるんだ……"
+			"value":"But it’s okay. Any minute now, Mommy will\ncall me, and then I’ll be saved."
 		},
 		{
 			"key":"EP03_S2571_0035",
-			"value":"……はぁ"
+			"value":"*sigh*"
 		},
 		{
 			"key":"EP03_S2571_0036",
-			"value":"ねぇ、いつまで妄想の中で生きるの？"
+			"value":"Just how long are you going to keep deluding\nyourself?"
 		},
 		{
 			"key":"EP03_S2571_0037",
-			"value":"母親から連絡なんて来ないことは\n自分が一番わかっているはずだよ"
+			"value":"You should know better than anyone that your\nmother is never going to call you."
 		},
 		{
 			"key":"EP03_S2571_0038",
-			"value":"はっ……！"
+			"value":"*gasp*"
 		},
 		{
 			"key":"EP03_S2571_0039",
-			"value":"あ……あぁ……\nそ、そうだ……そうだった……"
+			"value":"Yes... That’s right..."
 		},
 		{
 			"key":"EP03_S2571_0040",
-			"value":"ママは……ずっと、病気で……オレ、もっとママに\n会いたかったのに、医者が、会っちゃダメって……"
+			"value":"Mommy was always sick. I wanted to spend more\ntime with her, but the doctor said no..."
 		},
 		{
 			"key":"EP03_S2571_0041",
-			"value":"いっぱい、いっぱいガマンして……オレが寂しがると\n『リョウは強い子だから大丈夫』って……"
+			"value":"I tried so hard... Whenever I was lonely\nshe’d tell me to be strong, but..."
 		},
 		{
 			"key":"EP03_S2571_0042",
-			"value":"それが……それが、ママの……\n最後の言葉で……"
+			"value":"But those... Those were her last words."
 		},
 		{
 			"key":"EP03_S2571_0043",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2571_0044",
-			"value":"……あぁ、そうか。ママは、死んでたんだった\nそりゃあ連絡なんか来ねえよな。ははは……"
+			"value":"Yes, that’s right. Mommy’s dead. Of course\nshe’s not going to call. Of course not. Haha."
 		},
 		{
 			"key":"EP03_S2571_0045",
-			"value":"ははは……は……"
+			"value":"Ahaha... ahaha... ha..."
 		},
 		{
 			"key":"EP03_S2571_0046",
-			"value":"キュゥー！"
+			"value":"Kewww!"
 		},
 		{
 			"key":"EP03_S2571_0047",
-			"value":"あぁ、来たんだね、キミ\nでも、ちょっと遅かったね"
+			"value":"Oh, there you are. But I’m afraid you’re too\nlate."
 		},
 		{
 			"key":"EP03_S2571_0048",
-			"value":"……リョウ。現実世界に、帰りたい？"
+			"value":"Ryo... Would you like to go back? Back to the\nreal world?"
 		},
 		{
 			"key":"EP03_S2571_0049",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2571_0050",
-			"value":"どうでも、いい……"
+			"value":"I...don’t care."
 		},
 		{
 			"key":"EP03_S2571_0051",
-			"value":"もう、何もかも、どうでも……"
+			"value":"I don’t care about anything anymore."
 		},
 		{
 			"key":"EP03_S2571_0501",
-			"value":"そうか……そうだよ"
+			"value":"Yes, now I get it. Now it all makes sense."
 		},
 		{
 			"key":"EP03_S2571_0502",
-			"value":"ここは死後の世界なんだから\n死んだママは、近くにいるはずだ！"
+			"value":"I’ve died, and this is the afterlife. Which\nmeans Mommy must be somewhere close by!"
 		},
 		{
 			"key":"EP03_S2571_0503",
-			"value":"あははははっ！　ねぇママ、いるんだろ！？\n早く、早く会いに来てよ、ママぁっ！"
+			"value":"Ahahaha! That’s it, isn’t it? You’re here,\naren’t you, Mommy? Oh, please, come get me!"
 		},
 		{
 			"key":"EP03_S2571_0504",
-			"value":"これは、もう駄目だな\n完全に壊れちゃってる"
+			"value":"This kid is done for. He’s completely\nsnapped."
 		},
 		{
 			"key":"EP03_S2571_0505",
-			"value":"キュゥー！"
+			"value":"Kewww!"
 		},
 		{
 			"key":"EP03_S2571_0506",
-			"value":"あぁ、来たんだね、キミ\nでも、ちょっと遅かったね"
+			"value":"Oh, there you are. But I’m afraid you’re too\nlate."
 		},
 		{
 			"key":"EP03_S2571_0507",
-			"value":"あ、霧の中に……何かが……"
+			"value":"Wait, I think I see something... Something in\nthe fog..."
 		},
 		{
 			"key":"EP03_S2571_0508",
-			"value":"あぁ、ママっ！　やっぱり来てくれたんだ！\nママー！"
+			"value":"Yes! It’s Mommy! I knew she’d come for me!\nMommy, I’m here!"
 		},
 		{
 			"key":"EP03_S2571_0509",
-			"value":"見てごらんよ。君の大事なリョウは\nもう何も見えてないんだ"
+			"value":"You can see for yourself. Your precious Ryo\nhas lost all touch with reality."
 		},
 		{
 			"key":"EP03_S2571_0510",
-			"value":"キュ、キュゥゥッ！？"
+			"value":"Kewkewww?!"
 		},
 		{
 			"key":"EP03_S2571_0511",
-			"value":"そっちに行けばいいんだね！\n待ってて！　すぐ行くから！"
+			"value":"You want me to come to you? Okay, wait for\nme, Mommy! I’ll be right there!"
 		}
 	]
 }

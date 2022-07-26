@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1621_0001",
-			"value":"何者だ！"
+			"value":"What are you?"
 		},
 		{
 			"key":"EP02_S1621_0002",
-			"value":"フン……オレを捉えるとは\nそこそこ勘のいい奴がいるみたいだな"
+			"value":"Hmph... You must have quite the instinct to\nnotice me."
 		},
 		{
 			"key":"EP02_S1621_0003",
-			"value":"まあいい、先にあの二人を始末してやるか……"
+			"value":"But enough. Let’s finish those two..."
 		},
 		{
 			"key":"EP02_S1621_0004",
-			"value":"た、助かった……のか？"
+			"value":"Am I...safe?"
 		},
 		{
 			"key":"EP02_S1621_0101",
-			"value":"見逃された、って感じだけどな……"
+			"value":"I think they let us go..."
 		},
 		{
 			"key":"EP02_S1621_0102",
-			"value":"すごい怖そうなやつだったね……"
+			"value":"That was a really scary one..."
 		},
 		{
 			"key":"EP02_S1621_0103",
-			"value":"ふ、ふんっ、あ、あんなの、ヨユーよ……！"
+			"value":"Hmph! That was nothing!"
 		},
 		{
 			"key":"EP02_S1621_0104",
-			"value":"それより教授は！？"
+			"value":"More importantly, the professor?"
 		},
 		{
 			"key":"EP02_S1621_0005",
-			"value":"そうだ！　教授は無事か！？"
+			"value":"Yeah! Professor, are you okay?"
 		},
 		{
 			"key":"EP02_S1621_0105",
-			"value":"怪我はしてるけど、大した傷じゃない！\nどこか安全な場所に運ぼう！"
+			"value":"He’s injured, but it’s not critical.\nWe need to get him somewhere safe!"
 		}
 	]
 }

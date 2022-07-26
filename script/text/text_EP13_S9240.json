@@ -2,215 +2,215 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9240_0001",
-			"value":"シュウジさん、何してるんです？"
+			"value":"Hey, Shuuji. What are you up to?"
 		},
 		{
 			"key":"EP13_S9240_0002",
-			"value":"装備の確認だよ\nタクマも自分の分をやるんだぞ"
+			"value":"I’m checking my supplies. You should do the\nsame with yours."
 		},
 		{
 			"key":"EP13_S9240_0003",
-			"value":"（シュウジさんらしいな。けど今から根を詰めすぎる\n　のもどうかな……いや、水を差しちゃいけないか？）"
+			"value":"(Sounds like Shuuji. I’m worried he’s getting\nfixated, but maybe I shouldn’t say so.)"
 		},
 		{
 			"key":"EP13_S9240_Q1",
-			"value":"（シュウジさんに何て答えよう……？）"
+			"value":"(How should I answer him?)"
 		},
 		{
 			"key":"EP13_S9240_Q1_A1",
-			"value":"気合入ってますね"
+			"value":"You’re sure into this."
 		},
 		{
 			"key":"EP13_S9240_Q1_A2",
-			"value":"根を詰めすぎてません？"
+			"value":"You seem fixated."
 		},
 		{
 			"key":"EP13_S9240_0004",
-			"value":"気合入ってますね"
+			"value":"You’re sure into this."
 		},
 		{
 			"key":"EP13_S9240_0005",
-			"value":"シュウジさん、気合入ってますね"
+			"value":"You sure are into this, Shuuji."
 		},
 		{
 			"key":"EP13_S9240_0006",
-			"value":"……これからいよいよ最終決戦なんだ"
+			"value":"Well, we’re coming up on the final battle."
 		},
 		{
 			"key":"EP13_S9240_0007",
-			"value":"絶対に負けられない戦いだ\nこれに勝てば、ついに元の世界に戻れる"
+			"value":"It’s a fight we can’t afford to lose. And\nafter we win it, we can finally go home."
 		},
 		{
 			"key":"EP13_S9240_0008",
-			"value":"ええ……その通りです"
+			"value":"Yeah...you’re right."
 		},
 		{
 			"key":"EP13_S9240_0009",
-			"value":"そのために準備と確認にやりすぎはない\nタクマ、くれぐれも忘れ物がないようにな"
+			"value":"So we can’t be too careful getting ready.\nMake sure you don’t forget anything, Takuma."
 		},
 		{
 			"key":"EP13_S9240_0010",
-			"value":"はい、わかりました"
+			"value":"Right. I’ll be careful."
 		},
 		{
 			"key":"EP13_S9240_0011",
-			"value":"ふふ……なんて偉そうに言っておきながら\n僕自身、少し物思いに耽っていたんだけどね"
+			"value":"Heheh, listen to me, giving you advice while\nI’ve been caught up in my own thoughts."
 		},
 		{
 			"key":"EP13_S9240_0012",
-			"value":"物思い……？"
+			"value":"Oh? Something on your mind?"
 		},
 		{
 			"key":"EP13_S9240_0013",
-			"value":"ああ。この世界に来てからの\n色々なことを……"
+			"value":"Yeah. I was just thinking of everything that\nhappened since we first came here."
 		},
 		{
 			"key":"EP13_S9240_0014",
-			"value":"根を詰めすぎなような"
+			"value":"You seem fixated."
 		},
 		{
 			"key":"EP13_S9240_0015",
-			"value":"シュウジさん\n根を詰めすぎじゃないですか？"
+			"value":"You seem kind of fixated on this to me,\nShuuji. Maybe a little too much."
 		},
 		{
 			"key":"EP13_S9240_0016",
-			"value":"そう見えるかい？\nけど、別にそういうわけでもないんだ"
+			"value":"Is that what you think? Well, it’s not like\nthat."
 		},
 		{
 			"key":"EP13_S9240_0017",
-			"value":"作業しながら、今までの思い出にひたってた\nこっちに来てから、いろんなことがあったな、って……"
+			"value":"I’ve actually been thinking back on things as\nI go. So much has happened since we got here."
 		},
 		{
 			"key":"EP13_S9240_0018",
-			"value":"不思議なものだね\n辛いことや危険なこともいっぱいあったのに――"
+			"value":"It’s funny. A lot of what we went through was\ndifficult and dangerous..."
 		},
 		{
 			"key":"EP13_S9240_0019",
-			"value":"今になって思い出すのは、楽しいことばっかりだ"
+			"value":"But looking back now, all I can think of are\nthe good things."
 		},
 		{
 			"key":"EP13_S9240_0020",
-			"value":"タクマ、君はどうだ？"
+			"value":"Is that how it is for you too, Takuma?"
 		},
 		{
 			"key":"EP13_S9240_Q2",
-			"value":"（僕は、どうだろう……？）"
+			"value":"(Good question. How do I feel about that?)"
 		},
 		{
 			"key":"EP13_S9240_Q2_A1",
-			"value":"同じです"
+			"value":"I feel the same way."
 		},
 		{
 			"key":"EP13_S9240_Q2_A2",
-			"value":"違いますね"
+			"value":"Not at all."
 		},
 		{
 			"key":"EP13_S9240_0021",
-			"value":"同じです"
+			"value":"I feel the same way."
 		},
 		{
 			"key":"EP13_S9240_0022",
-			"value":"僕も同じです\n楽しいことばかり思い出す……"
+			"value":"Yes, I feel the same way. I really only\nremember the good times."
 		},
 		{
 			"key":"EP13_S9240_0023",
-			"value":"だろう？"
+			"value":"Strange, right?"
 		},
 		{
 			"key":"EP13_S9240_0024",
-			"value":"キャンプみたいで楽しかったな\nこんな大冒険、これからの人生でもうないだろう……"
+			"value":"It was kinda like a fun camping trip. And we\nwon’t ever have an adventure like this again."
 		},
 		{
 			"key":"EP13_S9240_0025",
-			"value":"それに、ロップモンとも出会えた"
+			"value":"Plus, I got to meet Lopmon."
 		},
 		{
 			"key":"EP13_S9240_0026",
-			"value":"えへへ……\nボクもシュウジと会えて嬉しいよ"
+			"value":"Eheheh. I’m happy to have met you too,\nShuuji."
 		},
 		{
 			"key":"EP13_S9240_0027",
-			"value":"違いますね"
+			"value":"Not at all."
 		},
 		{
 			"key":"EP13_S9240_0028",
-			"value":"僕はどちらかというと\n苦しいことばかり思い出してしまいます"
+			"value":"Actually, all I can ever remember are the bad\nthings."
 		},
 		{
 			"key":"EP13_S9240_0029",
-			"value":"そうか……なら僕がおかしいのかもな"
+			"value":"Oh, huh. Maybe I’m just weird that way."
 		},
 		{
 			"key":"EP13_S9240_0030",
-			"value":"負ければ死\n勝てば、この世界ともお別れか……"
+			"value":"If we lose, we die. If we win, we leave this\nworld behind."
 		},
 		{
 			"key":"EP13_S9240_0031",
-			"value":"今のこの瞬間のまま、時間が止まってしまえばいいのに\nそれなら、ずっと……"
+			"value":"I kind of wish time would just stop right\nhere in this moment. That way..."
 		},
 		{
 			"key":"EP13_S9240_0032",
-			"value":"ずっと……危険もないし\n楽しい思い出の中で生きていけるのに……"
+			"value":"...there’d be no danger, and I could just\nlive within my own happy memories."
 		},
 		{
 			"key":"EP13_S9240_0033",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP13_S9240_0034",
-			"value":"タクマ、僕がこんなこと言うのは意外かい？"
+			"value":"Does it surprise you to hear me say that,\nTakuma?"
 		},
 		{
 			"key":"EP13_S9240_Q3",
-			"value":"（シュウジさんの普段と比べて、意外だろうか？）"
+			"value":"(Is it really that surprising?)"
 		},
 		{
 			"key":"EP13_S9240_Q3_A1",
-			"value":"そうは思いません"
+			"value":"No, not really."
 		},
 		{
 			"key":"EP13_S9240_Q3_A2",
-			"value":"らしくないですよ"
+			"value":"Yeah, it’s strange."
 		},
 		{
 			"key":"EP13_S9240_0035",
-			"value":"そうは思いません"
+			"value":"No, not really."
 		},
 		{
 			"key":"EP13_S9240_0036",
-			"value":"そうは思いません\n僕にもわかる気がします……"
+			"value":"No, not really. I feel like I know what\nyou’re saying."
 		},
 		{
 			"key":"EP13_S9240_0037",
-			"value":"そうかい、ありがとう……"
+			"value":"That’s good, then. Thanks."
 		},
 		{
 			"key":"EP13_S9240_0038",
-			"value":"らしくないですよ"
+			"value":"Yeah, it’s strange."
 		},
 		{
 			"key":"EP13_S9240_0039",
-			"value":"らしくないですよ、シュウジさん"
+			"value":"Yeah, it’s not like you, Shuuji."
 		},
 		{
 			"key":"EP13_S9240_0040",
-			"value":"そうかもね、悪かった……\nもう弱音は吐かないよ"
+			"value":"Maybe it’s not, sorry. Anyway, I’ll stop\ncomplaining now."
 		},
 		{
 			"key":"EP13_S9240_0041",
-			"value":"――さて！　弱音を吐く時間は終わりだ\n気合入れ直そう"
+			"value":"That’s enough whining. Let me get back into\nthis."
 		},
 		{
 			"key":"EP13_S9240_0042",
-			"value":"やるぞ、ロップモン！"
+			"value":"We are going to make this happen, right,\nLopmon?!"
 		},
 		{
 			"key":"EP13_S9240_0043",
-			"value":"うんっ！"
+			"value":"Right!"
 		},
 		{
 			"key":"EP13_S9240_0044",
-			"value":"勝っても負けても、これが最後だ\n悔いの無いようにしよう"
+			"value":"Win or lose, this is the end. Let’s make sure\nwe don’t have any regrets."
 		}
 	]
 }

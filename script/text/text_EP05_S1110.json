@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1110_0001",
-			"value":"なぁ、オレの靴下知らないか！？"
+			"value":"Hey, have you seen my socks?!"
 		},
 		{
 			"key":"EP05_S1110_0002",
-			"value":"靴下……？　いや、知らないけど"
+			"value":"Socks...? Nope, haven’t seen any."
 		},
 		{
 			"key":"EP05_S1110_0003",
-			"value":"あ～！　くそ、どこ行ったんだよ！？\nおかしいな……オレの靴下……！"
+			"value":"Aw, man! Where the heck did they go?!\nThis is too weird..."
 		},
 		{
 			"key":"EP05_S1110_0004",
-			"value":"靴下ってそんなに騒ぐものかな……？"
+			"value":"Are socks something to get that worked\nup over?"
 		},
 		{
 			"key":"EP05_S1110_0005",
-			"value":"ミノルには大切なものなんだろう\nよければ、気に掛けてくれるか？"
+			"value":"I’m guessing they hold some importance to\nMinoru. Would you make a mental note of this?"
 		},
 		{
 			"key":"EP05_S1110_0006",
-			"value":"わかった。こんな所で靴下が落ちてれば、\n目立つし、すぐに見つかるんじゃないか"
+			"value":"Sure. If he dropped socks in a place like\nthis, they should be pretty easy to spot."
 		},
 		{
 			"key":"EP05_S1110_0007",
-			"value":"恩に着る"
+			"value":"We are in your debt."
 		},
 		{
 			"key":"EP05_S1110_0008",
-			"value":"ありがとな～！"
+			"value":"Oh man, thanks a bunch!"
 		},
 		{
 			"key":"EP05_S1110_0009",
-			"value":"あーもう、どこいっちまったんだよ～！"
+			"value":"Dangit, where’d it go?!"
 		}
 	]
 }

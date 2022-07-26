@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0624_0001",
-			"value":"タクマ！　そこの草むらに何かいそう！"
+			"value":"Takuma! There’s something in the grass!"
 		},
 		{
 			"key":"EP10_S0624_0002",
-			"value":"この中か？　よし、調べてみるか"
+			"value":"You mean over there? Let’s check it out."
 		},
 		{
 			"key":"EP10_S0624_0003",
-			"value":"うんっ。いくよ……\nいち、にの……"
+			"value":"Right, on three. One...two..."
 		},
 		{
 			"key":"EP10_S0624_0004",
-			"value":"さんっ！！！！"
+			"value":"Three!!!"
 		},
 		{
 			"key":"EP10_S0624_0005",
-			"value":"……あれ？\n誰もいないぞ？"
+			"value":"Huh? There’s nothing here."
 		},
 		{
 			"key":"EP10_S0624_0006",
-			"value":"なんだ、気のせいか"
+			"value":"I guess you were just imagining things."
 		}
 	]
 }

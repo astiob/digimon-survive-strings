@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2472_0001",
-			"value":"山歩き、気持ちいいね"
+			"value":"Isn’t it nice being out on a hike?"
 		},
 		{
 			"key":"EP03_S2472_0002",
-			"value":"うん……気持ちいいね"
+			"value":"Yes...nice."
 		},
 		{
 			"key":"EP03_S2472_0003",
-			"value":"風、あったかいね"
+			"value":"The breeze is so warm."
 		},
 		{
 			"key":"EP03_S2472_0004",
-			"value":"うん……あったかいね"
+			"value":"Yes...warm."
 		},
 		{
 			"key":"EP03_S2472_0005",
-			"value":"おい、タクマ……コイツらはいつもこんな感じなのか？"
+			"value":"Uh, Takuma, are they always like this?"
 		},
 		{
 			"key":"EP03_S2472_0006",
-			"value":"うん。今日はよくしゃべってる方だよ"
+			"value":"Pretty much. This is actually a lot of\ntalking for them."
 		},
 		{
 			"key":"EP03_S2472_0007",
-			"value":"マジか……色んなヤツがいるんだな"
+			"value":"You don’t say. Man, some people sure are\nweird."
 		}
 	]
 }

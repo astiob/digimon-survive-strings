@@ -2,287 +2,287 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1051_0001",
-			"value":"あっーーー！\nまたオマエたちか！"
+			"value":"Oh no! It’s you guys again!"
 		},
 		{
 			"key":"EP04_S1051_0002",
-			"value":"おい、それはこっちのセリフだぞ"
+			"value":"Took the words right outta my mouth."
 		},
 		{
 			"key":"EP04_S1051_0003",
-			"value":"なんでまた遭遇しちまうかな"
+			"value":"Why’d we have to run into you three here?"
 		},
 		{
 			"key":"EP04_S1051_0004",
-			"value":"う、うるさーい！\nこんなところまで追ってきたくせに！"
+			"value":"Shut up! You’re the ones who’ve been\nfollowing us!"
 		},
 		{
 			"key":"EP04_S1051_0005",
-			"value":"いや、追いかけてきたってわけじゃ……"
+			"value":"No, we really haven’t been—"
 		},
 		{
 			"key":"EP04_S1051_0006",
-			"value":"もうダメだわ！\nこれ以上、奥に進ませるわけにはいかないのよ！"
+			"value":"Well it ends now! We won’t allow you to go\nany further!"
 		},
 		{
 			"key":"EP04_S1051_0007",
-			"value":"じゃあ、どうするつもりだ？"
+			"value":"So what are you gonna do?"
 		},
 		{
 			"key":"EP04_S1051_0008",
-			"value":"今度こそ……今度こそ\n女王様の命令で排除する！"
+			"value":"This time... This time we’re really going to\neliminate you like Her Majesty ordered!"
 		},
 		{
 			"key":"EP04_S1051_0009",
-			"value":"またこのパターンかよ\nどうすんだ？"
+			"value":"Not this routine again... So, what’s our\nmove?"
 		},
 		{
 			"key":"EP04_S1051_0010",
-			"value":"ど、どうするったって……"
+			"value":"I don’t see what else we can do but—"
 		},
 		{
 			"key":"EP04_S1051_0011",
-			"value":"ダ、ダメよ！\nさっき、この子たちには手を出さないって……"
+			"value":"Don’t you dare! You promised you wouldn’t\nhurt them!"
 		},
 		{
 			"key":"EP04_S1051_0012",
-			"value":"そう約束したじゃない"
+			"value":"Remember?"
 		},
 		{
 			"key":"EP04_S1051_0013",
-			"value":"（や、やっぱりそうだよな\n　となると、ダメ元でもう一度説得するか……）"
+			"value":"(Oh, I remember. That means we can either try\nconvincing them again, which seems unlikely,)"
 		},
 		{
 			"key":"EP04_S1051_0014",
-			"value":"（無視して放っておくか……\n　いっそ脅かしたら驚いて逃げてくれるかな）"
+			"value":"(or we can ignore them. Alternatively, maybe\nthey’d run off if we tried to scare them.)"
 		},
 		{
 			"key":"EP04_S1051_Q1",
-			"value":"（ここをどうやって乗り切ろう？）"
+			"value":"(How should we deal with this?)"
 		},
 		{
 			"key":"EP04_S1051_Q1_A1",
-			"value":"説得してみる"
+			"value":"Try to convince them."
 		},
 		{
 			"key":"EP04_S1051_Q1_A2",
-			"value":"脅かしてみる"
+			"value":"Scare them off."
 		},
 		{
 			"key":"EP04_S1051_Q1_A3",
-			"value":"放っておく"
+			"value":"Ignore them."
 		},
 		{
 			"key":"EP04_S1051_0015",
-			"value":"どうにか説得する"
+			"value":""
 		},
 		{
 			"key":"EP04_S1051_0016",
-			"value":"もう一度、冷静に話し合おう！"
+			"value":"Let’s talk through this calmly one more time."
 		},
 		{
 			"key":"EP04_S1051_0017",
-			"value":"さっきも言ったけど、僕たちは\n君たちに危害を加える気はないんだ"
+			"value":"Like we said before, we don’t mean you any\nharm."
 		},
 		{
 			"key":"EP04_S1051_0018",
-			"value":"そうよ！\n私たちはただ、カイトの妹を捜したいだけなの！"
+			"value":"That’s right! We’re just looking for Kaito’s\nsister!"
 		},
 		{
 			"key":"EP04_S1051_0019",
-			"value":"おい、タクマ……\nモンスターを相手に話し合いなんて出来るのか？"
+			"value":"Takuma, do you really think we can reason\nwith monsters?"
 		},
 		{
 			"key":"EP04_S1051_0020",
-			"value":"あの子たちは、言葉の通じないバケモノじゃない\nちゃんと説明すればわかってくれるはずです"
+			"value":"They’re not mindless beasts. I’m sure they’ll\nget it if we explain things carefully."
 		},
 		{
 			"key":"EP04_S1051_0021",
-			"value":"そうだよ、シュウジ……\nボクたちも、あの子たちも話せば……"
+			"value":"He’s right, Shuuji. If we can just talk\nthings out, it’ll be fine."
 		},
 		{
 			"key":"EP04_S1051_0022",
-			"value":"だから……な？\n頼むから、僕たちの話を聞いてくれないか？"
+			"value":"Exactly. So please, won’t you at least hear\nus out?"
 		},
 		{
 			"key":"EP04_S1051_0023",
-			"value":"だ、ダメよ！　やっぱりダメダメ！\nこいつらの話なんて聞いちゃダメ！"
+			"value":"No way! Not a chance! We’re not gonna listen\nto anything you say!"
 		},
 		{
 			"key":"EP04_S1051_0024",
-			"value":"えっ！？　な、なんで……！？"
+			"value":"What?! Why not?!"
 		},
 		{
 			"key":"EP04_S1051_0025",
-			"value":"話を聞いたら、ころっと\nだまされちゃうかもしれないもん！　だから……"
+			"value":"Because then you might trick us with your\nlies! There’s only one thing for us to do!"
 		},
 		{
 			"key":"EP04_S1051_0026",
-			"value":"撤収よ～～～！！"
+			"value":"Retreat!"
 		},
 		{
 			"key":"EP04_S1051_0027",
-			"value":"思い切って脅かす"
+			"value":""
 		},
 		{
 			"key":"EP04_S1051_0028",
-			"value":"みんな……ここはイチかバチか\n思いっきり脅かして逃げるように仕向けよう……！"
+			"value":"Okay guys, I say we risk trying to scare them\noff with a feint."
 		},
 		{
 			"key":"EP04_S1051_0029",
-			"value":"なるほど、それはいい案かもな"
+			"value":"Yeah, I like the sound of that."
 		},
 		{
 			"key":"EP04_S1051_0030",
-			"value":"そういうのは、案外得意だぜ？"
+			"value":"I’m actually pretty good at that sort of\nthing."
 		},
 		{
 			"key":"EP04_S1051_0031",
-			"value":"フリということなら、俺も乗ろう"
+			"value":"So long as it’s only a feint, I will assist\ntoo."
 		},
 		{
 			"key":"EP04_S1051_0032",
-			"value":"それじゃ、僕らがあいつらの\n気をそらすから、その間に……！"
+			"value":"Great. So first we’ll do something to\ndistract them. Then—"
 		},
 		{
 			"key":"EP04_S1051_0033",
-			"value":"おいっ！\n何をごちゃごちゃ言っているんだ！"
+			"value":"Hey! What are you plotting?!"
 		},
 		{
 			"key":"EP04_S1051_0034",
-			"value":"あっれ～！？\nなんだろ、これ～！？"
+			"value":"Oh, man! Check this out!"
 		},
 		{
 			"key":"EP04_S1051_0035",
-			"value":"こりゃ、すげーな！\nもしかして、アレ、なんじゃねえか～？"
+			"value":"Dude, that’s unreal! Is that what I think it\nis?"
 		},
 		{
 			"key":"EP04_S1051_0036",
-			"value":"な……なんだ？　急に何を……？"
+			"value":"Wh-what’s this now?"
 		},
 		{
 			"key":"EP04_S1051_0037",
-			"value":"すっごいお宝でも、見つけちゃったとか？"
+			"value":"Did they find some sort of treasure?"
 		},
 		{
 			"key":"EP04_S1051_0038",
-			"value":"えっ、お宝！？　なにそれ、気になる！"
+			"value":"T-treasure?! What kind of treasure? I wanna\nsee!"
 		},
 		{
 			"key":"EP04_S1051_0039",
-			"value":"気になるなら、こっち来てみろよ"
+			"value":"Why don’t you come have a look, then?"
 		},
 		{
 			"key":"EP04_S1051_0040",
-			"value":"ほらほら、すごいよ～？"
+			"value":"Seriously, you won’t believe it!"
 		},
 		{
 			"key":"EP04_S1051_0041",
-			"value":"そ、そんなにすごいモノが……？\nなら、ちょっとだけ……"
+			"value":"Is...is it really that amazing? I guess it\nwouldn’t hurt to look..."
 		},
 		{
 			"key":"EP04_S1051_0042",
-			"value":"今だ！　ドラクモン！　ファルコモン！"
+			"value":"Dracmon! Falcomon! Now!"
 		},
 		{
 			"key":"EP04_S1051_0043",
-			"value":"ん？\n後ろに気配が……？？？"
+			"value":"Hm? Is...is something behind me?"
 		},
 		{
 			"key":"EP04_S1051_0044",
-			"value":"ガオオオオーーーッ！\nテメェら、食っちまうぞーーー！"
+			"value":"GRROOOAAARRR! I’m gonna eat you!"
 		},
 		{
 			"key":"EP04_S1051_0045",
-			"value":"ここで命を落とすこと……覚悟しろッ！！"
+			"value":"All of you...prepare to die!"
 		},
 		{
 			"key":"EP04_S1051_0046",
-			"value":"って、ぎゃわああああああ！！！"
+			"value":"Wah?! Yaaaaaaugh!!!"
 		},
 		{
 			"key":"EP04_S1051_0047",
-			"value":"どわあああ！？"
+			"value":"Uwaaaaaahhh!"
 		},
 		{
 			"key":"EP04_S1051_0048",
-			"value":"ひぎゃああん！"
+			"value":"Yeeeeeek!"
 		},
 		{
 			"key":"EP04_S1051_0049",
-			"value":"はっはっはっは！\nこれで懲りたか！"
+			"value":"Hahaha! That’ll teach ya!"
 		},
 		{
 			"key":"EP04_S1051_0050",
-			"value":"早々に立ち去るがいい"
+			"value":"Now flee! Run as fast as you can!"
 		},
 		{
 			"key":"EP04_S1051_0051",
-			"value":"ぐぬぅ……後ろから脅かすなんて～～～！\nやっぱりワルイやつらだ～～～！！！"
+			"value":"Ohhh... How dare you sneak up behind us like\nthat! Villains! Cowards!"
 		},
 		{
 			"key":"EP04_S1051_0052",
-			"value":"もう我慢しないぞ！\nパタモン！　ピヨモン！　こいつらを、倒すぞー！"
+			"value":"I’ve had it with you! Patamon! Biyomon! Let’s\ntake them down!"
 		},
 		{
 			"key":"EP04_S1051_0053",
-			"value":"（って、しまった！　逆効果だった！！）"
+			"value":"(Oh no! That completely backfired!)"
 		},
 		{
 			"key":"EP04_S1051_0054",
-			"value":"とりあえず放っておく"
+			"value":""
 		},
 		{
 			"key":"EP04_S1051_0055",
-			"value":"仕方ない……このまま放っておこう"
+			"value":"I guess we’ll just have to ignore them."
 		},
 		{
 			"key":"EP04_S1051_0056",
-			"value":"それがいいかもね"
+			"value":"Yeah, that seems like our best option."
 		},
 		{
 			"key":"EP04_S1051_0057",
-			"value":"サキたちがそう言うなら、私もそうするわ"
+			"value":"If you say so."
 		},
 		{
 			"key":"EP04_S1051_0058",
-			"value":"でも、いいのか？\nこっちを睨んでるぞ？"
+			"value":"Are you sure that’ll work? They won’t stop\nglaring at us."
 		},
 		{
 			"key":"EP04_S1051_0059",
-			"value":"あんまり見ちゃダメだ\nこのまま、やりすごして……"
+			"value":"So don’t look at them. If we just leave them\nalone—"
 		},
 		{
 			"key":"EP04_S1051_0060",
-			"value":"そっぽを向いた！？\nスキありー！　てやーーーっ！！！"
+			"value":"Turning your backs, eh?! Now you’re wide\nopen! Attack!!!"
 		},
 		{
 			"key":"EP04_S1051_0061",
-			"value":"って、いた！　いたたたた！"
+			"value":"Ow! Hey! Yeowch!"
 		},
 		{
 			"key":"EP04_S1051_0062",
-			"value":"ちょっと、やめて……！"
+			"value":"Cut that out!"
 		},
 		{
 			"key":"EP04_S1051_0063",
-			"value":"見たか！　我々の威力！"
+			"value":"How’d you like that?!"
 		},
 		{
 			"key":"EP04_S1051_0064",
-			"value":"って、全然きいてないっぽいんだけど！？"
+			"value":"Oh no, they look completely unfazed!"
 		},
 		{
 			"key":"EP04_S1051_0065",
-			"value":"くっ……くそー！\n一時撤退！　撤退するーーー！"
+			"value":"Grr... We’ll get them next time! Pull back!\nRetreat!"
 		},
 		{
 			"key":"EP04_S1051_0066",
-			"value":"タクマ、大丈夫？"
+			"value":"Takuma, are you all right?"
 		},
 		{
 			"key":"EP04_S1051_0067",
-			"value":"はは……全然平気だよ"
+			"value":"Haha, yeah, I’m totally fine."
 		}
 	]
 }

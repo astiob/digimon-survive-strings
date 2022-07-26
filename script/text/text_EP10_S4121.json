@@ -2,367 +2,367 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S4121_0001",
-			"value":"タクマくん！"
+			"value":"Takuma!"
 		},
 		{
 			"key":"EP10_S4121_0002",
-			"value":"アオイさん、もう大丈夫？"
+			"value":"You all right now, Aoi?"
 		},
 		{
 			"key":"EP10_S4121_0003",
-			"value":"ええ、十分休ませてもらったわ\n悪い幻を打ち破ってくれてありがとう"
+			"value":"Yes, I’ve rested enough. Thanks for snapping\nme out of that nasty vision."
 		},
 		{
 			"key":"EP10_S4121_0004",
-			"value":"役に立てたならよかったよ\nみんなが無事で安心した"
+			"value":"Glad we could help. I’m relieved to know\neveryone’s safe."
 		},
 		{
 			"key":"EP10_S4121_0005",
-			"value":"このあとはどうするの？"
+			"value":"What should we do now?"
 		},
 		{
 			"key":"EP10_S4121_0006",
-			"value":"全員と合流したら\n扉か窓を破って、一度この建物を出よう"
+			"value":"Let’s join up with the others. We’ll break\na window or door and escape this place."
 		},
 		{
 			"key":"EP10_S4121_0007",
-			"value":"罠の中じゃ、調べものなんてできないよ\nまずはここから逃げ出すことを考えるんだ"
+			"value":"Can’t go looking around while we’re caught in\na trap. We have to get out of here first."
 		},
 		{
 			"key":"EP10_S4121_0008",
-			"value":"お前たちニンゲンは\nまたそうやって逃げるのか"
+			"value":"You humans really think you can escape that\nway?"
 		},
 		{
 			"key":"EP10_S4121_0009",
-			"value":"レナモン……"
+			"value":"Renamon..."
 		},
 		{
 			"key":"EP10_S4121_0010",
-			"value":"待ち伏せていたのか"
+			"value":"An ambush, is it?"
 		},
 		{
 			"key":"EP10_S4121_0011",
-			"value":"このまま逃がしては捕らえた意味もないだろう"
+			"value":"No point in capturing you if we let you just\nrun off, now is there?"
 		},
 		{
 			"key":"EP10_S4121_0012",
-			"value":"無駄な抵抗はやめて\n早く生け贄になってしまえ"
+			"value":"Stop putting up this pointless resistance,\nand give yourself up to be sacrificed!"
 		},
 		{
 			"key":"EP10_S4121_0013",
-			"value":"待ってくれ、レナモン\n生け贄を捧げるのは、主のためなのか？"
+			"value":"Hold on, Renamon. Are you offering sacrifices\nto the Master?"
 		},
 		{
 			"key":"EP10_S4121_0014",
-			"value":"どうして主に力を貸すんだ！？\n主はミユキを捕えているのに……！"
+			"value":"Why would you ally yourself with him?! After\nwhat he’s done to Miyuki...!"
 		},
 		{
 			"key":"EP10_S4121_0015",
-			"value":"待てよレナモン！\nお前の目的を教えろ！"
+			"value":"Hold up, Renamon! Tell us what you’re really\nafter!"
 		},
 		{
 			"key":"EP10_S4121_0016",
-			"value":"ミノル！"
+			"value":"Minoru!"
 		},
 		{
 			"key":"EP10_S4121_0017",
-			"value":"お前はミユキを救いたいはず\nミユキが主に捕らわれた状態では困るはずだ"
+			"value":"I assume your goal is saving Miyuki. Seeing\nher possessed like this must feel dreadful."
 		},
 		{
 			"key":"EP10_S4121_0018",
-			"value":"なのに何故、主に加担する！？\n主からミユキを救いたくないのか！"
+			"value":"So then why do you conspire with the Master?!\nIs her rescue not your heart’s desire?!"
 		},
 		{
 			"key":"EP10_S4121_0019",
-			"value":"呆れるばかりだ\n君たちは本当に同じことしか聞かないな"
+			"value":"All of you say the same things over and over.\nI’m sick of watching your gums flap."
 		},
 		{
 			"key":"EP10_S4121_0020",
-			"value":"そのしつこさに免じて、教えてあげるよ\n全てはミユキを救うためだ"
+			"value":"I’ll say this much because I admire your\npersistence. All I do is to save Miyuki."
 		},
 		{
 			"key":"EP10_S4121_0021",
-			"value":"ミユキを救う……\n主から取り戻すってことか？"
+			"value":"To save Miyuki... You mean to get her back\nfrom the Master?"
 		},
 		{
 			"key":"EP10_S4121_0022",
-			"value":"……そのために、この子たちを\n身代わりにするつもりか"
+			"value":"...So you intend to have these children take\nher place, do you?"
 		},
 		{
 			"key":"EP10_S4121_0023",
-			"value":"身代わり、って……\nタクマたちとミユキを交換するってこと？"
+			"value":"Take her place... You mean, swap Miyuki for\nall of these guys?"
 		},
 		{
 			"key":"EP10_S4121_0024",
-			"value":"主は生け贄を欲してる"
+			"value":"The Master desires sacrifices."
 		},
 		{
 			"key":"EP10_S4121_0025",
-			"value":"多くの生け贄を喰らって、初めて主の世界は広がるんだ"
+			"value":"The maiden isn’t enough. First, the Master\nwill consume sacrifices to expand his world."
 		},
 		{
 			"key":"EP10_S4121_0026",
-			"value":"私は主の手足となってお前たちを連れて行く\nその代わりにミユキを返してもらう！"
+			"value":"I will follow the Master’s wishes, delivering\nyou and getting Miyuki back for my efforts."
 		},
 		{
 			"key":"EP10_S4121_0027",
-			"value":"主が巫女を返すはずがない\n君は騙されている！"
+			"value":"There is no way the Master will relinquish\nthe maiden. You’re being deceived!"
 		},
 		{
 			"key":"EP10_S4121_0028",
-			"value":"だからといって、ミユキを……\n私の運命のコドモを、見殺しにはできないっ！！"
+			"value":"So am I supposed to sit by and watch as\nMiyuki...my fated child, perishes?!"
 		},
 		{
 			"key":"EP10_S4121_0029",
-			"value":"運命のコドモ！？\nじゃあ、レナモンにとってのミユキは……"
+			"value":"Your fated child?! Then that means Miyuki is\nthe same to you..."
 		},
 		{
 			"key":"EP10_S4121_0030",
-			"value":"ボクにとっての、タクマなの？"
+			"value":"As Takuma is to me?"
 		},
 		{
 			"key":"EP10_S4121_0031",
-			"value":"そうだ"
+			"value":"She is."
 		},
 		{
 			"key":"EP10_S4121_0032",
-			"value":"お前たちの世界の時間で、数十年前……"
+			"value":"A few decades earlier, in the time of your\nworld..."
 		},
 		{
 			"key":"EP10_S4121_0033",
-			"value":"多くのコドモたちが\nお前たちと同じようにこの世界へ迷い込んだ"
+			"value":"Many children had wandered into this world,\njust as you have."
 		},
 		{
 			"key":"EP10_S4121_0034",
-			"value":"その中にいた、二人のコドモ\n水無瀬ミユキと、水無瀬アキハル"
+			"value":"Among them were two siblings: Miyuki and\nAkiharu Minase."
 		},
 		{
 			"key":"EP10_S4121_0035",
-			"value":"水無瀬……アキハル"
+			"value":"Akiharu... Minase."
 		},
 		{
 			"key":"EP10_S4121_0036",
-			"value":"（団地で見つけた、写真の姉弟\n　その弟……ハル）"
+			"value":"(The picture of a brother and a sister in the\napartment complex. That boy...was Haru.)"
 		},
 		{
 			"key":"EP10_S4121_0037",
-			"value":"ミユキちゃんの弟の、アキハル……\nハル、くん？"
+			"value":"Miyuki’s brother, Aki...haru. Wait, you mean\nHaru?"
 		},
 		{
 			"key":"EP10_S4121_0038",
-			"value":"お前のことだ、水無瀬アキハル教授\nいや……ハル"
+			"value":"That was you, Professor Minase. Or should\nI say...Haru."
 		},
 		{
 			"key":"EP10_S4121_0039",
-			"value":"はぁ！？　じゃあミユキって……\n教授のお姉さん！？"
+			"value":"Whoa, whoa, whoa... Then that means...Miyuki\nis the professor’s sister?!"
 		},
 		{
 			"key":"EP10_S4121_0040",
-			"value":"いくらこっちとあっちで時間の流れが違うっていっても\n教授とミユキじゃ、年がおかしいだろ！"
+			"value":"No matter how differently time flows between\nour worlds, that’s too big of an age gap!"
 		},
 		{
 			"key":"EP10_S4121_0041",
-			"value":"ミユキは特別だからな\n時の流れに置き去りにされているんだ"
+			"value":"Miyuki is special. She has been shunted out\nof the flow of time."
 		},
 		{
 			"key":"EP10_S4121_0042",
-			"value":"ミユキはミナセの巫女だ\n世界と世界を繋ぐ歌を操ることができる"
+			"value":"Miyuki is a Minase maiden. She can control\nthe song that connects worlds."
 		},
 		{
 			"key":"EP10_S4121_0043",
-			"value":"ミユキはその力で……神秘の歌で\nアキハル、お前だけを元の世界に戻したんだ"
+			"value":"Using that power, that mysterious song...\nMiyuki sent you back to your world, Akiharu."
 		},
 		{
 			"key":"EP10_S4121_0044",
-			"value":"じゃあ、教授はこの世界に来るのが\n二度目だってことか！？"
+			"value":"So this is the second time the professor has\nbeen in this world?!"
 		},
 		{
 			"key":"EP10_S4121_0045",
-			"value":"そうだ\nレナモン、ここで見たお前の幻が教えてくれた"
+			"value":"Precisely. The vision I saw here taught me as\nmuch, Renamon."
 		},
 		{
 			"key":"EP10_S4121_0046",
-			"value":"私の記憶の蓋、真実を隠す恐怖\nあの悪趣味な幻は全てを取り払った"
+			"value":"The block in my memories, the fear that hid\nthat truth. That awful dream blew it away."
 		},
 		{
 			"key":"EP10_S4121_0047",
-			"value":"私は……ミユキ姉さんを置いて\n元の世界に戻り……"
+			"value":"I... I left Miyuki here, and returned to my\nworld..."
 		},
 		{
 			"key":"EP10_S4121_0048",
-			"value":"そして、この世界で感じた恐怖ごと\n記憶に蓋をしてしまったんだ"
+			"value":"Then I repressed the fear I felt in this\nworld deep in my memories."
 		},
 		{
 			"key":"EP10_S4121_0049",
-			"value":"お前を逃がしたせいで、ミユキは主に捕らえられ\n魂の半分を奪われた。その影響か――"
+			"value":"While letting you escape, Miyuki was taken\nover by the Master and lost half of her soul."
 		},
 		{
 			"key":"EP10_S4121_0050",
-			"value":"私が生き残った仲間を説き伏せ、ミユキを\n奪還した時には、彼女は自我を半ば失っていた"
+			"value":"That meant even after I convinced the others\nto rescue her, she was no longer herself."
 		},
 		{
 			"key":"EP10_S4121_0051",
-			"value":"お前の身勝手な保身のせいで\nミユキはこの世界に置き去りにされた！"
+			"value":"Because of your self-centered need to protect\nyourself, Miyuki was stuck in this world!"
 		},
 		{
 			"key":"EP10_S4121_0052",
-			"value":"主に取り込まれ、正しく年を取ることも\n心を動かされることもなくなった！"
+			"value":"She was possessed by the Master, losing the\nability to age or even feel emotions!"
 		},
 		{
 			"key":"EP10_S4121_0053",
-			"value":"ハル、お前は自分だけおめおめと元の世界に帰り\n置き去りにされたミユキを見捨てたんだ！！"
+			"value":"You shamelessly returned to your world, Haru,\nand abandoned Miyuki here!"
 		},
 		{
 			"key":"EP10_S4121_0054",
-			"value":"ミユキはお前を救うために\n心を壊されて、傷ついたのに！"
+			"value":"Her heart was broken, she was hurt so badly.\nAll just to save you!"
 		},
 		{
 			"key":"EP10_S4121_0055",
-			"value":"なのに……そんな状態でも\n彼女は弟を待ち続けていたんだ……"
+			"value":"And yet... Even after all that, she still\nwaited for her brother..."
 		},
 		{
 			"key":"EP10_S4121_0056",
-			"value":"……！！"
+			"value":"Hah!"
 		},
 		{
 			"key":"EP10_S4121_0057",
-			"value":"弟はきっと来てくれる、ミユキはそう信じていた\nそう思わないと本当に壊れてしまうから"
+			"value":"She believed her brother would come for her.\nIf she didn’t, her heart would truly break."
 		},
 		{
 			"key":"EP10_S4121_0058",
-			"value":"だから私は、この姿で彼女を支え続けた\nお前がミユキのそばにいた頃の姿で"
+			"value":"That’s why I took on this form. The way you\nlooked when you were by her side."
 		},
 		{
 			"key":"EP10_S4121_0059",
-			"value":"私はずっと、お前の影法師でいたんだ"
+			"value":"I maintained your appearance for ages."
 		},
 		{
 			"key":"EP10_S4121_0060",
-			"value":"お前がこんな老いぼれになるまで、ずっと、ずっと……\n一人で彼女を助け、守ってきたんだ"
+			"value":"As you aged into this senile old coot...\nI saved her, protected her, on my own."
 		},
 		{
 			"key":"EP10_S4121_0061",
-			"value":"レナモン……すまなかった\nそれは償いきれないほどの、大きな罪だ"
+			"value":"I’m sorry, Renamon. My sins are heavy, too\nheavy to atone for, I fear."
 		},
 		{
 			"key":"EP10_S4121_0062",
-			"value":"そうだ、贖えない罪の行き着く先は死だ\nお前たちは全員、主の生け贄になってもらう"
+			"value":"Yes, an irredeemable sin that leads to death.\nYou all will become the Master’s sacrifices."
 		},
 		{
 			"key":"EP10_S4121_0063",
-			"value":"待ってくれ！\nタクマくんたちはこの話に関係がない！"
+			"value":"Now hold on! These children have nothing to\ndo with this!"
 		},
 		{
 			"key":"EP10_S4121_0064",
-			"value":"あるさ\nミユキを取り戻すための、交換材料だ"
+			"value":"Not true. They are all I have to trade in\norder to get Miyuki back."
 		},
 		{
 			"key":"EP10_S4121_0065",
-			"value":"私の目的は、復讐ではない\nだが結果として、お前たちは死なねばならない"
+			"value":"I do not seek revenge. But for me to achieve\nmy goal, all of you must die."
 		},
 		{
 			"key":"EP10_S4121_0066",
-			"value":"しかし……！"
+			"value":"But...!"
 		},
 		{
 			"key":"EP10_S4121_0067",
-			"value":"私にとってお前の姿を取り続けることが\nどれだけ屈辱的かわかっていれば――"
+			"value":"If you had any idea how humiliating it was\nfor me to remain in your form..."
 		},
 		{
 			"key":"EP10_S4121_0068",
-			"value":"私の意思が固いことも、わかるはずだ"
+			"value":"Then you know how firm my resolve is."
 		},
 		{
 			"key":"EP10_S4121_0069",
-			"value":"（元の世界に戻った時、ミユキは表情豊かで\n　まるで普通の女の子だった……）"
+			"value":"(When we were back in the real world, Miyuki\nseemed just like any other girl.)"
 		},
 		{
 			"key":"EP10_S4121_0070",
-			"value":"（だからレナモンがどれだけ辛い思いをしたのか\n　僕には想像がつく……だけど！）"
+			"value":"(That’s why I can imagine what Renamon must\nhave gone through. Even so...!)"
 		},
 		{
 			"key":"EP10_S4121_0071",
-			"value":"残念だけど、私たちだって\n簡単に犠牲になるわけにはいかないの！"
+			"value":"Sorry to say it, but we can’t just lay down\nand let ourselves become sacrifices!"
 		},
 		{
 			"key":"EP10_S4121_0072",
-			"value":"サキ！"
+			"value":"Saki!"
 		},
 		{
 			"key":"EP10_S4121_0073",
-			"value":"私たちだって、仲間には死んでほしくない\nフローラモンと一緒に生きたいの！"
+			"value":"We don’t want our friends to die, either.\nI want to live, together with Floramon!"
 		},
 		{
 			"key":"EP10_S4121_0074",
-			"value":"あなたの苦しみはわかるわ\n自分だったらって考えたら、たまらなくなる"
+			"value":"I can tell how much you’ve suffered. If it\nwere me, I don’t think I could take it."
 		},
 		{
 			"key":"EP10_S4121_0075",
-			"value":"でも、そのために私の大事なサキを\n奪わせるわけにはいかないわ！"
+			"value":"Still, I’m not letting my precious Saki get\ntaken away from me for that!"
 		},
 		{
 			"key":"EP10_S4121_0076",
-			"value":"レナモン、僕には主が巫女を解放するなんて\nどうしても思えない"
+			"value":"Renamon, I can’t imagine the Master ever\nletting the maiden go."
 		},
 		{
 			"key":"EP10_S4121_0077",
-			"value":"ミユキを取り戻すためにすべきなのは\n生け贄を捧げることなのか？"
+			"value":"Are sacrifices really the best way to get\nMiyuki back?"
 		},
 		{
 			"key":"EP10_S4121_0078",
-			"value":"本当にミユキを取り戻したいのなら\n僕たちで声を届けるべきだ！"
+			"value":"If you really want her back, we should call\nout to her, together!"
 		},
 		{
 			"key":"EP10_S4121_0079",
-			"value":"私たちの声は、きっとミユキに届く！\nだから、レナモン！"
+			"value":"Our voices can get through to her! So please,\nRenamon!"
 		},
 		{
 			"key":"EP10_S4121_0080",
-			"value":"黙れぇぇっ！"
+			"value":"SHUT UUUP!"
 		},
 		{
 			"key":"EP10_S4121_0081",
-			"value":"レナモン……！"
+			"value":"Renamon...!"
 		},
 		{
 			"key":"EP10_S4121_0082",
-			"value":"認めない……私ではなくお前たちの声ばかりが\nミユキに届くなど、認めない！"
+			"value":"I won’t accept it... That your voices could\nreach her, but not mine!"
 		},
 		{
 			"key":"EP10_S4121_0083",
-			"value":"おとなしく彼女のために贄となれ！！\nそれがお前たちに出来る、たった一つの償いだ！"
+			"value":"Just shut up and sacrifice yourselves for her\nalready! That’s the only way you can atone!"
 		},
 		{
 			"key":"EP10_S4121_0084",
-			"value":"……はぁ？"
+			"value":"...Say what?"
 		},
 		{
 			"key":"EP10_S4121_0085",
-			"value":"カ、カイト？"
+			"value":"K-Kaito?"
 		},
 		{
 			"key":"EP10_S4121_0086",
-			"value":"彼女のためだ？　生け贄だ？\n黙って聞いてりゃ、くだらねーことをべらべらと！"
+			"value":"Doing it for her? Sacrifices? Figured I’d\nwait and listen, but you just go on and on!"
 		},
 		{
 			"key":"EP10_S4121_0087",
-			"value":"テメーらが自分のために他人から奪ったものの\n大きさ、重さ……思い知らせてやる！！"
+			"value":"I’ll teach you just how evil your crimes\nare...stealing people for your own goals!"
 		},
 		{
 			"key":"EP10_S4121_0088",
-			"value":"やれ、ドラクモン！\nあいつを殺せ！！"
+			"value":"Go, Dracmon! Kill that jerk!"
 		},
 		{
 			"key":"EP10_S4121_0089",
-			"value":"仕方ねぇ\nわかったよ、やってやる！"
+			"value":"No helping it now. Right, you got it!"
 		},
 		{
 			"key":"EP10_S4121_0090",
-			"value":"ダ、ダメだよカイト\n一人で突っ込んじゃ危ないよ！"
+			"value":"Hey, stop it, Kaito! You can’t just jump in\non your own!"
 		},
 		{
 			"key":"EP10_S4121_0091",
-			"value":"僕たちも行こう！\nカイトを援護するんだ！"
+			"value":"Let’s go, too! We’ll back him up!"
 		}
 	]
 }

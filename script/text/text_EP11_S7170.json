@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7170_0001",
-			"value":"あ、タクマさん！"
+			"value":"Ah, Takuma!"
 		},
 		{
 			"key":"EP11_S7170_0002",
-			"value":"何か見つかった？"
+			"value":"Did you find anything?"
 		},
 		{
 			"key":"EP11_S7170_0003",
-			"value":"ううん……\nアオイさん、この辺りには来ていないみたい"
+			"value":"No... I don’t think Aoi came here."
 		},
 		{
 			"key":"EP11_S7170_0004",
-			"value":"それとね……この先の山まで行こうと思ってたんだけど\n見ての通りで……"
+			"value":"There’s something else, though. I wanted to\ngo to the mountain up ahead, but look..."
 		},
 		{
 			"key":"EP11_S7170_0005",
-			"value":"ああ、この霧じゃとても先へは進めないよね"
+			"value":"Yeah, there’s no going any further with all\nthat fog."
 		},
 		{
 			"key":"EP11_S7170_0006",
-			"value":"でも、おかしいわよね\nついこの間までは、ここまでじゃなかったはずなのに"
+			"value":"It’s strange. Up until just a little while\nago it hadn’t spread this far."
 		},
 		{
 			"key":"EP11_S7170_0007",
-			"value":"霧が広がるのが、早くなってる～？"
+			"value":"You think it’s starting to move faster?"
 		},
 		{
 			"key":"EP11_S7170_0008",
-			"value":"これも、主のせい……なのよね、きっと"
+			"value":"The Master must be behind this somehow."
 		},
 		{
 			"key":"EP11_S7170_0009",
-			"value":"その可能性はありそうだけど……\nでも、どうしてこんな急に……"
+			"value":"That seems pretty likely. But why this sudden\nchange?"
 		},
 		{
 			"key":"EP11_S7170_0010",
-			"value":"あれっ……！？\n今なんか、人影みたいなの見えなかった？"
+			"value":"What was that?! Did you see some sort of\nshadow just now?"
 		},
 		{
 			"key":"EP11_S7170_0011",
-			"value":"え、どこに？"
+			"value":"What? Where?!"
 		},
 		{
 			"key":"EP11_S7170_0012",
-			"value":"ほらっ！　あの草かげのところ！\nもしかしてアオイさんかも……！"
+			"value":"Over in that patch of grass! See it? That\ncould be Aoi!"
 		},
 		{
 			"key":"EP11_S7170_0013",
-			"value":"っ……ダメ！　ミウ！\nそいつはアオイじゃない！　敵だわ！！"
+			"value":"Miu, no! That’s not Aoi, that’s an enemy!"
 		}
 	]
 }

@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0682_0001",
-			"value":"（この奥にアオイさんがいるのか……）"
+			"value":"(Aoi’s in here...)"
 		},
 		{
 			"key":"EP01_S0682_0002",
-			"value":"アオイさんは無事なのか？"
+			"value":"Do you think she’s okay?"
 		},
 		{
 			"key":"EP01_S0682_0003",
-			"value":"う～ん……ハッキリとはわかんないけど\nニンゲンのコドモが中にいるのは間違いないよ"
+			"value":"Hmm... I can’t say for sure, but there’s\na human child in there, no mistaking it."
 		},
 		{
 			"key":"EP01_S0682_0004",
-			"value":"そうか……"
+			"value":"I see..."
 		},
 		{
 			"key":"EP01_S0682_0005",
-			"value":"（あっという間に人をさらうようなヤツが\n　中にいると思うと少し、いや、かなり怖いけど……）"
+			"value":"(If the thing that kidnapped her is in there\nwith her, that’s...well, pretty scary.)"
 		},
 		{
 			"key":"EP01_S0682_0006",
-			"value":"（何もしないでいたら、いずれ僕も捕まってしまう\n　それだけはダメだ！）"
+			"value":"(I’m sure I’ll get snatched up if we just sit\naround doing nothing. Perish the thought!)"
 		},
 		{
 			"key":"EP01_S0682_0007",
-			"value":"待っててくれ、アオイさん！\n必ず、助けに行くから！"
+			"value":"Hold on, Aoi, we’ll definitely save you!"
 		},
 		{
 			"key":"EP01_S0682_0008",
-			"value":"アオイさん、必ず助けに行くから！"
+			"value":"We’re coming to help you, Aoi!"
 		}
 	]
 }

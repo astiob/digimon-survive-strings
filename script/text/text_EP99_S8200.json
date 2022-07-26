@@ -2,163 +2,163 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S8200_0001",
-			"value":"あ……タクマさん……"
+			"value":"Oh, Takuma, it’s you."
 		},
 		{
 			"key":"EP99_S8200_0002",
-			"value":"なんだか浮かない顔をしてるね\n……なにかあったの？"
+			"value":"You seem pretty down, Miu. Did something\nhappen?"
 		},
 		{
 			"key":"EP99_S8200_0003",
-			"value":"うん……\nでも、いい……かな"
+			"value":"Yeah... But I think I’m okay."
 		},
 		{
 			"key":"EP99_S8200_0004",
-			"value":"悩みがあるならなんでも話してごらん\n秘密は守るからさ"
+			"value":"You sure you don’t want to talk about it?\nDon’t worry, I can keep a secret."
 		},
 		{
 			"key":"EP99_S8200_0005",
-			"value":"（とは言っても、カイトに対する愚痴……かな\nあの二人、また何かあったのかな）"
+			"value":"(It’ll probably just be more complaining\nabout Kaito. They’re at it again, for sure.)"
 		},
 		{
 			"key":"EP99_S8200_0006",
-			"value":"それなら……あのね"
+			"value":"All right, then."
 		},
 		{
 			"key":"EP99_S8200_0007",
-			"value":"タクマさんはさ……\n本当に元の世界に戻りたいって思ってるの？"
+			"value":"Let me ask you, Takuma, do you really want to\ngo back to our world?"
 		},
 		{
 			"key":"EP99_S8200_0008",
-			"value":"……え？\nそ、それってどういうこと？？"
+			"value":"Huh? Miu, what are you asking here?"
 		},
 		{
 			"key":"EP99_S8200_0009",
-			"value":"実はね、ウチ……\n元の世界に戻りたくない……かも"
+			"value":"Well, to tell you the truth, I’m not sure\nI want to go back."
 		},
 		{
 			"key":"EP99_S8200_0010",
-			"value":"（これは予想外の告白だぞ……\nさて、どう返答すれば……？）"
+			"value":"(Well, I wasn’t expecting that! What am\nI supposed to say now?)"
 		},
 		{
 			"key":"EP99_S8200_Q1",
-			"value":"ミウの予想外の思いに対して"
+			"value":"How do I respond to Miu’s unexpected\nquestion?"
 		},
 		{
 			"key":"EP99_S8200_Q1_A1",
-			"value":"どうしてそう思うの？"
+			"value":"Why not?"
 		},
 		{
 			"key":"EP99_S8200_Q1_A2",
-			"value":"ここの方が居心地がいい？"
+			"value":"You like it here?"
 		},
 		{
 			"key":"EP99_S8200_Q1_A3",
-			"value":"ならもっと強くならなきゃ"
+			"value":"Then get stronger."
 		},
 		{
 			"key":"EP99_S8200_0011",
-			"value":"ねえ、どうしてそう思うの？"
+			"value":"But why wouldn’t you want to go back?"
 		},
 		{
 			"key":"EP99_S8200_0012",
-			"value":"え、あ……う～ん……\nあはは……な～んて、ね！"
+			"value":"Oh, uh, well... Ahaha, just kidding!"
 		},
 		{
 			"key":"EP99_S8200_0013",
-			"value":"……え？"
+			"value":"What?"
 		},
 		{
 			"key":"EP99_S8200_0014",
-			"value":"うっそ～！\nそう言ったらどう思うかな～って！"
+			"value":"Gotcha that time! I just wanted to see the\nlook on your face when I said that."
 		},
 		{
 			"key":"EP99_S8200_0015",
-			"value":"いまのはただの冗談！\n忘れて、忘れていいから、ね！"
+			"value":"The whole thing was a joke! Go ahead and\nforget all about it, okay?"
 		},
 		{
 			"key":"EP99_S8200_0016",
-			"value":"なんだよ、ミウ\nめちゃくちゃ驚いたよ！"
+			"value":"Jeeze, Miu, you really had me going there!"
 		},
 		{
 			"key":"EP99_S8200_0017",
-			"value":"ふふ、でしょ～！\n冗談だから、お兄ちゃんに吹き込まないでよ？"
+			"value":"Heheh, I got you good, didn’t I? Oh, and\nsince it was a joke, don’t tell Kaito, okay?"
 		},
 		{
 			"key":"EP99_S8200_0018",
-			"value":"（まったく、ミウってば……）"
+			"value":"(Oh, that Miu...)"
 		},
 		{
 			"key":"EP99_S8200_0019",
-			"value":"（とはいうものの……さ\nホントに冗談なのかな……）"
+			"value":"(But still... I wonder if she wasn’t entirely\njoking...)"
 		},
 		{
 			"key":"EP99_S8200_0020",
-			"value":"もしかして\nここの世界の居心地がいいの？"
+			"value":"So, you like it here?"
 		},
 		{
 			"key":"EP99_S8200_0021",
-			"value":"タクマさんは正直なところ、どう思う？"
+			"value":"Listen, Takuma, tell me what you really\nthink, okay?"
 		},
 		{
 			"key":"EP99_S8200_0022",
-			"value":"いや、僕はその……"
+			"value":"I mean, uh..."
 		},
 		{
 			"key":"EP99_S8200_0023",
-			"value":"ねえ、ホントのところを教えてよ？"
+			"value":"No, seriously. I want your honest opinion."
 		},
 		{
 			"key":"EP99_S8200_0024",
-			"value":"（本心を打ち明けないまま聞き返すなんて……）"
+			"value":"(So, she’s ignoring my question and insisting\nI answer hers instead.)"
 		},
 		{
 			"key":"EP99_S8200_0025",
-			"value":"（まるでまるでこっちを試しているか\n誤魔化しているようだ）"
+			"value":"(It’s like she’s either testing me or trying\nto get out of answering.)"
 		},
 		{
 			"key":"EP99_S8200_0026",
-			"value":"ならさ、もっと強くならなきゃ"
+			"value":"Then you’ll have to get stronger."
 		},
 		{
 			"key":"EP99_S8200_0027",
-			"value":"……どういうこと？"
+			"value":"...What do you mean?"
 		},
 		{
 			"key":"EP99_S8200_0028",
-			"value":"だってさ、ここって\n生きるか死ぬかの世界でしょ"
+			"value":"I’m saying, in this world, everything is\na matter of life or death."
 		},
 		{
 			"key":"EP99_S8200_0029",
-			"value":"だったら強い事に\nこしたことはないじゃないか"
+			"value":"So you have to be strong."
 		},
 		{
 			"key":"EP99_S8200_0030",
-			"value":"……そっか、そうだよね"
+			"value":"...Oh, yeah, you’re right."
 		},
 		{
 			"key":"EP99_S8200_0031",
-			"value":"そういう意味では\n元の世界と変わらないか……"
+			"value":"I guess in that sense, this world is just\nlike ours."
 		},
 		{
 			"key":"EP99_S8200_0032",
-			"value":"（え……ミウは\nいまなんて言ったんだ……？）"
+			"value":"(Hm? Did Miu just say what I thought she\nsaid?)"
 		},
 		{
 			"key":"EP99_S8200_0033",
-			"value":"うん、タクマさん\n聞いてくれてありがとう"
+			"value":"Well, thanks for listening, Takuma."
 		},
 		{
 			"key":"EP99_S8200_0034",
-			"value":"それじゃあね"
+			"value":"See you around."
 		},
 		{
 			"key":"EP99_S8200_0035",
-			"value":"（あっ、ミウ……行っちゃった）"
+			"value":"(Oh no, Miu’s...gone.)"
 		},
 		{
 			"key":"EP99_S8200_0036",
-			"value":"（なんだか思い詰めた感じだったけど\n大丈夫かな……）"
+			"value":"(She seemed kind of upset. I hope she’s\nokay...)"
 		}
 	]
 }

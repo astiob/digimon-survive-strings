@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S6300_0001",
-			"value":"あれ……そこにいるのは\nもしかして……？"
+			"value":"Hm? Ryo, is that you?"
 		},
 		{
 			"key":"EP99_S6300_0002",
-			"value":"おう、なんだタクマか"
+			"value":"Oh, Takuma, it’s you."
 		},
 		{
 			"key":"EP99_S6300_0003",
-			"value":"奇遇ですね、こんな場所で"
+			"value":"I didn’t expect to find you here."
 		},
 		{
 			"key":"EP99_S6300_0004",
-			"value":"もしかして僕の事を\n待ち伏せしている……？"
+			"value":"You weren’t waiting for me to come by or\nanything, were you?"
 		},
 		{
 			"key":"EP99_S6300_0005",
-			"value":"ねーよ！　なんでおめーを\n待ってるんだよ"
+			"value":"No way! I mean, why would I do that?"
 		},
 		{
 			"key":"EP99_S6300_0006",
-			"value":"ま、それもそっか\nと、いうわけで……"
+			"value":"Yeah, right. Okay, well, I’d better be going."
 		},
 		{
 			"key":"EP99_S6300_0007",
-			"value":"ちょ、ちょっと待てって！\nなんでいつもすぐに帰ろうとするんだよ！"
+			"value":"Hold on just a sec, would you?! Why are you\nalways in such a hurry to leave?!"
 		},
 		{
 			"key":"EP99_S6300_0008",
-			"value":"それに……あれだ\nオマエに相談があったんだよ！"
+			"value":"And anyway...uh... I wanted to ask you\nsomething!"
 		},
 		{
 			"key":"EP99_S6300_0009",
-			"value":"……また？"
+			"value":"Again?"
 		},
 		{
 			"key":"EP99_S6300_0010",
-			"value":"まあまあそう言うなよ\n実はさ……"
+			"value":"Come on, don’t be like that. Listen..."
 		},
 		{
 			"key":"EP99_S6300_0011",
-			"value":"……オレの手料理の味見をして\n欲しいんだよ"
+			"value":"I want you to try some of this food I made."
 		},
 		{
 			"key":"EP99_S6300_0012",
-			"value":"ほら、これだよ\nタッパーに詰めてきたんだけどよ"
+			"value":"Here, I brought it in this plastic container."
 		},
 		{
 			"key":"EP99_S6300_0013",
-			"value":"（……まるで意味がわからない）"
+			"value":"(Uh...what am I supposed to make of this,\nexactly?)"
 		},
 		{
 			"key":"EP99_S6300_0014",
-			"value":"（いったいこれは……\nどう反応すればいいんだろう……）"
+			"value":"(And how do I respond?)"
 		},
 		{
 			"key":"EP99_S6300_Q1",
-			"value":"リョウにどう反応しよう……"
+			"value":"What should I say to Ryo?"
 		},
 		{
 			"key":"EP99_S6300_Q1_A1",
-			"value":"それって告白？"
+			"value":"Are you in love?"
 		},
 		{
 			"key":"EP99_S6300_Q1_A2",
-			"value":"薬とか盛ってる？"
+			"value":"Is it drugged?"
 		},
 		{
 			"key":"EP99_S6300_Q1_A3",
-			"value":"なぜ僕にそれを？"
+			"value":"Why do this?"
 		},
 		{
 			"key":"EP99_S6300_0015",
-			"value":"それってまさか僕に告白……？"
+			"value":"Um, is this some sort of confession? Are you\nsaying you’re in love with me?!"
 		},
 		{
 			"key":"EP99_S6300_0016",
-			"value":"ちげーよ！\nそんなんじゃねーって！"
+			"value":"Ugh, no! Not even close!"
 		},
 		{
 			"key":"EP99_S6300_0017",
-			"value":"まあ、そう思うのも\n仕方ねーけどよ……"
+			"value":"I mean, I guess I can see why you’d think\nthat..."
 		},
 		{
 			"key":"EP99_S6300_0018",
-			"value":"（……怪しい）"
+			"value":"(The way Ryo is acting is really\nsuspicious...)"
 		},
 		{
 			"key":"EP99_S6300_0019",
-			"value":"ほら、この間よ\nアドバイスしてもらっただろ？"
+			"value":"But remember how I asked for your advice\nbefore?"
 		},
 		{
 			"key":"EP99_S6300_0020",
-			"value":"クネモンとの付き合い方でさ\nそれで試しに手料理を作ってみたんだよ"
+			"value":"About how to get along better with Kunemon?\nWell, I thought I’d try cooking for him."
 		},
 		{
 			"key":"EP99_S6300_0021",
-			"value":"（なるほど……でも\nリョウは意外に母性があるんだな……）"
+			"value":"(I get it. Still, I’m surprised at Ryo’s\nmaternal instincts.)"
 		},
 		{
 			"key":"EP99_S6300_0022",
-			"value":"これって薬とか盛ってる……とか？"
+			"value":"What? Did you drug this or something?"
 		},
 		{
 			"key":"EP99_S6300_0023",
-			"value":"はぁ！？"
+			"value":"Huh?!"
 		},
 		{
 			"key":"EP99_S6300_0024",
-			"value":"僕を昏睡させてどうするつもり？\nまさか……！"
+			"value":"Are you trying to knock me out for some\nreason? Don’t tell me—"
 		},
 		{
 			"key":"EP99_S6300_0025",
-			"value":"ちがう、そんなんじゃねえから！"
+			"value":"No! It’s not like that at all!"
 		},
 		{
 			"key":"EP99_S6300_0026",
-			"value":"あの、気持ちは嬉しいけど\nまずはトモダチから……じゃだめ？"
+			"value":"I mean, I’m flattered you feel that way, but\nshouldn’t we at least be friends first?"
 		},
 		{
 			"key":"EP99_S6300_0027",
-			"value":"ちょ、おまっ！！\n変に顔を赤くしてんじゃねえー！"
+			"value":"Wha’?! What is wrong with you? Stop blushing!"
 		},
 		{
 			"key":"EP99_S6300_0028",
-			"value":"何故僕にそれを？"
+			"value":"Why are you doing this?"
 		},
 		{
 			"key":"EP99_S6300_0029",
-			"value":"いやさ、この間相談しただろ？\nクネモンとの付き合い方のやつ"
+			"value":"Well, remember how I asked you for advice\nbefore? About how to get along with Kunemon?"
 		},
 		{
 			"key":"EP99_S6300_0030",
-			"value":"それで作ってみたんだけどよ……\n他の奴に味見を頼んだら変に勘ぐられるだろ……"
+			"value":"That’s why I cooked that, but if I asked\nsomeone else to try it, they wouldn’t get it."
 		},
 		{
 			"key":"EP99_S6300_0031",
-			"value":"（いや、僕でも勘ぐるよ……\nでも、クネモンに気遣うなんて……）"
+			"value":"(I mean, I didn’t get it either. Still, I’m\nsurprised.)"
 		},
 		{
 			"key":"EP99_S6300_0032",
-			"value":"（リョウも）"
+			"value":"(Ryo really seems concerned for Kunemon’s\nfeelings.)"
 		},
 		{
 			"key":"EP99_S6300_0033",
-			"value":"まあ、じゃあ、とりあえず\n……あむっ"
+			"value":"Well, anyway, let me try it. *munch*"
 		},
 		{
 			"key":"EP99_S6300_0034",
-			"value":"どうだ、美味いか？"
+			"value":"So, how is it?"
 		},
 		{
 			"key":"EP99_S6300_0035",
-			"value":"うーん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP99_S6300_0036",
-			"value":"美味いような……美味くないような……\nボーダーラインギリギリ"
+			"value":"Well, it’s not bad, but it’s not great\neither... I’d say it’s right on the line."
 		},
 		{
 			"key":"EP99_S6300_0037",
-			"value":"どっちなんだよ……！"
+			"value":"Oh, come on! Make up your mind!"
 		}
 	]
 }

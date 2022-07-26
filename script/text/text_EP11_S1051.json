@@ -2,99 +2,99 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1051_0001",
-			"value":"教授、何か見つかりましたか？"
+			"value":"Hey Professor, have you found anything?"
 		},
 		{
 			"key":"EP11_S1051_0002",
-			"value":"このくぼみは……何か意味があるような気がするが……"
+			"value":"This cavity seems to have some sort\nof meaning..."
 		},
 		{
 			"key":"EP11_S1051_0003",
-			"value":"何かって、なんだよ？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP11_S1051_0004",
-			"value":"うむ……わからん"
+			"value":"Hmm... I can’t really say."
 		},
 		{
 			"key":"EP11_S1051_0005",
-			"value":"先ほど手に入れた【勾玉】と\nここのくぼみは同じ形のようだな……"
+			"value":"The Magatama we found just now seems to be\nthe same shape as this cavity..."
 		},
 		{
 			"key":"EP11_S1051_0006",
-			"value":"おそらく、【勾玉】はここで使うのだろう"
+			"value":"Maybe we can use it here."
 		},
 		{
 			"key":"EP11_S1051_0007",
-			"value":"よし、タクマ\n試してみようぜ"
+			"value":"All right, Takuma. Let’s give it a shot."
 		},
 		{
 			"key":"EP11_S1051_Q1",
-			"value":"【勾玉】をくぼみに……どうする？"
+			"value":"Should I put the Magatama in the cavity?"
 		},
 		{
 			"key":"EP11_S1051_Q1_A1",
-			"value":"はめてみる！"
+			"value":"Jam it in!"
 		},
 		{
 			"key":"EP11_S1051_Q1_A2",
-			"value":"叩きつけてみる！"
+			"value":"Slam it down!"
 		},
 		{
 			"key":"EP11_S1051_Q1_A3",
-			"value":"高々とかざしてみる！"
+			"value":"Hold it up high!"
 		},
 		{
 			"key":"EP11_S1051_0008",
-			"value":"（よし、【勾玉】をくぼみにはめてみよう！）"
+			"value":"(I inserted the Magatama into the cavity!)"
 		},
 		{
 			"key":"EP11_S1051_0009",
-			"value":"タクマ！　何か動いた……"
+			"value":"Takuma! Something moved..."
 		},
 		{
 			"key":"EP11_S1051_0010",
-			"value":"あ、床が開いた！"
+			"value":"Oh, the floor opened up!"
 		},
 		{
 			"key":"EP11_S1051_0011",
-			"value":"おお、中に何かある！"
+			"value":"Oh, now we can go inside!"
 		},
 		{
 			"key":"EP11_S1051_0012",
-			"value":"（よーし、ここは思い切って\n【勾玉】をくぼみに叩きつけてみよう！）"
+			"value":"(Okay, I’ll slam the Magatama into the cavity\nhere!)"
 		},
 		{
 			"key":"EP11_S1051_0013",
-			"value":"えいっ！"
+			"value":"Hyaaah!"
 		},
 		{
 			"key":"EP11_S1051_0014",
-			"value":"タクマくん！　そんなに乱暴にしては……"
+			"value":"Takuma! Don’t be so reckless..."
 		},
 		{
 			"key":"EP11_S1051_0015",
-			"value":"おいおい、タクマ\n慎重にやってくれよ"
+			"value":"Jeez, Takuma, be careful with that thing!"
 		},
 		{
 			"key":"EP11_S1051_0016",
-			"value":"（よし、くぼみの前で\n【勾玉】をかざしてみよう！）"
+			"value":"(Okay, I’ll hold up the Magatama in front of\nthe cavity!)"
 		},
 		{
 			"key":"EP11_S1051_0017",
-			"value":"えいっ！"
+			"value":"Hyaaah!"
 		},
 		{
 			"key":"EP11_S1051_0018",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP11_S1051_0019",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP11_S1051_0020",
-			"value":"タクマ……なにも起きないようだぜ？"
+			"value":"Takuma... Nothing’s happening."
 		}
 	]
 }

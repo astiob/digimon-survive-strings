@@ -2,111 +2,111 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0033_0001",
-			"value":"いいか！　警戒を怠るな！\n何が起こるかわからないんだからな！"
+			"value":"We have NO IDEA what’s waiting ahead of us!\nYou must remain VIGILANT at ALL TIMES!"
 		},
 		{
 			"key":"EP05_S0033_0002",
-			"value":"何回同じこと言ってんだよ……"
+			"value":"Enough with this crap."
 		},
 		{
 			"key":"EP05_S0033_0003",
-			"value":"何だと？　何か文句でもあるのか！？"
+			"value":"What?! You got a problem with what I’m\nsaying?!"
 		},
 		{
 			"key":"EP05_S0033_0004",
-			"value":"そう聞こえたんならそうなんじゃないスか？"
+			"value":"Did I stutter?"
 		},
 		{
 			"key":"EP05_S0033_0005",
-			"value":"（ヤバい！　シュウジさんとミノルが喧嘩に\n　なりそうだ！　急いで止めないと！）"
+			"value":"(This is bad! Shuuji and Minoru are ready to\ngo at it! I’ve got to stop them!)"
 		},
 		{
 			"key":"EP05_S0033_Q1",
-			"value":"（どうすれば喧嘩を止められる……？）"
+			"value":"(How can I stop them from fighting?)"
 		},
 		{
 			"key":"EP05_S0033_Q1_A1",
-			"value":"冷静になってもらおう……"
+			"value":"Let’s keep our cool..."
 		},
 		{
 			"key":"EP05_S0033_Q1_A2",
-			"value":"僕も強気に出るか……"
+			"value":"Gotta stay focused..."
 		},
 		{
 			"key":"EP05_S0033_Q1_A3",
-			"value":"二人とも悪いし、注意しとくか……"
+			"value":"Come on, you two..."
 		},
 		{
 			"key":"EP05_S0033_0007",
-			"value":"まぁまぁシュウジさん、冷静に\n冷静にいきましょう"
+			"value":"Come on, Shuuji, cooler heads have to prevail\nhere."
 		},
 		{
 			"key":"EP05_S0033_0008",
-			"value":"ぼ、僕は冷静だ……"
+			"value":"I, I am cool..."
 		},
 		{
 			"key":"EP05_S0033_0009",
-			"value":"みんなも不安なんですから、ここはリーダーとして\n前向きに、落ち着いたところを見せましょうよ"
+			"value":"Everyone’s anxious here, so our leader should\nshow them how to stay calm and optimistic."
 		},
 		{
 			"key":"EP05_S0033_0010",
-			"value":"う、うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP05_S0033_0012",
-			"value":"シュウジさん、落ち着いてください"
+			"value":"Hey, calm down, Shuuji."
 		},
 		{
 			"key":"EP05_S0033_0013",
-			"value":"僕は落ち着いている！"
+			"value":"But I AM calm!"
 		},
 		{
 			"key":"EP05_S0033_0014",
-			"value":"今は喧嘩してる場合じゃないでしょう\n違いますか？"
+			"value":"This is no time for dissent in the ranks, am\nI right?"
 		},
 		{
 			"key":"EP05_S0033_0015",
-			"value":"そ、それは……そうだな……"
+			"value":"Well... Yeah, that’s true..."
 		},
 		{
 			"key":"EP05_S0033_0017",
-			"value":"ミノル、今の言い方はよくないぞ"
+			"value":"Minoru, you should watch what you say."
 		},
 		{
 			"key":"EP05_S0033_0018",
-			"value":"オレが悪いのかよ！？"
+			"value":"How am I in the wrong here?!"
 		},
 		{
 			"key":"EP05_S0033_0019",
-			"value":"シュウジさんも、熱くならないでください\nリーダーなんですから"
+			"value":"And you, Shuuji, try not to get so heated.\nYou’re our leader, after all."
 		},
 		{
 			"key":"EP05_S0033_0020",
-			"value":"う、うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP05_S0033_0021",
-			"value":"……さっきは頭に血が昇っていたようだ"
+			"value":"The blood went to my head back there."
 		},
 		{
 			"key":"EP05_S0033_0022",
-			"value":"とは言え、ここから先は未知の場所だ"
+			"value":"Still, we’re going into unknown territory up\nahead."
 		},
 		{
 			"key":"EP05_S0033_0023",
-			"value":"集団行動に努めるように\nいいね！？"
+			"value":"We have to stick together. Got it?!"
 		},
 		{
 			"key":"EP05_S0033_0024",
-			"value":"なんだよ、謝りもしないで\n言いたいことだけ言ってさ"
+			"value":"He just says whatever he wants to, and never\napologizes for anything..."
 		},
 		{
 			"key":"EP05_S0033_0025",
-			"value":"まぁまぁ、僕らは落ち着いていよう"
+			"value":"Aw come on, we gotta keep our cool here..."
 		},
 		{
 			"key":"EP05_S0033_0026",
-			"value":"（一番落ち着いてほしいのは\n　シュウジさんなんだけどな……）"
+			"value":"(That applies to Shuuji more than anyone...)"
 		}
 	]
 }

@@ -2,499 +2,499 @@
 	"scenario_text":[
 		{
 			"key":"EP08_S0090_0001",
-			"value":"ここなら、誰かに聞かれる心配はなさそうだな"
+			"value":"Okay, I don’t think we need to worry about\nanyone eavesdropping on us here."
 		},
 		{
 			"key":"EP08_S0090_0002",
-			"value":"うん、それじゃ早速話すね\nといっても……"
+			"value":"Right, so I’ll start explaining..."
 		},
 		{
 			"key":"EP08_S0090_0003",
-			"value":"これは全部、私の推測なんだけど"
+			"value":"But you have to understand, this is all\nguesswork on my part."
 		},
 		{
 			"key":"EP08_S0090_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP08_S0090_0005",
-			"value":"私たちがいる『この世界』と\n私たちが呑み込まれた『あっちの世界』は"
+			"value":"I think the world we’re in right now, this\nworld..."
 		},
 		{
 			"key":"EP08_S0090_0006",
-			"value":"繋がってるんだと思う"
+			"value":"...and the one we got dragged into, the other\nworld, are connected."
 		},
 		{
 			"key":"EP08_S0090_0007",
-			"value":"それはそうだよね\nでなきゃ、行ったり来たりできないよ"
+			"value":"That makes sense. Otherwise we couldn’t\ntravel between them."
 		},
 		{
 			"key":"EP08_S0090_0008",
-			"value":"そういうことじゃないの\n『あっちの世界』で何か事件が起きると──"
+			"value":"That’s not what I mean. I’m saying if there’s\nan accident in the other world..."
 		},
 		{
 			"key":"EP08_S0090_0009",
-			"value":"それと対応するように\n『この世界』でも何かが起こる"
+			"value":"...then a corresponding event will happen in\nthis world."
 		},
 		{
 			"key":"EP08_S0090_0010",
-			"value":"え……？"
+			"value":"Hm?"
 		},
 		{
 			"key":"EP08_S0090_0011",
-			"value":"さっき、テレビのニュースで言ってた事故……\nあれも、きっとそう"
+			"value":"That would explain those accidents we saw on\nthe news just now."
 		},
 		{
 			"key":"EP08_S0090_0012",
-			"value":"それって……"
+			"value":"But...how?"
 		},
 		{
 			"key":"EP08_S0090_0013",
-			"value":"思い出してタクマさん\nロープウェイや廃工場で何があったか"
+			"value":"Remember what happened with the cable car and\nat the abandoned factory, Takuma?"
 		},
 		{
 			"key":"EP08_S0090_0014",
-			"value":"（ロープウェイ……それから廃工場……\n　あの時、僕らの身に起きたことは……）"
+			"value":"(The cable car, and the factory... What was\nit that happened to us there?)"
 		},
 		{
 			"key":"EP08_S0090_0015",
-			"value":"（そうか……そういうことか！）"
+			"value":"(Wait, I’ve got it! So that’s what this is\nabout!)"
 		},
 		{
 			"key":"EP08_S0090_0016",
-			"value":"（ロープウェイの事故……\n　あの現場は、リョウが死んだ場所）"
+			"value":"(The site of the cable car accident is where\nRyo died.)"
 		},
 		{
 			"key":"EP08_S0090_0017",
-			"value":"（ロープウェイの事故……あの現場は\n　リョウが霧に呑まれそうになった場所）"
+			"value":"(The site of the cable car accident is where\nRyo almost got taken by the mist.)"
 		},
 		{
 			"key":"EP08_S0090_0018",
-			"value":"（そして、地滑りが起きたのは\n　ピエモンのいた廃工場だ）"
+			"value":"(And that landslide happened at the factory\nwhere we fought Piedmon.)"
 		},
 		{
 			"key":"EP08_S0090_0019",
-			"value":"つまり、２つの世界は重なり合うように\n影響しあってる……？"
+			"value":"So you’re saying the two worlds influence\neach other? As if they were overlapping?"
 		},
 		{
 			"key":"EP08_S0090_0020",
-			"value":"正確に言えば、あっちの世界の出来事が\nこっちの世界に影響を与えてるんだと思う"
+			"value":"To be precise, I think things that happen in\nthat world have an influence on this one."
 		},
 		{
 			"key":"EP08_S0090_0021",
-			"value":"その証拠に……といえるかわからないけど\n二つの場所には共通点もあったの"
+			"value":"And there’s something else those places had\nin common too, which could be more proof."
 		},
 		{
 			"key":"EP08_S0090_0022",
-			"value":"（共通点？\n　そんなのあったっけ？）"
+			"value":"(They...had something else in common?\nReally?)"
 		},
 		{
 			"key":"EP08_S0090_0023",
-			"value":"（場所以外に、重なるもの……？\n　２つの世界で共通する何かって……）"
+			"value":"(What else links those places besides\nlocation? A shared feature of both worlds...)"
 		},
 		{
 			"key":"EP08_S0090_0024",
-			"value":"もしかして……霧？"
+			"value":"You mean...the fog?"
 		},
 		{
 			"key":"EP08_S0090_0025",
-			"value":"そう。どちらにも……霧が立ち込めてた"
+			"value":"Exactly. In both of those places, we had to\ndeal with the fog."
 		},
 		{
 			"key":"EP08_S0090_0026",
-			"value":"何かが起きるときは、必ず霧が辺りを覆ってたの"
+			"value":"Whenever something happened, the fog would\nroll in and cover the whole area."
 		},
 		{
 			"key":"EP08_S0090_0027",
-			"value":"ということは……"
+			"value":"So, in other words..."
 		},
 		{
 			"key":"EP08_S0090_0028",
-			"value":"あっちの世界で、霧が出ているところには\n悪いことが起きて"
+			"value":"...bad things happen where the fog shows up\nin the other world..."
 		},
 		{
 			"key":"EP08_S0090_0029",
-			"value":"そのうち、この世界にも影響が出る\n……そういうことなのか？"
+			"value":"...and then that has some sort of effect on\nthis world too. Is that it?"
 		},
 		{
 			"key":"EP08_S0090_0030",
-			"value":"たぶん"
+			"value":"I think so."
 		},
 		{
 			"key":"EP08_S0090_0031",
-			"value":"それ、ヤバいじゃないか！\nあっちじゃ、この校舎にも霧が出てた"
+			"value":"But that’s terrible! The fog showed up here\nat this school in the other world."
 		},
 		{
 			"key":"EP08_S0090_0032",
-			"value":"あそこには、まだみんないるかもしれない！"
+			"value":"The others might all still be there!"
 		},
 		{
 			"key":"EP08_S0090_0033",
-			"value":"あっちにいるみんなに、もしものことがあったら……！"
+			"value":"What if something happens to them?!"
 		},
 		{
 			"key":"EP08_S0090_0034",
-			"value":"このことを知っているのは\n私とタクマさんだけ……つまり"
+			"value":"And we’re the only ones who know about this,\nTakuma."
 		},
 		{
 			"key":"EP08_S0090_0035",
-			"value":"止められるのは\n私たちだけしかいないの"
+			"value":"Which means we’re also the only ones who can\ndo something about it."
 		},
 		{
 			"key":"EP08_S0090_0036",
-			"value":"え、それってつまり……！？\nいや待って、冗談……だよね？？"
+			"value":"Wait, so you’re saying... No, come on, you\ncan’t be serious!"
 		},
 		{
 			"key":"EP08_S0090_0037",
-			"value":"そう。みんなを助けられるのも……\n私とあなた――タクマさんだけ"
+			"value":"But I am. We’re the only ones who can save\nthem, Takuma. It’s down to us."
 		},
 		{
 			"key":"EP08_S0090_0038",
-			"value":"私たちが、あっちの世界に戻って\nみんなを助けないといけないの！"
+			"value":"We have to go back to that other world and\nsave them!"
 		},
 		{
 			"key":"EP08_S0090_0039",
-			"value":"だからって、僕らに何ができるんだ？"
+			"value":"But what can we do?"
 		},
 		{
 			"key":"EP08_S0090_0040",
-			"value":"現に、僕らはあっちの世界に戻る方法さえ\nわからないんだよ？"
+			"value":"We don’t even know how to go back."
 		},
 		{
 			"key":"EP08_S0090_0041",
-			"value":"戻る方法ならあるよ！"
+			"value":"Oh, but we do!"
 		},
 		{
 			"key":"EP08_S0090_0042",
-			"value":"えっ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP08_S0090_0043",
-			"value":"私の歌で、２つの世界が繋がるのを\nタクマさんも見たでしょ？"
+			"value":"You saw how my song was able to join the two\nworlds, right? It’s an ability..."
 		},
 		{
 			"key":"EP08_S0090_0044",
-			"value":"あれは、水無瀬家に代々伝わる力なの\n私なら、もう一度２つの世界を繋げられる！"
+			"value":"...passed down in the Minase family for\ngenerations. I can join the worlds again."
 		},
 		{
 			"key":"EP08_S0090_0045",
-			"value":"水無瀬家に代々伝わる……って"
+			"value":"Wait, passed down in the Minase family?"
 		},
 		{
 			"key":"EP08_S0090_0046",
-			"value":"それじゃあ……あのおばあさんが言ってた\n集団失踪事件で消えた、水無瀬家のお嬢さんって……！"
+			"value":"Wasn’t that the family the old woman said\nlost a daughter in the mass disappearance?"
 		},
 		{
 			"key":"EP08_S0090_0047",
-			"value":"うん、私のこと"
+			"value":"Yes, that was me."
 		},
 		{
 			"key":"EP08_S0090_0048",
-			"value":"やっぱり！　それじゃあミユキとハルが\nあっちの世界に行ったのは、５０年も前！？"
+			"value":"I thought so! But does that mean you and Haru\ncrossed into that world fifty years ago?!"
 		},
 		{
 			"key":"EP08_S0090_0049",
-			"value":"そういうことになるね"
+			"value":"Apparently."
 		},
 		{
 			"key":"EP08_S0090_0050",
-			"value":"（５０年も、たった２人で……！？\n　そ、そんなことって……！）"
+			"value":"(So those two spent fifty years all alone in\nthat world?! That’s crazy!)"
 		},
 		{
 			"key":"EP08_S0090_0051",
-			"value":"（ああ……また頭がこんがらがりそうだ\n　けど、今大事なのは……）"
+			"value":"(Man, my head’s starting to spin again.\nI need to stay focused on the big picture.)"
 		},
 		{
 			"key":"EP08_S0090_0052",
-			"value":"み、ミユキの受継いだ不思議な力っていうので\nあっちの世界に戻れるかもしれないのはわかったけど……"
+			"value":"Anyway, you’ve inherited this strange power\nthat could take us back there."
 		},
 		{
 			"key":"EP08_S0090_0053",
-			"value":"もし仮に、またあっちに行けたところで\n霧が相手じゃ……"
+			"value":"But let’s say we did manage to return to that\nother world. What do we do about the fog?"
 		},
 		{
 			"key":"EP08_S0090_0054",
-			"value":"あの霧を操っているのは、主なの"
+			"value":"The Master is the one who controls the fog."
 		},
 		{
 			"key":"EP08_S0090_0055",
-			"value":"主って……？"
+			"value":"The Master?"
 		},
 		{
 			"key":"EP08_S0090_0056",
-			"value":"私から魂を半分奪っていた、主"
+			"value":"The one who robbed me of half of my soul."
 		},
 		{
 			"key":"EP08_S0090_0057",
-			"value":"あっちの世界で、子供たちを\n呑み込んでるのも、その主なの"
+			"value":"The same being who consumes children in the\nother world."
 		},
 		{
 			"key":"EP08_S0090_0058",
-			"value":"（そういえば、アルケニモンやピエモンも\n　主に生け贄を、とか言ってた……）"
+			"value":"(Come to think of it, Arukenimon and Piedmon\ndid say the offerings were for “The Master.”)"
 		},
 		{
 			"key":"EP08_S0090_0059",
-			"value":"だけど、どうして\nその主はミユキの魂を奪ったりなんてしてたんだ？"
+			"value":"But why did this Master steal half your soul?"
 		},
 		{
 			"key":"EP08_S0090_0060",
-			"value":"５０年前、私が『あっちの世界』に\nさらわれた時……"
+			"value":"Fifty years ago, when I was drawn into that\nworld,"
 		},
 		{
 			"key":"EP08_S0090_0061",
-			"value":"他にもたくさんの子どもが、同じように\nさらわれたの"
+			"value":"there were many other children that were\ntaken as well."
 		},
 		{
 			"key":"EP08_S0090_0062",
-			"value":"だから、私も最初はただの偶然なんだと\n思ってた"
+			"value":"So at first I thought I was like them,\nbrought over by chance."
 		},
 		{
 			"key":"EP08_S0090_0063",
-			"value":"けど、違ったの\n主の狙いは『巫女の血脈』"
+			"value":"But I wasn’t. What the Master is really after\nis the Blood of the Maiden."
 		},
 		{
 			"key":"EP08_S0090_0064",
-			"value":"巫女……？\nもしかして、ミユキのことなのか？"
+			"value":"In other words...he’s after you?"
 		},
 		{
 			"key":"EP08_S0090_0065",
-			"value":"うん。私が……水無瀬家が受け継いできた\n聖なる力……"
+			"value":"Right. The Master covets the holy power\nI inherited as a member of the Minase family."
 		},
 		{
 			"key":"EP08_S0090_0066",
-			"value":"それが欲しい主は、何百年も待ち続けていたの\n怨みを晴らすために……！"
+			"value":"And he wants to use that power to satisfy\na grudge that goes back hundreds of years."
 		},
 		{
 			"key":"EP08_S0090_0067",
-			"value":"（怨み？　それに何百年も待ってたって……\n　そんな途方もない話……）"
+			"value":"(So this is all about some ancient grudge?\nThis is insane!)"
 		},
 		{
 			"key":"EP08_S0090_0068",
-			"value":"タクマさん、お願い\n私、主の因縁を断ち切りたい"
+			"value":"Please, Takuma, I want you to help me. I want\nto bring an end to the Master’s hate."
 		},
 		{
 			"key":"EP08_S0090_0069",
-			"value":"あの子……ハルを救うためにも\n主を止めたいの……！"
+			"value":"Not just for me, but for my brother...for\nHaru. We need to stop the Master!"
 		},
 		{
 			"key":"EP08_S0090_0070",
-			"value":"止めるったって、一体どうすれば！？"
+			"value":"Stop him? How are we supposed to stop him?!"
 		},
 		{
 			"key":"EP08_S0090_0071",
-			"value":"私にもわからない\nでも、何もしないわけにはいかない……"
+			"value":"I don’t know. But we can’t just stay here and\ndo nothing."
 		},
 		{
 			"key":"EP08_S0090_0072",
-			"value":"何より私……\nハルをひとりぼっちにはさせられないから"
+			"value":"More than anything, I don’t want to leave\nHaru all alone."
 		},
 		{
 			"key":"EP08_S0090_0073",
-			"value":"ミユキ……"
+			"value":"Miyuki..."
 		},
 		{
 			"key":"EP08_S0090_0074",
-			"value":"それに、あっちの世界が壊れていけば\nこの世界だって無事じゃ済まないと思うの"
+			"value":"Besides, if that other world falls apart,\nI doubt this one will fare much better."
 		},
 		{
 			"key":"EP08_S0090_0075",
-			"value":"ミユキの言う通りだ。けど……"
+			"value":"You’re right. I know you’re right, but..."
 		},
 		{
 			"key":"EP08_S0090_0076",
-			"value":"（一体、どうしたらいいんだ……）"
+			"value":"(But what are we supposed to do?)"
 		},
 		{
 			"key":"EP08_S0090_0077",
-			"value":"（この世界が終わりかねない\n　とんでもないことが起きてるのに）"
+			"value":"(Whatever’s happening, it’s big. Big enough\nthat it could mean the end of both worlds.)"
 		},
 		{
 			"key":"EP08_S0090_0078",
-			"value":"（正直、怖い\n　僕なんかに何かできるとは、到底思えない）"
+			"value":"(To be honest, I’m scared. I can’t imagine\nwhat I might be able to do to stop it.)"
 		},
 		{
 			"key":"EP08_S0090_0079",
-			"value":"（だけど、ミユキは戻る気でいる\n　弟を見捨ててはおけないから）"
+			"value":"(But Miyuki wants to go back. She wants to\nsave her brother.)"
 		},
 		{
 			"key":"EP08_S0090_0080",
-			"value":"（僕だって、向こうにいるみんなを助けたい\n　見捨てたくなんてない）"
+			"value":"(And it’s not like I want to just abandon the\nothers. I want to save them too.)"
 		},
 		{
 			"key":"EP08_S0090_0081",
-			"value":"（けど、僕には……そんな力なんてない）"
+			"value":"(But...I don’t see how I can. I don’t have\nthat kind of strength.)"
 		},
 		{
 			"key":"EP08_S0090_0082",
-			"value":"（僕はただの中学生で……特別な力もなくて……\n　そんな僕に世界を救うことなんてできると思えない）"
+			"value":"(I’m just a kid. I don’t have superpowers.\nHow am I supposed to save the world?)   "
 		},
 		{
 			"key":"EP08_S0090_0083",
-			"value":"（僕は、ミユキを見捨ててもいいのか？\n　でも、どうしたら……）"
+			"value":"(But can I really turn my back on Miyuki?\nWhat am I supposed to do?)"
 		},
 		{
 			"key":"EP08_S0090_Q1",
-			"value":"（今の僕の正直な気持ちは……）"
+			"value":"(Honestly, what I keep coming back to is...)"
 		},
 		{
 			"key":"EP08_S0090_Q1_A1",
-			"value":"みんなを見捨てたくない"
+			"value":"I can’t leave them."
 		},
 		{
 			"key":"EP08_S0090_Q1_A2",
-			"value":"怖い"
+			"value":"I’m scared."
 		},
 		{
 			"key":"EP08_S0090_Q1_A3",
-			"value":"世界を救うなんて僕には難しい"
+			"value":"I’m powerless."
 		},
 		{
 			"key":"EP08_S0090_0084",
-			"value":"みんなを見捨てたくない"
+			"value":"I can’t leave them."
 		},
 		{
 			"key":"EP08_S0090_0085",
-			"value":"僕だって……\n僕だって、みんなを見捨てたくなんかない！"
+			"value":"You know, Miyuki, I don’t want to abandon the\nothers either. I want to save them!"
 		},
 		{
 			"key":"EP08_S0090_0086",
-			"value":"タクマさん……それじゃあ……！"
+			"value":"So...does that mean you’ll help?"
 		},
 		{
 			"key":"EP08_S0090_0087",
-			"value":"だけど、僕なんかに\n何が出来るって言うんだ？"
+			"value":"Here’s the thing, I don’t see how anything\nI can do could possibly make a difference."
 		},
 		{
 			"key":"EP08_S0090_0088",
-			"value":"僕は……ただの中学生で\nミユキみたいな特別な力もない"
+			"value":"I... I’m just an ordinary kid. I didn’t\ninherit any special powers like you."
 		},
 		{
 			"key":"EP08_S0090_0089",
-			"value":"あっちの世界で、必死に戦ってきたけど\n本当は……本当は……"
+			"value":"Sure, I fought with all I had in the other\nworld, but really, when you get down to it..."
 		},
 		{
 			"key":"EP08_S0090_0090",
-			"value":"アグモンがいるじゃない！"
+			"value":"You’ve got Agumon, don’t you?!"
 		},
 		{
 			"key":"EP08_S0090_0091",
-			"value":"今までだって、タクマさんは\nアグモンと一緒に、危機を乗り越えてきたでしょ？"
+			"value":"Haven’t the two of you always found some way\nto rise to the challenge?"
 		},
 		{
 			"key":"EP08_S0090_0092",
-			"value":"怖い"
+			"value":"I’m scared."
 		},
 		{
 			"key":"EP08_S0090_0093",
-			"value":"ミユキの言ってることはわかるけど……\n正直、僕はもう……怖いんだ"
+			"value":"Listen, Miyuki, I can see what you’re saying,\nbut...I’m just so scared."
 		},
 		{
 			"key":"EP08_S0090_0094",
-			"value":"タクマさん……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP08_S0090_0095",
-			"value":"今までだって、何度も危険な目に合ってきたけど……"
+			"value":"Sure, we’ve been in a lot of dangerous\nsituations before..."
 		},
 		{
 			"key":"EP08_S0090_0096",
-			"value":"それが、何百年も続く怨みだとか\n世界がどうなるか分からないって言われたら"
+			"value":"but never anything that involved centuries-\nlong grudges, or the fate of the world."
 		},
 		{
 			"key":"EP08_S0090_0097",
-			"value":"僕の手には負えないっていうか\n僕ひとりじゃ、どうしていいか……"
+			"value":"I don’t think I can handle something like\nthat, not on my own."
 		},
 		{
 			"key":"EP08_S0090_0098",
-			"value":"そうだよね……\nこんな話、驚くなって言う方が無理だし……"
+			"value":"Listen, I know what you mean. I realize this\nis a lot to take in."
 		},
 		{
 			"key":"EP08_S0090_0099",
-			"value":"でも、こんな時のために\n私たちには、大切な相手がいるんだと思う"
+			"value":"But don’t you think it’s for times just like\nthese that we have partners to rely on?"
 		},
 		{
 			"key":"EP08_S0090_0100",
-			"value":"（大切な相手って……）"
+			"value":"(Partners...to rely on?)"
 		},
 		{
 			"key":"EP08_S0090_0101",
-			"value":"アグモンの……こと？"
+			"value":"You mean...Agumon?"
 		},
 		{
 			"key":"EP08_S0090_0102",
-			"value":"アグモンがいれば、どんなことも乗り越えられる……\nタクマさんは、そう思ったこと……ない？"
+			"value":"Takuma, haven’t you ever felt like as long as\nyou have Agumon, you can do anything?"
 		},
 		{
 			"key":"EP08_S0090_0103",
-			"value":"僕には難しい"
+			"value":"I’m powerless."
 		},
 		{
 			"key":"EP08_S0090_0104",
-			"value":"僕には、世界を救うなんて……難しすぎるよ\n僕にできることなんて、ないんじゃないかな……？"
+			"value":"I just feel so powerless. How am I supposed\nto save the world? What can I do?  "
 		},
 		{
 			"key":"EP08_S0090_0105",
-			"value":"そんな……そんなことない！"
+			"value":"But, Takuma, you’re anything but powerless!"
 		},
 		{
 			"key":"EP08_S0090_0106",
-			"value":"タクマさんは、私やハルのそばに\nずっといてくれた！"
+			"value":"When we were in that other world together,\nyou were always there for Haru and me!"
 		},
 		{
 			"key":"EP08_S0090_0107",
-			"value":"主に呑み込まれそうになった時だって\n真っ先に駆けつけてくれたのは、タクマさんだよ？"
+			"value":"When I was about to be devoured by the\nMaster, didn’t you rush forward to save me?"
 		},
 		{
 			"key":"EP08_S0090_0108",
-			"value":"今度だって！"
+			"value":"How is this any different?"
 		},
 		{
 			"key":"EP08_S0090_0109",
-			"value":"これ以上は、僕の手にあまるっていうか……\n他に方法がないかを考えたいっていうか……"
+			"value":"I’m just not sure I can handle any more.\nCan’t we think of some other way?"
 		},
 		{
 			"key":"EP08_S0090_0110",
-			"value":"僕みたいな子供じゃどうしようもないよ\nせめて信頼できる大人に相談を……"
+			"value":"What can a kid like me do? We should at least\nfind an adult we can trust and ask for their—"
 		},
 		{
 			"key":"EP08_S0090_0111",
-			"value":"それが難しいことは、タクマさんだって\nわかってるでしょ？"
+			"value":"You know that’s probably not going to happen,\nright?"
 		},
 		{
 			"key":"EP08_S0090_0112",
-			"value":"それは……"
+			"value":"I guess not..."
 		},
 		{
 			"key":"EP08_S0090_0113",
-			"value":"それに……信頼できる相手なら\nアグモンがいるよ"
+			"value":"Besides, if you’re looking for a partner you\ncan trust, remember you have Agumon."
 		},
 		{
 			"key":"EP08_S0090_0114",
-			"value":"タクマさんとアグモンは\n強い絆で結ばれてる……そうでしょ？"
+			"value":"Don’t you two share a powerful bond?"
 		},
 		{
 			"key":"EP08_S0090_0115",
-			"value":"（ミユキの言う通りだ……）"
+			"value":"(Miyuki is right.)"
 		},
 		{
 			"key":"EP08_S0090_0116",
-			"value":"（これまでだって、アグモンと一緒に\n　危機に立ち向かい、苦難を乗り越えてきた）"
+			"value":"(Every challenge I’ve faced so far I’ve been\nable to overcome with Agumon at my side.)"
 		},
 		{
 			"key":"EP08_S0090_0117",
-			"value":"（だったら、今度だって……！）"
+			"value":"(Why should this be any different?)"
 		},
 		{
 			"key":"EP08_S0090_0118",
-			"value":"（そうは……思う。思うんだ……けど……！）"
+			"value":"(It shouldn’t be, really. I know it\nshouldn’t, but...)"
 		},
 		{
 			"key":"EP08_S0090_0119",
-			"value":"（元の世界に戻ってきたという事実が\n　僕を、臆病にさせているような気がした）"
+			"value":"(I don’t know, I feel like somehow coming\nback to this world turned me into a coward.)"
 		},
 		{
 			"key":"EP08_S0090_0120",
-			"value":"タクマさん……お願い……！"
+			"value":"Takuma, please!"
 		}
 	]
 }

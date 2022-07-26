@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0341_0001",
-			"value":"あれっ！？　今の……"
+			"value":"Huh?! Just now, I..."
 		},
 		{
 			"key":"EP01_S0341_0002",
-			"value":"どうしたの、タクマ"
+			"value":"What is it, Takuma?"
 		},
 		{
 			"key":"EP01_S0341_0003",
-			"value":"気のせいかな？\n今、天井の方で何か音が……"
+			"value":"My ears might be playing tricks on me.\nI thought I heard something on the ceiling..."
 		},
 		{
 			"key":"EP01_S0341_0004",
-			"value":"ん～？　うん！\n気のせいじゃないよ、コレ！"
+			"value":"Hmm? Oh! I think your ears work just fine,\nTakuma!"
 		},
 		{
 			"key":"EP01_S0341_0005",
-			"value":"確かに今、ボクにも\n何かが移動してる音が聞こえた！"
+			"value":"I hear something moving around up there, too!"
 		},
 		{
 			"key":"EP01_S0341_0006",
-			"value":"……おっかないな\nそこら中に敵の通り道があるって事か？"
+			"value":"...That’s scary. Does that mean the enemy has\na way to move around up there?"
 		},
 		{
 			"key":"EP01_S0341_0007",
-			"value":"冗談じゃないわ、アオイは\nあんな所を通って連れ去られたの！？"
+			"value":"No way! Does that mean it took Aoi all the\nway up there?!"
 		},
 		{
 			"key":"EP01_S0341_0008",
-			"value":"（頭上から襲われるかもしれないのか？\n　どうすればいいっていうんだ……）"
+			"value":"(We could be attacked from above, is that it?\nHow can we handle that?)"
 		}
 	]
 }

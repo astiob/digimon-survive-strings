@@ -1,120 +1,120 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP12_S9100_0001",
-            "value": "（僕たちは校舎へ戻ってきた）"
-        },
-        {
-            "key": "EP12_S9100_0002",
-            "value": "（遊園地からずっと祠を巡ってきたから\n　ようやく帰ってきた、みたいな感じがする）"
-        },
-        {
-            "key": "EP12_S9100_0003",
-            "value": "（みんなも同じ気持ちなんだろうな\n　それぞれに安心した顔をしてる）"
-        },
-        {
-            "key": "EP12_S9100_0004",
-            "value": "さて、最後の祠はこの一帯にあるはずだが……"
-        },
-        {
-            "key": "EP12_S9100_0005",
-            "value": "うむ、他の祠の位置から考えて\nこの校舎の付近にある可能性が高い"
-        },
-        {
-            "key": "EP12_S9100_0006",
-            "value": "でも、この辺りはもうたくさん探したわよ？"
-        },
-        {
-            "key": "EP12_S9100_0007",
-            "value": "ああ、見える場所は見尽くしたし\n怪しい気配なども特にない"
-        },
-        {
-            "key": "EP12_S9100_0008",
-            "value": "自分たちの拠点にしてたワケだしなー\nこれ以上ないってくらい探索してるぜ？"
-        },
-        {
-            "key": "EP12_S9100_0009",
-            "value": "正直、探し尽くしちゃってるよねー\nこれ以上どこ探せばいいの？　って感じ"
-        },
-        {
-            "key": "EP12_S9100_0010",
-            "value": "確かにそうなんだが……"
-        },
-        {
-            "key": "EP12_S9100_0011",
-            "value": "とりあえず、もう一度探索してみよう\n今度は、より慎重に"
-        },
-        {
-            "key": "EP12_S9100_0012",
-            "value": "ま、それっきゃねえわな"
-        },
-        {
-            "key": "EP12_S9100_0013",
-            "value": "片っ端から探して、手がかりの一つも見つかればいい\nっつーことか"
-        },
-        {
-            "key": "EP12_S9100_0014",
-            "value": "うへ～、地道な作業か～\nシンドそうだぜ……"
-        },
-        {
-            "key": "EP12_S9100_0015",
-            "value": "文句言わないの！\nとにかく探さなきゃ！"
-        },
-        {
-            "key": "EP12_S9100_0016",
-            "value": "そうね。でも……"
-        },
-        {
-            "key": "EP12_S9100_0017",
-            "value": "もう夕方だし、調査はとりあえず明日からにして\n今日は休みましょう"
-        },
-        {
-            "key": "EP12_S9100_0018",
-            "value": "え、もう休むの？\nオレら全然元気だよ？"
-        },
-        {
-            "key": "EP12_S9100_0019",
-            "value": "チンロンモンと戦った教授とガブモンはともかく\nオレらはピエモンの残党くらいとしか戦ってねえしな"
-        },
-        {
-            "key": "EP12_S9100_0020",
-            "value": "いや、僕はアオイさんに賛成だな"
-        },
-        {
-            "key": "EP12_S9100_0021",
-            "value": "これまでの四聖獣を思い返しても、必ず力を試すことに\nなったし、休める時に休んでおいた方がいいと思う"
-        },
-        {
-            "key": "EP12_S9100_0022",
-            "value": "そうだな。何が起きてもいいように、念には念を入れて\n今日は英気を養っておこう"
-        },
-        {
-            "key": "EP12_S9100_0023",
-            "value": "ま、休んでいいなら大歓迎だけどさ！"
-        },
-        {
-            "key": "EP12_S9100_0024",
-            "value": "気を抜きすぎるな……と言いたいが\n久しぶりの拠点だ。緊張を解くのもいいだろう"
-        },
-        {
-            "key": "EP12_S9100_0025",
-            "value": "じゃあ今日はもうお休みだね！\nやったー！"
-        },
-        {
-            "key": "EP12_S9100_0026",
-            "value": "それじゃあ、今夜は久しぶりに\n豪華な夕食にしましょうか"
-        },
-        {
-            "key": "EP12_S9100_0027",
-            "value": "あ、じゃあ私も手伝う！"
-        },
-        {
-            "key": "EP12_S9100_0028",
-            "value": "ありがとう、サキさん"
-        },
-        {
-            "key": "EP12_S9100_0029",
-            "value": "ご飯ができるまで、それぞれ<color=#B41919>自由行動</color>ということで\nみんな、ゆっくりしていてね"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP12_S9100_0001",
+			"value":"(We’re back at the school again.)"
+		},
+		{
+			"key":"EP12_S9100_0002",
+			"value":"(Since we’d gone from shrine to shrine after\nleaving the park, it feels like coming home.)"
+		},
+		{
+			"key":"EP12_S9100_0003",
+			"value":"(The others all seem to feel the same way.\nThey look relieved to be back here.)"
+		},
+		{
+			"key":"EP12_S9100_0004",
+			"value":"So, the final shrine ought to be somewhere in\nthis area..."
+		},
+		{
+			"key":"EP12_S9100_0005",
+			"value":"Yes, judging by the positions of the other\nshrines, it’s likely near the school."
+		},
+		{
+			"key":"EP12_S9100_0006",
+			"value":"But we’ve already done a lot of searching\naround here."
+		},
+		{
+			"key":"EP12_S9100_0007",
+			"value":"Indeed. We’ve been everywhere that might be\nof interest and found nothing strange."
+		},
+		{
+			"key":"EP12_S9100_0008",
+			"value":"This was our home base, after all. We’ve been\nover it like nowhere else."
+		},
+		{
+			"key":"EP12_S9100_0009",
+			"value":"Honestly, I feel like we’ve already looked\neverywhere. Like, what’s left to search?"
+		},
+		{
+			"key":"EP12_S9100_0010",
+			"value":"I know what you’re saying..."
+		},
+		{
+			"key":"EP12_S9100_0011",
+			"value":"...but we might as well try looking around\nagain, only more carefully this time."
+		},
+		{
+			"key":"EP12_S9100_0012",
+			"value":"Sure. What else is there to do?"
+		},
+		{
+			"key":"EP12_S9100_0013",
+			"value":"Yeah, we just gotta go corner to corner and\nhope we can turn somethin’ up."
+		},
+		{
+			"key":"EP12_S9100_0014",
+			"value":"Ugh, sounds like some serious legwork. What\na pain."
+		},
+		{
+			"key":"EP12_S9100_0015",
+			"value":"Oh, quit complaining! We just gotta do it!"
+		},
+		{
+			"key":"EP12_S9100_0016",
+			"value":"That’s true, but..."
+		},
+		{
+			"key":"EP12_S9100_0017",
+			"value":"...it is pretty late. Why don’t we take the\nrest of the day off and search tomorrow?"
+		},
+		{
+			"key":"EP12_S9100_0018",
+			"value":"What? You want to take the day off? But we’re\nall doing just fine."
+		},
+		{
+			"key":"EP12_S9100_0019",
+			"value":"The professor and Gabumon fought Azulongmon,\nbut we only faced Piedmon’s minions."
+		},
+		{
+			"key":"EP12_S9100_0020",
+			"value":"Well, I’m with Aoi on this one."
+		},
+		{
+			"key":"EP12_S9100_0021",
+			"value":"Every one of the Four Sovereign Monsters has\nbeen a challenge. Best to rest when we can."
+		},
+		{
+			"key":"EP12_S9100_0022",
+			"value":"I agree. We need to make sure we’re ready for\nanything. Let’s take today to recover."
+		},
+		{
+			"key":"EP12_S9100_0023",
+			"value":"Hey, if you think we should take it easy,\nyou’ll get no argument from me!"
+		},
+		{
+			"key":"EP12_S9100_0024",
+			"value":"I’d caution you to stay alert, but this is\nour home base. Relaxation may be in order."
+		},
+		{
+			"key":"EP12_S9100_0025",
+			"value":"So that’s it for today? Hurray!"
+		},
+		{
+			"key":"EP12_S9100_0026",
+			"value":"Well, now that that’s settled, why don’t\nI cook us a nice meal tonight? Been a while."
+		},
+		{
+			"key":"EP12_S9100_0027",
+			"value":"Oh, I’ll help with that too!"
+		},
+		{
+			"key":"EP12_S9100_0028",
+			"value":"Thanks, Saki!"
+		},
+		{
+			"key":"EP12_S9100_0029",
+			"value":"Until dinner’s ready, then, you’re all free\nto relax however you see fit."
+		}
+	]
 }

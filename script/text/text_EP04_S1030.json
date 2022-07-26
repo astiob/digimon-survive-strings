@@ -2,307 +2,307 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1030_0001",
-			"value":"（よ、ようやく森から抜けて\n　開けた場所に出てきたけど……）"
+			"value":"(Well, we finally made it out of the forest,\nbut...)"
 		},
 		{
 			"key":"EP04_S1030_0002",
-			"value":"まだ遊園地なんて、全然見えてこねーじゃんかよ"
+			"value":"Would you look at that? There’s still no sign\nof an amusement park!"
 		},
 		{
 			"key":"EP04_S1030_0003",
-			"value":"おもしろいものとか、ないかなー？"
+			"value":"I don’t think I’ve ever been here before.\nI wonder if there’s any neat stuff around?"
 		},
 		{
 			"key":"EP04_S1030_0004",
-			"value":"ね、ちょっと……\nさすがに、そろそろ限界来てるかも……"
+			"value":"Okay, listen... I don’t think...I can keep\nthis up...for much longer."
 		},
 		{
 			"key":"EP04_S1030_0005",
-			"value":"サキさん、顔色が悪い……"
+			"value":"Saki, you don’t look so good."
 		},
 		{
 			"key":"EP04_S1030_0006",
-			"value":"サキ、私につかまってー！"
+			"value":"Hold on to me, Saki!"
 		},
 		{
 			"key":"EP04_S1030_0007",
-			"value":"さすがに、休憩したほうがいいんじゃないかしら"
+			"value":"I think maybe we’d better take a break."
 		},
 		{
 			"key":"EP04_S1030_0008",
-			"value":"うむ……この先もまだ長いかもしれないことを思うと\n適度な休息は、必要不可欠かもしれん"
+			"value":"Yes, considering that we may still have\na ways to go, a short rest seems unavoidable."
 		},
 		{
 			"key":"EP04_S1030_0009",
-			"value":"つっても、先頭きってる\nあの２人がな～"
+			"value":"Try telling that to those two."
 		},
 		{
 			"key":"EP04_S1030_0010",
-			"value":"（シュウジさんも、カイトも\n　歩くペースが落ちないもんな）"
+			"value":"(Shuuji and Kaito are both pressing on with\nno signs of slowing down.)"
 		},
 		{
 			"key":"EP04_S1030_0011",
-			"value":"（カイトが急いでるのはわかるけど……）"
+			"value":"(I can understand why Kaito would be in\na hurry, but why Shuuji?)"
 		},
 		{
 			"key":"EP04_S1030_0012",
-			"value":"シュウジ……ボク、もう足が痛いよ"
+			"value":"Shuuji, my legs are sore..."
 		},
 		{
 			"key":"EP04_S1030_0013",
-			"value":"いいから黙って歩け！"
+			"value":"Just shut up and keep walking!"
 		},
 		{
 			"key":"EP04_S1030_0014",
-			"value":"キュゥッ！"
+			"value":"Kewww!"
 		},
 		{
 			"key":"EP04_S1030_0015",
-			"value":"シュウジ、そいつに当たってもしょうがねえだろ"
+			"value":"Shuuji, it’s no use snapping at him."
 		},
 		{
 			"key":"EP04_S1030_0016",
-			"value":"それに、さすがにオレらだって疲れてきたしよ"
+			"value":"Besides, we’re all starting to get tired."
 		},
 		{
 			"key":"EP04_S1030_0017",
-			"value":"シュウジさん、そんな言い方しなくても……"
+			"value":"Shuuji, no need to be so harsh."
 		},
 		{
 			"key":"EP04_S1030_0018",
-			"value":"そうっすよー\nみんな、もう疲れがピークなんだし"
+			"value":"Yeah, she’s right. Besides, we’re all pretty\nwiped out."
 		},
 		{
 			"key":"EP04_S1030_0019",
-			"value":"休むのは、遊園地についてからと\n思っていたが……"
+			"value":"Well, I hadn’t planned on resting until we’d\nreached the amusement park, but maybe..."
 		},
 		{
 			"key":"EP04_S1030_0020",
-			"value":"（さすがのシュウジさんも\n　ちょっと迷ってるみたいだな）"
+			"value":"(Sounds like even Shuuji’s starting to\nwaver.)"
 		},
 		{
 			"key":"EP04_S1030_0021",
-			"value":"（休憩すべきか、進むべきか\n　この辺を少し見て回りたい気もするし……）"
+			"value":"(Should we stop for a break, or press on?\nI would kind of like to look around here...)"
 		},
 		{
 			"key":"EP04_S1030_Q1",
-			"value":"（シュウジさんに何て言おう？）"
+			"value":"(What should I tell Shuuji?)"
 		},
 		{
 			"key":"EP04_S1030_Q1_A1",
-			"value":"休憩しましょう"
+			"value":"Let’s take a break."
 		},
 		{
 			"key":"EP04_S1030_Q1_A2",
-			"value":"進みましょう"
+			"value":"Let’s press on."
 		},
 		{
 			"key":"EP04_S1030_Q1_A3",
-			"value":"周辺の探索をしたいです"
+			"value":"I want to look around."
 		},
 		{
 			"key":"EP04_S1030_0026",
-			"value":"休憩しましょうよ"
+			"value":"Let’s take a break."
 		},
 		{
 			"key":"EP04_S1030_0027",
-			"value":"やっぱり、一度休憩にしましょうよ"
+			"value":"Yeah, I think we should stop for a rest."
 		},
 		{
 			"key":"EP04_S1030_0028",
-			"value":"そのほうがいいかもな"
+			"value":"That might be for the best."
 		},
 		{
 			"key":"EP04_S1030_0029",
-			"value":"って、カイトが言うなんて珍しーな"
+			"value":"Huh? I wasn’t expecting to hear that from\nyou, Kaito."
 		},
 		{
 			"key":"EP04_S1030_0030",
-			"value":"アレを見ちまうとな"
+			"value":"Well, just look over there."
 		},
 		{
 			"key":"EP04_S1030_0031",
-			"value":"（ん？　アレって……？）"
+			"value":"(Huh...?)"
 		},
 		{
 			"key":"EP04_S1030_0032",
-			"value":"すぅ……すぅ……"
+			"value":"Zzz...zzzzzz..."
 		},
 		{
 			"key":"EP04_S1030_0033",
-			"value":"お姉ちゃん、寝ちゃった……？"
+			"value":"Miyuki? You fell asleep?"
 		},
 		{
 			"key":"EP04_S1030_0034",
-			"value":"完全に船こいでんな"
+			"value":"Yeah, she’s out like a light."
 		},
 		{
 			"key":"EP04_S1030_0035",
-			"value":"確かに、あれじゃ\n進むぞとは、言えないね"
+			"value":"I guess it’s pretty hard to argue with that."
 		},
 		{
 			"key":"EP04_S1030_0036",
-			"value":"う……む……"
+			"value":"Uh, yeah..."
 		},
 		{
 			"key":"EP04_S1030_0037",
-			"value":"進みましょうよ"
+			"value":"Let’s press on."
 		},
 		{
 			"key":"EP04_S1030_0038",
-			"value":"ここで止まると、歩き出すのが\nしんどくなりそうだし……"
+			"value":"If we stop now, it’ll just make it that much\nharder to get going again."
 		},
 		{
 			"key":"EP04_S1030_0039",
-			"value":"もうちょっと頑張って\n遊園地まで進みましょう"
+			"value":"Let’s go a little longer until we get to the\namusement park."
 		},
 		{
 			"key":"EP04_S1030_0040",
-			"value":"やはり、そうするか……"
+			"value":"Yeah, that’s what I was thinking."
 		},
 		{
 			"key":"EP04_S1030_0041",
-			"value":"ちょ、ちょっと待って\nタクマくん、シュウジさん"
+			"value":"Wait. No, Takuma, Shuuji."
 		},
 		{
 			"key":"EP04_S1030_0042",
-			"value":"ロップモンも、サキさんも\n本当につらそうなの"
+			"value":"Lopmon and Saki both look like they’re barely\nhanging on."
 		},
 		{
 			"key":"EP04_S1030_0043",
-			"value":"だから……"
+			"value":"Can’t you see that?"
 		},
 		{
 			"key":"EP04_S1030_0044",
-			"value":"（確かに、２人とも顔色が悪い……）"
+			"value":"(It’s true, they do both look pretty bad.)"
 		},
 		{
 			"key":"EP04_S1030_0045",
-			"value":"ごめん、僕が無茶だったみたいだ"
+			"value":"Sorry. I guess I was asking a bit much."
 		},
 		{
 			"key":"EP04_S1030_0046",
-			"value":"周辺の探索をしたい"
+			"value":"I want to look around."
 		},
 		{
 			"key":"EP04_S1030_0047",
-			"value":"僕、少しこの辺を見て回ってもいいですか？"
+			"value":"Hey, do you mind if I take a look around?"
 		},
 		{
 			"key":"EP04_S1030_0048",
-			"value":"ボクも、ボクも！"
+			"value":"Oh, me too! Me too!"
 		},
 		{
 			"key":"EP04_S1030_0049",
-			"value":"こんな時にか？\n必要ないと思うが……"
+			"value":"Now? I don’t really see the point."
 		},
 		{
 			"key":"EP04_S1030_0050",
-			"value":"でも、危険なものがないかとか\nちょっと調べておきたいし……"
+			"value":"But how else will we know if there’s anything\ndangerous nearby?"
 		},
 		{
 			"key":"EP04_S1030_0051",
-			"value":"その間は、みんなが休めるかなーなんて"
+			"value":"Besides, that way maybe the others can stop\nand take a break."
 		},
 		{
 			"key":"EP04_S1030_0052",
-			"value":"へー、それって私たちのため？\nやるじゃんタクマ"
+			"value":"Is that why you brought that up? So we could\nrest? That’s pretty thoughtful, Takuma."
 		},
 		{
 			"key":"EP04_S1030_0053",
-			"value":"タクマは、いつだってやるんだぞ"
+			"value":"Yeah, Takuma’s thoughtful all the time!"
 		},
 		{
 			"key":"EP04_S1030_0054",
-			"value":"って、なんでアグモンがえばってんだよ"
+			"value":"What’re you bragging about, Agumon?"
 		},
 		{
 			"key":"EP04_S1030_0055",
-			"value":"はぁ……わかった\nそれじゃあ、少し休憩にしよう"
+			"value":"*sigh* Fine. All right, let’s stop for a\nbreak."
 		},
 		{
 			"key":"EP04_S1030_0056",
-			"value":"幸い、このあたりには\n例の霧は出てないようだしな"
+			"value":"Fortunately, there doesn’t seem to be any\nsign of that fog nearby."
 		},
 		{
 			"key":"EP04_S1030_0057",
-			"value":"うん！　あれのコワイ感じはしないよ"
+			"value":"Yeah! I don’t sense anything scary like that!"
 		},
 		{
 			"key":"EP04_S1030_0058",
-			"value":"カイトも、文句はないな？"
+			"value":"No complaints, Kaito?"
 		},
 		{
 			"key":"EP04_S1030_0059",
-			"value":"ねーよ"
+			"value":"Nah."
 		},
 		{
 			"key":"EP04_S1030_0060",
-			"value":"あ～～～、やっと休める～～～"
+			"value":"Finally! I’m so tired..."
 		},
 		{
 			"key":"EP04_S1030_0061",
-			"value":"サキ、大丈夫―？"
+			"value":"Saki, are you all right?"
 		},
 		{
 			"key":"EP04_S1030_0062",
-			"value":"ミユキちゃんと、ハルくんも\nこっちで一緒に休憩しましょ？"
+			"value":"Miyuki, Haru, would you like to rest here\nwith us too?"
 		},
 		{
 			"key":"EP04_S1030_0063",
-			"value":"うん……"
+			"value":"Sure..."
 		},
 		{
 			"key":"EP04_S1030_0064",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP04_S1030_0065",
-			"value":"起こしちゃったかしら？"
+			"value":"Oh, did that wake them up?"
 		},
 		{
 			"key":"EP04_S1030_0066",
-			"value":"いや……目を閉じたまま、歩いてるな……"
+			"value":"Nah, I think they were just walking with\ntheir eyes closed."
 		},
 		{
 			"key":"EP04_S1030_0067",
-			"value":"よっぽど疲れさせちまったみてーだな"
+			"value":"Guess we really wore them out."
 		},
 		{
 			"key":"EP04_S1030_0068",
-			"value":"幼い２人には、さすがに過酷すぎる\n道のりだっただろうか"
+			"value":"It was perhaps too harsh a journey for two so\nyoung."
 		},
 		{
 			"key":"EP04_S1030_0069",
-			"value":"かもな\nでも、置いてくわけにはいかなかったし"
+			"value":"Maybe, but it’s not like we could’ve left\nthem behind."
 		},
 		{
 			"key":"EP04_S1030_0070",
-			"value":"過酷といえば、あっちもみたいだけど"
+			"value":"Speaking of harsh, there’s someone else I’m\nworried about, too."
 		},
 		{
 			"key":"EP04_S1030_0071",
-			"value":"ロップモンのこと？"
+			"value":"You mean Lopmon?"
 		},
 		{
 			"key":"EP04_S1030_0072",
-			"value":"あの……シュウジ、ごめんね\nボク、また足をひっぱって……"
+			"value":"Um... I’m sorry, Shuuji. I wound up slowing\nyou down again."
 		},
 		{
 			"key":"EP04_S1030_0073",
-			"value":"いいから、黙って休んでろ\n次は遊園地まで、休みなしだからな"
+			"value":"Just shut up and get some rest. We won’t be\nstopping again until we get to the park."
 		},
 		{
 			"key":"EP04_S1030_0074",
-			"value":"う、うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP04_S1030_0075",
-			"value":"（はぁ……これは遊園地につくまで\n　まだまだ大変そうだな）"
+			"value":"(Man, sounds like he’s still gonna have it\nrough between here and the amusement park.)"
 		},
 		{
 			"key":"EP04_S1030_0076",
-			"value":"（とにかく、僕も少しゆっくりしとこう）"
+			"value":"(But anyway, I’d better get some rest.)"
 		}
 	]
 }

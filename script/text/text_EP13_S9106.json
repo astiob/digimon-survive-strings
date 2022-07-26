@@ -2,151 +2,151 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9106_0001",
-			"value":"レナモン、ちょっといいかな？"
+			"value":"Hey Renamon, do you have a minute?"
 		},
 		{
 			"key":"EP13_S9106_0002",
-			"value":"私か？\n何の用だ？"
+			"value":"You want to talk with me? What’s this about?"
 		},
 		{
 			"key":"EP13_S9106_0003",
-			"value":"いや、用っていうか……"
+			"value":"Oh, nothing special, really..."
 		},
 		{
 			"key":"EP13_S9106_Q1",
-			"value":"（レナモンに、何て声をかけよう……？）"
+			"value":"(What should I say to Renamon?)"
 		},
 		{
 			"key":"EP13_S9106_Q1_A1",
-			"value":"絶対にミユキを助けよう"
+			"value":"Let’s save Miyuki."
 		},
 		{
 			"key":"EP13_S9106_Q1_A2",
-			"value":"緊張してる？"
+			"value":"Are you nervous?"
 		},
 		{
 			"key":"EP13_S9106_Q1_A3",
-			"value":"話がしたくて"
+			"value":"I wanted to talk."
 		},
 		{
 			"key":"EP13_S9106_0004",
-			"value":"絶対にミユキを助けよう"
+			"value":"Let’s save Miyuki."
 		},
 		{
 			"key":"EP13_S9106_0005",
-			"value":"その……絶対に、ミユキを助けような！"
+			"value":"I just wanted to say, let’s make sure we save\nMiyuki no matter what!"
 		},
 		{
 			"key":"EP13_S9106_0006",
-			"value":"当たり前だ\n今更何を言っているんだ？"
+			"value":"Yes, that’s what we’re doing now. Why would\nyou need to say that to me again?"
 		},
 		{
 			"key":"EP13_S9106_0007",
-			"value":"いや、改めて気合いを入れようかな、と……"
+			"value":"Oh, y’know, I thought it would help...get you\nfired up again."
 		},
 		{
 			"key":"EP13_S9106_0008",
-			"value":"はぁ……お前たちがどうかは知らないが\n私の意志は最初からずっと変わっていない"
+			"value":"*sigh* Well, I don’t know about you, but my\nown conviction has never wavered."
 		},
 		{
 			"key":"EP13_S9106_0009",
-			"value":"ミユキを必ず取り戻す\nそれだけだ"
+			"value":"I am going to bring Miyuki back. That’s all\nthere is to it."
 		},
 		{
 			"key":"EP13_S9106_0010",
-			"value":"緊張してる？"
+			"value":"Are you nervous?"
 		},
 		{
 			"key":"EP13_S9106_0011",
-			"value":"えっと……もしかして、緊張してる？"
+			"value":"I was just wondering... Are you maybe feeling\nnervous?"
 		},
 		{
 			"key":"EP13_S9106_0012",
-			"value":"……はぁ？"
+			"value":"...What?!"
 		},
 		{
 			"key":"EP13_S9106_0013",
-			"value":"わけないよね！　わ、わかってたけど\n一応確認というか……"
+			"value":"Yeah, no way, right? I figured you wouldn’t\nbe, but thought I might as well ask..."
 		},
 		{
 			"key":"EP13_S9106_0014",
-			"value":"当たり前だ\nお前は何を言っているんだ"
+			"value":"Of course I’m not nervous! Why would you even\nthink that?"
 		},
 		{
 			"key":"EP13_S9106_0015",
-			"value":"話がしたくて"
+			"value":"I wanted to talk."
 		},
 		{
 			"key":"EP13_S9106_0016",
-			"value":"話がしたくてさ……レナモンと"
+			"value":"I just...wanted to talk with you, Renamon."
 		},
 		{
 			"key":"EP13_S9106_0017",
-			"value":"どうした？\n急に改まって"
+			"value":"Why? What’s gotten into you all of a sudden?"
 		},
 		{
 			"key":"EP13_S9106_0018",
-			"value":"だって、もうすぐ最終決戦だし。きっと、今が\n落ち着いて話せる最後のチャンスだと思うから"
+			"value":"Well, we’re coming up on the final battle.\nThis could be our last chance to chat."
 		},
 		{
 			"key":"EP13_S9106_0019",
-			"value":"そういうことか……"
+			"value":"Oh, so that’s it."
 		},
 		{
 			"key":"EP13_S9106_0020",
-			"value":"タクマ、さてはお前\n緊張しているな？"
+			"value":"Are you feeling nervous, Takuma?"
 		},
 		{
 			"key":"EP13_S9106_0021",
-			"value":"うっ……"
+			"value":"Urk..."
 		},
 		{
 			"key":"EP13_S9106_0022",
-			"value":"やはりか。お前がそんな調子では\n他のヤツらまで調子を崩しかねないぞ"
+			"value":"I thought so. You know, if you keep on like\nthis, you could bring the others down."
 		},
 		{
 			"key":"EP13_S9106_0023",
-			"value":"うん、わかっては、いるんだけど……"
+			"value":"Yeah, I mean, I know that, but..."
 		},
 		{
 			"key":"EP13_S9106_0024",
-			"value":"……いいかタクマ、緊張するなとは言わん\n大事なものを懸けた戦いの前だ、仕方ない"
+			"value":"Listen, I don’t blame you for being nervous.\nEverything depends on this next fight."
 		},
 		{
 			"key":"EP13_S9106_0025",
-			"value":"しかし、その上で、心を落ち着かせなければ\n主との戦いには勝てない"
+			"value":"But if you can’t find some way to keep cool\ndespite that, you’ll never beat the Master."
 		},
 		{
 			"key":"EP13_S9106_0026",
-			"value":"お前はお前のやるべきことだけを考えればいい\n相手の出方も戦いの後のことも、今は忘れろ"
+			"value":"Just think about what you need to do. Don’t\nworry about the enemy, or what comes next."
 		},
 		{
 			"key":"EP13_S9106_0027",
-			"value":"とにかく、主を止めて、ミユキを救え"
+			"value":"Focus on stopping the Master and rescuing\nMiyuki."
 		},
 		{
 			"key":"EP13_S9106_0028",
-			"value":"レナモン……"
+			"value":"Renamon..."
 		},
 		{
 			"key":"EP13_S9106_0029",
-			"value":"ふん……私としたことが\n喋り過ぎたな"
+			"value":"Hmph... Listen to me, blathering on like\na fool."
 		},
 		{
 			"key":"EP13_S9106_0030",
-			"value":"……ありがとう\n本当に、気持ちが楽になったよ"
+			"value":"Thanks, Renamon. That really helped me feel\nbetter."
 		},
 		{
 			"key":"EP13_S9106_0031",
-			"value":"主を止めて、ミユキを救う\nそれだけだね！"
+			"value":"We just need to stop the Master and rescue\nMiyuki. That’s it!"
 		},
 		{
 			"key":"EP13_S9106_0032",
-			"value":"ああ……頼りにしている"
+			"value":"Right. I’ll be counting on you."
 		},
 		{
 			"key":"EP13_S9106_0033",
-			"value":"なんだ？　まだ話足りないか？"
+			"value":"What? Did you have something else to say?"
 		}
 	]
 }

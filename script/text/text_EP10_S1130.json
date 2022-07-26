@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S1130_0001",
-			"value":"お～い、タクマ！\nようやく見つけたぜ！！"
+			"value":"Yo, Takumaaa! We finally found you!"
 		},
 		{
 			"key":"EP10_S1130_0002",
-			"value":"ミノル、ファルコモン！\n無事だったんだね！"
+			"value":"Minoru, Falcomon! Glad to see you safe and\nsound!"
 		},
 		{
 			"key":"EP10_S1130_0003",
-			"value":"全然無事じゃねーっての！\nサイッテーな幻、見せられまくったよ！"
+			"value":"Who’s safe and sound?! I just saw a vision\nthat made me wanna scratch my eyes out!"
 		},
 		{
 			"key":"EP10_S1130_0004",
-			"value":"さっきはよくも変なモノを見せてくれたな！\nいくぞ、ファルコモン！"
+			"value":"I’ll teach you to play tricks on me! Let’s\ngo, Falcomon!"
 		},
 		{
 			"key":"EP10_S1130_0005",
-			"value":"おうっ！！"
+			"value":"Very well!"
 		},
 		{
 			"key":"EP10_S1130_0100",
-			"value":"（なんだっ、新手の敵！？\n　ここは、態勢を立て直さないと）"
+			"value":"(What? More enemies?! We’re gonna have to\nregroup...)"
 		}
 	]
 }

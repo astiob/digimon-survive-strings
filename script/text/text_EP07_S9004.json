@@ -2,59 +2,59 @@
     "scenario_text": [
         {
             "key": "EP07_S9004_0001",
-            "value": "二人とも、何見てるんです？"
+            "value": "What are you two looking at?"
         },
         {
             "key": "EP07_S9004_0002",
-            "value": "いや、この工場の全体像を眺めていたんだが……"
+            "value": "We were just checking the factory layout..."
         },
         {
             "key": "EP07_S9004_0003",
-            "value": "この外観的に\nなーんかまだ奥にありそうな気がすんだよなぁ……"
+            "value": "Based on the way it looks, there could be\na lot of areas to explore in the back..."
         },
         {
             "key": "EP07_S9004_0004",
-            "value": "奥……でも、進めそうな通路は最初に見たけど\n今行けるところにしか繋がってなかったよ？"
+            "value": "In the back? Didn’t we already find a way in?\nIt doesn’t lead back there, though..."
         },
         {
             "key": "EP07_S9004_0005",
-            "value": "だとしたら隠し通路か……"
+            "value": "There must also be a hidden passage..."
         },
         {
             "key": "EP07_S9004_0006",
-            "value": "それか、崩れて通れない道があるのか……"
+            "value": "Maybe there’s a way through that’s blocked by\nthe ruins now."
         },
         {
             "key": "EP07_S9004_0007",
-            "value": "ひとまずレナモンの行方を探りつつ\n新たな道を探してみようか"
+            "value": "We need to figure out where Renamon is.\nLet’s see if we can find another way in."
         },
         {
             "key": "EP07_S9004_0008",
-            "value": "だな。こうなりゃとことん探してやるぜ"
+            "value": "Yeah, we can find another way easy."
         },
         {
             "key": "EP07_S9004_0009",
-            "value": "（二人ともすごく前向きだな）"
+            "value": "(They’re both really optimistic.)"
         },
         {
             "key": "EP07_S9004_0010",
-            "value": "（お互いに張り合って影響し合ってるみたいだ\n　二人、意外と相性いいのかも）"
+            "value": "(The way they bounce ideas off each other...\nThey’re really getting along.)"
         },
         {
             "key": "EP07_S9004_0011",
-            "value": "なんならどっちが先に見つけるか勝負するか？"
+            "value": "Who do you think’ll find it first?"
         },
         {
             "key": "EP07_S9004_0012",
-            "value": "いいだろう。負けないからな？"
+            "value": "Whatever, bro. I ain’t losing to you."
         },
         {
             "key": "EP07_S9004_0013",
-            "value": "（そういえば、そろそろ教授の具合も\n　よくなったかな？）"
+            "value": "(Oh yeah, I wonder if the professor’s feeling\nany better?)"
         },
         {
             "key": "EP07_S9004_0014",
-            "value": "（<color=#B41919>様子</color>を見に行ってみよう）"
+            "value": "(I should go <color=#B41919>check on him</color>.)"
         }
     ]
 }

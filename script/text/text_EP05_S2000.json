@@ -2,31 +2,31 @@
     "scenario_text": [
         {
             "key": "EP05_S2000_0001",
-            "value": "あぁ、タクマ。ちょっといいか？"
+            "value": "Hello, my boy. Do you have a moment?"
         },
         {
             "key": "EP05_S2000_0002",
-            "value": "なに、ファルコモン？"
+            "value": "What is it, Falcomon?"
         },
         {
             "key": "EP05_S2000_0003",
-            "value": "あそこ、水の中に何かあるんだが……"
+            "value": "There is something in the water over there..."
         },
         {
             "key": "EP05_S2000_0004",
-            "value": "え……？　何も見えないよ？"
+            "value": "Oh? But I don’t see anything."
         },
         {
             "key": "EP05_S2000_0005",
-            "value": "む？　ふむ……ニンゲンには見えづらいものか？\n大事なもののような気がするが……"
+            "value": "Truly? Hrrm... Perhaps humans cannot perceive\nit? I sense some significance from it..."
         },
         {
             "key": "EP05_S2000_0006",
-            "value": "（人間には見えづらいもの……\n　あ、そうだ。<color=#B41919>カメラ</color>で見えるかもしれない）"
+            "value": "(Humans can’t see it... Oh, I know. I’ll try\n<color=#B41919>looking with my camera</color>.)"
         },
         {
             "key": "EP05_S2000_0007",
-            "value": "シュウジには関係ないかもしれないが\n水の中のもの、一応気にしてくれないか？"
+            "value": "It may be of some relation to Shuuji. Perhaps\nyou could evaluate its worth for yourself?"
         }
     ]
 }

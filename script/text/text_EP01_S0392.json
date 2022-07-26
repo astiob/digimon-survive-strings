@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0392_0001",
-			"value":"ん？　ここの天井、板がずれてるぞ？\n動かせるかな……"
+			"value":"Hmm? This board in the ceiling looks loose.\nI wonder if I can move it..."
 		},
 		{
 			"key":"EP01_S0392_0002",
-			"value":"あっ！　やったぞアグモン！\nここの天井裏、通れそうだ！"
+			"value":"Oh! Look, we did it, Agumon! Now we can get\ninto the crawl space!"
 		},
 		{
 			"key":"EP01_S0392_0003",
-			"value":"わ～い！　よかったね、タクマ！"
+			"value":"Woohooo! That’s great, Takuma!"
 		},
 		{
 			"key":"EP01_S0392_0004",
-			"value":"ここを通っていったのか？\nだったら、幽霊なんかじゃないはずだ！"
+			"value":"Did she go through here? That means she can’t\nbe a ghost!"
 		},
 		{
 			"key":"EP01_S0392_0005",
-			"value":"ここを通りたい、けど……\n天井裏か……"
+			"value":"I want to go through here, but hmm... Do you\nthink it’s safe?"
 		},
 		{
 			"key":"EP01_S0392_0006",
-			"value":"敵も通ってるんだよな……大丈夫かな？"
+			"value":"The enemy’s been using this crawl space too,\nafter all..."
 		},
 		{
 			"key":"EP01_S0392_0007",
-			"value":"他の道を探してる余裕はなさそうだよ\nきっとどんどん状況は悪くなる"
+			"value":"We don’t have time to look for another way.\nThings’ll just get worse!"
 		},
 		{
 			"key":"EP01_S0392_0008",
-			"value":"そ、そうだよな……"
+			"value":"Yeah, you’re right..."
 		},
 		{
 			"key":"EP01_S0392_0009",
-			"value":"うわっ、この中も蜘蛛の巣だらけだ\nでも、行くしかないか……！"
+			"value":"Yuck, there are tons of cobwebs here, too.\nStill, no way through but forward!"
 		},
 		{
 			"key":"EP01_S0392_0010",
-			"value":"よし、行ってみようアグモン！"
+			"value":"Okay, let’s go, Agumon!"
 		},
 		{
 			"key":"EP01_S0392_0011",
-			"value":"おー！　行こー！"
+			"value":"Yeah, let’s go!"
 		}
 	]
 }

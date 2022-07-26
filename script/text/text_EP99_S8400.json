@@ -2,75 +2,75 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S8400_0001",
-			"value":"あれ、あそこにいるのは\n……ミウとシャコモンかな……？"
+			"value":"Oh, hey, I think that’s...Miu and Syakomon\nover there."
 		},
 		{
 			"key":"EP99_S8400_0101",
-			"value":"でも、なんか様子が変だな"
+			"value":"But huh, something’s not right."
 		},
 		{
 			"key":"EP99_S8400_0102",
-			"value":"（立ち聞きは良くないけど、前にここで会った時も\n　ミウはどこか思いつめてる様子だったし……）"
+			"value":"(I shouldn’t eavesdrop, but Miu seemed pretty\nlost in thought last time we met here.)"
 		},
 		{
 			"key":"EP99_S8400_0103",
-			"value":"（ちょっと気になるな……）"
+			"value":"(I admit I’m curious...)"
 		},
 		{
 			"key":"EP99_S8400_0004",
-			"value":"ウチ……不安なの\n元の世界に戻れる日がくるのが……"
+			"value":"I’m...pretty worried. I don’t know what I’m\ngoing to do when we all go back."
 		},
 		{
 			"key":"EP99_S8400_0005",
-			"value":"ミウ……？\nそれってどうして？"
+			"value":"Miu? Why’s that?"
 		},
 		{
 			"key":"EP99_S8400_0006",
-			"value":"だって、それって\nシャコモンとお別れしなきゃいけないんだよ？"
+			"value":"Because it’ll mean I have to say goodbye to\nyou, Syakomon."
 		},
 		{
 			"key":"EP99_S8400_0007",
-			"value":"そうしたらまた\nウチ、ひとりぼっちになっちゃう"
+			"value":"Then I’ll be all alone again."
 		},
 		{
 			"key":"EP99_S8400_0008",
-			"value":"それは違うって\nだってミウにはお兄ちゃんが――"
+			"value":"That’s not true. You’ll have your brother..."
 		},
 		{
 			"key":"EP99_S8400_0009",
-			"value":"そう……お兄ちゃんがいる\nそう、お兄ちゃんだけがウチを――"
+			"value":"Right, I’ll have Kaito. ‘Cause he’s the only\none who even—"
 		},
 		{
 			"key":"EP99_S8400_0010",
-			"value":"――シッ！\nミウ……そこまで"
+			"value":"Sh! Miu, that’s enough."
 		},
 		{
 			"key":"EP99_S8400_0011",
-			"value":"もう、最後まで言わせてよ！\nだからウチ――"
+			"value":"Hey, let me finish! After all, I..."
 		},
 		{
 			"key":"EP99_S8400_0012",
-			"value":"黙るの！　どうやら、誰かが潜んでいるみたい……\n誰なの！　出て来て！！！"
+			"value":"Be quiet! There’s someone else nearby! Who’s\nthere?! Show yourself!"
 		},
 		{
 			"key":"EP99_S8400_0104",
-			"value":"（しまった……気づかれたか？）"
+			"value":"(Aw nuts, did they notice me?)"
 		},
 		{
 			"key":"EP99_S8400_0013",
-			"value":"……！！！\nしゃ、シャコモン……！？"
+			"value":"Oh no!!! Syakomon?!"
 		},
 		{
 			"key":"EP99_S8400_0105",
-			"value":"やっぱりいた……お話はここまでね！\n敵を倒さなきゃ……！"
+			"value":"I figured they’d be around... Enough talk!\nLet’s take them down!"
 		},
 		{
 			"key":"EP99_S8400_0106",
-			"value":"えっ？　え……でも、ウチ一人じゃ……！"
+			"value":"Huh? Just me? But I can’t..."
 		},
 		{
 			"key":"EP99_S8400_0107",
-			"value":"大丈夫よ、ミウ！\n私が――必ずあなたを守るから！！ "
+			"value":"It’s okay, Miu! I promise... I promise I’ll\nprotect you! "
 		}
 	]
 }

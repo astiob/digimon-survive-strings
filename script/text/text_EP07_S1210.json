@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1210_0001",
-			"value":"やっぱり、気のせいじゃ\nなかったようだ……"
+			"value":"Looks like I wasn’t just imagining things."
 		},
 		{
 			"key":"EP07_S1210_0002",
-			"value":"シュウジ先輩、どうしたんですか？"
+			"value":"What’s wrong, Shuuji?"
 		},
 		{
 			"key":"EP07_S1210_0003",
-			"value":"いやさっき……見覚えのないケモノが\n何かを食べてたように見えたんだ"
+			"value":"Oh, I thought I saw this strange monster\neating something."
 		},
 		{
 			"key":"EP07_S1210_0004",
-			"value":"なにかって……なにを？"
+			"value":"Uh, eating what, exactly?"
 		},
 		{
 			"key":"EP07_S1210_0005",
-			"value":"なにか豆のようなものかな\nほら、床に食べかすが残ってる……"
+			"value":"Looked like some kind of beans. Look, there’s\nsome scraps still on the floor."
 		},
 		{
 			"key":"EP07_S1210_0006",
-			"value":"あいつは、なんだったんだろう？"
+			"value":"What was that thing?"
 		}
 	]
 }

@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1092_0001",
-			"value":"けほっ、こほっ……！\nちょっと埃がすごいけど……"
+			"value":"*cough* *cough* Ugh! It sure is dusty in\nhere!"
 		},
 		{
 			"key":"EP04_S1092_0002",
-			"value":"特に、おかしなものとかは\n何もない……かな？"
+			"value":"But nothing seems out of place...I think."
 		},
 		{
 			"key":"EP04_S1092_0003",
-			"value":"ひっ……ひっ…………"
+			"value":"Ah... Ah..."
 		},
 		{
 			"key":"EP04_S1092_0004",
-			"value":"って、まさかミノル……！"
+			"value":"Minoru, no!"
 		},
 		{
 			"key":"EP04_S1092_0005",
-			"value":"ぶえーっくしゅ！！"
+			"value":"ACHOO!"
 		},
 		{
 			"key":"EP04_S1092_0006",
-			"value":"な、なんてでっかいくしゃみ！"
+			"value":"What a huge sneeze!"
 		},
 		{
 			"key":"EP04_S1092_0007",
-			"value":"しょうがないだろ～？\n今のは完全に不可抗力で……"
+			"value":"Hey, I couldn’t help it! That’s what we call\nan irresistible force."
 		},
 		{
 			"key":"EP04_S1092_0008",
-			"value":"そんなこと言ってる場合じゃない！"
+			"value":"Don’t say that now!"
 		},
 		{
 			"key":"EP04_S1092_0009",
-			"value":"（まずいぞ……今のを聞かれてたら……！）"
+			"value":"(This is bad! If they heard that...)"
 		},
 		{
 			"key":"EP04_S1092_0010",
-			"value":"タクマ！　タクマ！\nなんかこっちに向かってる足音が聞こえてる！"
+			"value":"Takuma! I hear footsteps running in this\ndirection!"
 		},
 		{
 			"key":"EP04_S1092_0011",
-			"value":"しん……は、どこ……！\nさが……！"
+			"value":"Where...intruders?! Find...!"
 		},
 		{
 			"key":"EP04_S1092_0012",
-			"value":"げげっ！　見つかった！？"
+			"value":"Aw, man! They’re onto us?!"
 		},
 		{
 			"key":"EP04_S1092_0013",
-			"value":"尾行失敗だ！"
+			"value":"So much for not being noticed!"
 		},
 		{
 			"key":"EP04_S1092_0014",
-			"value":"いったんここを離れて\n最初の通路からやりなおそう！"
+			"value":"We’d better get out of here and start back in\nthe first hall!"
 		},
 		{
 			"key":"EP04_S1092_0015",
-			"value":"く～！　せっかく、ここまで来たのに～！"
+			"value":"And after we made it this far! What a waste!"
 		}
 	]
 }

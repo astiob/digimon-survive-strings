@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0422_0001",
-			"value":"いないかー……"
+			"value":"No one’s here..."
 		},
 		{
 			"key":"EP01_S0422_0002",
-			"value":"諦めちゃ駄目だ、アグモン\n他のところを見てみよう"
+			"value":"We can’t give up, Agumon. Let’s look\nsomewhere else!"
 		},
 		{
 			"key":"EP01_S0422_0003",
-			"value":"そうだな！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0422_0004",
-			"value":"他のところに行ってみよう！"
+			"value":"Let’s go somewhere else!"
 		}
 	]
 }

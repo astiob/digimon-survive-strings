@@ -2,107 +2,107 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9108_0001",
-			"value":"あぁ、タクマくん\nまだ祠は見つからないの"
+			"value":"Hi, Takuma. We still haven’t found the\nshrine."
 		},
 		{
 			"key":"EP11_S9108_0002",
-			"value":"ごめん、その前に\n敵の群れを見つけたんだ"
+			"value":"Forget that for a second. I found a pack of\nenemies."
 		},
 		{
 			"key":"EP11_S9108_0003",
-			"value":"えっ！？"
+			"value":"What?!"
 		},
 		{
 			"key":"EP11_S9108_0004",
-			"value":"群れっつーことは、多いのか？"
+			"value":"A pack? That don’t sound like one or two\njokers."
 		},
 		{
 			"key":"EP11_S9108_0005",
-			"value":"僕とアグモンだけじゃ\nどうしようもないくらいには……"
+			"value":"Agumon and I wouldn’t be able to handle them\non our own..."
 		},
 		{
 			"key":"EP11_S9108_0006",
-			"value":"マジか……"
+			"value":"I’ll be damned..."
 		},
 		{
 			"key":"EP11_S9108_0007",
-			"value":"ヤツらはここを住処にしてるみたいなんだ\nもしかしたら祠のことを知ってるかもしれない"
+			"value":"Apparently they live in here. They might know\nsomething about the shrine."
 		},
 		{
 			"key":"EP11_S9108_Q1",
-			"value":"（誰にお願いすればいいんだ？）"
+			"value":"(Who should I ask to help?)"
 		},
 		{
 			"key":"EP11_S9108_Q1_A1",
-			"value":"ついてきて、アオイさん！"
+			"value":"Follow me, Aoi!"
 		},
 		{
 			"key":"EP11_S9108_Q1_A2",
-			"value":"一緒に来て、リョウ！"
+			"value":"Come with me, Ryo!"
 		},
 		{
 			"key":"EP11_S9108_0008",
-			"value":"ついてきて、アオイさん！"
+			"value":"Follow me, Aoi!"
 		},
 		{
 			"key":"EP11_S9108_0009",
-			"value":"ついてきて、アオイさん！"
+			"value":"Follow me, Aoi!"
 		},
 		{
 			"key":"EP11_S9108_0010",
-			"value":"わかったわ\n情報収集もできそうならちょうどいいわね"
+			"value":"Understood. This is a good opportunity to\ngather some intel, from the sound of it."
 		},
 		{
 			"key":"EP11_S9108_0011",
-			"value":"お、オレは、残ってていいか……？"
+			"value":"So what, I just stay here, then?"
 		},
 		{
 			"key":"EP11_S9108_0012",
-			"value":"リョウもお願い！"
+			"value":"You come too, Ryo!"
 		},
 		{
 			"key":"EP11_S9108_0013",
-			"value":"だよな、わかってたよちくしょう！"
+			"value":"Thought so. Never doubted you, dammit!"
 		},
 		{
 			"key":"EP11_S9108_0014",
-			"value":"一緒に来て、リョウ！"
+			"value":"Come with me, Ryo!"
 		},
 		{
 			"key":"EP11_S9108_0015",
-			"value":"一緒に来て、リョウ！"
+			"value":"Come with me, Ryo!"
 		},
 		{
 			"key":"EP11_S9108_0016",
-			"value":"敵の群れに突撃かぁ……\n仕方ねえなぁ、くそぉ……"
+			"value":"Crashing the bad guy convention... Shit, if\nwe gotta, then we gotta."
 		},
 		{
 			"key":"EP11_S9108_0017",
-			"value":"待って、私も行くわ！\n戦力は多い方がいいでしょう？"
+			"value":"Hold on, I’m coming, too! Strength in\nnumbers, right?"
 		},
 		{
 			"key":"EP11_S9108_0018",
-			"value":"助かる、お願い！"
+			"value":"Thanks, that’d be a big help!"
 		},
 		{
 			"key":"EP11_S9108_0019",
-			"value":"ええ！"
+			"value":"You got it!"
 		},
 		{
 			"key":"EP11_S9108_0020",
-			"value":"他の人たちも呼んでくるわ\nタクマくんも声をかけてきて！"
+			"value":"We’ll call the others. You do the same,\nTakuma!"
 		},
 		{
 			"key":"EP11_S9108_0021",
-			"value":"わかった、後で合流しよう！"
+			"value":"Right, let’s meet up later!"
 		},
 		{
 			"key":"EP11_S9108_0022",
-			"value":"ほら、急ぐわよリョウくん！"
+			"value":"Come on, Ryo!"
 		},
 		{
 			"key":"EP11_S9108_0023",
-			"value":"ま、まだ心の準備が……\nあ～わかったよ！　行くって！"
+			"value":"B-but my heart ain’t ready yet... Ahhh, fine!\nI’m coming!"
 		}
 	]
 }

@@ -2,91 +2,91 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S5700_0001",
-			"value":"……あれ？　誰もいない"
+			"value":"Huh? Nobody’s here."
 		},
 		{
 			"key":"EP99_S5700_0101",
-			"value":"この辺りにシュウジさんが\nいるはずなんだけどな……"
+			"value":"I feel like Shuuji should be around here\nsomewhere..."
 		},
 		{
 			"key":"EP99_S5700_0003",
-			"value":"（……周囲を見回しても\n　誰もいないな……）"
+			"value":"(Despite looking around, I can’t seem to find\nanyone.)"
 		},
 		{
 			"key":"EP99_S5700_0004",
-			"value":"……っく、こいつ！！"
+			"value":"Urgh... Why, you little...!"
 		},
 		{
 			"key":"EP99_S5700_0102",
-			"value":"ん？　今の声って……\nシュウジさん！？"
+			"value":"Hm? That sounded like Shuuji!"
 		},
 		{
 			"key":"EP99_S5700_0103",
-			"value":"シュウジさん！！\nどこですか！！"
+			"value":"Shuuji?! Where are you?!"
 		},
 		{
 			"key":"EP99_S5700_0007",
-			"value":"その声はタクマか！？"
+			"value":"Takuma? Is that you?!"
 		},
 		{
 			"key":"EP99_S5700_0008",
-			"value":"今いきます！！"
+			"value":"Be right there!"
 		},
 		{
 			"key":"EP99_S5700_0009",
-			"value":"だめだ、こっちは――"
+			"value":"No! Stay back!"
 		},
 		{
 			"key":"EP99_S5700_0104",
-			"value":"シュウジさん！\nコイツは……！？"
+			"value":"Shuuji! Is that...?!"
 		},
 		{
 			"key":"EP99_S5700_0105",
-			"value":"タクマ……来てしまったか"
+			"value":"Takuma... Didn’t expect you to show up."
 		},
 		{
 			"key":"EP99_S5700_0106",
-			"value":"……っく！"
+			"value":"Urgh..."
 		},
 		{
 			"key":"EP99_S5700_0107",
-			"value":"（ロップモンが\n　必死に応戦している……！） "
+			"value":"(Lopmon is fighting for all he’s worth!) "
 		},
 		{
 			"key":"EP99_S5700_0014",
-			"value":"（でもかなり押されている様子だ\n　このままじゃ……！）"
+			"value":"(Only it looks like he’s having a tough time.\nThis isn’t good!)"
 		},
 		{
 			"key":"EP99_S5700_0015",
-			"value":"待ってて下さい\n僕も手伝います！！"
+			"value":"Hold on! I’ll be right there!"
 		},
 		{
 			"key":"EP99_S5700_0108",
-			"value":"駄目だ！！　いいか、タクマ\nここは僕とロップモンで抑える"
+			"value":"This is bad! Listen, Takuma, Lopmon and\nI will hold them back here."
 		},
 		{
 			"key":"EP99_S5700_0109",
-			"value":"タクマはみんなのところに戻るんだ！"
+			"value":"You head back to everyone else!"
 		},
 		{
 			"key":"EP99_S5700_0110",
-			"value":"シュウジさん一人で相手する気ですか！？\n無理ですよ！！"
+			"value":"You’re gonna take them on alone, Shuuji?!\nThat’s too much!"
 		},
 		{
 			"key":"EP99_S5700_0019",
-			"value":"……なかなか辛辣な言葉だな\nでもだめだ！　こいつはいつものヤツと違う……！"
+			"value":"...Harsh words for me to hear. But no! This\nthing is different..."
 		},
 		{
 			"key":"EP99_S5700_0111",
-			"value":"僕と君だけでは、戦力不足だろう……\n悔しいけどね"
+			"value":"You and me alone wouldn’t make a dent... As\nmuch as I hate to admit it."
 		},
 		{
 			"key":"EP99_S5700_0112",
-			"value":"なに、抑え込むだけならなんとかする\nだから早く、君は行ってくれ！"
+			"value":"I’ll just keep them at bay somehow. So\nplease, head back right away!"
 		},
 		{
 			"key":"EP99_S5700_0113",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		}
 	]
 }

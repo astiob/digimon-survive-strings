@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9301_0001",
-			"value":"見つけた……！"
+			"value":"There we are!"
 		},
 		{
 			"key":"EP13_S9301_0002",
-			"value":"諸君、通路があったぞ！\nここから奥につながっている！"
+			"value":"Ladies and gentlemen, I’ve found the way\nforward. A passage that leads further in!"
 		},
 		{
 			"key":"EP13_S9301_0003",
-			"value":"よし、みんな進もう！"
+			"value":"Right, let’s go, everyone!"
 		}
 	]
 }

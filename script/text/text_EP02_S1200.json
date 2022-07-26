@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1200_0101",
-			"value":"あ、タクマくん"
+			"value":"Oh, Takuma?"
 		},
 		{
 			"key":"EP02_S1200_0102",
-			"value":"アオイさん。どう？\n何か食べられそうなもの見つかった？"
+			"value":"How goes it, Aoi?\nFound anything edible?"
 		},
 		{
 			"key":"EP02_S1200_0103",
-			"value":"ダメね。全然見つからないわ"
+			"value":"Not a thing. Useless."
 		},
 		{
 			"key":"EP02_S1200_0104",
-			"value":"アオイがこれだけ探しても無いんだから\nきっとここには無いわね！"
+			"value":"If Aoi couldn’t find anything, then there’s\nnothing to be found!"
 		},
 		{
 			"key":"EP02_S1200_0105",
-			"value":"あはは、その決めつけ方はどうかと思うけど……"
+			"value":"That’s funny logic, but okay..."
 		},
 		{
 			"key":"EP02_S1200_0106",
-			"value":"まー、色んなとこを探してみようよ"
+			"value":"Let’s just keep looking."
 		},
 		{
 			"key":"EP02_S1200_0107",
-			"value":"ええ、そうね\n他のところも探してみるわ"
+			"value":"You’re right.\nLet’s look elsewhere."
 		},
 		{
 			"key":"EP02_S1200_0108",
-			"value":"タクマくんも、もし見つけたら教えてね"
+			"value":"Let us know if you find something, Takuma."
 		},
 		{
 			"key":"EP02_S1200_Q1",
-			"value":"（食料を見つけたら……か）"
+			"value":"(If we find food, huh?)"
 		},
 		{
 			"key":"EP02_S1200_Q1_A1",
-			"value":"うん、教えてあげよう"
+			"value":"Sure, you got it."
 		},
 		{
 			"key":"EP02_S1200_Q1_A2",
-			"value":"そもそも食料なんてあるのかな？"
+			"value":"Is there food here?"
 		},
 		{
 			"key":"EP02_S1200_0002",
-			"value":"ああ、いいよ"
+			"value":"Sure, you got it."
 		},
 		{
 			"key":"EP02_S1200_0003",
-			"value":"そうだよな、先にミノルに教えたら\n食べ尽くされちゃうもんな"
+			"value":"If I told Minoru first he’d just eat it all\nup."
 		},
 		{
 			"key":"EP02_S1200_0004",
-			"value":"いくらミノルくんでも\nそこまでヒドい事はしないわよ……"
+			"value":"I don’t believe Minoru would stoop so low."
 		},
 		{
 			"key":"EP02_S1200_0005",
-			"value":"……たぶん"
+			"value":"...Probably not."
 		},
 		{
 			"key":"EP02_S1200_0006",
-			"value":"いいえ、彼はきっとやるわね！\nそういう男よ！"
+			"value":"Oh, I bet he would!\nThat’s the kind of boy he is!"
 		},
 		{
 			"key":"EP02_S1200_0109",
-			"value":"本当に食料なんてあるのかな……\nバケモノまで出る、こんな廃墟に……"
+			"value":"Is there really any food here?\nThere’s probably just monsters..."
 		},
 		{
 			"key":"EP02_S1200_0110",
-			"value":"それは……"
+			"value":"Well..."
 		},
 		{
 			"key":"EP02_S1200_0111",
-			"value":"確かに、あるって断言はできないけど……\n探さないと、無いって確かめることもできないわ"
+			"value":"You’re right. We don’t know for certain...\nBut we won’t know unless we look."
 		},
 		{
 			"key":"EP02_S1200_0112",
-			"value":"それに……何かしていないと不安なのよ"
+			"value":"And I’d be worried if we did nothing."
 		},
 		{
 			"key":"EP02_S1200_0113",
-			"value":"アオイ……"
+			"value":"Aoi..."
 		},
 		{
 			"key":"EP02_S1200_0114",
-			"value":"あ……ごめん、アオイさん頑張ってるのに\n変なこと言って……"
+			"value":"I’m sorry. You’re doing your best.\nI should shut up..."
 		},
 		{
 			"key":"EP02_S1200_0115",
-			"value":"ううん、いいの。ネガティブな時は\nたいていお腹が空いてるせいだから"
+			"value":"It’s fine. Things always seem terrible when\nyou’re hungry."
 		},
 		{
 			"key":"EP02_S1200_0116",
-			"value":"あはは……それはどうかと思うけど"
+			"value":"You might be right..."
 		},
 		{
 			"key":"EP02_S1200_0007",
-			"value":"まあ、とにかく台所は\nアオイさんに任せた方が良いね"
+			"value":"All the same, I think it’s best to leave the\nkitchen to you, Aoi."
 		},
 		{
 			"key":"EP02_S1200_0117",
-			"value":"ええ。期待に応えられるようにがんばります"
+			"value":"I’ll have to live up to that!"
 		},
 		{
 			"key":"EP02_S1200_0201",
-			"value":"食料が見つかったら\n台所はアオイさんに任せた方が良いかもね"
+			"value":"After we find some food, we’ll leave the\ncooking to you."
 		},
 		{
 			"key":"EP02_S1200_0202",
-			"value":"わかったわ\n期待に応えられるようにがんばります"
+			"value":"Right. I’ll try not to let you down."
 		},
 		{
 			"key":"EP02_S1200_0118",
-			"value":"あ、そうよ、台所……あそこを真っ先に探さなくちゃ"
+			"value":"Hey, the kitchen! That should be the first\nplace we check!"
 		},
 		{
 			"key":"EP02_S1200_0119",
-			"value":"それじゃあタクマくん、私は行くわね"
+			"value":"I’ll go then, Takuma."
 		},
 		{
 			"key":"EP02_S1200_0120",
-			"value":"行きましょ、ラブラモン"
+			"value":"Let’s go, Labramon."
 		},
 		{
 			"key":"EP02_S1200_0121",
-			"value":"ええ！"
+			"value":"Okay!"
 		}
 	]
 }

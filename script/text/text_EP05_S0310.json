@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0310_0001",
-			"value":"こっちの方に誰かいるのか？"
+			"value":"Is someone over there?"
 		},
 		{
 			"key":"EP05_S0310_0002",
-			"value":"うん、多分この感じ……アオイかも！"
+			"value":"Yeah, I think so... Aoi, by the feel of it!"
 		},
 		{
 			"key":"EP05_S0310_0003",
-			"value":"そうか。なら次はアオイさんを捜そう！"
+			"value":"Oh yeah? Then let’s look for her next!"
 		},
 		{
 			"key":"EP05_S0310_0004",
-			"value":"おう！"
+			"value":"Yeah!"
 		}
 	]
 }

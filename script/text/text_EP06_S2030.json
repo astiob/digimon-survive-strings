@@ -2,211 +2,211 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2030_0001",
-			"value":"タクマ……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP06_S2030_0002",
-			"value":"あれ、アグモン？\n元気がないけど、どうしたの？"
+			"value":"Agumon? What’s up? You look kinda down."
 		},
 		{
 			"key":"EP06_S2030_0003",
-			"value":"ボクたちがおかしくなっちゃうのって\nニンゲンのコドモが不安な時だよね？"
+			"value":"We turn all weird when human children are\nupset, right?"
 		},
 		{
 			"key":"EP06_S2030_0004",
-			"value":"ボクが不安になるのは\n関係ないって、教授言ってたよね？"
+			"value":"And the professor said that me getting upset\nwouldn’t affect anything, right?"
 		},
 		{
 			"key":"EP06_S2030_0005",
-			"value":"多分、大丈夫だと思うけど"
+			"value":"Yeah, I think that’s true."
 		},
 		{
 			"key":"EP06_S2030_0006",
-			"value":"でも大丈夫だろうがそうじゃなかろうが\nアグモンが不安なら話を聞きたいよ"
+			"value":"But either way, if you’re upset I wanna talk\nabout it, man."
 		},
 		{
 			"key":"EP06_S2030_0007",
-			"value":"うーん……うん\nあのね、何かあったわけじゃないんだ"
+			"value":"Umm... Okay. It’s not like anything bad\nhappened, y’know."
 		},
 		{
 			"key":"EP06_S2030_0008",
-			"value":"ただ、もしかしたらタクマを\n傷つけちゃうのかもって"
+			"value":"It’s just, I started thinking. What if I hurt\nyou, Takuma?"
 		},
 		{
 			"key":"EP06_S2030_0009",
-			"value":"ちょっとだけ、頭の端っこで思っただけ\nそれだけなのに"
+			"value":"It just popped into my head, that’s all."
 		},
 		{
 			"key":"EP06_S2030_0010",
-			"value":"不安になっちゃったんだ？"
+			"value":"And that made you start worrying?"
 		},
 		{
 			"key":"EP06_S2030_0011",
-			"value":"うん\nタクマがボクを悪い子にしないのはわかってる"
+			"value":"Yeah. I know you don’t treat me like a bad\nguy or anything."
 		},
 		{
 			"key":"EP06_S2030_0012",
-			"value":"タクマが信じてくれてるのもわかってる\nボク、信じてないわけじゃないんだ……！"
+			"value":"I know you trust me. There’s no way you\nwouldn’t...!"
 		},
 		{
 			"key":"EP06_S2030_0013",
-			"value":"（アグモン、しょんぼりしながら\n　必死に言い訳してる）"
+			"value":"(Agumon looks so miserable, and he’s trying\nso hard to explain himself.)"
 		},
 		{
 			"key":"EP06_S2030_0014",
-			"value":"（もしかして、不安だったのを\n　隠してたのかな）"
+			"value":"(Was he trying to hide how upset he was?)"
 		},
 		{
 			"key":"EP06_S2030_0015",
-			"value":"（不安だなんて言ったら、僕のことを\n　信じてないみたいで悪いから……？）"
+			"value":"(Maybe he thought talking about it was bad?\nLike it meant he didn’t trust me?)"
 		},
 		{
 			"key":"EP06_S2030_0016",
-			"value":"（だとしたらこれは\n　簡単に済ませていい話じゃない）"
+			"value":"(If that’s the case, then this won’t be an\neasy issue to solve.)"
 		},
 		{
 			"key":"EP06_S2030_0017",
-			"value":"（ちゃんとアグモンに向き合って\n　不安を取り除いてあげるべきだ）"
+			"value":"(I should face Agumon straight up, to take\naway his anxiety.)"
 		},
 		{
 			"key":"EP06_S2030_Q1",
-			"value":"（アグモンの不安を取り除くには、なんて言えばいい？）"
+			"value":"(What can I say to put Agumon’s mind at ease?)"
 		},
 		{
 			"key":"EP06_S2030_Q1_A1",
-			"value":"僕も不安だよ"
+			"value":"I’m worried, too."
 		},
 		{
 			"key":"EP06_S2030_Q1_A2",
-			"value":"不安を隠す必要はないよ"
+			"value":"Don’t hide your anxiety."
 		},
 		{
 			"key":"EP06_S2030_Q1_A3",
-			"value":"悪い子になんかならないよ"
+			"value":"You’ll never turn bad."
 		},
 		{
 			"key":"EP06_S2030_0019",
-			"value":"実は、僕も不安なんだ"
+			"value":"The truth is, I’m worried, too."
 		},
 		{
 			"key":"EP06_S2030_0020",
-			"value":"タクマも？\nボクが悪い子になっちゃうことが？"
+			"value":"You too? Do you think I might turn bad?"
 		},
 		{
 			"key":"EP06_S2030_0021",
-			"value":"ううん、アグモンのことは信じてるんだ"
+			"value":"No way! I trust you completely, Agumon."
 		},
 		{
 			"key":"EP06_S2030_0022",
-			"value":"ただ、教授が言ったことが\n絶対に合ってるとは限らないだろ？"
+			"value":"It’s just that, there’s a chance that what\nthe professor said wasn’t totally correct."
 		},
 		{
 			"key":"EP06_S2030_0023",
-			"value":"そっか……そうだね"
+			"value":"I see... That makes sense."
 		},
 		{
 			"key":"EP06_S2030_0024",
-			"value":"アグモンだけが不安なんじゃないよ\n僕も不安で、お揃いだ"
+			"value":"You’re not the only one who is worried,\nAgumon. I’m right there with you."
 		},
 		{
 			"key":"EP06_S2030_0025",
-			"value":"アグモンがちゃんと\n不安だよって教えてくれたら……"
+			"value":"I wish you’d just come out and tell me if\nyou’re ever upset..."
 		},
 		{
 			"key":"EP06_S2030_0026",
-			"value":"僕はアグモンにこうして\nお揃いだよって言ってあげられる"
+			"value":"Then I can let you know you’re not alone,\njust like this."
 		},
 		{
 			"key":"EP06_S2030_0027",
-			"value":"そうしたら、ちょっと気が楽にならない？"
+			"value":"Wouldn’t that make you feel better?"
 		},
 		{
 			"key":"EP06_S2030_0028",
-			"value":"うん、お揃いだって思ったら\nボクも安心したぞー！"
+			"value":"Yeah, when I think we’re in the same boat,\nI feel loads better!"
 		},
 		{
 			"key":"EP06_S2030_0029",
-			"value":"だからアグモン、不安に思ったことは\n僕に教えてくれていいからね"
+			"value":"You get it, Agumon? Come talk to me if you’re\never worried, okay?"
 		},
 		{
 			"key":"EP06_S2030_0030",
-			"value":"うん！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP06_S2030_0032",
-			"value":"アグモン、不安だってことは\n隠さなくていいんだよ"
+			"value":"You don’t have to hide it when you’re upset,\nAgumon."
 		},
 		{
 			"key":"EP06_S2030_0033",
-			"value":"そうなのかー？\nでも、みんなみたいにケンカしたくない"
+			"value":"You sure? But I don’t wanna fight like the\nothers do."
 		},
 		{
 			"key":"EP06_S2030_0034",
-			"value":"僕たちなら、喧嘩になんかならないよ\nちゃんと信じ合ってるからね"
+			"value":"It won’t go that way for us. We trust in each\nother, after all."
 		},
 		{
 			"key":"EP06_S2030_0035",
-			"value":"アグモンは戦いで\nいつも僕を助けてくれるよね？"
+			"value":"You’re always saving me in battles, aren’t\nyou?"
 		},
 		{
 			"key":"EP06_S2030_0036",
-			"value":"だから僕もアグモンが困ってたら\n助けてあげるんだ"
+			"value":"So I want to help you whenever you’re in\na bind, too."
 		},
 		{
 			"key":"EP06_S2030_0037",
-			"value":"交換こだよ"
+			"value":"Give and take, you know?"
 		},
 		{
 			"key":"EP06_S2030_0038",
-			"value":"タクマ……ありがとう！"
+			"value":"Takuma... Thanks a bunch!"
 		},
 		{
 			"key":"EP06_S2030_0040",
-			"value":"ケモノの不安は悪い子になるきっかけには\nならないよ"
+			"value":"Your anxiety won’t turn you into a bad guy."
 		},
 		{
 			"key":"EP06_S2030_0041",
-			"value":"うん、教授はニンゲンの方の不安がーって\n言ってたもんな"
+			"value":"Yeah, the professor said it’s human anxiety\nthat turns us bad."
 		},
 		{
 			"key":"EP06_S2030_0042",
-			"value":"うん。それに、もし仮に関係が\nあったとしても"
+			"value":"Yeah. And even if we do have that sort of\nconnection..."
 		},
 		{
 			"key":"EP06_S2030_0043",
-			"value":"僕がアグモンを悪い子にはさせない\nだから大丈夫だよ"
+			"value":"I won’t let you become a bad guy, so you\ndon’t have to worry, Agumon."
 		},
 		{
 			"key":"EP06_S2030_0044",
-			"value":"タクマ……！\nうん、すっごくたのもしい！"
+			"value":"Takuma... I know I can trust you!"
 		},
 		{
 			"key":"EP06_S2030_0045",
-			"value":"じゃあ、ボクは何も心配しなくて\nいいんだ……"
+			"value":"That means I got nothing to worry about..."
 		},
 		{
 			"key":"EP06_S2030_0046",
-			"value":"あれ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP06_S2030_0047",
-			"value":"アグモン？"
+			"value":"Agumon?"
 		},
 		{
 			"key":"EP06_S2030_0048",
-			"value":"タクマ、危ない！"
+			"value":"Watch out, Takuma!"
 		},
 		{
 			"key":"EP06_S2030_0049",
-			"value":"うわっ！？\nこんなところに……敵！？"
+			"value":"Yow! Enemies, in a place like this?!"
 		},
 		{
 			"key":"EP06_S2030_0050",
-			"value":"……タクマ\nタクマはボクの不安を消してくれる"
+			"value":"...You’ve made all my worries disappear,\nTakuma."
 		},
 		{
 			"key":"EP06_S2030_0051",
-			"value":"だからボクも、タクマを危ない目にあわせる敵を\n倒すんだ！"
+			"value":"So now I’m gonna beat up all these bad guys\ntrying to hurt you!"
 		}
 	]
 }

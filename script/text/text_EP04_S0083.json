@@ -2,39 +2,39 @@
     "scenario_text": [
         {
             "key": "EP04_S0083_0001",
-            "value": "ダメだ、ここも違う……"
+            "value": "Bah, looks like this isn’t it either."
         },
         {
             "key": "EP04_S0083_0002",
-            "value": "どう見ても、単なるベッドだもんね"
+            "value": "Yeah, apparently this is just an ordinary\nbed."
         },
         {
             "key": "EP04_S0083_0003",
-            "value": "ボロボロのね～"
+            "value": "And a real beat up one at that!"
         },
         {
             "key": "EP04_S0083_0004",
-            "value": "でも、このベッド見てたら……ふわぁ……\nちょっと眠くなってきちゃったかも"
+            "value": "Still, the sight of it *yawn*...makes me feel\nsleepy."
         },
         {
             "key": "EP04_S0083_0005",
-            "value": "ここでお昼寝するのかー？"
+            "value": "You want to take a nap on THAT?"
         },
         {
             "key": "EP04_S0083_0006",
-            "value": "それはやめたほうがいいんじゃ……"
+            "value": "I don’t think that’s the best idea."
         },
         {
             "key": "EP04_S0083_0007",
-            "value": "やだなぁ、ちょっと言ってみただけだよ"
+            "value": "Hey, I just said it made me feel sleepy,\nokay?"
         },
         {
             "key": "EP04_S0083_0008",
-            "value": "ほら、<color=#B41919>他のところ</color>も調べよう？"
+            "value": "Come on, we should search <color=#B41919>somewhere else</color>."
         },
         {
             "key": "EP04_S0083_0009",
-            "value": "心配しなくても、こんなところで\nお昼寝なんてしないって……！"
+            "value": "Don’t worry, I’m not about to take a nap\nhere."
         }
     ]
 }

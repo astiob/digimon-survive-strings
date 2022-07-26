@@ -2,71 +2,71 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7140_0001",
-			"value":"おっ、タクマ！\nちょうどいいところに……！"
+			"value":"Oh, Takuma! Perfect timing!"
 		},
 		{
 			"key":"EP11_S7140_0002",
-			"value":"何か見つかった？"
+			"value":"Did you find anything?"
 		},
 		{
 			"key":"EP11_S7140_0003",
-			"value":"いや、そうじゃなくて……\n見ろよこれ"
+			"value":"No, that’s not it. Look at that!"
 		},
 		{
 			"key":"EP11_S7140_0004",
-			"value":"えっ……こ、これって……"
+			"value":"Whoa..."
 		},
 		{
 			"key":"EP11_S7140_0005",
-			"value":"この先、霧がすごいことになってるね"
+			"value":"The fog up ahead is really thick."
 		},
 		{
 			"key":"EP11_S7140_0006",
-			"value":"ああ……ダムの中へ入れる場所がないかと\n一通り探してはみたが……"
+			"value":"It is indeed. I’ve tried looking for a way we\nmight be able to access the dam,"
 		},
 		{
 			"key":"EP11_S7140_0007",
-			"value":"周囲一帯を、濃い霧が覆っていて\nとても先へは進めそうにない"
+			"value":"but the whole area seems to be shrouded in\ndeep fog. I can see no way through."
 		},
 		{
 			"key":"EP11_S7140_0008",
-			"value":"なんか、今までの霧よりも\nすごく……イヤな感じがするよ"
+			"value":"Something about this fog gives me a really\nbad feeling, too... Even worse than usual."
 		},
 		{
 			"key":"EP11_S7140_0009",
-			"value":"これってよ、やっぱ主がオレらの邪魔をするために\nなんかしてるってことなのかな……？"
+			"value":"This has gotta be something the Master’s\ndoing to stop us, right?"
 		},
 		{
 			"key":"EP11_S7140_0010",
-			"value":"恐らくな"
+			"value":"Most likely, yes."
 		},
 		{
 			"key":"EP11_S7140_0011",
-			"value":"だけど、いったい何が起きてるんだ……？"
+			"value":"But...what is even going on here?"
 		},
 		{
 			"key":"EP11_S7140_0012",
-			"value":"んん～？　今、なんか聞こえたぞ～？"
+			"value":"Hm? I heard something just now!"
 		},
 		{
 			"key":"EP11_S7140_0013",
-			"value":"何の音だ？"
+			"value":"What is that?"
 		},
 		{
 			"key":"EP11_S7140_0014",
-			"value":"そこの草むらから聞こえたよな\nもしかしてアオイさんとか……！？"
+			"value":"It sounded like it came from the grass over\nthere. You think maybe it’s Aoi?!"
 		},
 		{
 			"key":"EP11_S7140_0015",
-			"value":"いや……待てミノル！　不用意に近づくな！"
+			"value":"No, Minoru, wait! You shouldn’t approach so\nrecklessly!"
 		},
 		{
 			"key":"EP11_S7140_0016",
-			"value":"うわっ！？"
+			"value":"Wah?!"
 		},
 		{
 			"key":"EP11_S7140_0017",
-			"value":"下がれ、ミノル！　敵だ！！"
+			"value":"Minoru, get back! It’s an enemy!"
 		}
 	]
 }

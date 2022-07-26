@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S0230_0001",
-			"value":"あー、タクマさん！\n祠に向かう準備は進んでますか～？"
+			"value":"Oh, Takuma! Are you almost ready to head for\nthe shrine?"
 		},
 		{
 			"key":"EP11_S0230_Q1",
-			"value":"ミウになんて答えよう？"
+			"value":"How should I respond to Miu?"
 		},
 		{
 			"key":"EP11_S0230_Q1_A1",
-			"value":"まだ全然だよ"
+			"value":"Not even a little."
 		},
 		{
 			"key":"EP11_S0230_Q1_A2",
-			"value":"いまやってるところだよ"
+			"value":"I’m getting ready now."
 		},
 		{
 			"key":"EP11_S0230_0002",
-			"value":"まだ全然だよ\nミウはもう済んだの？"
+			"value":"Not even a little. You’re all set, then?"
 		},
 		{
 			"key":"EP11_S0230_0003",
-			"value":"えへへ～\nウチもまだ終わってないかなぁ"
+			"value":"Eh heh...\nI can’t say I’m finished yet."
 		},
 		{
 			"key":"EP11_S0230_0004",
-			"value":"ミウったら喋ってばっかりなのよ～\nもう、しょうがないんだからー"
+			"value":"Miu’s all talk! Whaddaya gonna do?"
 		},
 		{
 			"key":"EP11_S0230_0005",
-			"value":"ミウ……少し急いで欲しいかな"
+			"value":"...It’d be nice if you guys got the lead out."
 		},
 		{
 			"key":"EP11_S0230_0006",
-			"value":"はーい！　シャコモン行こっ！\n真面目に準備するんだから！"
+			"value":"You got it! Come on, Syakomon!\nLet’s get serious!"
 		},
 		{
 			"key":"EP11_S0230_0007",
-			"value":"はいはい、そうだといいんだけど！"
+			"value":"Sure! Not that I really believe you..."
 		},
 		{
 			"key":"EP11_S0230_0008",
-			"value":"いまやってるところだよ\nミウはもう済んだの？"
+			"value":"I’m getting ready now. Are you all finished?"
 		},
 		{
 			"key":"EP11_S0230_0009",
-			"value":"まーだ全然やってないのよ！\nもう、ミウったらしょうがないんだからー"
+			"value":"Not even a little! That’s Miu for you."
 		},
 		{
 			"key":"EP11_S0230_0010",
-			"value":"なによ、いつもシャコモンが話しかけてくるから\n準備が進まないんじゃん！"
+			"value":"Hey, if you didn’t keep yapping about this or\nthat I wouldn’t get so distracted!"
 		},
 		{
 			"key":"EP11_S0230_0011",
-			"value":"まーた、人のせいにしてー！"
+			"value":"Sure, it’s always someone else’s fault!"
 		},
 		{
 			"key":"EP11_S0230_0012",
-			"value":"（ミウとシャコモンの言い合いって\nすごく仲の良さを感じる……）"
+			"value":"(Miu and Syakomon are two peas in a pod...)"
 		},
 		{
 			"key":"EP11_S0230_0013",
-			"value":"（きっと、心から信頼し合っているから\n逆にこんなやり取りになるんだろうな）"
+			"value":"(The way they fuss at each other only shows\nhow deep their trust goes.)"
 		},
 		{
 			"key":"EP11_S0230_0014",
-			"value":"あれ？　どうしたの？　タクマさん……\nなんかニヤニヤしてない～？"
+			"value":"Huh? What’s so funny, Takuma? If I didn’t\nknow better I’d think you’re sneering at us!"
 		},
 		{
 			"key":"EP11_S0230_Q2",
-			"value":"ミウが不穏な目つきでこちらを見ている！"
+			"value":"Miu’s staring at me with a disquieted gaze!"
 		},
 		{
 			"key":"EP11_S0230_Q2_A1",
-			"value":"ニヤニヤしてないよ！"
+			"value":"I’m not smirking!"
 		},
 		{
 			"key":"EP11_S0230_Q2_A2",
-			"value":"仲がいいなぁって思って"
+			"value":"You guys’re so close."
 		},
 		{
 			"key":"EP11_S0230_0015",
-			"value":"ニヤニヤしてないよ！\n微笑ましく見てただけだって！"
+			"value":"I’m not smirking! I just thought you two were\nacting cute, that’s all!"
 		},
 		{
 			"key":"EP11_S0230_0016",
-			"value":"えーっ、なんかあやしいなぁ"
+			"value":"Hmm, something’s not right..."
 		},
 		{
 			"key":"EP11_S0230_0017",
-			"value":"うんうん、いまの目つきはアヤシかった！"
+			"value":"Yeah, I don’t trust the look in his eyes!"
 		},
 		{
 			"key":"EP11_S0230_0018",
-			"value":"ちょっと！　誤解だって！"
+			"value":"Now hold on! This is just a misunderstanding!"
 		},
 		{
 			"key":"EP11_S0230_0019",
-			"value":"あはは、うそうそ！　さあ、シャコモン行こ！\nそろそろ真面目に準備しないとね～！"
+			"value":"Ahaha, we’re just kidding! C’mon, Syakomon,\nwe’d better get ready for real!"
 		},
 		{
 			"key":"EP11_S0230_0020",
-			"value":"いや、仲がいいなぁって思ってさ"
+			"value":"You guys’re just so close, I can’t help it."
 		},
 		{
 			"key":"EP11_S0230_0021",
-			"value":"そりゃそーよ！　ウチとシャコモンは\nお互いを必要としているんだもん！"
+			"value":"Darn tootin’! Me and Syakomon depend on each\nother!"
 		},
 		{
 			"key":"EP11_S0230_0022",
-			"value":"うんっ！　シャコモンはミウが必要だし\nミウだって、シャコモンがいないとダメなんだよ！"
+			"value":"Yeah! I need Miu, and Miu can’t get by\nwithout me!"
 		},
 		{
 			"key":"EP11_S0230_0023",
-			"value":"ねえタクマさん、ファルコモンが\nミノルさんの元から離れた時のこと覚えてる？"
+			"value":"Takuma? Do you remember when Falcomon left\nMinoru that time?"
 		},
 		{
 			"key":"EP11_S0230_Q3",
-			"value":"ミウになんて答えよう？"
+			"value":"How should I respond to Miu?"
 		},
 		{
 			"key":"EP11_S0230_Q3_A1",
-			"value":"覚えているよ"
+			"value":"Yeah, I remember."
 		},
 		{
 			"key":"EP11_S0230_Q3_A2",
-			"value":"もう忘れちゃったよ"
+			"value":"I can’t say I do."
 		},
 		{
 			"key":"EP11_S0230_0024",
-			"value":"覚えているよ\nみんな、すごく辛い思いをしたし"
+			"value":"Yeah, I remember. That was a hard time for\neveryone."
 		},
 		{
 			"key":"EP11_S0230_0025",
-			"value":"うん……でもね、ウチはシャコモンが\n信じられないなんて一度も思わなかったんだ"
+			"value":"Yeah... You know, I’ve never felt like\nI couldn’t trust Syakomon. Not even once."
 		},
 		{
 			"key":"EP11_S0230_0026",
-			"value":"シャコモンだけは、絶対にウチを裏切らないって\nなぜかそう思ってた"
+			"value":"For some reason, I felt like Syakomon would\nnever betray me."
 		},
 		{
 			"key":"EP11_S0230_0027",
-			"value":"シャコモン、ミウを裏切るなんて\n考えたこともないもんっ！"
+			"value":"Me, betray Miu?! The thought’s never even\ncrossed my mind!"
 		},
 		{
 			"key":"EP11_S0230_0028",
-			"value":"そうだよね、シャコモン\nウチだって、疑ったことないもんね"
+			"value":"Yeah, I get it, Syakomon! I never doubted you\nfor a second."
 		},
 		{
 			"key":"EP11_S0230_0029",
-			"value":"（あの時……アグモンを一瞬でも疑ったことは\nいまでも忘れられないんだよな……）"
+			"value":"(That moment I doubted Agumon...\nI still remember it.)"
 		},
 		{
 			"key":"EP11_S0230_0030",
-			"value":"うん……正直、二人がうらやましいなって思うよ"
+			"value":"Yeah... To be honest, I’m a little jealous of\nyou two."
 		},
 		{
 			"key":"EP11_S0230_0031",
-			"value":"あーら、タクマさんとアグモンだって\n深い絆で結ばれてるじゃない！"
+			"value":"Whaaa’? But the bond between you and Agumon\nis super strong, isn’t it?!"
 		},
 		{
 			"key":"EP11_S0230_0032",
-			"value":"うん、それは間違いないけど……"
+			"value":"Yeah, that’s true, but..."
 		},
 		{
 			"key":"EP11_S0230_0033",
-			"value":"あ、いけない！　そろそろ本当に準備をしないと！"
+			"value":"Oh, shoot! I have to finishing getting ready\npretty soon!"
 		},
 		{
 			"key":"EP11_S0230_0034",
-			"value":"行こ！　シャコモン！\nそれじゃあタクマさん、またあとでね～！"
+			"value":"Let’s go, Syakomon! Later, Takuma!"
 		},
 		{
 			"key":"EP11_S0230_0035",
-			"value":"もう忘れちゃったよ……あの時のことは……"
+			"value":"I can’t say I remember that time..."
 		},
 		{
 			"key":"EP11_S0230_0036",
-			"value":"うそ！　あの時のことは\nみんな忘れられないと思うな"
+			"value":"You’re kidding! I didn’t think any of us\ncould forget about the time that happened."
 		},
 		{
 			"key":"EP11_S0230_0037",
-			"value":"強い絆を抱いたこの子たちを\nみんな信じられなくなってたもん……"
+			"value":"We all lost faith in these little guys, even\nthough we shared such strong bonds."
 		},
 		{
 			"key":"EP11_S0230_0038",
-			"value":"だから……あまり思い出したくないんだよ"
+			"value":"...That’s why I don’t really like to think\nabout it."
 		},
 		{
 			"key":"EP11_S0230_0039",
-			"value":"そっか……ごめんなさい……"
+			"value":"Oh...sorry."
 		},
 		{
 			"key":"EP11_S0230_0040",
-			"value":"あ、いけない！\nそろそろ本当に準備をしないと！"
+			"value":"Oh, shoot! I have to finishing getting ready\npretty soon!"
 		},
 		{
 			"key":"EP11_S0230_0041",
-			"value":"行こ！　シャコモン！\nそれじゃあタクマさん、またあとで……"
+			"value":"Let’s go, Syakomon! Later, Takuma..."
 		}
 	]
 }

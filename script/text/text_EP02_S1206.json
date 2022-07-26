@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1206_0001",
-			"value":"タクマー、ショクリョウはここにあるのか？"
+			"value":"Is there food here, Takuma?"
 		},
 		{
 			"key":"EP02_S1206_0002",
-			"value":"先生の食事とか残ってるかもと思ったけど……\nどうやら無さそうだな"
+			"value":"The professor might have some food left.\nBut I can’t find any."
 		},
 		{
 			"key":"EP02_S1206_0003",
-			"value":"大丈夫だ！　きっとどこかにある！"
+			"value":"It’ll be all right! There’s gotta be food\nsomewhere!"
 		},
 		{
 			"key":"EP02_S1206_0004",
-			"value":"ありがとう、アグモン\n諦めずに探してみるよ"
+			"value":"Thanks, Agumon.\nWe’ll keep looking."
 		},
 		{
 			"key":"EP02_S1206_0005",
-			"value":"なぁタクマー、これってショクリョウか？"
+			"value":"Is this food, Takuma?"
 		},
 		{
 			"key":"EP02_S1206_0006",
-			"value":"いや、これはどう見ても違うな\nこんなの食べられないよ"
+			"value":"No, I don’t think we can eat that."
 		},
 		{
 			"key":"EP02_S1206_0007",
-			"value":"そうなのかー……"
+			"value":"Oh, man..."
 		},
 		{
 			"key":"EP02_S1206_0008",
-			"value":"あ、でも！　他のことには使えるぞ！\nありがとな、アグモン！"
+			"value":"But we can use it for something else!\nThanks, Agumon!"
 		},
 		{
 			"key":"EP02_S1206_0009",
-			"value":"へへ～"
+			"value":"Heheh..."
 		},
 		{
 			"key":"EP02_S1206_0010",
-			"value":"タクマー、なんにもないなー"
+			"value":"Takuma, I don’t see anything here."
 		},
 		{
 			"key":"EP02_S1206_0011",
-			"value":"そうだなぁ……\n他のとこも見てみるか"
+			"value":"Well, let me think.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1206_0012",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0377_0001",
-			"value":"ダメだ……蜘蛛の巣が邪魔で入れない"
+			"value":"It’s no good... I can’t get in with all the\nwebs in the way."
 		},
 		{
 			"key":"EP01_S0377_0002",
-			"value":"もう、ピアノの音も聞こえなくなったな"
+			"value":"Oh, I can’t hear the piano anymore."
 		},
 		{
 			"key":"EP01_S0377_0003",
-			"value":"タクマー、行こー？"
+			"value":"We should go, huh, Takuma?"
 		}
 	]
 }

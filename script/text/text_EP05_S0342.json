@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0342_0001",
-			"value":"おいタクマ！　シュウジ見つけたぞ！"
+			"value":"Hey, Takuma! I spotted Shuuji!"
 		},
 		{
 			"key":"EP05_S0342_0002",
-			"value":"え、ホント！？"
+			"value":"Wait, really?!"
 		},
 		{
 			"key":"EP05_S0342_0003",
-			"value":"こっちこっち！　早く！"
+			"value":"Yeah, over here! Hurry!"
 		},
 		{
 			"key":"EP05_S0342_0004",
-			"value":"マジでヤバそうな雰囲気だった\nさっさと追いかけるぞ！"
+			"value":"Something’s really wrong with the guy. We\ngotta chase him down, quick!"
 		},
 		{
 			"key":"EP05_S0342_0005",
-			"value":"わ、わかった！"
+			"value":"Got it!"
 		}
 	]
 }

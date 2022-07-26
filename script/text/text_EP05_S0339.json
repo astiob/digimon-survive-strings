@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0339_0001",
-			"value":"あ、あれ！？\nここどこ！？"
+			"value":"What?! Where is this?!"
 		},
 		{
 			"key":"EP05_S0339_0002",
-			"value":"最初にいたところに戻されたみたいだ\n多分、本物を見分けられなかったから……"
+			"value":"Looks like we’re back at the start. Guess\nthat means we picked the wrong path..."
 		},
 		{
 			"key":"EP05_S0339_0003",
-			"value":"うぅ～、悔しい～！\nウチがシャコモンを見つけられないなんて～！"
+			"value":"Oh maaan! I can’t believe I couldn’t find\nSyakomon!"
 		},
 		{
 			"key":"EP05_S0339_0004",
-			"value":"大丈夫！　もう一回挑戦しよう！"
+			"value":"Don’t worry! We just have to try again!"
 		},
 		{
 			"key":"EP05_S0339_0005",
-			"value":"うん！　何度だって挑戦して\n絶対にシャコモンを取り返すよ！"
+			"value":"Yeah! We’ll go as many times as we need to\nuntil we find him!"
 		}
 	]
 }

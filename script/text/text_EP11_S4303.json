@@ -2,91 +2,91 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4303_0001",
-			"value":"タクマか、すまない\nまだカイトたちのことは見つけられていない"
+			"value":"Sorry, Takuma, but I haven’t found out\nanything about Kaito."
 		},
 		{
 			"key":"EP11_S4303_0002",
-			"value":"うん、わかった\nレナモンはもう少しこの辺を捜すの？"
+			"value":"Gotcha. So are you gonna search a little more\naround here?"
 		},
 		{
 			"key":"EP11_S4303_0003",
-			"value":"そのつもりだが……あの"
+			"value":"I’m planning to, but..."
 		},
 		{
 			"key":"EP11_S4303_0004",
-			"value":"どうしたの、レナモン？\n何かタクマに言いたいの？"
+			"value":"What is it, Renamon? Is there something you’d\nlike to tell Takuma?"
 		},
 		{
 			"key":"EP11_S4303_0005",
-			"value":"あ、ああ\nひとつ言いそびれていたことがあるんだ"
+			"value":"Er, yes... There’s something I’ve been\nmeaning to say."
 		},
 		{
 			"key":"EP11_S4303_0006",
-			"value":"言いそびれていたというか\nあえて言わなかったんだが……"
+			"value":"Something I’ve been avoiding telling you, to\nbe honest."
 		},
 		{
 			"key":"EP11_S4303_0007",
-			"value":"なんだろう\n僕でよければ、聞かせてほしい"
+			"value":"Okay. I’m happy to listen, whatever it is."
 		},
 		{
 			"key":"EP11_S4303_0008",
-			"value":"私は主の居場所を知っている"
+			"value":"I know where the Master is."
 		},
 		{
 			"key":"EP11_S4303_0009",
-			"value":"えっ！？　だったら、すぐにみんなに知らせた方が……\nうっかり本拠地に近づいちゃったら危険だよね？"
+			"value":"What?! We’ve got to tell the others... What\nif they go there by accident?!"
 		},
 		{
 			"key":"EP11_S4303_0010",
-			"value":"いや、主は図書館で多くの眷属を失っている"
+			"value":"Don’t worry, the Master lost a lot of Kenzoku\nat the library."
 		},
 		{
 			"key":"EP11_S4303_0011",
-			"value":"戦力の回復までにはまだ時間がかかる\n進んで仕掛けてくるほどの体力はないはずだ"
+			"value":"It’ll take time for him to recover his\nstrength. I doubt he can do much now."
 		},
 		{
 			"key":"EP11_S4303_0012",
-			"value":"それに、今はカイトを救うのが優先だ、と\n私はそう考えている"
+			"value":"And I think our current priority is to rescue\nKaito."
 		},
 		{
 			"key":"EP11_S4303_0013",
-			"value":"主の居場所を知っていると言ったが最後\n教授の意見の方が優勢になってしまいそうだっただろう"
+			"value":"Saying I knew where the Master is would’ve\nonly reinforced the professor’s proposal."
 		},
 		{
 			"key":"EP11_S4303_0014",
-			"value":"（確かに、さっきのムードを思い返せば\n　そうだったかもしれない）"
+			"value":"(That’s probably true based on how things\nwere going earlier.)"
 		},
 		{
 			"key":"EP11_S4303_0015",
-			"value":"私は思うのだ"
+			"value":"Here’s what I think."
 		},
 		{
 			"key":"EP11_S4303_0016",
-			"value":"目的あってのこととはいえ、私はあれだけの幻を見せ\nお前たちの心を傷つけた"
+			"value":"Even if I had my reasons, I hurt you all by\nshowing you that illusion."
 		},
 		{
 			"key":"EP11_S4303_0017",
-			"value":"なのにお前たちは、私を迎え入れた\nだから……"
+			"value":"And yet you still accepted me afterwards."
 		},
 		{
 			"key":"EP11_S4303_0018",
-			"value":"カイトの心が荒れ果てようとも\n君たちなら彼を救えるのではないかと"
+			"value":"No matter how desperate Kaito may be, I’m\nsure you can get him to come around."
 		},
 		{
 			"key":"EP11_S4303_0019",
-			"value":"……うん\nそうしたいと思ってるよ"
+			"value":"I sure hope so."
 		},
 		{
 			"key":"EP11_S4303_0020",
-			"value":"私にできる手伝いは何だってする\nだから……"
+			"value":"I’ll do anything I can to help you..."
 		},
 		{
 			"key":"EP11_S4303_0021",
-			"value":"必ずカイトを見つけよう\nそれが私にできるせめてもの恩返しで、贖罪だ"
+			"value":"So let’s find him. It’s the least I can do to\nmake up for everything!"
 		},
 		{
 			"key":"EP11_S4303_0022",
-			"value":"もう少しこの辺りを捜してみる\nその後……みんなにも、主の居場所を教えよう"
+			"value":"Let’s look around here some more, and then\nI’ll reveal where the Master is."
 		}
 	]
 }

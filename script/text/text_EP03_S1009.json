@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1009_0001",
-			"value":"ファルコモンの意見も聞きたいな"
+			"value":"I’d like to get your opinion too, Falcomon."
 		},
 		{
 			"key":"EP03_S1009_0002",
-			"value":"む？　俺か？"
+			"value":"Oh? You would?"
 		},
 		{
 			"key":"EP03_S1009_0003",
-			"value":"ファルコモンは、外に出るのとここにいるの\nどっちがいいと思う？"
+			"value":"Yeah, what do you think? Should we stay here,\nor go out and explore?"
 		},
 		{
 			"key":"EP03_S1009_0004",
-			"value":"ふむ、簡単には決められないが……\nどちらかと言えば外に出る方がいいと思う"
+			"value":"Well, it is no easy decision, but ultimately\nI favor exploration."
 		},
 		{
 			"key":"EP03_S1009_0005",
-			"value":"やっぱそうだよな！"
+			"value":"Right? It’s the only real option!"
 		},
 		{
 			"key":"EP03_S1009_0006",
-			"value":"どうしてそう思うんだ？"
+			"value":"Why is that your preference?"
 		},
 		{
 			"key":"EP03_S1009_0007",
-			"value":"ミノルたちも俺たちも、この世界のことを知らなすぎる\n助かる方法も脅威も、まず調べなければわからない"
+			"value":"We know too little of this world. We must\nfind how to save you, and identify threats."
 		},
 		{
 			"key":"EP03_S1009_0008",
-			"value":"もちろん、危ない輩や霧は警戒しなければならないが\n危険があるという認識で行動すれば対処もできるだろう"
+			"value":"We must of course be wary of enemies and the\nfog, but it’s not as if we have no recourse."
 		},
 		{
 			"key":"EP03_S1009_0009",
-			"value":"何より、危険を察知すれば逃げればいいのだ\n深追いしなければ、そうそう窮地に陥ることもない"
+			"value":"If we sense danger, we can run. So long as we\nare not pursued, we can stay safe."
 		},
 		{
 			"key":"EP03_S1009_0010",
-			"value":"わぁー……ファルコモンすごいなぁ\nボクあんまりわかんないけど"
+			"value":"Wow, good thinking, Falcomon! Not that\nI really understand all of it."
 		},
 		{
 			"key":"EP03_S1009_0011",
-			"value":"そこまで考えてたんだな\nやっぱファルコモンは頼りになるよ"
+			"value":"You’ve put a lot of thought into this\nstrategy. I knew I could count on you."
 		},
 		{
 			"key":"EP03_S1009_0012",
-			"value":"な、なんだよぉ……オレだってそれくらい\n考えてたし……"
+			"value":"Hey, what about me? I’d figured out that\nmuch, too..."
 		},
 		{
 			"key":"EP03_S1009_0013",
-			"value":"もちろん、ここに留まる利点だってある\n皆の意見をよく聞いて、判断してほしい"
+			"value":"But there are benefits to staying here. You\nshould consider what everyone has to say."
 		},
 		{
 			"key":"EP03_S1009_0014",
-			"value":"ああ、わかった。ありがとな、ファルコモン"
+			"value":"Don’t worry, I will. Thanks, Falcomon."
 		},
 		{
 			"key":"EP03_S1009_0015",
-			"value":"ん？　俺に用か？　ミノルの話を聞かなくていいのか？"
+			"value":"Hm? You would speak with me? Shouldn’t you\nsee what Minoru has to say?"
 		}
 	]
 }

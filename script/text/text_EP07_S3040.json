@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S3040_0001",
-			"value":"ここ、何か怪しい感じがするぞ"
+			"value":"I’m getting a weird feeling from this place."
 		},
 		{
 			"key":"EP07_S3040_0002",
-			"value":"そう？　パッと見た感じでは、何もないけど……"
+			"value":"Really? I don’t see anything all that\nstrange."
 		},
 		{
 			"key":"EP07_S3040_0003",
-			"value":"……ううん、私も何かあるような気がする\n何かいい方法はないかしら？"
+			"value":"No, I feel it too. There’s something here.\nNow how should we deal with this?"
 		},
 		{
 			"key":"EP07_S3040_0004",
-			"value":"ここには、もう何もなさそうだゾ？"
+			"value":"I don’t think there’s anything else here."
 		},
 		{
 			"key":"EP07_S3040_0005",
-			"value":"そうみたいね\nさあ、他へ行きましょう"
+			"value":"Yeah, I don’t think so either. Let’s keep\nmoving."
 		}
 	]
 }

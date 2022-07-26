@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0720_0001",
-			"value":"！！！！"
+			"value":"!!!"
 		},
 		{
 			"key":"EP10_S0720_0002",
-			"value":"ギャアァァァァ！！！"
+			"value":"Eek!"
 		},
 		{
 			"key":"EP10_S0720_0003",
-			"value":"グウゥゥゥ……！！"
+			"value":"Gah!"
 		},
 		{
 			"key":"EP10_S0720_0004",
-			"value":"うわぁあああああっ！？"
+			"value":"Uwaaah!"
 		},
 		{
 			"key":"EP10_S0720_0005",
-			"value":"大丈夫か、アグモン！！"
+			"value":"Agumon, are you okay?!"
 		},
 		{
 			"key":"EP10_S0720_0006",
-			"value":"う、うん……大丈夫\nびっくりしたけど、すぐにいなくなったから平気"
+			"value":"Yeah, yeah, I’m fine. They startled me, but\nI’m good now that they’re gone."
 		},
 		{
 			"key":"EP10_S0720_0007",
-			"value":"三体も隠れてたのか……"
+			"value":"So there were three of them hiding together."
 		},
 		{
 			"key":"EP10_S0720_0008",
-			"value":"タクマ！　あいつら神社のほうに逃げてったよ！"
+			"value":"They ran towards the shrine, Takuma!"
 		},
 		{
 			"key":"EP10_S0720_0009",
-			"value":"神社か、それなら校舎にいるみんなに\n何かしたりはしなさそうだけど……"
+			"value":"The shrine? In that case, I doubt they’ll try\nto do anything to the people in the school."
 		},
 		{
 			"key":"EP10_S0720_0010",
-			"value":"（敵か味方か、確かめに行ってもいいかもな）"
+			"value":"(We should go find out if they’re friend or\nfoe, I guess.)"
 		}
 	]
 }

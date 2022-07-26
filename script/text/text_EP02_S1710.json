@@ -2,207 +2,207 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1710_0001",
-			"value":"彼らの姿を最後に目にしたのは\n確か……この辺りだったかな"
+			"value":"The last time I saw them was somewhere around\nhere."
 		},
 		{
 			"key":"EP02_S1710_Q1",
-			"value":"（ここに手がかりがあるのか？）"
+			"value":"(If he’s right, there could be a clue.)"
 		},
 		{
 			"key":"EP02_S1710_Q1_A1",
-			"value":"よく覚えてましたね"
+			"value":"What a good memory!"
 		},
 		{
 			"key":"EP02_S1710_Q1_A2",
-			"value":"間違いないですか？"
+			"value":"Are you sure?"
 		},
 		{
 			"key":"EP02_S1710_Q1_A3",
-			"value":"ここは僕らも見た景色です"
+			"value":"We’ve seen this place."
 		},
 		{
 			"key":"EP02_S1710_0002",
-			"value":"よく覚えてましたね、さすが教授です！"
+			"value":"You remembered! Way to go, Professor!"
 		},
 		{
 			"key":"EP02_S1710_0003",
-			"value":"正直な話、あのケモノガミを祀る社の周辺は\n私にとっても重要な研究分野でね"
+			"value":"Actually, the area around the Kemonogami\nshrine is very important to my research."
 		},
 		{
 			"key":"EP02_S1710_0004",
-			"value":"他に聞いた事もない話ですものね\nやはり、あの土地独自の物なんでしょうか？"
+			"value":"I’ve never heard of them anywhere else.\nAre they a local legend?"
 		},
 		{
 			"key":"EP02_S1710_0005",
-			"value":"その通り。なので、あの神社近隣に関してなら\nフィールドワークで幾度となく歩いている筈が……"
+			"value":"Yes. I’ve examined the area around this\nshrine countless times doing fieldwork."
 		},
 		{
 			"key":"EP02_S1710_0006",
-			"value":"むぅ……ここだとは思う、んだが"
+			"value":"I thought this was it, but..."
 		},
 		{
 			"key":"EP02_S1710_0007",
-			"value":"どうにもこうにも、\n地形にまったく覚えが無くて……"
+			"value":"Still, I don’t recognize this area at all."
 		},
 		{
 			"key":"EP02_S1710_0008",
-			"value":"全く……ですか？"
+			"value":"At...all?"
 		},
 		{
 			"key":"EP02_S1710_0009",
-			"value":"うむ……まるでよく似た別の世界のようだ"
+			"value":"It’s like we’re in a parallel world."
 		},
 		{
 			"key":"EP02_S1710_0010",
-			"value":"ここ、僕らもみた景色だよね"
+			"value":"I think we’ve seen this place before, though."
 		},
 		{
 			"key":"EP02_S1710_0011",
-			"value":"あぁ！　最初にケモノガミ神社に来た時の！"
+			"value":"Yes! When we first came to the shrine!"
 		},
 		{
 			"key":"EP02_S1710_0012",
-			"value":"神社そのものは同じようだが……\n同一の建物が別の土地に建ったかのようだ"
+			"value":"The shrine is the same, but it’s like the\nsame building was built on different land."
 		},
 		{
 			"key":"EP02_S1710_0013",
-			"value":"いや、今に思えば同一の建物かも疑わしい\nよく似た建築様式のフェイクかも知れない……"
+			"value":"Well, perhaps not the “same”... It’s like a\nfake made with similar construction."
 		},
 		{
 			"key":"EP02_S1710_0014",
-			"value":"やっぱそうか……\nここって、異世界なのかな……"
+			"value":"I knew it.\nWe’re in another world after all..."
 		},
 		{
 			"key":"EP02_S1710_0015",
-			"value":"さあ、どうだろうね？\n当初は私の認識がおかしくなったと思ったが……"
+			"value":"Who knows? I thought my understanding was\noff at the start..."
 		},
 		{
 			"key":"EP02_S1710_0016",
-			"value":"ニンゲンの足跡があるわ！\n一つはアオイより小さいわね"
+			"value":"Look, human footprints! These are smaller\nthan Aoi’s."
 		},
 		{
 			"key":"EP02_S1710_0017",
-			"value":"もう一つはタクマより大きいかな\nまっすぐ先の方に進んでる"
+			"value":"These others are bigger than Takuma’s.\nThey head that way!"
 		},
 		{
 			"key":"EP02_S1710_0018",
-			"value":"やっぱここで間違いなかったんだ\nさすが教授……！"
+			"value":"Your intuition was right all along. I knew\nyou could do it, Professor!"
 		},
 		{
 			"key":"EP02_S1710_0019",
-			"value":"土地勘は無くとも、\n職業柄、一度通った道ならばね……"
+			"value":"Even if I don’t know my way around here, I’ve\ngot my expertise to fall back on."
 		},
 		{
 			"key":"EP02_S1710_0020",
-			"value":"という事は、はからずも私の方向感覚や認識に、\n異常があった訳ではない事が証明されてしまった……"
+			"value":"This proves that there are no problems in my\nsense of direction, or awareness."
 		},
 		{
 			"key":"EP02_S1710_0021",
-			"value":"見てみて！\nすごく大きな足跡まであるよ！"
+			"value":"Look, look! There’s some HUGE footprints over\nhere!"
 		},
 		{
 			"key":"EP02_S1710_0022",
-			"value":"これ……二つのニンゲンの足跡を\nずっと追ってってる……！"
+			"value":"It looks like...they’re chasing after this\npair of human prints!"
 		},
 		{
 			"key":"EP02_S1710_0023",
-			"value":"まずいな。味方……じゃないよな？"
+			"value":"That’s not good. Friend or foe?"
 		},
 		{
 			"key":"EP02_S1710_0024",
-			"value":"そこは足跡だけでは判断がつかない……"
+			"value":"It is difficult to tell from footprints\nalone..."
 		},
 		{
 			"key":"EP02_S1710_0025",
-			"value":"説明は難しいが、ある程度なら気配というか\n匂いというか波長で判断はつくが……"
+			"value":"It’s hard to explain, but I can get a read on\nthem from their aura or their scent..."
 		},
 		{
 			"key":"EP02_S1710_0026",
-			"value":"中には巧妙に、それら自らの痕跡を\n消したり偽装したりできるモノもいる"
+			"value":"Some are clever, though, covering up or\ndisguising any trace of themselves."
 		},
 		{
 			"key":"EP02_S1710_0027",
-			"value":"なるほど、多種多様っていうか\nホント色んなヤツがいるんだな"
+			"value":"Boy, I guess it takes all kinds, huh?"
 		},
 		{
 			"key":"EP02_S1710_0028",
-			"value":"とにかくサキたちが悪い怪物に追われてたのは\n確かなんだろ？　だったら早く見つけないと……"
+			"value":"We know something bad is after those two,\neither way. We’d better hurry..."
 		},
 		{
 			"key":"EP02_S1710_0029",
-			"value":"そうだね。足跡や痕跡だけじゃなく、\n耳もすませてみるといい"
+			"value":"Indeed. Perhaps we should not just look, but\nlisten for clues as well."
 		},
 		{
 			"key":"EP02_S1710_0030",
-			"value":"ん～、確かに……何か近くにいるわね"
+			"value":"Hmm... Yeah, something’s close."
 		},
 		{
 			"key":"EP02_S1710_0031",
-			"value":"やだ、脅かさないでよ……"
+			"value":"You’re scaring me..."
 		},
 		{
 			"key":"EP02_S1710_0032",
-			"value":"そういえば、こっちの世界に来る前に\n教授から聞いたよね、色々……"
+			"value":"Oh yeah, Professor, you mentioned something\nbefore we came to this world..."
 		},
 		{
 			"key":"EP02_S1710_0033",
-			"value":"生け贄とか人身御供って話でしょ？\nあまり、穏やかな話じゃないわね……"
+			"value":"About ritual human sacrifice, right?\nA nasty story..."
 		},
 		{
 			"key":"EP02_S1710_0034",
-			"value":"でも、その見返りとしてケモノガミ様から\n何かを得てたって事でもあるんだよな"
+			"value":"Still, you’d think they’d get something from\nthe Kemonogami in exchange, right?"
 		},
 		{
 			"key":"EP02_S1710_0035",
-			"value":"倫理観は時代と共に変わるし\n一概に過去の行いを非難はできないが……"
+			"value":"Ethics change with the times. We can’t just\ncriticize the ways of the past..."
 		},
 		{
 			"key":"EP02_S1710_0036",
-			"value":"あくまで現代に生きる一個人の意見としては\n確かに幼き者に犠牲を強いるのは感心しない話だね"
+			"value":"But as a modern individual, the idea of\nforcing children into sacrifice is appalling."
 		},
 		{
 			"key":"EP02_S1710_0037",
-			"value":"ですよねー。うん、そりゃそうだよ"
+			"value":"Yeah, I couldn’t agree more!"
 		},
 		{
 			"key":"EP02_S1710_0038",
-			"value":"ケッ、どうだっていーだろ、そんな話……"
+			"value":"Who the hell cares about that?"
 		},
 		{
 			"key":"EP02_S1710_0039",
-			"value":"人身御供……まさかな……？"
+			"value":"Human sacrifice. Could it be...?"
 		},
 		{
 			"key":"EP02_S1710_0040",
-			"value":"ん、どうかしたのか？"
+			"value":"Hmm? You say something?"
 		},
 		{
 			"key":"EP02_S1710_0041",
-			"value":"いや、何でもねーよ……"
+			"value":"Nothing. Forget about it."
 		},
 		{
 			"key":"EP02_S1710_0042",
-			"value":"とにかく、おっかないけどこの大きい足跡を\n追って行かないとサキたちにも会えないって事か"
+			"value":"At any rate, we should follow those nasty-\nlooking prints if we want to find the others."
 		},
 		{
 			"key":"EP02_S1710_0043",
-			"value":"……行くよ、みんな\n周囲の様子には目を配って！"
+			"value":"...Let’s go, everyone.\nAnd stay sharp!"
 		},
 		{
 			"key":"EP02_S1710_0044",
-			"value":"コノヤロー！"
+			"value":"You sonuva—"
 		},
 		{
 			"key":"EP02_S1710_0045",
-			"value":"え！？　今声が聞こえなかった？"
+			"value":"Huh? Did you hear that voice just now?"
 		},
 		{
 			"key":"EP02_S1710_0046",
-			"value":"おいおい！　また敵か！？"
+			"value":"Hey! The bad ones again?!"
 		},
 		{
 			"key":"EP02_S1710_0047",
-			"value":"森の奥の方だ！\nサキたちかもしれない、行ってみよう！"
+			"value":"That was deep in the forest! It might be Saki\nand the others. Let’s go!"
 		}
 	]
 }

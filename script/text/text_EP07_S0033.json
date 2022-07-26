@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0033_0001",
-			"value":"何の気配もないみたい"
+			"value":"I am sensing nothing else now."
 		},
 		{
 			"key":"EP07_S0033_0002",
-			"value":"さっきも、何もないように見えて亡骸があっただろう\n油断はしない方がいい"
+			"value":"It was like that before the corpse showed up,\nright? Don’t take any chances."
 		},
 		{
 			"key":"EP07_S0033_0003",
-			"value":"……う"
+			"value":"Erm..."
 		},
 		{
 			"key":"EP07_S0033_0004",
-			"value":"ラブラモン！？　どうしたの？"
+			"value":"What’s wrong, Labramon?"
 		},
 		{
 			"key":"EP07_S0033_0005",
-			"value":"嫌な予感がするの"
+			"value":"I have a bad feeling..."
 		},
 		{
 			"key":"EP07_S0033_0006",
-			"value":"ここにいると、悪寒みたいなものが\n這い上がってきて……"
+			"value":"Like a creeping chill when we stand here..."
 		},
 		{
 			"key":"EP07_S0033_0007",
-			"value":"私が感じてないだけで\nここにも何かあるってこと……？"
+			"value":"I can’t sense anything. But you think there’s\nsomething here, too?"
 		},
 		{
 			"key":"EP07_S0033_0008",
-			"value":"（……カメラで調べてみよう\n　ここにもきっと、何かがある）"
+			"value":"(Let’s check with the camera.\nSomething must be here.)"
 		}
 	]
 }

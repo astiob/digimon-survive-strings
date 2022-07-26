@@ -2,411 +2,411 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S0040_0001",
-			"value":"（みんなを集めて、アグモンが見つけたという\n　電波塔の話をすると、みんなすごく喜んでくれた）"
+			"value":"(I quickly got everyone together, and they\nwere all thrilled by Agumon’s discovery.)"
 		},
 		{
 			"key":"EP03_S0040_0002",
-			"value":"電波塔っていうくらいだから電波が届いてるよな？\nそこまで行けばスマホが使えるんじゃね！？"
+			"value":"Those towers send cell signals too, right? If\nwe go there, our phones might start working!"
 		},
 		{
 			"key":"EP03_S0040_0003",
-			"value":"それに高い建物だよね\n上まで登ればこの辺の様子とか見えるよ！"
+			"value":"And I bet from a tall building like that, we\ncould get a great view of our surroundings!"
 		},
 		{
 			"key":"EP03_S0040_0004",
-			"value":"そこはどれくらいの高さなんだ？"
+			"value":"Just how tall is it?"
 		},
 		{
 			"key":"EP03_S0040_0005",
-			"value":"すっごく高い！"
+			"value":"It’s super tall!"
 		},
 		{
 			"key":"EP03_S0040_0006",
-			"value":"……ファルコモンも見たんだよな？\n大体でいいから、どれくらいの高さかわかるか？"
+			"value":"Falcomon, you saw it too, right? How tall\nwould you say it was?"
 		},
 		{
 			"key":"EP03_S0040_0007",
-			"value":"ふむ、比較物が無いから正確にはわからないが\n遠目で見た限りでもこの校舎より大きかったな"
+			"value":"Well, it’s hard to say with no comparison,\nbut it was taller than this school. "
 		},
 		{
 			"key":"EP03_S0040_0008",
-			"value":"そんだけデカけりゃ、間違いなく電波塔だな"
+			"value":"If it’s that big, then there’s no doubt."
 		},
 		{
 			"key":"EP03_S0040_0009",
-			"value":"設備は生きているのかしら？"
+			"value":"Do you think it’s working?"
 		},
 		{
 			"key":"EP03_S0040_0010",
-			"value":"それはわからない。そもそも、我々は\n電波塔がどういうものかも知らないからな"
+			"value":"That I do not know. After all, none of us\nhave even heard of these towers before. "
 		},
 		{
 			"key":"EP03_S0040_0011",
-			"value":"行ってみればわかるでしょ\nひょっとしたら誰かいるかもしれないし"
+			"value":"Well, if we went there we could find out. Who\nknows, maybe there’s someone there."
 		},
 		{
 			"key":"EP03_S0040_0012",
-			"value":"そうね。ここで話しててもしょうがないわ"
+			"value":"Yeah, sitting around talking about it isn’t\ngoing to do us much good."
 		},
 		{
 			"key":"EP03_S0040_0013",
-			"value":"それじゃあ山登りね！\n頑張りましょう、アオイ！"
+			"value":"Then it sounds like we’re in for a hike!\nLet’s do this, Aoi!"
 		},
 		{
 			"key":"EP03_S0040_0014",
-			"value":"え、山登り？"
+			"value":"A hike? What do you mean? What kind of hike?"
 		},
 		{
 			"key":"EP03_S0040_0015",
-			"value":"そうよ？　あれ、言ってなかったかしら？"
+			"value":"Oh, didn’t you know?"
 		},
 		{
 			"key":"EP03_S0040_0016",
-			"value":"電波塔は森を抜けた先の峠を越えて\n山のてっぺんにあるわ！"
+			"value":"The tower is on top of a mountain, through\nthe forest and over a mountain pass."
 		},
 		{
 			"key":"EP03_S0040_0017",
-			"value":"森を抜ける！？\nじょ、冗談じゃない！"
+			"value":"Wait, you mean we need to go through the\nforest?! You can’t be serious!"
 		},
 		{
 			"key":"EP03_S0040_0018",
-			"value":"探索は反対だと言っただろう！\nただでさえ怪物がさまよっているのに、登山だって！？"
+			"value":"This place is crawling with monsters! Just\nexploring around here would be risky,"
 		},
 		{
 			"key":"EP03_S0040_0019",
-			"value":"僕たちだけじゃ無理だ！\nここに残るべきだ！"
+			"value":"but you want to go climb a mountain? There’s\nno way! We should stay here!"
 		},
 		{
 			"key":"EP03_S0040_0020",
-			"value":"シュウジ……お、怒らないで"
+			"value":"Shuuji, you don’t have to get so upset."
 		},
 		{
 			"key":"EP03_S0040_0021",
-			"value":"うるさい！　お前は黙ってろ！"
+			"value":"Shut up! I don’t want to hear another word\nfrom you!"
 		},
 		{
 			"key":"EP03_S0040_0022",
-			"value":"ひぅっ、うぅ……"
+			"value":"*sniff*... *sniff*..."
 		},
 		{
 			"key":"EP03_S0040_0023",
-			"value":"無駄だ……何したって、意味ねーよ……"
+			"value":"It doesn’t matter... Nothing we do matters..."
 		},
 		{
 			"key":"EP03_S0040_0024",
-			"value":"キュゥ……"
+			"value":"Kew..."
 		},
 		{
 			"key":"EP03_S0040_0025",
-			"value":"そうは言いますけどねシュウジ先輩\n行ってみなきゃ何も変わらないっしょ？"
+			"value":"Say what you want, Shuuji, but nothing’s\ngoing to change if we just stay here."
 		},
 		{
 			"key":"EP03_S0040_0026",
-			"value":"こ、子供だけで何ができるんだ\n大人の救援が来るのを待つしかないじゃないか！"
+			"value":"What can a bunch of kids do? We need to wait\nfor the adults to come rescue us!"
 		},
 		{
 			"key":"EP03_S0040_0027",
-			"value":"来るわけねーだろ……ブツブツ……"
+			"value":"As if anyone’s even coming... *mumble*\n*mumble*"
 		},
 		{
 			"key":"EP03_S0040_0028",
-			"value":"そ、そうよ……\n来ないってシュウジさんだって言ってたじゃん"
+			"value":"Yeah... Shuuji, you said it yourself.\nNobody’s coming for us."
 		},
 		{
 			"key":"EP03_S0040_0029",
-			"value":"言ってない！　……それを口にしたら\nホントに来ないかもしれないじゃないか……"
+			"value":"I never said that! Not out loud! If I did,\nthat might make it come true..."
 		},
 		{
 			"key":"EP03_S0040_0030",
-			"value":"（望み薄……っていうか、まあ無いにしても……\n　まだ少しはそれを期待してたんだな……）"
+			"value":"(Even knowing there wasn’t much chance of\na rescue, none really, Shuuji still hoped.)"
 		},
 		{
 			"key":"EP03_S0040_0031",
-			"value":"私も……一緒に行くわ\nラブラモン、ついてきてくれる？"
+			"value":"I’m... I’m going with you. Labramon. Will you\ncome with me?"
 		},
 		{
 			"key":"EP03_S0040_0032",
-			"value":"もちろんよ、アオイ！"
+			"value":"You bet I will, Aoi!"
 		},
 		{
 			"key":"EP03_S0040_0033",
-			"value":"お、おい！？　アオイ君もここに待機して\n様子を見るのに賛成じゃなかったのか！？"
+			"value":"Wait, Aoi?! I thought you agreed we should\nstay here!"
 		},
 		{
 			"key":"EP03_S0040_0034",
-			"value":"もし……もし電波塔でスマホが使えるようになれば"
+			"value":"If... If that tower has a cell signal, that\nwould mean we could contact a teacher."
 		},
 		{
 			"key":"EP03_S0040_0035",
-			"value":"先生やみんなに連絡がつくかもしれない\n大人の助けを呼べるかもしれないんじゃないですか？"
+			"value":"We could talk to everyone, even call for\nhelp."
 		},
 		{
 			"key":"EP03_S0040_0036",
-			"value":"た、助けを、呼べる……"
+			"value":"C-call for help?"
 		},
 		{
 			"key":"EP03_S0040_0037",
-			"value":"そうなればあとは救助を待つだけです\nシュウジさん、それでもまだ、探索は反対ですか？"
+			"value":"Yes, and then wait to be rescued. Are you\nreally still against this, Shuuji?"
 		},
 		{
 			"key":"EP03_S0040_0038",
-			"value":"うんうん、やる気だねアオイちゃん\nこれで行く派が過半数超えたんじゃない？"
+			"value":"You tell him, Aoi! And hey, that means now\na majority of us want to go explore!"
 		},
 		{
 			"key":"EP03_S0040_0039",
-			"value":"僕も電波塔は気になる。もちろん行くよ\nこれで僕、ミノル、サキ、アオイさんの四人が行く派だね"
+			"value":"I’m interested in this tower too. That puts\nme, Minoru, Saki, and Aoi in favor of going."
 		},
 		{
 			"key":"EP03_S0040_0040",
-			"value":"お、おい……！"
+			"value":"You can’t be serious!"
 		},
 		{
 			"key":"EP03_S0040_0041",
-			"value":"で、どうします？\nシュウジ先輩"
+			"value":"So, what now, Shuuji?"
 		},
 		{
 			"key":"EP03_S0040_0042",
-			"value":"だが……しかし……"
+			"value":"But...no..."
 		},
 		{
 			"key":"EP03_S0040_0043",
-			"value":"（これだけ言っても渋るなんて\n　シュウジさん、本当に行きたくないんだな）"
+			"value":"(Shuuji must really not want to go back out\nthere if he’s still not convinced.)"
 		},
 		{
 			"key":"EP03_S0040_0044",
-			"value":"（どうにかしてシュウジさんを\n　説得できればいいんだけど……）"
+			"value":"(If only there were some way to win him\nover...)"
 		},
 		{
 			"key":"EP03_S0040_Q1",
-			"value":"（シュウジさんはなんで探索に反対してたっけ？）"
+			"value":"(Why was he so opposed to exploration again?)"
 		},
 		{
 			"key":"EP03_S0040_Q1_A1",
-			"value":"食料を持っていけないから？"
+			"value":"We’ll run low on food?"
 		},
 		{
 			"key":"EP03_S0040_Q1_A2",
-			"value":"遭難するかもしれないから？"
+			"value":"We might get lost?"
 		},
 		{
 			"key":"EP03_S0040_Q1_A3",
-			"value":"自分の意見を押し通したいから？"
+			"value":"He has to get his way?"
 		},
 		{
 			"key":"EP03_S0040_Q1_A4",
-			"value":"敵に襲われるかもしれないから？"
+			"value":"We might be attacked?"
 		},
 		{
 			"key":"EP03_S0040_0045",
-			"value":"食糧を持っていけないから？"
+			"value":"We’ll run low on food?"
 		},
 		{
 			"key":"EP03_S0040_0046",
-			"value":"シュウジさん、心配しなくても食べ物なら\n少しは持っていけますよ？"
+			"value":"Don’t worry Shuuji, it might not be much, but\nwe can bring some food with us."
 		},
 		{
 			"key":"EP03_S0040_0047",
-			"value":"そんなこと心配してたんすか？\nなんなら食える草教えましょうか？"
+			"value":"Is that what you were worried about? I could\nteach you about edible plants if you want."
 		},
 		{
 			"key":"EP03_S0040_0048",
-			"value":"誰もそんなこと心配していない！"
+			"value":"The food was never the issue!"
 		},
 		{
 			"key":"EP03_S0040_0049",
-			"value":"遭難するかもしれないから？"
+			"value":"We might get lost?"
 		},
 		{
 			"key":"EP03_S0040_0050",
-			"value":"そこって、ここから遠いのか？"
+			"value":"Is it far from here to the tower?"
 		},
 		{
 			"key":"EP03_S0040_0051",
-			"value":"ん～？　ちょっと歩く感じかな？"
+			"value":"Uhhh... It might be a bit of a walk?"
 		},
 		{
 			"key":"EP03_S0040_0052",
-			"value":"さほど離れてはいない。向こうで探索しても\n日が沈む前には戻れる"
+			"value":"It is not far. We could explore the area and\nbe back before sundown."
 		},
 		{
 			"key":"EP03_S0040_0053",
-			"value":"だそうです。遭難する心配はないですよ"
+			"value":"Well, there you have it. I don’t think we\nneed to worry about getting lost."
 		},
 		{
 			"key":"EP03_S0040_0054",
-			"value":"ん……それは、いいんだが……"
+			"value":"Yeah... I guess not..."
 		},
 		{
 			"key":"EP03_S0040_0055",
-			"value":"自分の意見を押し通したいから？"
+			"value":"He has to get his way?"
 		},
 		{
 			"key":"EP03_S0040_0056",
-			"value":"シュウジさん、いくら自分の意見に従わないからって\n反対ばかりしててもしょうがないじゃないですか"
+			"value":"Shuuji, stubbornly opposing us because you\ncan’t get your way isn’t going to help."
 		},
 		{
 			"key":"EP03_S0040_0057",
-			"value":"なっ！？　べ、別にそんなことで反対している\nわけじゃない！"
+			"value":"What?! That’s...that’s not the issue here!"
 		},
 		{
 			"key":"EP03_S0040_0058",
-			"value":"そうよタクマくん。シュウジさんはそんな\n心の狭い人なんかじゃないわ"
+			"value":"It’s really not, Takuma. Shuuji isn’t that\npetty."
 		},
 		{
 			"key":"EP03_S0040_0059",
-			"value":"そっ……その通りだ"
+			"value":"That’s right."
 		},
 		{
 			"key":"EP03_S0040_0060",
-			"value":"敵に襲われるかもしれないから？"
+			"value":"We might be attacked?"
 		},
 		{
 			"key":"EP03_S0040_0061",
-			"value":"アグモン、そこに行くまでに襲ってきそうな\n敵とか、危ないヤツはいなかったか？"
+			"value":"Agumon, did you spot anything that seemed\ndangerous or that might attack us on the way?"
 		},
 		{
 			"key":"EP03_S0040_0062",
-			"value":"大丈夫！　ボクたちも襲われたりしなかった！"
+			"value":"Not to worry! We didn’t get attacked once!"
 		},
 		{
 			"key":"EP03_S0040_0063",
-			"value":"私の鼻も、あの辺から変なヤツの臭いは感じなかったわ！"
+			"value":"I didn’t catch a whiff of anything suspicious\neither!"
 		},
 		{
 			"key":"EP03_S0040_0064",
-			"value":"危なくないってこと？　じゃあ全然オッケーじゃん！"
+			"value":"So it’s not dangerous? Sounds like a no-\nbrainer!"
 		},
 		{
 			"key":"EP03_S0040_0065",
-			"value":"そ、そうなのか？　本当に？"
+			"value":"You really think it’s safe?"
 		},
 		{
 			"key":"EP03_S0040_0066",
-			"value":"それなら、まぁ……"
+			"value":"I guess, in that case..."
 		},
 		{
 			"key":"EP03_S0040_0067",
-			"value":"やれやれ……そこまで言われたら\n反対する理由もないな……"
+			"value":"*sigh* Well, if you all want to go, I guess\nthere’s no point in me trying to stop you."
 		},
 		{
 			"key":"EP03_S0040_0068",
-			"value":"この場は、僕だけ残ってても仕方がないか……\nわかった、行こう"
+			"value":"And even less in me staying here by myself.\nLet’s go."
 		},
 		{
 			"key":"EP03_S0040_0069",
-			"value":"よ～し！\nこれで全員出発だ～！"
+			"value":"Great! That’s all of us!"
 		},
 		{
 			"key":"EP03_S0040_0070",
-			"value":"お……おいっ！？"
+			"value":"Hey!"
 		},
 		{
 			"key":"EP03_S0040_0071",
-			"value":"じゃあ……皆さん、いってらっしゃい"
+			"value":"Okay everybody, bye!"
 		},
 		{
 			"key":"EP03_S0040_0072",
-			"value":"いってらっしゃい"
+			"value":"Bye..."
 		},
 		{
 			"key":"EP03_S0040_0073",
-			"value":"何言ってんだよ、ハル、ミユキ\n二人とも一緒に行くからな？"
+			"value":"What are you two talking about? You’re coming\nwith us."
 		},
 		{
 			"key":"EP03_S0040_0074",
-			"value":"えっ……？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP03_S0040_0075",
-			"value":"ああ、それには僕も賛成だ……\n前日の怪物の件からしても、別行動は危険だ"
+			"value":"Agreed. Especially considering what happened\nyesterday, it’s too dangerous to split up."
 		},
 		{
 			"key":"EP03_S0040_0076",
-			"value":"……ぼくたちは大丈夫だよ\nここに残っていたい……"
+			"value":"No, we’ll be fine. We both want to stay here."
 		},
 		{
 			"key":"EP03_S0040_0077",
-			"value":"残っていたい……"
+			"value":"Here..."
 		},
 		{
 			"key":"EP03_S0040_0078",
-			"value":"二人っきりでここにいても\nまた敵が来るかもしれないだろう！？"
+			"value":"But what will you do if a monster attacks and\nit’s just the two of you?"
 		},
 		{
 			"key":"EP03_S0040_0079",
-			"value":"て……敵っ？"
+			"value":"A...monster?"
 		},
 		{
 			"key":"EP03_S0040_0080",
-			"value":"君たちは見てないだろうけど、ここはでっかい\n蜘蛛の怪物の巣だったんだ、安全とは言えないよ"
+			"value":"Before you two got here, this place was\na giant spider’s nest. It’s not safe either."
 		},
 		{
 			"key":"EP03_S0040_0081",
-			"value":"く……蜘蛛っ！？"
+			"value":"A...a spider?!"
 		},
 		{
 			"key":"EP03_S0040_0082",
-			"value":"第一、ハルにもミユキにも\n相棒の怪物がついていないじゃないか？"
+			"value":"And let’s not forget, neither of you have\na partner monster."
 		},
 		{
 			"key":"EP03_S0040_0083",
-			"value":"……え～っと……それは……そうだけど"
+			"value":"Well...uh...maybe not, but..."
 		},
 		{
 			"key":"EP03_S0040_0084",
-			"value":"大丈夫だって！　オレとファルコモンが\nお前たちのコト絶対守ってやっからさ！"
+			"value":"Don’t worry! Falcomon and me have got your\nbacks!"
 		},
 		{
 			"key":"EP03_S0040_0085",
-			"value":"うむ、危ない目には遭わせないぞ"
+			"value":"Indeed. We will not let any harm come to you."
 		},
 		{
 			"key":"EP03_S0040_0086",
-			"value":"ボクも守るぞ～！"
+			"value":"And I’ll help keep you safe, too!"
 		},
 		{
 			"key":"EP03_S0040_0087",
-			"value":"すぐに便乗するんだから、この子は"
+			"value":"Never one to be left out, are you?"
 		},
 		{
 			"key":"EP03_S0040_0088",
-			"value":"アグモンはいっつもこんな感じなのよ"
+			"value":"Yeah, Agumon’s like this all the time. "
 		},
 		{
 			"key":"EP03_S0040_0089",
-			"value":"よし、これで全員だな？\n荷物を整えたら出発だ、いいね？"
+			"value":"All right, that makes all of us. We’ll leave\nas soon as we’re packed, okay?"
 		},
 		{
 			"key":"EP03_S0040_0090",
-			"value":"あ、リョウ先輩はお留守番頼みますね～"
+			"value":"Oh, and Ryo, you’ll look after the place\nwhile we’re gone, won’t you?"
 		},
 		{
 			"key":"EP03_S0040_0091",
-			"value":"ま、待てよオレだけ置いてくなよ！\n行くよ、行きゃぁいいんだろぉ！？"
+			"value":"W-wait! Don’t you go leaving me behind!\nI’m going too, okay?!"
 		},
 		{
 			"key":"EP03_S0040_0092",
-			"value":"なんでそこのガキどもまで誘って\nオレを誘わないんだよぉ～！"
+			"value":"Why would you take those brats, and not me?!"
 		},
 		{
 			"key":"EP03_S0040_0093",
-			"value":"何よ、リョウったら……\n協調性もないくせに、独りはイヤなんだ？"
+			"value":"Oh, come on, Ryo. How’re you so uncooperative\nif you can’t handle being on your own?"
 		},
 		{
 			"key":"EP03_S0040_0094",
-			"value":"いいっていいって……\nあれでやっと、いつものリョウに戻れたんだ"
+			"value":"Aw, it’s all right... At least he’s finally\nback to being the Ryo we know."
 		},
 		{
 			"key":"EP03_S0040_0095",
-			"value":"このところおかしかったけど\nあいつは嫌味や悪態吐いてるくらいで丁度いいんだ"
+			"value":"He’s been a little off lately, but the guy’s\nsupposed to be bitter and crabby."
 		},
 		{
 			"key":"EP03_S0040_0096",
-			"value":"そうかなぁ……？"
+			"value":"If you say so..."
 		},
 		{
 			"key":"EP03_S0040_0097",
-			"value":"うぅっ……くそっ……\nオ……オレは……ブツブツ……"
+			"value":"Tch... Damn it... I... I’m... *mumble*\n*mumble*"
 		}
 	]
 }

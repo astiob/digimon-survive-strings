@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4141_0001",
-			"value":"たいした敵ではなくてよかった"
+			"value":"That wasn’t that tough."
 		},
 		{
 			"key":"EP11_S4141_0002",
-			"value":"やれやれ……\nこっちは戦ってる場合じゃねーってのに"
+			"value":"Jeez... This isn’t the time for us to be\nfighting, you know."
 		},
 		{
 			"key":"EP11_S4141_0003",
-			"value":"まったくだ\nカイトも襲われてるかもしれない……"
+			"value":"Tell me about it. They might’ve gotten to\nKaito, too..."
 		},
 		{
 			"key":"EP11_S4141_0004",
-			"value":"急がないとな\nオレたちは地下水道をみてくる"
+			"value":"We’d better hurry. Let’s go check out the\nunderground waterway."
 		},
 		{
 			"key":"EP11_S4141_0005",
-			"value":"あ、ミノル……"
+			"value":"Uh, Minoru...?"
 		},
 		{
 			"key":"EP11_S4141_0006",
-			"value":"ん？"
+			"value":"What?"
 		},
 		{
 			"key":"EP11_S4141_0007",
-			"value":"（う……咄嗟に呼び止めてしまった）"
+			"value":"(Rrk, he suddenly stopped. Now he’s waiting\nfor me to spit out what I was gonna say.)"
 		},
 		{
 			"key":"EP11_S4141_0008",
-			"value":"（カイトのために、まだ\n　捜してない場所へ行くのはわかる）"
+			"value":"(I understand wanting to search unexplored\nareas to find Kaito.)"
 		},
 		{
 			"key":"EP11_S4141_0009",
-			"value":"（でも地下水道って何だかんだ\n　危険なことが多かったからなぁ……）"
+			"value":"(But the underground waterway was so\ndangerous...)"
 		},
 		{
 			"key":"EP11_S4141_0010",
-			"value":"（ちょっと心配なんだよな）"
+			"value":"(I can’t help but be worried.)"
 		},
 		{
 			"key":"EP11_S4141_Q1",
-			"value":"（ミノルを地下水道へ行かせる？）"
+			"value":"(Should I let Minoru go in the waterway?)"
 		},
 		{
 			"key":"EP11_S4141_Q1_A1",
-			"value":"行かせよう"
+			"value":"Let him go."
 		},
 		{
 			"key":"EP11_S4141_Q1_A2",
-			"value":"止めよう"
+			"value":"Stop him."
 		},
 		{
 			"key":"EP11_S4141_Q1_A3",
-			"value":"一緒に行こう"
+			"value":"Go with him."
 		},
 		{
 			"key":"EP11_S4141_0011",
-			"value":"行かせる"
+			"value":"Let him go."
 		},
 		{
 			"key":"EP11_S4141_0012",
-			"value":"ごめん、なんでもない\n行くなら気を付けろよ"
+			"value":"Sorry. Never mind. Just be careful, okay?"
 		},
 		{
 			"key":"EP11_S4141_0013",
-			"value":"サンキュー！　大丈夫だって\nファルコモンもいるし"
+			"value":"Thanks, man! I’ll be fine. I mean, I’ve got\nFalcomon with me, right?"
 		},
 		{
 			"key":"EP11_S4141_0014",
-			"value":"それに、一刻も早く見つけてやりてーしさ"
+			"value":"I just wanna find him as soon as I can."
 		},
 		{
 			"key":"EP11_S4141_0015",
-			"value":"安心しろ、無理はさせない\n俺も分はわきまえている"
+			"value":"Stay calm and don’t get carried away. I’ll be\ndoing the same."
 		},
 		{
 			"key":"EP11_S4141_0016",
-			"value":"そっか、そうだよな\nいってらっしゃい、二人とも"
+			"value":"Well said. See you two later then!"
 		},
 		{
 			"key":"EP11_S4141_0017",
-			"value":"なんかあったら、すぐ呼んでね！"
+			"value":"If anything happens, just call for us!"
 		},
 		{
 			"key":"EP11_S4141_0018",
-			"value":"止める"
+			"value":"Stop him."
 		},
 		{
 			"key":"EP11_S4141_0019",
-			"value":"地下水道は危ないんじゃない？\n今まで色々あったしさ"
+			"value":"Don’t you think that’s dangerous? Think about\neverything that happened there."
 		},
 		{
 			"key":"EP11_S4141_0020",
-			"value":"確かにあぶねーかもだけど\n四の五の言ってらんないだろ"
+			"value":"I mean, sure, but this is no time to be\na worrywart."
 		},
 		{
 			"key":"EP11_S4141_0021",
-			"value":"ファルコモンがいるから大丈夫だよ\nなっ、ファルコモン！"
+			"value":"I’ll be fine with Falcomon here! Isn’t that\nright?"
 		},
 		{
 			"key":"EP11_S4141_0022",
-			"value":"ミノルが危なっかしいという気持ちはわかる\nだが細心の注意は払うから安心してくれ"
+			"value":"I get that it might seem risky, but we’ll be\nsuper careful, I promise!"
 		},
 		{
 			"key":"EP11_S4141_0023",
-			"value":"お前なあ、もっと信頼しろよ！"
+			"value":"You should have more belief in our abilities,\nman!"
 		},
 		{
 			"key":"EP11_S4141_0024",
-			"value":"タクマ、この二人なら大丈夫だよ\nねっ"
+			"value":"I think the two of them will be just fine,\nTakuma."
 		},
 		{
 			"key":"EP11_S4141_0025",
-			"value":"う～ん……そうかもね\n心配し過ぎだったかな？"
+			"value":"I guess so... Maybe I was worrying too much."
 		},
 		{
 			"key":"EP11_S4141_0026",
-			"value":"んじゃ、行ってくる\nなんか見つけたらすぐ戻るよ！"
+			"value":"All righty! We’ll come back ASAP if we find\nanything!"
 		},
 		{
 			"key":"EP11_S4141_0027",
-			"value":"一緒に行く"
+			"value":"Go with him."
 		},
 		{
 			"key":"EP11_S4141_0028",
-			"value":"あのさ、僕とアグモンも行くよ\n地下水道はちょっと心配だし"
+			"value":"Me and Agumon are coming with you. The\nunderground waterway isn’t safe."
 		},
 		{
 			"key":"EP11_S4141_0029",
-			"value":"ミノルが危なっかしいのはわかるが\n今は分かれて捜した方が効率的じゃないか？"
+			"value":"I get that it might sound risky, but\nsplitting up would actually save time, no?"
 		},
 		{
 			"key":"EP11_S4141_0030",
-			"value":"それはまあ、そうだけど"
+			"value":"Yeah, I guess..."
 		},
 		{
 			"key":"EP11_S4141_0031",
-			"value":"大丈夫だって、今はオレじゃなくて\nカイトたちの心配しよーぜ"
+			"value":"We’ll be fine! You should be worried about\nKaito, not us!"
 		},
 		{
 			"key":"EP11_S4141_0032",
-			"value":"ただ、まあ……\n心配してくれたのは、ありがとな！"
+			"value":"But still... Thanks for wanting to make sure\nwe’re safe, man."
 		},
 		{
 			"key":"EP11_S4141_0033",
-			"value":"うん\n何かあったらすぐに知らせてね"
+			"value":"No problem. Just let us know if anything\nhappens."
 		},
 		{
 			"key":"EP11_S4141_0034",
-			"value":"ああ、オレだって自分の命は惜しいし"
+			"value":"Don’t worry, I’m not gonna risk my life over\nnothing."
 		},
 		{
 			"key":"EP11_S4141_0035",
-			"value":"何かあったら、すぐに逃げ帰ってくるから\n安心しろよ"
+			"value":"If things get dicey I’ll run right back here."
 		},
 		{
 			"key":"EP11_S4141_0036",
-			"value":"じゃ、行ってくるな！"
+			"value":"See ya later!"
 		},
 		{
 			"key":"EP11_S4141_0037",
-			"value":"いってらっしゃい、二人とも！"
+			"value":"Good luck, you two!"
 		}
 	]
 }

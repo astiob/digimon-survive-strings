@@ -2,175 +2,175 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0729_0001",
-			"value":"タクマ！　あれ、あれ見て！！"
+			"value":"Takuma! Look, look, over there!"
 		},
 		{
 			"key":"EP10_S0729_0002",
-			"value":"あれは……！？"
+			"value":"Oh...is that—?!"
 		},
 		{
 			"key":"EP10_S0729_0003",
-			"value":"ミノルだーーー！！"
+			"value":"It’s Minoru!"
 		},
 		{
 			"key":"EP10_S0729_0004",
-			"value":"ミノル！！\nよかった、無事だったのか！！"
+			"value":"Minoru! Man, am I glad to see you!"
 		},
 		{
 			"key":"EP10_S0729_0005",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S0729_0006",
-			"value":"ミノル……！？"
+			"value":"Minoru?!"
 		},
 		{
 			"key":"EP10_S0729_0007",
-			"value":"……タクマ"
+			"value":"...Takuma."
 		},
 		{
 			"key":"EP10_S0729_0008",
-			"value":"どうしたんだ？\nミノルも酷い幻を見たのか？"
+			"value":"What is it? Did you see a nasty vision, too?"
 		},
 		{
 			"key":"EP10_S0729_0009",
-			"value":"……自分でも、わからない\nいったい、何があったのか……何が起こってるのか……"
+			"value":"I don’t...know. I’m not sure...what happened.\nOr what’s...going on."
 		},
 		{
 			"key":"EP10_S0729_0010",
-			"value":"頭が、ボーッとして……"
+			"value":"I can’t seem...to focus..."
 		},
 		{
 			"key":"EP10_S0729_0011",
-			"value":"タクマ……ここ、かなりやばいところだぞ\n一旦撤退した方がいい"
+			"value":"Takuma, whatever this place is...it can’t be\ngood. We should go back."
 		},
 		{
 			"key":"EP10_S0729_0012",
-			"value":"なあ……\nすぐ、ここから……"
+			"value":"We have to...leave..."
 		},
 		{
 			"key":"EP10_S0729_0013",
-			"value":"うん、危険なのは僕にもわかる\nでも逃げるなら、まずはみんなを見つけないと"
+			"value":"Yeah, even I can tell how dangerous this\nplace is. But we have to find everyone first."
 		},
 		{
 			"key":"EP10_S0729_0014",
-			"value":"だから、逃げるならミノルだけで外に出ててくれ\n僕は、もう少し中を捜す"
+			"value":"If you want to run, you can get out on your\nown. I’m going to keep looking."
 		},
 		{
 			"key":"EP10_S0729_0015",
-			"value":"いや……それは嫌だ！　一緒にいてくれよ！"
+			"value":"No! I don’t want to be alone! Stay with me!"
 		},
 		{
 			"key":"EP10_S0729_0016",
-			"value":"頼むよ、もう逃げるなんて言わないから！\nオレも一緒にいさせてくれ！"
+			"value":"Please, I won’t talk about running again,\njust don’t leave!"
 		},
 		{
 			"key":"EP10_S0729_0017",
-			"value":"お、落ち着いてよ～\n大丈夫、置いていったりしないよ"
+			"value":"Hey, chill out, man. It’s all good, I won’t\nleave you behind."
 		},
 		{
 			"key":"EP10_S0729_0018",
-			"value":"あ？　あ……ああ"
+			"value":"Huh? Oh... Right."
 		},
 		{
 			"key":"EP10_S0729_0019",
-			"value":"（ミノル……？）"
+			"value":"(Minoru...?)"
 		},
 		{
 			"key":"EP10_S0729_0020",
-			"value":"（違和感がある\n　うまく言葉にできないけど、何か引っかかる……）"
+			"value":"(Something about this just doesn’t seem\nright. Why can’t I put my finger on it?)"
 		},
 		{
 			"key":"EP10_S0729_0021",
-			"value":"そういえば、ファルコモンは？"
+			"value":"So, what happened to Falcomon?"
 		},
 		{
 			"key":"EP10_S0729_0022",
-			"value":"えっ……？\nふぁる……？"
+			"value":"Huh? Falcowhat?"
 		},
 		{
 			"key":"EP10_S0729_0023",
-			"value":"ファルコモンだよ\n一緒にいないのか？"
+			"value":"Falcomon. He’s not with you?"
 		},
 		{
 			"key":"EP10_S0729_0024",
-			"value":"いや、それは……まあ……"
+			"value":"Oh, uh, well..."
 		},
 		{
 			"key":"EP10_S0729_0025",
-			"value":"見失ったのか？"
+			"value":"Did you guys get separated?"
 		},
 		{
 			"key":"EP10_S0729_0026",
-			"value":"あ、ああ、そうだ\nあいつふらっとどこかに行っちゃって"
+			"value":"Uh, yeah, exactly. That guy just wandered off\non his own."
 		},
 		{
 			"key":"EP10_S0729_0027",
-			"value":"ファルコモンが？\nミノルを放って、ふらっと？"
+			"value":"He just wandered off? Is this Falcomon we’re\ntalking about?"
 		},
 		{
 			"key":"EP10_S0729_0028",
-			"value":"（そんなの絶対に変だ\n　あんなにぶつかり合って絆を深めた二人が……）"
+			"value":"(That’s definitely weird. Those two went\nthrough so much to deepen their bond...)"
 		},
 		{
 			"key":"EP10_S0729_0029",
-			"value":"（こんな風にあっさりとお互い\n　目の届かないところに行くなんて）"
+			"value":"(And yet, they just let each other slip out\nof sight, like it was nothing?)"
 		},
 		{
 			"key":"EP10_S0729_0030",
-			"value":"なあ、そんなことより\n早くみんなを捜して、早く出ようぜ"
+			"value":"Anyway, man, let’s find everyone and get\noutta here as soon as we can."
 		},
 		{
 			"key":"EP10_S0729_0031",
-			"value":"そんなことより……って\nファルコモンのことを、そんなことって言ったの？"
+			"value":"Anyway, you say? Is that really how little\nyou care about Falcomon?"
 		},
 		{
 			"key":"EP10_S0729_0032",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S0729_0033",
-			"value":"お前……誰だ？"
+			"value":"You’re not Minoru. Who are you?"
 		},
 		{
 			"key":"EP10_S0729_0034",
-			"value":"えっ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP10_S0729_0035",
-			"value":"昔ならともかく、今のミノルは絶対に\nファルコモンをないがしろになんかしない"
+			"value":"The Minoru I know would never disrespect him\nlike that—not before, and especially not now!"
 		},
 		{
 			"key":"EP10_S0729_0036",
-			"value":"お前はシュウジさんたちと同じ幻か？\nそれとも……！"
+			"value":"Are you an illusion, like Ryo and Shuuji?\nOr...maybe you’re—!"
 		},
 		{
 			"key":"EP10_S0729_0037",
-			"value":"……うう"
+			"value":"Ahh..."
 		},
 		{
 			"key":"EP10_S0729_0038",
-			"value":"うわあぁぁぁぁぁぁぁ！"
+			"value":"Yaaaaaaaaah!"
 		},
 		{
 			"key":"EP10_S0729_0039",
-			"value":"！！！"
+			"value":"!!!"
 		},
 		{
 			"key":"EP10_S0729_0040",
-			"value":"なんで避けるんだよ、タクマぁっ！\n避けなけりゃ楽にしてやれたのによぉ"
+			"value":"Now, why’d you dodge that, Takuma?! It\nwould’ve been so much easier if you hadn’t."
 		},
 		{
 			"key":"EP10_S0729_0041",
-			"value":"お前、ミノルじゃないな\n正体を見せろ！！"
+			"value":"You’re not Minoru. Who are you?!"
 		},
 		{
 			"key":"EP10_S0729_0042",
-			"value":"ウ、ウウ……オオオオオオオオ！！"
+			"value":"Graaaaaaaaawr!"
 		},
 		{
 			"key":"EP10_S0729_0043",
-			"value":"タクマ、下がって！\n偽ミノルめ、ボクが相手だ！"
+			"value":"Stand back, Takuma! I’ll take on this phony\nMinoru!"
 		}
 	]
 }

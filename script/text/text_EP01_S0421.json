@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0421_0001",
-			"value":"アオイ、ここにもいないなー……"
+			"value":"I don’t see Aoi anywhere around here..."
 		},
 		{
 			"key":"EP01_S0421_0002",
-			"value":"そうだな……"
+			"value":"Yeah, you’re right..."
 		},
 		{
 			"key":"EP01_S0421_0003",
-			"value":"隣のとこも捜してみよう！"
+			"value":"Let’s go check next door!"
 		},
 		{
 			"key":"EP01_S0421_0004",
-			"value":"えっ！？　そっちは女子トイ……"
+			"value":"What?! But that’s the girls’ room..."
 		},
 		{
 			"key":"EP01_S0421_0005",
-			"value":"（いや、女子トイレにいるかもしれないじゃないか\n　こんな時に恥ずかしがってどうする！）"
+			"value":"(No, she could be in there. Now’s not the\ntime to get flustered about such things!)"
 		},
 		{
 			"key":"EP01_S0421_0006",
-			"value":"（う～……よしっ、入ってやる！）"
+			"value":"(Ulp... Okay, I’m going in!)"
 		},
 		{
 			"key":"EP01_S0421_0007",
-			"value":"あっちのトイレにもいなかったな……"
+			"value":"She’s not in there, either..."
 		},
 		{
 			"key":"EP01_S0421_0008",
-			"value":"あ、あぁ、そうだね……"
+			"value":"Yeah, you’re right..."
 		}
 	]
 }

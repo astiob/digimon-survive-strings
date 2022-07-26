@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2474_0001",
-			"value":"あ！　何か見つけたよ～！"
+			"value":"Hey! I found something!"
 		},
 		{
 			"key":"EP03_S2474_0002",
-			"value":"変なモンじゃねえだろうな？"
+			"value":"It’s not something weird, is it?"
 		},
 		{
 			"key":"EP03_S2474_0003",
-			"value":"獣のフンとかか？"
+			"value":"Like monster droppings?"
 		},
 		{
 			"key":"EP03_S2474_0004",
-			"value":"ばっちい……"
+			"value":"Gross..."
 		},
 		{
 			"key":"EP03_S2474_0005",
-			"value":"ばっちい……"
+			"value":"Gross..."
 		},
 		{
 			"key":"EP03_S2474_0006",
-			"value":"も～！　違うよ～！"
+			"value":"It’s not monster droppings! Come on!"
 		},
 		{
 			"key":"EP03_S2474_0007",
-			"value":"あはは……それで、何を見つけたんだ？"
+			"value":"Hahaha... What is it, then?"
 		},
 		{
 			"key":"EP03_S2474_0008",
-			"value":"んん？　これは……使えるかなぁ？"
+			"value":"Hmm... I wonder if we can use this."
 		},
 		{
 			"key":"EP03_S2474_0009",
-			"value":"使い道はあるだろ。生き残るには何でも使わないとな"
+			"value":"It’s gotta be good for something. We need to\nuse everything we can to survive."
 		},
 		{
 			"key":"EP03_S2474_0010",
-			"value":"それもそうだね"
+			"value":"That’s true."
 		},
 		{
 			"key":"EP03_S2474_0011",
-			"value":"見つけてくれてありがとう、アグモン"
+			"value":"Good job finding this, Agumon."
 		},
 		{
 			"key":"EP03_S2474_0012",
-			"value":"えへへ～"
+			"value":"Eheheh..."
 		}
 	]
 }

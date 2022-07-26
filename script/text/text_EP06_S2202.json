@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2202_0001",
-			"value":"サキ……あのね"
+			"value":"Um...Saki?"
 		},
 		{
 			"key":"EP06_S2202_0002",
-			"value":"何？"
+			"value":"What?"
 		},
 		{
 			"key":"EP06_S2202_0003",
-			"value":"あ、あれ？\nサキ、いつもどおりね"
+			"value":"Oh, you’re...\nYou’re just like normal."
 		},
 		{
 			"key":"EP06_S2202_0004",
-			"value":"近寄らないで、とまで言ってたのに……"
+			"value":"Earlier you were telling Floramon to\nback off."
 		},
 		{
 			"key":"EP06_S2202_0005",
-			"value":"あれはびっくりしただけだもん\nミノルが変に怖がらせてくるから"
+			"value":"I was just surprised.\nSince Minoru was acting all weird and scared."
 		},
 		{
 			"key":"EP06_S2202_0006",
-			"value":"……本当に？"
+			"value":"He was?"
 		},
 		{
 			"key":"EP06_S2202_0007",
-			"value":"うん"
+			"value":"Yeah."
 		},
 		{
 			"key":"EP06_S2202_0008",
-			"value":"（フローラモン、不安そうだな\n　サキの本心が掴めないのかもしれない）"
+			"value":"(Floramon seems uneasy. Maybe she can’t\nfigure out what Saki’s feeling.)"
 		},
 		{
 			"key":"EP06_S2202_0009",
-			"value":"（表向き仲良くしてくれるなら\n　それでいいのかもしれないけど……）"
+			"value":"(If they can get along superficially,\nI guess that’ll do for now...)"
 		},
 		{
 			"key":"EP06_S2202_0010",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S2202_0011",
-			"value":"（フローラモン、気まずそうだな……\n　この二人に関しては、とりあえず様子を見よう）"
+			"value":"(Floramon doesn’t look good...\nI’d better keep an eye on these two.)"
 		}
 	]
 }

@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1723_0001",
-			"value":"サキさんたち……\n手がかりだけでも……"
+			"value":"Where are they?\nWe need a clue..."
 		},
 		{
 			"key":"EP02_S1723_0002",
-			"value":"アオイ、集中しすぎよ！\nもうちょっと周りにも気をつけて！"
+			"value":"You’re overthinking this, Aoi!\nKeep searching the area!"
 		},
 		{
 			"key":"EP02_S1723_0003",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP02_S1723_0004",
-			"value":"甘い！"
+			"value":"Hah, fools!"
 		},
 		{
 			"key":"EP02_S1723_0005",
-			"value":"チ……気づかれたか"
+			"value":"Damn... They noticed."
 		},
 		{
 			"key":"EP02_S1723_0006",
-			"value":"きゃぁっ！？"
+			"value":"Aaah?!"
 		},
 		{
 			"key":"EP02_S1723_0007",
-			"value":"大丈夫、アオイ！？"
+			"value":"You okay, Aoi?!"
 		},
 		{
 			"key":"EP02_S1723_0008",
-			"value":"な、なんとか……"
+			"value":"I...think so..."
 		},
 		{
 			"key":"EP02_S1723_0009",
-			"value":"まぁいい。遊んでもらうぞ"
+			"value":"Whatever. Time for some fun."
 		}
 	]
 }

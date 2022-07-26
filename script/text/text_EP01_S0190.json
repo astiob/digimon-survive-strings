@@ -2,463 +2,463 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0190_0001",
-			"value":"な、なんだ？\nこの霧……"
+			"value":"Whoa, what’s with this fog?"
 		},
 		{
 			"key":"EP01_S0190_0002",
-			"value":"確かに……\nさっきまではこんなじゃなかったのに"
+			"value":"Yeah, man... There wasn’t nothin’ like this\nwhen we came through earlier."
 		},
 		{
 			"key":"EP01_S0190_0003",
-			"value":"これ、うかつに飛び出したら\nオレたちまで本当に迷子になっちまうぞ"
+			"value":"If we go out in this now we’ll be just as\nlost as the others."
 		},
 		{
 			"key":"EP01_S0190_0004",
-			"value":"それより、サキさんは？\nさっきの悲鳴って、一体……？"
+			"value":"What about Saki? And that scream just now..."
 		},
 		{
 			"key":"EP01_S0190_0005",
-			"value":"きゃああああああっ！\nこ、こっち来ないで～～～～！！"
+			"value":"Aaaaaaah! Stay away from meee!"
 		},
 		{
 			"key":"EP01_S0190_0006",
-			"value":"えっ……？\nな、何！？"
+			"value":"Wait... What the heck was that?!"
 		},
 		{
 			"key":"EP01_S0190_0007",
-			"value":"な、何かに襲われてるの！？"
+			"value":"Is...is she being attacked by something?"
 		},
 		{
 			"key":"EP01_S0190_0008",
-			"value":"痴漢とか？"
+			"value":"You mean like a pervert?"
 		},
 		{
 			"key":"EP01_S0190_0009",
-			"value":"こんな山の中にいるわけないでしょ！"
+			"value":"A pervert? On a MOUNTAIN?!"
 		},
 		{
 			"key":"EP01_S0190_0010",
-			"value":"イノシシか何か？\nうん、何か……うごめいてるぞ？"
+			"value":"Maybe it’s a boar or something? Yeah, I can\nhear...growling, I think?"
 		},
 		{
 			"key":"EP01_S0190_0011",
-			"value":"って、おい！\n……なんかいま光らなかった！？"
+			"value":"Whoa, hey! I... Was it just me, or did\nsomething light up over there?"
 		},
 		{
 			"key":"EP01_S0190_0012",
-			"value":"さあ、声のする方に行ってみましょう！"
+			"value":"We should head towards her voice!"
 		},
 		{
 			"key":"EP01_S0190_0013",
-			"value":"見間違いじゃないのか？\nこの霧で良く見えないよ"
+			"value":"Are my eyes playing tricks on me? I can\nbarely see a thing around here."
 		},
 		{
 			"key":"EP01_S0190_0014",
-			"value":"それにしても……\n何だ、この霧……"
+			"value":"This fog is seriously weird, man..."
 		},
 		{
 			"key":"EP01_S0190_0015",
-			"value":"私も気になるけど、今はサキさんの悲鳴が先よ！"
+			"value":"It bothers me too, but not as much as Saki’s\nscreams!"
 		},
 		{
 			"key":"EP01_S0190_0016",
-			"value":"ああ！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0190_0017",
-			"value":"おーい！　サキ、リョウ！\n大丈夫か！？"
+			"value":"Hey, Sakiii! Ryooo! Are you okay?!"
 		},
 		{
 			"key":"EP01_S0190_0018",
-			"value":"ま、待って！？\n何かいる……！！"
+			"value":"Wait! Something’s here!"
 		},
 		{
 			"key":"EP01_S0190_0019",
-			"value":"な、何だアレ……\n石像？"
+			"value":"What is that... Some kind of statue?"
 		},
 		{
 			"key":"EP01_S0190_0020",
-			"value":"……ち、違う！\n動いてるぞ、コイツ！！"
+			"value":"No...no, that thing’s moving!"
 		},
 		{
 			"key":"EP01_S0190_0021",
-			"value":"な、何だって……？\nそんなバカな……"
+			"value":"What in the world...? That’s impossible..."
 		},
 		{
 			"key":"EP01_S0190_0022",
-			"value":"またあの音だ！\nこの変な奴が出していたのか！"
+			"value":"That sound again! So this weird thing was\nmaking it?"
 		},
 		{
 			"key":"EP01_S0190_0023",
-			"value":"きゃあああああ～～！"
+			"value":"YEEEEEEK!"
 		},
 		{
 			"key":"EP01_S0190_0024",
-			"value":"ひいぃ！　こっち来んな！"
+			"value":"Yeeep! Back off, you freak show!"
 		},
 		{
 			"key":"EP01_S0190_0025",
-			"value":"あれは何なの……！？"
+			"value":"What is that?!"
 		},
 		{
 			"key":"EP01_S0190_0026",
-			"value":"おい、どうした！？　さっき悲鳴が聞こえたが"
+			"value":"Hey, what’s going on?! I heard a bunch of\nscreaming back there!"
 		},
 		{
 			"key":"EP01_S0190_0027",
-			"value":"ミウ！　そこにいたのか！"
+			"value":"Miu! You were here the whole time!"
 		},
 		{
 			"key":"EP01_S0190_0028",
-			"value":"えっ！？　お兄ちゃんが、なんで！？"
+			"value":"What? Kaito?! Why are you here?!"
 		},
 		{
 			"key":"EP01_S0190_0029",
-			"value":"ま、待っててサキさん！\n今、助けるから！"
+			"value":"Wait, Saki! We’re coming to help!"
 		},
 		{
 			"key":"EP01_S0190_0030",
-			"value":"あ、アオイちゃんなの～！？\n待って、こっち来ちゃダメ～！！"
+			"value":"Is that you, Aoi?! No, stay away!"
 		},
 		{
 			"key":"EP01_S0190_0031",
-			"value":"は、早く助けろよ～！"
+			"value":"No, come here and heeelp!"
 		},
 		{
 			"key":"EP01_S0190_0032",
-			"value":"変なのが、こっちに……"
+			"value":"That creepy thing’s looking this way..."
 		},
 		{
 			"key":"EP01_S0190_0033",
-			"value":"ど、どうします！？"
+			"value":"Wh-wha-what should we dooo?!"
 		},
 		{
 			"key":"EP01_S0190_0034",
-			"value":"来ちゃダメって言われても\n放っておけるわけないでしょう？"
+			"value":"It’s not like we can just leave them alone,\nright? Even if she tells us to?"
 		},
 		{
 			"key":"EP01_S0190_0035",
-			"value":"（妙な石像のような物がみんなににじり寄っていく……）"
+			"value":"(This weird statue-like creature’s set its\nsights on the others...)"
 		},
 		{
 			"key":"EP01_S0190_0036",
-			"value":"（生き物……？\n　いや……バケモノ……！？）"
+			"value":"(A creature...? No...a monster?!)"
 		},
 		{
 			"key":"EP01_S0190_0037",
-			"value":"何やってんだ！？\n早くしろよ！"
+			"value":"What’re you waiting for?! Get the hell over\nhere, already!"
 		},
 		{
 			"key":"EP01_S0190_0038",
-			"value":"あれはケモノガミ！？\nまさか……そんなこと"
+			"value":"Could that be one of the Kemonogami?!\nNo...how could that be?!"
 		},
 		{
 			"key":"EP01_S0190_0039",
-			"value":"（教授！　祠から追いかけてきてくれたのか……）"
+			"value":"(Professor! He followed us from the shrine?)"
 		},
 		{
 			"key":"EP01_S0190_0040",
-			"value":"（サキたちをあのバケモノから助けないと……！）"
+			"value":"(We have to save those guys from this\nmonster...!)"
 		},
 		{
 			"key":"EP01_S0190_Q1",
-			"value":"（僕はどうするべき！？）"
+			"value":"Interesting, get closer!"
 		},
 		{
 			"key":"EP01_S0190_Q1_A1",
-			"value":"話せるかな、近づいてみよう"
+			"value":"Get closer and talk."
 		},
 		{
 			"key":"EP01_S0190_Q1_A3",
-			"value":"危険だから逃げよう！"
+			"value":"Run while you can!"
 		},
 		{
 			"key":"EP01_S0190_0041",
-			"value":"近づいてみる"
+			"value":"Get close."
 		},
 		{
 			"key":"EP01_S0190_0042",
-			"value":"まずは、話しかけてみよう……"
+			"value":"Let’s try talking to it..."
 		},
 		{
 			"key":"EP01_S0190_0043",
-			"value":"そうだよ、子供が何か被ってフザけてるんだろう？\nおい、君……"
+			"value":"Yeah, it could just be some kid pulling\na prank. Hey, you there!"
 		},
 		{
 			"key":"EP01_S0190_0044",
-			"value":"ま、待てよシュウジさん！"
+			"value":"Whoa, hold on, Shuuji!"
 		},
 		{
 			"key":"EP01_S0190_0045",
-			"value":"子供の体重でそんなに足が\n地面にメリ込むわけねーだろ！"
+			"value":"How heavy would a kid have to be to leave\nfootprints that deep?!"
 		},
 		{
 			"key":"EP01_S0190_0046",
-			"value":"えっ……？"
+			"value":"Footprints...?"
 		},
 		{
 			"key":"EP01_S0190_0047",
-			"value":"わ、わぁあっ！"
+			"value":"Wha—UWAAAH!"
 		},
 		{
 			"key":"EP01_S0190_0048",
-			"value":"シュウジさん！　危ない！"
+			"value":"Look out, Shuuji!"
 		},
 		{
 			"key":"EP01_S0190_0049",
-			"value":"くぅっ！"
+			"value":"Ungh!"
 		},
 		{
 			"key":"EP01_S0190_0050",
-			"value":"タクマくん！？"
+			"value":"Takuma?!"
 		},
 		{
 			"key":"EP01_S0190_0051",
-			"value":"く……なんだコイツ……\nかすってこれほどなんて、とんでもない力だ……"
+			"value":"Ugh... What the heck... It barely grazed me,\nand yet...what power..."
 		},
 		{
 			"key":"EP01_S0190_0052",
-			"value":"だ、大丈夫か！？\nすまない……君に救われた……"
+			"value":"Are, are you all right?! I’m so sorry...\nYou saved me there..."
 		},
 		{
 			"key":"EP01_S0190_0053",
-			"value":"あ、あぶねえ！\n逃げるぞ！"
+			"value":"This is bad! Let’s get out of here!"
 		},
 		{
 			"key":"EP01_S0190_0054",
-			"value":"逃げる"
+			"value":"Run away."
 		},
 		{
 			"key":"EP01_S0190_0055",
-			"value":"サキ、リョウ大丈夫か！"
+			"value":"Saki, Ryo! Are you okay?!"
 		},
 		{
 			"key":"EP01_S0190_0056",
-			"value":"タ、タクマ！？"
+			"value":"Is, is that you, Takuma?!"
 		},
 		{
 			"key":"EP01_S0190_0057",
-			"value":"今のうちに逃げるんだ！"
+			"value":"Run now, while you can!"
 		},
 		{
 			"key":"EP01_S0190_0058",
-			"value":"うわわぁ……"
+			"value":"Oh jeez, oh boy..."
 		},
 		{
 			"key":"EP01_S0190_0059",
-			"value":"そっちに行くから隠れてろ！　ミウ！"
+			"value":"We’ll go over there, so you go hide, Miu!"
 		},
 		{
 			"key":"EP01_S0190_0060",
-			"value":"う、うん……"
+			"value":"All right..."
 		},
 		{
 			"key":"EP01_S0190_0061",
-			"value":"よ、よし……逃げるぞ！"
+			"value":"I...I say we run!"
 		},
 		{
 			"key":"EP01_S0190_0062",
-			"value":"合点承知の助よ！\nとんずらだー！"
+			"value":"You don’t gotta tell me twice.\nLet’s make like a tree and leaf!"
 		},
 		{
 			"key":"EP01_S0190_0063",
-			"value":"いつの時代だよそれ！\n君、よくフザけてる余裕あるな！"
+			"value":"Really! You REALLY have to make jokes at\na time like this?!"
 		},
 		{
 			"key":"EP01_S0190_0064",
-			"value":"みんな、静かに離れるんだ……！"
+			"value":"Quiet, guys, let’s get out of here!"
 		},
 		{
 			"key":"EP01_S0190_0065",
-			"value":"……って、ミノルくん！？\nなにスマホを取り出しているの！？"
+			"value":"...Are you seriously taking out your phone,\nMinoru?!"
 		},
 		{
 			"key":"EP01_S0190_0200",
-			"value":"ほら、カメラだったら夜でも明るく撮れるじゃん？\nだからこの霧でも見渡せたりするかなー、なんて"
+			"value":"My camera’s got that night sight, baby! I bet\nit’ll cut through the fog, yeah?"
 		},
 		{
 			"key":"EP01_S0190_0066",
-			"value":"それに、こんなこともうないかもしれないじゃん！？\nだからカメラで撮っておこうと……！"
+			"value":"We might never see a thing like this again!\nSo I gotta snap while the snapping’s good!"
 		},
 		{
 			"key":"EP01_S0190_0067",
-			"value":"（ミノルの近くにバケモノがいるのに、気付いていない！\n　ダメだ！　助けに行くには間に合わないっ！）"
+			"value":"(Minoru hasn’t noticed how close the monster\nhas gotten! We can’t save him in time!)"
 		},
 		{
 			"key":"EP01_S0190_0068",
-			"value":"ミノル！　避けろ！！"
+			"value":"Get out of the way, Minoru!"
 		},
 		{
 			"key":"EP01_S0190_0069",
-			"value":"……え？"
+			"value":"...Say what?"
 		},
 		{
 			"key":"EP01_S0190_0070",
-			"value":"うわあああ！！"
+			"value":"Uwaaah!!!"
 		},
 		{
 			"key":"EP01_S0190_0071",
-			"value":"ミノル！！"
+			"value":"Minoru!!!"
 		},
 		{
 			"key":"EP01_S0190_0072",
-			"value":"……いててててて\nなんて力なんだよ……"
+			"value":"...Freaking OW. This thing isn’t pulling its\npunches..."
 		},
 		{
 			"key":"EP01_S0190_0073",
-			"value":"タクマが声をかけてくれなかったら\nまともにぶつかってた……サンキューな"
+			"value":"Thanks, Takuma. I would’ve taken that head-\non if you hadn’t said something."
 		},
 		{
 			"key":"EP01_S0190_0074",
-			"value":"ミノルくん動ける？\n早く逃げましょう！"
+			"value":"Can you move, Minoru? You must get out of\nthere!"
 		},
 		{
 			"key":"EP01_S0190_0075",
-			"value":"（何が起きてるんだ？　見たこともない生き物が\n　僕たちを追いかけてきてる？）"
+			"value":"(A creature we’ve never seen before is coming\nright at us! What’s going on?!)"
 		},
 		{
 			"key":"EP01_S0190_0076",
-			"value":"（何だ、この理不尽な状況！\n　一体、なんでこんな事に……！）"
+			"value":"(What a crazy situation we’ve gotten into.\nWhy the heck is this happening?!)"
 		},
 		{
 			"key":"EP01_S0190_0077",
-			"value":"きゃっ！"
+			"value":"Yeep!"
 		},
 		{
 			"key":"EP01_S0190_0078",
-			"value":"アオイさん、大丈夫！？"
+			"value":"You okay, Aoi?!"
 		},
 		{
 			"key":"EP01_S0190_0079",
-			"value":"（マズい！　アオイさんが転んだ！\n　あの岩のバケモノが追いついてしまう……！）"
+			"value":"(Oh no, Aoi fell down! And that rock monster\nis coming this way!)"
 		},
 		{
 			"key":"EP01_S0190_0080",
-			"value":"やめろ！\nアオイさんに手を出すな！！"
+			"value":"Stop! Stay away from her!!!"
 		},
 		{
 			"key":"EP01_S0190_0081",
-			"value":"（アオイさんを助けなきゃ！！）"
+			"value":"(I can’t let it hurt Aoi!)"
 		},
 		{
 			"key":"EP01_S0190_0082",
-			"value":"う、うわぁあああああ！"
+			"value":"Uwaaaaaaaaaaaaaaah!"
 		},
 		{
 			"key":"EP01_S0190_0083",
-			"value":"（いとも簡単に、怪物に吹き飛ばされるなんて……！）"
+			"value":"(That thing just sent me flying!)"
 		},
 		{
 			"key":"EP01_S0190_0084",
-			"value":"イテテテテ……\nな、なんて馬鹿力だ……"
+			"value":"Ahhh, jeez, ow... Man, that thing’s strong..."
 		},
 		{
 			"key":"EP01_S0190_0085",
-			"value":"あんなのに突進されて\nよく怪我しないで済んだな……"
+			"value":"I’m lucky I got away with a few scratches\nafter a tackle like that..."
 		},
 		{
 			"key":"EP01_S0190_0086",
-			"value":"そ、そうだ\nみんな、大丈夫か……！？"
+			"value":"The others...! Hey! You guys okay?!"
 		},
 		{
 			"key":"EP01_S0190_0087",
-			"value":"大丈夫か！？　タクマ！"
+			"value":"Takuma! Are you all right?"
 		},
 		{
 			"key":"EP01_S0190_0088",
-			"value":"ごめんなさい……\n私のせいで……！"
+			"value":"I’m sorry... This is all my fault!"
 		},
 		{
 			"key":"EP01_S0190_0089",
-			"value":"（どうやら、みんなは大丈夫のようだ……）"
+			"value":"(Everyone seems to be okay, somehow...)"
 		},
 		{
 			"key":"EP01_S0190_0090",
-			"value":"（辺りの木々の間には、霧が立ち込めている\n　足元には彼岸花……ゾっとする光景だ……）"
+			"value":"(The fog has covered the entire area. There’s\nred spider lilies at my feet. So creepy...)"
 		},
 		{
 			"key":"EP01_S0190_0091",
-			"value":"お、お～い！\nみ、みんな～！？"
+			"value":"...Guys! You there?!"
 		},
 		{
 			"key":"EP01_S0190_0097",
-			"value":"う……うわぁ！"
+			"value":"Ahhh... AAAAAAH!"
 		},
 		{
 			"key":"EP01_S0190_0092",
-			"value":"えっ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP01_S0190_0098",
-			"value":"いつの間にか囲まれている！？"
+			"value":"When the heck did it corner them?!"
 		},
 		{
 			"key":"EP01_S0190_0099",
-			"value":"まずい……\nだんだん近づいてきているぞ！"
+			"value":"This is bad...\nIt’s getting closer and closer!"
 		},
 		{
 			"key":"EP01_S0190_0201",
-			"value":"（絶体絶命だ。動こうにも何処かに突破口は……？）"
+			"value":"(They’re in for a world of hurt. Is there any\nway they can make a break for it?)"
 		},
 		{
 			"key":"EP01_S0190_0093",
-			"value":"っ、アレ？"
+			"value":"Wha’...huh?"
 		},
 		{
 			"key":"EP01_S0190_0094",
-			"value":"な、何だ……フラフラする"
+			"value":"I’m feeling...kinda dizzy..."
 		},
 		{
 			"key":"EP01_S0190_0095",
-			"value":"（麻痺してただけ？\n　それとも、打ちどころが悪かったのか）"
+			"value":"(Am I going numb? Or did I take a harder hit\nthan I thought?)"
 		},
 		{
 			"key":"EP01_S0190_0096",
-			"value":"（それとも……）"
+			"value":"(Or is it...?)"
 		},
 		{
 			"key":"EP01_S0190_0100",
-			"value":"え？\nこ、こんな時に地震！？"
+			"value":"Huh? An earthquake, at a time like this?!"
 		},
 		{
 			"key":"EP01_S0190_0101",
-			"value":"やべえぞ……\nそれに霧も濃くなってきた……！"
+			"value":"Holy crap... The shaking is getting worse!"
 		},
 		{
 			"key":"EP01_S0190_0102",
-			"value":"みんな、大丈夫か……！？"
+			"value":"Is everyone okay?!"
 		},
 		{
 			"key":"EP01_S0190_0202",
-			"value":"みんな、気を付けるんだ！\n無暗に動いたら危な……うわぁっ！"
+			"value":"Be careful, everyone! Move without paying\nattention and you’ll—WAHHH!"
 		},
 		{
 			"key":"EP01_S0190_0203",
-			"value":"シュウジさん！　どうしました？"
+			"value":"What is it, Shuuji?!"
 		},
 		{
 			"key":"EP01_S0190_0103",
-			"value":"わ、わぁっ……！？"
+			"value":"Whoa!"
 		},
 		{
 			"key":"EP01_S0190_0104",
-			"value":"（一歩、足を踏み出したところで\n　足元の地面が……ボロっと崩れ落ち――）"
+			"value":"(I tried taking a step forward, and the\nground crumbled underneath me!)"
 		},
 		{
 			"key":"EP01_S0190_0204",
-			"value":"（まるで、吸い込まれるかのように\n　ポッカリと空いた大穴に僕の身体は落ちて行った……）"
+			"value":"(I plunged into a gaping hole that seemed to\npull me in...)"
 		},
 		{
 			"key":"EP01_S0190_0205",
-			"value":"（みんなの無事について思い至れないくらいの\n　出来事にも関わらず、僕は……）"
+			"value":"(I couldn’t even tell what was happening to\neveryone else..)"
 		},
 		{
 			"key":"EP01_S0190_0105",
-			"value":"（乱開発が、昨今の地盤沈下の原因にも――\n　そんな教授の言葉を思い出していた）"
+			"value":"(Unchecked development...recent landslides...\nThe professor’s words are coming back to me.)"
 		},
 		{
 			"key":"EP01_S0190_0106",
-			"value":"う、うわああああああああああああああ！"
+			"value":"UWAAAAAAAAAAAAAAAAAAAAAAAH!"
 		}
 	]
 }

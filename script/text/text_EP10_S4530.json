@@ -2,143 +2,143 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S4530_0001",
-			"value":"（ドラクモンには止められたけど……\n　やっぱりカイトのことが気になる）"
+			"value":"(I know Dracmon said to leave Kaito alone,\nbut I’m worried about him.)"
 		},
 		{
 			"key":"EP10_S4530_0002",
-			"value":"（あっ……いた、カイト\n　それにドラクモンも少し離れて見守ってる）"
+			"value":"(Ahh... There he goes. And Dracmon’s watching\nhim from a distance.)"
 		},
 		{
 			"key":"EP10_S4530_0003",
-			"value":"――ぐっ！！"
+			"value":"Yah!!!"
 		},
 		{
 			"key":"EP10_S4530_0004",
-			"value":"くっ……ううっ……ミウ……！"
+			"value":"Ugh... Damn it... Miu!"
 		},
 		{
 			"key":"EP10_S4530_0005",
-			"value":"オレが……オレがもっと……ミウ……！"
+			"value":"If only... If only I’d been stronger! Miu!"
 		},
 		{
 			"key":"EP10_S4530_0006",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S4530_0007",
-			"value":"（カイト……何度も拳を壁に叩きつけてる）"
+			"value":"(Kaito just keeps slamming his fist into the\n wall.)"
 		},
 		{
 			"key":"EP10_S4530_0008",
-			"value":"（カイトは、ミウを大事にしていた\n　いつも気にかけて、庇って、面倒を見て）"
+			"value":"(Kaito cared about Miu so much. Always\nlooking out for her, protecting her.)"
 		},
 		{
 			"key":"EP10_S4530_0009",
-			"value":"（それなのに、あんな風に一瞬で\n　ミウを奪われたんだ）"
+			"value":"(And despite that, she was taken away in an\ninstant...)"
 		},
 		{
 			"key":"EP10_S4530_0010",
-			"value":"（よりによって、ミウの自立を認めて\n　手を緩めたその瞬間に）"
+			"value":"(The moment he acknowledged her independence\nand let his guard down, no less.)"
 		},
 		{
 			"key":"EP10_S4530_0011",
-			"value":"（……苦しんでいるカイトのために\n　何ができるだろう）"
+			"value":"(...I see him suffering, but what can I do\nfor him?)"
 		},
 		{
 			"key":"EP10_S4530_0012",
-			"value":"（何をしても余計なお世話かもしれない\n　僕は、どうしたらいいんだ？）"
+			"value":"(I can’t imagine he’ll welcome whatever I do.\nNot sure how to handle this.)"
 		},
 		{
 			"key":"EP10_S4530_Q1",
-			"value":"（僕がカイトにできることは）"
+			"value":"(What can I do for Kaito?)"
 		},
 		{
 			"key":"EP10_S4530_Q1_A1",
-			"value":"見守ることだ"
+			"value":"Watch and wait."
 		},
 		{
 			"key":"EP10_S4530_Q1_A2",
-			"value":"この場を離れることだ"
+			"value":"Get out of here."
 		},
 		{
 			"key":"EP10_S4530_Q1_A3",
-			"value":"声をかけることだ"
+			"value":"Talk to him."
 		},
 		{
 			"key":"EP10_S4530_0013",
-			"value":"（今のカイトには何を言っても届かない）"
+			"value":"(Nothing I say to Kaito will get through to\nhim at this point.)"
 		},
 		{
 			"key":"EP10_S4530_0014",
-			"value":"（ドラクモンもそう言っていたし\n　僕もそう思う）"
+			"value":"(Dracmon said as much, and I believe him.)"
 		},
 		{
 			"key":"EP10_S4530_0015",
-			"value":"（……見守るしかできないよな）"
+			"value":"(...Guess I should just watch and wait.)"
 		},
 		{
 			"key":"EP10_S4530_0016",
-			"value":"ありがとうな、タクマ\nカイトの気持ちを汲んでくれて"
+			"value":"Thanks for taking Kaito’s feelings into\naccount, Takuma."
 		},
 		{
 			"key":"EP10_S4530_0017",
-			"value":"（……ダメだ。やっぱりあんな姿のカイトに\n　かける言葉なんて……見つからない）"
+			"value":"(...This was a bad idea. I just don’t know\nwhat to say to him when he’s like this.)"
 		},
 		{
 			"key":"EP10_S4530_0018",
-			"value":"（今は、カイトにも僕らにも時間が必要だ）"
+			"value":"(What Kaito needs right now, what we all need\nright now, is time.)"
 		},
 		{
 			"key":"EP10_S4530_0019",
-			"value":"ありがとうな、タクマ\nカイトの気持ちを汲んでくれて"
+			"value":"Thanks for taking Kaito’s feelings into\naccount, Takuma."
 		},
 		{
 			"key":"EP10_S4530_0020",
-			"value":"あの、カイト……"
+			"value":"Uh, hey, Kaito..."
 		},
 		{
 			"key":"EP10_S4530_0021",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S4530_0022",
-			"value":"（反応してくれない……\n　今は話したくないってことなのかな）"
+			"value":"(No response... Guess he doesn’t feel like\nchatting now.)"
 		},
 		{
 			"key":"EP10_S4530_0023",
-			"value":"タクマ、ちょっといいか"
+			"value":"Hey, Takuma. Over here."
 		},
 		{
 			"key":"EP10_S4530_0024",
-			"value":"あ、うん……"
+			"value":"Right, okay."
 		},
 		{
 			"key":"EP10_S4530_0025",
-			"value":"悪いな、タクマ\n今は話をする余裕もないんだってよ"
+			"value":"Sorry, man, but I don’t think he has it in\nhim to talk right now.)"
 		},
 		{
 			"key":"EP10_S4530_0026",
-			"value":"ドラクモン……"
+			"value":"Dracmon..."
 		},
 		{
 			"key":"EP10_S4530_0027",
-			"value":"とりあえず、俺がそばにいて\n様子を見ておくつもりだが……"
+			"value":"I’m sticking around and keeping an eye on\nhim, it’s just..."
 		},
 		{
 			"key":"EP10_S4530_0028",
-			"value":"タクマもこうして、たまに\n見に来てくれると助かる"
+			"value":"I’d appreciate it if you checked in like this\nfrom time to time."
 		},
 		{
 			"key":"EP10_S4530_0029",
-			"value":"うん、わかった"
+			"value":"Yeah, right."
 		},
 		{
 			"key":"EP10_S4530_0030",
-			"value":"（ごめん、カイト……またあとで）"
+			"value":"(I’m sorry, Kaito. We’ll have to talk later.)"
 		},
 		{
 			"key":"EP10_S4530_0031",
-			"value":"…………"
+			"value":"..."
 		}
 	]
 }

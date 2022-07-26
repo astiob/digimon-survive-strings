@@ -2,187 +2,187 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1000_0001",
-			"value":"おはよう、タクマくん\nよく眠れたみたいで何よりだわ"
+			"value":"Hey Takuma. Glad to see it looks like you had\na good night’s rest."
 		},
 		{
 			"key":"EP07_S1000_0002",
-			"value":"そういうアオイさんは早起きだったみたいだけど\nきちんと寝れた？"
+			"value":"And look who else is up early! Did you sleep\nwell, too?"
 		},
 		{
 			"key":"EP07_S1000_0003",
-			"value":"アオイったら寝ては覚めてを繰り返してたのよ\nやっぱり緊張しているみたいで"
+			"value":"She kept waking up all night, actually. Must\nbe her nerves."
 		},
 		{
 			"key":"EP07_S1000_0004",
-			"value":"ラブラモン、ばらさないでよ"
+			"value":"Did you really have to go and share that,\nLabramon?"
 		},
 		{
 			"key":"EP07_S1000_0005",
-			"value":"もし寝不足で具合が悪いなら\nみんなに相談した方が……"
+			"value":"If you’re feeling bad from lack of sleep,\nthen maybe you should talk to the othe—"
 		},
 		{
 			"key":"EP07_S1000_0006",
-			"value":"そういうのじゃないの！\n全然大丈夫、疲れたりもしてないわ"
+			"value":"That’s not necessary! I’m fine, not tired at\nall."
 		},
 		{
 			"key":"EP07_S1000_0007",
-			"value":"ただ、ちょっと\nなんていうか……"
+			"value":"It’s just... How do I put this?"
 		},
 		{
 			"key":"EP07_S1000_0008",
-			"value":"……不安なの\n怪我人が出るんじゃないかって"
+			"value":"I’m worried. What if someone gets hurt?"
 		},
 		{
 			"key":"EP07_S1000_0009",
-			"value":"もっと綿密に作戦を練ったり\n相手の情報を探ったりするべきなんじゃないかしら"
+			"value":"Maybe we should be making more detailed plans\nand learning more about our opponent?"
 		},
 		{
 			"key":"EP07_S1000_0010",
-			"value":"このまま行って誰かが傷ついたらって\n考えてしまって……"
+			"value":"I just keep thinking, what if we set off like\nthis and someone gets hurt, and..."
 		},
 		{
 			"key":"EP07_S1000_0011",
-			"value":"（アオイさん、決戦を意識しすぎて\n　ナーバスになってるみたいだ）"
+			"value":"(Aoi knows this is the final fight and is\ngetting nervous.)"
 		},
 		{
 			"key":"EP07_S1000_0012",
-			"value":"（慎重にとは言うけど、これ以上の情報を\n　探り出すための手がかりはないんだ）"
+			"value":"(But we don’t have many leads to act on, to\nput it lightly.)"
 		},
 		{
 			"key":"EP07_S1000_0013",
-			"value":"（アオイさんだって本当はわかってるはず\n　ただ、決戦を前に勇気が出ないのかもしれない）"
+			"value":"(I’m sure Aoi knows it, too. But maybe she’s\nstruggling with confidence.)"
 		},
 		{
 			"key":"EP07_S1000_Q1",
-			"value":"（アオイさんを勇気づける言葉は……）"
+			"value":"(What should I say to boost her confidence?)"
 		},
 		{
 			"key":"EP07_S1000_Q1_A1",
-			"value":"僕に任せといてよ"
+			"value":"I’ll handle it."
 		},
 		{
 			"key":"EP07_S1000_Q1_A2",
-			"value":"大丈夫、心配要らないよ"
+			"value":"We’ll be fine."
 		},
 		{
 			"key":"EP07_S1000_Q1_A3",
-			"value":"悩んでる暇なんてない"
+			"value":"No time to worry."
 		},
 		{
 			"key":"EP07_S1000_0014",
-			"value":"僕に任せといてよ"
+			"value":"I’ll handle it."
 		},
 		{
 			"key":"EP07_S1000_0015",
-			"value":"僕に、任せといてよ"
+			"value":"I can handle this. Let me deal with it, okay?"
 		},
 		{
 			"key":"EP07_S1000_0016",
-			"value":"えっ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP07_S1000_0017",
-			"value":"危険があるのは確かだけど\nだからって縮こまってちゃ何も起こらない"
+			"value":"There’s no denying the danger, but getting\nbent out of shape about it won’t help."
 		},
 		{
 			"key":"EP07_S1000_0018",
-			"value":"望みを勝ち取るためには\n動かなきゃダメなんだ"
+			"value":"We have to act to seize victory and make our\nhopes come true."
 		},
 		{
 			"key":"EP07_S1000_0019",
-			"value":"タクマくん……でも"
+			"value":"But, Takuma..."
 		},
 		{
 			"key":"EP07_S1000_0020",
-			"value":"もし動いたことで何かが起きたら\nその時は僕が何とかする"
+			"value":"If anything bad happens in the process, I’ll\nhandle it. Trust me on that."
 		},
 		{
 			"key":"EP07_S1000_0021",
-			"value":"……！"
+			"value":"Takuma!"
 		},
 		{
 			"key":"EP07_S1000_0022",
-			"value":"誰も傷つかないように精一杯努力するよ\n不安なら、僕に任せてくれていいから"
+			"value":"I’ll make sure no one gets hurt. You can\nleave your worries to me."
 		},
 		{
 			"key":"EP07_S1000_0023",
-			"value":"タクマくん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP07_S1000_0024",
-			"value":"まあ実際に何かあった時に戦うのは\n私たちだけどね？"
+			"value":"But if something does happen, WE will be the\nones to fight, not you."
 		},
 		{
 			"key":"EP07_S1000_0025",
-			"value":"う、それはそうなんだけど\nほら、上手く戦いを避けたりさ……"
+			"value":"Er, that’s true, but I’ll, like...do an\namazing job at staying out of your way!"
 		},
 		{
 			"key":"EP07_S1000_0026",
-			"value":"……ふふ\nあはは、そうよね、うん"
+			"value":"Hehe... Right. That’s the spirit!"
 		},
 		{
 			"key":"EP07_S1000_0027",
-			"value":"怪我人が出ないように、私たちにだって\nできることがあるはずよね"
+			"value":"I’m sure there are things we can do, too, to\nmake sure no one gets hurt."
 		},
 		{
 			"key":"EP07_S1000_0028",
-			"value":"ありがとう、タクマくん\n最善を尽くしましょう"
+			"value":"Thank you, Takuma. Let’s do all we can."
 		},
 		{
 			"key":"EP07_S1000_0029",
-			"value":"大丈夫、心配要らないよ"
+			"value":"We’ll be fine."
 		},
 		{
 			"key":"EP07_S1000_0030",
-			"value":"大丈夫、心配要らないよ"
+			"value":"It’s going to be okay. Don’t worry."
 		},
 		{
 			"key":"EP07_S1000_0031",
-			"value":"みんなでいれば\nきっとなんとかなるよ"
+			"value":"As long as we stick together, this is all\ngoing to work out."
 		},
 		{
 			"key":"EP07_S1000_0032",
-			"value":"そうよアオイ、私がついているわ\n怪我なんてさせない"
+			"value":"Trust me, I won’t allow anyone to get hurt."
 		},
 		{
 			"key":"EP07_S1000_0033",
-			"value":"ボクも怪我しないように気を付けるから\n心配しすぎちゃだめだぞ～"
+			"value":"I’ll make sure to keep everyone safe, too. So\nthere’s nothing to worry about!"
 		},
 		{
 			"key":"EP07_S1000_0034",
-			"value":"うん……ありがとう、みんな"
+			"value":"Right... Thank you, guys."
 		},
 		{
 			"key":"EP07_S1000_0035",
-			"value":"悩んでる暇なんてない"
+			"value":"No time to worry."
 		},
 		{
 			"key":"EP07_S1000_0036",
-			"value":"確かに敵地に飛び込むのは勇気がいることだけど\n今はそれ以外にできることがないよね"
+			"value":"It will take courage to enter enemy\nterritory, but we’re out of other options."
 		},
 		{
 			"key":"EP07_S1000_0037",
-			"value":"もたもたしている間に元の世界へ\n戻れなくなったら困るし"
+			"value":"Wasting time here might even prevent us from\nmaking it back home."
 		},
 		{
 			"key":"EP07_S1000_0038",
-			"value":"勇気を出すしかない、ってこと？"
+			"value":"You mean there’s no choice but to have\nconfidence in ourselves?"
 		},
 		{
 			"key":"EP07_S1000_0039",
-			"value":"うん\n完全に安全な道なんてどこにもないよ"
+			"value":"Exactly. There’s no completely safe path\nmoving forward."
 		},
 		{
 			"key":"EP07_S1000_0040",
-			"value":"そう……そうかもしれないわ"
+			"value":"Yeah... I guess you’re right."
 		},
 		{
 			"key":"EP07_S1000_0041",
-			"value":"タクマくんが起きてきたってことは\nもう全員起きているのよね？"
+			"value":"If you’re awake, everyone else must be, too."
 		},
 		{
 			"key":"EP07_S1000_0042",
-			"value":"それならそろそろ朝食にしましょ\n腹ごしらえしたら出発よ"
+			"value":"Let’s get started on breakfast, then. After\nthat we can head out."
 		}
 	]
 }

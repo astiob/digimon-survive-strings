@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0332_0001",
-			"value":"ここには何もないみたいだ……"
+			"value":"Doesn’t look like there’s anything here..."
 		},
 		{
 			"key":"EP05_S0332_0002",
-			"value":"なら早く他のとこに行こう！\nシャコモンが待ってるよ！"
+			"value":"Then let’s hurry somewhere else! Syakomon’s\nwaiting for us!"
 		},
 		{
 			"key":"EP05_S0332_0003",
-			"value":"ああ、早く行ってあげなきゃ！"
+			"value":"Yeah, we gotta go, go, go!"
 		},
 		{
 			"key":"EP05_S0332_0004",
-			"value":"そうだな、急ごう！"
+			"value":"Right, let’s do it!"
 		}
 	]
 }

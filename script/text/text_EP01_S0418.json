@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0418_0001",
-			"value":"ここからじゃ入れそうにないよ"
+			"value":"I don’t think we can get in from here."
 		},
 		{
 			"key":"EP01_S0418_0002",
-			"value":"タクマ、他のところを捜そう"
+			"value":"Let’s look somewhere else, Takuma."
 		},
 		{
 			"key":"EP01_S0418_0003",
-			"value":"ああ……アグモンの言う通りだ\n悔しいけど、他をあたろう"
+			"value":"Yeah, you’re right, Agumon. It sucks, but\nwe’d better keep going."
 		},
 		{
 			"key":"EP01_S0418_0004",
-			"value":"他のところを捜そう、タクマ"
+			"value":"Let’s go look somewhere else, Takuma!"
 		}
 	]
 }

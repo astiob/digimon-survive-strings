@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0632_0003",
-			"value":"アオイさん。ずっと顔色悪いけど、大丈夫？"
+			"value":"You’ve been pale for a while now, Aoi. How\nare you holding up?"
 		},
 		{
 			"key":"EP01_S0632_0004",
-			"value":"え、ええ……その、正直に言うと、\nこの場所の雰囲気に耐えるので精一杯で……"
+			"value":"Ah, well... If I’m being honest, it’s taking\nall I’ve got to deal with this place..."
 		},
 		{
 			"key":"EP01_S0632_0005",
-			"value":"怖いなら無理しない方がいいと思うよ"
+			"value":"You shouldn’t push yourself if you’re scared,\nokay?"
 		},
 		{
 			"key":"EP01_S0632_0006",
-			"value":"ありがとう……でも、私よりサキさんたちの方が\n怖い思いをしているかもしれないから"
+			"value":"Thank you, but...our friends might be facing\nsomething even scarier, you know?"
 		},
 		{
 			"key":"EP01_S0632_0007",
-			"value":"サキさん、リョウくん。どこにいるの……？"
+			"value":"Saki, Ryo... Where are you?"
 		},
 		{
 			"key":"EP01_S0632_0008",
-			"value":"サキさん、リョウくん……"
+			"value":"Saki, Ryo..."
 		},
 		{
 			"key":"EP01_S0632_0009",
-			"value":"（アオイさんは一生懸命辺りを見てる\n　今はそっとしておこう）"
+			"value":"(Aoi’s doing her best to scour the area.\nI should leave her to it.)"
 		}
 	]
 }

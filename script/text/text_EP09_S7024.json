@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S7024_0001",
-			"value":"なんでこんなひどいこと……\nこの子たちは何も悪くないのに"
+			"value":"This is so awful. These kids haven’t done\nanything wrong!"
 		},
 		{
 			"key":"EP09_S7024_0002",
-			"value":"これって、ウチのせい……なのかな？\nウチがここを隠れ家にしてたから……"
+			"value":"Is this...all my fault? Because I turned this\nplace into a hideout?"
 		},
 		{
 			"key":"EP09_S7024_0003",
-			"value":"ミウのせいなんかじゃないよ！"
+			"value":"This isn’t your fault, Miu!"
 		},
 		{
 			"key":"EP09_S7024_0004",
-			"value":"でもウチ……\nこんなの見てらんない……"
+			"value":"But I...I can’t stand to see this..."
 		},
 		{
 			"key":"EP09_S7024_0005",
-			"value":"（ミウ、かなりショックを受けてるみたいだな\n　その気持ちは、すごくよくわかるけど……）"
+			"value":"(Miu’s pretty shocked. I can understand where\nshe’s coming from, really I can...)"
 		},
 		{
 			"key":"EP09_S7024_0006",
-			"value":"（厳しいかもしれないけど\n　泣いてるだけじゃどうしようもないし）"
+			"value":"(But even if it hurts, crying won’t help do\nanything about it.)"
 		},
 		{
 			"key":"EP09_S7024_Q1",
-			"value":"（こんな時、どうすればいい……？）"
+			"value":"(What should I do at a time like this...?)"
 		},
 		{
 			"key":"EP09_S7024_Q1_A1",
-			"value":"叱咤しよう"
+			"value":"Scold her."
 		},
 		{
 			"key":"EP09_S7024_Q1_A2",
-			"value":"とにかく励まそう"
+			"value":"Cheer her up for now."
 		},
 		{
 			"key":"EP09_S7024_0007",
-			"value":"叱咤する"
+			"value":"Scold her."
 		},
 		{
 			"key":"EP09_S7024_0008",
-			"value":"ミウが悪いんじゃないよ\nミウに責任があるなんて思わない。でも……"
+			"value":"This isn’t on you, Miu. None of this is your\nfault."
 		},
 		{
 			"key":"EP09_S7024_0009",
-			"value":"泣いてるだけじゃ、ダメだと思う！"
+			"value":"Still, this is no time to be crying!"
 		},
 		{
 			"key":"EP09_S7024_0010",
-			"value":"た、タクマ！？\nそんな言い方……！"
+			"value":"T-Takuma?! How could you say that?!"
 		},
 		{
 			"key":"EP09_S7024_0011",
-			"value":"ミウもシャコモンもわかってるはずだろ！？\nここで立ち止ってる場合じゃないって！"
+			"value":"Miu, Syakomon. Both of you know we can’t drag\nour feet here, don’t you?!"
 		},
 		{
 			"key":"EP09_S7024_0012",
-			"value":"そ、それはそう……だけど……"
+			"value":"Well... Yeah, that’s true..."
 		},
 		{
 			"key":"EP09_S7024_0013",
-			"value":"これ以上、痛い思いをする仲間が増えないように\nみんながひどい目に合わないように"
+			"value":"To prevent more painful memories for our\nfriends, and to keep everyone safe..."
 		},
 		{
 			"key":"EP09_S7024_0014",
-			"value":"僕たちが、しっかりしないと……！"
+			"value":"We have to keep our wits about us!"
 		},
 		{
 			"key":"EP09_S7024_0015",
-			"value":"仲間のため……に"
+			"value":"For...our friends..."
 		},
 		{
 			"key":"EP09_S7024_0016",
-			"value":"うんっ……そうだよね……！\nごめん、ウチが間違ってた！"
+			"value":"Yeah... Yeah, you’re right! Sorry, I see my\nmistake now!"
 		},
 		{
 			"key":"EP09_S7024_0017",
-			"value":"タクマさんの言う通りだよ\n泣いてるだけじゃダメ"
+			"value":"I can’t just sit here and cry. You hit the\nnail on the head, Takuma."
 		},
 		{
 			"key":"EP09_S7024_0018",
-			"value":"こんなの、女王様失格だもんね！"
+			"value":"A queen can’t act like this!"
 		},
 		{
 			"key":"EP09_S7024_0019",
-			"value":"とにかく励ます"
+			"value":"Cheer her up for now."
 		},
 		{
 			"key":"EP09_S7024_0020",
-			"value":"な、泣くなよ……！\n誰もミウのせいだなんて、思ってないよ"
+			"value":"Don’t cry, Miu! No one thinks this is your\nfault."
 		},
 		{
 			"key":"EP09_S7024_0021",
-			"value":"で、でも……ウチ……\nウチは、みんなの女王様なのに……ぐすっ"
+			"value":"B-but I... I’m everyone’s queen, so I...\n*sniff*"
 		},
 		{
 			"key":"EP09_S7024_0022",
-			"value":"女王様だからって、何でもできるわけじゃないし\nこれからやれることをやればいいんだから……な？"
+			"value":"Being a queen doesn’t mean you can do\neverything. Just what you can, right?"
 		},
 		{
 			"key":"EP09_S7024_0023",
-			"value":"タクマの言う通りだよ\nミウはミウのできることを、すればいいのよ"
+			"value":"Takuma’s right! You gotta do the things only\nyou can do, Miu."
 		},
 		{
 			"key":"EP09_S7024_0024",
-			"value":"ウチにできること……"
+			"value":"What I can do..."
 		},
 		{
 			"key":"EP09_S7024_0025",
-			"value":"なにができるか、わかんないけど……\nみんなを助けられるよう……ウチ、もう少し頑張る……"
+			"value":"I don’t know what that is, but...I’ll work\nharder to save everyone."
 		},
 		{
 			"key":"EP09_S7024_0026",
-			"value":"まずは、他にも傷ついてる子たちがいないか\n探して、助けないと……だよね"
+			"value":"First, we ought to look for any other hurt\nkids and save them, right?"
 		},
 		{
 			"key":"EP09_S7024_0027",
-			"value":"うん、そうだな"
+			"value":"I think that’s the best plan, yeah."
 		},
 		{
 			"key":"EP09_S7024_0028",
-			"value":"他にも傷ついてる子たちがいないか……\nもっとよく探して、助けないとだよね"
+			"value":"Is anyone else hurt around here? I’d better\nlook a bit more, they’ll need my help!"
 		}
 	]
 }

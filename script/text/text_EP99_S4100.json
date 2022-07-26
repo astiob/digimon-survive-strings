@@ -2,159 +2,159 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S4100_0001",
-			"value":"待たせたな、このオレ様に任せときなッ！！\n――いや、違うな。じゃあ……"
+			"value":"Sorry for the wait! Now Minoru’s on the case!\nNah, that’s no good. Maybe..."
 		},
 		{
 			"key":"EP99_S4100_0002",
-			"value":"おいおい、このオレを忘れてな～い？\n――ちょっと軽いだろ……うーん"
+			"value":"Hey there, aren’t you forgetting someone?!\nNo, no, that’s too weak. Hmm..."
 		},
 		{
 			"key":"EP99_S4100_0003",
-			"value":"（あれ……この声ってミノル……？\nいったい何をしているんだ？）"
+			"value":"(Is that...Minoru? I wonder what he’s up to.)"
 		},
 		{
 			"key":"EP99_S4100_0004",
-			"value":"このオレが来たからにはもう安心だぜ！\n……もう一声！　コンパクトに！"
+			"value":"There’s no need to fear, for now Minoru has\narrived! ...Almost! Maybe something shorter."
 		},
 		{
 			"key":"EP99_S4100_0005",
-			"value":"ミノル様の攻撃を受けてみな！\nいや違う、全然違う！！"
+			"value":"Take this! Minoru Strike! No, no, that’s all\nwrong!"
 		},
 		{
 			"key":"EP99_S4100_0006",
-			"value":"なんかこう……いけてないな\nうーん……"
+			"value":"It...lacks a certain charm. Hmm..."
 		},
 		{
 			"key":"EP99_S4100_0007",
-			"value":"ミノル？"
+			"value":"Minoru?"
 		},
 		{
 			"key":"EP99_S4100_0008",
-			"value":"うわあ、た、タクマ！\nいつからここに！？"
+			"value":"Uwah! T-Takuma! How long have you been\nthere?!"
 		},
 		{
 			"key":"EP99_S4100_0009",
-			"value":"『待たせたな、このオレ様に任せときな』\nあたりかな"
+			"value":"Since, “Sorry for the wait! Now Minoru’s on\nthe case!”"
 		},
 		{
 			"key":"EP99_S4100_0010",
-			"value":"あちゃあ……聞かれてたか……\nすげえ恥ずかしい……！"
+			"value":"Oh... You heard that, did you? Man, talk\nabout embarrassing!"
 		},
 		{
 			"key":"EP99_S4100_0011",
-			"value":"あのさ、ミノル……\nいったい何をしていたんだ？"
+			"value":"So, Minoru...what’s this all about?"
 		},
 		{
 			"key":"EP99_S4100_0012",
-			"value":"それ言わなきゃダメ？\nその、アレだよ……アレ"
+			"value":"You really want me to tell you? Well, I was\njust...you know..."
 		},
 		{
 			"key":"EP99_S4100_0013",
-			"value":"決めセリフの練習"
+			"value":"Practicing my catch phrase."
 		},
 		{
 			"key":"EP99_S4100_Q1",
-			"value":"決めセリフの練習……！？"
+			"value":"Your catch phrase?!"
 		},
 		{
 			"key":"EP99_S4100_Q1_A1",
-			"value":"どういうこと……？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP99_S4100_Q1_A2",
-			"value":"ヒーローになったつもり？"
+			"value":"Like you’re a hero?"
 		},
 		{
 			"key":"EP99_S4100_Q1_A3",
-			"value":"じゃあ僕もやってみたいな"
+			"value":"Let me try too!"
 		},
 		{
 			"key":"EP99_S4100_0014",
-			"value":"決めセリフの練習……って\nど、どういうこと？"
+			"value":"What do you mean your catch phrase?"
 		},
 		{
 			"key":"EP99_S4100_0015",
-			"value":"だから、その……だよ"
+			"value":"Oh, well...you know."
 		},
 		{
 			"key":"EP99_S4100_0016",
-			"value":"…………………………………………………………………\n……………………………………………………………ぷっ"
+			"value":"...\n...Heh."
 		},
 		{
 			"key":"EP99_S4100_0017",
-			"value":"あはははは！　も、もう本気にするなって！\nジョークだよ、ジョーク！"
+			"value":"Ahahahaha! Oh, quit taking it so seriously!\nI was just kidding!"
 		},
 		{
 			"key":"EP99_S4100_0018",
-			"value":"ヤツラとやりあってる最中にさ\nごちゃごちゃ言ってる余裕なんてないだろ、な？"
+			"value":"What? You think I’d actually have time for\na catch phrase in the middle of a fight?!"
 		},
 		{
 			"key":"EP99_S4100_0019",
-			"value":"ということはつまり……\nヒーローになったつもり？"
+			"value":"You mean...like you’re a hero or something?"
 		},
 		{
 			"key":"EP99_S4100_0020",
-			"value":"……悪いかよ\nああ、やっぱり聞かれなきゃよかった～！"
+			"value":"And what’s wrong with that?! Man, why did you\nhave to overhear?!"
 		},
 		{
 			"key":"EP99_S4100_0021",
-			"value":"でもオレ、この世界でなら\nヒーローになれるんじゃないかって思ったんだよ"
+			"value":"Anyway, look. I’m thinking maybe in this\nworld, I actually could be a hero."
 		},
 		{
 			"key":"EP99_S4100_0022",
-			"value":"敵に襲われてピンチに陥ったタクマとか\nビビったタクマとか"
+			"value":"I could save you if you’re ever in trouble,\nor if you get scared."
 		},
 		{
 			"key":"EP99_S4100_0023",
-			"value":"ちびりかけたタクマをオレが助ける\n……かっこよくね？"
+			"value":"Or I could show up right when you’re about to\npee your pants. Wouldn’t that be cool?"
 		},
 		{
 			"key":"EP99_S4100_0024",
-			"value":"（どうして僕ばっかり\n酷い目にあう前提なんだ……？？）"
+			"value":"(Why is it always me who’s in trouble in\nthese scenarios?)"
 		},
 		{
 			"key":"EP99_S4100_0025",
-			"value":"じゃあ僕もやってみようかな"
+			"value":"Ooh, then let me try too!"
 		},
 		{
 			"key":"EP99_S4100_0026",
-			"value":"あ、おまえ！　パクるなよ！\nそれなら金を払えよな！"
+			"value":"Hey! Don’t you go copying me! You’ll owe me\nroyalties if you do!"
 		},
 		{
 			"key":"EP99_S4100_0027",
-			"value":"お金って……そんなのあっても\nここじゃ意味がないだろ"
+			"value":"Royalties? But it’s not like having money\nwill do you any good here."
 		},
 		{
 			"key":"EP99_S4100_0028",
-			"value":"ちがうって。ミノルと僕で\nコンビで決めればかっこよさ倍増だろ？"
+			"value":"And anyway, you’ve got it all wrong. Wouldn’t\nit be cooler if we had lines to say together?"
 		},
 		{
 			"key":"EP99_S4100_0029",
-			"value":"あ、なるほど……そうか、そうだよな！\nナイスアイデアだな！"
+			"value":"Oh, I get it. Yeah, you’re right! Great idea!"
 		},
 		{
 			"key":"EP99_S4100_0030",
-			"value":"やっぱオマエは最高だよ！\n親友！　相棒！　心の友だよ！"
+			"value":"You are the best, Takuma! This is why we’re\nbest friends! Partners! Real bros!"
 		},
 		{
 			"key":"EP99_S4100_0031",
-			"value":"そうだ、タクマ\nこの事は皆にまだナイショな！"
+			"value":"But don’t tell any of the others about this\nyet, okay?"
 		},
 		{
 			"key":"EP99_S4100_0032",
-			"value":"まだ練り込みが甘いんだよ\n努力を見せないもんさ"
+			"value":"We still need to work things out a little\nmore, make things seem effortless."
 		},
 		{
 			"key":"EP99_S4100_0033",
-			"value":"そうだタクマ、明日から特訓な\n朝五時にここに集合！"
+			"value":"I know! We can start doing special training,\nstarting tomorrow! We meet here at 5:00 AM!"
 		},
 		{
 			"key":"EP99_S4100_0034",
-			"value":"朝五時って……！？"
+			"value":"5:00 AM?!"
 		},
 		{
 			"key":"EP99_S4100_0035",
-			"value":"（ミノルは本気で\n極めたいのか……！？）"
+			"value":"(Is Minoru that serious about this?!)"
 		}
 	]
 }

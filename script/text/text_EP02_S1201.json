@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1201_0001",
-			"value":"タクマー、なんにもないなー"
+			"value":"Takuma, nothing's here."
 		},
 		{
 			"key":"EP02_S1201_0002",
-			"value":"そうだなぁ……\n他のとこも見てみるか"
+			"value":"Well, let me think.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1201_0003",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP02_S1201_0004",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1201_0201",
-			"value":"こんな所に食べ物があるとは思えないけど……"
+			"value":"I really don’t think we’re going to find any\nfood here."
 		},
 		{
 			"key":"EP02_S1201_0202",
-			"value":"タクマー、これ食べられるかー？"
+			"value":"What about this?"
 		},
 		{
 			"key":"EP02_S1201_0203",
-			"value":"アグモン、それ枯れ葉だよな？\nただのゴミだよ"
+			"value":"Agumon, that’s just a dead leaf. We can’t eat\nthat. It’s garbage."
 		},
 		{
 			"key":"EP02_S1201_0204",
-			"value":"そっかー、ムズカシイなー"
+			"value":"Really? Hmm, this is hard..."
 		},
 		{
 			"key":"EP02_S1201_0205",
-			"value":"ここには何もなさそうだな"
+			"value":"I’m pretty sure this place doesn’t have any\nfood."
 		},
 		{
 			"key":"EP02_S1201_0206",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		}
 	]
 }

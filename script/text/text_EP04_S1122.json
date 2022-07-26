@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1122_0001",
-			"value":"これ、何の箱なのかしら？"
+			"value":"I wonder what’s in this box."
 		},
 		{
 			"key":"EP04_S1122_0002",
-			"value":"わっ、ちょっと！\nあんまりいじらないほうが……！"
+			"value":"Stop! Don’t mess with it!"
 		},
 		{
 			"key":"EP04_S1122_0003",
-			"value":"よいしょ……と、って……い、意外と重い……！"
+			"value":"Oof... This is...surprisingly heavy..."
 		},
 		{
 			"key":"EP04_S1122_0004",
-			"value":"って、きゃっ！"
+			"value":"Whoa... Aaah!"
 		},
 		{
 			"key":"EP04_S1122_0005",
-			"value":"なんか、割れた音がしたね"
+			"value":"I think I heard something break."
 		},
 		{
 			"key":"EP04_S1122_0006",
-			"value":"な、中にツボでも入ってたのかな？"
+			"value":"Maybe there was some sort of pottery inside?"
 		},
 		{
 			"key":"EP04_S1122_0007",
-			"value":"それより、今の音じゃ……もしかして……！"
+			"value":"I’m more worried about the noise. You think\nthey heard?"
 		},
 		{
 			"key":"EP04_S1122_0008",
-			"value":"わっ！　あいつらの足音！"
+			"value":"Oh no! I hear their footsteps!"
 		},
 		{
 			"key":"EP04_S1122_0009",
-			"value":"や、やっぱり……！"
+			"value":"Just what I was afraid of."
 		},
 		{
 			"key":"EP04_S1122_0010",
-			"value":"ここじゃ見つかっちゃう！\nみんな、さっきの通路まで戻って隠れよう！"
+			"value":"We can’t stay here, we’ll get spotted! Let’s\ngo hide back in the other hall!"
 		},
 		{
 			"key":"EP04_S1122_0011",
-			"value":"尾行のやり直しってことよね？\nごめ～ん！"
+			"value":"You mean we’ll have to sneak back here again?\nOh, I’m sorry!"
 		}
 	]
 }

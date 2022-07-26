@@ -1,348 +1,348 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP07_S3105_0001",
-            "value": "タクマくん\n何か見つかったかい？"
-        },
-        {
-            "key": "EP07_S3105_0002",
-            "value": "いいえ、何も"
-        },
-        {
-            "key": "EP07_S3105_0003",
-            "value": "そうか……重ねてになるが、慎重に行こう"
-        },
-        {
-            "key": "EP07_S3105_0004",
-            "value": "我々が傷つき倒れたら\nミユキくんを救える人は誰もいなくなってしまう"
-        },
-        {
-            "key": "EP07_S3105_0005",
-            "value": "それなんですけど\nどうしてミユキが狙われたんでしょうか"
-        },
-        {
-            "key": "EP07_S3105_0006",
-            "value": "それに『巫女』って言葉も気になります"
-        },
-        {
-            "key": "EP07_S3105_0007",
-            "value": "ミユキは何か、敵にとって\n特別な意味を持っているんですよね……"
-        },
-        {
-            "key": "EP07_S3105_0008",
-            "value": "巫女、か……\n元の世界ではあまり聞かなくなった言葉だ"
-        },
-        {
-            "key": "EP07_S3105_0009",
-            "value": "大きな神社なんかにお参りに行くと\nたまにお守りを売ってたりしますけど……"
-        },
-        {
-            "key": "EP07_S3105_0010",
-            "value": "そうだな、だがそれは巫女の本来の仕事ではない"
-        },
-        {
-            "key": "EP07_S3105_0011",
-            "value": "巫女とは神に仕える者のことを言うのだ\n歌や舞などを捧げ、その怒りを鎮める役割もある"
-        },
-        {
-            "key": "EP07_S3105_0012",
-            "value": "そして巫女は、神の声を聞く者でもある\n神をその身に降ろし、神託……言葉を世に伝えるのだ"
-        },
-        {
-            "key": "EP07_S3105_0013",
-            "value": "（神……神か\n　もしこの世界に神様がいるのなら）"
-        },
-        {
-            "key": "EP07_S3105_0014",
-            "value": "（ミユキはその神様と敵のケモノたちとを\n　繋ぐ架け橋になる……？）"
-        },
-        {
-            "key": "EP07_S3105_0015",
-            "value": "（敵は、ミユキが神様に何かするのを\n　期待してるってことなのかな？）"
-        },
-        {
-            "key": "EP07_S3105_0016",
-            "value": "（じゃあ、その何かって何だ？）"
-        },
-        {
-            "key": "EP07_S3105_0017",
-            "value": "（歌ってほしいとか\n　話を聞いてほしいとか……？）"
-        },
-        {
-            "key": "EP07_S3105_Q1",
-            "value": "（ミユキがさらわれた理由は……）"
-        },
-        {
-            "key": "EP07_S3105_Q1_A1",
-            "value": "神様に仕えるため？"
-        },
-        {
-            "key": "EP07_S3105_Q1_A2",
-            "value": "神様に歌を捧げるため？"
-        },
-        {
-            "key": "EP07_S3105_Q1_A3",
-            "value": "神様の声を聞くため？"
-        },
-        {
-            "key": "EP07_S3105_0018",
-            "value": "神様に仕えるため？"
-        },
-        {
-            "key": "EP07_S3105_0019",
-            "value": "ミユキは神様に仕えるために\nさらわれたんでしょうか"
-        },
-        {
-            "key": "EP07_S3105_0020",
-            "value": "うむ……そうかもしれないな"
-        },
-        {
-            "key": "EP07_S3105_0021",
-            "value": "でもなんでミユキじゃなきゃダメなんだろう"
-        },
-        {
-            "key": "EP07_S3105_0022",
-            "value": "献身的かどうかって話なら\nアオイさんの方がそれらしい気もするし……"
-        },
-        {
-            "key": "EP07_S3105_0023",
-            "value": "巫女になるには資格とかがあるんですか？"
-        },
-        {
-            "key": "EP07_S3105_0024",
-            "value": "昔は、特定の家柄の者しか巫女になれない\nということもあったそうだが……"
-        },
-        {
-            "key": "EP07_S3105_0025",
-            "value": "……待てよ\n特定の家柄の者……"
-        },
-        {
-            "key": "EP07_S3105_0026",
-            "value": "それに、神……ケモノガミ！"
-        },
-        {
-            "key": "EP07_S3105_0027",
-            "value": "ああ……そうか、そうかもしれない！"
-        },
-        {
-            "key": "EP07_S3105_0028",
-            "value": "神様に歌を捧げるため？"
-        },
-        {
-            "key": "EP07_S3105_0029",
-            "value": "ミユキは神様に歌を捧げるために\nさらわれたのかもしれない……"
-        },
-        {
-            "key": "EP07_S3105_0030",
-            "value": "……何？"
-        },
-        {
-            "key": "EP07_S3105_0031",
-            "value": "ミユキって、時々歌っていたじゃないですか\n教授が鼻歌を歌っていたあの曲を"
-        },
-        {
-            "key": "EP07_S3105_0032",
-            "value": "ああ……そうか、そうかもしれない！"
-        },
-        {
-            "key": "EP07_S3105_0033",
-            "value": "神様の声を聞くため？"
-        },
-        {
-            "key": "EP07_S3105_0034",
-            "value": "つまり、ミユキは神様の声を聞くために\nさらわれたってことですか？"
-        },
-        {
-            "key": "EP07_S3105_0035",
-            "value": "何？"
-        },
-        {
-            "key": "EP07_S3105_0036",
-            "value": "え？　ええと……もしかしたら\nミユキには何か巫女になれる特別な力があって"
-        },
-        {
-            "key": "EP07_S3105_0037",
-            "value": "神様の声が聞こえて……それを\n敵も知っているのかもしれないって"
-        },
-        {
-            "key": "EP07_S3105_0038",
-            "value": "なんて、ちょっと想像が行きすぎてますよね"
-        },
-        {
-            "key": "EP07_S3105_0039",
-            "value": "いや……\nそうか、そうかもしれない！"
-        },
-        {
-            "key": "EP07_S3105_0040",
-            "value": "聞いてくれ、タクマくん"
-        },
-        {
-            "key": "EP07_S3105_0041",
-            "value": "私は元の世界で\nケモノガミ信仰について調べていた"
-        },
-        {
-            "key": "EP07_S3105_0042",
-            "value": "その時、とある一つの文献に\nケモノガミに仕える血筋の名が書かれていたんだ"
-        },
-        {
-            "key": "EP07_S3105_0043",
-            "value": "ケモノガミに仕える巫女の一族\nその家系の名は、水無瀬<space=-2.25em><voffset=1em><size=50%><mspace=1em>ミナセ</mspace></size></voffset><space=0.75em>"
-        },
-        {
-            "key": "EP07_S3105_0044",
-            "value": "そして、私の姉の名は……\n水無瀬<space=-2.25em><voffset=1em><size=50%><mspace=1em>ミナセ</mspace></size></voffset><space=0.75em>ミユキというんだ"
-        },
-        {
-            "key": "EP07_S3105_0045",
-            "value": "ミナセ……ミユキ？"
-        },
-        {
-            "key": "EP07_S3105_0046",
-            "value": "そうだ……ああ、そうだ"
-        },
-        {
-            "key": "EP07_S3105_0047",
-            "value": "タクマくんのおかげで\nまた私は思い出し始めている"
-        },
-        {
-            "key": "EP07_S3105_0048",
-            "value": "ミユキくんが歌っていた、あの歌\n私が鼻歌として記憶から零したあの歌"
-        },
-        {
-            "key": "EP07_S3105_0049",
-            "value": "あれは水無瀬家に伝わる祭事の歌だ\nつまりミユキくんは……"
-        },
-        {
-            "key": "EP07_S3105_0050",
-            "value": "ケモノガミの神社に仕える、巫女……？"
-        },
-        {
-            "key": "EP07_S3105_0051",
-            "value": "お姉ちゃんはそんなに特別な存在じゃない"
-        },
-        {
-            "key": "EP07_S3105_0052",
-            "value": "ハル！？\nどうしたんだ、ボロボロじゃないか！"
-        },
-        {
-            "key": "EP07_S3105_0053",
-            "value": "ぼくのことなんかどうだっていい\nお姉ちゃんの話だ"
-        },
-        {
-            "key": "EP07_S3105_0054",
-            "value": "お姉ちゃんは、ただの孤独におびえる女の子だ\n強くも、特別でもない"
-        },
-        {
-            "key": "EP07_S3105_0055",
-            "value": "だからぼくはお姉ちゃんを……ミユキを支えるために\nずっと一緒にいるって約束したんだ"
-        },
-        {
-            "key": "EP07_S3105_0056",
-            "value": "それなのに、ミユキはずっと\nあの歌を歌っていた"
-        },
-        {
-            "key": "EP07_S3105_0057",
-            "value": "祭事の歌……"
-        },
-        {
-            "key": "EP07_S3105_0058",
-            "value": "あの歌は、分かたれた二つの世界が\n再び一つになることを謳っている"
-        },
-        {
-            "key": "EP07_S3105_0059",
-            "value": "もしかすると、彼女の思いが再び\nお前をこの世界に呼んだのかもしれない……"
-        },
-        {
-            "key": "EP07_S3105_0060",
-            "value": "私が……ミユキくんに呼ばれた？"
-        },
-        {
-            "key": "EP07_S3105_0061",
-            "value": "ハルは一体、何を知っているんだ？"
-        },
-        {
-            "key": "EP07_S3105_0062",
-            "value": "……教えてやらない\n知りたければそこの老いぼれに聞けばいい"
-        },
-        {
-            "key": "EP07_S3105_0063",
-            "value": "でも！　これだけは言っておく！"
-        },
-        {
-            "key": "EP07_S3105_0064",
-            "value": "ぼくは今更現れたお前のことなんか\n絶対に認めない！"
-        },
-        {
-            "key": "EP07_S3105_0065",
-            "value": "ミユキを救うのは、ぼくだ！"
-        },
-        {
-            "key": "EP07_S3105_0066",
-            "value": "あっ！？\n待ってくれ、ハル！"
-        },
-        {
-            "key": "EP07_S3105_0067",
-            "value": "再び……呼ばれた？\n私は、私は……ぐっ！"
-        },
-        {
-            "key": "EP07_S3105_0068",
-            "value": "教授！？\nしっかりしてください！"
-        },
-        {
-            "key": "EP07_S3105_0069",
-            "value": "だ、大丈夫だ\nああ……本当に？"
-        },
-        {
-            "key": "EP07_S3105_0070",
-            "value": "本当にミユキくんは私の……？\n私は？　何故私は忘れている……！？"
-        },
-        {
-            "key": "EP07_S3105_0071",
-            "value": "また顔が真っ青になってる\n隅の方で少し座りましょう"
-        },
-        {
-            "key": "EP07_S3105_0072",
-            "value": "す、すまない"
-        },
-        {
-            "key": "EP07_S3105_0073",
-            "value": "……もう少しだ\nもう少しで全てが繋がりそうなんだ"
-        },
-        {
-            "key": "EP07_S3105_0074",
-            "value": "もしこの絡まり切った頭の中身が\nまっすぐ一つに繋がったなら……"
-        },
-        {
-            "key": "EP07_S3105_0075",
-            "value": "その時はきっと、元の世界へ帰る手掛かりが……\nだが、何故だ？"
-        },
-        {
-            "key": "EP07_S3105_0076",
-            "value": "思い出してはいけないことなのか？\nそれに、蘇る記憶と共に沸き上がるこの感情……"
-        },
-        {
-            "key": "EP07_S3105_0077",
-            "value": "これは……恐怖か？\n私は何を恐れている……！？"
-        },
-        {
-            "key": "EP07_S3105_0078",
-            "value": "落ち着いて\n今は休んでください"
-        },
-        {
-            "key": "EP07_S3105_0079",
-            "value": "あ、ああ……\n暫くここで休ませてもらうよ"
-        },
-        {
-            "key": "EP07_S3105_0080",
-            "value": "教授、もうすぐケッセンなんだ"
-        },
-        {
-            "key": "EP07_S3105_0081",
-            "value": "元気を出さないと、勝てなくなっちゃう\nだからムリしちゃダメだよ"
-        },
-        {
-            "key": "EP07_S3105_0082",
-            "value": "そうだな……ありがとう、アグモン\n今は、頭も体も休めなくては……"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP07_S3105_0001",
+			"value":"Have you found anything, Takuma?"
+		},
+		{
+			"key":"EP07_S3105_0002",
+			"value":"No, nothing."
+		},
+		{
+			"key":"EP07_S3105_0003",
+			"value":"Oh? Well, I’ll say it again: We have to be\nvery careful."
+		},
+		{
+			"key":"EP07_S3105_0004",
+			"value":"If we get hurt or are defeated, there’ll be\nno one to help Miyuki."
+		},
+		{
+			"key":"EP07_S3105_0005",
+			"value":"About that... Why was she targeted?"
+		},
+		{
+			"key":"EP07_S3105_0006",
+			"value":"And why are they calling her the “maiden”?"
+		},
+		{
+			"key":"EP07_S3105_0007",
+			"value":"They seem to see Miyuki as special somehow."
+		},
+		{
+			"key":"EP07_S3105_0008",
+			"value":"“Maiden”...? That’s not a word you’d hear all\nthat often back in our world."
+		},
+		{
+			"key":"EP07_S3105_0009",
+			"value":"You’ll sometimes see shrine maidens at major\nshrines, selling amulets..."
+		},
+		{
+			"key":"EP07_S3105_0010",
+			"value":"Yes, but that was not the original role of\na maiden."
+		},
+		{
+			"key":"EP07_S3105_0011",
+			"value":"Maidens were said to be in service to the\ngods, appeasing them with music."
+		},
+		{
+			"key":"EP07_S3105_0012",
+			"value":"And maidens could hear the gods. The gods\nwould possess them...to speak to the world."
+		},
+		{
+			"key":"EP07_S3105_0013",
+			"value":"(The gods... And if this world has gods?)"
+		},
+		{
+			"key":"EP07_S3105_0014",
+			"value":"(Could Miyuki be a bridge between those gods\nand the creatures here?)"
+		},
+		{
+			"key":"EP07_S3105_0015",
+			"value":"(Are the enemies expecting her to intercede\non their behalf?)"
+		},
+		{
+			"key":"EP07_S3105_0016",
+			"value":"(And why would they need her to do that?)"
+		},
+		{
+			"key":"EP07_S3105_0017",
+			"value":"(So they want her to sing for them?\nTo hear the words of the gods?)"
+		},
+		{
+			"key":"EP07_S3105_Q1",
+			"value":"(Was Miyuki abducted to...)"
+		},
+		{
+			"key":"EP07_S3105_Q1_A1",
+			"value":"Serve the gods?"
+		},
+		{
+			"key":"EP07_S3105_Q1_A2",
+			"value":"Sing to the gods?"
+		},
+		{
+			"key":"EP07_S3105_Q1_A3",
+			"value":"Hear the gods?"
+		},
+		{
+			"key":"EP07_S3105_0018",
+			"value":"Serve the gods?"
+		},
+		{
+			"key":"EP07_S3105_0019",
+			"value":"Was Miyuki abducted to serve the gods?"
+		},
+		{
+			"key":"EP07_S3105_0020",
+			"value":"Hmm... You might be right."
+		},
+		{
+			"key":"EP07_S3105_0021",
+			"value":"But why her?"
+		},
+		{
+			"key":"EP07_S3105_0022",
+			"value":"If it was a question of devotion, then Aoi\nmight have been a better choice..."
+		},
+		{
+			"key":"EP07_S3105_0023",
+			"value":"Are there qualifications to be a maiden?"
+		},
+		{
+			"key":"EP07_S3105_0024",
+			"value":"In ancient times, maidens were only from\ncertain families."
+		},
+		{
+			"key":"EP07_S3105_0025",
+			"value":"Hang on... \nFrom certain families..."
+		},
+		{
+			"key":"EP07_S3105_0026",
+			"value":"And the gods? Kemonogami!"
+		},
+		{
+			"key":"EP07_S3105_0027",
+			"value":"Hmm... That might be it!"
+		},
+		{
+			"key":"EP07_S3105_0028",
+			"value":"Sing to the gods?"
+		},
+		{
+			"key":"EP07_S3105_0029",
+			"value":"Was Miyuki abducted to offer a song to the\ngods?"
+		},
+		{
+			"key":"EP07_S3105_0030",
+			"value":"What?"
+		},
+		{
+			"key":"EP07_S3105_0031",
+			"value":"Miyuki sings every now and then, right?\nYou were humming one of her songs."
+		},
+		{
+			"key":"EP07_S3105_0032",
+			"value":"Hmm... That might be it!"
+		},
+		{
+			"key":"EP07_S3105_0033",
+			"value":"Hear the gods?"
+		},
+		{
+			"key":"EP07_S3105_0034",
+			"value":"Was Miyuki abducted to hear the voice of the\ngods?"
+		},
+		{
+			"key":"EP07_S3105_0035",
+			"value":"What?"
+		},
+		{
+			"key":"EP07_S3105_0036",
+			"value":"What? Well maybe Miyuki has some special\nmaiden-like abilities."
+		},
+		{
+			"key":"EP07_S3105_0037",
+			"value":"To hear the voice of the gods?\nAnd if the enemy knew that about her?"
+		},
+		{
+			"key":"EP07_S3105_0038",
+			"value":"Maybe I’m just imagining things."
+		},
+		{
+			"key":"EP07_S3105_0039",
+			"value":"No, that... That might be it!"
+		},
+		{
+			"key":"EP07_S3105_0040",
+			"value":"Listen here, Takuma."
+		},
+		{
+			"key":"EP07_S3105_0041",
+			"value":"Back home, I was investigating the Kemonogami\nfaith."
+		},
+		{
+			"key":"EP07_S3105_0042",
+			"value":"At the time, there was something about\na bloodline that served the Kemonogami."
+		},
+		{
+			"key":"EP07_S3105_0043",
+			"value":"A family who served the Kemonogami.\nAnd that family’s name was Minase."
+		},
+		{
+			"key":"EP07_S3105_0044",
+			"value":"And my sister’s name is Miyuki Minase. "
+		},
+		{
+			"key":"EP07_S3105_0045",
+			"value":"Miyuki Minase?"
+		},
+		{
+			"key":"EP07_S3105_0046",
+			"value":"Yes... Oh, yes."
+		},
+		{
+			"key":"EP07_S3105_0047",
+			"value":"You’ve helped me start to remember."
+		},
+		{
+			"key":"EP07_S3105_0048",
+			"value":"That song Miyuki was singing, the one I was\nhumming but had forgotten about?"
+		},
+		{
+			"key":"EP07_S3105_0049",
+			"value":"That was a traditional sacred song for the\nMinase family. Miyuki was..."
+		},
+		{
+			"key":"EP07_S3105_0050",
+			"value":"...a maiden in service to the Kemonogami Shrine?"
+		},
+		{
+			"key":"EP07_S3105_0051",
+			"value":"She wasn’t that special."
+		},
+		{
+			"key":"EP07_S3105_0052",
+			"value":"Haru?! What happened? You’re a mess!"
+		},
+		{
+			"key":"EP07_S3105_0053",
+			"value":"That’s not important right now.\nI need to talk about Miyuki."
+		},
+		{
+			"key":"EP07_S3105_0054",
+			"value":"She was just a girl, afraid of being lonely.\nShe was neither powerful nor special."
+		},
+		{
+			"key":"EP07_S3105_0055",
+			"value":"That was why I promised to help her and to\nalways be at her side."
+		},
+		{
+			"key":"EP07_S3105_0056",
+			"value":"And yet she always sang that song."
+		},
+		{
+			"key":"EP07_S3105_0057",
+			"value":"That sacred song..."
+		},
+		{
+			"key":"EP07_S3105_0058",
+			"value":"That song tells of how two separate worlds\nbecome united once again."
+		},
+		{
+			"key":"EP07_S3105_0059",
+			"value":"It might be that her thoughts beckoned you to\nthis world once more..."
+		},
+		{
+			"key":"EP07_S3105_0060",
+			"value":"It might be that her thoughts beckoned you to\nthis world once more..."
+		},
+		{
+			"key":"EP07_S3105_0061",
+			"value":"What the heck do you know, Haru?"
+		},
+		{
+			"key":"EP07_S3105_0062",
+			"value":"I can’t tell you.\nYou’d need to ask that old fool there."
+		},
+		{
+			"key":"EP07_S3105_0063",
+			"value":"But I will say this!"
+		},
+		{
+			"key":"EP07_S3105_0064",
+			"value":"I refuse to accept your reappearance at this\nmoment!"
+		},
+		{
+			"key":"EP07_S3105_0065",
+			"value":"I, and no one else, will rescue Miyuki!"
+		},
+		{
+			"key":"EP07_S3105_0066",
+			"value":"Ah?! Wait! Haru?"
+		},
+		{
+			"key":"EP07_S3105_0067",
+			"value":"Was I...summoned? Summoned again?\nI...argh!"
+		},
+		{
+			"key":"EP07_S3105_0068",
+			"value":"Pull yourself together, Professor!"
+		},
+		{
+			"key":"EP07_S3105_0069",
+			"value":"It’s fine. I’m fine...\nIs it true?"
+		},
+		{
+			"key":"EP07_S3105_0070",
+			"value":"Is Miyuki really my...\nWhy have I forgotten this?!"
+		},
+		{
+			"key":"EP07_S3105_0071",
+			"value":"You’re very pale again, sir.\nLet’s sit down for a bit over there."
+		},
+		{
+			"key":"EP07_S3105_0072",
+			"value":"I’m sorry."
+		},
+		{
+			"key":"EP07_S3105_0073",
+			"value":"Just a little more...\nand it will all come together."
+		},
+		{
+			"key":"EP07_S3105_0074",
+			"value":"When all the broken fragments in my brain can\nreunite into a single thought..."
+		},
+		{
+			"key":"EP07_S3105_0075",
+			"value":"I will at last have an idea how to get us\nhome... But why?"
+		},
+		{
+			"key":"EP07_S3105_0076",
+			"value":"Is it something I have to remember? Is this\nfeeling a part of my returning memories?"
+		},
+		{
+			"key":"EP07_S3105_0077",
+			"value":"Or is it...fear? What am I so afraid of?      "
+		},
+		{
+			"key":"EP07_S3105_0078",
+			"value":"Calm down, Professor. Just rest for now."
+		},
+		{
+			"key":"EP07_S3105_0079",
+			"value":"Yes, you’re right.\nLet me rest here for a bit."
+		},
+		{
+			"key":"EP07_S3105_0080",
+			"value":"Professor, the final battle is nearly upon\nus."
+		},
+		{
+			"key":"EP07_S3105_0081",
+			"value":"Without you, we can’t win.\nYou have to take care of yourself!"
+		},
+		{
+			"key":"EP07_S3105_0082",
+			"value":"You’re right. Thank you, Agumon.\nBoth my mind and body need a rest..."
+		}
+	]
 }

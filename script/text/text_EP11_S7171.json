@@ -2,147 +2,147 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7171_0001",
-			"value":"はあ……そんなに強い敵じゃなくてよかった……"
+			"value":"Phew... I’m glad it wasn’t anything too\ntough."
 		},
 		{
 			"key":"EP11_S7171_0002",
-			"value":"ミウ、大丈夫？\nケガはしてない？"
+			"value":"Miu, are you okay? You’re not hurt, are you?"
 		},
 		{
 			"key":"EP11_S7171_0003",
-			"value":"う、うん……それは大丈夫だけど……"
+			"value":"No, I’m not hurt, but..."
 		},
 		{
 			"key":"EP11_S7171_0004",
-			"value":"（ミウ、ちょっと震えてるな……\n　急に敵が現れたから、ビックリしたんだろうな）"
+			"value":"(Miu’s actually shaking. Getting ambushed\nlike that must’ve really scared her.)"
 		},
 		{
 			"key":"EP11_S7171_0005",
-			"value":"（この先は霧だらけで、アオイさんを捜せそうにないし\n　どこに敵がいるかもわからないし）"
+			"value":"(All this fog ahead means there’s no looking\nfor Aoi, and enemies could be anywhere.)"
 		},
 		{
 			"key":"EP11_S7171_0006",
-			"value":"（ミウには、一旦校舎まで\n　戻ってもらったほうがいいかもしれないな）"
+			"value":"(It might be best for Miu to head back to the\nschool for now.)"
 		},
 		{
 			"key":"EP11_S7171_0007",
-			"value":"（でも、ミウが大人しく聞いてくれるかどうか……\n　危険だからって言ったら意地になりそうだよな）"
+			"value":"(But if I say that, she might not listen, and\ndig in her heels if I say it’s dangerous.)"
 		},
 		{
 			"key":"EP11_S7171_0008",
-			"value":"（アオイさんと入れ違いになってるかもしれないから\n　来た道をもう一度捜して欲しいってお願いするか）"
+			"value":"(Maybe if I suggest that we might’ve missed\nAoi, I can ask her to search the way back.)"
 		},
 		{
 			"key":"EP11_S7171_Q1",
-			"value":"（どうやってミウを説得しよう？）"
+			"value":"(How can I convince Miu?)"
 		},
 		{
 			"key":"EP11_S7171_Q1_A1",
-			"value":"危険だから校舎に戻って、と言おう"
+			"value":"Say it’s dangerous."
 		},
 		{
 			"key":"EP11_S7171_Q1_A2",
-			"value":"戻りながら捜すようお願いしよう"
+			"value":"Suggest we missed Aoi."
 		},
 		{
 			"key":"EP11_S7171_0009",
-			"value":"危険だから校舎に戻ってと言う"
+			"value":"Say it’s dangerous."
 		},
 		{
 			"key":"EP11_S7171_0010",
-			"value":"この先には、とても進めそうにないし\nどこから敵が襲ってくるかもわからない……"
+			"value":"Well, I don’t see how we can go any farther\nthan this, and enemies could be anywhere."
 		},
 		{
 			"key":"EP11_S7171_0011",
-			"value":"これ以上は危ないから、ミウは\nシャコモンと一緒に校舎に戻ったほうがいいよ"
+			"value":"Considering the danger, I think you and\nSyakomon should head back to the school, Miu."
 		},
 		{
 			"key":"EP11_S7171_0012",
-			"value":"それ……ウチが足手まといってこと？"
+			"value":"Are...are you saying we’d only slow you down?"
 		},
 		{
 			"key":"EP11_S7171_0013",
-			"value":"そうじゃないけど……\n今だって、ちょっと震えてるだろ？"
+			"value":"No, no, nothing like that. Besides, look at\nyou. You’re still shaking."
 		},
 		{
 			"key":"EP11_S7171_0014",
-			"value":"こ、これはただ、ビックリしただけだから……！"
+			"value":"Th-that’s just because I got startled!"
 		},
 		{
 			"key":"EP11_S7171_0015",
-			"value":"ミウ、ここはタクマの言うことを聞きましょ？"
+			"value":"Miu, I think we should listen to Takuma right\nnow."
 		},
 		{
 			"key":"EP11_S7171_0016",
-			"value":"さっきの敵は、そう強くなかったから\n問題なかったけど、もし強敵が現れたら……"
+			"value":"Things worked out because that enemy was\nweak, but what if the next one’s stronger?"
 		},
 		{
 			"key":"EP11_S7171_0017",
-			"value":"っ……わ、わかった……\nウチ、シャコモンと一緒に校舎に戻る"
+			"value":"Oh, all right. I’ll go back to the school\nwith Syakomon."
 		},
 		{
 			"key":"EP11_S7171_0018",
-			"value":"来た道を戻りながら探すようお願いする"
+			"value":"Suggest we missed Aoi."
 		},
 		{
 			"key":"EP11_S7171_0019",
-			"value":"この先へ進めそうにないし\nアオイさんと入れ違いになっててもイヤだから……"
+			"value":"Looks like we can’t go any farther, and I’d\nhate to think we missed Aoi on the way here."
 		},
 		{
 			"key":"EP11_S7171_0020",
-			"value":"ミウは、来た道を戻りながら\nもう一度アオイさんを捜してみてくれないかな？"
+			"value":"Miu, do you think you could retrace your\nsteps and see if you find any sign of her?"
 		},
 		{
 			"key":"EP11_S7171_0021",
-			"value":"っ……ウチに、お願い……？"
+			"value":"You...you want my help?"
 		},
 		{
 			"key":"EP11_S7171_0022",
-			"value":"うん。シャコモンと２人でさ……頼めるかな？"
+			"value":"Right. Do you think you and Syakomon can do\nthat for me?"
 		},
 		{
 			"key":"EP11_S7171_0023",
-			"value":"そ、そんぐらい、全然平気だし！\nウチに任せといて！"
+			"value":"Sure thing! Leave it to me, it’ll be a piece\nof cake!"
 		},
 		{
 			"key":"EP11_S7171_0024",
-			"value":"よかった……！\nそれじゃあ、頼んだよ！"
+			"value":"That’d be a big help. I’m counting on you,\nokay?"
 		},
 		{
 			"key":"EP11_S7171_0025",
-			"value":"うん！　じゃあ行ってくる！"
+			"value":"No problem! I’ll get started right away!"
 		},
 		{
 			"key":"EP11_S7171_0026",
-			"value":"ふふ……タクマ、なかなかやるわね～"
+			"value":"Heheh... Nicely done, Takuma. I’m impressed."
 		},
 		{
 			"key":"EP11_S7171_0027",
-			"value":"危ないから戻れって言われるより\nああ言ったほうが、ミウは喜ぶものね"
+			"value":"Miu will be much happier this way than if you\ntold her to go back because of the danger."
 		},
 		{
 			"key":"EP11_S7171_0028",
-			"value":"はは……シャコモンには、バレてたか"
+			"value":"Haha, you’re on to me, huh, Syakomon?"
 		},
 		{
 			"key":"EP11_S7171_0029",
-			"value":"も～、シャコモンってば何してるの！？\n早く行くよ！"
+			"value":"Syakomon! What’s taking you so long? If you\ndon’t hurry, I’ll leave without you!"
 		},
 		{
 			"key":"EP11_S7171_0030",
-			"value":"はいはい、今行くわよ～"
+			"value":"All right Miu, I’ll be right there!"
 		},
 		{
 			"key":"EP11_S7171_0031",
-			"value":"よし……これでひとまず\nミウのことは安心だな"
+			"value":"Okay, good. Now at least I won’t have to\nworry about Miu."
 		},
 		{
 			"key":"EP11_S7171_0032",
-			"value":"僕らも、捜索を続けようか"
+			"value":"Let’s keep looking around."
 		},
 		{
 			"key":"EP11_S7171_0033",
-			"value":"おおー！"
+			"value":"Yeah!"
 		}
 	]
 }

@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1161_0001",
-			"value":"ラブラモン、どう？\n何か手掛かりとか見つかった？"
+			"value":"How’s it going, Labramon? You find any clues?"
 		},
 		{
 			"key":"EP02_S1161_0002",
-			"value":"うーん……まだ見つからないわ"
+			"value":"No, I’m afraid not."
 		},
 		{
 			"key":"EP02_S1161_0003",
-			"value":"匂いとかで追えないかな？\n警察犬みたいに"
+			"value":"Can’t you track them by their scent, like\na police dog?"
 		},
 		{
 			"key":"EP02_S1161_0004",
-			"value":"ケイサツケンっていうのは知らないけど\n知らないニンゲンの匂いなんてわからないわよ"
+			"value":"I’m not sure what a “please dog” is, but I\ncan’t track humans whose scent I don’t know."
 		},
 		{
 			"key":"EP02_S1161_0005",
-			"value":"あ、それもそうか"
+			"value":"Oh yeah. That makes sense."
 		},
 		{
 			"key":"EP02_S1161_0006",
-			"value":"でも、匂いがわかれば捜せるのね？\nやっぱり頼りになるわ、ラブラモン"
+			"value":"But if you knew their scents you could track\nthem, right? You’re so dependable, Labramon."
 		},
 		{
 			"key":"EP02_S1161_0007",
-			"value":"ふふ～ん！　当然よ、私は頼りになるんだから！"
+			"value":"Mm-hmm! You know you can count on me!"
 		},
 		{
 			"key":"EP02_S1161_0008",
-			"value":"よ～しよ～し"
+			"value":"That’s a good girl!"
 		},
 		{
 			"key":"EP02_S1161_0009",
-			"value":"（完全に犬扱いだけど、それでいいのか……？）"
+			"value":"(Aoi’s just treating Labramon like a dog now.\nIs...is that okay?)"
 		},
 		{
 			"key":"EP02_S1161_0010",
-			"value":"少なくともこの辺りには何もないわ\n他を捜した方がいいかも！"
+			"value":"Anyway, there’s nothing around here. We\nshould try somewhere else!"
 		}
 	]
 }

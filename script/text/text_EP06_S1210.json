@@ -2,231 +2,231 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1210_0001",
-			"value":"そ、そうか……\nはは、なんだか照れくさいな"
+			"value":"Is that s-so...\nHaha, kinda awkward, no?"
 		},
 		{
 			"key":"EP06_S1210_0002",
-			"value":"えへへ……"
+			"value":"Hehe..."
 		},
 		{
 			"key":"EP06_S1210_0003",
-			"value":"どうしたの、二人とも？"
+			"value":"What’s with you two?"
 		},
 		{
 			"key":"EP06_S1210_0004",
-			"value":"あぁ、タクマにアグモン\nいやぁ、ロップモンと話していたんだが……"
+			"value":"Ah, Takuma! And Agumon!\nLopmon and I were just chatting."
 		},
 		{
 			"key":"EP06_S1210_0005",
-			"value":"あのね、シュウジってね、何だかボクに似てるんだ"
+			"value":"You know, I think Shuuji and me are both\nreally alike in some ways."
 		},
 		{
 			"key":"EP06_S1210_0006",
-			"value":"似てる……って、どういうこと？"
+			"value":"Really? Like how?"
 		},
 		{
 			"key":"EP06_S1210_0007",
-			"value":"ボクが空を見上げてキレイって思ってたら、\nシュウジも『空がきれいだね』って話しかけてくるし"
+			"value":"Well, when I find myself admiring the sky,\nhe’ll walk up to me and say how pretty it is."
 		},
 		{
 			"key":"EP06_S1210_0008",
-			"value":"ボクが転んで泥だらけになっちゃったとき、\nシュウジも同じところで転んじゃう……"
+			"value":"Or when I slip and fall somewhere and get all\nmuddy, it’ll happen to him in the same spot."
 		},
 		{
 			"key":"EP06_S1210_0009",
-			"value":"ははは、なんだか面白いぞ！"
+			"value":"Ahaha, wow, that’s really funny!"
 		},
 		{
 			"key":"EP06_S1210_0010",
-			"value":"うぅ、まぁ確かに、そういうこともあったな……"
+			"value":"Those types of things have indeed happened\non multiple occasions..."
 		},
 		{
 			"key":"EP06_S1210_0011",
-			"value":"それでね、シュウジって優しくて一生懸命なんだけど\nどこか、うまくいかないところもあって"
+			"value":"He’s also so nice and works hard. But he’s\nnot perfect. He has stuff he’s bad at, too."
 		},
 		{
 			"key":"EP06_S1210_0012",
-			"value":"そんなの見せたくないから隠そうとして結局ダメで\n……なんか、変なところまで似てるんだよね"
+			"value":"He tries to hide it, but it only blows up in\nhis face. I could go on and on."
 		},
 		{
 			"key":"EP06_S1210_0013",
-			"value":"なるほど……"
+			"value":"Wow, that’s really interesting you two are\nsomehow so similar."
 		},
 		{
 			"key":"EP06_S1210_0014",
-			"value":"……ねえ、タクマ\n正直、ボクたちのことどう思ってる？"
+			"value":"Can I ask you something, Takuma? How do you\nreally feel about us?"
 		},
 		{
 			"key":"EP06_S1210_0015",
-			"value":"どういうこと？"
+			"value":"What do you mean how I feel? In what sense?"
 		},
 		{
 			"key":"EP06_S1210_0016",
-			"value":"ボクたちはニンゲンにとって\nどんな存在なのかなって……"
+			"value":"I just wonder what humans think of us."
 		},
 		{
 			"key":"EP06_S1210_0017",
-			"value":"僕も気になるな\n君がアグモンやロップモンをどう見ているのか"
+			"value":"I’m curious as well.\nWhat do you think of Agumon and Lopmon?"
 		},
 		{
 			"key":"EP06_S1210_0018",
-			"value":"僕がアグモンたちをどう見ているか……"
+			"value":"What do I think? Um..."
 		},
 		{
 			"key":"EP06_S1210_0019",
-			"value":"（僕にとってアグモンは\n　ともに戦ってくれる大事な仲間だ）"
+			"value":"(Agumon’s a trusted ally that fights at\nmy side.)"
 		},
 		{
 			"key":"EP06_S1210_0020",
-			"value":"（ううん、それだけじゃない。言葉にするのは\n　難しいけど、やっぱり僕らはどこか似ていて……）"
+			"value":"(No, it’s more than that. It’s hard to\ndescribe... Like we’re similar somehow.)"
 		},
 		{
 			"key":"EP06_S1210_0021",
-			"value":"（でも最近は、そういうところを\n　怖いと思ったりもするんだよな……）"
+			"value":"(But lately I’ve been finding it kind of\nfrightening...)"
 		},
 		{
 			"key":"EP06_S1210_Q1",
-			"value":"（僕にとってアグモンたちは……）"
+			"value":"(For me, they are...)"
 		},
 		{
 			"key":"EP06_S1210_Q1_A1",
-			"value":"ともに戦う仲間だ"
+			"value":"Allies in battle."
 		},
 		{
 			"key":"EP06_S1210_Q1_A2",
-			"value":"良くも悪くも似た者同士だ"
+			"value":"Like us in all ways."
 		},
 		{
 			"key":"EP06_S1210_Q1_A3",
-			"value":"少し怖いかもしれない"
+			"value":"Kinda scary, maybe."
 		},
 		{
 			"key":"EP06_S1210_0023",
-			"value":"僕は、ともに戦う仲間だと思ってる"
+			"value":"I personally think of you guys as friends and\ncomrades we fight alongside."
 		},
 		{
 			"key":"EP06_S1210_0024",
-			"value":"それは、今、この状況をってこと？"
+			"value":"Are you saying that because of your current\nsituation?"
 		},
 		{
 			"key":"EP06_S1210_0025",
-			"value":"それは当然\nでも、それだけじゃないって感じ始めてる"
+			"value":"That’s part of it, but I’ve started to think\nthere’s more to it than that."
 		},
 		{
 			"key":"EP06_S1210_0026",
-			"value":"ん？　それは、どういうことだい？"
+			"value":"Oh? How so?"
 		},
 		{
 			"key":"EP06_S1210_0027",
-			"value":"さっき、ロップモンは欠点すら\nシュウジさんとよく似ているって言いましたよね？"
+			"value":"Lopmon said that you’re alike even in terms\nof the bad parts, too, right?"
 		},
 		{
 			"key":"EP06_S1210_0028",
-			"value":"……僕も、正直そう思うところがある"
+			"value":"I’ve realized that there are some parts of me\nthat are like that."
 		},
 		{
 			"key":"EP06_S1210_0029",
-			"value":"……そうなの？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP06_S1210_0030",
-			"value":"ああ、僕にもよくないところがある\nそれに気づかせてくれたのは、アグモンなんだ"
+			"value":"Yeah, even me. And it’s because of Agumon\nhere that I’ve been able to recognize that."
 		},
 		{
 			"key":"EP06_S1210_0031",
-			"value":"だから、一緒にいることで\nお互いを高め合えるようになれたら……"
+			"value":"That’s why I hope that by sticking together,\nwe can both lift each other up, I guess."
 		},
 		{
 			"key":"EP06_S1210_0032",
-			"value":"……なんて、口にしたらちょっと照れくさいな"
+			"value":"That sounds so cheesy to say out loud,\nthough."
 		},
 		{
 			"key":"EP06_S1210_0033",
-			"value":"タクマ……！"
+			"value":"Aww, Takuma!"
 		},
 		{
 			"key":"EP06_S1210_0034",
-			"value":"ああ、その気持ちはよくわかるな"
+			"value":"I totally understand what you mean, though."
 		},
 		{
 			"key":"EP06_S1210_0036",
-			"value":"うーん、良くも悪くも似た者同士だよね"
+			"value":"I think you guys are a lot like us, for both\nbetter and for worse."
 		},
 		{
 			"key":"EP06_S1210_0037",
-			"value":"やっぱりタクマもそう思う？"
+			"value":"You think so too, Takuma?"
 		},
 		{
 			"key":"EP06_S1210_0038",
-			"value":"考えれば考えるほど、\nそれしか言いようがない気がする"
+			"value":"Yeah. The more I think about it, the more it\nfeels like that’s the only honest answer."
 		},
 		{
 			"key":"EP06_S1210_0039",
-			"value":"タクマー、なんだよそれー"
+			"value":"Huh? What’s that supposed to mean?"
 		},
 		{
 			"key":"EP06_S1210_0040",
-			"value":"あはは、あんまり深く考えないほうが\nいいかもしれないってことだよ"
+			"value":"Ahaha, it might be best for you to not think\nabout it too much if you can help it."
 		},
 		{
 			"key":"EP06_S1210_0041",
-			"value":"なんだかヘンだぞ！"
+			"value":"I don’t get it! Now you’re just saying weird\nstuff!"
 		},
 		{
 			"key":"EP06_S1210_0042",
-			"value":"なるほど、深く考えない方がいい、か……"
+			"value":"Maybe we should all try not to think too\nmuch about it..."
 		},
 		{
 			"key":"EP06_S1210_0043",
-			"value":"確かに、誰かとの関係というのは\nそれくらいで良いのかもしれないな"
+			"value":"When it comes to relationships, thinking\ndoesn’t change much, anyway."
 		},
 		{
 			"key":"EP06_S1210_0044",
-			"value":"考えない方がいいの……？"
+			"value":"So it’s best not to think about it at all?"
 		},
 		{
 			"key":"EP06_S1210_0045",
-			"value":"難しく考えようが簡単に考えようが\n僕とロップモンは支え合えている、だろ？"
+			"value":"No matter what you think about our bond, we\nwill continue supporting each other, no?"
 		},
 		{
 			"key":"EP06_S1210_0046",
-			"value":"うん！　そうだね！"
+			"value":"Yeah! That’s right!"
 		},
 		{
 			"key":"EP06_S1210_0048",
-			"value":"……少し怖いかもしれないな"
+			"value":"Honestly, I think I might be a little scared\nof you guys."
 		},
 		{
 			"key":"EP06_S1210_0049",
-			"value":"タクマ、どうして怖い？"
+			"value":"Why are you scared of us?"
 		},
 		{
 			"key":"EP06_S1210_0050",
-			"value":"敵の中にもアグモンやロップモンの\n仲間……みたいな奴らがいるだろう？"
+			"value":"Because even among our enemies, there are\ncreatures like you and Agumon, right?"
 		},
 		{
 			"key":"EP06_S1210_0051",
-			"value":"なんでそいつらとは\n仲良くなれないのかと思って"
+			"value":"When I start to wonder why we can’t get along\nwith them, I get scared..."
 		},
 		{
 			"key":"EP06_S1210_0052",
-			"value":"同じ仲間のはずなのに仲違い……\nそれがわからないことが怖いんだ"
+			"value":"And it’s because I don’t get why that is when\nwe’re supposed to be on the same team."
 		},
 		{
 			"key":"EP06_S1210_0053",
-			"value":"タクマぁ……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP06_S1210_0054",
-			"value":"なるほど……同じと思うからこそ\n仲違いしている現状に怯える、か"
+			"value":"I get it. They’re the same, so you’re scared\nof the fact that we’re not getting along."
 		},
 		{
 			"key":"EP06_S1210_0055",
-			"value":"あるいはそれこそ、今僕らが直面している\n問題なのかもしれないな……"
+			"value":"Our maybe it’s better to say that this is the\nproblem we’re all confronting now."
 		},
 		{
 			"key":"EP06_S1210_0056",
-			"value":"人間とケモノガミ\nわかり合えないことはないと思うんだが……"
+			"value":"Human and Kemonogami... I don’t think it’s\nimpossible to understand each other, but..."
 		}
 	]
 }

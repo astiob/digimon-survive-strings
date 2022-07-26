@@ -2,103 +2,103 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0307_0001",
-			"value":"あ、タクマだ～！"
+			"value":"Oh, it’s you, Takuma!"
 		},
 		{
 			"key":"EP05_S0307_0002",
-			"value":"お～い、こっちこっち～！"
+			"value":"This way, this way!"
 		},
 		{
 			"key":"EP05_S0307_0003",
-			"value":"な、なんだこれ？　アグモンが二人！？"
+			"value":"Wait, what? There are two Agumon?!"
 		},
 		{
 			"key":"EP05_S0307_0004",
-			"value":"タクマ！　こいつは偽物だ！\n早くぶっ飛ばせ！"
+			"value":"He’s a fake, Takuma! Let’s beat ‘im up good!"
 		},
 		{
 			"key":"EP05_S0307_0005",
-			"value":"え～！？　違うよ～、ボクは偽物じゃないよ～！"
+			"value":"Whaaat?! No, I’m not a fake!"
 		},
 		{
 			"key":"EP05_S0307_0006",
-			"value":"だったら証拠を出せ！"
+			"value":"Then prove it!"
 		},
 		{
 			"key":"EP05_S0307_0007",
-			"value":"そ、そんなこと言われても……わかんないよ～"
+			"value":"P-prove it, he says... But I don’t know\nhooow..."
 		},
 		{
 			"key":"EP05_S0307_0008",
-			"value":"ほら見ろ！　タクマ、早くこの偽物をやっつけろ！"
+			"value":"See?! Come on, Takuma, let’s clean his clock!"
 		},
 		{
 			"key":"EP05_S0307_0009",
-			"value":"（う～ん、喋り方とか反応とか\n　色々とあるけど、何よりも……）"
+			"value":"(Hmm, they talk and act different, but more\nimportantly...)"
 		},
 		{
 			"key":"EP05_S0307_0010",
-			"value":"（左のアグモン、なんか黒っぽいんだよなぁ……）"
+			"value":"(The Agumon on the left seems kinda dark...)"
 		},
 		{
 			"key":"EP05_S0307_Q1",
-			"value":"（本物のアグモンはどっちだ？）"
+			"value":"(So which is the real Agumon?)"
 		},
 		{
 			"key":"EP05_S0307_Q1_A1",
-			"value":"右だ！"
+			"value":"On the right!"
 		},
 		{
 			"key":"EP05_S0307_Q1_A2",
-			"value":"左だ！"
+			"value":"On the left!"
 		},
 		{
 			"key":"EP05_S0307_0012",
-			"value":"本物のアグモンはこっちだ"
+			"value":"That’s the real Agumon."
 		},
 		{
 			"key":"EP05_S0307_0013",
-			"value":"うん！　そうだよタクマ！"
+			"value":"Yeah, you’re right, Takuma!"
 		},
 		{
 			"key":"EP05_S0307_0014",
-			"value":"ちっ……！"
+			"value":"Tch!"
 		},
 		{
 			"key":"EP05_S0307_0015",
-			"value":"こうなったら、ぶちのめしてやる！"
+			"value":"In that case, I’ll just beat you into the\ndirt!"
 		},
 		{
 			"key":"EP05_S0307_0016",
-			"value":"これがコイツの正体か！\nやるぞ、アグモン！"
+			"value":"So that’s what you really look like! Let’s do\nthis, Agumon!"
 		},
 		{
 			"key":"EP05_S0307_0017",
-			"value":"おう！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP05_S0307_0019",
-			"value":"本物のアグモンはこっちだ"
+			"value":"That’s the real Agumon."
 		},
 		{
 			"key":"EP05_S0307_0020",
-			"value":"そ、そんな～、タクマ～……"
+			"value":"Say it ain’t so, Takuma..."
 		},
 		{
 			"key":"EP05_S0307_0021",
-			"value":"ひひひ……まんまと引っかかったな？"
+			"value":"Hee hee hee... Fell for it hook, line and\nsinker, ya stinker!"
 		},
 		{
 			"key":"EP05_S0307_0022",
-			"value":"えっ！？"
+			"value":"What?!"
 		},
 		{
 			"key":"EP05_S0307_0023",
-			"value":"（なんだ！？　またあのガスが充満して……！）"
+			"value":"(What?! It’s that gas again...!)"
 		},
 		{
 			"key":"EP05_S0307_0024",
-			"value":"うっ！　うぅ……"
+			"value":"Ack! Urgh..."
 		}
 	]
 }

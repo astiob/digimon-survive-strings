@@ -1,84 +1,84 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP13_S9000_0001",
-            "value": "♪天に耀<space=-1.25em><voffset=1em><size=50%><mspace=1em>カガヨ</mspace></size></voffset><space=-0.25em>う　あまたの星よ……"
-        },
-        {
-            "key": "EP13_S9000_0002",
-            "value": "あ……"
-        },
-        {
-            "key": "EP13_S9000_0003",
-            "value": "♪いにしえよりの　温もりは消えず……"
-        },
-        {
-            "key": "EP13_S9000_0004",
-            "value": "この歌……"
-        },
-        {
-            "key": "EP13_S9000_0005",
-            "value": "♪御共<space=-1.75em><voffset=1em><size=50%><mspace=1em>ミトモ</mspace></size></voffset><space=0.25em>のあらじこのせかい……\n♪御霊<space=-1.75em><voffset=1em><size=50%><mspace=1em>ミタマ</mspace></size></voffset><space=0.25em>の声音<space=-1.75em><voffset=1em><size=50%><mspace=1em>コワネ</mspace></size></voffset><space=0.25em>　響きけり……"
-        },
-        {
-            "key": "EP13_S9000_0006",
-            "value": "あなた、誰？\n私以外にその歌を知っている人がいるなんて……"
-        },
-        {
-            "key": "EP13_S9000_0007",
-            "value": "……信じています"
-        },
-        {
-            "key": "EP13_S9000_0008",
-            "value": "愛しき弟、ハルチカは必ずや戻り\n再び我に会いに来ると……"
-        },
-        {
-            "key": "EP13_S9000_0009",
-            "value": "ハルチカ……弟を待っているの？"
-        },
-        {
-            "key": "EP13_S9000_0010",
-            "value": "……それってなんだか、私に似てる"
-        },
-        {
-            "key": "EP13_S9000_0011",
-            "value": "天地神明に誓って、お願い申し上げます"
-        },
-        {
-            "key": "EP13_S9000_0012",
-            "value": "どうか彼らの安寧をお守りくださいませ……！\nどうか……この水無瀬の名にかけて……！！"
-        },
-        {
-            "key": "EP13_S9000_0013",
-            "value": "水無瀬……まさかこの人って……"
-        },
-        {
-            "key": "EP13_S9000_0014",
-            "value": "私の……ご先祖さま……！？"
-        },
-        {
-            "key": "EP13_S9000_0015",
-            "value": "♪今再び結ばれしとき……\n♪ゆめゆめ壊るることなき絆……"
-        },
-        {
-            "key": "EP13_S9000_0016",
-            "value": "♪この身捧げ　ともに生かさらば……\n♪ひとすじの光を　どうかこの手に……"
-        },
-        {
-            "key": "EP13_S9000_0017",
-            "value": "待って、ご先祖様！\n聞きたいことが！"
-        },
-        {
-            "key": "EP13_S9000_0018",
-            "value": "私のこの力、ゲートを開く力って\nいったい何なの！？"
-        },
-        {
-            "key": "EP13_S9000_0019",
-            "value": "どうして、彼らと争わなければいけないの！？"
-        },
-        {
-            "key": "EP13_S9000_0020",
-            "value": "私たちは、どうしてこんな――！！"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP13_S9000_0001",
+			"value":"♪ Countless stars that shine so bright..."
+		},
+		{
+			"key":"EP13_S9000_0002",
+			"value":"Hm?"
+		},
+		{
+			"key":"EP13_S9000_0003",
+			"value":"♪ Sparkling with ancient heat and light..."
+		},
+		{
+			"key":"EP13_S9000_0004",
+			"value":"That song..."
+		},
+		{
+			"key":"EP13_S9000_0005",
+			"value":"♪ May this world where friends are found...\n♪ with ghostly voices now resound."
+		},
+		{
+			"key":"EP13_S9000_0006",
+			"value":"Who are you? How do you know that song?\nI thought I was the only one..."
+		},
+		{
+			"key":"EP13_S9000_0007",
+			"value":"I still believe..."
+		},
+		{
+			"key":"EP13_S9000_0008",
+			"value":"Believe that my dear brother Haruchika will\nreturn. That we shall meet again..."
+		},
+		{
+			"key":"EP13_S9000_0009",
+			"value":"So...Haruchika is your brother, and you’re\nwaiting for him to return?"
+		},
+		{
+			"key":"EP13_S9000_0010",
+			"value":"That sounds like what happened to me."
+		},
+		{
+			"key":"EP13_S9000_0011",
+			"value":"Let all the gods of heaven and earth hear my\nprayer!"
+		},
+		{
+			"key":"EP13_S9000_0012",
+			"value":"Please, keep them safe! Oh, please...in the\nMinase name, I ask this boon!"
+		},
+		{
+			"key":"EP13_S9000_0013",
+			"value":"The Minase name? Wait, does that mean..."
+		},
+		{
+			"key":"EP13_S9000_0014",
+			"value":"She’s one of my ancestors?!"
+		},
+		{
+			"key":"EP13_S9000_0015",
+			"value":"♪ Let these bonds be refashioned...\n♪ Never to break apart again..."
+		},
+		{
+			"key":"EP13_S9000_0016",
+			"value":"♪ Take my body, together we’ll be...\n♪ Let your light shine down on me..."
+		},
+		{
+			"key":"EP13_S9000_0017",
+			"value":"Wait! I need to ask you something!"
+		},
+		{
+			"key":"EP13_S9000_0018",
+			"value":"What is this power I possess? Why is it that\nI can open the gate between worlds?!"
+		},
+		{
+			"key":"EP13_S9000_0019",
+			"value":"Why must we fight against them?!"
+		},
+		{
+			"key":"EP13_S9000_0020",
+			"value":"Why is this happening?!"
+		}
+	]
 }

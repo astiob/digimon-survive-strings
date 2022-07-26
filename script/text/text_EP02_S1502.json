@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1502_0001",
-			"value":"それじゃあ、手分けして捜そうぜ！"
+			"value":"Let’s split up, then!"
 		},
 		{
 			"key":"EP02_S1502_0002",
-			"value":"は？　馬鹿言うなよ、何が出てくるか\nわからねーんだぞ？"
+			"value":"What? Don’t be stupid. We have no idea what’s\nout there, right?"
 		},
 		{
 			"key":"EP02_S1502_0003",
-			"value":"一人でいるところに出くわしたら\nそれこそ終わりじゃねーか"
+			"value":"And if the person attacked is all alone?\nThey’d be done for."
 		},
 		{
 			"key":"EP02_S1502_0004",
-			"value":"そうね……バラバラになるのは危ないわ"
+			"value":"It’s risky to split up. You’re right."
 		},
 		{
 			"key":"EP02_S1502_0005",
-			"value":"（捜すなら、確かに分かれた方がいい\n　サキたちも早く見つけてあげたいし）"
+			"value":"(It’s better to search separately.\nWe need to find them, and fast!)"
 		},
 		{
 			"key":"EP02_S1502_0006",
-			"value":"（でも一人のところを襲われるのは怖いよな\n　校舎の外だってどんなバケモノがいるかわからない）"
+			"value":"(But it’d be awful to be attacked alone.\nHow many monsters are out there?)"
 		},
 		{
 			"key":"EP02_S1502_Q1",
-			"value":"（これからどうしよう？）"
+			"value":"(What’s the best way to search?)"
 		},
 		{
 			"key":"EP02_S1502_Q1_A1",
-			"value":"危ないからみんなで行こう"
+			"value":"Stick together."
 		},
 		{
 			"key":"EP02_S1502_Q1_A2",
-			"value":"効率的に手分けしよう！"
+			"value":"Split up, it’s faster!"
 		},
 		{
 			"key":"EP02_S1502_Q1_A3",
-			"value":"二人ずつに分かれていこう"
+			"value":"Groups of two?"
 		},
 		{
 			"key":"EP02_S1502_0007",
-			"value":"確かに一人のところを襲われたら危ない\nみんなで固まっていかない？"
+			"value":"It would be real bad to be attacked while\nalone. Shouldn’t we stick together?"
 		},
 		{
 			"key":"EP02_S1502_0008",
-			"value":"おいおい、そしたらこの人数で森に入った\n意味がないぜ！"
+			"value":"But what would be the point of all us\ntromping through the forest?"
 		},
 		{
 			"key":"EP02_S1502_0009",
-			"value":"いえ、まず自分たちの身を守るのは大事よ\nミイラ取りがミイラになってはいけないわ"
+			"value":"We need to stay safe.\nThe hunters don’t need to be hunted."
 		},
 		{
 			"key":"EP02_S1502_0010",
-			"value":"サキたちを一刻も早く見つけなきゃ\n手分けして効率的にいこう"
+			"value":"We have to find them, and fast!\nLet’s split up. It’s more efficient."
 		},
 		{
 			"key":"EP02_S1502_0011",
-			"value":"それは確かにそうだけど\n私たちが襲われたらどうしましょう？"
+			"value":"That’s true, but...\nWhat if we’re attacked?"
 		},
 		{
 			"key":"EP02_S1502_0012",
-			"value":"アイツらも襲われてるかもしんねーってことじゃん！\nそれならなおさら早く捜してやんねーと！"
+			"value":"They might have been attacked!\nWe’ve got to find them!"
 		},
 		{
 			"key":"EP02_S1502_0013",
-			"value":"だったら、二人ずつに分かれて捜すのはどう？"
+			"value":"Maybe we should be in groups of two?"
 		},
 		{
 			"key":"EP02_S1502_0014",
-			"value":"それがいい！　そうしようぜ！"
+			"value":"That’s a plan! Let’s do that!"
 		},
 		{
 			"key":"EP02_S1502_0015",
-			"value":"えー？　そしたらリョウと組んだヤツが\nハズレってことじゃーん"
+			"value":"But then whoever gets Ryo will be stuck with\nthe short end of the stick!"
 		},
 		{
 			"key":"EP02_S1502_0016",
-			"value":"こ、こらミノルくん！\nそんなこと言ったらダメでしょう？"
+			"value":"Hey, Minoru!\nDon’t say that!"
 		},
 		{
 			"key":"EP02_S1502_0017",
-			"value":"この付近に同胞の気配は感じないから\n大丈夫だろう"
+			"value":"There doesn’t seem to be anything dangerous\naround here. We’ll be OK."
 		},
 		{
 			"key":"EP02_S1502_0018",
-			"value":"うん！　かすかに匂いが残ってるけど\n多分大丈夫よ！"
+			"value":"There’s a slight odor still, but we’re\nprobably fine!"
 		},
 		{
 			"key":"EP02_S1502_0019",
-			"value":"それに、何かあってもボクたちがみんなを守るよ！"
+			"value":"And no matter what, we’ll protect you!"
 		},
 		{
 			"key":"EP02_S1502_0020",
-			"value":"冗談じゃねえ、お前らと違ってこの虫は\n話もできねーんだぞ！？"
+			"value":"What a joke! Unlike you, that thing can’t\neven talk!"
 		},
 		{
 			"key":"EP02_S1502_0021",
-			"value":"森に入ろうもんなら\nすぐ住処に帰っちまうだろうよ！"
+			"value":"If we go into the forest, it might just go\nback to its nest or whatever!"
 		},
 		{
 			"key":"EP02_S1502_0022",
-			"value":"クネモンはそんなことしないよ"
+			"value":"Kunemon wouldn’t do that!"
 		},
 		{
 			"key":"EP02_S1502_0023",
-			"value":"そうだよ、きっとリョウを守ってくれるさ！"
+			"value":"Yeah, he’ll protect Ryo, for sure!"
 		},
 		{
 			"key":"EP02_S1502_0024",
-			"value":"うるせー！　とにかくオレは森の方にはいかねーぞ"
+			"value":"Shaddup! I said I’m not going in there!"
 		},
 		{
 			"key":"EP02_S1502_0025",
-			"value":"オレはこの辺を捜しといてやる\nいいか！？　何かあったらすぐ来いよ！？"
+			"value":"I’ll look around here. Okay? And if something\nhappens, hurry back!"
 		},
 		{
 			"key":"EP02_S1502_0026",
-			"value":"リョウは放っておいて、先行こうぜ"
+			"value":"Let’s just leave him."
 		},
 		{
 			"key":"EP02_S1502_0027",
-			"value":"う、うん"
+			"value":"All right..."
 		}
 	]
 }

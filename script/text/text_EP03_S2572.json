@@ -2,427 +2,427 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2572_0001",
-			"value":"リョウ！　ハル！"
+			"value":"Ryo! Haru!"
 		},
 		{
 			"key":"EP03_S2572_0002",
-			"value":"あ、いたわ！　二人とも無事よ！"
+			"value":"Here, I found them! They’re both okay!"
 		},
 		{
 			"key":"EP03_S2572_0003",
-			"value":"ハル……"
+			"value":"Haru..."
 		},
 		{
 			"key":"EP03_S2572_0004",
-			"value":"あぁー、良かったよぉー！"
+			"value":"Oh, what a relief!"
 		},
 		{
 			"key":"EP03_S2572_0005",
-			"value":"あらあら、もうサキったら\n涙で顔がぐしょぐしょよ？"
+			"value":"Saki, your face is a mess from all those\ntears."
 		},
 		{
 			"key":"EP03_S2572_0006",
-			"value":"でも、見つかって本当によかったわ！"
+			"value":"I’m so glad we found them, though!"
 		},
 		{
 			"key":"EP03_S2572_0007",
-			"value":"うむ、ならば早くここから離れよう！\n霧が出始めているぞ！"
+			"value":"Yes, and now we must make haste! The fog is\nstarting to spread."
 		},
 		{
 			"key":"EP03_S2572_0008",
-			"value":"で、でもさ……なんか、雰囲気変じゃね？"
+			"value":"Okay, but doesn’t something about these two\nseem off to you?"
 		},
 		{
 			"key":"EP03_S2572_0009",
-			"value":"リョウ君とハル……ぎすぎすしてるような？\nケンカでもしてるのか……？"
+			"value":"Things seem...strained. You think they were\nfighting?"
 		},
 		{
 			"key":"EP03_S2572_0010",
-			"value":"リョウ……元気、ない？"
+			"value":"Ryo... Are you okay?"
 		},
 		{
 			"key":"EP03_S2572_0011",
-			"value":"（俯いて動かないリョウと\n　それを冷たい目で見下ろすハル）"
+			"value":"(Ryo is staring at the ground, not moving,\nwhile Haru regards him coldly.)"
 		},
 		{
 			"key":"EP03_S2572_0012",
-			"value":"（二人の間に何があったんだ……？）"
+			"value":"(What exactly went on between these two?)"
 		},
 		{
 			"key":"EP03_S2572_0013",
-			"value":"うぅっ……みんな、マズいよ\n霧がもう、濃くなりすぎてる……！"
+			"value":"Oh no... Guys, this is not looking good. The\nfog is getting real dense!"
 		},
 		{
 			"key":"EP03_S2572_0014",
-			"value":"確かにヤバいな……リョウ、ハル！\nそこは危ない！　早くこっちに来るんだ！"
+			"value":"You’re right, this is bad. Ryo, Haru! You’re\nboth in danger! Get over here, quick!"
 		},
 		{
 			"key":"EP03_S2572_0015",
-			"value":"……ね、ねぇ。アレ、何？"
+			"value":"Um... What’s that?"
 		},
 		{
 			"key":"EP03_S2572_0016",
-			"value":"（アオイさんが指差す方、そこにあるのは\n　黒い……影？）"
+			"value":"(Looking to where Aoi is pointing, I see\na black...shadow?)"
 		},
 		{
 			"key":"EP03_S2572_0017",
-			"value":"き、気のせいか……？\n影から、しょ、触手のような物が、伸びて……"
+			"value":"Am I seeing things? It looked like some sort\nof tentacle came out of that shadow."
 		},
 		{
 			"key":"EP03_S2572_0018",
-			"value":"ちょ、待って待って\nリョウの方に行ってない！？"
+			"value":"No way... It’s heading straight for Ryo?!"
 		},
 		{
 			"key":"EP03_S2572_0019",
-			"value":"おい……おいおいヤバいヤバいヤバい！\nこれマジでヤバいヤツじゃねーの！？"
+			"value":"Oh man... Oh man, oh man, oh man! That thing\nlooks like real bad news!"
 		},
 		{
 			"key":"EP03_S2572_Q1",
-			"value":"（リョウがピンチだ！）"
+			"value":"(Ryo’s in trouble! Do we help?!)"
 		},
 		{
 			"key":"EP03_S2572_Q1_A1",
-			"value":"危険はあるけど助けよう"
+			"value":"It’s risky, but yeah."
 		},
 		{
 			"key":"EP03_S2572_Q1_A2",
-			"value":"助けるか……"
+			"value":"Can we even make it?"
 		},
 		{
 			"key":"EP03_S2572_Q1_A3",
-			"value":"当然、助ける！"
+			"value":"Of course we’ll help!"
 		},
 		{
 			"key":"EP03_S2572_0020",
-			"value":"助ける"
+			"value":"Help."
 		},
 		{
 			"key":"EP03_S2572_0021",
-			"value":"タクマ！　行っちゃダメだ！"
+			"value":"Takuma! Stop!"
 		},
 		{
 			"key":"EP03_S2572_0022",
-			"value":"リョウが危ないんだぞ！　見殺しにしろってのか！？"
+			"value":"Ryo’s in trouble! You expect me to just leave\nhim?!"
 		},
 		{
 			"key":"EP03_S2572_0023",
-			"value":"もう間に合わない！\nタクマまで飲み込まれちゃうよ！"
+			"value":"You’re not going to make it! The fog will get\nyou, too!"
 		},
 		{
 			"key":"EP03_S2572_0024",
-			"value":"助ける"
+			"value":"Help."
 		},
 		{
 			"key":"EP03_S2572_0025",
-			"value":"タクマ！　行っちゃダメだ！"
+			"value":"Takuma! Stop!"
 		},
 		{
 			"key":"EP03_S2572_0026",
-			"value":"離せよ！　何してでも助けないと！"
+			"value":"Agumon, let go of me! We have to do whatever\nit takes to save him!"
 		},
 		{
 			"key":"EP03_S2572_0027",
-			"value":"無理だよ！　ああなったら、もう……"
+			"value":"It’s too late! There’s nothing we can do!"
 		},
 		{
 			"key":"EP03_S2572_0028",
-			"value":"助ける"
+			"value":"Help."
 		},
 		{
 			"key":"EP03_S2572_0029",
-			"value":"タクマ！　行っちゃダメだ！"
+			"value":"Takuma! Stop!"
 		},
 		{
 			"key":"EP03_S2572_0030",
-			"value":"アグモン、どうにかならないのかよ！？"
+			"value":"Agumon, isn’t there anything we can do?!"
 		},
 		{
 			"key":"EP03_S2572_0031",
-			"value":"どうにも、ならないよ……\nあれは、そういうものなんだ……"
+			"value":"No...not a thing. That’s just how it works."
 		},
 		{
 			"key":"EP03_S2572_0032",
-			"value":"そんな……そんな……"
+			"value":"But... No..."
 		},
 		{
 			"key":"EP03_S2572_0033",
-			"value":"リョウが……\n影に、引きずり込まれて……"
+			"value":"That...tentacle...is pulling him into the\nshadow...  "
 		},
 		{
 			"key":"EP03_S2572_0034",
-			"value":"おーい、リョウー！　何やってんだ早く逃げろ！"
+			"value":"Ryo! What’s wrong with you?! Get out of\nthere!"
 		},
 		{
 			"key":"EP03_S2572_0035",
-			"value":"リョウ逃げてー！"
+			"value":"Ryo, you need to run!"
 		},
 		{
 			"key":"EP03_S2572_0036",
-			"value":"リョウくん、どうして……\nどうして逃げないの……？"
+			"value":"Ryo, why? Why won’t you run?  "
 		},
 		{
 			"key":"EP03_S2572_0037",
-			"value":"……え？　リョウ、何か、言ってる"
+			"value":"...Hm? I think...he’s saying something."
 		},
 		{
 			"key":"EP03_S2572_0038",
-			"value":"ママが死んでたことも忘れて……\n来るはずもない連絡を待って……"
+			"value":"I...I forgot Mommy was dead... Kept waiting\nfor a call that was never coming."
 		},
 		{
 			"key":"EP03_S2572_0039",
-			"value":"あぁ、オレなんかがいられる世界なんて……\nどこにも……"
+			"value":"There’s... There’s no place for me. Not in\nthis world, or any other..."
 		},
 		{
 			"key":"EP03_S2572_1039",
-			"value":"は……？"
+			"value":"Wha...?"
 		},
 		{
 			"key":"EP03_S2572_1040",
-			"value":"わっ……うわぁぁぁぁぁぁぁ！"
+			"value":"Waaaaaaaaah!!!"
 		},
 		{
 			"key":"EP03_S2572_0040",
-			"value":"の、飲み込まれ、た……"
+			"value":"The fog... It took him.  "
 		},
 		{
 			"key":"EP03_S2572_0041",
-			"value":"は……え……？"
+			"value":"Huh... Wha...?"
 		},
 		{
 			"key":"EP03_S2572_0042",
-			"value":"そ、そんな……"
+			"value":"That’s... That’s horrible..."
 		},
 		{
 			"key":"EP03_S2572_0043",
-			"value":"うそ……なにこれ……"
+			"value":"No way... I can’t believe this!"
 		},
 		{
 			"key":"EP03_S2572_0044",
-			"value":"あ、あぁ……あぁ……"
+			"value":"No... No..."
 		},
 		{
 			"key":"EP03_S2572_0045",
-			"value":"（……あ、クネモンだ。ハルの隣に\n　あんなところにいたのか）"
+			"value":"(Oh, there’s Kunemon. I didn’t see him there\nnext to Haru.)"
 		},
 		{
 			"key":"EP03_S2572_0046",
-			"value":"（なんだろう、クネモンが悲しそうって\n　わかる気がする）"
+			"value":"(Somehow, in a way that I don’t fully\nunderstand, I can tell that Kunemon is sad.)"
 		},
 		{
 			"key":"EP03_S2572_0047",
-			"value":"く、クネモンまで……"
+			"value":"Not Kunemon, too..."
 		},
 		{
 			"key":"EP03_S2572_0048",
-			"value":"消えて、いく……"
+			"value":"He’s...disappearing."
 		},
 		{
 			"key":"EP03_S2572_0049",
-			"value":"（あぁ、そんな……\n　クネモンが消えていく……）"
+			"value":"(It can’t be... Kunemon’s disappearing...)"
 		},
 		{
 			"key":"EP03_S2572_0050",
-			"value":"待て……待てよ\nリョウが、まだそこにいるんじゃないのか……？"
+			"value":"Wait... Hold on... Ryo has to still be there,\nright?  "
 		},
 		{
 			"key":"EP03_S2572_0051",
-			"value":"ダメ……"
+			"value":"No..."
 		},
 		{
 			"key":"EP03_S2572_0052",
-			"value":"え……ミユ、キ……？"
+			"value":"What? Miyuki?"
 		},
 		{
 			"key":"EP03_S2572_0053",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S2572_0054",
-			"value":"（何だよ、そんな、首振って……\n　諦めろとでも、言うのかよ……）"
+			"value":"(Why is she shaking her head like that?\nIs she telling me I should give up?)  "
 		},
 		{
 			"key":"EP03_S2572_0055",
-			"value":"タクマさん"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP03_S2572_0056",
-			"value":"ハル……"
+			"value":"Haru..."
 		},
 		{
 			"key":"EP03_S2572_0057",
-			"value":"リョウさんはね、自分で自分を見放しちゃったんだよ"
+			"value":"What happened to Ryo was he gave up on\nhimself..."
 		},
 		{
 			"key":"EP03_S2572_0058",
-			"value":"だから、世界に食べられちゃったんだ"
+			"value":"So this world consumed him."
 		},
 		{
 			"key":"EP03_S2572_0059",
-			"value":"（黒い影も、霧も消えて\n　そこに、リョウの姿はなかった）"
+			"value":"(Even after the fog lifted, and the shadow\nvanished, there was still no sign of Ryo.)"
 		},
 		{
 			"key":"EP03_S2572_0060",
-			"value":"（ハルの言ってることの意味は、わからない）"
+			"value":"(I’m not really sure what Haru meant by what\nhe told me.)"
 		},
 		{
 			"key":"EP03_S2572_0061",
-			"value":"（でも、一つだけわかったことがある）"
+			"value":"(But I do know one thing for certain.)"
 		},
 		{
 			"key":"EP03_S2572_0062",
-			"value":"（リョウは\n　死んだんだ）"
+			"value":"(Ryo is dead.)"
 		},
 		{
 			"key":"EP03_S2572_0500",
-			"value":"な、なぁ、気のせいか……？\nリョウのヤツ霧に向かってね……？"
+			"value":"Uh, hey, call me crazy, but...is Ryo running\nINTO the fog?"
 		},
 		{
 			"key":"EP03_S2572_0501",
-			"value":"えっ！？"
+			"value":"What?!"
 		},
 		{
 			"key":"EP03_S2572_0502",
-			"value":"あははははっ！　ママー！　ママー！\nあひひっ、きひゃひゃひゃひゃっ！"
+			"value":"Ahahahaha! Mommy! Mommy! Heeheehee! Hahaha!"
 		},
 		{
 			"key":"EP03_S2572_0503",
-			"value":"ねぇ、あれヤバくない？\nリョウ、なんか……"
+			"value":"Ryo, uh, doesn’t sound like he’s doing too\nwell..."
 		},
 		{
 			"key":"EP03_S2572_0504",
-			"value":"笑ってんのか……？"
+			"value":"Yeah, I thought I heard him laughing..."
 		},
 		{
 			"key":"EP03_S2572_0505",
-			"value":"キュゥゥゥゥゥゥッ！！！"
+			"value":"KEWWW!!!"
 		},
 		{
 			"key":"EP03_S2572_0506",
-			"value":"がはっ！"
+			"value":"Wah!"
 		},
 		{
 			"key":"EP03_S2572_0507",
-			"value":"クネモン！？"
+			"value":"Kunemon?!"
 		},
 		{
 			"key":"EP03_S2572_0508",
-			"value":"っ！　今だ、みんな！\nリョウを助けるんだ！"
+			"value":"Now’s our chance! Come on, everyone! We have\nto save Ryo!"
 		},
 		{
 			"key":"EP03_S2572_0509",
-			"value":"おうっ！"
+			"value":"You got it!"
 		},
 		{
 			"key":"EP03_S2572_0510",
-			"value":"ったく、手のかかる先輩だな！"
+			"value":"Man, he is nothing but trouble!"
 		},
 		{
 			"key":"EP03_S2572_0511",
-			"value":"ちっ、しょうがねえな"
+			"value":"Tch, what a pain..."
 		},
 		{
 			"key":"EP03_S2572_0512",
-			"value":"あ、待ちたまえ君たち！"
+			"value":"Wait! What do you guys think you’re doing?!"
 		},
 		{
 			"key":"EP03_S2572_0513",
-			"value":"おしっ、捕まえたぞ！"
+			"value":"All right, I got him!"
 		},
 		{
 			"key":"EP03_S2572_0514",
-			"value":"大人しくしてろ、リョウ！"
+			"value":"Hold still, Ryo!"
 		},
 		{
 			"key":"EP03_S2572_0515",
-			"value":"リョウ！　大丈夫か！？\nしっかりしろ！"
+			"value":"Ryo! Are you okay? Hang in there!"
 		},
 		{
 			"key":"EP03_S2572_0516",
-			"value":"……てぇ"
+			"value":"...hurts."
 		},
 		{
 			"key":"EP03_S2572_0517",
-			"value":"ん？　な、何か言ったかい？"
+			"value":"Hm? What was that, Ryo?"
 		},
 		{
 			"key":"EP03_S2572_0518",
-			"value":"いってぇんだよお前らぁっ！\n寄ってたかってタックルかましてんじゃねえ！"
+			"value":"I said that hurts, you idiots! You didn’t\nhave to tackle me!"
 		},
 		{
 			"key":"EP03_S2572_0519",
-			"value":"りょ、リョウ……！\n無事なんだな！？　正気に戻ったんだな！？"
+			"value":"Ryo! You sound like you’re all right now!\nHave you come to your senses?"
 		},
 		{
 			"key":"EP03_S2572_0520",
-			"value":"あぁ？　オレはずーっと正気だよクソがぁ！"
+			"value":"What’s that supposed to mean? I never lost my\nsenses, genius!"
 		},
 		{
 			"key":"EP03_S2572_0521",
-			"value":"ただ……ちょっと諦めてただけだっつーの"
+			"value":"I just...got a little overwhelmed, that’s\nall."
 		},
 		{
 			"key":"EP03_S2572_0522",
-			"value":"大丈夫だよ\nオレはもう……大丈夫だ"
+			"value":"Don’t worry about me. I’m fine now."
 		},
 		{
 			"key":"EP03_S2572_0523",
-			"value":"あ、影が……"
+			"value":"Hey, the shadow..."
 		},
 		{
 			"key":"EP03_S2572_0524",
-			"value":"おーい、みんなー！"
+			"value":"Heyyy! Everyone!"
 		},
 		{
 			"key":"EP03_S2572_0525",
-			"value":"リョウくんは無事なの！？"
+			"value":"Is Ryo all right?!"
 		},
 		{
 			"key":"EP03_S2572_0526",
-			"value":"はぁ、はぁ！　よかったぁ、霧晴れたー！"
+			"value":"*huff* *huff* Oh, thank god! The fog’s\ncleared up!"
 		},
 		{
 			"key":"EP03_S2572_0527",
-			"value":"キュゥッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP03_S2572_0528",
-			"value":"あ、テメー！　さっきオレにぶつかってきただろ！\nんのヤロー！"
+			"value":"You’re still here? Don’t think I forgot about\nhow you bumped into me, you little creep!"
 		},
 		{
 			"key":"EP03_S2572_0529",
-			"value":"……まぁ、助かったからいいけどな\nありがとよ……"
+			"value":"But...I guess it did save me, so...thanks.\nI’ll let it go this time."
 		},
 		{
 			"key":"EP03_S2572_0530",
-			"value":"キュゥッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP03_S2572_0531",
-			"value":"リョウ、今……クネモンにお礼言ったのか？"
+			"value":"Ryo...did you actually thank Kunemon just\nnow?"
 		},
 		{
 			"key":"EP03_S2572_0532",
-			"value":"なんだよ、礼くらい言うよ\n……命を助けてもらったんだからよ"
+			"value":"Well, yeah. I mean, it did save my life.\nI figured it was the least I could do."
 		},
 		{
 			"key":"EP03_S2572_0533",
-			"value":"あれー？　オレらにはお礼言わないんスかー？\nねーねー、リョウせんぱーい"
+			"value":"Funny, I think maybe you’re forgetting some\npeople there. You gonna thank us, Ryo?"
 		},
 		{
 			"key":"EP03_S2572_0534",
-			"value":"うるせえっ！　調子乗んな！"
+			"value":"Hey, shut up! You don’t have to be so smug!"
 		},
 		{
 			"key":"EP03_S2572_0535",
-			"value":"あははは……！"
+			"value":"Ahaha!"
 		},
 		{
 			"key":"EP03_S2572_0536",
-			"value":"あはは……ママ、やっと会えたよ……"
+			"value":"Hahaha... I finally got to see you again,\nMommy..."
 		},
 		{
 			"key":"EP03_S2572_0537",
-			"value":"うん……これからは、ずっと一緒……\nもう、離れないでね……"
+			"value":"And now we’ll always be together... Please\ndon’t leave me again..."
 		}
 	]
 }

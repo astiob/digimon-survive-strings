@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9107_0001",
-			"value":"（ん、この奥から騒がしい声が聞こえるぞ？）"
+			"value":"(Hey, I hear some voices up ahead? They sound\nupset.)"
 		},
 		{
 			"key":"EP11_S9107_0002",
-			"value":"タクマ、すごい数だ\nさっきのやつらより全然多い"
+			"value":"There’s so many of them, Takuma. Way more\nthan before."
 		},
 		{
 			"key":"EP11_S9107_0003",
-			"value":"ああ、僕らだけじゃ厳しそうだな……"
+			"value":"Yeah, we’d have a tough time handling them on\nour own."
 		},
 		{
 			"key":"EP11_S9107_0004",
-			"value":"みんなを呼んで\n一緒に行こう"
+			"value":"Let’s call everyone and go together."
 		},
 		{
 			"key":"EP11_S9107_0005",
-			"value":"わかった！"
+			"value":"Okay!"
 		},
 		{
 			"key":"EP11_S9107_0006",
-			"value":"（奥から聞こえる声の数は、さっきまでの比じゃない\n　僕ら二人じゃ無理だ。みんなを呼ぼう）"
+			"value":"(Those voices outnumber what we heard before.\nCan’t do this alone. Let’s get the others.)"
 		}
 	]
 }

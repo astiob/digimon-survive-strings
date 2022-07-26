@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0401_0001",
-			"value":"ラブラモ～ン、大丈夫か～……？"
+			"value":"Laaabramooon! Are you okay?"
 		},
 		{
 			"key":"EP01_S0401_0002",
-			"value":"大丈夫だから、そんなに心配、しないで……"
+			"value":"I’m fine, so...so stop worrying...about me..."
 		},
 		{
 			"key":"EP01_S0401_0003",
-			"value":"タクマ、早く治してあげよう"
+			"value":"We have to heal her quickly, Takuma!"
 		},
 		{
 			"key":"EP01_S0401_0004",
-			"value":"ああ、わかってる"
+			"value":"Yeah, I know."
 		},
 		{
 			"key":"EP01_S0401_0005",
-			"value":"早くラブラモンを治してあげないと！"
+			"value":"We have to heal Labramon real quick!"
 		}
 	]
 }

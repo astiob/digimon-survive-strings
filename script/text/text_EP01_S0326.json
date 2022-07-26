@@ -2,259 +2,259 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0326_0101",
-			"value":"ラブラモン、大丈夫……？"
+			"value":"Labramon, are you okay?"
 		},
 		{
 			"key":"EP01_S0326_0102",
-			"value":"だ、大丈夫よ……\n見た目ほど、酷くない、から……"
+			"value":"I, I’m okay... It’s not as bad...as it looks."
 		},
 		{
 			"key":"EP01_S0326_0103",
-			"value":"うぅっ！　痛た……"
+			"value":"Yowch!"
 		},
 		{
 			"key":"EP01_S0326_0104",
-			"value":"酷くないなんて、そんなことなさそうだけど……"
+			"value":"I dunno, it looks pretty bad..."
 		},
 		{
 			"key":"EP01_S0326_0105",
-			"value":"放っておいて治る傷じゃなさそうだわ"
+			"value":"I don’t think this will heal by itself."
 		},
 		{
 			"key":"EP01_S0326_0106",
-			"value":"タクマくん、急いで治療道具を見つけましょう"
+			"value":"We have to hurry and find something to treat\nher, Takuma!"
 		},
 		{
 			"key":"EP01_S0326_0107",
-			"value":"うん！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0326_0108",
-			"value":"急いで治療道具を見つけましょう"
+			"value":"We have to hurry up and find something to\ntreat her!"
 		},
 		{
 			"key":"EP01_S0326_0110",
-			"value":"（救急箱を持って早くラブラモンのところへ行こう！）"
+			"value":"(I’d better bring that first-aid kit back to\nLabramon as soon as I can!)"
 		},
 		{
 			"key":"EP01_S0326_0001",
-			"value":"ミノル！　見つかったよ！"
+			"value":"Hey, we found it, Minoru!"
 		},
 		{
 			"key":"EP01_S0326_0002",
-			"value":"お、タクマ！　それにアオイさんも！\nアオイさんが持っているの、救急箱か！"
+			"value":"Oh hey, the gang’s all here! Is that a first-\naid kit I see there, Aoi?"
 		},
 		{
 			"key":"EP01_S0326_0003",
-			"value":"ええ、タクマくんが見つけてくれたの"
+			"value":"Yes, Takuma found it somewhere."
 		},
 		{
 			"key":"EP01_S0326_0004",
-			"value":"ラブラモン！\n待っててね、すぐに手当てするから！"
+			"value":"Hold on, Labramon, we’ll fix you right up!"
 		},
 		{
 			"key":"EP01_S0326_0005",
-			"value":"しっかし、よく見つけられたな\nどこにあったんだ？"
+			"value":"Man, good job tracking that thing down. Where\nyou find it, anyway?"
 		},
 		{
 			"key":"EP01_S0326_0006",
-			"value":"職員室だよ\n棚の奥に……"
+			"value":"Up on one of the shelves in the faculty room."
 		},
 		{
 			"key":"EP01_S0326_0007",
-			"value":"ね、ねえ……どういう事かしら？"
+			"value":"Hey, you two... Something’s not right."
 		},
 		{
 			"key":"EP01_S0326_0008",
-			"value":"救急箱の中を今、確認したんだけど……"
+			"value":"I decided to check the first-aid kit, you\nsee..."
 		},
 		{
 			"key":"EP01_S0326_0009",
-			"value":"こんなに校舎がボロボロなんですよ\n薬も、腐ってないですか？"
+			"value":"With the school all messed up like this,\nI wondered, is the medicine even still good?"
 		},
 		{
 			"key":"EP01_S0326_0010",
-			"value":"それが……見た限り、包帯も綺麗だし、\n消毒薬も問題なさそうなの"
+			"value":"The thing is, the bandages still look clean,\nand the disinfectant seems okay."
 		},
 		{
 			"key":"EP01_S0326_0011",
-			"value":"まるで新品みたいだわ……\n何か変だけど、これで手当てを……"
+			"value":"It all looks brand new to me... Something\nisn’t right, but at least we can use it."
 		},
 		{
 			"key":"EP01_S0326_0012",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0326_0013",
-			"value":"……さあ、ラブラモン\nこれでどうかしら？"
+			"value":"...Okay, how’s this, Labramon?"
 		},
 		{
 			"key":"EP01_S0326_0014",
-			"value":"わぁ、ちゃんと手当してくれたんだ！\nありがとう、アオイ！"
+			"value":"Wow, this is perfect! Thank you so much, Aoi!"
 		},
 		{
 			"key":"EP01_S0326_0015",
-			"value":"（ラブラモン、あんなにしっぽを振って喜んでる\n　すっかりアオイさんに懐いたみたいだな）"
+			"value":"(Labramon’s happily wagging her tail.\nShe’s basically Aoi’s pet pooch now...)"
 		},
 		{
 			"key":"EP01_S0326_0016",
-			"value":"何か変わったところとかなかった？\n人とか……って、誰かいたら一緒にいるか……"
+			"value":"Did you see anything strange? Like a person?\nWell, I guess they’d be with you..."
 		},
 		{
 			"key":"EP01_S0326_0017",
-			"value":"変わったところ……\nうーん……何て言えばいいか……"
+			"value":"Anything strange? Hmm... How should I put\nthis..."
 		},
 		{
 			"key":"EP01_S0326_0018",
-			"value":"見た限り、校内にも人影はなかったわね……\n奥まで調べたわけじゃないけど……"
+			"value":"I didn’t see anyone else in the school...\nNot that I searched every nook and cranny."
 		},
 		{
 			"key":"EP01_S0326_0019",
-			"value":"そういえば\nトイレもなんだか古めかしい感じだったな"
+			"value":"Speaking of which, the restroom looked a bit\nworn out."
 		},
 		{
 			"key":"EP01_S0326_0020",
-			"value":"か～っ、ますますわかんねー！"
+			"value":"NnnnnngaaaAAAH, I just don’t get it!"
 		},
 		{
 			"key":"EP01_S0326_0021",
-			"value":"オレ、今の今まで、もしかして\nタイムスリップしたんじゃねーかって思ってたのに！"
+			"value":"For a second there, I thought we’d traveled\nthrough time or something..."
 		},
 		{
 			"key":"EP01_S0326_0022",
-			"value":"何だよ、タイムカプセルに入れてたわけでもないのに\nなんで救急キットが新品なんだよ！？"
+			"value":"But we didn’t get in a time machine, and this\nfirst-aid kit looks brand-spanking new!"
 		},
 		{
 			"key":"EP01_S0326_0023",
-			"value":"校舎だけが風化した……なんて\nそんなはずはないか……"
+			"value":"Only the building itself is weathered to\nhell... This makes no sense."
 		},
 		{
 			"key":"EP01_S0326_0024",
-			"value":"わからないわ……\n私たち以外に誰か会えればいいんだけど……"
+			"value":"I don’t understand. Hopefully we’ll run into\nsomeone else around here..."
 		},
 		{
 			"key":"EP01_S0326_0025",
-			"value":"……なあ、タクマ\nオレ、やっぱ悪い夢みてんのかなあ"
+			"value":"...Hey, Takuma. This is like some kinda bad\ndream, you know?"
 		},
 		{
 			"key":"EP01_S0326_0026",
-			"value":"それは僕も同感だけど、でも……\n夢かどうかなんて、醒めるまでわかんないよ"
+			"value":"Sure, I feel the same way. But we can’t say\nif it’s a dream or not unless we wake up."
 		},
 		{
 			"key":"EP01_S0326_0027",
-			"value":"だよなあ、頬をツネったって\n痛ッ！　てなってるのが夢かも知んねーし……"
+			"value":"Yeah. Even if it hurts to pinch your cheek,\nit might still be a dream..."
 		},
 		{
 			"key":"EP01_S0326_0028",
-			"value":"でも、変な生き物が出てきたり\n学校がこんなワケわかんねー事になってたり……"
+			"value":"But then the school’s all messed up, and\nwe’ve got these strange creatures..."
 		},
 		{
 			"key":"EP01_S0326_0029",
-			"value":"いったい何が起きたっていうんだ……\nなぁ、アグモンたちは何か知らないか？"
+			"value":"What in the world happened here... Do you\nguys know anything, Agumon?"
 		},
 		{
 			"key":"EP01_S0326_0030",
-			"value":"う～、ボクもわかんないよ……\n最初からこうだったよ？"
+			"value":"Uhhh I dunno what you mean... It’s always\nbeen like this around here, right?"
 		},
 		{
 			"key":"EP01_S0326_0031",
-			"value":"最初からってなんだよ？\nそんなわけないだろ！？"
+			"value":"Always? What are you talking about?!"
 		},
 		{
 			"key":"EP01_S0326_0032",
-			"value":"いや、アグモンの言う通りだ"
+			"value":"Ah, but it is as Agumon says."
 		},
 		{
 			"key":"EP01_S0326_0033",
-			"value":"俺たちは生まれた時からここにいるが\nずっとこれが当たり前だった"
+			"value":"This area has been this way forever—from the\nmoment we were all born into this world."
 		},
 		{
 			"key":"EP01_S0326_0034",
-			"value":"今お前たちがなぜ疑問に思っているか\n俺たちにはわからないんだ"
+			"value":"We cannot grasp what you find dubious about\nall of this."
 		},
 		{
 			"key":"EP01_S0326_0035",
-			"value":"（ずっと、って言ったか？　そんなはずはない\n　僕たちは綺麗な校舎をこの目で見てたんだ）"
+			"value":"(“Forever,” he says? But that’s impossible.\nThe school looked normal before...)"
 		},
 		{
 			"key":"EP01_S0326_0036",
-			"value":"（ここは、僕たちの知ってる校舎とは違うのか？\n　いったいここは何なんだ？）"
+			"value":"(Isn’t this the same school building?\nIf not, then what is this place?)"
 		},
 		{
 			"key":"EP01_S0326_0037",
-			"value":"そんな……なんなの、これ……"
+			"value":"What is going on...? What..."
 		},
 		{
 			"key":"EP01_S0326_0038",
-			"value":"アオイ、元気出して……"
+			"value":"Please, Aoi! Cheer up!"
 		},
 		{
 			"key":"EP01_S0326_0039",
-			"value":"うぅ～……ごめんな、タクマ"
+			"value":"Um... Sorry, Takuma..."
 		},
 		{
 			"key":"EP01_S0326_0040",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0326_0041",
-			"value":"う、うわぁああああああああああ！"
+			"value":"Waaaaaaaaaaaaaaaugh!"
 		},
 		{
 			"key":"EP01_S0326_0042",
-			"value":"今の！？\nリョウの声だ！"
+			"value":"Hey! That was Ryo’s voice!"
 		},
 		{
 			"key":"EP01_S0326_0043",
-			"value":"あいつも……ここに居るのか！？"
+			"value":"He’s here too?!"
 		},
 		{
 			"key":"EP01_S0326_0044",
-			"value":"今の声……\n二階からだわ！"
+			"value":"I’m pretty sure that came from the second\nfloor!"
 		},
 		{
 			"key":"EP01_S0326_0045",
-			"value":"……今度こそ、ヒーローに……"
+			"value":"Okay, it’s hero time..."
 		},
 		{
 			"key":"EP01_S0326_0046",
-			"value":"……ミノル？"
+			"value":"Minoru...?"
 		},
 		{
 			"key":"EP01_S0326_0047",
-			"value":"……オレ、今度は逃げないぜ\nリョウを助けに行く"
+			"value":"I won’t run away this time. I’m gonna go and\nsave Ryo!"
 		},
 		{
 			"key":"EP01_S0326_0048",
-			"value":"うむ、ならば俺も手を貸そう"
+			"value":"Good. Then allow me to offer my assistance!"
 		},
 		{
 			"key":"EP01_S0326_0049",
-			"value":"アオイは私が守るからね！\n安心して行きましょ！"
+			"value":"Let’s go, Aoi! I’ll keep you safe!"
 		},
 		{
 			"key":"EP01_S0326_0050",
-			"value":"ありがとう、ラブラモン！\nでも、手当てしたばかりだから無理はしないでね……"
+			"value":"Thank you, Labramon! But don’t push yourself\ntoo hard, we only just finished treating you."
 		},
 		{
 			"key":"EP01_S0326_0051",
-			"value":"（わからないことだらけで不安だけど\n　考えるのは後だ）"
+			"value":"(I’m a little uneasy with all of these things\nup in the air, but let’s save it for later.)"
 		},
 		{
 			"key":"EP01_S0326_0052",
-			"value":"（目の前のことに集中していれば\n　その間だけでも、気はまぎれる……）"
+			"value":"(If I focus on what’s in front of me, I can\nkeep my mind off of it for a while...)"
 		},
 		{
 			"key":"EP01_S0326_0053",
-			"value":"行こう、タクマ！"
+			"value":"Let’s go, Takuma!"
 		},
 		{
 			"key":"EP01_S0326_0054",
-			"value":"ああ！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0326_0055",
-			"value":"（あった！　救急箱だ\n　やっぱり保健室だからな、意外に早く見つかったな）"
+			"value":"(There’s a first-aid kit! That was easy, but\nof course a nurse’s office would have one.)"
 		}
 	]
 }

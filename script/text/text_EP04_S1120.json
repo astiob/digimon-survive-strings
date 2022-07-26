@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1120_0001",
-			"value":"また新しい通路に出たな\n相変わらず、あの子たちの姿は見えないけど……"
+			"value":"Looks like we found another hallway, and\nstill no sign of those guys."
 		},
 		{
 			"key":"EP04_S1120_0002",
-			"value":"こっちに進んだっぽいから\n調べてみよー！"
+			"value":"I think they went this way! Let’s check it\nout!"
 		},
 		{
 			"key":"EP04_S1120_0003",
-			"value":"ああ、そうだな"
+			"value":"Yeah, I guess."
 		},
 		{
 			"key":"EP04_S1120_0004",
-			"value":"な、なんとかここまでバレずに\n戻って来れた……！"
+			"value":"Well, we made it back here without being\nnoticed."
 		},
 		{
 			"key":"EP04_S1120_0005",
-			"value":"次こそ、居場所を突き止めないとね……！"
+			"value":"This time let’s track them down for sure!"
 		}
 	]
 }

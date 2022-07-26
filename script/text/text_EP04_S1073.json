@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1073_0001",
-			"value":"うーん……何の変哲もない\nただの柱……だよな？"
+			"value":"Hmm, this is just a normal pillar...isn’t it?"
 		},
 		{
 			"key":"EP04_S1073_0002",
-			"value":"タクマ、なにしてるんだ？"
+			"value":"Takuma? What are you doing?"
 		},
 		{
 			"key":"EP04_S1073_0003",
-			"value":"いや、この柱に何かありそうかなーと思って\n見てたんだけど……"
+			"value":"There’s just something about this. Thought\nI’d take a closer look, so..."
 		},
 		{
 			"key":"EP04_S1073_0004",
-			"value":"えいっ！"
+			"value":"Hyaaah!"
 		},
 		{
 			"key":"EP04_S1073_0005",
-			"value":"って、何してるんだ！？\n危ないじゃないか！"
+			"value":"Ah, hey! What the heck, that’s dangerous!"
 		},
 		{
 			"key":"EP04_S1073_0006",
-			"value":"ボロボロの奥に、なにかあったぞ！"
+			"value":"Lookie what was inside the crumbly part!"
 		},
 		{
 			"key":"EP04_S1073_0007",
-			"value":"本当だ……\n中に隠れてたのか……"
+			"value":"Oh hey, you’re right... Did somebody hide it\ninside or something?"
 		},
 		{
 			"key":"EP04_S1073_0008",
-			"value":"ありがとな、アグモン"
+			"value":"Thanks, Agumon!"
 		}
 	]
 }

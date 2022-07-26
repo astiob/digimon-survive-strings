@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9300_0001",
-			"value":"ここが、『主』のいる最下層……"
+			"value":"So, this is the lowest level, and the Master\nis here somewhere."
 		},
 		{
 			"key":"EP13_S9300_0002",
-			"value":"敵の気配はなさそうだが――\n薄暗くて、何がどうなってるのかわからないな"
+			"value":"It doesn’t seem like there are any enemies\nnearby, but it’s so dark it’s hard to tell."
 		},
 		{
 			"key":"EP13_S9300_0003",
-			"value":"みんな、手分けして部屋の中を調べてくれ\n通路か何かあるはずだ"
+			"value":"Everyone, let’s split up and search the room.\nThere should be some sort of path forward."
 		},
 		{
 			"key":"EP13_S9300_0004",
-			"value":"わかった"
+			"value":"Right."
 		}
 	]
 }

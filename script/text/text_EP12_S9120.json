@@ -2,207 +2,207 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9120_0001",
-			"value":"あ、タクマくん……\nこ、ここには、いないみたいね……"
+			"value":"Oh, Takuma. There doesn’t seem to be any\nghost here..."
 		},
 		{
 			"key":"EP12_S9120_0002",
-			"value":"二人ともそんなに怖がらなくても……\n相手は祠の人だし、悪いことはしないと思うよ？"
+			"value":"Hey, no need to be so scared. I don’t think\nthe boy from the shrine wants to hurt us."
 		},
 		{
 			"key":"EP12_S9120_0003",
-			"value":"わ、わかっては、いるのだけれど……"
+			"value":"I...I know that, but..."
 		},
 		{
 			"key":"EP12_S9120_0004",
-			"value":"夜の校舎ってだけでも不気味なのに\n見えない何かがいるなんて……こ、怖いわよ……"
+			"value":"Being in an old school alone at night is\nscary enough without a ghost. This is creepy."
 		},
 		{
 			"key":"EP12_S9120_0005",
-			"value":"そ、それに、タクマを疑うワケじゃないけど……\nほ、ホントに、怖い幽霊かもしれないじゃん……"
+			"value":"B-besides, it’s not like I doubt you, but...\nyou never know, it could be an angry ghost..."
 		},
 		{
 			"key":"EP12_S9120_0006",
-			"value":"（うーん、二人の言うこともわかる\n　正直、僕もアグモンがいないと怖い……）"
+			"value":"(I guess I can see where they’re coming from.\nI’d be scared too if it weren’t for Agumon.)"
 		},
 		{
 			"key":"EP12_S9120_0007",
-			"value":"ね、ねぇ、やっぱりみんなで一緒に探さない？\nその方が安全じゃない？"
+			"value":"Listen, why don’t we all look around\ntogether? Wouldn’t that be safer?"
 		},
 		{
 			"key":"EP12_S9120_0008",
-			"value":"それでは非効率だ\n可能な限り分散していた方が速い"
+			"value":"It would be much less efficient. Splitting up\nas much as we can saves time."
 		},
 		{
 			"key":"EP12_S9120_0009",
-			"value":"うぅ～、わかってるけどぉ……"
+			"value":"Oh... I know that, but..."
 		},
 		{
 			"key":"EP12_S9120_0010",
-			"value":"さ、サキさん、頑張りましょう？\nわた、私がついてる、から……"
+			"value":"Hang in there, Saki. You’ve g-got me, d-don’t\nyou?"
 		},
 		{
 			"key":"EP12_S9120_0011",
-			"value":"（かなり怖がってるな……\n　なんとか励ましてみよう）"
+			"value":"(They both seem pretty scared. I should try\nand think of some way to cheer them up.)"
 		},
 		{
 			"key":"EP12_S9120_Q1",
-			"value":"（えっと、誰に声をかけようか……）"
+			"value":"(Who should I talk to?)"
 		},
 		{
 			"key":"EP12_S9120_Q1_A1",
-			"value":"アオイさんに声をかけよう"
+			"value":"I’ll talk to Aoi."
 		},
 		{
 			"key":"EP12_S9120_Q1_A2",
-			"value":"サキに声をかけよう"
+			"value":"I’ll talk to Saki."
 		},
 		{
 			"key":"EP12_S9120_Q1_A3",
-			"value":"レナモンに声をかけよう"
+			"value":"I’ll talk to Renamon."
 		},
 		{
 			"key":"EP12_S9120_0012",
-			"value":"アオイさんに声をかける"
+			"value":"Aoi"
 		},
 		{
 			"key":"EP12_S9120_0013",
-			"value":"アオイさん、大丈夫？"
+			"value":"Are you doing okay, Aoi?"
 		},
 		{
 			"key":"EP12_S9120_0014",
-			"value":"……正直に言って、全然大丈夫ではないけれど"
+			"value":"Well...to be honest, I’m anything but okay."
 		},
 		{
 			"key":"EP12_S9120_0015",
-			"value":"で、でも！　私が怖がっていたら\nサキさんも不安になってしまうもの！"
+			"value":"But...if I let that show, it’ll only make\nSaki more upset."
 		},
 		{
 			"key":"EP12_S9120_0016",
-			"value":"わかるけど、無理はしないでね？\n本当に厳しそうなら、僕も一緒にいるから"
+			"value":"I get that, but don’t overdo it, okay? If it\nstarts to be too much, I’ll be here for you."
 		},
 		{
 			"key":"EP12_S9120_0017",
-			"value":"えっ？　ほ、本当？"
+			"value":"Really? You mean it?"
 		},
 		{
 			"key":"EP12_S9120_0018",
-			"value":"はっ！"
+			"value":"But wait!"
 		},
 		{
 			"key":"EP12_S9120_0019",
-			"value":"い、いえ……それではいけないわ\n早く見つけないといけないんだもの……"
+			"value":"You can’t stay here. We need to find this\nghost as soon as possible."
 		},
 		{
 			"key":"EP12_S9120_0020",
-			"value":"ありがとう、タクマくん\n私は平気だから、あなたは探索を続けて"
+			"value":"Thanks, Takuma. Don’t worry about me, you\nneed to keep looking for the ghost."
 		},
 		{
 			"key":"EP12_S9120_0021",
-			"value":"……で、でも、本当に無理になったら\nた、助けてね……？"
+			"value":"B-but if things do get really bad, you’ll be\nthere to help, right?"
 		},
 		{
 			"key":"EP12_S9120_0022",
-			"value":"わかった。絶対に守るからね"
+			"value":"Of course. I’ll keep you safe no matter what."
 		},
 		{
 			"key":"EP12_S9120_0023",
-			"value":"サキに声をかける"
+			"value":"Saki"
 		},
 		{
 			"key":"EP12_S9120_0024",
-			"value":"サキ……大丈夫？"
+			"value":"Saki...are you okay?"
 		},
 		{
 			"key":"EP12_S9120_0025",
-			"value":"だ……大丈夫に、見えるわけ……？"
+			"value":"D-do I look like I’m okay?"
 		},
 		{
 			"key":"EP12_S9120_0026",
-			"value":"ごめん、見えない\nなんなら、僕が一緒にいようか？"
+			"value":"Er, no, sorry. Would it help if I stayed with\nyou?"
 		},
 		{
 			"key":"EP12_S9120_0027",
-			"value":"う……うぅ～……"
+			"value":"Oh... Mmm..."
 		},
 		{
 			"key":"EP12_S9120_0028",
-			"value":"そうしてほしい、けど……\nすっごくそうしてほしいけどぉ……"
+			"value":"It would. It really, really would, but..."
 		},
 		{
 			"key":"EP12_S9120_0029",
-			"value":"タクマにも、みんなにも迷惑かけちゃうから\n……大丈夫"
+			"value":"That’d just make trouble for you and everyone\nelse. So...I got this."
 		},
 		{
 			"key":"EP12_S9120_0030",
-			"value":"そっか。すごいな、サキは"
+			"value":"Okay. That’s really impressive, Saki."
 		},
 		{
 			"key":"EP12_S9120_0031",
-			"value":"けど、ホントに無理になったら呼んでね？\nすぐに行くから"
+			"value":"But if things do get really bad, you can call\nfor me. I’ll come running."
 		},
 		{
 			"key":"EP12_S9120_0032",
-			"value":"うん……ありがと、タクマ"
+			"value":"All right. Thanks, Takuma."
 		},
 		{
 			"key":"EP12_S9120_0033",
-			"value":"あ、私が呼んだら\n絶対、絶対にすぐ来てね！？"
+			"value":"If I call for you, you’d better come quick!"
 		},
 		{
 			"key":"EP12_S9120_0034",
-			"value":"うん、すぐに行くよ"
+			"value":"I will, don’t worry."
 		},
 		{
 			"key":"EP12_S9120_0035",
-			"value":"レナモンに声をかける"
+			"value":"Renamon"
 		},
 		{
 			"key":"EP12_S9120_0036",
-			"value":"えっと……レナモン"
+			"value":"Listen, Renamon..."
 		},
 		{
 			"key":"EP12_S9120_0037",
-			"value":"なんだ？\nまさか、私が怯えているとでも思ったか？"
+			"value":"What? Don’t tell me you think I’M scared."
 		},
 		{
 			"key":"EP12_S9120_0038",
-			"value":"いや、そうじゃない\nそれは絶対にないってわかってる"
+			"value":"No, it’s not that. I know you wouldn’t be."
 		},
 		{
 			"key":"EP12_S9120_0039",
-			"value":"アオイさんとサキ、二人が怖がらないように\nなるべく近くにいてあげてほしいんだ"
+			"value":"But...would you mind staying with Aoi and\nSaki so they don’t get too upset?"
 		},
 		{
 			"key":"EP12_S9120_0040",
-			"value":"ふん……まぁ、この部屋を探索している以上\n近くにはいることになるからな"
+			"value":"Hmph... I suppose as long as we’re all\nsearching this room, we’re sticking together."
 		},
 		{
 			"key":"EP12_S9120_0041",
-			"value":"あの二人がそれで落ち着けるかはわからないが\n……まぁ、そうするよ"
+			"value":"I don’t know if it’s enough to keep them from\ngetting scared, but...I can stay here."
 		},
 		{
 			"key":"EP12_S9120_0042",
-			"value":"ありがとう、助かるよ"
+			"value":"Thanks. That’ll be a big help."
 		},
 		{
 			"key":"EP12_S9120_0043",
-			"value":"た、タクマくん、ここは私たちだけでいいから\nあ、あなたは、行って……"
+			"value":"You can leave this place to us, Takuma. You\nkeep looking around."
 		},
 		{
 			"key":"EP12_S9120_0044",
-			"value":"う、うん……わ、私たちに\nま、ま、まかせて……"
+			"value":"That’s right. We’ve g-got this."
 		},
 		{
 			"key":"EP12_S9120_0045",
-			"value":"（すごく心配だけど……\n　ここは言う通りにしておくか）"
+			"value":"(I’m still worried about those two, but...\nI guess I should listen to them.)"
 		},
 		{
 			"key":"EP12_S9120_0046",
-			"value":"だ、大丈夫よ？　まだ、大丈夫……"
+			"value":"D-don’t worry about us! We’re d-doing just\nfine."
 		},
 		{
 			"key":"EP12_S9120_0047",
-			"value":"こ、怖くない……怖くないぃ……"
+			"value":"Nnngh... I’m not scared, I’m not scared..."
 		}
 	]
 }

@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1019_0001",
-			"value":"俺も何かの存在を感じたのでな\n一応確認に来たんだ"
+			"value":"I too sensed some manner of presence and came\nto investigate."
 		},
 		{
 			"key":"EP03_S1019_0002",
-			"value":"ただ、善いモノか悪いモノかは気配だけでは\n判断できなかったから、警戒して近づこうとしたんだが"
+			"value":"But my senses alone cannot tell friend from\nfoe, so I decided to approach cautiously."
 		},
 		{
 			"key":"EP03_S1019_0003",
-			"value":"後から来たアグモンが突っ込んでいってな……"
+			"value":"Then Agumon arrived and simply charged\nforward with reckless abandon."
 		},
 		{
 			"key":"EP03_S1019_0004",
-			"value":"なるほど……なんか、アグモンがごめんな"
+			"value":"Yeah, I can see that... I feel like I should\napologize for Agumon."
 		},
 		{
 			"key":"EP03_S1019_0005",
-			"value":"アグモンは大丈夫だと言うが\n念のため警戒しておけ"
+			"value":"Agumon is convinced there’s no danger, but\nI recommend caution in any case."
 		},
 		{
 			"key":"EP03_S1019_0006",
-			"value":"調べるなら警戒しておけ"
+			"value":"If you intend to investigate, be on your\nguard."
 		}
 	]
 }

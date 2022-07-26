@@ -2,35 +2,35 @@
     "scenario_text": [
         {
             "key": "EP01_S0391_0001",
-            "value": "おかしい、誰もいない……"
+            "value": "That’s weird, there’s no one here..."
         },
         {
             "key": "EP01_S0391_0002",
-            "value": "ねぇタクマ、こっち！"
+            "value": "Look, over here, Takuma!"
         },
         {
             "key": "EP01_S0391_0003",
-            "value": "トイレ……か\n行ってみよう"
+            "value": "A restroom? Let’s check it out."
         },
         {
             "key": "EP01_S0391_0004",
-            "value": "いない、か……\nここにしか来れないはずだけど……"
+            "value": "No one here... But this is the only place she\ncould’ve gone."
         },
         {
             "key": "EP01_S0391_0005",
-            "value": "ねぇタクマ。ここに、誰かいたみたいだよ"
+            "value": "Hey, this place is empty, Takuma."
         },
         {
             "key": "EP01_S0391_0006",
-            "value": "本当か！？"
+            "value": "Really?!"
         },
         {
             "key": "EP01_S0391_0007",
-            "value": "うん。なんだか気配が残ってる"
+            "value": "Yeah, but I can feel something here."
         },
         {
             "key": "EP01_S0391_0008",
-            "value": "（アグモンが何かを感じている\n　だったら、<color=#B41919>この場所</color>を探してみよう！）"
+            "value": "(If Agumon senses something, I should <color=#B41919>take\na look around</color>!)"
         }
     ]
 }

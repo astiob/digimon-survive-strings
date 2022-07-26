@@ -2,155 +2,155 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S4040_0001",
-			"value":"お待たせ～……って\nあれ、アオイさんとカイトは？"
+			"value":"Sorry for the wait! ...Hold up, where’s Aoi\nand Kaito?"
 		},
 		{
 			"key":"EP10_S4040_0002",
-			"value":"二人とも見つからなくて\nどこに行っちゃったんだろう"
+			"value":"I haven’t seen either of them. Wonder where\nthey went?"
 		},
 		{
 			"key":"EP10_S4040_0003",
-			"value":"（アオイさんはともかく、カイトは\n　あの調子だし……声をかけない方がいいかな）"
+			"value":"(I don’t know about Aoi, but the way Kaito\nwas acting... Maybe I should leave him be."
 		},
 		{
 			"key":"EP10_S4040_0004",
-			"value":"（でも、一人にしておいたら危ないよな\n　何があるかわからないし）"
+			"value":"(It’s dangerous to leave him on his own,\nthough. Who knows what’s out there.)"
 		},
 		{
 			"key":"EP10_S4040_0005",
-			"value":"（みんなで行動するときには無理を言ってでも\n　一緒にいてもらった方がいいか……？）"
+			"value":"(Getting everyone to go might be asking too\nmuch, but should I ask anyway?)"
 		},
 		{
 			"key":"EP10_S4040_Q1",
-			"value":"（不在の二人をどうすればいい？）"
+			"value":"(What should I do about those two?)"
 		},
 		{
 			"key":"EP10_S4040_Q1_A1",
-			"value":"みんなに任せよう"
+			"value":"Leave ‘em to everyone."
 		},
 		{
 			"key":"EP10_S4040_Q1_A2",
-			"value":"アオイさんだけ捜そう"
+			"value":"Search for Aoi alone."
 		},
 		{
 			"key":"EP10_S4040_Q1_A3",
-			"value":"二人とも捜そう"
+			"value":"Search for both!"
 		},
 		{
 			"key":"EP10_S4040_0006",
-			"value":"（僕が行っても、またカイトに\n　怒られるだけかもしれないな）"
+			"value":"(If I go, Kaito will probably blow up at me\nagain.)"
 		},
 		{
 			"key":"EP10_S4040_0007",
-			"value":"悪いんだけど、誰かカイトとアオイさんを\n捜してきてくれない？"
+			"value":"I hate to ask, but could someone go look for\nAoi and Kaito?"
 		},
 		{
 			"key":"EP10_S4040_0008",
-			"value":"あ、じゃあ私行くよ\nフローラモンと一緒に外を見て来る"
+			"value":"Ah, well then I’ll go. I’ll look around\noutside with Floramon."
 		},
 		{
 			"key":"EP10_S4040_0009",
-			"value":"そうね、そうと決まれば早速――"
+			"value":"Sounds good. Let’s hop to it!"
 		},
 		{
 			"key":"EP10_S4040_0010",
-			"value":"（もしカイトを見つけられても、また\n　怒られるだけかもしれないな）"
+			"value":"(Even if I find Kaito, he’ll probably blow up\nat me again.)"
 		},
 		{
 			"key":"EP10_S4040_0011",
-			"value":"カイトはそっとしておこう\nアオイさんだけ捜して――"
+			"value":"Let’s leave Kaito alone for now. I’ll go look\nfor Aoi..."
 		},
 		{
 			"key":"EP10_S4040_0012",
-			"value":"（とにかくみんなで集まらないことには\n　どうにもならないもんな）"
+			"value":"(I’d better gather everyone up first, or\nnothing’ll get done.)"
 		},
 		{
 			"key":"EP10_S4040_0013",
-			"value":"僕、二人を捜して来るよ\nみんなはここで待ってて――"
+			"value":"I’ll go look for those two. Everyone, wait\nhere..."
 		},
 		{
 			"key":"EP10_S4040_0014",
-			"value":"みんな！　よかった、ここにいたのね\nお願い、森に来てほしいの！"
+			"value":"Everyone! Thank goodness you’re here. Please,\ncome to the forest!"
 		},
 		{
 			"key":"EP10_S4040_0015",
-			"value":"アオイさん、ラブラモン！"
+			"value":"Aoi, Labramon!"
 		},
 		{
 			"key":"EP10_S4040_0016",
-			"value":"よかった、ちょうど捜しに\n行こうとしてたんだぞ！"
+			"value":"Great, we were just about to go looking for\nyou!"
 		},
 		{
 			"key":"EP10_S4040_0017",
-			"value":"こっちとしてもちょうどよかったわ\nあのね、カイトが……"
+			"value":"Good timing for us, too. You see, it’s about\nKaito..."
 		},
 		{
 			"key":"EP10_S4040_0018",
-			"value":"カイトが？\n何かあったの！？"
+			"value":"Kaito? Did something happen?!"
 		},
 		{
 			"key":"EP10_S4040_0019",
-			"value":"カイトくんとドラクモンが、ハルくんと一緒に\nどこかへ出かけてしまったの"
+			"value":"Kaito and Dracmon went off with Haru."
 		},
 		{
 			"key":"EP10_S4040_0020",
-			"value":"ハ、ハル！？\nあいつ、無事だったのか！"
+			"value":"Haru?! That little squirt’s alive?!"
 		},
 		{
 			"key":"EP10_S4040_0021",
-			"value":"ええ、でも何か様子が変で\nどこか異様な感じがしたの"
+			"value":"Yes, but something seemed off about him. He’s\njust...different somehow."
 		},
 		{
 			"key":"EP10_S4040_0022",
-			"value":"それでね、カイトくんとドラクモンが\nハルくんと一緒に森の奥の方へ行ってしまって……"
+			"value":"Not only that, Kaito and Dracmon went deep\ninto the woods with him..."
 		},
 		{
 			"key":"EP10_S4040_0023",
-			"value":"ん？　ま、待ってくれ、アオイくん\n二人は森へ行ったのか？"
+			"value":"Huh? Now hold on a minute, Aoi. You’re\ntelling me those two went into the woods?"
 		},
 		{
 			"key":"EP10_S4040_0024",
-			"value":"はい、確かここから見てあっちの……\n東の方へ進みました"
+			"value":"Yes, from where I was standing, they\nheaded...east of here."
 		},
 		{
 			"key":"EP10_S4040_0025",
-			"value":"東……！　図書館の方角だ！"
+			"value":"East...?! That’s in the direction of the\nlibrary!"
 		},
 		{
 			"key":"EP10_S4040_0026",
-			"value":"え……それってまずいんじゃ！？"
+			"value":"Wait... That’s bad, isn’t it?!"
 		},
 		{
 			"key":"EP10_S4040_0027",
-			"value":"図書館？"
+			"value":"The library?"
 		},
 		{
 			"key":"EP10_S4040_0028",
-			"value":"さっき教授が見つけたって\n森に新しく出現した建物なんだ"
+			"value":"A new building that popped up in the woods.\nThe professor discovered it earlier."
 		},
 		{
 			"key":"EP10_S4040_0029",
-			"value":"まだ調べてない、何があるかわからない場所だ\nもしそっちの方に行ったなら……危険すぎるよ"
+			"value":"We don’t know a thing about that place yet.\nIf they went that direction...this is bad."
 		},
 		{
 			"key":"EP10_S4040_0030",
-			"value":"ホントに新しくできたばっかりだっていうなら\nもしかしたら、主の手下も調べに来てるかも……"
+			"value":"If it really just popped up, the Master’s\nservants might check it out themselves..."
 		},
 		{
 			"key":"EP10_S4040_0031",
-			"value":"ま、まずいだろ、それは！\nただでさえ今のカイトは危なっかしいのに……"
+			"value":"That’s worse than bad! Kaito’s totally off\nhis game right now..."
 		},
 		{
 			"key":"EP10_S4040_0032",
-			"value":"助けに行かねばならないだろう\nそれもすぐにだ"
+			"value":"We had better go to their aid, for certain.\nAnd as soon as possible."
 		},
 		{
 			"key":"EP10_S4040_0033",
-			"value":"うん、今のカイトを放ってはおけない"
+			"value":"Yeah, we can’t leave him to his own devices\nright now."
 		},
 		{
 			"key":"EP10_S4040_0034",
-			"value":"行こう、みんな！"
+			"value":"Let’s go, everybody!"
 		}
 	]
 }

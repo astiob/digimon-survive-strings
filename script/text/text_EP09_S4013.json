@@ -2,227 +2,227 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4013_0001",
-			"value":"ミノル、無事か！？"
+			"value":"Minoru! Are you okay?!"
 		},
 		{
 			"key":"EP09_S4013_0002",
-			"value":"こっちのセリフだっての！\nお前ら全員、無事なんだな！？"
+			"value":"That’s my line! All of you got ten fingers\nand ten toes?!"
 		},
 		{
 			"key":"EP09_S4013_0003",
-			"value":"ええ。心配かけてごめんなさい"
+			"value":"For sure. Sorry if we worried you."
 		},
 		{
 			"key":"EP09_S4013_0004",
-			"value":"ちょっと、がんばりすぎちゃったかな？"
+			"value":"Did we go a little too far, maybe?"
 		},
 		{
 			"key":"EP09_S4013_0005",
-			"value":"ありがとう……本当にありがとう\n見捨てても、誰も責めんじゃろうに……"
+			"value":"Thank you... Truly, thank you. No one\nwould’ve blamed you for abandoning them..."
 		},
 		{
 			"key":"EP09_S4013_0006",
-			"value":"そのときは、自分で自分を責めるだけだし\nとにかく、みんなで助かるのが一番だよ！"
+			"value":"I couldn’t have lived with myself. I’m just\nglad we got to save everyone!"
 		},
 		{
 			"key":"EP09_S4013_0007",
-			"value":"話は後でゆっくりしよう\nここの霧もだいぶ濃くなってきてる"
+			"value":"Let’s save the chit-chat for later. The fog\nis getting way thicker here."
 		},
 		{
 			"key":"EP09_S4013_0008",
-			"value":"僕たちもそろそろ逃げないと\nミノル、カイトたちはもう逃げて来た？"
+			"value":"We have to escape soon. Minoru, have Kaito\nand the others left already?"
 		},
 		{
 			"key":"EP09_S4013_0009",
-			"value":"それが、まだ来てねーんだよ！"
+			"value":"Oh yeah, not yet!"
 		},
 		{
 			"key":"EP09_S4013_0010",
-			"value":"まだ戦ってるのか！？\nまさか、霧が濃くなってるのに気づいてないとか？"
+			"value":"They’re still fighting?! Don’t they realize\nthe fog is coming?!"
 		},
 		{
 			"key":"EP09_S4013_0011",
-			"value":"それか、気づいてても逃げられねー状況なのかも"
+			"value":"Even if they did, I’d imagine they can’t\nexactly get away."
 		},
 		{
 			"key":"EP09_S4013_0012",
-			"value":"どうするよ、このままじゃあいつら……"
+			"value":"We gotta do something, or those guys’ll..."
 		},
 		{
 			"key":"EP09_S4013_0013",
-			"value":"（どうするも何も……決まってる\n　助けに行くんだ）"
+			"value":"(It’s not even a question... We’ll go and\nsave them.)"
 		},
 		{
 			"key":"EP09_S4013_0014",
-			"value":"（ただ、全員でぞろぞろ向かうべきじゃない\n　避難したケモノやジジモンを守る人だって必要だ）"
+			"value":"(Still, all of us can’t go at once. Someone’s\ngot to protect Jijimon and the others.)"
 		},
 		{
 			"key":"EP09_S4013_0015",
-			"value":"（当然、助けに行く役が一番危険だ\n　この役は他の人に押し付けられない……僕がやるべきだ）"
+			"value":"(Of course, whoever goes faces the most risk.\nI can’t ask that of anyone else... I’ll go.)"
 		},
 		{
 			"key":"EP09_S4013_0016",
-			"value":"（みんな、反対するかな？\n　なんて言えばみんな納得してくれるだろう？）"
+			"value":"(Will they object, I wonder? What could I say\nto make them understand?)"
 		},
 		{
 			"key":"EP09_S4013_Q1",
-			"value":"（カイトたちのところへ行きたいけど、なんて言おう）"
+			"value":"(I want to go help Kaito and the others...)"
 		},
 		{
 			"key":"EP09_S4013_Q1_A1",
-			"value":"僕が二人を迎えに行く"
+			"value":"I wanna go!"
 		},
 		{
 			"key":"EP09_S4013_Q1_A2",
-			"value":"僕が二人を捜しに行く"
+			"value":"I’ll go look."
 		},
 		{
 			"key":"EP09_S4013_Q1_A3",
-			"value":"みんなは逃げてくれ"
+			"value":"Let’s all escape."
 		},
 		{
 			"key":"EP09_S4013_0017",
-			"value":"僕が行きたい"
+			"value":"I wanna go!"
 		},
 		{
 			"key":"EP09_S4013_0018",
-			"value":"僕が二人を迎えに行く！\nだから、みんなは先に逃げて！"
+			"value":"I’m gonna go meet up with those two. You guys\nget out of here!"
 		},
 		{
 			"key":"EP09_S4013_0019",
-			"value":"な、何を言っているの！"
+			"value":"Do...do you know what you’re saying?!"
 		},
 		{
 			"key":"EP09_S4013_0020",
-			"value":"そうやってみんなが好き勝手に動いたから\n危ない目に遭っているのよ！？"
+			"value":"We’re in this mess because everyone went off\nto do what they wanted, you know?!"
 		},
 		{
 			"key":"EP09_S4013_0021",
-			"value":"だからって、このまま二人を放っておいて\n大丈夫だとは思えないよ"
+			"value":"I just can’t imagine they’ll be okay if we\nleave them to fend for themselves."
 		},
 		{
 			"key":"EP09_S4013_0022",
-			"value":"そうかもしれないけど、でも！"
+			"value":"You may be right, but still!"
 		},
 		{
 			"key":"EP09_S4013_0023",
-			"value":"既に助けたケモノたちを守りつつカイトたちを助けるなら\n僕たちは二手に分かれるしかない"
+			"value":"We’ll need to split up if we’re going to\nprotect these creatures and save the others."
 		},
 		{
 			"key":"EP09_S4013_0024",
-			"value":"それなら僕が行きたいんだ\nお願いだよ、アオイさん"
+			"value":"In that case, I want to go. Please, Aoi!"
 		},
 		{
 			"key":"EP09_S4013_0025",
-			"value":"……もう！\nわかったわよ、仕方ないわね"
+			"value":"Ohh...fine! I understand, do what you have to\ndo."
 		},
 		{
 			"key":"EP09_S4013_0026",
-			"value":"僕が探しに行く"
+			"value":"I’ll go look."
 		},
 		{
 			"key":"EP09_S4013_0027",
-			"value":"僕が二人を捜しに行く！"
+			"value":"I’ll go look for those two!"
 		},
 		{
 			"key":"EP09_S4013_0028",
-			"value":"アグモン、一緒に来てくれるよね？"
+			"value":"You’ll come too, won’t you, Agumon?"
 		},
 		{
 			"key":"EP09_S4013_0029",
-			"value":"おーう！　早くカイトたちを迎えに行こう！"
+			"value":"You know it! Let’s go already!"
 		},
 		{
 			"key":"EP09_S4013_0030",
-			"value":"そんな、タクマくんとアグモンの二人でなんて……！\n私も行くわ！"
+			"value":"Just the two of you alone? As if. I’m going,\ntoo!"
 		},
 		{
 			"key":"EP09_S4013_0031",
-			"value":"そうだよ！\nここまで来たらとことん付き合うって！"
+			"value":"Yeah! We’ve come this far, I’ll stick with\nyou to the end!"
 		},
 		{
 			"key":"EP09_S4013_0032",
-			"value":"いや、避難してるみんなを守る戦力も必要だ\nここは最低限の人数で行くべきだ"
+			"value":"No, I need you guys to protect everyone\nescaping. The fewer people to go, the better."
 		},
 		{
 			"key":"EP09_S4013_0033",
-			"value":"でもさ……"
+			"value":"But, man..."
 		},
 		{
 			"key":"EP09_S4013_0034",
-			"value":"大丈夫！\nボクがタクマを守るから！"
+			"value":"Don’t worry! I’ll protect Takuma!"
 		},
 		{
 			"key":"EP09_S4013_0035",
-			"value":"……わかったわ\n私たちはみんなを守りつつ、ここから離れるわ"
+			"value":"...Okay.\nWe’ll escort everyone out of here."
 		},
 		{
 			"key":"EP09_S4013_0036",
-			"value":"アオイさん！　いいのか？"
+			"value":"Are you sure, Aoi?!"
 		},
 		{
 			"key":"EP09_S4013_0037",
-			"value":"タクマくんなら大丈夫\n私は信じて待つことにするわ"
+			"value":"Takuma will be fine, I’m sure. We’ll just\nhave to wait for them to return."
 		},
 		{
 			"key":"EP09_S4013_0038",
-			"value":"みんなは逃げて"
+			"value":"Let’s all escape."
 		},
 		{
 			"key":"EP09_S4013_0039",
-			"value":"みんなは危ないから逃げて！\nカイトたちは僕とアグモンが捜しに行くから"
+			"value":"It’s dangerous here. We gotta run. Agumon and\nI will look for the others."
 		},
 		{
 			"key":"EP09_S4013_0040",
-			"value":"そんな、タクマくんとアグモンの二人でなんて……！\n私も行くわ！"
+			"value":"Just the two of you alone? As if. I’m going,\ntoo!"
 		},
 		{
 			"key":"EP09_S4013_0041",
-			"value":"ううん、アオイさんはここに残ってほしい\n避難してるみんなを守る戦力も必要だ"
+			"value":"No, I want you to stay here, Aoi. I need you\nguys to protect everyone escaping."
 		},
 		{
 			"key":"EP09_S4013_0042",
-			"value":"……ちゃんと無事に戻ってくるわよね？"
+			"value":"You’ll...come back safe, won’t you?"
 		},
 		{
 			"key":"EP09_S4013_0043",
-			"value":"うん、そのつもりだよ\nジジモンをお願い"
+			"value":"Yeah, that’s the plan. Take care of Jijimon,\nwill you?"
 		},
 		{
 			"key":"EP09_S4013_0044",
-			"value":"……わかったわ\n私たちはみんなを守りつつ、ここから離れるわ"
+			"value":"...Okay.\nWe’ll escort everyone out of here."
 		},
 		{
 			"key":"EP09_S4013_0045",
-			"value":"タクマばっかりカッコつけちゃって！\n私は飛び出したら怒られたのに"
+			"value":"Look at you, acting all cool! And here I get\nso much crap when I go off on my own."
 		},
 		{
 			"key":"EP09_S4013_0046",
-			"value":"だから約束してよ\n必ず、あの二人と一緒に帰ってきてよね！"
+			"value":"You’d better promise, you hear? Bring those\ntwo knuckleheads back with you!"
 		},
 		{
 			"key":"EP09_S4013_0047",
-			"value":"うん。約束する"
+			"value":"Yeah, I promise."
 		},
 		{
 			"key":"EP09_S4013_0048",
-			"value":"それじゃあ全員、こっちに避難だ！\n逃げたケモノたちと合流するぞ！"
+			"value":"Well then, everyone, let us take refuge! We\nmust join up with the other evacuees!"
 		},
 		{
 			"key":"EP09_S4013_0049",
-			"value":"気を付けてね、タクマくん、アグモン！"
+			"value":"Takuma, Agumon, take care of yourselves!"
 		},
 		{
 			"key":"EP09_S4013_0050",
-			"value":"ボクたちは大丈夫だぞ！\nそっちも気を付けてね！"
+			"value":"We’ll be a-okay! You better do the same!"
 		},
 		{
 			"key":"EP09_S4013_0051",
-			"value":"（……霧が、濃い\n　残された時間はきっと少ない）"
+			"value":"(Hmm... The fog is thick here. There can’t be\nmuch time left.)"
 		},
 		{
 			"key":"EP09_S4013_0052",
-			"value":"（カイト、ミウ……\n　頼む、無事でいてくれ）"
+			"value":"(Kaito, Miu... Please be okay.)"
 		}
 	]
 }

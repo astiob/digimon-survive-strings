@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1995_0001",
-			"value":"タクマさん、シュウジさんいないよ……"
+			"value":"I haven’t seen Shuuji anywhere..."
 		},
 		{
 			"key":"EP05_S1995_0002",
-			"value":"そうか……僕の方もまだ見つかってない"
+			"value":"Oh... Neither have I."
 		},
 		{
 			"key":"EP05_S1995_0003",
-			"value":"僕は他のところも見てくる\nミウは誰かと合流して……"
+			"value":"I’ll go check somewhere else. You should go\nmeet up with one of the others and—"
 		},
 		{
 			"key":"EP05_S1995_0004",
-			"value":"ウチもちゃんと捜すよ！\nまだこの辺捜してないトコあるし！"
+			"value":"I’ll look too! I haven’t searched every nook\nand cranny of this place yet!"
 		},
 		{
 			"key":"EP05_S1995_0005",
-			"value":"そ、そうか……それじゃあ、頼むよ"
+			"value":"Oh, okay... Then I’ll leave it to you."
 		},
 		{
 			"key":"EP05_S1995_0006",
-			"value":"まっかせて！"
+			"value":"Heck yeah, you will!"
 		},
 		{
 			"key":"EP05_S1995_0007",
-			"value":"あれ？　今、水の中に\n何か見えたような……？"
+			"value":"What’s that? Was there something in the\nwater?"
 		},
 		{
 			"key":"EP05_S1995_0008",
-			"value":"え？　あぁ、なんでもないよ\nここはまかせてね！"
+			"value":"Huh? Oh, I guess not. Well, leave this place\nto me!"
 		}
 	]
 }

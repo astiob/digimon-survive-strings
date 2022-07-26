@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0091_0001",
-			"value":"そうか、下は水路になってたよな"
+			"value":"Oh, and there was a canal down there."
 		},
 		{
 			"key":"EP02_S0091_0002",
-			"value":"マジで無事かもしれないよな！？"
+			"value":"He might really be okay?"
 		},
 		{
 			"key":"EP02_S0091_0003",
-			"value":"っ！　みんな、下流に向かおう！\n流されている可能性が高い！"
+			"value":"Let’s head downstream! He might have been\ncarried away by the flow of the water!"
 		},
 		{
 			"key":"EP02_S0091_0004",
-			"value":"それから、声を出すんだ！\n教授に呼びかけて！"
+			"value":"He might be able to hear us, then!\nCall out to him!"
 		},
 		{
 			"key":"EP02_S0091_0005",
-			"value":"教授ー！　教授ー！"
+			"value":"Professor! Professor?"
 		},
 		{
 			"key":"EP02_S0091_0006",
-			"value":"教授ー！　どこー！？"
+			"value":"Professor! Where are you?"
 		},
 		{
 			"key":"EP02_S0091_0007",
-			"value":"おーーい！　教授ーー！"
+			"value":"Hey, Professooor!!!"
 		},
 		{
 			"key":"EP02_S0091_0008",
-			"value":"ひぃっ！？"
+			"value":"Yeeep!"
 		},
 		{
 			"key":"EP02_S0091_0009",
-			"value":"なになにぃ？　今の声～"
+			"value":"Wait, who said that?"
 		},
 		{
 			"key":"EP02_S0091_0010",
-			"value":"さっきのヤツだ！\nこの近くにいるのかも！"
+			"value":"That thing might be nearby!"
 		},
 		{
 			"key":"EP02_S0091_0011",
-			"value":"タクマ、ボクまだ……"
+			"value":"Takuma! I’m still..."
 		},
 		{
 			"key":"EP02_S0091_0012",
-			"value":"わかってるよ。不意打ちを食らわないように\n様子を見るだけだ"
+			"value":"It’s okay. I’m just going to have a look\naround. I’ll be extra careful."
 		}
 	]
 }

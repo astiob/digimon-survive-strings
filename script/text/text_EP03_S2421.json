@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2421_0001",
-			"value":"あれ、開かない……？"
+			"value":"Hm? It...won’t open?"
 		},
 		{
 			"key":"EP03_S2421_0002",
-			"value":"まさか、またドクグモンの糸！？"
+			"value":"Oh no... Could this be Dokugumon again?! "
 		},
 		{
 			"key":"EP03_S2421_0003",
-			"value":"ん……いや、これ普通に鍵が掛かってる感じだ"
+			"value":"Wait. I think the door’s actually just\nlocked."
 		},
 		{
 			"key":"EP03_S2421_0004",
-			"value":"……なんで鍵なんて掛かってるんだ？"
+			"value":"But...why would it be?"
 		},
 		{
 			"key":"EP03_S2421_0005",
-			"value":"とりあえず今は開けられないし\n他のところに行ってみよう"
+			"value":"Well, whatever the reason, I’m not getting\nthrough here. I’d better move on."
 		}
 	]
 }

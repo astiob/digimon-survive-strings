@@ -2,163 +2,163 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4150_0001",
-			"value":"ミノル、何か見つかったか？"
+			"value":"Find anything, Minoru?"
 		},
 		{
 			"key":"EP11_S4150_0002",
-			"value":"おっ、タクマ！　いや～、全然だわ"
+			"value":"Hey, Takuma! It totally sucked,\nunfortunately..."
 		},
 		{
 			"key":"EP11_S4150_0003",
-			"value":"見つかるどころか捜せてもいない\n地下水道があの霧で満たされてしまったからな"
+			"value":"There was nothing to search because the\nunderground waterway was full of fog."
 		},
 		{
 			"key":"EP11_S4150_0004",
-			"value":"中には入れそうもなかったから\n諦めてこうして引き返してきたんだ"
+			"value":"We couldn’t even get inside, so we gave up\nand left."
 		},
 		{
 			"key":"EP11_S4150_0005",
-			"value":"どーなってんだろうな、マジで\nいきなり霧が大発生だ"
+			"value":"What’s going on with this fog everywhere all\nof a sudden, anyway?"
 		},
 		{
 			"key":"EP11_S4150_0006",
-			"value":"オレ、一旦校舎へ戻った方がいいよな？\n霧のこと、みんなにも伝えねーと"
+			"value":"I should head back to the school, huh? Gotta\ntell everyone about the fog..."
 		},
 		{
 			"key":"EP11_S4150_0007",
-			"value":"それが賢明だろう\nタクマ、構わないか？"
+			"value":"Sounds wise to me. How about you, Takuma?"
 		},
 		{
 			"key":"EP11_S4150_0008",
-			"value":"う、うん"
+			"value":"Um, sure."
 		},
 		{
 			"key":"EP11_S4150_0009",
-			"value":"（ミノル、なんか雰囲気変わったな）"
+			"value":"(Minoru’s acting different than usual.)"
 		},
 		{
 			"key":"EP11_S4150_0010",
-			"value":"（自分からこうしよう、ああしようって\n　前はそんなに言わなかった気がするのに）"
+			"value":"(I don’t remember him ever suggesting what to\ndo like this.)"
 		},
 		{
 			"key":"EP11_S4150_0011",
-			"value":"（今は自分から進んで\n　提案や希望を伝えてくれてる）"
+			"value":"(He always says and does what he wants. Never\nsuggests, or bothers to ask permission.)"
 		},
 		{
 			"key":"EP11_S4150_0012",
-			"value":"（なんか……うれしいな）"
+			"value":"(It’s kinda...nice to see, actually.)"
 		},
 		{
 			"key":"EP11_S4150_0013",
-			"value":"どーした？\nなんかボーッとしてるけど"
+			"value":"What’s up? You’re totally spacing out."
 		},
 		{
 			"key":"EP11_S4150_0014",
-			"value":"あ、えーっと"
+			"value":"Oh, um..."
 		},
 		{
 			"key":"EP11_S4150_Q1",
-			"value":"（ミノルにどう答えよう？）"
+			"value":"(How should I respond to Minoru?)"
 		},
 		{
 			"key":"EP11_S4150_Q1_A1",
-			"value":"頼りになるな"
+			"value":"I really trust you."
 		},
 		{
 			"key":"EP11_S4150_Q1_A2",
-			"value":"変わったな"
+			"value":"You’re different..."
 		},
 		{
 			"key":"EP11_S4150_Q1_A3",
-			"value":"なんでもないよ"
+			"value":"Nothing."
 		},
 		{
 			"key":"EP11_S4150_0015",
-			"value":"頼りになるな"
+			"value":"I really trust you."
 		},
 		{
 			"key":"EP11_S4150_0016",
-			"value":"ミノル、ちゃんと自分主導で動いてて\n頼りになるなって思ってさ"
+			"value":"You’ve gotten more independent, and I feel\nlike I can really trust you now."
 		},
 		{
 			"key":"EP11_S4150_0017",
-			"value":"ええ？　急に何言ってんだ、お前"
+			"value":"What the hell makes you say that all of\na sudden?"
 		},
 		{
 			"key":"EP11_S4150_0018",
-			"value":"確かにミノルは心が強くなった\n俺も同じように感じている"
+			"value":"Minoru has grown stronger on the inside.\nI feel the same way."
 		},
 		{
 			"key":"EP11_S4150_0019",
-			"value":"や、やーめーろーよー！\n今そんな話してる場合じゃねーだろ！"
+			"value":"Will you guys cut it out?! This isn’t the\ntime to get all sentimental!"
 		},
 		{
 			"key":"EP11_S4150_0020",
-			"value":"悪かったって\nミノルの言った方針で何の異論もないよ"
+			"value":"Sorry, sorry! Anyway, I approve of your\nproposal."
 		},
 		{
 			"key":"EP11_S4150_0021",
-			"value":"お、おう、わかった\nじゃあオレたち、一度校舎に戻るな"
+			"value":"A’ight. It’s off to the school, then!"
 		},
 		{
 			"key":"EP11_S4150_0022",
-			"value":"変わったな"
+			"value":"You’re different..."
 		},
 		{
 			"key":"EP11_S4150_0023",
-			"value":"ミノル、変わったなって思って"
+			"value":"Something seems different about you, Minoru."
 		},
 		{
 			"key":"EP11_S4150_0024",
-			"value":"ん？　どこが？"
+			"value":"Huh? Like how?"
 		},
 		{
 			"key":"EP11_S4150_0025",
-			"value":"うーん、ちゃんと意見を言うところ？"
+			"value":"Like, the way you articulated your opinion so\nclearly."
 		},
 		{
 			"key":"EP11_S4150_0026",
-			"value":"なんだよ、オレが今までずーっと\n日和見だったみたいじゃねーかよ"
+			"value":"You make it sound like I’ve been a total\nflake this whole time."
 		},
 		{
 			"key":"EP11_S4150_0027",
-			"value":"まあ、間違っちゃいねーけどさ\nでもオレだってちょっとは成長すんだぜ"
+			"value":"I mean, I kinda have been... But I’ve gotten\nmore mature now!"
 		},
 		{
 			"key":"EP11_S4150_0028",
-			"value":"んじゃ、オレたちもう少し見て回ったら\n校舎に戻るな"
+			"value":"Anyway, we’ll look around a little more and\nthen head back to the school."
 		},
 		{
 			"key":"EP11_S4150_0029",
-			"value":"なんでもない"
+			"value":"Nothing."
 		},
 		{
 			"key":"EP11_S4150_0030",
-			"value":"いや、なんでもない\n色々感慨深かっただけかな"
+			"value":"Oh, nothing. I just got lost in my feelings\nfor a second there."
 		},
 		{
 			"key":"EP11_S4150_0031",
-			"value":"はあ？　なんだそれ\nお前、疲れてんじゃねーの？"
+			"value":"What the hell? Are you worn out or something?"
 		},
 		{
 			"key":"EP11_S4150_0032",
-			"value":"そうかもな"
+			"value":"Maybe I am..."
 		},
 		{
 			"key":"EP11_S4150_0033",
-			"value":"オレたちより、お前が先に\n戻って休んだ方がいいんじゃねーの？"
+			"value":"Then maybe you should head back before us and\nget some rest?"
 		},
 		{
 			"key":"EP11_S4150_0034",
-			"value":"オレたちも、あと少し捜したら戻るから\nお前も倒れる前に休めよ"
+			"value":"We’ll go back as soon as we finish here. Get\nsome rest before you collapse."
 		},
 		{
 			"key":"EP11_S4150_0035",
-			"value":"うん、わかった\nそれじゃ、また後で"
+			"value":"All right! See you later then."
 		},
 		{
 			"key":"EP11_S4150_0036",
-			"value":"なんで突然、こんな霧だらけになんだよ\nカイトのヤツ、無事だといいけど"
+			"value":"What’s with all this fog? Kaito better be\nokay, wherever he is..."
 		}
 	]
 }

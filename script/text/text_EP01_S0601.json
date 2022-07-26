@@ -2,11 +2,11 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0601_0001",
-			"value":"あれ？　こんなところに何か落ちてる"
+			"value":"Huh? Something’s on the floor here."
 		},
 		{
 			"key":"EP01_S0601_0002",
-			"value":"お、これは使えそうだ\n貰っておくか"
+			"value":"Oh, this could be useful! I should take it\nwith us."
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1310_0001",
-			"value":"あれぇ……？\nタクマ、ここ、なにかあるよ！"
+			"value":"Huh...? Hey, there’s something here, Takuma!"
 		},
 		{
 			"key":"EP11_S1310_0002",
-			"value":"ん……？\n本当だ……！"
+			"value":"Oh? Huh, you’re right!"
 		},
 		{
 			"key":"EP11_S1310_0003",
-			"value":"取っておいたらどうだ？\n何かの役に立つかもしれない"
+			"value":"Why don’t you take it? It might come in handy\nlater."
 		},
 		{
 			"key":"EP11_S1310_0004",
-			"value":"ああ、そうするよ……！"
+			"value":"Sure, I’ll do just that!"
 		}
 	]
 }

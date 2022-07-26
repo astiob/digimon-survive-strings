@@ -2,159 +2,159 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9118_0001",
-			"value":"やぁタクマ、ここにはいなかったよ"
+			"value":"Hello, Takuma. We haven’t had any luck here."
 		},
 		{
 			"key":"EP12_S9118_0002",
-			"value":"ま、待った。まだ探したりないかもしれねえ……\nも、もうちょっと、ここに、いようぜ……"
+			"value":"W-wait! There might still be places we\nhaven’t checked. Let’s not move on yet."
 		},
 		{
 			"key":"EP12_S9118_0003",
-			"value":"ご覧の通りで\nさっきからずっとここを探し続けてるんだ"
+			"value":"And that, as you can see, is why we’ve stuck\naround."
 		},
 		{
 			"key":"EP12_S9118_0004",
-			"value":"（シュウジさんの苦労が想像つくな\n　リョウを励ませば、やる気になってくれるかな？）"
+			"value":"(Shuuji’s probably got his hands full with\nRyo. Maybe if I say something it’ll help?)"
 		},
 		{
 			"key":"EP12_S9118_Q1",
-			"value":"（シュウジさんとリョウに何て言おう？）"
+			"value":"(What should I say here?)"
 		},
 		{
 			"key":"EP12_S9118_Q1_A1",
-			"value":"頑張れ、リョウ"
+			"value":"Keep going, Ryo!"
 		},
 		{
 			"key":"EP12_S9118_Q1_A2",
-			"value":"大変ですね、シュウジさん"
+			"value":"Sounds rough, Shuuji."
 		},
 		{
 			"key":"EP12_S9118_Q1_A3",
-			"value":"ここの探索も必要ですから"
+			"value":"Gotta be thorough."
 		},
 		{
 			"key":"EP12_S9118_0005",
-			"value":"頑張れ、リョウ"
+			"value":"Keep going, Ryo!"
 		},
 		{
 			"key":"EP12_S9118_0006",
-			"value":"頑張れ、リョウ\n今はリョウの探索力が必要なんだ"
+			"value":"It’s important that you keep going, Ryo. We\nall need your help to find this ghost!"
 		},
 		{
 			"key":"EP12_S9118_0007",
-			"value":"だ、だからここを探索するっつーの！"
+			"value":"Th-that’s why I’m being so thorough!"
 		},
 		{
 			"key":"EP12_S9118_0008",
-			"value":"だ、だいたいよぉ、敵の可能性だってあるだろ……？\nもし幽霊なんかに襲われたらどうすんだ……？"
+			"value":"You know, this thing might be hostile. Can\nyou imagine being attacked by a ghost?"
 		},
 		{
 			"key":"EP12_S9118_0009",
-			"value":"こ、ここで大人しくするのが、い、いい一番だって……"
+			"value":"The thing to do is to stay out of trouble..."
 		},
 		{
 			"key":"EP12_S9118_0010",
-			"value":"タクマ、無駄だよ……リョウは僕が何とかするから\n君は他の所を見てきてほしい"
+			"value":"It’s no use, Takuma. Let me deal with Ryo.\nYou go keep looking around."
 		},
 		{
 			"key":"EP12_S9118_0011",
-			"value":"お、お願いします……"
+			"value":"Yeah... Thanks..."
 		},
 		{
 			"key":"EP12_S9118_0012",
-			"value":"大変ですね、シュウジさん"
+			"value":"Sounds rough, Shuuji."
 		},
 		{
 			"key":"EP12_S9118_0013",
-			"value":"大変ですね、シュウジさん"
+			"value":"Sounds rough, Shuuji."
 		},
 		{
 			"key":"EP12_S9118_0014",
-			"value":"うん……まぁ、なに\nこれでもリョウは、やる時はやる男だ"
+			"value":"I guess. But you know, Ryo always comes\nthrough when it counts."
 		},
 		{
 			"key":"EP12_S9118_0015",
-			"value":"落ち着くまではここで一緒に探すとするよ"
+			"value":"I’ll stay here and help him look around until\nhe calms down."
 		},
 		{
 			"key":"EP12_S9118_0016",
-			"value":"優しいですね、シュウジさん"
+			"value":"That’s kind of you, Shuuji."
 		},
 		{
 			"key":"EP12_S9118_0017",
-			"value":"怖がる気持ちもわからないではないからね"
+			"value":"Well, I know how it feels to be scared like\nthat."
 		},
 		{
 			"key":"EP12_S9118_0018",
-			"value":"実は僕も結構怖がっていることは\n内緒にしてくれ"
+			"value":"To be honest, I’m pretty freaked out myself.\nDon’t tell anyone, though."
 		},
 		{
 			"key":"EP12_S9118_0019",
-			"value":"あはは、わかりました"
+			"value":"Ahaha, no problem."
 		},
 		{
 			"key":"EP12_S9118_0020",
-			"value":"ここの探索も必要ですから"
+			"value":"Gotta be thorough."
 		},
 		{
 			"key":"EP12_S9118_0021",
-			"value":"まぁ、リョウの言う通り\nここの探索も必要ですから"
+			"value":"You’re right, Ryo, you’ve gotta be thorough."
 		},
 		{
 			"key":"EP12_S9118_0022",
-			"value":"な？　そうだよな！\n必要なことだ、うん！"
+			"value":"Right? It’s important! I’ve just...gotta keep\nlooking around here!"
 		},
 		{
 			"key":"EP12_S9118_0023",
-			"value":"はぁ、わかったわかった\nリョウが落ち着くまではここにいるから"
+			"value":"*sigh* Yeah, okay. I’ll stay here until you\ncalm down, Ryo."
 		},
 		{
 			"key":"EP12_S9118_0024",
-			"value":"お、おう……べ、別に落ち着いてるけど……\n……助かる"
+			"value":"G-good. I’m... I’m totally calm, but...I’m\nglad you’re sticking around."
 		},
 		{
 			"key":"EP12_S9118_0025",
-			"value":"じゃあ、ここは二人にまかせますね"
+			"value":"All right, I’ll leave this place to you two."
 		},
 		{
 			"key":"EP12_S9118_0026",
-			"value":"ああ、リョウも僕が何とかするから\n安心していてくれ"
+			"value":"Sounds good. And don’t worry, I’ll deal with\nRyo."
 		},
 		{
 			"key":"EP12_S9118_0027",
-			"value":"ねぇシュウジ、ロップモンは？"
+			"value":"Uh, Shuuji? Where’s Lopmon?"
 		},
 		{
 			"key":"EP12_S9118_0028",
-			"value":"あれ？　いないな……\n他の所を探しているのかな？"
+			"value":"Hm? Oh yeah, I don’t see him. Maybe he went\nto check somewhere else?"
 		},
 		{
 			"key":"EP12_S9118_0029",
-			"value":"クネモンは！　クネモンはいるな！？\nこ、こっち来いよ、ビビッてんだろ？"
+			"value":"Kunemon? You’re there, right?! Come here,\nwould you? I bet you’re scared."
 		},
 		{
 			"key":"EP12_S9118_0030",
-			"value":"ギュゥ……ムギュゥゥ！"
+			"value":"Geww... Mugewww!"
 		},
 		{
 			"key":"EP12_S9118_0031",
-			"value":"うーん……ロップモンは気になるが\nリョウを置いて捜しには行けないな……"
+			"value":"Hmm... I’m worried about Lopmon, but I’d hate\nto leave Ryo here alone..."
 		},
 		{
 			"key":"EP12_S9118_0032",
-			"value":"他のとこに行きがてら、僕が捜しておきますよ"
+			"value":"Hey, I’ll keep an eye out for him while I’m\nlooking around."
 		},
 		{
 			"key":"EP12_S9118_0033",
-			"value":"そうか。助かる、頼んだよ"
+			"value":"You will? That’d be a huge help, thanks."
 		},
 		{
 			"key":"EP12_S9118_0034",
-			"value":"あぁタクマ\nリョウならまだ、相変わらずだよ"
+			"value":"Hi, Takuma. I’m afraid Ryo’s not doing much\nbetter."
 		},
 		{
 			"key":"EP12_S9118_0035",
-			"value":"ちゃ、ちゃんと探してるっつーの！"
+			"value":"Hey! I’m just bein’ thorough!"
 		}
 	]
 }

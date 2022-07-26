@@ -2,59 +2,59 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1511_0001",
-			"value":"見てみてタクマ、やっぱり何かいる！\nわ、わぁ～っ！"
+			"value":"Look, look, Takuma! There’s something there!\nWhoaaa!"
 		},
 		{
 			"key":"EP03_S1511_0002",
-			"value":"な、何か飛び出してきたぁ～！"
+			"value":"Something just jumped out!"
 		},
 		{
 			"key":"EP03_S1511_0003",
-			"value":"何だ、あいつ……\n襲いかかってはこないのか？"
+			"value":"What’s with that thing? Are you sure it’s not\ngoing to attack?"
 		},
 		{
 			"key":"EP03_S1511_0004",
-			"value":"こちらを警戒しているようだな"
+			"value":"It appears wary of our presence."
 		},
 		{
 			"key":"EP03_S1511_0005",
-			"value":"みて！\nケガをしてるわ！"
+			"value":"Look! It’s hurt!"
 		},
 		{
 			"key":"EP03_S1511_0006",
-			"value":"それで殺気立ってるのかな\nずっとボクたちを睨んでる……"
+			"value":"Maybe that’s why it’s upset. It’s been\nglaring at us this whole time..."
 		},
 		{
 			"key":"EP03_S1511_0007",
-			"value":"タクマ、どうする？"
+			"value":"What should we do, Takuma?"
 		},
 		{
 			"key":"EP03_S1511_0008",
-			"value":"ケガを看てやろうか？\nたぶんそれで気が立ってるんだ"
+			"value":"Shouldn’t we treat its wound? That’s probably\nwhy it’s so agitated."
 		},
 		{
 			"key":"EP03_S1511_0009",
-			"value":"タクマったら、やさしい！\nアオイみたいなこと言うじゃない"
+			"value":"You’re so kind, Takuma! You sound just like\nAoi."
 		},
 		{
 			"key":"EP03_S1511_0010",
-			"value":"いいのか？　奴は手負いで危険だぞ？\n恩を仇で返す可能性もある"
+			"value":"Are you sure? That creature’s wounded.\nIt might try to fight back."
 		},
 		{
 			"key":"EP03_S1511_0011",
-			"value":"……まあ、大丈夫だろう\nさあ、おいで？"
+			"value":"I’m sure it’s fine. Hey, you! Come here!"
 		},
 		{
 			"key":"EP03_S1511_0012",
-			"value":"……まあ、大丈夫だろう\nさあ、おいで？"
+			"value":"I’m sure it’s fine. Hey, you! Come here!"
 		},
 		{
 			"key":"EP03_S1511_0100",
-			"value":"（ケガをしてるせいか、僕らを怖がってる感じだ……）"
+			"value":"(It looks scared of us... Maybe it’s the\ninjury.)"
 		},
 		{
 			"key":"EP03_S1511_0101",
-			"value":"（でも、優しく接すればきっと気持ちは届くはずだ）"
+			"value":"(I’m sure it’ll see we mean no harm if we\ntake it slow and steady.)"
 		}
 	]
 }

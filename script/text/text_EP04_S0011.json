@@ -2,83 +2,83 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0011_0001",
-			"value":"ダメだ……！\nそっちへ行くな！　戻れリョウ……！"
+			"value":"Stop! No, not that way! Ryo! Come back!"
 		},
 		{
 			"key":"EP04_S0011_0002",
-			"value":"リョウ！　リョウ！！"
+			"value":"Ryo! Ryo!!!"
 		},
 		{
 			"key":"EP04_S0011_0003",
-			"value":"っ……！！！\nはあ、はあ、はあ……"
+			"value":"Gah! *huff* *huff*..."
 		},
 		{
 			"key":"EP04_S0011_0004",
-			"value":"ゆ、夢……だよな"
+			"value":"Phew... It was just a dream."
 		},
 		{
 			"key":"EP04_S0011_0005",
-			"value":"（その朝、僕はひどい夢にうなされて目を覚ました\n　全身汗びっしょりで、少しだけ手が震えていた）"
+			"value":"(I woke up from a nightmare this morning,\ndrenched in sweat, my hands still shaking.)"
 		},
 		{
 			"key":"EP04_S0011_0006",
-			"value":"（我ながら、無理もないと思う\n　昨夜はかなり遅くまで寝付けなかったし。それに……）"
+			"value":"(It’s not surprising. I had a lot on my mind\nlast night, and sleep did not come easy.)"
 		},
 		{
 			"key":"EP04_S0011_0007",
-			"value":"（リョウを取り込もうとしたあの手\n　霧から現れたものは、何だったんだろう）"
+			"value":"(Those hands that reached out to grab Ryo,\nthat thing that appeared in the fog...)"
 		},
 		{
 			"key":"EP04_S0011_0008",
-			"value":"（なんとかリョウを助けることはできたけど\n　あんなバケモノにまた襲われたら……）"
+			"value":"(What were they? Luckily we were able to save\nRyo, but what if that thing came back?)"
 		},
 		{
 			"key":"EP04_S0011_0009",
-			"value":"（アグモンたちが恐れていたのはアレだったのか？\n　あんなの、倒すとかそういう次元じゃないだろ）"
+			"value":"(Is that what scared Agumon and the others?\nIt didn’t seem like something we could beat.)"
 		},
 		{
 			"key":"EP04_S0011_0010",
-			"value":"（駄目だ、思い出したらまた震えてきた\n　本能的にわかる……アレは、怖いものだ）"
+			"value":"(Man, just thinking back on it has me\nshaking. That thing was seriously scary.)"
 		},
 		{
 			"key":"EP04_S0011_0011",
-			"value":"（……僕たち、この世界で生きていけるのかな？）"
+			"value":"(Are we really going to be able to survive\nhere in this world?)"
 		},
 		{
 			"key":"EP04_S0011_0012",
-			"value":"（昨日、僕らは目の前で\n　リョウを失ったばかりなんだから）"
+			"value":"(Not after watching Ryo die right in front of\nus yesterday.)"
 		},
 		{
 			"key":"EP04_S0011_0013",
-			"value":"（目の前で、誰かが死ぬのを見るのなんて\n　もちろん初めてだったし）"
+			"value":"(But beyond the terror of watching someone\ndie for the first time,)"
 		},
 		{
 			"key":"EP04_S0011_0014",
-			"value":"（何より、あの正体不明の手\n　あんなのに捕まって引きずりこまれてくなんて……）"
+			"value":"(seeing that strange tentacle reach out and\ngrab him was just awful.)"
 		},
 		{
 			"key":"EP04_S0011_0015",
-			"value":"（今思い出しても、やっぱりゾッとする）"
+			"value":"(Just thinking back on it now sends a shiver\ndown my spine.)"
 		},
 		{
 			"key":"EP04_S0011_0016",
-			"value":"（でも、いつまでもこうしてても仕方ないよな\n　昨夜アグモンにも、励まされたばっかりなんだ）"
+			"value":"(But I shouldn’t let myself dwell on it. Not\nafter how Agumon cheered me up last night.)"
 		},
 		{
 			"key":"EP04_S0011_0017",
-			"value":"って、そういえばアグモン……\nそれに、みんなは……？"
+			"value":"Wait, where is Agumon? And everyone else for\nthat matter?"
 		},
 		{
 			"key":"EP04_S0011_0018",
-			"value":"（誰もいない……\n　みんな、とっくに起きてるのか？）"
+			"value":"(Nobody else is here. Am I the last one up?)"
 		},
 		{
 			"key":"EP04_S0011_0019",
-			"value":"（なら、ますますぼーっとしてる場合じゃない\n　これからどうするか、みんなと話さないと）"
+			"value":"(Then all the more reason to get moving. We\nneed to figure out what comes next.)"
 		},
 		{
 			"key":"EP04_S0011_0020",
-			"value":"（この時間なら、みんなまだ食堂かな……？\n　とりあえず食堂に行ってみるか）"
+			"value":"(It’s not too late, so maybe the others are\nstill in the cafeteria. I’d better go see.)"
 		}
 	]
 }

@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S0120_0001",
-			"value":"よし、やっと着いたぞ……"
+			"value":"Phew. We finally made it!"
 		},
 		{
 			"key":"EP03_S0120_0002",
-			"value":"いや今更だけどさ……こんなボロボロのロープウェイが\n動くなんておかしくない？　どっから電気来てんの？"
+			"value":"You know, I should’ve thought of this sooner,\nbut how’s that old cable car working?"
 		},
 		{
 			"key":"EP03_S0120_0003",
-			"value":"メンテとかどーなってんだよ、誰がやってんだよ\nおかしいだろ！"
+			"value":"Where’s the power coming from? Who’s keeping\nit running? It doesn’t make any sense!"
 		},
 		{
 			"key":"EP03_S0120_0004",
-			"value":"校舎の水道だってそうだよね\nなんなんだろ、ホント"
+			"value":"It’s the same thing with the plumbing at the\nschool. Like, how does any of this work?"
 		},
 		{
 			"key":"EP03_S0120_0005",
-			"value":"今はそんなことよりミウの行方だ\nさっさと登ろうぜ"
+			"value":"Who cares? All I want to know right now is\nwhere Miu went. Come on, let’s go!"
 		}
 	]
 }

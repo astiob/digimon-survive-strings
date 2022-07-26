@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0355_0001",
-			"value":"あ、タクマ！　アオイは！？　見つかった！？"
+			"value":"Oh, it’s you, Takuma! What about Aoi? Did you\nfind her?!"
 		},
 		{
 			"key":"EP01_S0355_0002",
-			"value":"ごめん、まだだ……"
+			"value":"Not yet, I’m afraid..."
 		},
 		{
 			"key":"EP01_S0355_0003",
-			"value":"そう……"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP01_S0355_0004",
-			"value":"顔を上げて、ラブラモン\n諦めずに頑張って捜そう！"
+			"value":"Cheer up, Labramon. We can’t give up now,\nthere are still plenty of places to look!"
 		},
 		{
 			"key":"EP01_S0355_0005",
-			"value":"ええ、そうね！　がんばりましょう！"
+			"value":"Yeah, you’re right! Let’s keep up the search!"
 		},
 		{
 			"key":"EP01_S0355_0006",
-			"value":"がんばってアオイを見つけましょう！"
+			"value":"Let’s do everything we can to find Aoi!"
 		}
 	]
 }

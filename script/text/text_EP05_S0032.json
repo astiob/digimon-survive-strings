@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0032_0001",
-			"value":"あぁ、くそっ！　歩きにくいな……！"
+			"value":"Ah, dammit! It’s hard to walk here...!"
 		},
 		{
 			"key":"EP05_S0032_0002",
-			"value":"シュウジ、もう少しゆっくりでも\nいいんじゃないかな……？"
+			"value":"Maybe you should take it a bit slower,\nShuuji...?"
 		},
 		{
 			"key":"EP05_S0032_0003",
-			"value":"うるさい！　君が僕に指図するな！"
+			"value":"Shut up! Don’t tell me what to do!"
 		},
 		{
 			"key":"EP05_S0032_0004",
-			"value":"ひぅっ！"
+			"value":"Eek!"
 		},
 		{
 			"key":"EP05_S0032_0005",
-			"value":"黙って僕の言うことを聞いていろ！\nわかったか！？"
+			"value":"Keep your mouth shut and do as I say! Got\nthat?!"
 		},
 		{
 			"key":"EP05_S0032_0006",
-			"value":"わ、わかった……"
+			"value":"All...all right."
 		},
 		{
 			"key":"EP05_S0032_0007",
-			"value":"まったく、どいつもこいつも……"
+			"value":"Nobody gets me..."
 		},
 		{
 			"key":"EP05_S0032_0008",
-			"value":"（かなりイラついてるな\n　今のシュウジさんに話しかけるのはやめておこう）"
+			"value":"(He sure is pissed. I should pass on trying\nto talk to him in this state.)"
 		},
 		{
 			"key":"EP05_S0032_0009",
-			"value":"（シュウジさんはまだイラついてるな\n　もう少し落ち着いてから話しかけよう）"
+			"value":"(Shuuji’s still upset. I’ll talk to him once\nhe’s calmed down a little.)"
 		}
 	]
 }

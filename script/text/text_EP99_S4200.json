@@ -2,179 +2,179 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S4200_0001",
-			"value":"あ、タクマ！　ちょ、ちょっといいか？\nすっげえ大事な話があるんだけど……"
+			"value":"Hey, Takuma! You got a sec? There’s something\nreal important I want to ask you."
 		},
 		{
 			"key":"EP99_S4200_0002",
-			"value":"……あの話の事なんだけど"
+			"value":"It’s about that thing from the other day."
 		},
 		{
 			"key":"EP99_S4200_0003",
-			"value":"あの話？\nどれの事？"
+			"value":"Huh? What thing? What are you talking about?"
 		},
 		{
 			"key":"EP99_S4200_0004",
-			"value":"体育館でのヤツ！\n決めセリフのアレだよ"
+			"value":"You know! From when we met up in the gym!\nWhen I was practicing catch phrases?"
 		},
 		{
 			"key":"EP99_S4200_0005",
-			"value":"ああ、あれか\nどうかしたの？"
+			"value":"Oh, right. What’s up?"
 		},
 		{
 			"key":"EP99_S4200_0006",
-			"value":"お前さ……\nもしかして誰かに言ったか？"
+			"value":"Listen, you didn’t say anything about that to\nanyone, did you?"
 		},
 		{
 			"key":"EP99_S4200_0007",
-			"value":"（ミノルはちょっと苛立ってる感じ……\nまさか僕を疑っているのか？）"
+			"value":"(Minoru seems kind of upset. Does he suspect\nthat I did?)"
 		},
 		{
 			"key":"EP99_S4200_0008",
-			"value":"誰にも言うはずがないだろ\nどうして尋ねてくるの？"
+			"value":"Of course not! Why do you ask?"
 		},
 		{
 			"key":"EP99_S4200_0009",
-			"value":"サキがなんか知ってる素振りなんだよ……\nオレを見てニヤニヤ笑ってるし"
+			"value":"Saki seems like she knows something. She gets\nthis grin whenever she looks at me."
 		},
 		{
 			"key":"EP99_S4200_0010",
-			"value":"なあタクマ……\nホントのところどうなんだよ？"
+			"value":"Look, Takuma, tell it to me straight, did you\nsay something?"
 		},
 		{
 			"key":"EP99_S4200_Q1",
-			"value":"秘密をバラした疑惑"
+			"value":"What should I say?"
 		},
 		{
 			"key":"EP99_S4200_Q1_A1",
-			"value":"言った"
+			"value":"Yes."
 		},
 		{
 			"key":"EP99_S4200_Q1_A2",
-			"value":"言ってない"
+			"value":"No."
 		},
 		{
 			"key":"EP99_S4200_Q1_A3",
-			"value":"どうでしょう？"
+			"value":"Maybe."
 		},
 		{
 			"key":"EP99_S4200_0011",
-			"value":"あれなら他の人に言ったよ"
+			"value":"Yeah, I did say something."
 		},
 		{
 			"key":"EP99_S4200_0012",
-			"value":"まじかよ！"
+			"value":"Are you serious?"
 		},
 		{
 			"key":"EP99_S4200_0013",
-			"value":"うそ、言ってない"
+			"value":"Nah, just kidding. I didn’t say a word."
 		},
 		{
 			"key":"EP99_S4200_0014",
-			"value":"どっちなんだよ！"
+			"value":"Oh, come on! Which is it?"
 		},
 		{
 			"key":"EP99_S4200_0015",
-			"value":"ごめんごめん、ミノルの反応を見たくて\nついウソを言っちゃった"
+			"value":"Sorry, I lied. I just wanted to see how you’d\nreact."
 		},
 		{
 			"key":"EP99_S4200_0016",
-			"value":"これもうどっちがウソか\nわかんなくなってきた……"
+			"value":"So which was the lie? I can’t even keep track\nanymore!"
 		},
 		{
 			"key":"EP99_S4200_0017",
-			"value":"とにかく！\nほら、ヒーローは完璧じゃないとだめだろ？"
+			"value":"Either way, remember, heroes have to be\nperfect."
 		},
 		{
 			"key":"EP99_S4200_0018",
-			"value":"だから練習してるところなんて\n見せらんないんだよ"
+			"value":"So nobody can know about how I practice."
 		},
 		{
 			"key":"EP99_S4200_0019",
-			"value":"そういう男のロマンな感じ\nタクマはわかってくれるだろ？"
+			"value":"You get it, right, Takuma? It’s part of being\na man!"
 		},
 		{
 			"key":"EP99_S4200_0020",
-			"value":"やっぱり本気で決めセリフを\n極めようとしてたんだ？"
+			"value":"So, you really were trying to come up with\na catch phrase?"
 		},
 		{
 			"key":"EP99_S4200_0021",
-			"value":"言ってないよ？\n言うわけないだろ、約束したんだから"
+			"value":"No, I didn’t say anything. After all,\nI promised you, didn’t I?"
 		},
 		{
 			"key":"EP99_S4200_0022",
-			"value":"ホントか……タクマ……？\nん～？"
+			"value":"Really? You mean that? Hmm?"
 		},
 		{
 			"key":"EP99_S4200_0023",
-			"value":"ミノル、近い、近いよ……\nそんなに僕の目を見つめないで……！"
+			"value":"Gah, Minoru, don’t get so close! Quit staring\ninto my eyes like that!"
 		},
 		{
 			"key":"EP99_S4200_0024",
-			"value":"……うん、そうだよな\nタクマが言うわけない、疑って悪かった"
+			"value":"Yeah, you’re right. You wouldn’t say\nanything. I’m sorry I doubted you."
 		},
 		{
 			"key":"EP99_S4200_0025",
-			"value":"どうしてわかるんだ？"
+			"value":"What convinced you?"
 		},
 		{
 			"key":"EP99_S4200_0026",
-			"value":"ふっ……オレさ\n人のウソがわかるんだよ、へへっ"
+			"value":"Heh...Didn’t you know? I can tell when people\nare lying. Heheh."
 		},
 		{
 			"key":"EP99_S4200_0027",
-			"value":"こうやって、相手の目を見れば……な\nま、これもヒーローの特殊能力かな"
+			"value":"I just need to look them in the eyes like\nthis. It’s like another superpower."
 		},
 		{
 			"key":"EP99_S4200_0028",
-			"value":"（それ……ホントかな……）"
+			"value":"(He’s...kidding, right?)"
 		},
 		{
 			"key":"EP99_S4200_0029",
-			"value":"ん～……どうでしょうねえ……"
+			"value":"I don’t know. Maybe I did, or maybe I didn’t."
 		},
 		{
 			"key":"EP99_S4200_0030",
-			"value":"え、そこではぐらかすのかよ！"
+			"value":"Hey! Don’t you brush this off like that!"
 		},
 		{
 			"key":"EP99_S4200_0031",
-			"value":"あのさ、言ったんなら仕方がないけど\nこれだけはわかってくれよ"
+			"value":"Look, whether you said something or not,\nI just want you to know something."
 		},
 		{
 			"key":"EP99_S4200_0032",
-			"value":"オレはな、ある程度真面目なんだぜ？"
+			"value":"I’m kind of serious about this, okay?"
 		},
 		{
 			"key":"EP99_S4200_0033",
-			"value":"……ある程度？"
+			"value":"Like how serious?"
 		},
 		{
 			"key":"EP99_S4200_0034",
-			"value":"別にかっこつけたいわけじゃない\nいや、ホントに"
+			"value":"It’s not just about me looking cool, all\nright? No, really."
 		},
 		{
 			"key":"EP99_S4200_0035",
-			"value":"でも、これでもし仲間を勇気づけられば\n少しは有利になるだろ？"
+			"value":"If it helps encourage even one of us, don’t\nyou think that’s useful?"
 		},
 		{
 			"key":"EP99_S4200_0036",
-			"value":"あのさ……言いたいことは\nわかるけど……本気で言ってるの？"
+			"value":"Hey, I get what you’re trying to say, but...\ndo you really mean that?"
 		},
 		{
 			"key":"EP99_S4200_0037",
-			"value":"疑うなよ……ったく"
+			"value":"Have a little faith in me, would you? Jeeze."
 		},
 		{
 			"key":"EP99_S4200_0038",
-			"value":"まあでもホントは\nホントはかっこつけたいんだけどさ……"
+			"value":"I mean, I can’t lie, I do want to look cool,\nbut..."
 		},
 		{
 			"key":"EP99_S4200_0039",
-			"value":"……まあいいや\nとにかく他のヤツにはナイショだぞ"
+			"value":"Look, just forget it, okay? The important\nthing is you keep it secret from the others."
 		},
 		{
 			"key":"EP99_S4200_0040",
-			"value":"サキにはオレから口止めしとくから！"
+			"value":"I’ll go make sure Saki doesn’t say anything\neither!"
 		}
 	]
 }

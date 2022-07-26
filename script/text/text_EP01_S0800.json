@@ -2,343 +2,343 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0800_0001",
-			"value":"うわっ、蜘蛛の巣が……\nこんなところにもあるのか"
+			"value":"Oh man... There’s even webs here?"
 		},
 		{
 			"key":"EP01_S0800_0002",
-			"value":"うわー、べとべとするよー"
+			"value":"Ewww, enough with the sticky-stick!"
 		},
 		{
 			"key":"EP01_S0800_0003",
-			"value":"マズい……こんな状況で襲われたら\n抵抗なんてできないぞ"
+			"value":"This could get bad... We won’t be able to\ndefend ourselves if we’re attacked here."
 		},
 		{
 			"key":"EP01_S0800_0004",
-			"value":"あっ、タクマ！　あそこに光が！"
+			"value":"Hey, I see light over there, Takuma!"
 		},
 		{
 			"key":"EP01_S0800_0005",
-			"value":"本当だ！　光が見えるぞ……"
+			"value":"Oh, you’re right! I see it too."
 		},
 		{
 			"key":"EP01_S0800_0006",
-			"value":"アグモン、急ごう！"
+			"value":"Let’s go, Agumon, on the double!"
 		},
 		{
 			"key":"EP01_S0800_0007",
-			"value":"おう！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0800_0008",
-			"value":"ふぅ、ようやく着いた\nアグモン、大丈夫か？"
+			"value":"Whew, we finally made it. You doing okay,\nAgumon?"
 		},
 		{
 			"key":"EP01_S0800_0009",
-			"value":"うぅ～、べとべとになっちゃった～"
+			"value":"Awww, I’m all ooey-gooey..."
 		},
 		{
 			"key":"EP01_S0800_0010",
-			"value":"うん、まぁ……怪我とかはしてないみたいだな"
+			"value":"Uh...\nWell, at least you’re not hurt anywhere."
 		},
 		{
 			"key":"EP01_S0800_0011",
-			"value":"それで、ここは……"
+			"value":"So then, where are we?"
 		},
 		{
 			"key":"EP01_S0800_0012",
-			"value":"ピアノ、楽譜……もしかして音楽室か？"
+			"value":"A piano, sheet music... Is this a music room?"
 		},
 		{
 			"key":"EP01_S0800_0013",
-			"value":"（ん？　奥の方に黒い影が、二つ？）"
+			"value":"(Hmm? I see a dark shadow over there...\nNo, there are two.)"
 		},
 		{
 			"key":"EP01_S0800_0014",
-			"value":"タクマ！　誰かいる！"
+			"value":"Someone’s here, Takuma!"
 		},
 		{
 			"key":"EP01_S0800_0015",
-			"value":"うわっ！　幽霊……？"
+			"value":"Whoa! Is it...the ghost?"
 		},
 		{
 			"key":"EP01_S0800_0016",
-			"value":"見つかっちゃったな"
+			"value":"Guess you found us."
 		},
 		{
 			"key":"EP01_S0800_0017",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0800_0018",
-			"value":"人間……？"
+			"value":"Are you...human?"
 		},
 		{
 			"key":"EP01_S0800_0019",
-			"value":"（幽霊ではない、はずだ……\n　言葉を話したし、透けてたりもしてないし……）"
+			"value":"(Well he’s talking, and I can’t see through\nhim...guess that rules out the ghost theory.)"
 		},
 		{
 			"key":"EP01_S0800_0020",
-			"value":"（でも、なんだ？　普通の人間とも違う）"
+			"value":"(Still, they don’t exactly feel like normal\npeople to me, either. What gives?)"
 		},
 		{
 			"key":"EP01_S0800_0021",
-			"value":"（月夜に照らされた白い肌が透き通っていて\n　表情も虚ろで、まるで現実のものじゃないような……）"
+			"value":"(Skin deathly pale against the moonlight,\nfaces without expression. They look unreal.)"
 		},
 		{
 			"key":"EP01_S0800_0022",
-			"value":"（この子たちは、いったい……？）"
+			"value":"(What’s their deal...?)"
 		},
 		{
 			"key":"EP01_S0800_0023",
-			"value":"君たちは……"
+			"value":"You two..."
 		},
 		{
 			"key":"EP01_S0800_0024",
-			"value":"早くこの学校から出ていって"
+			"value":"You should leave this school quickly."
 		},
 		{
 			"key":"EP01_S0800_0025",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP01_S0800_0026",
-			"value":"あいつらを刺激しないでよ"
+			"value":"You must not provoke them."
 		},
 		{
 			"key":"EP01_S0800_0027",
-			"value":"（少年の言葉にはトゲがあるように感じる……）"
+			"value":"(The boy’s words have a certain bite to\nthem...)"
 		},
 		{
 			"key":"EP01_S0800_0028",
-			"value":"（敵意と言うほどではないけど\n　僕らのことを邪魔に思っているのが伝わってくる……）"
+			"value":"(He doesn’t seem to bear any ill will, but\nhe seems to think we’re a nuisance...)"
 		},
 		{
 			"key":"EP01_S0800_0029",
-			"value":"（それに、『あいつら』とは？）"
+			"value":"(And who are this “them” he’s talking about?)"
 		},
 		{
 			"key":"EP01_S0800_0030",
-			"value":"あいつらって、バケモノのことか？"
+			"value":"Are you talking about the monster?"
 		},
 		{
 			"key":"EP01_S0800_0031",
-			"value":"そう。襲われたら君たちじゃ抵抗もできない"
+			"value":"Yeah. If it hunts you down, you guys won’t\nbe able to even resist."
 		},
 		{
 			"key":"EP01_S0800_0032",
-			"value":"（なんでだろう。子供の言うことだって聞き流せない\n　何かを感じる。敵はそんなに強いのか……）"
+			"value":"(There’s something in his words, even if he\nis a kid. Is the enemy that strong...?)"
 		},
 		{
 			"key":"EP01_S0800_0033",
-			"value":"（でも……）"
+			"value":"(Well, I know one thing for sure...)"
 		},
 		{
 			"key":"EP01_S0800_0034",
-			"value":"出ていくなんてできないよ。仲間がさらわれたんだ\nどうしても、助けたい"
+			"value":"We can’t just leave. Our friends have been\ntaken. I have to save them, no matter what."
 		},
 		{
 			"key":"EP01_S0800_0035",
-			"value":"お願いだ。何か知ってるなら、教えてくれないか？"
+			"value":"If you know anything, would you please tell\nus?"
 		},
 		{
 			"key":"EP01_S0800_0036",
-			"value":"………………"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0800_0037",
-			"value":"なに？　お姉ちゃん"
+			"value":"Hmm? What is it?"
 		},
 		{
 			"key":"EP01_S0800_0038",
-			"value":"（ん？　女の子が男の子に……ジェスチャーしてる？）"
+			"value":"(That girl is...gesturing to the boy?)"
 		},
 		{
 			"key":"EP01_S0800_0039",
-			"value":"はぁ……わかったよ"
+			"value":"*sigh*... Fine."
 		},
 		{
 			"key":"EP01_S0800_0040",
-			"value":"あいつらのことを教えてあげるよ"
+			"value":"I’ll tell you about them."
 		},
 		{
 			"key":"EP01_S0800_0041",
-			"value":"本当か！？"
+			"value":"Really?!"
 		},
 		{
 			"key":"EP01_S0800_0042",
-			"value":"お姉ちゃんがそうしろって言うから……"
+			"value":"My sister told me to, so..."
 		},
 		{
 			"key":"EP01_S0800_0043",
-			"value":"（お姉ちゃん……姉弟なのか\n　お姉ちゃんの方は、敵意は持ってないみたいだ）"
+			"value":"(Sister... So these two are siblings? She\nseems more cooperative than her brother.)"
 		},
 		{
 			"key":"EP01_S0800_0044",
-			"value":"襲ってきたのはおっきい蜘蛛みたいなやつで\n最近いきなりここを住処にした親玉気取りのやつだよ"
+			"value":"You’re being preyed on by a giant spider. It\nsuddenly took over this place a while back."
 		},
 		{
 			"key":"EP01_S0800_0045",
-			"value":"あ～それってドクグモンだな。あいつはヤなやつだぞ！"
+			"value":"Ohhh, that must be Dokugumon. I hate that\nguy!"
 		},
 		{
 			"key":"EP01_S0800_0046",
-			"value":"あいつらの住処は体育館\nでもそこは蜘蛛の巣で塞がれてる"
+			"value":"Its den is in the gym, but the whole place\nis gummed up with webs."
 		},
 		{
 			"key":"EP01_S0800_0047",
-			"value":"ああ、僕たちじゃ開けられなかった"
+			"value":"Yeah, we couldn’t get in there."
 		},
 		{
 			"key":"EP01_S0800_0048",
-			"value":"あいつらは天井裏とか床下を通って\n学校中を移動してるんだ"
+			"value":"It moves in the crawl space and under the\nfloors to get around the school."
 		},
 		{
 			"key":"EP01_S0800_0049",
-			"value":"（そうか、やっぱり天井から聞こえてた音は\n　僕らを襲ってたヤツの音だったんだ）"
+			"value":"(We were right, the sound we heard up in the\ncrawl space was that thing.)"
 		},
 		{
 			"key":"EP01_S0800_0050",
-			"value":"あいつらが使ってる通路への抜け穴が\n食堂の床下にある。探してみて"
+			"value":"There’s a secret passage to the routes it\nuses under the cafeteria. Go look for it."
 		},
 		{
 			"key":"EP01_S0800_0051",
-			"value":"食堂！　そうだったのか！\n教えてくれてありがとう！"
+			"value":"Oh! The cafeteria, huh? Thanks so much for\ntelling us!"
 		},
 		{
 			"key":"EP01_S0800_0052",
-			"value":"あいつは獲物をさらっても、すぐに殺したりしない"
+			"value":"That thing doesn’t kill its prey right after\nabducting them."
 		},
 		{
 			"key":"EP01_S0800_0053",
-			"value":"でも、獲物から食事代わりに生気を吸い取るから\n時間が経てば弱って死んでしまう"
+			"value":"But it sucks the life from its prey for\nsustenance, so over time they weaken and die."
 		},
 		{
 			"key":"EP01_S0800_0054",
-			"value":"（死ぬ……他人から言われると現実感があるな）"
+			"value":"(Die... Hearing someone else say it really\nmakes it hit home.)"
 		},
 		{
 			"key":"EP01_S0800_0055",
-			"value":"助けるなら急いだほうがいいよ"
+			"value":"If you want to save them, I wouldn’t waste\ntime."
 		},
 		{
 			"key":"EP01_S0800_0056",
-			"value":"ああ、わかった！"
+			"value":"Okay, got it!"
 		},
 		{
 			"key":"EP01_S0800_0057",
-			"value":"さらった獲物を取り返そうとするなら気をつけて\n向こうも抵抗してくるだろうから"
+			"value":"Be careful, it won’t give up its prey without\na fight."
 		},
 		{
 			"key":"EP01_S0800_0058",
-			"value":"（心配してくれてるのか……）"
+			"value":"(Is he...worried about us?)"
 		},
 		{
 			"key":"EP01_S0800_0059",
-			"value":"（僕にはアグモンがいるから\n　大丈夫だと思うけど……）"
+			"value":"(I should be fine, I have Agumon with me.\nStill...)"
 		},
 		{
 			"key":"EP01_S0800_Q1",
-			"value":"（この子たちになんて声をかけておこうかな）"
+			"value":"(What should I say to them?)"
 		},
 		{
 			"key":"EP01_S0800_Q1_A1",
-			"value":"君たちこそ大丈夫なのか？"
+			"value":"Will you two be okay?"
 		},
 		{
 			"key":"EP01_S0800_Q1_A2",
-			"value":"君たちは戦わないのか？"
+			"value":"Are you gonna fight?"
 		},
 		{
 			"key":"EP01_S0800_Q1_A3",
-			"value":"僕たちは大丈夫だ"
+			"value":"We’ll be just fine!"
 		},
 		{
 			"key":"EP01_S0800_0060",
-			"value":"君たちこそ二人っきりで大丈夫なのかい？"
+			"value":"Are you two going to be okay on your own?"
 		},
 		{
 			"key":"EP01_S0800_0061",
-			"value":"ぼくたちは平気だよ。あの蜘蛛が来る前から\nずっとこの学校にいて、隠れ場所なんかも知ってるから"
+			"value":"We’ll be fine. We’ve been in this school long\nbefore it came, so we know where to hide."
 		},
 		{
 			"key":"EP01_S0800_0062",
-			"value":"そっか\nそれじゃあ君たちはここにいてね"
+			"value":"Is that right? Then you two stay here."
 		},
 		{
 			"key":"EP01_S0800_0063",
-			"value":"（ん？　ずっと、って言ったか？\n　まるで昨日今日どころじゃない言い方だけど……）"
+			"value":"(Wait...“long before”? That doesn’t sound\nvery recent at all...)"
 		},
 		{
 			"key":"EP01_S0800_0064",
-			"value":"（いや、今はそれより仲間の救出だ！）"
+			"value":"(Ah, but I need to focus on the rescue!)"
 		},
 		{
 			"key":"EP01_S0800_0065",
-			"value":"ぼくたちに戦う力はないけど\n隠れていれば大丈夫だよ"
+			"value":"We may not be able to fight, but we’ll have\nno trouble hiding. We’ll be fine."
 		},
 		{
 			"key":"EP01_S0800_0066",
-			"value":"本当にそうなのか？"
+			"value":"Are you sure?"
 		},
 		{
 			"key":"EP01_S0800_0067",
-			"value":"（子供と女の子だけで生き残れるとは思えない\n　まさかとは思うけど、敵の仲間だったりしないか？）"
+			"value":"(I can’t see a boy and a girl surviving on\ntheir own. Are they...on the enemy’s side?)"
 		},
 		{
 			"key":"EP01_S0800_0068",
-			"value":"君たちは何者なんだ？\nどうしてここにいるんだ？"
+			"value":"Who are you two? Why are you here?"
 		},
 		{
 			"key":"EP01_S0800_0069",
-			"value":"ぼくたちはただ、平穏にいたいだけ……"
+			"value":"We just want to live in peace, that’s all..."
 		},
 		{
 			"key":"EP01_S0800_0070",
-			"value":"………………"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0800_0071",
-			"value":"（答える気はない、ってことか……）"
+			"value":"(I guess they don’t feel like answering...)"
 		},
 		{
 			"key":"EP01_S0800_0072",
-			"value":"（いや、そもそも、敵の情報を教えてくれたんだから\n　少なくともその仲間ってことはないよな）"
+			"value":"(At the very least, I don’t think they’re\nenemies after they gave us all that info.)"
 		},
 		{
 			"key":"EP01_S0800_0073",
-			"value":"わかった。それじゃあ君たちはここにいてね"
+			"value":"Okay, I get it. Then you two stay here."
 		},
 		{
 			"key":"EP01_S0800_0074",
-			"value":"大丈夫\n僕たちにはこのアグモンみたいな強い仲間がいるから"
+			"value":"Don’t worry about us, we have strong friends\nlike Agumon here!"
 		},
 		{
 			"key":"EP01_S0800_0075",
-			"value":"おう！　まかせとけ！"
+			"value":"Yeah, you can count on me!"
 		},
 		{
 			"key":"EP01_S0800_0076",
-			"value":"ふーん……そう"
+			"value":"Huh... You don’t say?"
 		},
 		{
 			"key":"EP01_S0800_0077",
-			"value":"………………"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0800_0078",
-			"value":"（二人ともアグモンを見ても驚かない\n　やっぱり、何か違和感があるよな……）"
+			"value":"(Neither of them are surprised to see Agumon.\nSomething definitely doesn’t add up...)"
 		},
 		{
 			"key":"EP01_S0800_0079",
-			"value":"僕は行くよ\n教えてくれて本当にありがとう"
+			"value":"We’re gonna go. Thanks again for your help!"
 		},
 		{
 			"key":"EP01_S0800_0080",
-			"value":"食堂へ急ごう、アグモン！"
+			"value":"Let’s head over to the cafeteria!"
 		},
 		{
 			"key":"EP01_S0800_0081",
-			"value":"わかった！"
+			"value":"Got it!"
 		}
 	]
 }

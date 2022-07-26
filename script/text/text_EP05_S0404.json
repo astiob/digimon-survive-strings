@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0404_0001",
-			"value":"……あいたっ！"
+			"value":"...Owww!"
 		},
 		{
 			"key":"EP05_S0404_0002",
-			"value":"アグモン！　大丈夫か？"
+			"value":"Agumon?! You okay?!"
 		},
 		{
 			"key":"EP05_S0404_0003",
-			"value":"痛てて……ころんじゃった……"
+			"value":"Owie owww... I fell over..."
 		},
 		{
 			"key":"EP05_S0404_0004",
-			"value":"あれ？　なんか落ちてる～？"
+			"value":"Huh? What’s this on the ground, here?"
 		},
 		{
 			"key":"EP05_S0404_0005",
-			"value":"これって……靴下？"
+			"value":"Is this...a sock?"
 		},
 		{
 			"key":"EP05_S0404_0006",
-			"value":"あ！　それ失くしてたオレの靴下！"
+			"value":"Oh, that’s the one I lost!"
 		},
 		{
 			"key":"EP05_S0404_0007",
-			"value":"ここに落ちてたんだ"
+			"value":"I found it over here."
 		},
 		{
 			"key":"EP05_S0404_0008",
-			"value":"え、なんでこんなとこに？"
+			"value":"Wait, how the heck’d it end up there?"
 		},
 		{
 			"key":"EP05_S0404_0009",
-			"value":"ま、いいや\n見つけてくれてあんがとな、タクマ！"
+			"value":"Whatever. Thanks for finding it!"
 		}
 	]
 }

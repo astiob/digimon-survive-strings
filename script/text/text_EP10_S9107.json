@@ -2,171 +2,171 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9107_0001",
-			"value":"あぁ、タクマにミノルか\n見ての通り、まだ祠は見つかってねえ"
+			"value":"Sup, guys. As you can see, we’ve come up\nempty on the shrine search."
 		},
 		{
 			"key":"EP10_S9107_0002",
-			"value":"お兄ちゃ～ん！　なにサボってんの！？\n次はこっち探すの！"
+			"value":"Kaitooo! What’re you dilly-dallying for?!\nWe’re looking here next!"
 		},
 		{
 			"key":"EP10_S9107_0003",
-			"value":"わかってる！　ちょっと待ってろ！"
+			"value":"I know, hold your horses!"
 		},
 		{
 			"key":"EP10_S9107_0004",
-			"value":"ずっとこの調子で、女王様にこき使われてるよ"
+			"value":"Her Majesty here’s been working me to the\nbone this whole time."
 		},
 		{
 			"key":"EP10_S9107_0005",
-			"value":"なんかちょっと、カイトかわいそうだな……\nこれはさすがに手伝ってやった方がいいかな？"
+			"value":"I feel kinda bad for the guy... Think we\nshould help him out?"
 		},
 		{
 			"key":"EP10_S9107_0006",
-			"value":"うーん、どうだろう？\nカイトは嫌がってるようには見えないけど……"
+			"value":"Hmm, you think? Kaito doesn’t really seem to\nmind..."
 		},
 		{
 			"key":"EP10_S9107_Q1",
-			"value":"（僕はどうすればいい？）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP10_S9107_Q1_A1",
-			"value":"手伝おう"
+			"value":"Let’s help."
 		},
 		{
 			"key":"EP10_S9107_Q1_A2",
-			"value":"手伝わないでおこう"
+			"value":"Let’s stay out of it."
 		},
 		{
 			"key":"EP10_S9107_0007",
-			"value":"やっぱり手伝おうか\nカイトも大変そうだし"
+			"value":"I guess we should help? It looks like Kaito’s\nbeing overwhelmed here."
 		},
 		{
 			"key":"EP10_S9107_0008",
-			"value":"だな"
+			"value":"You got that right."
 		},
 		{
 			"key":"EP10_S9107_0009",
-			"value":"お、おい待て、やめとけお前ら……"
+			"value":"Hey, knock it off, you two..."
 		},
 		{
 			"key":"EP10_S9107_0010",
-			"value":"おーい、オレたちも手伝うぜー！"
+			"value":"Yo, we’ll help out, too!"
 		},
 		{
 			"key":"EP10_S9107_0011",
-			"value":"ホント！？　やったぁ！\nありがとう、タクマさん、ミノルさん！"
+			"value":"Really?! Awesome, thanks a bunch you guys!"
 		},
 		{
 			"key":"EP10_S9107_0012",
-			"value":"それじゃあみんな\nウチの言うことちゃ～んと聞いてよね！"
+			"value":"All right, you, listen and listen good!"
 		},
 		{
 			"key":"EP10_S9107_0013",
-			"value":"にっひひ、これでウチは働かなくても\n怒られないもんね～"
+			"value":"Heheheh, now I don’t even need to lift\na finger..."
 		},
 		{
 			"key":"EP10_S9107_0014",
-			"value":"はぁ……だからやめとけっつったのに"
+			"value":"Oh boy... And here I was trying to spare you."
 		},
 		{
 			"key":"EP10_S9107_0015",
-			"value":"マジか、ミウにハメられた\nアイツ頭いいな……"
+			"value":"Man, she pulled the wool over our eyes! She’s\ngood, real good..."
 		},
 		{
 			"key":"EP10_S9107_0016",
-			"value":"ご、ごめんミウ。僕ら他にも行かないといけない\nところがあるから、やっぱり手伝いはまた今度ね……"
+			"value":"Uh, sorry, Miu, we have other places to be.\nWe’ll swing back around when we can..."
 		},
 		{
 			"key":"EP10_S9107_0017",
-			"value":"なーんだ、じゃあ次はウチのこと手伝ってね"
+			"value":"Bah! Fine, then you’d better help out next\ntime."
 		},
 		{
 			"key":"EP10_S9107_0018",
-			"value":"カイトだけでも十分みたいだし\n僕らはいいんじゃないかな？"
+			"value":"Kaito seems to be handling it well enough.\nMaybe we aren’t needed here?"
 		},
 		{
 			"key":"EP10_S9107_0019",
-			"value":"おう、ここはオレだけで足りてる\nお前らは他んとこ行ってこいよ"
+			"value":"Yeah, I’m more than enough for the job. You\nguys check out another spot."
 		},
 		{
 			"key":"EP10_S9107_0020",
-			"value":"ホントか？　あのワガママに付き合ってたら\n疲れちまうぜ？"
+			"value":"You sure? Going along with her whims is just\ngonna wear you down."
 		},
 		{
 			"key":"EP10_S9107_0021",
-			"value":"バーカ、オレが何年ミウの兄貴やってると\n思ってんだ"
+			"value":"Hey moron, how many years you think I’ve been\ndoing this older brother thing?"
 		},
 		{
 			"key":"EP10_S9107_0022",
-			"value":"これくらいのワガママ、苦労でもなんでもねえよ"
+			"value":"I’m used to indulging her, believe me."
 		},
 		{
 			"key":"EP10_S9107_0023",
-			"value":"お兄ちゃんなにやってんの！？\n早く来て～！"
+			"value":"Earth to Kaito! Get over here, already!"
 		},
 		{
 			"key":"EP10_S9107_0024",
-			"value":"ああ、今行く！"
+			"value":"Yeah, I’m coming!"
 		},
 		{
 			"key":"EP10_S9107_0025",
-			"value":"っつーわけだ、オレのことは心配すんな"
+			"value":"Get it? Don’t you worry about me."
 		},
 		{
 			"key":"EP10_S9107_0026",
-			"value":"カイトのやつ、ミウに命令されて嬉しそうなんだけど\nあれって、その……特殊なシュミってやつじゃ……？"
+			"value":"He almost seems happy to be ordered around by\nher. Weird guy..."
 		},
 		{
 			"key":"EP10_S9107_0027",
-			"value":"へ、変なこと言うなよ！\nさすがにそれは、ないだろ……"
+			"value":"Hey, watch your mouth! That’s...probably not\nthe case..."
 		},
 		{
 			"key":"EP10_S9107_0028",
-			"value":"あ、そういえばお兄ちゃん\nさっきハルくん見たんでしょ？"
+			"value":"Oh yeah, Kaito. Didn’t you spot Haru before?"
 		},
 		{
 			"key":"EP10_S9107_0029",
-			"value":"そうだった\n森の中をハルが歩いてたんだよ"
+			"value":"That’s right. He was walking in the woods."
 		},
 		{
 			"key":"EP10_S9107_0030",
-			"value":"ここにもいたのか！\nそんでどうした！？"
+			"value":"He was here?! What happened?!"
 		},
 		{
 			"key":"EP10_S9107_0031",
-			"value":"声かけたら逃げていきやがった"
+			"value":"I called out to him and he bolted."
 		},
 		{
 			"key":"EP10_S9107_0032",
-			"value":"ウチはその時近くにいなかったから\n気づかなかったんだけど、なんか変だったんだよね？"
+			"value":"I wasn’t nearby at the time, so I didn’t know\nabout it. Weird though, right?"
 		},
 		{
 			"key":"EP10_S9107_0033",
-			"value":"ああ、あんな……怒ったような顔したハルは\n今まで見たことなかったな"
+			"value":"Yeah, he seemed...pissed off somehow. Ain’t\nnever seen the kid look like that.  "
 		},
 		{
 			"key":"EP10_S9107_0034",
-			"value":"怒ったような……？\nハルが、何に怒ってたの？"
+			"value":"Pissed off? What was Haru mad about?"
 		},
 		{
 			"key":"EP10_S9107_0035",
-			"value":"さぁな、オレにはそう見えたってだけだ\n勘違いかもしれねえ"
+			"value":"Who knows? That’s how I saw it, but maybe I’m\nimagining things."
 		},
 		{
 			"key":"EP10_S9107_0036",
-			"value":"ただ、もしかしたら眷属が化けてる可能性もある\nもし会っても、一応警戒しとけよ"
+			"value":"Still, could’ve been a Kenzoku in disguise.\nWatch your step if you run into him."
 		},
 		{
 			"key":"EP10_S9107_0037",
-			"value":"うん、わかった"
+			"value":"Yeah, right."
 		},
 		{
 			"key":"EP10_S9107_0038",
-			"value":"あ、やっぱりウチを手伝ってくれるの？"
+			"value":"Oh, back to help, are you?"
 		},
 		{
 			"key":"EP10_S9107_0039",
-			"value":"さっさと行け、タクマ\nお前らまでこき使われるぞ"
+			"value":"Get the heck outta here, Takuma, before you\nend up in my position."
 		}
 	]
 }

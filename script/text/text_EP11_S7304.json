@@ -2,283 +2,283 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7304_0001",
-			"value":"あっ、タクマさん……！\nタクマさんも、戻って来たんだね"
+			"value":"Oh, Takuma! You came back too."
 		},
 		{
 			"key":"EP11_S7304_0002",
-			"value":"ああ、他のみんなも戻ってきてないかと思って\n様子を見に来たんだ"
+			"value":"Yeah, I thought the others might’ve finished\nsearching by now, so I stopped by."
 		},
 		{
 			"key":"EP11_S7304_0003",
-			"value":"ミウくんとレナモンから、外の様子は聞いてるよ\n思った以上に状況は良くないようだね"
+			"value":"Miu and Renamon told me what it’s like out\nthere. Sounds like it’s worse than we feared."
 		},
 		{
 			"key":"EP11_S7304_0004",
-			"value":"はい。あちこちに霧が立ち込めてて……"
+			"value":"Yeah, it’s bad. The fog’s settling in\neverywhere."
 		},
 		{
 			"key":"EP11_S7304_0005",
-			"value":"無事なのは、校舎の周辺と神社のあたりくらいでした"
+			"value":"About the only places that are still safe are\nthis school and the shrine."
 		},
 		{
 			"key":"EP11_S7304_0006",
-			"value":"戻ってくる時に確認したが\n祠の周辺も、今は変った様子はなかったぞ"
+			"value":"The area around the inner shrine seems normal\ntoo. I checked on my way back."
 		},
 		{
 			"key":"EP11_S7304_0007",
-			"value":"そうか……\nしかし、まさかそこまで霧が迫っているとは……"
+			"value":"I see. I must say, I never expected the fog\nwould have spread so far."
 		},
 		{
 			"key":"EP11_S7304_0008",
-			"value":"大丈夫かしら……アオイとラブラモン"
+			"value":"I hope Aoi and Labramon are still safe out\nthere..."
 		},
 		{
 			"key":"EP11_S7304_0009",
-			"value":"ま、まさか、もう霧に……\nなんてことないよね……？"
+			"value":"You...you don’t think they’ve already been\nswallowed by the fog, do you?"
 		},
 		{
 			"key":"EP11_S7304_0010",
-			"value":"（ミウ……不安そうな顔してる\n　何とか安心させてあげないと……）"
+			"value":"(Miu seems really upset. I need to find some\nway to calm her down.)"
 		},
 		{
 			"key":"EP11_S7304_0011",
-			"value":"（でも、僕がいくら大丈夫だって言っても\n　信憑性なんてないだろうし……）"
+			"value":"(But no amount of me saying I’m sure they’re\nokay is going to be very convincing.)"
 		},
 		{
 			"key":"EP11_S7304_0012",
-			"value":"（ここは、大人の教授から大丈夫だってことを\n　言ってもらえば落ち着くかな）"
+			"value":"(Maybe she’ll be more likely to believe that\ncoming from an adult like the professor.)"
 		},
 		{
 			"key":"EP11_S7304_0013",
-			"value":"（いや、シャコモンにお願いしたほうが\n　安心感があるかも……？）"
+			"value":"(Or then again, maybe asking Syakomon to\nreassure her would be more effective.)"
 		},
 		{
 			"key":"EP11_S7304_0014",
-			"value":"（それか、案外レナモンから言ってもらった方が\n　説得力があったりして……？）"
+			"value":"(Maybe if Renamon were to comfort her, that\ncould be really convincing.)"
 		},
 		{
 			"key":"EP11_S7304_Q1",
-			"value":"（ミウの不安を取り除く言葉を誰に言ってもらおう？）"
+			"value":"(Who might best cheer up Miu?)"
 		},
 		{
 			"key":"EP11_S7304_Q1_A1",
-			"value":"教授はどうだろうか"
+			"value":"Maybe the professor..."
 		},
 		{
 			"key":"EP11_S7304_Q1_A2",
-			"value":"シャコモンがいいと思う"
+			"value":"I’d say Syakomon."
 		},
 		{
 			"key":"EP11_S7304_Q1_A3",
-			"value":"レナモンかな？"
+			"value":"Renamon?"
 		},
 		{
 			"key":"EP11_S7304_0015",
-			"value":"教授"
+			"value":"The professor"
 		},
 		{
 			"key":"EP11_S7304_0016",
-			"value":"（よし、ここは大人の教授から\n　ミウが安心できる言葉を伝えてもらおう）"
+			"value":"(Since he’s an adult, I think it’d be best to\nhave the professor say something.)"
 		},
 		{
 			"key":"EP11_S7304_0017",
-			"value":"あの……教授からミウに、大丈夫だって\n話してもらえませんか？"
+			"value":"Uh, Professor, do you think maybe you could\nsay something to reassure Miu?"
 		},
 		{
 			"key":"EP11_S7304_0018",
-			"value":"ミウ、かなり不安みたいなので"
+			"value":"She seems like she’s really upset."
 		},
 		{
 			"key":"EP11_S7304_0019",
-			"value":"うん？　ああ……わかった、やってみよう"
+			"value":"Hm? Oh, yes, of course. I’ll give it a try."
 		},
 		{
 			"key":"EP11_S7304_0020",
-			"value":"ミウくん……いいかい？"
+			"value":"Miu, might I speak with you?"
 		},
 		{
 			"key":"EP11_S7304_0021",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP11_S7304_0022",
-			"value":"君が不安な気持ちは、私もよくわかるつもりだ\nしかし、不安に囚われてはいけないよ"
+			"value":"Believe me, I can understand your distress,\nbut you must try not to be dismayed."
 		},
 		{
 			"key":"EP11_S7304_0023",
-			"value":"確かめようがないことを思い悩んでも苦しいだけで\n解決の糸口を見つけることは、至極難しいからね"
+			"value":"Being troubled by outcomes you cannot verify\nbrings no solutions, only frustration."
 		},
 		{
 			"key":"EP11_S7304_0024",
-			"value":"う……ん……？\nえっと、つまり……どういうこと？"
+			"value":"Uh... Huh? Sorry, what are you trying to say?"
 		},
 		{
 			"key":"EP11_S7304_0025",
-			"value":"む……言い回しが、難しすぎただろうか"
+			"value":"Hm... Perhaps I should have stated things\nmore simply."
 		},
 		{
 			"key":"EP11_S7304_0026",
-			"value":"ええっと……とにかく\n大丈夫だって信じて、進もうってことだよ"
+			"value":"In other words... It’s important to proceed\nwith the belief that things will work out."
 		},
 		{
 			"key":"EP11_S7304_0027",
-			"value":"シャコモン"
+			"value":"Syakomon"
 		},
 		{
 			"key":"EP11_S7304_0028",
-			"value":"（ここはやっぱり、いつもそばにいる\n　シャコモンから言ってもらおう）"
+			"value":"(Syakomon knows Miu better than anyone, and\nis probably the best choice to comfort her.)"
 		},
 		{
 			"key":"EP11_S7304_0029",
-			"value":"なあ、シャコモン……\nミウが安心できるように声をかけてくれないかな？"
+			"value":"Uh, Syakomon, do you think you can say\nsomething to Miu to help her feel better?"
 		},
 		{
 			"key":"EP11_S7304_0030",
-			"value":"言われなくても、そうするつもりよ\n任せておいて～！"
+			"value":"Oh, I had every intention of doing so. Leave\nthis to me!"
 		},
 		{
 			"key":"EP11_S7304_0031",
-			"value":"ミウ～、心配しなくても\nきっと大丈夫よ～"
+			"value":"Don’t worry, Miu. I’m sure they’re both fine."
 		},
 		{
 			"key":"EP11_S7304_0032",
-			"value":"根拠は？"
+			"value":"Can you prove that?"
 		},
 		{
 			"key":"EP11_S7304_0033",
-			"value":"ん～……根拠なんて、ないけど～……"
+			"value":"Well...no, not exactly, but..."
 		},
 		{
 			"key":"EP11_S7304_0034",
-			"value":"ないんじゃん！\nそんな、てきとう言わないでよ……！"
+			"value":"So you don’t know! You shouldn’t just make\nstuff up like that!"
 		},
 		{
 			"key":"EP11_S7304_0035",
-			"value":"でも、私が今までミウに嘘ついたことあった？"
+			"value":"But Miu, have I ever lied to you?"
 		},
 		{
 			"key":"EP11_S7304_0036",
-			"value":"それは……ない、かも……"
+			"value":"Well...no, I don’t think so."
 		},
 		{
 			"key":"EP11_S7304_0037",
-			"value":"ね？　だから、ミウも信じて……\nきっと、アオイもラブラモンも無事でいるって"
+			"value":"You see? You can trust me. I just know that\nAoi and Labramon are safe out there."
 		},
 		{
 			"key":"EP11_S7304_0038",
-			"value":"わかった……"
+			"value":"Yeah, okay..."
 		},
 		{
 			"key":"EP11_S7304_0039",
-			"value":"（さすがシャコモン……！\n　２人の絆のなせるわざってやつだな）"
+			"value":"(Nice going, Syakomon! Relying on the bond of\ntrust you’ve built between you.)"
 		},
 		{
 			"key":"EP11_S7304_0040",
-			"value":"レナモン"
+			"value":"Renamon"
 		},
 		{
 			"key":"EP11_S7304_0041",
-			"value":"（レナモンなら、説得力のある言葉をくれそうだし……\n　レナモンに頼んでみよう）"
+			"value":"(I’m sure Renamon will be able to sound\nconvincing. I’ll ask him.)"
 		},
 		{
 			"key":"EP11_S7304_0042",
-			"value":"なあ、レナモン……\nミウの不安を減らせるように、何か言ってくれないかな？"
+			"value":"Uh, Renamon, do you think you can say\nsomething to Miu to help put her at ease?"
 		},
 		{
 			"key":"EP11_S7304_0043",
-			"value":"私の言葉などで安心するかはわからんが……\nやってみよう"
+			"value":"I’m not sure if she’ll find what I say very\nreassuring, but I’ll try."
 		},
 		{
 			"key":"EP11_S7304_0044",
-			"value":"ミウ……"
+			"value":"Miu..."
 		},
 		{
 			"key":"EP11_S7304_0045",
-			"value":"ん……なに？　レナモン"
+			"value":"Hm? What is it, Renamon?"
 		},
 		{
 			"key":"EP11_S7304_0046",
-			"value":"お前は、アオイとラブラモンが\n簡単に霧に呑まれて消えると思っているのか？"
+			"value":"Do you think Aoi and Labramon would simply\nvanish into the fog?"
 		},
 		{
 			"key":"EP11_S7304_0047",
-			"value":"そんなこと思ってるわけないじゃん！"
+			"value":"Of course not!"
 		},
 		{
 			"key":"EP11_S7304_0048",
-			"value":"ならば、それが答えのはずだ\nお前は、２人の無事を信じている……それでいいはずだ"
+			"value":"Then that’s all you need to know. If you\nbelieve they’re safe, then that’s that."
 		},
 		{
 			"key":"EP11_S7304_0049",
-			"value":"あ……！"
+			"value":"Oh yeah!"
 		},
 		{
 			"key":"EP11_S7304_0050",
-			"value":"そっか……それでいいんだ……\nうん……ウチ、信じてる"
+			"value":"You’re right... That’s all there is to it.\nYeah. I believe in them!"
 		},
 		{
 			"key":"EP11_S7304_0051",
-			"value":"けど……霧がいっぱいでてるってことは\n捜せるところが減っちゃうってことなんだよね？"
+			"value":"But with all that fog, we won’t be able to\nlook around very well."
 		},
 		{
 			"key":"EP11_S7304_0052",
-			"value":"どうやってアオイさんたちを\n見つければいいの？"
+			"value":"How are we going to find Aoi and Labramon?"
 		},
 		{
 			"key":"EP11_S7304_0053",
-			"value":"いや……逆だと思う"
+			"value":"Actually, I think you’ve got it backwards."
 		},
 		{
 			"key":"EP11_S7304_0054",
-			"value":"逆って……？"
+			"value":"Backwards?"
 		},
 		{
 			"key":"EP11_S7304_0055",
-			"value":"そうか……霧が発生していない場所が\n限られているということは……"
+			"value":"Ah, I see what you mean. If there are only\na few places left without any fog..."
 		},
 		{
 			"key":"EP11_S7304_0056",
-			"value":"アオイさんたちも、そこにいるはずってことか！"
+			"value":"Then Aoi and Labramon can only be in one of\nthose places!"
 		},
 		{
 			"key":"EP11_S7304_0057",
-			"value":"恐らくな。２人は校舎周辺か、神社……\nあるいは祠の近くにいる可能性が高いんじゃないか？"
+			"value":"Exactly. They’re probably somewhere near the\nschool, the shrine, or the inner shrine."
 		},
 		{
 			"key":"EP11_S7304_0058",
-			"value":"じゃあ、さっそく捜してみる？"
+			"value":"So, should we go looking for them right away?"
 		},
 		{
 			"key":"EP11_S7304_0059",
-			"value":"いや、これ以上バラバラに動くのは\n危ないかもしれない"
+			"value":"No, it could be dangerous for us to get any\nmore split up."
 		},
 		{
 			"key":"EP11_S7304_0060",
-			"value":"一度みんなを集めて……\nそれから全員でアオイさんを迎えに行こう"
+			"value":"First we should get everyone back together,\nthen we can all go looking for Aoi."
 		},
 		{
 			"key":"EP11_S7304_0061",
-			"value":"ああ。それがいい"
+			"value":"Yes, that seems best."
 		},
 		{
 			"key":"EP11_S7304_0062",
-			"value":"僕とアグモンで、カイトやミノルたちを\n捜して校舎に戻るよう伝えるから……"
+			"value":"Agumon and I will track down Kaito and Minoru\nand tell them to head back to the school."
 		},
 		{
 			"key":"EP11_S7304_0063",
-			"value":"みんなは、ここで待ってて……！"
+			"value":"Meanwhile, you all wait here."
 		},
 		{
 			"key":"EP11_S7304_0064",
-			"value":"頼んだよ、タクマくん……！"
+			"value":"We’ll be counting on you, Takuma!"
 		},
 		{
 			"key":"EP11_S7304_0065",
-			"value":"みんなが戻ってきたら、今度こそ\nアオイさんを捜し出せるよね……！"
+			"value":"After everyone gets back, we’ll go find Aoi\nfor sure this time!"
 		},
 		{
 			"key":"EP11_S7304_0066",
-			"value":"私たちはここで待っているから\n他の皆を、よろしく頼んだよ"
+			"value":"We’ll wait here. You go find the others as\nsoon as you can!"
 		}
 	]
 }

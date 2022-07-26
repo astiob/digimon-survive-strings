@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1159_0001",
-			"value":"キュ……キュゥ……？"
+			"value":"Kew... Kew?"
 		},
 		{
 			"key":"EP02_S1159_0002",
-			"value":"（クネモン、頑張って捜してくれてるみたいだけど……）"
+			"value":"(Kunemon seems like it’s doing its best to\nlook around. There’s just one problem...)"
 		},
 		{
 			"key":"EP02_S1159_0003",
-			"value":"キュ？　キュキュ！"
+			"value":"Kew? Kewkew!"
 		},
 		{
 			"key":"EP02_S1159_0004",
-			"value":"なっ！？　なんだよ、こっち来んな！"
+			"value":"Waaah! I thought I told you to keep away from\nme!"
 		},
 		{
 			"key":"EP02_S1159_0005",
-			"value":"（リョウの近くから離れようとしない……あれじゃあ\n　リョウと同じところを捜してるようなものだな）"
+			"value":"(It’s staying so close to Ryo that it might\nas well just be searching the same spots.)"
 		},
 		{
 			"key":"EP02_S1159_0006",
-			"value":"（クネモンも頑張ってくれてるけど\n　リョウから離れないから効率悪そうだな）"
+			"value":"(Kunemon’s trying to help, but it’s sticking\nso close to Ryo it’s not doing much.)"
 		}
 	]
 }

@@ -2,87 +2,87 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1210_0001",
-			"value":"お兄ちゃん……\nウチ、なんか怖くなってきた……"
+			"value":"Kaito... I’m scared now..."
 		},
 		{
 			"key":"EP11_S1210_0002",
-			"value":"大丈夫か？　ミウ……\nオレの手でも握るか？"
+			"value":"Miu... You good?\nWanna hold my hand?"
 		},
 		{
 			"key":"EP11_S1210_0003",
-			"value":"う、うん……あ"
+			"value":"Sure... Oh."
 		},
 		{
 			"key":"EP11_S1210_0004",
-			"value":"お兄ちゃんの手……\nとっても冷たいね……"
+			"value":"Your hand feels so cool, bro..."
 		},
 		{
 			"key":"EP11_S1210_Q1",
-			"value":"カイトとミウになんて声をかけよう？"
+			"value":"What should I say to Kaito and Miu?"
 		},
 		{
 			"key":"EP11_S1210_Q1_A1",
-			"value":"相変わらず仲がいいね"
+			"value":"You sure get along."
 		},
 		{
 			"key":"EP11_S1210_Q1_A2",
-			"value":"二人一緒ならなんとかなる"
+			"value":"You two can handle it."
 		},
 		{
 			"key":"EP11_S1210_Q1_A3",
-			"value":"怖がってる場合じゃない"
+			"value":"It’s no time for fear."
 		},
 		{
 			"key":"EP11_S1210_0005",
-			"value":"相変わらず仲がいいね"
+			"value":"You two sure get along."
 		},
 		{
 			"key":"EP11_S1210_0006",
-			"value":"まあな……この緊張感はどうにもきついぜ\nオレはともかく、ミウが参っちまう……"
+			"value":"Well sure... Anyone would get freaked out by\nthis. Miu’s even worse off than me..."
 		},
 		{
 			"key":"EP11_S1210_0007",
-			"value":"うん……さっきから寒気が止まらないの……"
+			"value":"Yeah... I’m getting chills just thinking\nabout all this..."
 		},
 		{
 			"key":"EP11_S1210_0008",
-			"value":"二人一緒ならなんとかなるよ"
+			"value":"You two can handle this."
 		},
 		{
 			"key":"EP11_S1210_0009",
-			"value":"ああ、そうだな\nタクマの言う通りだ"
+			"value":"Yeah, you’re right, man."
 		},
 		{
 			"key":"EP11_S1210_0010",
-			"value":"ミウ、オレと一緒にいれば\n必ずなんとかなるからな"
+			"value":"As long as you and me stick together, we’ll\nmake it through, Miu."
 		},
 		{
 			"key":"EP11_S1210_0011",
-			"value":"うん、お兄ちゃん……\nありがとう"
+			"value":"Yeah... Thanks, bro."
 		},
 		{
 			"key":"EP11_S1210_0012",
-			"value":"怖がってる場合じゃないよ\nもうすぐ戦いになるかもしれないんだから"
+			"value":"This is no time for fear. We could be in\na battle at any moment."
 		},
 		{
 			"key":"EP11_S1210_0013",
-			"value":"そんなのわかってるぜ、タクマ\nでも……ミウが怖がってるからさ"
+			"value":"I know, man. Still...look how scared Miu is."
 		},
 		{
 			"key":"EP11_S1210_0014",
-			"value":"ごめん、タクマさん……\nウチ、なんとかがんばる……"
+			"value":"Sorry, Takuma... I’ll do what I can..."
 		},
 		{
 			"key":"EP11_S1210_0015",
-			"value":"みんな聞いてくれ\nこの奥に、通路らしきものを発見した"
+			"value":"Listen up, everyone. I think I spotted a path\nof some sort up ahead."
 		},
 		{
 			"key":"EP11_S1210_0016",
-			"value":"本当ですか！？"
+			"value":"Really?!"
 		},
 		{
 			"key":"EP11_S1210_0017",
-			"value":"ああ、こっちだ\nついてきてくれ"
+			"value":"Yes, over here. Come, follow me."
 		}
 	]
 }

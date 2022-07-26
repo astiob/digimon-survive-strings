@@ -2,27 +2,27 @@
     "scenario_text": [
         {
             "key": "EP04_S0084_0001",
-            "value": "１本くらい、鉄格子が外れたり～……！"
+            "value": "If I could just get one of these things..."
         },
         {
             "key": "EP04_S0084_0002",
-            "value": "なんて、するわけないかぁ……"
+            "value": "Yeah, didn’t think that would work."
         },
         {
             "key": "EP04_S0084_0003",
-            "value": "さすがの俺にも、これは外せそうにないしな"
+            "value": "I doubt even I could remove one of those\nbars."
         },
         {
             "key": "EP04_S0084_0004",
-            "value": "ここから出るのは、無理そうだね"
+            "value": "I don’t think we’ll be escaping through here."
         },
         {
             "key": "EP04_S0084_0005",
-            "value": "仕方ない、他の場所を調べよう"
+            "value": "You’re right, let’s keep looking."
         },
         {
             "key": "EP04_S0084_0006",
-            "value": "この鉄格子はどうしようもなさそうだし\n<color=#B41919>他の場所</color>を調べようぜ"
+            "value": "These iron bars aren’t going anywhere. Better\ntry <color=#B41919>somewhere else</color>."
         }
     ]
 }

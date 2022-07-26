@@ -2,259 +2,259 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1530_0001",
-			"value":"あら、どーしたの、タクマ"
+			"value":"Huh? What’s going on, Takuma?"
 		},
 		{
 			"key":"EP03_S1530_0002",
-			"value":"ああ、君たちの姿が見えなくなったから\nちょっと捜してたんだ"
+			"value":"I was looking for you guys, since you all\ndisappeared."
 		},
 		{
 			"key":"EP03_S1530_0003",
-			"value":"べつに申し合わせた覚えはないけど\nそうねえ……ほかのみんなは森の方かな？"
+			"value":"Well, we didn’t exactly coordinate anything.\nHmm... Maybe the others are in the woods?"
 		},
 		{
 			"key":"EP03_S1530_0004",
-			"value":"アグモンが大声をあげながら\n何かを追いかけてたみたいだけど……"
+			"value":"I heard Agumon shouting and chasing\nsomething..."
 		},
 		{
 			"key":"EP03_S1530_0005",
-			"value":"何かって、何……？"
+			"value":"Chasing...what?"
 		},
 		{
 			"key":"EP03_S1530_0006",
-			"value":"さ～？"
+			"value":"Beats me!"
 		},
 		{
 			"key":"EP03_S1530_0007",
-			"value":"フローラモンは一人なのか？"
+			"value":"Are you by yourself, Floramon?!"
 		},
 		{
 			"key":"EP03_S1530_0008",
-			"value":"ん～？　タクマにはどう見える～？"
+			"value":"Hm? What’s it look like to you, Takuma?"
 		},
 		{
 			"key":"EP03_S1530_0009",
-			"value":"一人……に見えるけど"
+			"value":"It...looks like you’re on your own."
 		},
 		{
 			"key":"EP03_S1530_0010",
-			"value":"あはは、そうそう正解\n私一人でここに来たの"
+			"value":"Aha, yes, how very observant. I came here all\nby myself."
 		},
 		{
 			"key":"EP03_S1530_0011",
-			"value":"何だよ、からかってるのか？"
+			"value":"Hey, are you teasing me?"
 		},
 		{
 			"key":"EP03_S1530_0012",
-			"value":"ど～かしらね～？"
+			"value":"I don’t know, what do you think?"
 		},
 		{
 			"key":"EP03_S1530_0013",
-			"value":"（なんだかはぐらかされてるというか\n　捉えどころのないヤツだな……）"
+			"value":"(Why do I feel like she’s not giving me\na straight answer? She’s so hard to read.)"
 		},
 		{
 			"key":"EP03_S1530_0014",
-			"value":"（何か隠してる？　まさか、スパイってやつか？）"
+			"value":"(Could she be hiding something? Maybe she’s\na spy?)"
 		},
 		{
 			"key":"EP03_S1530_0015",
-			"value":"（いやいや、仲間を疑うなんてどうかしてる\n　……でも）"
+			"value":"(No, no, I can’t let myself start questioning\nmy friends. But...)"
 		},
 		{
 			"key":"EP03_S1530_Q1",
-			"value":"（聞いたら何か答えてくれるかな？）"
+			"value":"(I wonder what she’d say if I asked her.)"
 		},
 		{
 			"key":"EP03_S1530_Q1_A1",
-			"value":"君はここで何してるんだ？"
+			"value":"What are you doing?"
 		},
 		{
 			"key":"EP03_S1530_Q1_A2",
-			"value":"まさかスパイ？"
+			"value":"Are you a spy?"
 		},
 		{
 			"key":"EP03_S1530_Q1_A3",
-			"value":"とにかく帰ろう"
+			"value":"Let’s head back."
 		},
 		{
 			"key":"EP03_S1530_0016",
-			"value":"君はここで何してるんだ？"
+			"value":"What are you doing?"
 		},
 		{
 			"key":"EP03_S1530_0017",
-			"value":"君は一人で、こんなところで何してるんだ？"
+			"value":"What are you doing out here all by yourself?"
 		},
 		{
 			"key":"EP03_S1530_0018",
-			"value":"あら、乙女のプライベートを知りたいなんて\nいやらしいわよ～？"
+			"value":"What? Can’t a girl have her privacy?\nHow dare you?!"
 		},
 		{
 			"key":"EP03_S1530_0019",
-			"value":"ふざけないでくれ。真面目に聞いてるんだ"
+			"value":"Would you just give me a straight answer?\nIt’s a serious question."
 		},
 		{
 			"key":"EP03_S1530_0020",
-			"value":"協調性を乱して単独行動なんてしてるんだ"
+			"value":"You’re the one who decided to abandon the\ngroup and go off on your own."
 		},
 		{
 			"key":"EP03_S1530_0021",
-			"value":"もう……意外とおカタいのね"
+			"value":"Honestly... You’re surprisingly uptight, you\nknow that?"
 		},
 		{
 			"key":"EP03_S1530_0022",
-			"value":"はいはい、何してるか、だっけ？\nご飯？　おやつ？　えーっと、何て言えばいいかしら……"
+			"value":"Now, what was the question? What am I doing\nout here? I’m...eating. Snacking? Hmm..."
 		},
 		{
 			"key":"EP03_S1530_0023",
-			"value":"私、光を浴びるのが好きなのよ\nそれにここって、土も空気も綺麗なのよね"
+			"value":"How to put this? I like bathing in sunlight,\nand the air and soil are fresh here."
 		},
 		{
 			"key":"EP03_S1530_0024",
-			"value":"え？　つまり……日光浴というか森林浴というか"
+			"value":"What? So...this is some kind of nature\ntherapy?"
 		},
 		{
 			"key":"EP03_S1530_0025",
-			"value":"そう、それそれ！　森林浴！\n気持ちいい空気と光でリフレッシュしてたってわけ！"
+			"value":"Yes! Nature therapy! That’s it! I was\nrecovering in the fresh air and sunlight."
 		},
 		{
 			"key":"EP03_S1530_0026",
-			"value":"な、なんだぁ……そうだったのか"
+			"value":"Oh, is that all..."
 		},
 		{
 			"key":"EP03_S1530_0027",
-			"value":"えっと、ごめん。疑うようなこと言って"
+			"value":"Um, I’m sorry. I shouldn’t have doubted you."
 		},
 		{
 			"key":"EP03_S1530_0028",
-			"value":"いいのよ。タクマに一つ、私のこと知ってもらえたんだし"
+			"value":"That’s all right. Besides, now you know\na little more about me."
 		},
 		{
 			"key":"EP03_S1530_0029",
-			"value":"まさかスパイ？"
+			"value":"Are you a spy?"
 		},
 		{
 			"key":"EP03_S1530_0030",
-			"value":"もしかして……\nフローラモンはスパイ、なのか？"
+			"value":"Don’t tell me... Floramon, you’re not a spy,\nare you?"
 		},
 		{
 			"key":"EP03_S1530_0031",
-			"value":"ん？　すぱい？"
+			"value":"Huh? What’s that?"
 		},
 		{
 			"key":"EP03_S1530_0032",
-			"value":"まぁ、考えてみればそういうフローラモンだけじゃなく\nアグモンたちにだってそういう可能性はあるんだよな"
+			"value":"Come to think of it, any of you could be\nspies!"
 		},
 		{
 			"key":"EP03_S1530_0033",
-			"value":"それどころか、ミノルやアオイさんとか、みんなだって\n敵と通じてないなんて証拠はないわけで"
+			"value":"And who’s to say Aoi or Minoru or anyone else\nisn’t colluding with the enemy?"
 		},
 		{
 			"key":"EP03_S1530_0034",
-			"value":"あ、ああ！　『すぱい』ってそういう"
+			"value":"Oh! So that’s what a spy is."
 		},
 		{
 			"key":"EP03_S1530_0035",
-			"value":"もしフローラモンがそうなら、僕は決断しないと……"
+			"value":"But if it’s true, and you’re a spy, I need to\nact!"
 		},
 		{
 			"key":"EP03_S1530_0036",
-			"value":"待って待って！　勝手に盛り上がらないでよ！"
+			"value":"Wait, wait, stop! Don’t get so worked up!"
 		},
 		{
 			"key":"EP03_S1530_0037",
-			"value":"ぷっ、あはは！　私が、サキたちを裏切るかも、って？\nないない、そんなわけないじゃない！"
+			"value":"Heheh, hahaha! You actually think I’d betray\nSaki and the others? No way! Not a chance!"
 		},
 		{
 			"key":"EP03_S1530_0038",
-			"value":"へ？　そ、そう……なの？"
+			"value":"What? Really? You wouldn’t?"
 		},
 		{
 			"key":"EP03_S1530_0039",
-			"value":"そうよ、私だけじゃなく、アグモンたちだってね"
+			"value":"No! And it’s not just me. Agumon wouldn’t do\nthat, and neither would anyone else."
 		},
 		{
 			"key":"EP03_S1530_0040",
-			"value":"まったくしょうがないんだから……\nタクマはまだ私たちのことがわかってないみたいね"
+			"value":"I can’t believe you would think that. Seems\nlike you really don’t get us yet, Takuma."
 		},
 		{
 			"key":"EP03_S1530_0041",
-			"value":"あ……なんか、その\n酷い勘違いをして……ごめん"
+			"value":"Oh, well, uh...sorry. I shouldn’t have jumped\nto such a horrible conclusion about you."
 		},
 		{
 			"key":"EP03_S1530_0042",
-			"value":"ま、わかってくれたから許してあげる！"
+			"value":"Well, as long as you’ve learned your lesson,\nI forgive you."
 		},
 		{
 			"key":"EP03_S1530_0043",
-			"value":"とにかく帰ろう"
+			"value":"Let’s head back."
 		},
 		{
 			"key":"EP03_S1530_0044",
-			"value":"何してるか知らないけど、とにかく帰ろう\nサキが心配してるだろうし"
+			"value":"Well, I’m not sure what you’re doing here,\nbut let’s get back. Saki must be worried."
 		},
 		{
 			"key":"EP03_S1530_0045",
-			"value":"あぁ、そうよね\nサキを心配させちゃいけないわ"
+			"value":"Oh, yes, let’s go. I’d hate to worry Saki."
 		},
 		{
 			"key":"EP03_S1530_0046",
-			"value":"そういえば……タクマもアグモンを心配して\n捜しに来たの？"
+			"value":"Speaking of which... Did you come out here\nlooking for Agumon because you were worried?"
 		},
 		{
 			"key":"EP03_S1530_0047",
-			"value":"ああ、うん。ここじゃなかったみたいだけど"
+			"value":"Yeah, pretty much. Only I guess he’s not\nhere."
 		},
 		{
 			"key":"EP03_S1530_0048",
-			"value":"仲良いわよねぇ、あなたたち\nロップモンのとことは大違い"
+			"value":"The two of you are so close. Couldn’t be more\ndifferent than Shuuji and Lopmon."
 		},
 		{
 			"key":"EP03_S1530_0049",
-			"value":"あれは……僕もかわいそうだと思うけど"
+			"value":"Yeah, I feel bad for Lopmon, but I can’t help\nwondering..."
 		},
 		{
 			"key":"EP03_S1530_0050",
-			"value":"つらいなら離れればいいんじゃないのか？"
+			"value":"If Shuuji’s so hard on him, why doesn’t he\njust leave?"
 		},
 		{
 			"key":"EP03_S1530_0051",
-			"value":"そんなことできないわ\nロップモンにとってのシュウジは、替えが効かないもの"
+			"value":"He couldn’t do that. As far as Lopmon is\nconcerned, Shuuji is irreplaceable."
 		},
 		{
 			"key":"EP03_S1530_0052",
-			"value":"私だって、アグモンだってそうよ？\nあなたたちは私たちにとって、特別なの"
+			"value":"It’s the same with me, and with Agumon too,\nyou know? You humans are special to us."
 		},
 		{
 			"key":"EP03_S1530_0053",
-			"value":"特別……？"
+			"value":"We’re...special?"
 		},
 		{
 			"key":"EP03_S1530_0054",
-			"value":"ふふ、まだまだタクマは\n私たちのことがわかってないみたいね"
+			"value":"Heheh, sounds like you still don’t really\nunderstand us yet, Takuma."
 		},
 		{
 			"key":"EP03_S1530_0055",
-			"value":"さてと、満足したし、そろそろ帰るわ\nタクマ、先に行ってて"
+			"value":"Anyway, I’m all set now. I think I’ll head\nback. You go on without me, Takuma."
 		},
 		{
 			"key":"EP03_S1530_0056",
-			"value":"一人で大丈夫か？"
+			"value":"You’ll be all right on your own?"
 		},
 		{
 			"key":"EP03_S1530_0057",
-			"value":"あなたよりは大丈夫よ\nそれより、タクマこそアグモンを捜してるんでしょう？"
+			"value":"Better than you will be. Besides, weren’t you\nlooking for Agumon?"
 		},
 		{
 			"key":"EP03_S1530_0058",
-			"value":"あ、そうだった。森の方だっけ？\nありがとう、捜してくるよ"
+			"value":"Oh, right! You said you think he’s in the\nforest? Thanks, I’ll check it out."
 		},
 		{
 			"key":"EP03_S1530_0059",
-			"value":"気をつけてね～"
+			"value":"Take care!"
 		},
 		{
 			"key":"EP03_S1530_0060",
-			"value":"心配しないでも、ちゃんと帰るわよ\nタクマは早くアグモンを見つけていらっしゃい"
+			"value":"Don’t worry, I’ll make it back just fine. You\nshould go find Agumon."
 		}
 	]
 }

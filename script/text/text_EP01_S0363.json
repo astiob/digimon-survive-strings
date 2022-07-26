@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0363_0001",
-			"value":"……あれ？\nこの窓……おかしいな"
+			"value":"...Huh? There’s something...strange about\nthis window."
 		},
 		{
 			"key":"EP01_S0363_0002",
-			"value":"どうしたんだ？　タクマ\nこの窓がどうかしたのか……？"
+			"value":"Hey, Takuma. Is there something up with this\nwindow?"
 		},
 		{
 			"key":"EP01_S0363_0003",
-			"value":"んっ……？\nんんん～っ！？"
+			"value":"Hmm... Hnnngh?"
 		},
 		{
 			"key":"EP01_S0363_0004",
-			"value":"タクマ、この窓、あかない！"
+			"value":"Hey Takuma, I can’t open it!"
 		},
 		{
 			"key":"EP01_S0363_0005",
-			"value":"アグモンの力でも開かないのか？"
+			"value":"Not even with your strength, Agumon?"
 		},
 		{
 			"key":"EP01_S0363_0006",
-			"value":"こうなったら、ガラスを割ってみる！"
+			"value":"I’m gonna try to break the glass!"
 		},
 		{
 			"key":"EP01_S0363_0007",
-			"value":"や、やめろって！"
+			"value":"Hey, hold on!"
 		},
 		{
 			"key":"EP01_S0363_0008",
-			"value":"あいたたた！\nダメだ～！　ボクのツメでも割れない！"
+			"value":"Hiyahhh!\nNo way! Not even my claws can break it?!"
 		},
 		{
 			"key":"EP01_S0363_0009",
-			"value":"そんなバカな！？"
+			"value":"Seriously?!"
 		},
 		{
 			"key":"EP01_S0363_0010",
-			"value":"どれ……先生も大人もいないし……\nちょっと例のアレ、やってみるか"
+			"value":"Hmm...well, no adults are around... Might as\nwell give it a shot."
 		},
 		{
 			"key":"EP01_S0363_0011",
-			"value":"例のアレって、何？"
+			"value":"“It”? What’s “it”?"
 		},
 		{
 			"key":"EP01_S0363_0012",
-			"value":"夜の校舎の窓ガラスったら\nアレだよアレ……えいっ！"
+			"value":"I’ve always wanted to try something like\nthis...HNNNGH!"
 		},
 		{
 			"key":"EP01_S0363_0200",
-			"value":"うわっ！　椅子をぶつけても割れないぞ！？"
+			"value":"Whoa! Not even a chair will break it?!"
 		},
 		{
 			"key":"EP01_S0363_0013",
-			"value":"蜘蛛の巣が衝撃を吸収してる、みたいな感触だったな\nそんなことがあるのか……？"
+			"value":"It feels like the spiderwebs are absorbing\nthe impact. Is that even possible...?"
 		},
 		{
 			"key":"EP01_S0363_0014",
-			"value":"いったい、敵はなんなんだ……"
+			"value":"What is this enemy we’re facing...?"
 		}
 	]
 }

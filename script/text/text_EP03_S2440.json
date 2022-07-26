@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2440_0001",
-			"value":"こいつが突然、ミウのポーチを持って\nオレに話しかけてきたんだ"
+			"value":"This woman just showed up and started talking\nto me, and she was holding Miu’s purse."
 		},
 		{
 			"key":"EP03_S2440_0002",
-			"value":"え、ミウ！？"
+			"value":"Oh yeah! What about Miu?"
 		},
 		{
 			"key":"EP03_S2440_0003",
-			"value":"そういえばミウちゃんいないじゃん！\nどこ行ったの！？"
+			"value":"You’re right, I don’t see her anywhere! Where\nis she?!"
 		},
 		{
 			"key":"EP03_S2440_0004",
-			"value":"わからない……しばらくは一緒だったんだが\n少し目を離してた間に、いなくなっちまった"
+			"value":"I don’t know. We stayed together for a while,\nthen I left for one second and she was gone."
 		},
 		{
 			"key":"EP03_S2440_0005",
-			"value":"そんな……"
+			"value":"That’s awful!"
 		},
 		{
 			"key":"EP03_S2440_0006",
-			"value":"そんな時にこの女は、ミウの持ち物を持って\n現れたんだぞ？"
+			"value":"Then this woman comes out of nowhere with\nsome of Miu’s stuff!"
 		},
 		{
 			"key":"EP03_S2440_0007",
-			"value":"確かに怪しい気はするけど、あれは何なんだよ？\n人間の姿をしたバケモノー！　ってやつ"
+			"value":"That does seem suspicious, but why call her\na monster in disguise?"
 		},
 		{
 			"key":"EP03_S2440_0008",
-			"value":"今まで出会ってきたのは全部バケモノだった\nこいつがそうじゃないって言えるか？"
+			"value":"Everything we’ve met so far has been\na monster. What makes you think she’s not?"
 		},
 		{
 			"key":"EP03_S2440_0009",
-			"value":"ず、随分乱暴な論理だね……"
+			"value":"I’m not sure that’s logical..."
 		},
 		{
 			"key":"EP03_S2440_0010",
-			"value":"本当に……困ってしまいます"
+			"value":"You see? He’s convinced, and I don’t know\nwhat to do."
 		},
 		{
 			"key":"EP03_S2440_0100",
-			"value":"私は、近くにこの人がいたから\n話しかけただけなんですけど……"
+			"value":"I only spoke to him because he’s the only\nsoul I saw nearby."
 		},
 		{
 			"key":"EP03_S2440_0101",
-			"value":"って言ってるけど？"
+			"value":"Well? What say you?"
 		},
 		{
 			"key":"EP03_S2440_0102",
-			"value":"信じられるかよ！"
+			"value":"Don’t tell me you’re buying that bull!"
 		},
 		{
 			"key":"EP03_S2440_0103",
-			"value":"うーん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP03_S2440_0011",
-			"value":"こんな怪しい女の言うことなんて信じるなよ？"
+			"value":"Don’t fall for her tricks! You can’t trust\nher."
 		}
 	]
 }

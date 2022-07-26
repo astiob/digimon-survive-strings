@@ -2,43 +2,43 @@
     "scenario_text": [
         {
             "key": "EP05_S0042_0001",
-            "value": "あぁ、これこれ！　この水門にこの<color=#B41919>錠前</color>\n前に見たヤツで間違いないよ！"
+            "value": "Oh, this is it! This <color=#B41919>lock</color> on this flood gate.\nThis is definitely the one I saw before!"
         },
         {
             "key": "EP05_S0042_0002",
-            "value": "本当、特徴的な模様が施されてるわね……"
+            "value": "Right, there’s that strange pattern again..."
         },
         {
             "key": "EP05_S0042_0003",
-            "value": "キレイ～。これ欲しいな～"
+            "value": "Sooo pretty! I want one."
         },
         {
             "key": "EP05_S0042_0004",
-            "value": "こらミウ、よくわかんねーもん勝手に触んな"
+            "value": "Whoa, don’t go touching that, Miu. We don’t\nknow anything about it."
         },
         {
             "key": "EP05_S0042_0005",
-            "value": "なにさー、ケチー"
+            "value": "Aww, you’re no fun."
         },
         {
             "key": "EP05_S0042_0006",
-            "value": "ん？　どうした、クネモン？"
+            "value": "Kunemon? What is it?"
         },
         {
             "key": "EP05_S0042_0007",
-            "value": "キュゥッ！　キュゥッ！"
+            "value": "Kew! Kew!"
         },
         {
             "key": "EP05_S0042_0008",
-            "value": "は？　あの時のヤツ？　何のことだ？\nよくわかんねーぞ"
+            "value": "Huh? The guy from “that time”? What’re you\ntalking about?"
         },
         {
             "key": "EP05_S0042_0009",
-            "value": "きっと、ジジモンの言ってた\n『島への道』っていうのはここのはずだ"
+            "value": "This must be the “island road” Jijimon was\ntalking about."
         },
         {
             "key": "EP05_S0042_0010",
-            "value": "それじゃあ、アレを使おう"
+            "value": "In that case, we oughta use that thing."
         }
     ]
 }

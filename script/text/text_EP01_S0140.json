@@ -2,135 +2,135 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0140_0031",
-			"value":"（すごい……桜が満開だ）"
+			"value":"(Oh, wow... The cherry blossoms are in\nfull bloom.)"
 		},
 		{
 			"key":"EP01_S0140_0032",
-			"value":"（史跡を目指すみんなが足を止め、\n　桜を眺めている……）"
+			"value":"(Everyone stops on the way to the landmark\nto take in the flowers.)"
 		},
 		{
 			"key":"EP01_S0140_0101",
-			"value":"いや～、春って感じだよね～"
+			"value":"Maaan, is this spring, or is this spring,\namirite?"
 		},
 		{
 			"key":"EP01_S0140_0102",
-			"value":"本当ね……自然が豊かな場所だからかしら\nなおさら綺麗に見えるわ"
+			"value":"Right... Maybe the abundance of nature here\nbrings out the beauty of these blossoms."
 		},
 		{
 			"key":"EP01_S0140_Q1",
-			"value":"（確かに桜がきれいだ……）"
+			"value":"(The flowers sure are pretty...)"
 		},
 		{
 			"key":"EP01_S0140_Q1_A1",
-			"value":"みんなに遅れないように急ごう"
+			"value":"We should hurry on ahead."
 		},
 		{
 			"key":"EP01_S0140_Q1_A2",
-			"value":"折角だし、お花見したいな"
+			"value":"Can we take a breather?"
 		},
 		{
 			"key":"EP01_S0140_Q1_A3",
-			"value":"キャンプに参加してよかったな"
+			"value":"I’m glad we came here."
 		},
 		{
 			"key":"EP01_S0140_0104",
-			"value":"遅れないように急ごう"
+			"value":"We should hurry on ahead."
 		},
 		{
 			"key":"EP01_S0140_0105",
-			"value":"綺麗な景色だけど、ずっと見てるわけにもいかないよな\nみんなに遅れないように急ごう"
+			"value":"This area is gorgeous, but we can’t just sit\naround gawking. We better not fall behind."
 		},
 		{
 			"key":"EP01_S0140_0106",
-			"value":"えー？　ちょっとくらい見てても平気だってー"
+			"value":"Aww, what’s the rush? Nothing wrong with\nstopping and smelling the...cherry blossoms."
 		},
 		{
 			"key":"EP01_S0140_0107",
-			"value":"お花見でもしない？"
+			"value":"Why don’t we stick around here?"
 		},
 		{
 			"key":"EP01_S0140_0108",
-			"value":"綺麗だな……お花見でもしない?"
+			"value":"It’s so pretty around here... Should we take\na breather?"
 		},
 		{
 			"key":"EP01_S0140_0109",
-			"value":"ダメに決まってるでしょう？\n歩きながら眺める程度で我慢しなさい"
+			"value":"You know that’s out of the question. Try to\ntake it all in as we walk."
 		},
 		{
 			"key":"EP01_S0140_0110",
-			"value":"あはは……冗談だよ"
+			"value":"Eh heh... I was just joking, anyway."
 		},
 		{
 			"key":"EP01_S0140_0111",
-			"value":"来てよかった"
+			"value":"I’m glad we came here."
 		},
 		{
 			"key":"EP01_S0140_0112",
-			"value":"キャンプに来てよかったな\nこの先の史跡も楽しみになってきたよ"
+			"value":"I’m glad we came on this camp. Makes me look\nforward to the historic landmark ahead."
 		},
 		{
 			"key":"EP01_S0140_0113",
-			"value":"本当ね。なんだか私もワクワクしてきたわ"
+			"value":"Indeed. I find myself brimming with a sort of\nexcitement."
 		},
 		{
 			"key":"EP01_S0140_0114",
-			"value":"へへ。ま、ちょっとは面白いもんが見れそうかな"
+			"value":"Heheh, if you put it that way, it sounds like\nwe’ve got some fun ahead of us."
 		},
 		{
 			"key":"EP01_S0140_0036",
-			"value":"お？　あんなとこにサキとリョウがいるぜ"
+			"value":"Oh? Looks like Saki and Ryo beat us to the\npunch."
 		},
 		{
 			"key":"EP01_S0140_0037",
-			"value":"先に史跡へ向かっていたのね"
+			"value":"They did go on ahead of us, after all."
 		},
 		{
 			"key":"EP01_S0140_0115",
-			"value":"（しかめっ面のあいつはリョウ\n　違う学校の1つ上で、このキャンプで知り合った）"
+			"value":"(The guy shooting daggers at everyone is Ryo,\nan older kid from another school.)"
 		},
 		{
 			"key":"EP01_S0140_0116",
-			"value":"（ニコニコしてる女の子はサキ。僕らの学校の1つ下\n　その可愛さから学校では有名人だ）"
+			"value":"(The girl who’s all smiles there is Saki. Her\nlooks are famous in the grade below ours.)"
 		},
 		{
 			"key":"EP01_S0140_0033",
-			"value":"（あの二人も桜を楽しんでいるのかな）"
+			"value":"(They must be here to enjoy the cherry\nblossoms, too.)"
 		},
 		{
 			"key":"EP01_S0140_0034",
-			"value":"（……）"
+			"value":"(...)"
 		},
 		{
 			"key":"EP01_S0140_0035",
-			"value":"（いや……リョウは違うか）"
+			"value":"(Then again... I could be wrong in\nRyo’s case.)"
 		},
 		{
 			"key":"EP01_S0140_0001",
-			"value":"わ～、キレイ！\n満開だね！"
+			"value":"Woooow, look how beautiful it is!\nThe flowers are so pretty!"
 		},
 		{
 			"key":"EP01_S0140_0002",
-			"value":"チッ……"
+			"value":"Hmph..."
 		},
 		{
 			"key":"EP01_S0140_0003",
-			"value":"あはは、満開の桜を前にして舌打ちって\n人としてどうかしてるって！"
+			"value":"Ha ha, what kind of person gets all grumpy in\nfront of a bunch of blooming cherry blossoms?"
 		},
 		{
 			"key":"EP01_S0140_0004",
-			"value":"まったく、こんなにもうららかな\n校外学習日和だってのにさあ……"
+			"value":"But man, talk about a waste! Gorgeous weather\nand we’re doing extracurricular nonsense..."
 		},
 		{
 			"key":"EP01_S0140_0005",
-			"value":"そんな日和\n聞いたことねーよ"
+			"value":"What does one have to do with the other?"
 		},
 		{
 			"key":"EP01_S0140_0029",
-			"value":"（はは……やっぱり）"
+			"value":"(Ha ha... I thought as much.)"
 		},
 		{
 			"key":"EP01_S0140_0030",
-			"value":"（急ぐこともないし、もう少しあたりを見てみようかな）"
+			"value":"(We’re not in any real rush. Might as well\nlook around here some more."
 		}
 	]
 }

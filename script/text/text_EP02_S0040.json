@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0040_0001",
-			"value":"さて、と……"
+			"value":"Okay, then..."
 		},
 		{
 			"key":"EP02_S0040_0002",
-			"value":"さっきはああ言ったけど\nこれからどうしようかな……"
+			"value":"Having said that, I wonder how should we go\nabout this..."
 		},
 		{
 			"key":"EP02_S0040_0003",
-			"value":"そうだねー\nまあ、タクマの好きな所を見て回ろうよ！"
+			"value":"Hmm, why don’t we check out wherever you\nwanna go, Takuma!"
 		},
 		{
 			"key":"EP02_S0040_0004",
-			"value":"そうだな。行こうか！"
+			"value":"Sound good to me. Let’s do it!"
 		}
 	]
 }

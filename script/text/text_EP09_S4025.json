@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4025_0001",
-			"value":"あれ？　ひょっとして、そこに誰かいる？"
+			"value":"Huh? Is someone over there?"
 		},
 		{
 			"key":"EP09_S4025_0002",
-			"value":"この気配は……ミウ、もしかして！"
+			"value":"This feeling... Hey Miu, look!"
 		},
 		{
 			"key":"EP09_S4025_0003",
-			"value":"パタモン！？"
+			"value":"Patamon?!"
 		},
 		{
 			"key":"EP09_S4025_0004",
-			"value":"ミウさま！？　それにシャコモン！"
+			"value":"Lady Miu?! And Syakomon!"
 		},
 		{
 			"key":"EP09_S4025_0005",
-			"value":"よ、よかった～……\n助かった～……"
+			"value":"Oh thank the stars... I’m saved..."
 		},
 		{
 			"key":"EP09_S4025_0006",
-			"value":"もう大丈夫だよ\n怪我してるな。君もこっちにおいで"
+			"value":"You’re all right now. Ah, that wound looks\npainful. You should come with us."
 		}
 	]
 }

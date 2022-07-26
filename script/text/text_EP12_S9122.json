@@ -2,135 +2,135 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9122_0001",
-			"value":"あっ！　ねぇねぇタクマさん！\nシャコモン知らない？"
+			"value":"Oh! Takuma, have you seen Syakomon?"
 		},
 		{
 			"key":"EP12_S9122_0002",
-			"value":"シャコモン？　見てないけど……"
+			"value":"Syakomon? No, I haven’t, sorry."
 		},
 		{
 			"key":"EP12_S9122_0003",
-			"value":"そう……"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP12_S9122_0004",
-			"value":"あのね、シャコモンが急に\nふらふら～っていなくなっちゃったの……"
+			"value":"Here’s the thing. All of a sudden, Syakomon\njust kind of...shambled off."
 		},
 		{
 			"key":"EP12_S9122_0005",
-			"value":"ふらふら？"
+			"value":"What do you mean, shambled off?"
 		},
 		{
 			"key":"EP12_S9122_0006",
-			"value":"うん……何かに引き寄せられてるみたいで\nウチの声も聞こえてないみたいだった……"
+			"value":"It was like she was being drawn away by\nsomething, and she couldn’t hear me anymore."
 		},
 		{
 			"key":"EP12_S9122_0007",
-			"value":"消えたシャコモンを捜してるうちに\nついでにドラクモンも消えてた"
+			"value":"Then while we were looking for Syakomon,\nDracmon disappeared too."
 		},
 		{
 			"key":"EP12_S9122_0008",
-			"value":"ついでって……"
+			"value":"Just like that?"
 		},
 		{
 			"key":"EP12_S9122_0009",
-			"value":"どうしようタクマさん！\nシャコモンに何かあったら、ウチ……ウチは……"
+			"value":"Takuma, what’re we gonna do?! If anything\nhappens to Syakomon, I... I..."
 		},
 		{
 			"key":"EP12_S9122_0010",
-			"value":"ドラクモンのことは心配しちゃいねえが\nもし敵が出たらオレだけでミウを守れるかどうか……"
+			"value":"I’m not worried about Dracmon, but if we get\nambushed I don’t know if I can protect Miu..."
 		},
 		{
 			"key":"EP12_S9122_0011",
-			"value":"（ミウ、シャコモンのことが心配なんだな\n　それにカイトの心配もわかる……）"
+			"value":"(Miu’s really worried about Syakomon, and\nI can understand Kaito’s concern.)"
 		},
 		{
 			"key":"EP12_S9122_Q1",
-			"value":"（今、僕が優先するべきは……）"
+			"value":"(I think my priority should be...)"
 		},
 		{
 			"key":"EP12_S9122_Q1_A1",
-			"value":"ミウの気持ちを優先するか"
+			"value":"Miu’s feelings."
 		},
 		{
 			"key":"EP12_S9122_Q1_A2",
-			"value":"カイトの気持ちを優先するか"
+			"value":"Kaito’s feelings."
 		},
 		{
 			"key":"EP12_S9122_0012",
-			"value":"僕が探しておくよ"
+			"value":"I’ll find Syakomon."
 		},
 		{
 			"key":"EP12_S9122_0013",
-			"value":"大丈夫だよ、ミウ\nシャコモンは僕が捜しておくから"
+			"value":"It’s okay, Miu. I’ll go find Syakomon."
 		},
 		{
 			"key":"EP12_S9122_0014",
-			"value":"ほ、ホント……？"
+			"value":"You...you mean it?"
 		},
 		{
 			"key":"EP12_S9122_0015",
-			"value":"うん。だから、ミウはカイトと一緒に\n待っててね"
+			"value":"I do. So you just wait here with Kaito."
 		},
 		{
 			"key":"EP12_S9122_0016",
-			"value":"うん……ありがと、タクマさん"
+			"value":"Okay, I will. Thanks, Takuma."
 		},
 		{
 			"key":"EP12_S9122_0017",
-			"value":"ついでに、ドラクモンも捜しておくね"
+			"value":"I’ll keep an eye out for Dracmon, too."
 		},
 		{
 			"key":"EP12_S9122_0018",
-			"value":"悪いな、マジでついででいいからよ"
+			"value":"Thanks. Seriously, though, your main focus\nshould be Syakomon."
 		},
 		{
 			"key":"EP12_S9122_0019",
-			"value":"二人はみんなと合流して"
+			"value":"You join the others."
 		},
 		{
 			"key":"EP12_S9122_0020",
-			"value":"もし襲われたら危ないし\n二人はみんなと合流して"
+			"value":"You’d both be in real trouble if you got\nattacked. You should join up with the others."
 		},
 		{
 			"key":"EP12_S9122_0021",
-			"value":"だな、それが妥当だろ"
+			"value":"Yeah, that’s the smart thing to do."
 		},
 		{
 			"key":"EP12_S9122_0022",
-			"value":"で、でも、もしシャコモンがここに帰ってきたら！"
+			"value":"But...but what if Syakomon comes back here?"
 		},
 		{
 			"key":"EP12_S9122_0023",
-			"value":"大丈夫、シャコモンは僕が捜して\nミウのところに連れてくるから"
+			"value":"Leave that to me. I’ll go find Syakomon and\ntake her to you."
 		},
 		{
 			"key":"EP12_S9122_0024",
-			"value":"だから、カイトと一緒に待っててね"
+			"value":"You just wait with Kaito, okay?"
 		},
 		{
 			"key":"EP12_S9122_0025",
-			"value":"う、うん……わかった"
+			"value":"Okay... I will."
 		},
 		{
 			"key":"EP12_S9122_0026",
-			"value":"ふぅ……悪いな、タクマ\nミウを宥めてもらっちまった"
+			"value":"*sigh* Sorry about that, Takuma. You\nshouldn’t have to calm Miu down like that."
 		},
 		{
 			"key":"EP12_S9122_0027",
-			"value":"気にしないでよ\nカイトも、みんなのとこまでミウを守ってあげてね"
+			"value":"Don’t mention it. Just be sure you look after\nher on your way to meet up with the others."
 		},
 		{
 			"key":"EP12_S9122_0028",
-			"value":"言われるまでもねえよ"
+			"value":"Hey, you don’t gotta tell me."
 		},
 		{
 			"key":"EP12_S9122_0029",
-			"value":"おぅ、もう少ししたら行く\nお前も気をつけろよ"
+			"value":"We’ll be on our way soon. You just watch\nyourself out there, too."
 		},
 		{
 			"key":"EP12_S9122_0030",
-			"value":"シャコモンとドラクモンのこと\nお願いね！？"
+			"value":"You’d better find Syakomon and Dracmon!"
 		}
 	]
 }

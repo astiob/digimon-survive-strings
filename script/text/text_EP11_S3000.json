@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S3000_0001",
-			"value":"タクマ！　何か見つけたよー\nはい、コレ"
+			"value":"Takuma, lookie what I found!\nHere, you take it."
 		},
 		{
 			"key":"EP11_S3000_0002",
-			"value":"ん、これは？！"
+			"value":"Oh, this is—?!"
 		},
 		{
 			"key":"EP11_S3000_0003",
-			"value":"ありがとう、アグモン！\nよし、これで祠の扉の奥へ行けるぞ！"
+			"value":"Thanks, Agumon! Great, now we can go to the\ninner part of the shrine!"
 		}
 	]
 }

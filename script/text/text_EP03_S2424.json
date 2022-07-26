@@ -2,223 +2,223 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2424_0001",
-			"value":"あれ、クネモンじゃないか"
+			"value":"Oh, hey, Kunemon."
 		},
 		{
 			"key":"EP03_S2424_0002",
-			"value":"クネモンだけでどうしたんだ？\nリョウは……？"
+			"value":"What are you doing by yourself? Where’s Ryo?"
 		},
 		{
 			"key":"EP03_S2424_0003",
-			"value":"キュゥ、キュゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP03_S2424_0004",
-			"value":"あー、ごめん。やっぱわかんないなぁ\nあ、でも、そっか"
+			"value":"Oh, sorry. I still can’t tell what you’re\nsaying. Wait, I think I can guess, though."
 		},
 		{
 			"key":"EP03_S2424_0005",
-			"value":"リョウは今、あんな状態か"
+			"value":"Ryo must still be in bad shape, huh?"
 		},
 		{
 			"key":"EP03_S2424_0006",
-			"value":"ってことはクネモン、一人で出歩いてるんだ"
+			"value":"Is that why you decided to go out for a walk?"
 		},
 		{
 			"key":"EP03_S2424_0007",
-			"value":"うーん、どうにかしてクネモンの言ってること\nわからないかなぁ？"
+			"value":"Man, if only there was some way for us to\ncommunicate."
 		},
 		{
 			"key":"EP03_S2424_0008",
-			"value":"そうだ、ジェスチャーで伝えてみてくれない？"
+			"value":"Oh, I know! Why don’t you try using gestures?"
 		},
 		{
 			"key":"EP03_S2424_0009",
-			"value":"キュゥキュー？"
+			"value":"Kewkew?"
 		},
 		{
 			"key":"EP03_S2424_0010",
-			"value":"あはは、首傾げてる。それはさすがにわかるよ"
+			"value":"Haha, yeah, the way you’re tilting your head\nlike that I can totally understand."
 		},
 		{
 			"key":"EP03_S2424_0011",
-			"value":"えっと……考えてることを動きで伝えてみて？"
+			"value":"How can I put this... Why don’t you try using\nmovements to show me what you’re thinking?"
 		},
 		{
 			"key":"EP03_S2424_0012",
-			"value":"キュゥ……キュッ！"
+			"value":"Kew...kew!"
 		},
 		{
 			"key":"EP03_S2424_0013",
-			"value":"お、頷いた。これ結構いけるかも"
+			"value":"There, that’s a nod! This might just work."
 		},
 		{
 			"key":"EP03_S2424_Q1",
-			"value":"（さて、何を聞こうかな？）"
+			"value":"(Okay, what should I ask him?)"
 		},
 		{
 			"key":"EP03_S2424_Q1_A1",
-			"value":"何をしに来たんだ？"
+			"value":"Why are you here?"
 		},
 		{
 			"key":"EP03_S2424_Q1_A2",
-			"value":"どこに向かってるんだ？"
+			"value":"Where are you going?"
 		},
 		{
 			"key":"EP03_S2424_Q1_A3",
-			"value":"リョウは置いてっていいのか？"
+			"value":"Why’d you leave Ryo?"
 		},
 		{
 			"key":"EP03_S2424_Q1_A4",
-			"value":"アグモンたちを見てないか？"
+			"value":"Have you seen Agumon?"
 		},
 		{
 			"key":"EP03_S2424_0019",
-			"value":"何をしに来たんだ？"
+			"value":"Why are you here?"
 		},
 		{
 			"key":"EP03_S2424_0020",
-			"value":"こんなとこまで何しに来たんだ？"
+			"value":"What is it that brings you here, Kunemon?"
 		},
 		{
 			"key":"EP03_S2424_0021",
-			"value":"キュゥー。キュッキュ"
+			"value":"Kewww. Kewkew."
 		},
 		{
 			"key":"EP03_S2424_0022",
-			"value":"ん、なんだ？　まる？　いや、大きいもの？\nそれとも、何かの形か……？"
+			"value":"What the heck? A circle? No, something big?\nOr is that some kind of outline?"
 		},
 		{
 			"key":"EP03_S2424_0023",
-			"value":"うーん、ごめん、わかんないや"
+			"value":"Hmm... Sorry, I don’t get it."
 		},
 		{
 			"key":"EP03_S2424_0024",
-			"value":"どこに向かってるんだ？"
+			"value":"Where are you going?"
 		},
 		{
 			"key":"EP03_S2424_0025",
-			"value":"ここに用事か？　それともどこか目的地があるのか？"
+			"value":"Is there something you want to do here, or\nare you heading somewhere else?"
 		},
 		{
 			"key":"EP03_S2424_0026",
-			"value":"キュッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP03_S2424_0027",
-			"value":"お、指差してくれた。これはわかりやすいな"
+			"value":"Oh, he’s pointing! That’s easy enough to get."
 		},
 		{
 			"key":"EP03_S2424_0028",
-			"value":"あっちって……神社？\n神社に何の用事なんだ？"
+			"value":"Let’s see, that way would lead to...the\nshrine? Why do you want to go there?"
 		},
 		{
 			"key":"EP03_S2424_0029",
-			"value":"キュゥ、キュゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP03_S2424_0030",
-			"value":"ん……これは何してるんだろう\n首を振って、避ける？　いや、探す？"
+			"value":"Hmm, what’s he doing now? Shaking his head...\nStaying alert? Looking for something?"
 		},
 		{
 			"key":"EP03_S2424_0031",
-			"value":"うーん、ごめん、わかんないや"
+			"value":"Hmm... Sorry, I don’t get it."
 		},
 		{
 			"key":"EP03_S2424_0032",
-			"value":"リョウは置いてっていいのか？"
+			"value":"Why’d you leave Ryo?"
 		},
 		{
 			"key":"EP03_S2424_0033",
-			"value":"リョウは置いてってよかったのか？\nアイツ今あんなだけど、一人にして平気か？"
+			"value":"Are you sure it was safe to leave Ryo? I know\nhe’s in rough shape, but should he be alone?"
 		},
 		{
 			"key":"EP03_S2424_0034",
-			"value":"キュゥ……"
+			"value":"Kew..."
 		},
 		{
 			"key":"EP03_S2424_0035",
-			"value":"あぁごめん、落ち込まないで\n責めてるんじゃないんだ"
+			"value":"Oh, I’m sorry! I’m not blaming you, no need\nto look so upset."
 		},
 		{
 			"key":"EP03_S2424_0036",
-			"value":"うん、まぁ、校舎の中にいればみんなもいるし\n外よりは安全だよな"
+			"value":"After all, the others are in the school too,\nso it’s a lot safer in there than outside."
 		},
 		{
 			"key":"EP03_S2424_0037",
-			"value":"クネモンだって一人になりたい時もあるだろうし"
+			"value":"And I’m sure there are times you’d like to be\nalone."
 		},
 		{
 			"key":"EP03_S2424_0038",
-			"value":"あ、そういえば、アグモンたちもいないんだったよな"
+			"value":"Hey, that reminds me, Agumon and some of the\nothers are missing too."
 		},
 		{
 			"key":"EP03_S2424_0039",
-			"value":"アグモンたちを見てないか？"
+			"value":"Have you seen Agumon?"
 		},
 		{
 			"key":"EP03_S2424_0040",
-			"value":"なぁクネモン、アグモンたち見てないか？\nいなくなっちゃったんだけど"
+			"value":"Hey, Kunemon, have you seen Agumon or any\nother missing person? We’re looking for them."
 		},
 		{
 			"key":"EP03_S2424_0041",
-			"value":"キュッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP03_S2424_0042",
-			"value":"え？　あっちって……神社？\nみんな神社に向かったのか？"
+			"value":"What? Doesn’t that go...to the shrine? You\nmean that’s where they all went?"
 		},
 		{
 			"key":"EP03_S2424_0043",
-			"value":"キュッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP03_S2424_0044",
-			"value":"え……なんで？　何しに行ったんだ？"
+			"value":"But...why? What’s there to do at the shrine?"
 		},
 		{
 			"key":"EP03_S2424_Q2",
-			"value":"（他に何か聞きたいことはあるかな？）"
+			"value":"(Was there anything else I wanted to ask?)"
 		},
 		{
 			"key":"EP03_S2424_Q2_A1",
-			"value":"聞きたいことはもうない"
+			"value":"That’s all."
 		},
 		{
 			"key":"EP03_S2424_Q2_A2",
-			"value":"まだあると思う"
+			"value":"There’s more."
 		},
 		{
 			"key":"EP03_S2424_0045",
-			"value":"キュッキュ！"
+			"value":"Kewkew!"
 		},
 		{
 			"key":"EP03_S2424_0046",
-			"value":"え、なに？　ひょっとして付いて来いって言ってる？"
+			"value":"Uh, what? Are you saying I should follow you?"
 		},
 		{
 			"key":"EP03_S2424_0047",
-			"value":"う～ん……アグモンがいないのに森に入るのは\n危険な気がするけど……"
+			"value":"I don’t know...I feel like going into the\nforest without Agumon would be dangerous..."
 		},
 		{
 			"key":"EP03_S2424_0048",
-			"value":"いや、でも、そのアグモンたちがそっちにいるなら\n追いかけて連れ戻したいよな……"
+			"value":"But if that’s where Agumon and the others\nare, I would like to go bring them back."
 		},
 		{
 			"key":"EP03_S2424_0049",
-			"value":"うん……よし、わかった\nアグモンたちのところに連れて行ってくれ"
+			"value":"Right, that settles it. Take me to Agumon and\nthe others."
 		},
 		{
 			"key":"EP03_S2424_0050",
-			"value":"キュゥイッ！"
+			"value":"Kewee!"
 		},
 		{
 			"key":"EP03_S2424_0051",
-			"value":"アグモンたちのところに連れて行ってくれ"
+			"value":"Take me to Agumon and the others."
 		},
 		{
 			"key":"EP03_S2424_0052",
-			"value":"キュゥイッ！"
+			"value":"Kewee!"
 		}
 	]
 }

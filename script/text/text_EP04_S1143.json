@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1143_0001",
-			"value":"あれ……ピヨモンだよね！\nケガしてるよ！"
+			"value":"Hey, that’s Biyomon! Seems hurt too!"
 		},
 		{
 			"key":"EP04_S1143_0002",
-			"value":"だ、大丈夫か！？"
+			"value":"Are you okay?!"
 		},
 		{
 			"key":"EP04_S1143_0003",
-			"value":"うぅ……ごめんさい……ごめんなさい\n女王様の場所なんて、知らないよ……ゆるして……"
+			"value":"Ooohh... I’m sorry... Please... I don’t know\nwhere Her Majesty is... Please, no more..."
 		},
 		{
 			"key":"EP04_S1143_0004",
-			"value":"ピヨモン、しっかりしろ！"
+			"value":"Biyomon! Hang in there!"
 		},
 		{
 			"key":"EP04_S1143_0005",
-			"value":"っ……！？\nあ、あれ……？　さ、さっきのやつは……？"
+			"value":"Huh?! Wh-what happened...to the enemies?"
 		},
 		{
 			"key":"EP04_S1143_0006",
-			"value":"僕たちがついた時には、誰もいなかったよ"
+			"value":"Nobody else was around when we got here."
 		},
 		{
 			"key":"EP04_S1143_0007",
-			"value":"なにがあったの？"
+			"value":"What happened?"
 		},
 		{
 			"key":"EP04_S1143_0008",
-			"value":"い、いきなりワルイやつらがおそってきて……！\n女王様の場所を教えろって、暴れて……"
+			"value":"Bad guys attacked us out of nowhere! They\nwanted to know where to find the queen..."
 		},
 		{
 			"key":"EP04_S1143_0009",
-			"value":"それで、教えたのか？"
+			"value":"And did you tell them?"
 		},
 		{
 			"key":"EP04_S1143_0010",
-			"value":"ううん……女王様の場所、わかんないから……\nでも、外には出てないはずなんだ……"
+			"value":"No... I don’t know where Her Majesty is...\nBut she should still be inside the castle."
 		},
 		{
 			"key":"EP04_S1143_0011",
-			"value":"そうか……わかった！\n教えてくれてありがとう！"
+			"value":"Okay, got it! Thanks for telling us!"
 		},
 		{
 			"key":"EP04_S1143_0012",
-			"value":"アグモン、行こう！"
+			"value":"Come on, Agumon!"
 		},
 		{
 			"key":"EP04_S1143_0013",
-			"value":"ピヨモンも気を付けて！"
+			"value":"And Biyomon, stay safe!"
 		},
 		{
 			"key":"EP04_S1143_0014",
-			"value":"う、うん……！　わかった……！"
+			"value":"I...I will!"
 		},
 		{
 			"key":"EP04_S1143_0015",
-			"value":"あいたっ！　い、いたいぃ……！"
+			"value":"Yeowch! Oh, that hurts..."
 		},
 		{
 			"key":"EP04_S1143_0016",
-			"value":"ピヨモン、ケガしてるよ！？"
+			"value":"You're hurt, Biyomon?!"
 		},
 		{
 			"key":"EP04_S1143_0017",
-			"value":"本当だ……"
+			"value":"Oh yeah, look at that."
 		},
 		{
 			"key":"EP04_S1143_0018",
-			"value":"あっ……ぜ、全然大丈夫だよ！\nこんなの、へっちゃらなんだよ！"
+			"value":"No... This is nothing! I’m fine, really!"
 		},
 		{
 			"key":"EP04_S1143_0019",
-			"value":"（どうしよう……傷薬があったはずだし\n　治療してあげるべき……？）"
+			"value":"(What should I do? I’m pretty sure I have a\nsalve. Should I use it?)"
 		},
 		{
 			"key":"EP04_S1143_0020",
-			"value":"（でも、本人が大丈夫って言ってるなら\n　無理に治療することもないのかもしれないし……）"
+			"value":"(Then again, Patamon says he’s fine. Maybe\nI shouldn’t force the issue.)"
 		},
 		{
 			"key":"EP04_S1143_Q1",
-			"value":"（治療してあげるべきか？）"
+			"value":"(Should I treat Patamon?)"
 		},
 		{
 			"key":"EP04_S1143_Q1_A1",
-			"value":"治療しよう"
+			"value":"Treat the injury."
 		},
 		{
 			"key":"EP04_S1143_Q1_A2",
-			"value":"治療はしない"
+			"value":"Don’t use a salve."
 		},
 		{
 			"key":"EP04_S1143_0021",
-			"value":"傷薬で治療する"
+			"value":""
 		},
 		{
 			"key":"EP04_S1143_0022",
-			"value":"ピヨモン、ケガの手当をするから\n傷を見せて"
+			"value":"Biyomon, I can treat that wound. Let me take\na look at it."
 		},
 		{
 			"key":"EP04_S1143_0023",
-			"value":"でも……！"
+			"value":"But...!"
 		},
 		{
 			"key":"EP04_S1143_0024",
-			"value":"いいから！"
+			"value":"No buts!"
 		},
 		{
 			"key":"EP04_S1143_0025",
-			"value":"（よかった……この傷なら\n　傷薬で何とかなりそうだ……！）"
+			"value":"(Okay, good! A salve should be able to take\ncare of this.)"
 		},
 		{
 			"key":"EP04_S1143_0026",
-			"value":"ちょっとだけ我慢してね"
+			"value":"Now this may hurt a bit, but bear with me."
 		},
 		{
 			"key":"EP04_S1143_0027",
-			"value":"っっ……し、しみるぅ……！"
+			"value":"Oof... That stings!"
 		},
 		{
 			"key":"EP04_S1143_0028",
-			"value":"大丈夫、これで良くなるはずだから"
+			"value":"There, now you should start feeling better."
 		},
 		{
 			"key":"EP04_S1143_0029",
-			"value":"うう……ありがとう"
+			"value":"Ooh... Thank you."
 		},
 		{
 			"key":"EP04_S1143_0030",
-			"value":"治療しない"
+			"value":""
 		},
 		{
 			"key":"EP04_S1143_0031",
-			"value":"ほ、本当に大丈夫なのか？"
+			"value":"It really doesn’t hurt too much?"
 		},
 		{
 			"key":"EP04_S1143_0032",
-			"value":"無理してない？"
+			"value":"You’re not just saying that?"
 		},
 		{
 			"key":"EP04_S1143_0033",
-			"value":"ほんとにほんとに平気だから！\n先に行って……！"
+			"value":"I’m fine, I swear! You hurry on ahead!"
 		},
 		{
 			"key":"EP04_S1143_0034",
-			"value":"わ、わかった……！"
+			"value":"...Yeah, okay!"
 		},
 		{
 			"key":"EP04_S1143_0035",
-			"value":"僕たちは行くから、ピヨモンは無理しちゃダメだよ！"
+			"value":"We’re going to get moving now, so take care\nof yourself, Biyomon!"
 		},
 		{
 			"key":"EP04_S1143_0036",
-			"value":"あとはボクたちに任せて！"
+			"value":"Yeah, leave the rest of this to us!"
 		},
 		{
 			"key":"EP04_S1143_0037",
-			"value":"２人とも、ありがとう……！"
+			"value":"Thank you, both of you!"
 		},
 		{
 			"key":"EP04_S1143_0038",
-			"value":"ケガは平気だから、行って……！\n女王様は、外には出てないはずだよ……！"
+			"value":"Don’t worry about me, you need to hurry! Her\nMajesty should still be in the castle!"
 		}
 	]
 }

@@ -2,231 +2,231 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S7040_0001",
-			"value":"いよいよだな、タクマ"
+			"value":"This is it, Takuma."
 		},
 		{
 			"key":"EP12_S7040_0002",
-			"value":"……うん"
+			"value":"...Right."
 		},
 		{
 			"key":"EP12_S7040_0003",
-			"value":"オレは覚悟はできてるぜ\nこの先に何があっても……！"
+			"value":"Whatever happens next, I'm ready for it."
 		},
 		{
 			"key":"EP12_S7040_0004",
-			"value":"（何が、あっても……か）"
+			"value":"(The way he says that...)"
 		},
 		{
 			"key":"EP12_S7040_0005",
-			"value":"（それは、アオイさんと戦うかもしれないことを\n　言ってるんだろうな）"
+			"value":"(It’s because he knows we may end up fighting\nAoi, isn’t it?)"
 		},
 		{
 			"key":"EP12_S7040_0006",
-			"value":"（僕だって、その覚悟をしてないわけじゃない\n　元の世界を守るため、元の世界に帰るため）"
+			"value":"(And I mean, I’m prepared for the same thing.\nTo save our world, to make it back home,)"
 		},
 		{
 			"key":"EP12_S7040_0007",
-			"value":"（アオイさんに、ミユキを殺させるわけにはいかない\n　けど……）"
+			"value":"(we can’t let Aoi kill Miyuki. But I have to\nwonder...)"
 		},
 		{
 			"key":"EP12_S7040_0008",
-			"value":"（本当に、もしもの時がきちゃったら\n　僕にできるんだろうか……？）"
+			"value":"(If it really comes down to it, will I be\nable to follow through?)"
 		},
 		{
 			"key":"EP12_S7040_Q1",
-			"value":"（カイトにどう答えよう？）"
+			"value":"(How should I respond to Kaito?)"
 		},
 		{
 			"key":"EP12_S7040_Q1_A1",
-			"value":"アオイさんと戦う覚悟、だよね？"
+			"value":"You mean fighting Aoi?"
 		},
 		{
 			"key":"EP12_S7040_Q1_A2",
-			"value":"アオイさんを止める、だよね？"
+			"value":"You’ll stop Aoi, right?"
 		},
 		{
 			"key":"EP12_S7040_Q1_A3",
-			"value":"僕にできるのかな……"
+			"value":"I don’t know if I am."
 		},
 		{
 			"key":"EP12_S7040_0009",
-			"value":"アオイさんと戦う覚悟、だよね？"
+			"value":"You mean fighting Aoi?"
 		},
 		{
 			"key":"EP12_S7040_0011",
-			"value":"万が一の時は……アオイさんと戦う\nその覚悟、だよね？"
+			"value":"When you say that, you mean if we have to,\nyou’re even ready to fight Aoi?"
 		},
 		{
 			"key":"EP12_S7040_0012",
-			"value":"……ああ。そうだな"
+			"value":"Yeah...that’s what I mean."
 		},
 		{
 			"key":"EP12_S7040_0013",
-			"value":"そんなことにならなきゃいいって思ってる\nけど、オレは……"
+			"value":"I hope it doesn’t come to that, but..."
 		},
 		{
 			"key":"EP12_S7040_0014",
-			"value":"どうしようもなくなったら\nミウと……タクマたちが助かる道を優先するつもりだ"
+			"value":"If it does, my priority is to protect Miu...\nand all of you."
 		},
 		{
 			"key":"EP12_S7040_0015",
-			"value":"僕も……そうするよ"
+			"value":"I...feel the same way."
 		},
 		{
 			"key":"EP12_S7040_0016",
-			"value":"アオイさんにミユキを殺させない、だよね？"
+			"value":"Aoi can’t kill Miyuki."
 		},
 		{
 			"key":"EP12_S7040_0017",
-			"value":"どんな事が起きたとしても、アオイさんにミユキを\n殺させたりしない……その覚悟、だよね？"
+			"value":"You mean you’re prepared to do whatever it\ntakes to keep Aoi from killing Miyuki, right?"
 		},
 		{
 			"key":"EP12_S7040_0018",
-			"value":"ああ、その通りだ！"
+			"value":"Right!"
 		},
 		{
 			"key":"EP12_S7040_0019",
-			"value":"ミユキを救い出さなきゃ\n元の世界に帰れないからだけじゃねえ"
+			"value":"And not just ‘cause we gotta rescue Miyuki if\nwe want to go home."
 		},
 		{
 			"key":"EP12_S7040_0020",
-			"value":"オレは、アオイに……\nこれ以上誰かを傷つけるような真似をしてほしくねえ"
+			"value":"I also don’t want Aoi to hurt anyone else."
 		},
 		{
 			"key":"EP12_S7040_0021",
-			"value":"だから、あいつの暴走を何としてでも止めるぞ！\nオレたちの手で！"
+			"value":"So we gotta do whatever it takes to stop her\nfrom completely losing it!"
 		},
 		{
 			"key":"EP12_S7040_0022",
-			"value":"もちろんだよ！"
+			"value":"You said it!"
 		},
 		{
 			"key":"EP12_S7040_0023",
-			"value":"僕にできるのかな…"
+			"value":"I don’t know if I am."
 		},
 		{
 			"key":"EP12_S7040_0024",
-			"value":"もしもの時がやってきたとして……\n僕に、そんな決断ができるのかな……"
+			"value":"When it comes right down to it, I don’t know\nif I’ll be able to do it..."
 		},
 		{
 			"key":"EP12_S7040_0025",
-			"value":"アオイさんを……倒すなんて……"
+			"value":"You know, beat up Aoi..."
 		},
 		{
 			"key":"EP12_S7040_0026",
-			"value":"お前が決断できなかったら\nその時は、オレがやってやる……！"
+			"value":"Well, if it’s too much for you, you can count\non me."
 		},
 		{
 			"key":"EP12_S7040_0027",
-			"value":"だから、心配すんな"
+			"value":"So don’t worry."
 		},
 		{
 			"key":"EP12_S7040_0028",
-			"value":"カイト……"
+			"value":"Kaito..."
 		},
 		{
 			"key":"EP12_S7040_0029",
-			"value":"まあ……本当は、こんなことになる前に\nあいつの支えになってやりたかったけどな"
+			"value":"Really, I wish I’d been more of a help to\nher, before it came to this."
 		},
 		{
 			"key":"EP12_S7040_0030",
-			"value":"カイトは、十分アオイさんを助けてたよ"
+			"value":"You did plenty to help Aoi, Kaito."
 		},
 		{
 			"key":"EP12_S7040_0031",
-			"value":"何言ってんだよ\nオレなんて、何の役にも立ってねーよ"
+			"value":"I don’t know what you’re talking about. I was\nno help at all."
 		},
 		{
 			"key":"EP12_S7040_0032",
-			"value":"やっぱり、アオイにはサキがいなきゃ\nダメだったんだろうな……"
+			"value":"Saki was the only one who could do anything\nfor Aoi."
 		},
 		{
 			"key":"EP12_S7040_0033",
-			"value":"アオイはさ、ずっとサキみてーになりてーって\nそう思ってたんだよな"
+			"value":"Aoi was always going on about how she wanted\nto be like Saki, you know?"
 		},
 		{
 			"key":"EP12_S7040_0034",
-			"value":"サキみたいに強くありてー……って\nその気持ちがデカすぎて、道を間違えたんだよな"
+			"value":"She wanted to be strong like Saki. I guess\nshe wanted that so bad, she got mixed up."
 		},
 		{
 			"key":"EP12_S7040_0035",
-			"value":"ったく、バカかよ……！\nオレから言わせりゃ、あいつだって十分強かったのに！"
+			"value":"I mean, how stupid can you get? Aoi always\nseemed plenty strong to me!"
 		},
 		{
 			"key":"EP12_S7040_0036",
-			"value":"僕もそう思う"
+			"value":"Yeah, me too."
 		},
 		{
 			"key":"EP12_S7040_0037",
-			"value":"確かに、サキさんみたいに物をハッキリ言ったり\n思いついた通りに行動するなんてことはなかったけど"
+			"value":"She may not have been as blunt as Saki, or as\nquick to act on how she felt,"
 		},
 		{
 			"key":"EP12_S7040_0038",
-			"value":"いつも僕らをまとめてくれた\n見捨てずに、根気強く、向き合ってくれた"
+			"value":"but she was our leader. She was tireless,\nhonest, and never gave up on anyone."
 		},
 		{
 			"key":"EP12_S7040_0039",
-			"value":"敵とだって、心を通わせようって努力してた……！\nそういうところが、強い人だって……思ってたよ"
+			"value":"She even tried to get through to our enemies!\nI always thought that made her strong."
 		},
 		{
 			"key":"EP12_S7040_0040",
-			"value":"……だな\nそれが、あんなことになっちまうなんてな"
+			"value":"I know, right? And now look what’s happened."
 		},
 		{
 			"key":"EP12_S7040_0041",
-			"value":"アオイが言ってた、全員が『ひとつ』になるって話さ\nまったく間違ってるわけじゃねーんだろうな"
+			"value":"It’s not even like her wanting to make\neverybody “one” is so wrong, you know?"
 		},
 		{
 			"key":"EP12_S7040_0042",
-			"value":"うん。相手を理解して、気持ちを分かり合う……\nそれは間違ってない"
+			"value":"Yeah. Trying to get people to understand and\nempathize with one another isn’t wrong."
 		},
 		{
 			"key":"EP12_S7040_0043",
-			"value":"だけど、そのためにミユキごと主を倒して\n世界を滅ぼすなんてのは、絶対に間違って――"
+			"value":"The problem is she wants to do it by\ndestroying the Master, Miyuki, and the wor—"
 		},
 		{
 			"key":"EP12_S7040_0044",
-			"value":"うおっ！？"
+			"value":"Wha—?!"
 		},
 		{
 			"key":"EP12_S7040_0045",
-			"value":"い、今の音は……！？"
+			"value":"Wh-what was that?"
 		},
 		{
 			"key":"EP12_S7040_0046",
-			"value":"携帯にメールが届いたみてーだけど……\nなんで、今さら急に……"
+			"value":"Looks like I got a text, but...I don’t get\nit, why now?"
 		},
 		{
 			"key":"EP12_S7040_0047",
-			"value":"あれ、そういえば文字化けメールが\n急に届くなんて久しぶりだよね？"
+			"value":"Yeah, come to think of it, it’s been a while\nsince we got any of those garbled messages."
 		},
 		{
 			"key":"EP12_S7040_0048",
-			"value":"そう言われりゃ、そうだな"
+			"value":"You know, you’re right."
 		},
 		{
 			"key":"EP12_S7040_0049",
-			"value":"って、おい……！\nこのメール、前より読めるようになってねえか？"
+			"value":"Hey, what the—?! I feel like I can almost\nmake this one out..."
 		},
 		{
 			"key":"EP12_S7040_0050",
-			"value":"えっ？　どれどれ……"
+			"value":"Really? Let me see..."
 		},
 		{
 			"key":"EP12_S7040_0051",
-			"value":"（ミウのお迎…………に、牛乳を買って……？）"
+			"value":"(Looks like something about picking up Miu\nand buying milk?)"
 		},
 		{
 			"key":"EP12_S7040_0052",
-			"value":"本当だ……！　まだ所々わかんないところはあるけど\n前より全然マシになってる……！"
+			"value":"Wow, you’re right! Some parts are still\ngarbled, but this is way better than before!"
 		},
 		{
 			"key":"EP12_S7040_0053",
-			"value":"いったい、どうなってんだ……？"
+			"value":"Why is this happening?"
 		},
 		{
 			"key":"EP12_S7040_0054",
-			"value":"さ、さあ……？"
+			"value":"Don’t ask me."
 		}
 	]
 }

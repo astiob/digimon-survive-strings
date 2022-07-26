@@ -2,107 +2,107 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9050_0001",
-			"value":"さすがに敵も守りを固めてやがるぜ……"
+			"value":"Looks like the enemies have toughened up\ntheir guard."
 		},
 		{
 			"key":"EP13_S9050_0002",
-			"value":"けどさ、四聖獣の加護のおかげで\nオレら結構戦えてんじゃん？"
+			"value":"Yeah, but thanks to those Sovereign\nProtections, we’re blowing right through ‘em!"
 		},
 		{
 			"key":"EP13_S9050_0003",
-			"value":"これなら主もいけんじゃねえの？\nもっとサクサク進もうぜ！"
+			"value":"I bet even the Master’s no match for us now!\nLet’s pick up the pace!"
 		},
 		{
 			"key":"EP13_S9050_0004",
-			"value":"気ぃ抜いてんじゃねえよ\n相手は世界の管理者とかぬかしてんだぞ"
+			"value":"Hey, don’t go getting carried away. We’re up\nagainst the so-called ruler of this world."
 		},
 		{
 			"key":"EP13_S9050_0005",
-			"value":"慎重に慎重を重ねていかねえとだろ\n油断してあっさり負けました、なんてゴメンだぜ"
+			"value":"We gotta be super careful. I’m not about to\nlose everything because we got too reckless."
 		},
 		{
 			"key":"EP13_S9050_0006",
-			"value":"おいおい、この期に及んでビビッてんのか～？"
+			"value":"Oh, come on, Ryo. After all we’ve been\nthrough, are you still such a coward?"
 		},
 		{
 			"key":"EP13_S9050_0007",
-			"value":"そういうんじゃねえっつーの！"
+			"value":"It’s not even about that!"
 		},
 		{
 			"key":"EP13_S9050_0008",
-			"value":"（どっちの言い分もわかるなぁ\n　慎重に行くか大胆に行くか……）"
+			"value":"(I could go either way on this one. Should we\nmove cautiously or be more daring?)"
 		},
 		{
 			"key":"EP13_S9050_Q1",
-			"value":"（うーん……ここはどうすればいい？）"
+			"value":"(Hmm, what to do here?)"
 		},
 		{
 			"key":"EP13_S9050_Q1_A1",
-			"value":"慎重に行くべきだ"
+			"value":"We should take care."
 		},
 		{
 			"key":"EP13_S9050_Q1_A2",
-			"value":"少しペースを上げようか"
+			"value":"Pick up the pace."
 		},
 		{
 			"key":"EP13_S9050_Q1_A3",
-			"value":"言い争ってる場合じゃないぞ"
+			"value":"Stop arguing."
 		},
 		{
 			"key":"EP13_S9050_0009",
-			"value":"慎重に行くべきだ"
+			"value":"We should take care."
 		},
 		{
 			"key":"EP13_S9050_0010",
-			"value":"リョウの言う通りだと思う\n相手は強いんだし、慎重に行こう"
+			"value":"I’m with Ryo. We’re in for a tough fight, so\nwe should take every precaution."
 		},
 		{
 			"key":"EP13_S9050_0011",
-			"value":"まぁ、タクマがそう言うなら……"
+			"value":"I guess... If you say so, Takuma."
 		},
 		{
 			"key":"EP13_S9050_0012",
-			"value":"お前はホントにオレの言うこと聞かねえよなぁ……"
+			"value":"You really don’t care about what I say at\nall, do you?"
 		},
 		{
 			"key":"EP13_S9050_0013",
-			"value":"少しペースを上げようか"
+			"value":"Pick up the pace."
 		},
 		{
 			"key":"EP13_S9050_0014",
-			"value":"ミノルの言うことももっともだな\n少しペースを上げようか"
+			"value":"Minoru’s got the right idea. Why don’t we\npick up the pace?"
 		},
 		{
 			"key":"EP13_S9050_0015",
-			"value":"おいおい、いいのかよ？"
+			"value":"What? Are you serious?"
 		},
 		{
 			"key":"EP13_S9050_0016",
-			"value":"実際戦えてるし、正直なところ\n時間が惜しいしね。急げるなら急ぎたいんだ"
+			"value":"We’re fighting a lot, and it’s dragging\nthings out. I don’t want to waste time."
 		},
 		{
 			"key":"EP13_S9050_0017",
-			"value":"あー、そうだったな。悪い\n確かに速く進めるならその方がいいわな"
+			"value":"Yeah, sorry. I guess you’ve got a point. We\nshould move quickly while we can."
 		},
 		{
 			"key":"EP13_S9050_0018",
-			"value":"言い争ってる場合じゃないぞ"
+			"value":"Stop arguing."
 		},
 		{
 			"key":"EP13_S9050_0019",
-			"value":"二人の言い分はわかるけど\n今は言い争ってる場合じゃないぞ"
+			"value":"I can see where you’re both coming from on\nthis, but we shouldn’t be arguing right now."
 		},
 		{
 			"key":"EP13_S9050_0020",
-			"value":"っと、そうだったな"
+			"value":"Oh. Yeah, you’re right."
 		},
 		{
 			"key":"EP13_S9050_0021",
-			"value":"わ、わりぃ……"
+			"value":"Sorry."
 		},
 		{
 			"key":"EP13_S9050_0022",
-			"value":"とにかく、先に進もう"
+			"value":"Forget it. Let’s just keep moving."
 		}
 	]
 }

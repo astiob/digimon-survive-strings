@@ -2,71 +2,71 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1510_0001",
-			"value":"あ、アグモンたち\nあんなところにいたのか"
+			"value":"I can’t believe this is where everybody went."
 		},
 		{
 			"key":"EP03_S1510_0002",
-			"value":"ちょっと、アグモン！\nどこ行くのよ～！"
+			"value":"Hey, Agumon! Where are you going?!"
 		},
 		{
 			"key":"EP03_S1510_0003",
-			"value":"どこにも行かないよ！\nここ！　ここに、何かあるんだ！"
+			"value":"I’m not going anywhere! Look! There’s\nsomething here!"
 		},
 		{
 			"key":"EP03_S1510_0004",
-			"value":"お～いみんな！\n何してるんだ？"
+			"value":"Hey! What are you all doing?"
 		},
 		{
 			"key":"EP03_S1510_0005",
-			"value":"あ、タクマ！\nこっちこっち～！"
+			"value":"Oh, Takuma! This way!"
 		},
 		{
 			"key":"EP03_S1510_0006",
-			"value":"みんな揃って……いったい何してるんだ？"
+			"value":"Why are all of you out here?"
 		},
 		{
 			"key":"EP03_S1510_0007",
-			"value":"なんだかね～、いる気がしたんだ"
+			"value":"I just got this feeling like something was\nthere."
 		},
 		{
 			"key":"EP03_S1510_0008",
-			"value":"いる、って何が？"
+			"value":"Something like what?"
 		},
 		{
 			"key":"EP03_S1510_0009",
-			"value":"むっ！　気をつけろ\nそこ、何かいるぞ"
+			"value":"Hmph! Be on your guard, everyone! There’s\ndefinitely something there!"
 		},
 		{
 			"key":"EP03_S1510_0010",
-			"value":"えっ！？　なんだ？"
+			"value":"What?! What is it?"
 		},
 		{
 			"key":"EP03_S1510_0011",
-			"value":"私だって鼻は利くからわかるわ！\nこれ……気をつけなさい！"
+			"value":"I can smell something! We have to be careful!"
 		},
 		{
 			"key":"EP03_S1510_0012",
-			"value":"何かわかるの？"
+			"value":"You know what it is?"
 		},
 		{
 			"key":"EP03_S1510_0013",
-			"value":"わからないから\n気をつけなさいって言ってるの！"
+			"value":"No, I’m telling you to be careful BECAUSE\nI don’t know!"
 		},
 		{
 			"key":"EP03_S1510_0014",
-			"value":"俺たちみたいな存在なのは確かなようだな"
+			"value":"Whatever it is, it’s certainly a creature\nlike us."
 		},
 		{
 			"key":"EP03_S1510_0015",
-			"value":"味方か、敵か\nまだわかんないわね"
+			"value":"But we can’t say if it’s friend or foe."
 		},
 		{
 			"key":"EP03_S1510_0016",
-			"value":"ほら、あの辺り……\n何かガサガサ動いてる！"
+			"value":"See, look over there... Something’s rustling\nthrough the brush!"
 		},
 		{
 			"key":"EP03_S1510_0017",
-			"value":"まて、うかつに近寄るのは危険だ！\nまずは……近寄らないで様子を見てみよう"
+			"value":"Wait, don’t get any closer! It could be\ndangerous. Let’s watch from here."
 		}
 	]
 }

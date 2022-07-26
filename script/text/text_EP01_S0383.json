@@ -2,151 +2,151 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0383_0001",
-			"value":"あれ？　奥から音がする\n誰かいるのか？"
+			"value":"Huh? I hear a noise up ahead. Is someone\nthere?"
 		},
 		{
 			"key":"EP01_S0383_0002",
-			"value":"まさか、敵っ！？"
+			"value":"Wait, is it the enemy?!"
 		},
 		{
 			"key":"EP01_S0383_0003",
-			"value":"大丈夫、あれはラブラモンだ"
+			"value":"Don’t worry, that’s just Labramon."
 		},
 		{
 			"key":"EP01_S0383_0004",
-			"value":"タクマ、アグモン……"
+			"value":"Takuma, Agumon..."
 		},
 		{
 			"key":"EP01_S0383_0005",
-			"value":"ラブラモン！　ここにいたのか"
+			"value":"Labramon! So that’s where you were."
 		},
 		{
 			"key":"EP01_S0383_0006",
-			"value":"タクマ、ごめんなさい……\n手掛かりが何かあればと思ったけど、なんにもない……"
+			"value":"Sorry, Takuma... I thought I’d find some kind\nof clue, but no luck..."
 		},
 		{
 			"key":"EP01_S0383_Q1",
-			"value":"（落ち込んでるな……どう声をかけたらいいんだろう）"
+			"value":"(She’s pretty down... What should I say?)"
 		},
 		{
 			"key":"EP01_S0383_Q1_A1",
-			"value":"心配だし、優しく慰めるか"
+			"value":"Comfort her gently."
 		},
 		{
 			"key":"EP01_S0383_Q1_A2",
-			"value":"先に行く方法を考えよう"
+			"value":"Prioritize next steps."
 		},
 		{
 			"key":"EP01_S0383_Q1_A3",
-			"value":"明るく元気づけよう"
+			"value":"Be cheerful!"
 		},
 		{
 			"key":"EP01_S0383_0007",
-			"value":"落ち着いて。もう一度よく探してみよう"
+			"value":"Calm down, now. Let’s try looking again."
 		},
 		{
 			"key":"EP01_S0383_0008",
-			"value":"僕たちが諦めたら、アオイさんを助けられないよ"
+			"value":"If we give up here, we won’t be able to save\nAoi!"
 		},
 		{
 			"key":"EP01_S0383_0009",
-			"value":"……ええ、そうね。そうよね！\n私、諦めない！"
+			"value":"...Yeah. Yeah, you’re right! I won’t give up!"
 		},
 		{
 			"key":"EP01_S0383_0010",
-			"value":"他のところも探してみるわ！"
+			"value":"I’ll try looking someplace else!"
 		},
 		{
 			"key":"EP01_S0383_0011",
-			"value":"扉がダメなら壁を壊してみるとかどう？\nそれか、床とか天井とか"
+			"value":"If we can’t find a door, why don’t we make\none? In the wall, or the floor or ceiling..."
 		},
 		{
 			"key":"EP01_S0383_0012",
-			"value":"窓も壊せなかったのに、他を壊せるかな～？"
+			"value":"We couldn’t even break a window, how can we\nbreak anything else?"
 		},
 		{
 			"key":"EP01_S0383_0013",
-			"value":"あ、そっか……うーん"
+			"value":"Ah, you’re right... Hmmm..."
 		},
 		{
 			"key":"EP01_S0383_0014",
-			"value":"……あ！　天井！\nアオイがさらわれる前、天井から音がしてた！"
+			"value":"...Oh! The ceiling! We heard a sound from the\nceiling before Aoi was taken, right?!"
 		},
 		{
 			"key":"EP01_S0383_0015",
-			"value":"つまり、アオイさんをさらった犯人は\n天井裏を移動してるってことか……"
+			"value":"That mans the one who took her must’ve been\nmoving up in the crawl space..."
 		},
 		{
 			"key":"EP01_S0383_0016",
-			"value":"私、探してみるわ！"
+			"value":"I’ll take a look!"
 		},
 		{
 			"key":"EP01_S0383_0017",
-			"value":"大丈夫さ！　きっと道はある！"
+			"value":"Don’t worry, there’s just gotta be a way in!"
 		},
 		{
 			"key":"EP01_S0383_0018",
-			"value":"でも急がなきゃ\nアオイが何をされるか分からないじゃない！"
+			"value":"Still, we better hurry! Who knows what Aoi is\ngoing through right now!"
 		},
 		{
 			"key":"EP01_S0383_0019",
-			"value":"一番怖いのはアオイのはずよ！\n早く助けてあげなきゃ！"
+			"value":"She’s gotta be more scared than the rest of\nus! We have to go, and NOW!"
 		},
 		{
 			"key":"EP01_S0383_0020",
-			"value":"ラブラモン……"
+			"value":"Labramon..."
 		},
 		{
 			"key":"EP01_S0383_0021",
-			"value":"私、もっと探すわ！"
+			"value":"I’ll look a bit more!"
 		},
 		{
 			"key":"EP01_S0383_0022",
-			"value":"あ、待って！　ラブラモン！"
+			"value":"Hey, wait, Labramon!"
 		},
 		{
 			"key":"EP01_S0383_0023",
-			"value":"え？　あの子、誰かしら……？"
+			"value":"Hmm? Who’s that child...?"
 		},
 		{
 			"key":"EP01_S0383_0024",
-			"value":"ラブラモン？　どうしたの？"
+			"value":"What are you talking about, Labramon?"
 		},
 		{
 			"key":"EP01_S0383_0025",
-			"value":"今、そこの廊下をコドモが歩いていたの"
+			"value":"There’s a child walking in that hallway over\nthere."
 		},
 		{
 			"key":"EP01_S0383_0026",
-			"value":"それって、さっき見た幽霊か！？"
+			"value":"Hold up, is that the ghost from before?!"
 		},
 		{
 			"key":"EP01_S0383_0027",
-			"value":"その先は突きあたりだ！\n行ってみよう！"
+			"value":"There’s a dead end up there! Let’s go!"
 		},
 		{
 			"key":"EP01_S0383_0028",
-			"value":"先に行くわ！"
+			"value":"I’ll go ahead!"
 		},
 		{
 			"key":"EP01_S0383_0029",
-			"value":"うっ！　いたた……"
+			"value":"Augh! Owww..."
 		},
 		{
 			"key":"EP01_S0383_0030",
-			"value":"怪我してるんだ無理するな！\n僕たちだけで行こう！"
+			"value":"Don’t push yourself with that injury! The two\nof us will go!"
 		},
 		{
 			"key":"EP01_S0383_0031",
-			"value":"うん！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0383_0032",
-			"value":"お願いね……！\n私はここで待ってるわ！"
+			"value":"Okay, it’s up to you, then! I’ll wait here."
 		},
 		{
 			"key":"EP01_S0383_0033",
-			"value":"私のことはいいから\nあの子を追って！"
+			"value":"I’m fine, go after that child already!"
 		}
 	]
 }

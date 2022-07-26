@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0311_0001",
-			"value":"タクマ、いた！　アオイだ！"
+			"value":"There she is, Takuma! It’s Aoi!"
 		},
 		{
 			"key":"EP05_S0311_0002",
-			"value":"アオイさん！"
+			"value":"Aoi!"
 		},
 		{
 			"key":"EP05_S0311_0003",
-			"value":"あ……タクマくん、アグモン……"
+			"value":"Oh... Takuma, Agumon..."
 		},
 		{
 			"key":"EP05_S0311_0004",
-			"value":"どうしたの？\nなんだか、疲れてるみたいだけど……"
+			"value":"What’s wrong? You look tired..."
 		},
 		{
 			"key":"EP05_S0311_0005",
-			"value":"ええ、ちょっと……"
+			"value":"Yes, a bit..."
 		},
 		{
 			"key":"EP05_S0311_0006",
-			"value":"いえ、大丈夫……大丈夫よ"
+			"value":"But it’s okay. I’m okay."
 		},
 		{
 			"key":"EP05_S0311_0007",
-			"value":"（そうは言うけど、明らかにぐったりしてるな\n　何があったんだろう？）"
+			"value":"(So she says, but anyone can see how listless\nshe is. Did something happen?)"
 		}
 	]
 }

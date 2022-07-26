@@ -2,39 +2,39 @@
     "scenario_text": [
         {
             "key": "EP05_S1994_0001",
-            "value": "キュゥッ！　キュゥッ！"
+            "value": "Kew! Kew!"
         },
         {
             "key": "EP05_S1994_0002",
-            "value": "ん？　クネモンが何か言ってるな"
+            "value": "Hmm? Kunemon’s saying something."
         },
         {
             "key": "EP05_S1994_0003",
-            "value": "なになに～？　……ふんふん"
+            "value": "What is it? ...Hmm, I see, I see."
         },
         {
             "key": "EP05_S1994_0004",
-            "value": "水の中に大事なものが落ちてる、って"
+            "value": "He says that something valuable fell in the\nwater."
         },
         {
             "key": "EP05_S1994_0005",
-            "value": "大事なもの？　落としたのか？\nよく見えないけど……"
+            "value": "Something valuable? I can’t see anything down\nthere myself..."
         },
         {
             "key": "EP05_S1994_0006",
-            "value": "ニンゲンには見えづらい、って\n……なんでだ？"
+            "value": "He says humans would have trouble seeing it.\n...But why?"
         },
         {
             "key": "EP05_S1994_0007",
-            "value": "（人間には見えづらいもの……\n　あ、そうだ。<color=#B41919>カメラ</color>で見えるかもしれない）"
+            "value": "(Humans can’t see it... Oh, I know. I’ll try\n<color=#B41919>looking with my camera</color>.)"
         },
         {
             "key": "EP05_S1994_0008",
-            "value": "キュキューッ！"
+            "value": "Kewkewww!"
         },
         {
             "key": "EP05_S1994_0009",
-            "value": "よろしく、って"
+            "value": "“After you,” he says."
         }
     ]
 }

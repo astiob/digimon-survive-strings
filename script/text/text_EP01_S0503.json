@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0503_0001",
-			"value":"あ、いた！"
+			"value":"Bingo! There it is!"
 		},
 		{
 			"key":"EP01_S0503_0002",
-			"value":"うわっ！？　近寄ってきた！"
+			"value":"Whoa! It’s closer now!"
 		},
 		{
 			"key":"EP01_S0503_0003",
-			"value":"ここは……何もないか"
+			"value":"Hmm...nothing here, huh?"
 		}
 	]
 }

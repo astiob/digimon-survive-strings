@@ -2,151 +2,151 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0801_0001",
-			"value":"くっ、やっぱり動きにくいな……"
+			"value":"Ugh, man it’s hard to move down here..."
 		},
 		{
 			"key":"EP01_S0801_0002",
-			"value":"あっ、光だ！　気をつけて！\nもうすぐ出るよ！"
+			"value":"Oh, I see light! Careful, now! We’re almost\nall the way through!"
 		},
 		{
 			"key":"EP01_S0801_0003",
-			"value":"うっ！　これは……"
+			"value":"Whoa! Look at this...!"
 		},
 		{
 			"key":"EP01_S0801_0004",
-			"value":"（がらんとした広い空間\n　月明りはまばらで、暗闇がそこかしこにある）"
+			"value":"(Shafts of moonlight cut through the expanse\nsparsely, leaving murky pools of darkness.)"
 		},
 		{
 			"key":"EP01_S0801_0005",
-			"value":"（そして、やはりここも蜘蛛の巣だらけだ\n　その量は他の場所とは比べ物にならない）"
+			"value":"(And of course, the whole area is covered in\nwebs. Way more than anywhere else.)"
 		},
 		{
 			"key":"EP01_S0801_0006",
-			"value":"（夜の闇のせいだけじゃない\n　荒廃したこの空間から感じる気持ち悪さは何なんだ）"
+			"value":"(It’s not just the night making it dark—I’m\ngetting a bad feeling from the decay.)"
 		},
 		{
 			"key":"EP01_S0801_0007",
-			"value":"（まるで、ここが何か巨大な生き物の体内のような\n　生理的な嫌悪感がある）"
+			"value":"(It’s like being in some huge beast’s belly.\nIt’s giving me a sense of revulsion.)"
 		},
 		{
 			"key":"EP01_S0801_0008",
-			"value":"（静寂の中、獲物をちょっとずつ\n　胃液で溶かしていくような蠢きを感じる……）"
+			"value":"(I detect squirming in the silence, like prey\nbeing melted bit-by-bit in gastric juices...)"
 		},
 		{
 			"key":"EP01_S0801_0009",
-			"value":"本当にここが、敵の住処なんだ……"
+			"value":"This really is the monster’s den..."
 		},
 		{
 			"key":"EP01_S0801_0010",
-			"value":"いた！　アオイよ！"
+			"value":"Look! There’s Aoi!"
 		},
 		{
 			"key":"EP01_S0801_0011",
-			"value":"ミノル！"
+			"value":"Minoru!"
 		},
 		{
 			"key":"EP01_S0801_0012",
-			"value":"ファルコモンもいる！"
+			"value":"And there’s Falcomon!"
 		},
 		{
 			"key":"EP01_S0801_0013",
-			"value":"キュゥキュッ！"
+			"value":"Kewkew!"
 		},
 		{
 			"key":"EP01_S0801_0014",
-			"value":"う、うわぁああああああああ！"
+			"value":"Yeee-heek!"
 		},
 		{
 			"key":"EP01_S0801_0015",
-			"value":"リョウ！"
+			"value":"Ryo!"
 		},
 		{
 			"key":"EP01_S0801_0016",
-			"value":"クネモンもいる！"
+			"value":"Kunemon’s here, too!"
 		},
 		{
 			"key":"EP01_S0801_0017",
-			"value":"うぅっ！　あ、あれ大丈夫なのか！？"
+			"value":"Uwah! Is that really okay?!"
 		},
 		{
 			"key":"EP01_S0801_0018",
-			"value":"臆するな、ミノル！"
+			"value":"Do not falter, Minoru!"
 		},
 		{
 			"key":"EP01_S0801_0019",
-			"value":"ミノル！　リョウも！"
+			"value":"Minoru! And you too, Ryo!"
 		},
 		{
 			"key":"EP01_S0801_0020",
-			"value":"ファルコモンとクネモンもいるよ！"
+			"value":"Falcomon and Kunemon are here, too!"
 		},
 		{
 			"key":"EP01_S0801_0021",
-			"value":"アオイさん！　ヤベえ、マジで捕まってる！"
+			"value":"Aoi! This is bad, she really got caught!"
 		},
 		{
 			"key":"EP01_S0801_0022",
-			"value":"う、うわぁああああああああ！"
+			"value":"Yeee-heek! I, I’m still alive?!"
 		},
 		{
 			"key":"EP01_S0801_0023",
-			"value":"キュゥゥ……！"
+			"value":"Kewww...!"
 		},
 		{
 			"key":"EP01_S0801_0024",
-			"value":"臆するな二人とも！\nクネモンの闘志を見習え！"
+			"value":"Falter not, you two! You could learn from\nKunemon’s fighting spirit!"
 		},
 		{
 			"key":"EP01_S0801_0025",
-			"value":"無事なのか？\nくそっ、ここからじゃわからない……！"
+			"value":"Is she okay? Damn, I can’t tell from here...!"
 		},
 		{
 			"key":"EP01_S0801_0026",
-			"value":"早く助け出さないと！\nでも、どうすれば……"
+			"value":"We have to hurry up and rescue her! But how,\nexactly...?"
 		},
 		{
 			"key":"EP01_S0801_0027",
-			"value":"なにボーっとしてるのよ、行くわよっ！"
+			"value":"What’re you just standing around for!\nLet’s go!"
 		},
 		{
 			"key":"EP01_S0801_0028",
-			"value":"あっ、待ってラブラモン！　一人で行っちゃ……"
+			"value":"Ah, wait, Labramon! You can’t go alone—"
 		},
 		{
 			"key":"EP01_S0801_0029",
-			"value":"キシャー！！！"
+			"value":"Kishhhaaaaaah!"
 		},
 		{
 			"key":"EP01_S0801_0030",
-			"value":"きゃっ！？"
+			"value":"Yeek!"
 		},
 		{
 			"key":"EP01_S0801_0031",
-			"value":"うわぁっ！？"
+			"value":"Whoa!!!"
 		},
 		{
 			"key":"EP01_S0801_0032",
-			"value":"う、うわぁあぁ！"
+			"value":"Uwaaah!"
 		},
 		{
 			"key":"EP01_S0801_0033",
-			"value":"来たわ……！\n思った通りよ、すごく大きいわ！"
+			"value":"It’s here...and it’s even bigger than\nI thought!"
 		},
 		{
 			"key":"EP01_S0801_0034",
-			"value":"こ、こいつが、ドクグモン……"
+			"value":"This... This is Dokugumon..."
 		},
 		{
 			"key":"EP01_S0801_0035",
-			"value":"う、ううぅ……\nこ、こわいよぉ"
+			"value":"Are you scared Takuma?"
 		},
 		{
 			"key":"EP01_S0801_0036",
-			"value":"ああ……でも！\nやるしかないな！"
+			"value":"Yeah... But we still have to fight!"
 		},
 		{
 			"key":"EP01_S0801_0037",
-			"value":"みんな、行くぞ！"
+			"value":"Let’s go, everyone!"
 		}
 	]
 }

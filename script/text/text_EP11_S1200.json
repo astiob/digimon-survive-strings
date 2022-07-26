@@ -2,71 +2,71 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1200_0001",
-			"value":"なんかオレ、緊張してきたかも……"
+			"value":"Man, I’ve got butterflies in my stomach..."
 		},
 		{
 			"key":"EP11_S1200_0002",
-			"value":"私も……さっきから足が震えちゃって……"
+			"value":"Me too... My legs won’t stop shaking..."
 		},
 		{
 			"key":"EP11_S1200_Q1",
-			"value":"アオイとミノルになんて声をかけよう？"
+			"value":"What should I say to Aoi and Minoru?"
 		},
 		{
 			"key":"EP11_S1200_Q1_A1",
-			"value":"僕も緊張してる"
+			"value":"I’m nervous, too."
 		},
 		{
 			"key":"EP11_S1200_Q1_A2",
-			"value":"気合を入れるんだ"
+			"value":"Let’s get psyched up."
 		},
 		{
 			"key":"EP11_S1200_Q1_A3",
-			"value":"深呼吸するといいよ"
+			"value":"Take a deep breath."
 		},
 		{
 			"key":"EP11_S1200_0003",
-			"value":"僕も緊張してるよ"
+			"value":"I’m nervous, too."
 		},
 		{
 			"key":"EP11_S1200_0004",
-			"value":"えっ？　タクマもか？\n珍しいな、おまえが緊張するなんて"
+			"value":"Really? You too? Don’t see that every day."
 		},
 		{
 			"key":"EP11_S1200_0005",
-			"value":"そう？　僕だって、やっぱり怖いからね"
+			"value":"You think? I get scared too, y’know."
 		},
 		{
 			"key":"EP11_S1200_0006",
-			"value":"タクマさんでも緊張することあるんだ……\nそれを聞いて、私なんだか安心しちゃったな"
+			"value":"Yeah, I guess you get tense sometimes, too.\nHearing that actually makes me feel better."
 		},
 		{
 			"key":"EP11_S1200_0007",
-			"value":"はははっ！　オレもだぜ！"
+			"value":"Hahaha! Yeah, I know what you mean!"
 		},
 		{
 			"key":"EP11_S1200_0008",
-			"value":"二人とも、気合を入れるんだ\nそうすれば、きっと切り抜けられる"
+			"value":"We’d better get psyched up.\nThat’ll get us through this."
 		},
 		{
 			"key":"EP11_S1200_0009",
-			"value":"おいおい、タクマ……\nおまえって、意外と硬派なんだな！"
+			"value":"Whoa, Takuma...\nYou’re more macho than I thought!"
 		},
 		{
 			"key":"EP11_S1200_0010",
-			"value":"そんな事を言われても……ダメよ\n気合の入れ方なんて、わからないもの……"
+			"value":"Even if you say so, I can’t... I don’t know\nhow to get “psyched” in the first place..."
 		},
 		{
 			"key":"EP11_S1200_0011",
-			"value":"深呼吸するといいよ"
+			"value":"Take a deep breath."
 		},
 		{
 			"key":"EP11_S1200_0012",
-			"value":"おいおい、タクマ……\nそんなの、さっきから何度もやってるって"
+			"value":"You think I haven’t tried that already?"
 		},
 		{
 			"key":"EP11_S1200_0013",
-			"value":"私も……深呼吸、何度やってもダメみたい\n足の震えが止まらない……"
+			"value":"Me too... Deep breaths haven’t helped at all.\nThe shaking won’t stop..."
 		}
 	]
 }

@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0620_0002",
-			"value":"ねぇ、本当にこのトンネルを通って行くの？"
+			"value":"Um, are we really going to go through this\ntunnel?"
 		},
 		{
 			"key":"EP01_S0620_0003",
-			"value":"他に道は無さそうだし、\nここを通るしかないんじゃないかな？"
+			"value":"I don’t see any other way. This is our only\noption, right?"
 		},
 		{
 			"key":"EP01_S0620_0004",
-			"value":"そう……うぅ、でもぉ"
+			"value":"Well, yes, but...ngh..."
 		},
 		{
 			"key":"EP01_S0620_0005",
-			"value":"アオイさん、もしかして暗いとこ怖い？"
+			"value":"You’re not afraid of the dark, are you, Aoi?"
 		},
 		{
 			"key":"EP01_S0620_0006",
-			"value":"ちょ、ちょっとだけ、不気味な気がするだけで……"
+			"value":"J-just a bit.\nCreeps me out just a little bit..."
 		},
 		{
 			"key":"EP01_S0620_0007",
-			"value":"い、いえ、そんなこと言っていられないわよね！\nサキさんたちを早く連れ戻さないと！"
+			"value":"Hey, why are we talking about this?! We have\nto bring Saki and the others back right away!"
 		},
 		{
 			"key":"EP01_S0620_0008",
-			"value":"は、早く行きましょう……"
+			"value":"So let’s...let’s hurry..."
 		}
 	]
 }

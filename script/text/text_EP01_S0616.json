@@ -2,35 +2,35 @@
     "scenario_text": [
         {
             "key": "EP01_S0616_0001",
-            "value": "それより見て、この桜！\nキレイねぇ……"
+            "value": "Would you look at those flowers!\nHow wonderful..."
         },
         {
             "key": "EP01_S0616_0002",
-            "value": "アオイさん知ってる？\n桜の木の下にはね、死体が……"
+            "value": "Hey, did you know, Aoi? They say there’s\na dead body under every cherry blossom tree—"
         },
         {
             "key": "EP01_S0616_0003",
-            "value": "ああ、そういう話は今はいいから！"
+            "value": "I don’t want to hear about that right now!"
         },
         {
             "key": "EP01_S0616_0004",
-            "value": "それより、私たちもそろそろ史跡の方へ向かいましょう"
+            "value": "I’d rather we head toward the historic\nlandmark, if we could."
         },
         {
             "key": "EP01_S0616_0005",
-            "value": "みんなが向かった方は……なんか<color=#B41919>山道</color>じゃない？\n大変そうだなあ……"
+            "value": "Everyone went this way... Looks pretty rocky\nup that <color=#B41919>path</color>, huh? What a pain..."
         },
         {
             "key": "EP01_S0616_0006",
-            "value": "（そう。いつも通りな日常の\n　いつもの仲間とのそんな会話……）"
+            "value": "(It was a normal conversation on a normal day\nwith friends...)"
         },
         {
             "key": "EP01_S0616_0007",
-            "value": "（いや、キャンプ地だから\n　いつもとはちょっと違う日常か）"
+            "value": "(Well, normal other than the camping part.)"
         },
         {
             "key": "EP01_S0616_0008",
-            "value": "（この時までは、そう思っていたんだ）"
+            "value": "(At least, that’s what I thought.)"
         }
     ]
 }

@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1600_0001",
-			"value":"（あれ、ミユキがしゃがみこんでる）"
+			"value":"(Why’s Miyuki crouching over there?)"
 		},
 		{
 			"key":"EP06_S1600_0002",
-			"value":"（しかも、ひとりだ\n　ハルがそばにいないなんて、珍しいな）"
+			"value":"(And by herself without Haru, too.\nThat’s not normal.)   "
 		},
 		{
 			"key":"EP06_S1600_0003",
-			"value":"なにやってるの？"
+			"value":"Hey, Miyuki. What are you doing?"
 		},
 		{
 			"key":"EP06_S1600_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0005",
-			"value":"（うーん、相変わらず掴みどころがないというか\n　とっつきにくいよなあ……）"
+			"value":"(She’s always so difficult to talk to. I’m\nnever sure how I should approach her.)"
 		},
 		{
 			"key":"EP06_S1600_0006",
-			"value":"……向こう"
+			"value":"...Over there."
 		},
 		{
 			"key":"EP06_S1600_0007",
-			"value":"向こうがどうかしたの？"
+			"value":"What? Is there something special over there?"
 		},
 		{
 			"key":"EP06_S1600_0008",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0009",
-			"value":"（向こう……って言われても\n　何も見えないけど）"
+			"value":"(I don’t see anything “over there.”)"
 		},
 		{
 			"key":"EP06_S1600_0010",
-			"value":"（ミユキには何が見えているんだろう？）"
+			"value":"(What is Miyuki seeing?)"
 		},
 		{
 			"key":"EP06_S1600_0011",
-			"value":"（素直に聞いて、答えてくれるかな？\n　いっそカマを掛けてみる？）"
+			"value":"(Will she tell me if I flat out ask her?\nMaybe an indirect approach is better.)"
 		},
 		{
 			"key":"EP06_S1600_Q1",
-			"value":"（ミユキにどう声をかけようか）"
+			"value":"(How should I approach Miyuki?)"
 		},
 		{
 			"key":"EP06_S1600_Q1_A1",
-			"value":"何があるのか確かめようかな……"
+			"value":"Is something there?"
 		},
 		{
 			"key":"EP06_S1600_Q1_A2",
-			"value":"適当に言うしかないよな……"
+			"value":"Say something, anything!"
 		},
 		{
 			"key":"EP06_S1600_Q1_A3",
-			"value":"何も見えないって伝えようかな……"
+			"value":"Say I see nothing..."
 		},
 		{
 			"key":"EP06_S1600_0013",
-			"value":"向こうに何かあるの？"
+			"value":"What’s over there?"
 		},
 		{
 			"key":"EP06_S1600_0014",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0015",
-			"value":"（ミユキの指した方には……森がある）"
+			"value":"(All I see in that direction is...\nthe forest.)"
 		},
 		{
 			"key":"EP06_S1600_0016",
-			"value":"（それしかわからない\n　木の密度が高くて細かい部分は見えないし……）"
+			"value":"(That’s all.\nThere are too many trees to see much else.)"
 		},
 		{
 			"key":"EP06_S1600_0018",
-			"value":"あ、ああ、あれのこと？\nあの、ほら、向こうの……"
+			"value":"Oh, that thing?\nAs in, that thing over there?"
 		},
 		{
 			"key":"EP06_S1600_0019",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0020",
-			"value":"（適当に言ってみたけど\n　やっぱりなんの反応も返してくれないや）"
+			"value":"(I tried to play along,\nbut she still won’t say a peep.)"
 		},
 		{
 			"key":"EP06_S1600_0022",
-			"value":"僕には何も見えないよ\nミユキは目がいいんだね"
+			"value":"I can’t see anything.\nYou have good eyesight, Miyuki."
 		},
 		{
 			"key":"EP06_S1600_0023",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0024",
-			"value":"（うーん……これ以上は何も聞けそうにない）"
+			"value":"(I don’t know what else to ask.)"
 		},
 		{
 			"key":"EP06_S1600_0025",
-			"value":"（結局、何が見えてたのかは\n　さっぱりわからなかった）"
+			"value":"(I still don’t know what it is she saw.)"
 		},
 		{
 			"key":"EP06_S1600_0026",
-			"value":"（ミユキ……本当に不思議な子だな）"
+			"value":"(Miyuki sure is mysterious...)"
 		},
 		{
 			"key":"EP06_S1600_0027",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1600_0028",
-			"value":"（ミユキは変わらず黙ったままだ……\n　他のみんなの様子を見に行こう）"
+			"value":"(She’s still not talking.\nI should go check on the others.)"
 		}
 	]
 }

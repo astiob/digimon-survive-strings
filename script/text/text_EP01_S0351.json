@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0351_0001",
-			"value":"あ！　タクマー、何か見つけたよー"
+			"value":"Oh! I think I found something, Takuma."
 		},
 		{
 			"key":"EP01_S0351_0002",
-			"value":"えー？\nこんなところで拾った物なんて大丈夫なのか？"
+			"value":"Oh yeah? You think it’s safe to use things we\nfind around here?"
 		},
 		{
 			"key":"EP01_S0351_0003",
-			"value":"あー、でも汚れてる感じはないな\nとりあえず貰っとくか"
+			"value":"Well, it doesn’t look dirty or anything.\nI’ll hold onto it for now."
 		},
 		{
 			"key":"EP01_S0351_0004",
-			"value":"ありがとな、アグモン"
+			"value":"Thanks, Agumon!"
 		},
 		{
 			"key":"EP01_S0351_0005",
-			"value":"ど～いたしまして～"
+			"value":"You’re veeery welcome!"
 		}
 	]
 }

@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9174_0001",
-			"value":"わっ！　か、風が……！"
+			"value":"Hey! What’s with all this wind?"
 		},
 		{
 			"key":"EP12_S9174_0002",
-			"value":"おいおい、今日はこんなに風強くなかったろ！"
+			"value":"Yeah, this is crazy! It wasn’t this windy out\nbefore!"
 		},
 		{
 			"key":"EP12_S9174_0003",
-			"value":"と、飛ばされるぅ～～っ！"
+			"value":"I’m...I’m going to get blown away!"
 		},
 		{
 			"key":"EP12_S9174_0004",
-			"value":"ミウっ、掴まれっ！"
+			"value":"Miu! Grab on!"
 		},
 		{
 			"key":"EP12_S9174_0005",
-			"value":"っはぁ、はぁ！　閉めたよ！"
+			"value":"*huff*...*huff*... There!"
 		},
 		{
 			"key":"EP12_S9174_0006",
-			"value":"ふぅ……まさか天候まで操れる、とかなのか？\nやべえじゃねえか……"
+			"value":"Man, can this thing even control the weather?\nThat’s freaky."
 		}
 	]
 }

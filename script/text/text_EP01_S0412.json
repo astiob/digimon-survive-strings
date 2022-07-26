@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0412_0001",
-			"value":"タクマ、ミノルの言っていた\nカメラで写真を撮る、とはどういうことだ？"
+			"value":"Takuma, what is this “snapping pics” Minoru\nspeaks of?"
 		},
 		{
 			"key":"EP01_S0412_0002",
-			"value":"このスマホのカメラ機能で、風景を絵にするんだ"
+			"value":"One of this phone’s functions lets you turn\nwhat you see into a picture."
 		},
 		{
 			"key":"EP01_S0412_0003",
-			"value":"なんと！　そんなことが可能なのか！"
+			"value":"Heavens! Such things are possible?!"
 		},
 		{
 			"key":"EP01_S0412_0004",
-			"value":"むぅ、興味深い……タクマ、そのスマホを\nよく見せてくれないか？"
+			"value":"Hrmmm, fascinating... May I take a closer\nlook at this device, sir?"
 		},
 		{
 			"key":"EP01_S0412_0005",
-			"value":"あ、後でね……"
+			"value":"Um, maybe later..."
 		},
 		{
 			"key":"EP01_S0412_0006",
-			"value":"カメラで写真を撮る、か……\n興味深いな……"
+			"value":"“Snapping pics”... Truly fascinating..."
 		}
 	]
 }

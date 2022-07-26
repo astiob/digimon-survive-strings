@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S7029_0001",
-			"value":"あれ？　ひょっとして、そこに誰かいる？"
+			"value":"Huh? Is someone over there?"
 		},
 		{
 			"key":"EP09_S7029_0002",
-			"value":"わわっ！"
+			"value":"Yikes!"
 		},
 		{
 			"key":"EP09_S7029_0003",
-			"value":"今、何か聞こえたわよね！？"
+			"value":"Did you hear something just now?!"
 		},
 		{
 			"key":"EP09_S7029_0004",
-			"value":"ボクも、なんか気配を感じるぞ～"
+			"value":"Yeah, I sense something, too!"
 		},
 		{
 			"key":"EP09_S7029_0005",
-			"value":"そうか、一応気をつけて確かめよう"
+			"value":"Yeah? Let’s check it out, but be careful."
 		},
 		{
 			"key":"EP09_S7029_0006",
-			"value":"そこだっ！"
+			"value":"There!"
 		},
 		{
 			"key":"EP09_S7029_0007",
-			"value":"うわわっ！　やめろ、離せっ！\nボクは美味しくないぞー！"
+			"value":"YIKES! Stop, lemme go! My meat’s all stringy,\nyou’d hate it!"
 		},
 		{
 			"key":"EP09_S7029_0008",
-			"value":"って、あれ？\nお前たち、ミウ様のお仲間……？"
+			"value":"Wait, what? Aren’t you all friends of Lady\nMiu?"
 		},
 		{
 			"key":"EP09_S7029_0009",
-			"value":"あんた、前にここに来た時のあの子よね？\nよかったぁ……無事だったんだ……！"
+			"value":"You’re the one we met last time we came here,\naren’t you? I’m so glad you’re safe!"
 		},
 		{
 			"key":"EP09_S7029_0010",
-			"value":"も、もしかしてボクを助けに来てくれたの……？"
+			"value":"Did, did you come here to save me...?"
 		},
 		{
 			"key":"EP09_S7029_0011",
-			"value":"ええ、そうよ。もう大丈夫だからね\n怪我の手当もしてあげるから、一緒にいらっしゃい"
+			"value":"Yep, that’s right. You’re gonna be okay! Come\nwith us, we’ll treat your wounds."
 		}
 	]
 }

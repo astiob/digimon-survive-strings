@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2220_0001",
-			"value":"またお前たちか……\n戻る気はないと言ったはずだが"
+			"value":"You two again... I believe I’ve expressed my\nintention loud and clear. I won’t go back."
 		},
 		{
 			"key":"EP06_S2220_0002",
-			"value":"戻る気がないとは言ってないよ\n戻れないとは言ってたけど"
+			"value":"But you didn’t say that, did you? You said\nthat you “can’t” come back."
 		},
 		{
 			"key":"EP06_S2220_0003",
-			"value":"……失言だった"
+			"value":"...I simply misspoke."
 		},
 		{
 			"key":"EP06_S2220_0004",
-			"value":"何か事情があるのか？\nだったらオレに相談を……"
+			"value":"Is something going on? If so, we can talk it\nthrough and—"
 		},
 		{
 			"key":"EP06_S2220_0005",
-			"value":"必要ない\n他の仲間のところへ帰れ"
+			"value":"No need. Return to your other comrades."
 		},
 		{
 			"key":"EP06_S2220_0006",
-			"value":"話くらい聞かせてくれよ！"
+			"value":"Just talk to me, here!"
 		},
 		{
 			"key":"EP06_S2220_0007",
-			"value":"……お前たちが退かないのなら俺が行く"
+			"value":"...If you refuse to withdraw, then I shall\ntake leave myself."
 		},
 		{
 			"key":"EP06_S2220_0008",
-			"value":"ファルコモン……やっぱり\n謝ったくらいじゃ許してもらえないかな"
+			"value":"Falcomon... I guess an apology isn’t enough\nfor him to forgive me."
 		},
 		{
 			"key":"EP06_S2220_0009",
-			"value":"……あのね、ミノル\nファルコモンは怒ってなさそうな気がするよ"
+			"value":"Hey, Minoru... It doesn’t sound like he’s\nactually mad at you or anything."
 		},
 		{
 			"key":"EP06_S2220_0010",
-			"value":"え？\nじゃあ、どうして……"
+			"value":"Really? But then, why...?"
 		},
 		{
 			"key":"EP06_S2220_0011",
-			"value":"何か言えない理由があるのかもしれない\nもう一度追いかけて、聞いてみよう"
+			"value":"He may have a reason he can’t tell us. Let’s\nfollow him again and try asking him about it."
 		},
 		{
 			"key":"EP06_S2220_0012",
-			"value":"言えない理由……か\n全然想像がつかないぜ"
+			"value":"A reason he can’t tell us, huh? I can’t think\nof anything."
 		}
 	]
 }

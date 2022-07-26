@@ -2,155 +2,155 @@
     "scenario_text": [
         {
             "key": "EP07_S9003_0001",
-            "value": "シュウジさん、何か見つかりましたか？"
+            "value": "Did you find anything, Shuuji?"
         },
         {
             "key": "EP07_S9003_0002",
-            "value": "いや、まだ何も"
+            "value": "No, not yet."
         },
         {
             "key": "EP07_S9003_0003",
-            "value": "うぅ……ごめんね、シュウジ"
+            "value": "Oh... I... I’m sorry, Shuuji."
         },
         {
             "key": "EP07_S9003_0004",
-            "value": "ロップモンは悪くない\n君は頑張っているよ"
+            "value": "It’s not your fault, Lopmon.\nYou’re doing your best."
         },
         {
             "key": "EP07_S9003_0005",
-            "value": "僕にはわからない気配を探れるし\n小さな身体で狭いところも入れる"
+            "value": "You’re finding traces I would never see, and\nyou can get into a lot of tight places, too."
         },
         {
             "key": "EP07_S9003_0006",
-            "value": "ロップモンはよくやっているよ\nどうすればもっとできるか、一緒に考えよう"
+            "value": "You’re doing a great job.\nLet’s think what else we can try next."
         },
         {
             "key": "EP07_S9003_0007",
-            "value": "シュウジ……！\nうん、一緒に頑張ろう！"
+            "value": "Together we got this, Shuuji!"
         },
         {
             "key": "EP07_S9003_0008",
-            "value": "（シュウジさん、前までと違って\n　ロップモンを褒めるようになったな）"
+            "value": "(Shuuji has changed.\nHe even praises Lopmon now.)"
         },
         {
             "key": "EP07_S9003_0009",
-            "value": "（なんだか二人、先生と生徒みたいだ）"
+            "value": "(They’re a teacher and his student now.)"
         },
         {
             "key": "EP07_S9003_0010",
-            "value": "（この調子なら\n　ここは二人に任せていいかもしれないな）"
+            "value": "(I think I’ve seen enough to let them keep at\nit.)"
         },
         {
             "key": "EP07_S9003_Q1",
-            "value": "（シュウジさんになんて言おう）"
+            "value": "(What should I say to Shuuji?)"
         },
         {
             "key": "EP07_S9003_Q1_A1",
-            "value": "いい雰囲気ですね"
+            "value": "Those are good vibes."
         },
         {
             "key": "EP07_S9003_Q1_A2",
-            "value": "先生みたいですね"
+            "value": "You’re like a teacher."
         },
         {
             "key": "EP07_S9003_Q1_A3",
-            "value": "後はお願いしますね"
+            "value": "I’ll leave it to you."
         },
         {
             "key": "EP07_S9003_0011",
-            "value": "いい雰囲気ですね"
+            "value": "Those are good vibes."
         },
         {
             "key": "EP07_S9003_0012",
-            "value": "二人、いい雰囲気ですね"
+            "value": "Those are some good vibes between you two."
         },
         {
             "key": "EP07_S9003_0013",
-            "value": "はは、そう見えるか？\nそれならよかった"
+            "value": "You think so? Then I’m glad."
         },
         {
             "key": "EP07_S9003_0014",
-            "value": "口先だけの人間にはなりたくないからね\n僕も、できることをやるさ"
+            "value": "I don’t want to be a blowhard.\nI’m just trying to do what I can to help."
         },
         {
             "key": "EP07_S9003_0015",
-            "value": "頼られるリーダーではなく\n一緒に何かを作り上げるリーダーになりたいから"
+            "value": "I want to be a leader who pitches in and does\nthe work. Not just someone who gives orders."
         },
         {
             "key": "EP07_S9003_0016",
-            "value": "はい、僕も手伝えることがあったら言ってください"
+            "value": "Sounds good. Let me know if I can help."
         },
         {
             "key": "EP07_S9003_0017",
-            "value": "ああ、頼る時は大いに頼らせてもらおう"
+            "value": "You can definitely depend on me."
         },
         {
             "key": "EP07_S9003_0018",
-            "value": "先生みたいですね"
+            "value": "You’re like a teacher."
         },
         {
             "key": "EP07_S9003_0019",
-            "value": "なんだかシュウジさん、先生みたいですね\nそれで、ロップモンが生徒"
+            "value": "Shuuji, it’s like you’ve become a teacher!\nAnd Lopmon is your student."
         },
         {
             "key": "EP07_S9003_0020",
-            "value": "僕が、先生か……"
+            "value": "Me? A teacher?"
         },
         {
             "key": "EP07_S9003_0021",
-            "value": "はは、いいな\n考えてもみなかったけど、そういうのもアリだ"
+            "value": "I like that. I hadn’t thought of it that way,\nbut I can see it now that you mention it."
         },
         {
             "key": "EP07_S9003_0022",
-            "value": "無事に元の世界に帰れたら\n本気で目指してみても、いいかもしれないな"
+            "value": "That might be a good job to go for, if we can\nmake it safely back home."
         },
         {
             "key": "EP07_S9003_0023",
-            "value": "後はお願いしますね"
+            "value": "I’ll leave it to you."
         },
         {
             "key": "EP07_S9003_0024",
-            "value": "ここは任せて大丈夫そうなので\n後はお願いしますね"
+            "value": "It looks like you have things under control,\nso I’ll leave it to you."
         },
         {
             "key": "EP07_S9003_0025",
-            "value": "ああ、まかせてくれ"
+            "value": "Great."
         },
         {
             "key": "EP07_S9003_0026",
-            "value": "ここは僕たちで探索しておくから\nタクマは<color=#B41919>別の場所</color>を見てきてくれ"
+            "value": "We’ll take a look around here, so Takuma, you\ncan go search <color=#B41919>somewhere else</color>."
         },
         {
             "key": "EP07_S9003_0027",
-            "value": "はい、わかりました"
+            "value": "You got it!"
         },
         {
             "key": "EP07_S9003_0028",
-            "value": "……タクマ"
+            "value": "Takuma?"
         },
         {
             "key": "EP07_S9003_0029",
-            "value": "はい？"
+            "value": "Yeah?"
         },
         {
             "key": "EP07_S9003_0030",
-            "value": "僕は、父さんへの執着から抜け出すよ\nもう父さんの影を恐れない"
+            "value": "I need to break free from my obsession with\nmy dad. I don’t need to follow after him."
         },
         {
             "key": "EP07_S9003_0031",
-            "value": "この決意を、君に聞いてほしかったんだ"
+            "value": "I wanted you to know that."
         },
         {
             "key": "EP07_S9003_0032",
-            "value": "はい、確かに聞きました\n上手くいくよう、願っています"
+            "value": "I hear you. I hope it all goes well."
         },
         {
             "key": "EP07_S9003_0033",
-            "value": "ああ、ありがとう、タクマ"
+            "value": "Thanks, Takuma."
         },
         {
             "key": "EP07_S9003_0034",
-            "value": "ここは僕たちで探索しておくから\n君は<color=#B41919>別の場所</color>を見てきてくれ"
+            "value": "We’ll take a look around here, so you can go\nsearch <color=#B41919>elsewhere</color>."
         }
     ]
 }

@@ -2,75 +2,75 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9110_0001",
-			"value":"サキ！　どうかしたの！？"
+			"value":"Saki? What happened?!"
 		},
 		{
 			"key":"EP12_S9110_0002",
-			"value":"あ、タクマぁ……\nよかったぁ……"
+			"value":"Oh, Takuma, am I glad to see you!"
 		},
 		{
 			"key":"EP12_S9110_0003",
-			"value":"ど、どうしたの？\n顔が真っ青だけど……"
+			"value":"What’s wrong? You look pale!"
 		},
 		{
 			"key":"EP12_S9110_0004",
-			"value":"タクマがいなくなった後……\nや、やっぱり、誰か、いた気がして……"
+			"value":"Well, after you left, I...I couldn’t shake\nthis feeling that someone else was there..."
 		},
 		{
 			"key":"EP12_S9110_0005",
-			"value":"……実は、教室でリョウも\n幽霊を見たって騒いでたんだ"
+			"value":"You know...Ryo did freak out in the classroom\nearlier. He said he saw a ghost."
 		},
 		{
 			"key":"EP12_S9110_0006",
-			"value":"ひっ……そ、それ、ホント？"
+			"value":"Eep... He...he did?"
 		},
 		{
 			"key":"EP12_S9110_0007",
-			"value":"や、やだやだ！　タクマ、怖い！\nアオイちゃんが帰ってくるまで、ここにいてぇ……！"
+			"value":"Oh, I don’t like this one bit! Takuma, I’m\nscared! Can you stay until Aoi gets back?"
 		},
 		{
 			"key":"EP12_S9110_0008",
-			"value":"（サキ、幽霊とか苦手なんだ……\n　意外というか、ちょっと可愛い、かも……）"
+			"value":"(I guess Saki’s afraid of ghosts. That’s a\nlittle surprising, but...also kind of cute.)"
 		},
 		{
 			"key":"EP12_S9110_0009",
-			"value":"今のところ、校舎の中に私たち以外の\n気配はないけどねぇ……"
+			"value":"I’m not sensing anyone besides us in the\nschool right now..."
 		},
 		{
 			"key":"EP12_S9110_0010",
-			"value":"うん、ボクも敵の気配は感じないよ"
+			"value":"Yeah, I don’t sense any enemies either."
 		},
 		{
 			"key":"EP12_S9110_0011",
-			"value":"僕らがいなかった間、ドクグモンみたいに\nここに敵が潜んでるってことはない？"
+			"value":"So you don’t think there’s an enemy like\nDokugumon that snuck in while we were away?"
 		},
 		{
 			"key":"EP12_S9110_0012",
-			"value":"いたとしてもやっぱり私たちが気づくわ\nそういうのも含めて、他の気配はないのよ"
+			"value":"If there was, we’d at least be able to sense\nit. But no, we’re the only ones here."
 		},
 		{
 			"key":"EP12_S9110_0013",
-			"value":"なるほど……"
+			"value":"Huh..."
 		},
 		{
 			"key":"EP12_S9110_0014",
-			"value":"サキ、僕はみんなに警戒するよう伝えに行かないと\nサキはここで、フローラモンと一緒にいて"
+			"value":"Saki, I need to go warn the others about\nthis. You stay here with Floramon."
 		},
 		{
 			"key":"EP12_S9110_0015",
-			"value":"うぅ……うん、わかった……"
+			"value":"Ugh... Okay, if you say so..."
 		},
 		{
 			"key":"EP12_S9110_0016",
-			"value":"安心して、サキ\n何が出ても私が守るわ"
+			"value":"Don’t worry, Saki. Whatever’s out there, I’ll\nprotect you."
 		},
 		{
 			"key":"EP12_S9110_0017",
-			"value":"う、うん！\nホント、頼りにしてるからね、フローラモン"
+			"value":"Right! I’m seriously counting on you,\nFloramon."
 		},
 		{
 			"key":"EP12_S9110_0018",
-			"value":"（さて、ちょっと休んでられなくなったな\n　ただの気のせいだったらいいんだけど……）"
+			"value":"(Well, so much for taking it easy. I hope\nthis is all just people imagining things.)"
 		}
 	]
 }

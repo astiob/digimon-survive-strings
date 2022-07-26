@@ -2,323 +2,323 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S9000_0001",
-			"value":"よし、準備はこんなもんかな……"
+			"value":"There, that should do it."
 		},
 		{
 			"key":"EP07_S9000_0002",
-			"value":"キュー！　キュキュキュー！"
+			"value":"Kew! Kewkewkew!"
 		},
 		{
 			"key":"EP07_S9000_0003",
-			"value":"ん、どうしたクネモン？"
+			"value":"Kunemon? What is it?"
 		},
 		{
 			"key":"EP07_S9000_0004",
-			"value":"あ、こら！　荷物を荒らすなって\nせっかく整理したんだぞ"
+			"value":"Hey, don’t mess that stuff up! I just\nfinished packing it!"
 		},
 		{
 			"key":"EP07_S9000_0005",
-			"value":"キューゥ……"
+			"value":"Kew..."
 		},
 		{
 			"key":"EP07_S9000_0006",
-			"value":"……もしかして、腹減ってるのか？"
+			"value":"Wait, are you saying you’re hungry?"
 		},
 		{
 			"key":"EP07_S9000_0007",
-			"value":"キュキュー！"
+			"value":"Kewkew!"
 		},
 		{
 			"key":"EP07_S9000_0008",
-			"value":"ほら。こいつを食うか？\n……って、豆類とか食うのかな"
+			"value":"Here, why don’t you have some of this? Um, do\nyou even eat beans?"
 		},
 		{
 			"key":"EP07_S9000_0009",
-			"value":"キュキュキュー！"
+			"value":"Kewkewkew!"
 		},
 		{
 			"key":"EP07_S9000_0010",
-			"value":"……おお、食った！"
+			"value":"I guess so."
 		},
 		{
 			"key":"EP07_S9000_0011",
-			"value":"おはよう。朝から仲良しだね"
+			"value":"G’morning. Everyone’s up so early."
 		},
 		{
 			"key":"EP07_S9000_0012",
-			"value":"お、ようやく起きてきたか\n決戦前に随分と余裕だな"
+			"value":"You’re finally up?\nSo relaxed before the battle?"
 		},
 		{
 			"key":"EP07_S9000_0013",
-			"value":"やめてくれよ、そんなんじゃないって"
+			"value":"Leave me alone. That’s not it."
 		},
 		{
 			"key":"EP07_S9000_0014",
-			"value":"へっ、まぁお前なら大丈夫だろうけどよ"
+			"value":"Well, I wouldn’t worry about you anyway."
 		},
 		{
 			"key":"EP07_S9000_0015",
-			"value":"あ、ハルとミユキ\nおはよう"
+			"value":"It’s Haru and Miyuki.\nMorning."
 		},
 		{
 			"key":"EP07_S9000_0016",
-			"value":"ひっ……！"
+			"value":"Yikes!"
 		},
 		{
 			"key":"EP07_S9000_0017",
-			"value":"おはよう……"
+			"value":"Morning..."
 		},
 		{
 			"key":"EP07_S9000_0018",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S9000_0019",
-			"value":"っと、行っちゃった\n二人とも相変わらず存在感薄いよなぁ……"
+			"value":"And they’re gone. The two of them never seem\nto want to hang around."
 		},
 		{
 			"key":"EP07_S9000_0020",
-			"value":"はぁ、はぁ……ふぅ"
+			"value":"*huff*...*huff*..."
 		},
 		{
 			"key":"EP07_S9000_0021",
-			"value":"ん、リョウ？\nどうしたんだ、そんな青い顔して"
+			"value":"What is it, Ryo?\nYou look really pale!"
 		},
 		{
 			"key":"EP07_S9000_0022",
-			"value":"キュキュゥ？"
+			"value":"Kewkew?"
 		},
 		{
 			"key":"EP07_S9000_0023",
-			"value":"あ、あぁ、いや……うん"
+			"value":"No, well... Yeah."
 		},
 		{
 			"key":"EP07_S9000_0024",
-			"value":"その、タクマ……今だから言うけどよ\nオレ、ハルのヤツが……ちょっと苦手でよ"
+			"value":"Listen, Takuma. I gotta tell you this. I’m\nnot really getting along with Haru."
 		},
 		{
 			"key":"EP07_S9000_0025",
-			"value":"もしかして初めて会った時のこと引きずってる？\n幽霊と間違えてたやつ"
+			"value":"First impressions gone wrong?\nWhen you thought he was a ghost?"
 		},
 		{
 			"key":"EP07_S9000_0026",
-			"value":"その話は忘れろ！"
+			"value":"Forget that!"
 		},
 		{
 			"key":"EP07_S9000_0027",
-			"value":"いや、っつーか、そんなんじゃねえんだよ……"
+			"value":"It’s not like that at all..."
 		},
 		{
 			"key":"EP07_S9000_0028",
-			"value":"どういうこと？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP07_S9000_0029",
-			"value":"ん……と、その……"
+			"value":"Umm... Well..."
 		},
 		{
 			"key":"EP07_S9000_0030",
-			"value":"（なんだろう？　今更ハルのことを怖がるなんて\n　何かあったのかな？）"
+			"value":"(What is it? Why is he suddenly all afraid of\nHaru?)"
 		},
 		{
 			"key":"EP07_S9000_0031",
-			"value":"（まぁ、どうせ何かの間違いなんだろうけど\n　ハルはあんな小さな子なんだし）"
+			"value":"(It’s probably just a misunderstanding.\nHaru is such a little kid, too.)"
 		},
 		{
 			"key":"EP07_S9000_0032",
-			"value":"（怯えてるなら気を楽にすればいいのかな？\n　ミノルみたいにからかってみようか）"
+			"value":"(Should I tell him to relax? Or should\nI tease him like Minoru does?)"
 		},
 		{
 			"key":"EP07_S9000_Q1",
-			"value":"（リョウになんて言おう？）"
+			"value":"(What should I say to Ryo?)"
 		},
 		{
 			"key":"EP07_S9000_Q1_A1",
-			"value":"何かあった？"
+			"value":"Did something happen?"
 		},
 		{
 			"key":"EP07_S9000_Q1_A2",
-			"value":"何かの間違いでしょ？"
+			"value":"Some misunderstanding?"
 		},
 		{
 			"key":"EP07_S9000_Q1_A3",
-			"value":"怖がりだなぁ"
+			"value":"Such a scaredy-cat."
 		},
 		{
 			"key":"EP07_S9000_0033",
-			"value":"何かあった？"
+			"value":"Did something happen?"
 		},
 		{
 			"key":"EP07_S9000_0034",
-			"value":"ひょっとして、ハルと何かあったの？"
+			"value":"Did something happen with you and Haru?"
 		},
 		{
 			"key":"EP07_S9000_0035",
-			"value":"うっ……\nま、まぁ……そう、だな"
+			"value":"Um...\nI guess you could say that."
 		},
 		{
 			"key":"EP07_S9000_0036",
-			"value":"……あのよ、電波塔でアルケニモンの手下に\nオレが橋から落とされた時あったろ？"
+			"value":"Do you remember at the radio tower when\nArukenimon dropped me from the bridge?"
 		},
 		{
 			"key":"EP07_S9000_0037",
-			"value":"あの時、一緒に落ちたハルに\nオレは助けられたらしいんだよ……"
+			"value":"Haru was with me then, and I think he saved\nmy life..."
 		},
 		{
 			"key":"EP07_S9000_0038",
-			"value":"ハルに？　あんな小さな子が、どうやって？"
+			"value":"Haru? That little kid? How?"
 		},
 		{
 			"key":"EP07_S9000_0039",
-			"value":"わからねえ……オレは気絶してたから\nけど、それだけじゃねえんだ"
+			"value":"No clue... I had passed out.\nBut that’s not all."
 		},
 		{
 			"key":"EP07_S9000_0040",
-			"value":"アイツよ……あの時、すげえ目でオレを\n見下ろしてたんだよ……"
+			"value":"He... Back then he really looked down on\nme..."
 		},
 		{
 			"key":"EP07_S9000_0041",
-			"value":"あんな冷たい目、ガキがするもんじゃねえ……"
+			"value":"He’s just a kid, but when he stared at me\nwith that icy look on his face..."
 		},
 		{
 			"key":"EP07_S9000_0042",
-			"value":"（確かにハルは、時々見た目以上に\n　大人びたことを言う子だけど……）"
+			"value":"(There are definitely times when Haru sounds\nmore like an adult...)"
 		},
 		{
 			"key":"EP07_S9000_0043",
-			"value":"（リョウを怯えさせるほどの冷たい視線？\n　それは……想像できないな）"
+			"value":"(A stare enough to frighten Ryo?\nI can’t even imagine...)"
 		},
 		{
 			"key":"EP07_S9000_0044",
-			"value":"はぁ……別に、信じなくたっていいけどよ\n正直オレも、アレは夢だったんじゃねえかって思ってる"
+			"value":"I don’t really need you to believe me.\nI sometimes think it had to be a dream."
 		},
 		{
 			"key":"EP07_S9000_0045",
-			"value":"ただまぁ、そんなイメージがあるせいで\nいまだにあんなガキにビビっちまってんだよ"
+			"value":"But now I can’t help but be scared of Haru\nstill."
 		},
 		{
 			"key":"EP07_S9000_0046",
-			"value":"何かの間違いでしょ？"
+			"value":"Some misunderstanding?"
 		},
 		{
 			"key":"EP07_S9000_0047",
-			"value":"何があったか知らないけど\nきっと何かの間違いでしょ？"
+			"value":"I don’t know what happened but I’m sure it’s\njust a misunderstanding."
 		},
 		{
 			"key":"EP07_S9000_0048",
-			"value":"っんなわけ……！"
+			"value":"No. Way!"
 		},
 		{
 			"key":"EP07_S9000_0049",
-			"value":"……あぁ、いや\nそうなのかもな。きっとそうだ"
+			"value":"Well, actually...you might be right.\nThat’s gotta be it."
 		},
 		{
 			"key":"EP07_S9000_0050",
-			"value":"ガキにあんな冷たい目ができるわけねえんだ……\nあんな、人を人とも思わねえような……"
+			"value":"There’s no way a kid could stare like that.\nIt was almost inhuman, that stare..."
 		},
 		{
 			"key":"EP07_S9000_0051",
-			"value":"いや、っつーかアイツこそ人じゃねえのか……？\nまるで、バケモノっつーか、ケモノみてえな……"
+			"value":"But maybe Haru isn’t human?\nIs he a monster, or some kind of creature?"
 		},
 		{
 			"key":"EP07_S9000_0052",
-			"value":"リョウ？　……リョウ！"
+			"value":"Ryo? Ryo!"
 		},
 		{
 			"key":"EP07_S9000_0053",
-			"value":"おっ！？　おう、ンだよ……"
+			"value":"Right? I mean, right?"
 		},
 		{
 			"key":"EP07_S9000_0054",
-			"value":"大丈夫か？　すごい汗だけど"
+			"value":"You okay? You’re sweating like crazy!"
 		},
 		{
 			"key":"EP07_S9000_0055",
-			"value":"は、はぁ？　大丈夫に決まってんだろ\nっつーか、あれだ、なんか話せてスッキリしたわ"
+			"value":"What? Of course I’m okay! I guess I just\nneeded to talk it out with someone."
 		},
 		{
 			"key":"EP07_S9000_0056",
-			"value":"え？　そう、なのか？"
+			"value":"What? Really?"
 		},
 		{
 			"key":"EP07_S9000_0057",
-			"value":"（なんだか、顔色が更に悪くなったような\n　気がするんだけど……）"
+			"value":"(And now he looks even worse.)"
 		},
 		{
 			"key":"EP07_S9000_0058",
-			"value":"怖がりだなぁ"
+			"value":"Such a scaredy-cat."
 		},
 		{
 			"key":"EP07_S9000_0059",
-			"value":"まったく、怖がりだなぁリョウ先輩は\nあんな小さい子にビビっちゃってるんですか？"
+			"value":"Such a scaredy-cat, Ryo!\nAfraid of such a little kid?"
 		},
 		{
 			"key":"EP07_S9000_0060",
-			"value":"べ、別にビビってるとかじゃねえよ！"
+			"value":"I ain’t scared!"
 		},
 		{
 			"key":"EP07_S9000_0061",
-			"value":"っつーか何だそれ？　ミノルの真似か？\nウゼーだけだぞ"
+			"value":"But hang on? You’re pretending to be Minoru?\nYour imitation sucks..."
 		},
 		{
 			"key":"EP07_S9000_0062",
-			"value":"ご、ごめん……"
+			"value":"I’m sorry..."
 		},
 		{
 			"key":"EP07_S9000_0063",
-			"value":"はぁ……ったくアホらしい\nあんなガキのこととかどうでもいいわ"
+			"value":"Yeah... It’s so stupid.\nI need to ignore that kid."
 		},
 		{
 			"key":"EP07_S9000_0064",
-			"value":"っつーか、マジでビビッてねえからな！？"
+			"value":"But I am totally not scared!"
 		},
 		{
 			"key":"EP07_S9000_0065",
-			"value":"わ、わかった、わかったから……"
+			"value":"All right, fine! I get it!"
 		},
 		{
 			"key":"EP07_S9000_0066",
-			"value":"キュキュゥッ！"
+			"value":"Kewkewww!"
 		},
 		{
 			"key":"EP07_S9000_0067",
-			"value":"あっ！　クネモン、テメーまた荷物荒らしたな！"
+			"value":"Kunemon? You messed up our stuff again?"
 		},
 		{
 			"key":"EP07_S9000_0068",
-			"value":"またやり直しじゃねえか……\nクネモン、お前も手伝え"
+			"value":"Start all over again...\nKunemon, help me this time!"
 		},
 		{
 			"key":"EP07_S9000_0069",
-			"value":"キュゥッ！"
+			"value":"Kewww!"
 		},
 		{
 			"key":"EP07_S9000_0070",
-			"value":"クネモン、あれわざとやったんだね"
+			"value":"Kunemon did that on purpose."
 		},
 		{
 			"key":"EP07_S9000_0071",
-			"value":"そうなのか？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP07_S9000_0072",
-			"value":"リョウを怖い気持ちから離そうとしたんだ"
+			"value":"To make Ryo forget his fears."
 		},
 		{
 			"key":"EP07_S9000_0073",
-			"value":"あぁ……何かしてれば気が紛れるってことか\n頭いいな、クネモン"
+			"value":"So...a distraction?\nKunemon’s pretty bright!"
 		},
 		{
 			"key":"EP07_S9000_0074",
-			"value":"（ん？　ということは、クネモンはハルの話題を\n　止めさせようとしたってことか？）"
+			"value":"(But wait. Does that mean Kunemon wanted us\nto stop talking about Haru?)"
 		},
 		{
 			"key":"EP07_S9000_0075",
-			"value":"（……いや、深く考えるのはよそう\n　これから決戦なんだから）"
+			"value":"(Nah. Let’s not overthink it.\nIt’s nearly time to fight.)"
 		},
 		{
 			"key":"EP07_S9000_0076",
-			"value":"（リョウはクネモンと一緒に荷物を整理してる\n　さっきまでの怯えた雰囲気はなさそうだな）"
+			"value":"(Ryo and Kunemon are packing now.\nHe seems to have forgotten his fears.)"
 		}
 	]
 }

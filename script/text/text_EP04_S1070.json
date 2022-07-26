@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1070_0001",
-			"value":"タクマ、タクマ！\nここになにかありそうだよ！"
+			"value":"Hey, Takuma! I think there’s something here!"
 		},
 		{
 			"key":"EP04_S1070_0002",
-			"value":"チケット売り場なんて、紙切れくらいしか\nないと思うんだけど……"
+			"value":"I don’t know. It’s just a ticket booth.\nProbably nothing but trash there."
 		},
 		{
 			"key":"EP04_S1070_0003",
-			"value":"あっ、ほら！\nこれなら、役に立つかもしれないよ！"
+			"value":"Aha! See? I bet this will come in handy!"
 		},
 		{
 			"key":"EP04_S1070_0004",
-			"value":"本当だ……！\nでかしたな、アグモン！"
+			"value":"Wow, you’re right! Great find, Agumon!"
 		}
 	]
 }

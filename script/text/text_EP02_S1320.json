@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1320_0001",
-			"value":"なんだよ。この辺りにはいないぜ\nおめーら早く捜してこいよ"
+			"value":"What? There’s nothing around here.\nHurry back!"
 		},
 		{
 			"key":"EP02_S1320_0002",
-			"value":"（まったく、あれだけビビってたのに\n　どうしてこんなに強気でいられるんだか……）"
+			"value":"(Jeez. He’s such a coward, but he still acts\nlike he’s the one in charge...)"
 		},
 		{
 			"key":"EP02_S1320_Q1",
-			"value":"（ちょっとからかってみようかな？）"
+			"value":"(Maybe I should tease him just a little?)"
 		},
 		{
 			"key":"EP02_S1320_Q1_A1",
-			"value":"いや、やめておこう"
+			"value":"Naw, leave him be."
 		},
 		{
 			"key":"EP02_S1320_Q1_A2",
-			"value":"よし、やってみるか"
+			"value":"Yeah, let’s go for it."
 		},
 		{
 			"key":"EP02_S1320_0003",
-			"value":"うん、そろそろ場所を変えようと思ってたんだ"
+			"value":"I thought about moving around for a bit."
 		},
 		{
 			"key":"EP02_S1320_0004",
-			"value":"そ、そうかよ……\nなら、オレも他を捜してみっか……"
+			"value":"Okay...\nThen I should look around, too..."
 		},
 		{
 			"key":"EP02_S1320_0005",
-			"value":"何かあったら危ないから\nちゃんと近くにいろよ？"
+			"value":"It’ll be dangerous.\nStay close, okay?"
 		},
 		{
 			"key":"EP02_S1320_0006",
-			"value":"わ、わかってるっつーの！　うぜーな！"
+			"value":"Yeah, I know!"
 		},
 		{
 			"key":"EP02_S1320_0007",
-			"value":"リョウは素直じゃないな～？"
+			"value":"Ryo’s hard to handle, huh..."
 		},
 		{
 			"key":"EP02_S1320_0008",
-			"value":"キュイッ！"
+			"value":"Kewee!"
 		},
 		{
 			"key":"EP02_S1320_0009",
-			"value":"みんな奥の方に行ったから\nここにはリョウ一人になるよ"
+			"value":"Everyone else went off that way.\nIt’ll just be you here."
 		},
 		{
 			"key":"EP02_S1320_0010",
-			"value":"なっ、なななんで勝手に行っちまうんだよ！"
+			"value":"Why did they go and leave me alone?!"
 		},
 		{
 			"key":"EP02_S1320_0011",
-			"value":"もしかして怖いの？"
+			"value":"You’re not scared, are you?"
 		},
 		{
 			"key":"EP02_S1320_0012",
-			"value":"こ、怖くなんかねーよ！　何があるかわかんねーし\nけけ、警戒してるだけだっつーの！"
+			"value":"NO! I just don’t know what’ll happen.\nI’m just warning you!"
 		},
 		{
 			"key":"EP02_S1320_0013",
-			"value":"リョウ、怖がってるよな～？"
+			"value":"You’re frightened, aren’t you?"
 		},
 		{
 			"key":"EP02_S1320_0014",
-			"value":"キュイッ！"
+			"value":"Kewee!"
 		},
 		{
 			"key":"EP02_S1320_0015",
-			"value":"あーもういいよ……ついてくから"
+			"value":"Enough already. I’ll follow you."
 		},
 		{
 			"key":"EP02_S1320_0016",
-			"value":"（まぁ、怯えて動けなくなるよりは\n　ちゃんと一緒にいてくれた方が助かるな）"
+			"value":"(It’ll be better if he comes and helps,\ninstead of just staying here terrified.)"
 		},
 		{
 			"key":"EP02_S1320_0017",
-			"value":"あー、そうだ\nこれ、お前にやるよ"
+			"value":"Oh, right.\nHere, take this."
 		},
 		{
 			"key":"EP02_S1320_0018",
-			"value":"え？　どうしたんだこれ？"
+			"value":"Huh? But what is it?"
 		},
 		{
 			"key":"EP02_S1320_0019",
-			"value":"この虫が見つけてくんだよ\n使えそーなもんも使えなさそーなのも色々あったぜ"
+			"value":"This bug found it. It finds some useful\nstuff, but also some junk."
 		},
 		{
 			"key":"EP02_S1320_0020",
-			"value":"キュゥ、キュゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP02_S1320_0021",
-			"value":"そっか、ありがとうクネモン。リョウも"
+			"value":"Oh? Thanks, Kunemon. And you too, Ryo."
 		},
 		{
 			"key":"EP02_S1320_0022",
-			"value":"ふん……"
+			"value":"Hmph..."
 		},
 		{
 			"key":"EP02_S1320_0201",
-			"value":"リョウ、この辺りにはいないみたいだし\nそろそろ他のところも……"
+			"value":"Anyway, we’d better get moving."
 		},
 		{
 			"key":"EP02_S1320_0023",
-			"value":"なんだよ、わかったよ\nお前が行ったらついてくっての！"
+			"value":"Okay, I get it.\nYou go ahead and I’ll follow."
 		},
 		{
 			"key":"EP02_S1320_0202",
-			"value":"そ、そう……\nもうちょっと、自分で捜してくれても……"
+			"value":"Uh...are you sure? You could stay here and\nkeep looking around on your own if you want."
 		},
 		{
 			"key":"EP02_S1320_0203",
-			"value":"はぁ！？　一人で動いたら危ねえだろうが！\n馬鹿言ってんじゃねえよ！"
+			"value":"Are you nuts? Acting alone is just asking for\nit! How stupid can you get?"
 		},
 		{
 			"key":"EP02_S1320_0204",
-			"value":"（結局そうなるのか……しょうがないな）"
+			"value":"(Yeah, I figured he’d say something like\nthat. Oh well.)"
 		},
 		{
 			"key":"EP02_S1320_0205",
-			"value":"いいか？　勝手にウロウロすんなよ？\n絶対だぞ！？"
+			"value":"Now, don’t you go wandering off on your own.\nDon’t even think about it!"
 		}
 	]
 }

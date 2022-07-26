@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S1034_0001",
-			"value":"おい、大丈夫か！？"
+			"value":"Hey, are you okay?!"
 		},
 		{
 			"key":"EP09_S1034_0002",
-			"value":"い、いたた……"
+			"value":"Owowow..."
 		},
 		{
 			"key":"EP09_S1034_0003",
-			"value":"よかった、擦り傷だけね\n私、傷薬を持っているわ"
+			"value":"Good, it’s just a scratch. I’ve got some\nointment for that."
 		},
 		{
 			"key":"EP09_S1034_0004",
-			"value":"あ、オレの水使ってくれ\n傷洗うのに要るだろ？"
+			"value":"Ah, use my water, then. Gotta wash it first,\nright?"
 		},
 		{
 			"key":"EP09_S1034_0005",
-			"value":"ええ、ありがとう"
+			"value":"Yes, thank you, Minoru."
 		},
 		{
 			"key":"EP09_S1034_0006",
-			"value":"た、助かったよ、ありがとう……"
+			"value":"You saved me..."
 		},
 		{
 			"key":"EP09_S1034_0007",
-			"value":"これ、お礼にあげる……"
+			"value":"Here... Take this..."
 		},
 		{
 			"key":"EP09_S1034_0008",
-			"value":"ありがとな！"
+			"value":"Oh gee, thanks!"
 		},
 		{
 			"key":"EP09_S1034_0009",
-			"value":"君はここで休んでてくれ\n他の子たちもすぐに連れてくるからな"
+			"value":"You rest here, we’ll bring the other little\nones back soon."
 		},
 		{
 			"key":"EP09_S1034_0010",
-			"value":"ありがとう……\nみんなのこと、おねがいね……"
+			"value":"Thank you... Please, help everyone..."
 		}
 	]
 }

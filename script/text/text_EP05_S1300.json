@@ -2,219 +2,219 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1300_0001",
-			"value":"はぁ……"
+			"value":"*sigh*"
 		},
 		{
 			"key":"EP05_S1300_0002",
-			"value":"元気出して、サキ！"
+			"value":"Cheer up, Saki!"
 		},
 		{
 			"key":"EP05_S1300_0003",
-			"value":"……厳しいこと言うなぁ\n私に元気でいろっていうのはさぁ"
+			"value":"...That’s a tall order, isn’t it?"
 		},
 		{
 			"key":"EP05_S1300_0004",
-			"value":"サキ……"
+			"value":"Saki..."
 		},
 		{
 			"key":"EP05_S1300_0005",
-			"value":"サキ、そんなに調子が悪いなら\n横になっていた方がいいんじゃないか？"
+			"value":"If you’re feeling that bad, shouldn’t you lie\ndown or something?"
 		},
 		{
 			"key":"EP05_S1300_0006",
-			"value":"いやさ、元気じゃないっていうか\nこう、わかんないことばかりだと……"
+			"value":"It’s not that I’m down, it’s more like...\nthere’s just so much we don’t know..."
 		},
 		{
 			"key":"EP05_S1300_0007",
-			"value":"元気でいろっていうのは、\n結構、難しいじゃん？"
+			"value":"Kinda hard to keep my spirits up, you know?"
 		},
 		{
 			"key":"EP05_S1300_0008",
-			"value":"そうだね……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP05_S1300_0009",
-			"value":"ホント、なんなんだろうね、生け贄とかさ\nわかんなくて、気持ち悪いよ"
+			"value":"What the heck’s all this? This talk of\nsacrifices or whatever...weirds me out."
 		},
 		{
 			"key":"EP05_S1300_0010",
-			"value":"……そうだよな\n生け贄って、一体なんなんだろう？"
+			"value":"Yeah...\nWhat’s that all about?"
 		},
 		{
 			"key":"EP05_S1300_0011",
-			"value":"（もし……僕たちが生け贄として、\n　こっちに呼ばれたなら……いや、待てよ）"
+			"value":"(If we become sacrifices here...\n...what will happen?)"
 		},
 		{
 			"key":"EP05_S1300_0012",
-			"value":"（僕たちがこっちで生け贄になったら……\n　どうなってしまうんだ？）"
+			"value":"(If people like us become sacrifices here...\n...what will happen?)"
 		},
 		{
 			"key":"EP05_S1300_0013",
-			"value":"（元の世界に帰れる？　ただ死ぬだけ？\n　それとも、他に何か起こるのか？)"
+			"value":"(Can we make it back to our world? Are we\ndoomed to die? Or maybe something else?)"
 		},
 		{
 			"key":"EP05_S1300_0014",
-			"value":"ねぇタクマ、この世界で生け贄になったらさ\nどうなっちゃうんだろ？"
+			"value":"Hey Takuma, what’ll happen if we become\nsacrifices in this world?"
 		},
 		{
 			"key":"EP05_S1300_0015",
-			"value":"それ、は……"
+			"value":"Uh, well..."
 		},
 		{
 			"key":"EP05_S1300_0016",
-			"value":"（まさに今考えてたことだ\n　サキも気になるか）"
+			"value":"(That’s exactly what I was wondering. So\nSaki’s worried about it, too?)"
 		},
 		{
 			"key":"EP05_S1300_Q1",
-			"value":"（この世界で生け贄になったら……）"
+			"value":"(If we become sacrifices, then...)"
 		},
 		{
 			"key":"EP05_S1300_Q1_A1",
-			"value":"帰れるかも"
+			"value":"We can go home."
 		},
 		{
 			"key":"EP05_S1300_Q1_A2",
-			"value":"死ぬんじゃないか？"
+			"value":"We’ll die, won’t we?"
 		},
 		{
 			"key":"EP05_S1300_Q1_A3",
-			"value":"わからないよ"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP05_S1300_0022",
-			"value":"ひょっとしたら、元の世界に帰れるのかもしれない"
+			"value":"Maybe we’ll be able to go back to our world."
 		},
 		{
 			"key":"EP05_S1300_0023",
-			"value":"あー、そっか。だったら試してみるのもありだよねー"
+			"value":"Is that right? Then maybe we should give it\na try."
 		},
 		{
 			"key":"EP05_S1300_0024",
-			"value":"ダメよ、サキ！"
+			"value":"Don’t do it, Saki!"
 		},
 		{
 			"key":"EP05_S1300_0025",
-			"value":"あ、あくまでも可能性の話で……"
+			"value":"Hey, I’m just considering our options..."
 		},
 		{
 			"key":"EP05_S1300_0026",
-			"value":"わかってる。ていうか多分帰れないと思う"
+			"value":"I know. Still, I bet that won’t get us home."
 		},
 		{
 			"key":"EP05_S1300_0027",
-			"value":"え？"
+			"value":"Why do you say that?"
 		},
 		{
 			"key":"EP05_S1300_0028",
-			"value":"それで帰れるなら、きっとこの世界のことが\nもっと私たちに知られてたと思うよ"
+			"value":"If going home was that easy, I bet people\nwould already know more about this world."
 		},
 		{
 			"key":"EP05_S1300_0029",
-			"value":"あ、ああ……それもそうか"
+			"value":"Well... Yeah, that makes sense."
 		},
 		{
 			"key":"EP05_S1300_0030",
-			"value":"それに、フローラモンがこれだけ必死に止める\nってことは、やっぱり危ないんだよね"
+			"value":"Besides, if Floramon is so against it, then\nit can’t be safe for us."
 		},
 		{
 			"key":"EP05_S1300_0031",
-			"value":"そうよ。私にもどうなるかわからないけど\nアイツらはニンゲンのコドモを大切にしないわ"
+			"value":"Yeah! I can’t say what’d happen, but those\njerks don’t give two figs about human kids."
 		},
 		{
 			"key":"EP05_S1300_0032",
-			"value":"そんなヤツらにサキを渡したくない"
+			"value":"I don’t wanna hand Saki over to guys like\nthat."
 		},
 		{
 			"key":"EP05_S1300_0033",
-			"value":"うん、心配してくれてありがとう、フローラモン"
+			"value":"I’m glad you feel that way, Floramon."
 		},
 		{
 			"key":"EP05_S1300_0034",
-			"value":"それにタクマもね\n励まそうとしてくれたんでしょ？"
+			"value":"You too, Takuma. You were trying to cheer me\nup, weren’t you?"
 		},
 		{
 			"key":"EP05_S1300_0035",
-			"value":"ちょっとだけ、元気出たよ"
+			"value":"I feel a bit better now."
 		},
 		{
 			"key":"EP05_S1300_0037",
-			"value":"うーん、普通に死ぬんじゃないか？\nアイツら、なんかヤバそうだったし"
+			"value":"We’d just die, wouldn’t we? Those guys seem\nway too dangerous."
 		},
 		{
 			"key":"EP05_S1300_0038",
-			"value":"はぁー……"
+			"value":"Oh, jeez..."
 		},
 		{
 			"key":"EP05_S1300_0039",
-			"value":"え！？　なに？　なんでため息？"
+			"value":"What? Why the sigh?"
 		},
 		{
 			"key":"EP05_S1300_0040",
-			"value":"いやー、タクマがつまんないこと言うからさー"
+			"value":"It’s because you’re stating the obvious,\nTakuma."
 		},
 		{
 			"key":"EP05_S1300_0041",
-			"value":"そんなことくらいわかってんのよ\n私は今、希望が欲しいの"
+			"value":"Of course I know that much. I was looking for\na little hope to cling to, that’s all."
 		},
 		{
 			"key":"EP05_S1300_0042",
-			"value":"それをタクマは、普通に死ぬって\n何の希望もないじゃない"
+			"value":"What am I supposed to do with a statement\nlike that? “We’d just die,” he says."
 		},
 		{
 			"key":"EP05_S1300_0043",
-			"value":"ご、ごめん！　誤魔化せる気がしなくて！"
+			"value":"I, I’m sorry! I just didn’t want to dodge the\nquestion!"
 		},
 		{
 			"key":"EP05_S1300_0044",
-			"value":"誤魔化すんじゃなくて慰めるの！\nもっと女子に優しくしなさいよ！"
+			"value":"This isn’t about dodging questions! It’s\nabout making a lady feel better!"
 		},
 		{
 			"key":"EP05_S1300_0045",
-			"value":"そ、そんなこと言われても……"
+			"value":"I mean, I hear you, but..."
 		},
 		{
 			"key":"EP05_S1300_0046",
-			"value":"あらあら、タクマは女心がわかってないわねぇ"
+			"value":"Oh boy. You’ve got a lot to learn about the\nways of a woman’s heart, my friend."
 		},
 		{
 			"key":"EP05_S1300_0048",
-			"value":"わからないよ……想像で言っても仕方ないし\n嘘をついても意味ないし"
+			"value":"I don’t know... Guessing won’t help, and\nthere’s no point in lying about it."
 		},
 		{
 			"key":"EP05_S1300_0049",
-			"value":"それは私の心を軽くする\nいい嘘かもしれないわよ？"
+			"value":"A white lie that would make me feel better\nwouldn’t be all bad, you know?"
 		},
 		{
 			"key":"EP05_S1300_0050",
-			"value":"それは……"
+			"value":"I mean..."
 		},
 		{
 			"key":"EP05_S1300_0051",
-			"value":"冗談よ。っていうかわからないんだから\n嘘のつきようもないわよね"
+			"value":"I’m kidding. If you don’t get that, I guess\nsweet lies are beyond you, too."
 		},
 		{
 			"key":"EP05_S1300_0052",
-			"value":"ごめんね、サキ\nボクにもよくわかんないんだ……"
+			"value":"Sorry, Saki, I dunno either..."
 		},
 		{
 			"key":"EP05_S1300_0053",
-			"value":"アグモンが謝ることないわよ\n知らないなら仕方ないんだし"
+			"value":"It’s nothing to apologize for, Agumon. You\ndon’t know what you don’t know."
 		},
 		{
 			"key":"EP05_S1300_0054",
-			"value":"あーあ、あれもわかんない、これもわかんない\nなーんにもわかんない"
+			"value":"Aww man, when all’s said and done, none of us\nknow a darn thing."
 		},
 		{
 			"key":"EP05_S1300_0055",
-			"value":"結局、詳しい人に聴くしかないわけよね"
+			"value":"In the end, we’ll just have to ask someone\nwho actually knows what’s what."
 		},
 		{
 			"key":"EP05_S1300_0056",
-			"value":"やっぱり戦うしかないのかなぁ……"
+			"value":"Guess that means we’ll have to fight, huh?"
 		},
 		{
 			"key":"EP05_S1300_0057",
-			"value":"わかんないことだらけね\n嫌になっちゃうわ"
+			"value":"We’re totally clueless here. I can’t stand\nit."
 		}
 	]
 }

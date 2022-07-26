@@ -2,123 +2,123 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0060_0001",
-			"value":"う、くぅっ……"
+			"value":"Ungh!"
 		},
 		{
 			"key":"EP02_S0060_0002",
-			"value":"大丈夫か～？"
+			"value":"You okay?"
 		},
 		{
 			"key":"EP02_S0060_0003",
-			"value":"（教授、ボロボロなのに立ち上がろうとして……\n　サキたちを捜そうと必死なんだな）"
+			"value":"(The professor is struggling to get up...\nHe’s desperate to find Saki and Shuuji.)"
 		},
 		{
 			"key":"EP02_S0060_Q1",
-			"value":"（なんて声をかけようか？）"
+			"value":"(What should I say to him?)"
 		},
 		{
 			"key":"EP02_S0060_Q1_A1",
-			"value":"無理しないでください"
+			"value":"Please take it easy!"
 		},
 		{
 			"key":"EP02_S0060_Q1_A2",
-			"value":"頼りにしてます！"
+			"value":"We’re counting on you!"
 		},
 		{
 			"key":"EP02_S0060_Q1_A3",
-			"value":"僕らに任せてください"
+			"value":"Leave it to us!"
 		},
 		{
 			"key":"EP02_S0060_0004",
-			"value":"大丈夫ですか？　あんな怪我してたんだし\n無理しない方が……"
+			"value":"Are you okay? Your injuries are serious.\nYou need to take it easy..."
 		},
 		{
 			"key":"EP02_S0060_0005",
-			"value":"いや……私のことより二人の安否の方が心配だ\n一刻も早く助けに行かねば"
+			"value":"We need to be worried about those two, not\nme. We have to hurry up and help!"
 		},
 		{
 			"key":"EP02_S0060_0006",
-			"value":"僕らも捜してたんですが、どこにいるのか……"
+			"value":"We’ve been looking for them, too."
 		},
 		{
 			"key":"EP02_S0060_0007",
-			"value":"全然見つからないんだ……"
+			"value":"But we can’t find them anywhere..."
 		},
 		{
 			"key":"EP02_S0060_0008",
-			"value":"それなら、確か……"
+			"value":"I guess, in that case, they must have..."
 		},
 		{
 			"key":"EP02_S0060_0009",
-			"value":"辛いところ悪いんですけど、頼りにしてます"
+			"value":"I hate to say, but we’re counting on you!"
 		},
 		{
 			"key":"EP02_S0060_0010",
-			"value":"サキとシュウジさんを助けるには\nあなたの協力が必要なんです"
+			"value":"We need your help to save Saki and Shuuji."
 		},
 		{
 			"key":"EP02_S0060_0011",
-			"value":"頼むぞ～！"
+			"value":"Please!"
 		},
 		{
 			"key":"EP02_S0060_0012",
-			"value":"もちろんだとも。それが私の\n大人としての役目だからね"
+			"value":"But of course.\nThat would be my role as an adult."
 		},
 		{
 			"key":"EP02_S0060_0013",
-			"value":"それで、最後に二人を見た場所は？"
+			"value":"Where did you see them last?"
 		},
 		{
 			"key":"EP02_S0060_0014",
-			"value":"ああ、確か……"
+			"value":"Ah... Let’s see..."
 		},
 		{
 			"key":"EP02_S0060_0015",
-			"value":"二人を捜すのは僕らに任せてください\n教授は休んでいて"
+			"value":"Leave it to us to find them.\nYou need to rest."
 		},
 		{
 			"key":"EP02_S0060_0016",
-			"value":"任せとけ～！"
+			"value":"I’ll find ‘em!"
 		},
 		{
 			"key":"EP02_S0060_0017",
-			"value":"そうもいかないよ\nあの子たちを放置してしまった責任を取りたいんだ"
+			"value":"That’s no good. It’s my fault that those\nchildren were left behind."
 		},
 		{
 			"key":"EP02_S0060_0018",
-			"value":"それに、君たちは彼らの行方がわかるのかい？"
+			"value":"But do you know where they went?"
 		},
 		{
 			"key":"EP02_S0060_0019",
-			"value":"そ、それは……"
+			"value":"Umm, that’s..."
 		},
 		{
 			"key":"EP02_S0060_0020",
-			"value":"任せてくれたまえ\n二人を最後に見たのは、確か……"
+			"value":"Leave it to me.\nI last saw them..."
 		},
 		{
 			"key":"EP02_S0060_0021",
-			"value":"サキくん、シュウジくんとはぐれた場所は……\nそう、ここの少し先か……"
+			"value":"Let’s see, I lost sight of Saki and Shuuji\naround here..."
 		},
 		{
 			"key":"EP02_S0060_0022",
-			"value":"この森のどこかだったはずだが……うぐっ"
+			"value":"It was somewhere in this forest... ugh!"
 		},
 		{
 			"key":"EP02_S0060_0023",
-			"value":"教授！　大丈夫ですか！？"
+			"value":"Professor! Are you okay?"
 		},
 		{
 			"key":"EP02_S0060_0024",
-			"value":"あ、ああ、大丈夫だ\nまだ記憶は混濁しているようだが"
+			"value":"Yeah, I’m...I’m fine.\nMy memories are still fuzzy."
 		},
 		{
 			"key":"EP02_S0060_0025",
-			"value":"とにかく、怪物に襲われ、離れたのは\nここからそう遠くない場所だ"
+			"value":"I’m sure it was somewhere close by when we\nwere attacked and separated."
 		},
 		{
 			"key":"EP02_S0060_0026",
-			"value":"二人を最後に見たのは、そう遠くない場所だ\n急ごう"
+			"value":"I last saw them somewhere close by.\nLet’s hurry."
 		}
 	]
 }

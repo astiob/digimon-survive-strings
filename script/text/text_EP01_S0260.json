@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0260_0001",
-			"value":"ふう、タクマ\nありがとう、助かったよ"
+			"value":"Oh, man, you really saved my bacon, Takuma..."
 		},
 		{
 			"key":"EP01_S0260_0002",
-			"value":"こいつとバッタリ出会って、驚いて逃げたところに\nさっきの岩みたいなのが襲いかかってきてさ……"
+			"value":"This guy just showed up, so I freaked out and\nbooked it. Then that mini-golem showed up..."
 		},
 		{
 			"key":"EP01_S0260_0003",
-			"value":"ゴツモンが狙ってて危険だと教えようとしたのに\nミノルは俺から逃げるし！"
+			"value":"I tried to warn you about the Gotsumon, but\nyou ran from me instead!"
 		},
 		{
 			"key":"EP01_S0260_0004",
-			"value":"いやあ、悪い悪い"
+			"value":"C’mon man, I already said it was my bad!"
 		},
 		{
 			"key":"EP01_S0260_0005",
-			"value":"すごいもんだな、ミノルのやつ\nこの生き物ともう打ち解けてる……"
+			"value":"Wow, Minoru’s already getting along so well\nwith him..."
 		},
 		{
 			"key":"EP01_S0260_0006",
-			"value":"タクマだってボクとすぐ仲良くなれたじゃん！"
+			"value":"We became buds in no time, too! Right,\nTakuma?"
 		},
 		{
 			"key":"EP01_S0260_0007",
-			"value":"すぐってわけじゃなかったよ"
+			"value":"I wouldn’t call it “no time”..."
 		},
 		{
 			"key":"EP01_S0260_0008",
-			"value":"……って、おいタクマ！\nな、何だそいつ！？"
+			"value":"...Okay, real talk, Takuma. What the heck are\nthese things?!"
 		},
 		{
 			"key":"EP01_S0260_0009",
-			"value":"それを聞きたいのは僕の方もだって！\nだがどうやら敵じゃない"
+			"value":"That’s what I want to know! They’re on our\nside, though, that much is for sure."
 		},
 		{
 			"key":"EP01_S0260_0101",
-			"value":"敵じゃないぞ！"
+			"value":"Yeah, on your side!"
 		},
 		{
 			"key":"EP01_S0260_0010",
-			"value":"さっきも見ただろう？\n僕たちを守ってくれたんだ"
+			"value":"You saw it for yourself, didn’t you? How they\nprotected us."
 		},
 		{
 			"key":"EP01_S0260_0011",
-			"value":"た、確かに……！"
+			"value":"Well yeah, I sure did!"
 		},
 		{
 			"key":"EP01_S0260_0102",
-			"value":"何度もそう言ってるのだがな……"
+			"value":"I believe I spoke to that several times\nalready..."
 		},
 		{
 			"key":"EP01_S0260_0012",
-			"value":"とにかく、今はこんな見知らぬ森の中で\n変な生き物に襲われてる状況なんだ"
+			"value":"All I know is that we’re being attacked by\nthese strange creatures in this weird forest."
 		},
 		{
 			"key":"EP01_S0260_0200",
-			"value":"一緒に戦ってくれるなら心強いよ"
+			"value":"We’re relieved to have you fighting on our\nside."
 		},
 		{
 			"key":"EP01_S0260_0013",
-			"value":"仲間が増えたのは心強いよ\nこの調子で、アオイさんたちや他の仲間も捜してみよう"
+			"value":"Heck, I’m just relieved to find anyone else!\nCome on, let’s look for Aoi and the others."
 		},
 		{
 			"key":"EP01_S0260_0014",
-			"value":"あっ……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP01_S0260_0015",
-			"value":"ん？　どうしたんだ、ミノル"
+			"value":"Hmm? Is something wrong, Minoru?"
 		},
 		{
 			"key":"EP01_S0260_0016",
-			"value":"……いやぁ、その"
+			"value":"Uh... Well, it’s just..."
 		},
 		{
 			"key":"EP01_S0260_0017",
-			"value":"……ゴメン、オレ……アオイさんとは一緒にいたんだけど\nさっきはその……ファルコモンに驚いて……"
+			"value":"I was with Aoi before, but then Falcomon\nspooked me and I just..."
 		},
 		{
 			"key":"EP01_S0260_0018",
-			"value":"慌てて、一目散に逃げ出しちゃって……\nアオイさんを……"
+			"value":"I took off at full speed...and left Aoi\nbehind..."
 		},
 		{
 			"key":"EP01_S0260_0019",
-			"value":"お、おい！\nアオイさんを置いてったのか？"
+			"value":"WHAT?!\nYou LEFT her behind?!"
 		},
 		{
 			"key":"EP01_S0260_0020",
-			"value":"む、無我夢中だったんだ……ゴメン！"
+			"value":"I just freaked out, man! I’m sorry!"
 		},
 		{
 			"key":"EP01_S0260_0103",
-			"value":"マズいな、どっちの方向かわかるか？\nゴツモン以外にもバケモノはいるんだろ？"
+			"value":"This is bad. Which way is she? There must be\nother monsters out there besides Gotsumon."
 		},
 		{
 			"key":"EP01_S0260_0104",
-			"value":"多くはないが、いくつかいるのは感じるな"
+			"value":"Not many, but I do sense a number of them."
 		},
 		{
 			"key":"EP01_S0260_0022",
-			"value":"すぐにアオイさんを捜さなくちゃ……！"
+			"value":"We have to look for her, and now!"
 		},
 		{
 			"key":"EP01_S0260_0023",
-			"value":"辺りにはいなさそうだし、別の場所に行ってみよう"
+			"value":"She isn’t around here, we should go look\nsomewhere else."
 		},
 		{
 			"key":"EP01_S0260_0105",
-			"value":"うん、行こ～！"
+			"value":"Yeah, let’s go!"
 		},
 		{
 			"key":"EP01_S0260_0106",
-			"value":"……タクマくーん、ミノルくーん！"
+			"value":"...Taaakumaaa! Minoooruuu!"
 		},
 		{
 			"key":"EP01_S0260_0107",
-			"value":"ん！？　今の声は！"
+			"value":"Oh! That voice!"
 		},
 		{
 			"key":"EP01_S0260_0108",
-			"value":"（神社の方からこっちへ向かってきている\n　もしかして……）"
+			"value":"(It’s coming closer, from the direction of\nthe shrine...could it be...?)"
 		}
 	]
 }

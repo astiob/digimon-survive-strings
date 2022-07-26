@@ -2,847 +2,847 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S0020_0001",
-			"value":"おはよう、アグモン……"
+			"value":"Morning, Agumon."
 		},
 		{
 			"key":"EP03_S0020_0002",
-			"value":"おはようタクマ～"
+			"value":"Morning, Takuma!"
 		},
 		{
 			"key":"EP03_S0020_0003",
-			"value":"ミノルたちは……まだ寝てるか"
+			"value":"Hm, looks like Minoru and the others are\nstill asleep."
 		},
 		{
 			"key":"EP03_S0020_0004",
-			"value":"アオイさんたちはどうだろう？\nまだ寝てるのかな？"
+			"value":"I wonder if the girls are up."
 		},
 		{
 			"key":"EP03_S0020_0005",
-			"value":"どうだろうね～？　見てこようか？"
+			"value":"Yeah, I wonder. Wanna go see?"
 		},
 		{
 			"key":"EP03_S0020_0006",
-			"value":"いや、いいよ。起きたら食堂に集まるんだし"
+			"value":"Um...nah, better not. They’ll come to the\ncafeteria when they’re ready anyway."
 		},
 		{
 			"key":"EP03_S0020_0007",
-			"value":"（昨日、シュウジさんやサキと合流してから\n　この校舎に戻ってこれたのはいいけど……）"
+			"value":"(After finding Shuuji and Saki yesterday, we\nmanaged to make it back here safe.)"
 		},
 		{
 			"key":"EP03_S0020_0008",
-			"value":"（まさかあんなこと言われるなんて\n　思わなかったなぁ）"
+			"value":"(But I was not ready for the conversation\nthat happened next.)"
 		},
 		{
 			"key":"EP03_S0020_0009",
-			"value":"とりあえず、今日はもう休もう\nみんな色々と……疲れてるだろうし"
+			"value":"Well, I’m sure we’re all pretty worn out, in\nmore ways than one. We should get some rest."
 		},
 		{
 			"key":"EP03_S0020_0010",
-			"value":"そ、そうだね……もう、立っているのも限界だ"
+			"value":"Yeah, I can barely stay on my feet."
 		},
 		{
 			"key":"EP03_S0020_0011",
-			"value":"シュウジ……大丈夫？"
+			"value":"Shuuji...what’s wrong?"
 		},
 		{
 			"key":"EP03_S0020_0012",
-			"value":"うぐっ……\nそ、そばに、寄るな……"
+			"value":"Ugh... Stay away from me."
 		},
 		{
 			"key":"EP03_S0020_0013",
-			"value":"ご、ごめん……"
+			"value":"I’m sorry..."
 		},
 		{
 			"key":"EP03_S0020_0014",
-			"value":"あれ？　ねぇ、ちょっと！\nまさか全員ここで寝るの？"
+			"value":"Uh, wait, am I missing something? You don’t\nexpect all of us to sleep in here, do you?"
 		},
 		{
 			"key":"EP03_S0020_0015",
-			"value":"そうだけど？　広いし、平気だろ？"
+			"value":"There’s plenty of space. What’s the problem?"
 		},
 		{
 			"key":"EP03_S0020_0016",
-			"value":"綺麗なシーツも、ほら、たくさんあるわ"
+			"value":"Look at all these nice clean sheets, too."
 		},
 		{
 			"key":"EP03_S0020_0017",
-			"value":"そうじゃなくて！　男子と女子、一緒に寝るの！？"
+			"value":"No, I mean, boys and girls in the same room!"
 		},
 		{
 			"key":"EP03_S0020_0018",
-			"value":"え……？"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP03_S0020_0019",
-			"value":"なーに言ってんだよ。そんなの気にすんなって\n今はそれどころじゃないだろ"
+			"value":"Hey, don’t worry about it. We’ve got way\nbigger problems than that right now."
 		},
 		{
 			"key":"EP03_S0020_0020",
-			"value":"気にするに決まってんでしょ！\nバカなの！？"
+			"value":"Are you crazy? How is this something you\nexpect me to just not worry about?"
 		},
 		{
 			"key":"EP03_S0020_0021",
-			"value":"ひぇっ！？"
+			"value":"Huh?!"
 		},
 		{
 			"key":"EP03_S0020_0022",
-			"value":"着替えとかお風呂とか、他にも色々\n女の子には見られたくないことがたくさんあるのよ！"
+			"value":"Girls need privacy! What about when we need\nto get changed or take a bath?"
 		},
 		{
 			"key":"EP03_S0020_0023",
-			"value":"た、確かにそうよね……今までは私が\n場所を変えていましたけど……"
+			"value":"She does have a point. Up until now, I’ve\njust been doing all that somewhere else."
 		},
 		{
 			"key":"EP03_S0020_0024",
-			"value":"はぁ？　アオイちゃんにだけそんなことさせてたワケ？\nサイテー！　もっと気を遣いなさいよ男子！"
+			"value":"What? So you boys had her go off on her own?\nThat’s awful! Show some consideration!"
 		},
 		{
 			"key":"EP03_S0020_0025",
-			"value":"そーよそーよ！　サキの言うとーりよ！"
+			"value":"Yeah, you tell them, Saki!"
 		},
 		{
 			"key":"EP03_S0020_0026",
-			"value":"こ、こら、無意味に煽るんじゃない"
+			"value":"Floramon, please do not make things worse."
 		},
 		{
 			"key":"EP03_S0020_0027",
-			"value":"いや、でも、いつまた敵に襲われるかわからないし\nなるべく一緒にいた方が安全、というか……"
+			"value":"But we never know when we might be attacked.\nWe thought it was safest to stick together."
 		},
 		{
 			"key":"EP03_S0020_0028",
-			"value":"だったら校舎の中どこにいても同じじゃない！"
+			"value":"Anywhere in the school would be fine!"
 		},
 		{
 			"key":"EP03_S0020_0029",
-			"value":"そんなこと言って私たちの着替え覗くつもり！？\nやらしー！　ヘンタイ！"
+			"value":"Or is that your deviant little excuse to spy\non us while we get changed? Ugh, gross!"
 		},
 		{
 			"key":"EP03_S0020_0030",
-			"value":"えっ！？　た、タクマくん！？"
+			"value":"What?! Takuma?"
 		},
 		{
 			"key":"EP03_S0020_0031",
-			"value":"そっ！　そんなわけないだろ！\n全然っそんなつもりじゃっないよっ！"
+			"value":"No! It’s not like that at all!"
 		},
 		{
 			"key":"EP03_S0020_0032",
-			"value":"ヘンタイってなんだー？"
+			"value":"What does she mean, “deviant”?"
 		},
 		{
 			"key":"EP03_S0020_0033",
-			"value":"アグモンったらそんなことも知らないの？\n変態っていうのは、身体の形が変わることよ！"
+			"value":"You don’t know, Agumon? It’s something that\nchanges from one thing into another."
 		},
 		{
 			"key":"EP03_S0020_0034",
-			"value":"虫の場合は幼虫からサナギ、成虫に変態するのよ\nねー、クネモン！"
+			"value":"Like a caterpillar that becomes a butterfly.\nIsn’t that right, Kunemon?"
 		},
 		{
 			"key":"EP03_S0020_0035",
-			"value":"キュ、キュゥ？"
+			"value":"Kew, kew?"
 		},
 		{
 			"key":"EP03_S0020_0036",
-			"value":"へ～、詳しいのね"
+			"value":"Wow, you’re both really smart."
 		},
 		{
 			"key":"EP03_S0020_0037",
-			"value":"なんだかそれって、進化みたいだね～！"
+			"value":"That sounds like evolving!"
 		},
 		{
 			"key":"EP03_S0020_0038",
-			"value":"ふふーん！　わからないことがあったら\n何でも聞いてちょうだい！"
+			"value":"Hee hee! If there’s ever anything you want to\nknow, just ask me!"
 		},
 		{
 			"key":"EP03_S0020_0039",
-			"value":"いや、この場合の変態はそういうことでは……\nうむ、まぁ、いいか……"
+			"value":"No, I believe in this instance... On second\nthought, never mind."
 		},
 		{
 			"key":"EP03_S0020_0040",
-			"value":"とにかく！　男女で部屋を分けるべきよ！"
+			"value":"The point is, we should have separate rooms."
 		},
 		{
 			"key":"EP03_S0020_0041",
-			"value":"言われるまで気にしていなかったけど……\n確かに、これはサキさんの言う通りね"
+			"value":"Honestly, I hadn’t really thought about it\nbefore, but Saki’s right."
 		},
 		{
 			"key":"EP03_S0020_0042",
-			"value":"まぁ、当然と言えば当然ではあると思うね"
+			"value":"It seems like an obvious thing to me."
 		},
 		{
 			"key":"EP03_S0020_0043",
-			"value":"くだらねぇ……どうせ、オレたちは\nここから、ここから……"
+			"value":"Hmph, like it even matters. We’re never\ngetting out of here... Never..."
 		},
 		{
 			"key":"EP03_S0020_0044",
-			"value":"な、なんかとんだ濡れ衣着せられた気がするけど……\nどうするタクマ？"
+			"value":"I feel like we’re being wrongly accused here.\nLook, what do you think, Takuma?"
 		},
 		{
 			"key":"EP03_S0020_Q1",
-			"value":"（男女で部屋を分けるべきか……どうしよう？）"
+			"value":"(Separate rooms for boys and girls? Hmm...)"
 		},
 		{
 			"key":"EP03_S0020_Q1_A1",
-			"value":"サキの言うことはもっともだ"
+			"value":"Saki’s right."
 		},
 		{
 			"key":"EP03_S0020_Q1_A2",
-			"value":"やっぱり一緒の方がよくないか？"
+			"value":"Safety in numbers."
 		},
 		{
 			"key":"EP03_S0020_0045",
-			"value":"サキの言うことはもっともだ"
+			"value":"Saki’s right."
 		},
 		{
 			"key":"EP03_S0020_0046",
-			"value":"うん、サキの言うことはもっともだ\n今までは考えが足りなかったよ"
+			"value":"Saki has a point. I feel like we’ve been\nrude."
 		},
 		{
 			"key":"EP03_S0020_0047",
-			"value":"そ、そんな……私もハッキリと\n言えば良かったし……"
+			"value":"No, I should have said something."
 		},
 		{
 			"key":"EP03_S0020_0048",
-			"value":"ダメよ、アオイちゃん\nこういう時は男子に謝らせるモノなんだから"
+			"value":"Don’t blame yourself, Aoi. They’re the ones\nwho need to apologize."
 		},
 		{
 			"key":"EP03_S0020_0049",
-			"value":"も、もうサキさん、いい加減にしてちょうだい"
+			"value":"Really, Saki, it’s okay."
 		},
 		{
 			"key":"EP03_S0020_0050",
-			"value":"それで、二人の寝る場所だけど……\nハル、ちょっといいかな？"
+			"value":"As for where the two of you should sleep...\nHaru, can I ask something?"
 		},
 		{
 			"key":"EP03_S0020_0051",
-			"value":"やっぱり一緒の方がよくないか？"
+			"value":"Safety in numbers."
 		},
 		{
 			"key":"EP03_S0020_0052",
-			"value":"さっきも言ったけど、いつ襲われるかわからないし\nやっぱり一緒の方がよくないか？"
+			"value":"Like I said before, we might get attacked at\nany time. There’s safety in numbers, right?"
 		},
 		{
 			"key":"EP03_S0020_0053",
-			"value":"いやお前……ここでそう言えるのは勇者だわ"
+			"value":"I don’t know... I think you’d need a lot of\nguts to try and make that argument again."
 		},
 		{
 			"key":"EP03_S0020_0054",
-			"value":"それ絶対サキには言うなよ？\nまたヘンタイーって言われるからな？"
+			"value":"And don’t let Saki hear you. She’d lose it."
 		},
 		{
 			"key":"EP03_S0020_0055",
-			"value":"う、それは嫌だな。それじゃあ……\nハル、ちょっといいかな？"
+			"value":"Good point. In that case, Haru, can I ask you\nsomething?"
 		},
 		{
 			"key":"EP03_S0020_0056",
-			"value":"アオイさんとサキは、ハルとミユキと一緒に\n音楽室で寝てもらうっていうのはどうかな？"
+			"value":"How would everybody feel if the girls slept\nin the music room with Haru and Miyuki?"
 		},
 		{
 			"key":"EP03_S0020_0057",
-			"value":"ミユキも女の子だし、ハルは見ての通り\nまだ小さいし……"
+			"value":"Miyuki’s a girl, and Haru’s still young."
 		},
 		{
 			"key":"EP03_S0020_0058",
-			"value":"うん、まぁそれならいいかな"
+			"value":"I guess I’d be okay with that."
 		},
 		{
 			"key":"EP03_S0020_0059",
-			"value":"ええ、私も大丈夫"
+			"value":"Yeah, me too."
 		},
 		{
 			"key":"EP03_S0020_0060",
-			"value":"ということで、寝る時はあの二人と一緒に\n音楽室にいてほしいんだけど、いいかな？"
+			"value":"Okay, so, would it be all right if these two\nslept in the music room with you?"
 		},
 		{
 			"key":"EP03_S0020_0061",
-			"value":"うん、いいよ"
+			"value":"Yeah, sure."
 		},
 		{
 			"key":"EP03_S0020_0062",
-			"value":"いいよ……"
+			"value":"Sure... "
 		},
 		{
 			"key":"EP03_S0020_0063",
-			"value":"ありがとう"
+			"value":"Thanks."
 		},
 		{
 			"key":"EP03_S0020_0200",
-			"value":"えっ……ぼくたちは、そんなの……"
+			"value":"What? But we don’t..."
 		},
 		{
 			"key":"EP03_S0020_0201",
-			"value":"……"
+			"value":"... "
 		},
 		{
 			"key":"EP03_S0020_0202",
-			"value":"（ん？　ミユキがハルに目配せしてる……）"
+			"value":"(Hmm? Miyuki’s giving Haru some kind of\nlook...)"
 		},
 		{
 			"key":"EP03_S0020_0203",
-			"value":"はぁ……わかった\nそれで、いいよ"
+			"value":"*sigh*... Fine. It’s okay, I guess."
 		},
 		{
 			"key":"EP03_S0020_0204",
-			"value":"ああ、ありがとう"
+			"value":"Great, thanks a bunch."
 		},
 		{
 			"key":"EP03_S0020_0205",
-			"value":"（ミユキがハルを説得してくれたのかな？\n　大人しい子だけど、やっぱり姉なんだな）"
+			"value":"(Did she convince him? She may be on the\nquiet side, but she is the older of the two.)"
 		},
 		{
 			"key":"EP03_S0020_0064",
-			"value":"はぁ……それじゃあ、本当に\nそろそろ寝ようか……"
+			"value":"All right, now seriously, let’s all get some\nrest."
 		},
 		{
 			"key":"EP03_S0020_0206",
-			"value":"（まさかサキに『ヘンタイ』なんて言われるとは\n　思わなかったな……違うけど！）"
+			"value":"(Can’t say I expected Saki to jump to that\nconclusion... Give a guy a little credit!)"
 		},
 		{
 			"key":"EP03_S0020_0207",
-			"value":"（まぁでも、サキも無理して\n　元気に振る舞ってたのかもしれない）"
+			"value":"(Still, could be that she’s just kicking up\na fuss to put on a brave face.)"
 		},
 		{
 			"key":"EP03_S0020_0208",
-			"value":"（みんなとはぐれて不安な中\n　教授と一緒に行動してて……）"
+			"value":"(We were freaking out about losing everyone,\nthen ran into the professor.)"
 		},
 		{
 			"key":"EP03_S0020_0209",
-			"value":"（その教授が\n　あんなことになっちゃったわけだし……）"
+			"value":"(And then look what happened to him...)"
 		},
 		{
 			"key":"EP03_S0020_0210",
-			"value":"（そういえば、みんなで集まる時は食堂って\n　昨晩決めたんだった。そろそろ行こうかな）"
+			"value":"(Oh, we all agreed to meet in the cafeteria\nlast night, right? Maybe I should head over.)"
 		},
 		{
 			"key":"EP03_S0020_0065",
-			"value":"（まぁでも、確かにサキの言う通りだよな\n　みんなで集まる時は食堂ってことも決めたし）"
+			"value":"(Thinking back on it now, Saki was right, and\nI’m glad we agreed to meet in the cafeteria.) "
 		},
 		{
 			"key":"EP03_S0020_0066",
-			"value":"（それに、サキ自身は言わなかったけど\n　……教授のこと、落ち込んでたんだろうし）"
+			"value":"(Besides, she didn’t bring it up, but she\nmust’ve been upset about the professor.)"
 		},
 		{
 			"key":"EP03_S0020_0067",
-			"value":"おはよう、タクマ"
+			"value":"Morning, Takuma."
 		},
 		{
 			"key":"EP03_S0020_0068",
-			"value":"あ、ああ。おはよう、ミノル"
+			"value":"Hey, Minoru. Morning."
 		},
 		{
 			"key":"EP03_S0020_0069",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S0020_0070",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S0020_0071",
-			"value":"リョウとシュウジさんも、おはよう……"
+			"value":"Ryo, Shuuji, good morning to you too."
 		},
 		{
 			"key":"EP03_S0020_0072",
-			"value":"（ミノルもだけど、この二人は特に落ち込んでるな）"
+			"value":"(Minoru doesn’t exactly look chipper, but\nthese two seem particularly upset.)"
 		},
 		{
 			"key":"EP03_S0020_0073",
-			"value":"（いや、僕だって他人事みたいには言えない……\n　目の前で、あんなものを見てしまったんだから）"
+			"value":"(Not that I blame them, after what we saw.)"
 		},
 		{
 			"key":"EP03_S0020_0074",
-			"value":"……僕は……僕は\nどうすれば良いんです、教授……"
+			"value":"I... I... What am I supposed to do now,\nProfessor?"
 		},
 		{
 			"key":"EP03_S0020_0075",
-			"value":"やれやれだぜ……\nあれから一晩明けても……まだ実感わかないよ"
+			"value":"I still can’t believe what happened. Even\nnow, it doesn’t seem real."
 		},
 		{
 			"key":"EP03_S0020_0076",
-			"value":"う……うぅっ……"
+			"value":"*sniff*... *sob*..."
 		},
 		{
 			"key":"EP03_S0020_0077",
-			"value":"そうだな……\n僕も……まだ信じられない"
+			"value":"Yeah, same here. It just... It just doesn’t\nseem right."
 		},
 		{
 			"key":"EP03_S0020_0078",
-			"value":"（嘆いたって哀しんだって、どうにもならない……）"
+			"value":"(Crying about it now isn’t going to change\nanything.)"
 		},
 		{
 			"key":"EP03_S0020_0079",
-			"value":"（そんなことはみんな\n　頭じゃわかっているんだ……でも……）"
+			"value":"(On some level, we all know that, but that\ndoesn’t make it any easier to swallow.)"
 		},
 		{
 			"key":"EP03_S0020_0080",
-			"value":"（唯一の大人である教授が\n　あの霧に飲まれて消えてしまった……）"
+			"value":"(The professor was the only adult here, and\nhe vanished into the mist.)"
 		},
 		{
 			"key":"EP03_S0020_0081",
-			"value":"（僕たち子供だけになってしまったんだ……\n　どうしたらいいんだろう……）"
+			"value":"(Now it's just us kids. And none of us know what to do.)"
 		},
 		{
 			"key":"EP03_S0020_0082",
-			"value":"う～ん……一緒に冒険できそうな仲間が\nこうして大勢集まったのに……"
+			"value":"Man, we’ve got all these people to go\nadventuring with..."
 		},
 		{
 			"key":"EP03_S0020_0083",
-			"value":"困ったなぁ……\nみんな……雰囲気暗いよねぇ？"
+			"value":"But it's no fun if everyone's down in the dumps."
 		},
 		{
 			"key":"EP03_S0020_0084",
-			"value":"うむ。いつもふざけているミノルすら\n相当落ち込んでいるようだしな……"
+			"value":"Yes. Even my jokester of a partner seems\nrather despondent."
 		},
 		{
 			"key":"EP03_S0020_0085",
-			"value":"もっとみんな\n楽しそうにすればいいのになぁ"
+			"value":"I wish we could cheer them up."
 		},
 		{
 			"key":"EP03_S0020_0086",
-			"value":"よ～し！\nボク、タクマたちを笑わせてくる！"
+			"value":"I know! I’ll do something silly to make them\nlaugh!"
 		},
 		{
 			"key":"EP03_S0020_0087",
-			"value":"だ、ダメだよ～！\nこういう時はちゃんと空気を読まないと……"
+			"value":"No! Don’t do that! Can’t you read the room?"
 		},
 		{
 			"key":"EP03_S0020_0088",
-			"value":"空気って、透明なのに！？\nどうやって読むの？　読めるの！？"
+			"value":"The room?! How? You can read rooms?!"
 		},
 		{
 			"key":"EP03_S0020_0089",
-			"value":"えぇ！？　えっと、それは……\nそういうことじゃなくて……"
+			"value":"What?! Oh, uh, that’s...not what that means."
 		},
 		{
 			"key":"EP03_S0020_0090",
-			"value":"うぅ、助けてぇ～……"
+			"value":"Aaah! Help!"
 		},
 		{
 			"key":"EP03_S0020_0091",
-			"value":"まぁまぁ、アグモンも悪気があるわけでも\nふざけてるわけでもない"
+			"value":"Now, now. Agumon doesn’t mean anything by it."
 		},
 		{
 			"key":"EP03_S0020_0092",
-			"value":"君たち、いつもこんな感じなの……？"
+			"value":"Are you guys always like this?"
 		},
 		{
 			"key":"EP03_S0020_0093",
-			"value":"アグモンは、まぁ、あんな感じだな\n俺やクネモンも大体いつも通りだ"
+			"value":"Such behavior is typical for Agumon. Likewise\nfor Kunemon and myself."
 		},
 		{
 			"key":"EP03_S0020_0094",
-			"value":"キュゥ？"
+			"value":"Kew?"
 		},
 		{
 			"key":"EP03_S0020_0095",
-			"value":"寝る場所を変えたラブラモンという奴が\nこういう時アグモンをたしなめる役目だよ"
+			"value":"Labramon isn’t here right now, but she\nusually keeps Agumon in line."
 		},
 		{
 			"key":"EP03_S0020_0096",
-			"value":"そっか……ボクたちの方はこんな賑やかじゃなかったな"
+			"value":"Oh, okay. Things didn’t get so rowdy with us."
 		},
 		{
 			"key":"EP03_S0020_0097",
-			"value":"教授がみんなを引っ張ってくれて\nフローラモンとサキがボクを励ましてくれて……"
+			"value":"The professor kept everyone going, while\nFloramon and Saki would encourage me."
 		},
 		{
 			"key":"EP03_S0020_0098",
-			"value":"ふむ……お前のパートナーは、昨日から見る限り\nあまり頼れる相手ではなさそうだな"
+			"value":"Yes, from what I saw yesterday, your partner\nseems rather unreliable."
 		},
 		{
 			"key":"EP03_S0020_0099",
-			"value":"いちばんおっきいのに？"
+			"value":"Even though he’s the biggest one?"
 		},
 		{
 			"key":"EP03_S0020_0100",
-			"value":"大きいからと言って立派とは限らんだろう\n……それに、ロップモンへの当たりも厳しいようだ"
+			"value":"Bigger doesn’t always mean better. Besides,\nhe seems rather harsh with Lopmon."
 		},
 		{
 			"key":"EP03_S0020_0101",
-			"value":"そ、そんなコト……ないよ"
+			"value":"It... It’s not that bad."
 		},
 		{
 			"key":"EP03_S0020_0102",
-			"value":"我々のパートナーは皆、未熟な者だからな\n多少の至らなさは仕方ない"
+			"value":"Well, all of our partners are young. We\ncannot expect them to be perfect."
 		},
 		{
 			"key":"EP03_S0020_0103",
-			"value":"彼らが善き行いを遂げるよう、\n見守り、支えるのもまた、俺たちの役目だ"
+			"value":"It falls to us to protect and support them so\nthey might act properly."
 		},
 		{
 			"key":"EP03_S0020_0104",
-			"value":"……そうだ、僕はこの中じゃ最年長なんだ\n……僕がこんな事でどうする"
+			"value":"I... I’m the oldest one here. I have to do\nbetter."
 		},
 		{
 			"key":"EP03_S0020_0105",
-			"value":"そうだ、教授……見ていてください\n僕がきっと、みんなを……"
+			"value":"I’m going...to do this, Professor. Just\nwatch. I’ll get everyone out of here. I will."
 		},
 		{
 			"key":"EP03_S0020_0106",
-			"value":"いいか、みんな！\nこ、これからの事を話し合おう！"
+			"value":"Okay, everybody! We...we need to make a plan."
 		},
 		{
 			"key":"EP03_S0020_0107",
-			"value":"い、いつまでも落ち込んだり\n悲しんでいても、し、仕方ないんだ！"
+			"value":"We can’t just keep g-grieving forever!"
 		},
 		{
 			"key":"EP03_S0020_0108",
-			"value":"うっ……うぅっ……！"
+			"value":"*sniff*...*sniff*..."
 		},
 		{
 			"key":"EP03_S0020_0109",
-			"value":"言ってるコトと態度が逆っすよ\nシュウジさん……"
+			"value":"Those tears don’t exactly help your argument,\nShuuji."
 		},
 		{
 			"key":"EP03_S0020_0110",
-			"value":"う、うん……で、でもっ！"
+			"value":"I... I know...but!"
 		},
 		{
 			"key":"EP03_S0020_0111",
-			"value":"でも、ここは僕がしっかりしないと……！\nグスっ……ううぅ……！"
+			"value":"I need to be strong!\n*sob*... *sniff*...!"
 		},
 		{
 			"key":"EP03_S0020_0112",
-			"value":"そりゃ、しっかりして欲しいのは\nやまやまだけどさぁ……ちょっと、その……"
+			"value":"Uh, it’d be great if you could actually pull\nit together, but...that doesn’t seem likely."
 		},
 		{
 			"key":"EP03_S0020_0113",
-			"value":"シュウジさんの気持ちも考えてやろう\n僕たちより長く、教授と一緒にいたんだし……"
+			"value":"Minoru, try to appreciate what Shuuji is\ngoing through."
 		},
 		{
 			"key":"EP03_S0020_0114",
-			"value":"その分ショックが大きいのも仕方ないさ\n今は……そっとしておこう"
+			"value":"He spent a lot more time with the professor,\nso it’s a bigger loss for him. Give him time."
 		},
 		{
 			"key":"EP03_S0020_0115",
-			"value":"でもさ、シュウジさんには\nリーダーシップ取ってもらわないと……"
+			"value":"I mean, I’d like to, but we kinda need Shuuji\nas our leader."
 		},
 		{
 			"key":"EP03_S0020_0116",
-			"value":"次の年長者はアオイさんですよ？\nあ、あとリョウな"
+			"value":"After him, the next oldest is Aoi. Oh, and\nRyo, I guess."
 		},
 		{
 			"key":"EP03_S0020_0117",
-			"value":"どう考えたってこの面子じゃ\nシュウジさんに頑張って貰わないとさ……"
+			"value":"Of those three, Shuuji’s the only real\nchoice."
 		},
 		{
 			"key":"EP03_S0020_0118",
-			"value":"ママが生きてるんだ……\nママ……フフ……フヒヒヒ……"
+			"value":"Mommy’s alive... Mommy... Hee hee...\nHee-hee hee..."
 		},
 		{
 			"key":"EP03_S0020_0119",
-			"value":"な、何だよオイ\n気味悪いな、昨日からずっと……"
+			"value":"Ugh, would you stop? You’re creeping me out.\nWhat’s with all the mumbling lately?"
 		},
 		{
 			"key":"EP03_S0020_0211",
-			"value":"でも、ここは僕がしっかりしないと……！\nグスっ……ううぅ……！"
+			"value":"Still, we have to pull ourselves together...\n*hic*... Ungh..."
 		},
 		{
 			"key":"EP03_S0020_0120",
-			"value":"ミノルが言ってることは正しいよ……\nそう、教授がいない今、僕がちゃんとしないと！"
+			"value":"Minoru’s right. Now that the professor’s\ngone, I need to step up!"
 		},
 		{
 			"key":"EP03_S0020_0121",
-			"value":"（うん……いつまでも悲しんで\n　落ち込んでいても仕方がない――）"
+			"value":"(Yeah. We definitely can’t spend all our time\ngrieving.)"
 		},
 		{
 			"key":"EP03_S0020_0122",
-			"value":"まず、状況を把握したい。この学校の事や\n食糧や水に関しては昨日聞かせて貰ったけど……"
+			"value":"We need to assess the situation. Now, you\ntold me about the school and your supplies..."
 		},
 		{
 			"key":"EP03_S0020_0123",
-			"value":"そうだ、シュウジさんの方は？\n一晩、どう過ごしたんです？"
+			"value":"Actually, now that I think of it, how did you\nspend the night, Shuuji?"
 		},
 		{
 			"key":"EP03_S0020_0124",
-			"value":"……野宿、だよ"
+			"value":"...Outside."
 		},
 		{
 			"key":"EP03_S0020_0125",
-			"value":"ああ、そりゃあ大変だ"
+			"value":"Yikes, that’s rough."
 		},
 		{
 			"key":"EP03_S0020_0126",
-			"value":"と、とにかく、ずっと敵に追われてたし\n生きた心地がしなかったよ……"
+			"value":"I... I was constantly on the run, getting\nchased around. It felt like I was doomed."
 		},
 		{
 			"key":"EP03_S0020_0127",
-			"value":"（なるほど、シュウジさんがここまで\n　いっぱいいっぱいな感じなのも……）"
+			"value":"(No wonder he’s been so overwhelmed by\neverything.)"
 		},
 		{
 			"key":"EP03_S0020_0128",
-			"value":"（丸一日、そうとう\n　追い詰められたのもあったんだな……）"
+			"value":"(He spent an entire day running for his\nlife.)"
 		},
 		{
 			"key":"EP03_S0020_0212",
-			"value":"（なるほど、シュウジさんがここまで\n　いっぱいいっぱいな感じなのは……）"
+			"value":"(No wonder he’s been so high-strung this\nwhole time.)"
 		},
 		{
 			"key":"EP03_S0020_0213",
-			"value":"（丸一日、そうとう\n　追い詰められてたって理由もあったんだな……）"
+			"value":"(I’d be the same if I spent an entire day\nrunning for my life...)"
 		},
 		{
 			"key":"EP03_S0020_0129",
-			"value":"では、僕たちが今までどうしてたか\n順番に話しますね"
+			"value":"All right, let me tell you everything that\nhappened from the beginning."
 		},
 		{
 			"key":"EP03_S0020_0130",
-			"value":"（そうして先輩に、僕らがこの校舎に来た経緯\n　アグモンたちとの出会い）"
+			"value":"(I explained about how we found the school,\nmeeting Agumon and the others...)"
 		},
 		{
 			"key":"EP03_S0020_0131",
-			"value":"（校舎に巣食う大きな蜘蛛のバケモノとの戦いや\n　ミユキとハルの姉弟のことなどを話したんだ）"
+			"value":"(...the fight against the spider monster,\nmeeting Haru and Miyuki, and more.)"
 		},
 		{
 			"key":"EP03_S0020_0132",
-			"value":"そうか、君たちにもそんな事が……"
+			"value":"Wow, you guys have been through a lot, too."
 		},
 		{
 			"key":"EP03_S0020_0133",
-			"value":"まぁ、でも若干ハードモードだよな\nシュウジさんたちの方が"
+			"value":"Yeah, but I’d still say you were the ones\nplaying in hard mode."
 		},
 		{
 			"key":"EP03_S0020_0134",
-			"value":"うん……教授がいなければ\nどうなっていたか……"
+			"value":"True. If it hadn’t been for the professor,\nI don’t know what might have happened."
 		},
 		{
 			"key":"EP03_S0020_0135",
-			"value":"それに、あんなおっかねーのにつけ狙われて\nずっと追っかけられるって……うぅぅ！"
+			"value":"Just the thought of being hunted down by that\nterrifying thing... No thanks!"
 		},
 		{
 			"key":"EP03_S0020_0136",
-			"value":"何なんだ？　アレ！？　オレら人間の子供を\nイケニエにとか何とか言ってたし……"
+			"value":"What even was that, anyway?! It kept babbling\non about children and sacrifices..."
 		},
 		{
 			"key":"EP03_S0020_0214",
-			"value":"そこは……教授からも聞いた\nケモノガミや人身御供の伝承と合致しそうだけど"
+			"value":"That fits with what the professor had said\nabout the Kemonogami and human sacrifices."
 		},
 		{
 			"key":"EP03_S0020_0215",
-			"value":"教授からもっと色々話を聞けてたら\n何かヒントになったかもしれないよな……あ"
+			"value":"Maybe we wouldn’t be in the dark like this if\nwe could just ask the guy—er, I mean..."
 		},
 		{
 			"key":"EP03_S0020_0216",
-			"value":"えっと……すんません"
+			"value":"...I should probably shut my mouth, huh."
 		},
 		{
 			"key":"EP03_S0020_0217",
-			"value":"ああ。残念だけど仕方ない……"
+			"value":"Yeah, there’s no turning back the clock\nnow..."
 		},
 		{
 			"key":"EP03_S0020_0218",
-			"value":"しかし、得体の知れないバケモノはいるわ\n……そのバケモノを飲み込んじまう霧まで出るわ"
+			"value":"One thing’s for sure—there are some weird\nmonsters out there. Not to mention that fog.  "
 		},
 		{
 			"key":"EP03_S0020_0137",
-			"value":"しかし、得体の知れないバケモノはいるわ\n……教授を飲み込んじまう霧まで、出るわ"
+			"value":"One thing’s for sure, there’s some weird\nmonsters out there. Not to mention that mist. "
 		},
 		{
 			"key":"EP03_S0020_0138",
-			"value":"そうだよな。あの狼みたいなバケモノでさえ\n一瞬で飲み込まれてた……"
+			"value":"Yeah, that big wolf thing just vanished right\ninto it."
 		},
 		{
 			"key":"EP03_S0020_0139",
-			"value":"あの霧に飲み込まれたらどうなんだよ……"
+			"value":"I wonder what happens if you get swallowed by\nthe fog."
 		},
 		{
 			"key":"EP03_S0020_0219",
-			"value":"わからない。でも、アグモンたちも絶対に\n近寄っちゃ駄目だって言ってたし"
+			"value":"Can’t say. Agumon and the others want nothing\nto do with it, that’s for sure."
 		},
 		{
 			"key":"EP03_S0020_0220",
-			"value":"気をつけた方がいいのは、確かだと思う"
+			"value":"Clearly we’d better watch our step, too."
 		},
 		{
 			"key":"EP03_S0020_0221",
-			"value":"まぁ、そうだよな……"
+			"value":"When you’re right, you’re right... "
 		},
 		{
 			"key":"EP03_S0020_0140",
-			"value":"とにかく、もしここが、教授の言う\n生贄の『送られた』先の世界なら……"
+			"value":"Anyway, if this is where child sacrifices are\n“banished,” like the professor thought,"
 		},
 		{
 			"key":"EP03_S0020_0141",
-			"value":"それこそ、ミノルの言ってるように\n現実世界とは別の場所……なんだろうな"
+			"value":"then Minoru’s right. We’re not in the real\nworld anymore."
 		},
 		{
 			"key":"EP03_S0020_0142",
-			"value":"未来世界か異次元世界かわからないが……\n少なくとも『普通の場所』じゃないだろう……"
+			"value":"I don’t know if this is the future or another\ndimension, but it’s nowhere normal."
 		},
 		{
 			"key":"EP03_S0020_0143",
-			"value":"地下世界とか見知らぬ未開の土地に\n本物そっくりの山とか校舎とかをコピーしてるとか？"
+			"value":"What if there’s just copies of the school and\nthe mountain way out over these ruins?"
 		},
 		{
 			"key":"EP03_S0020_0144",
-			"value":"壮大なドッキリ！\nボクらみんな騙されてました！　とか？"
+			"value":"What if this is all some kind of huge prank?"
 		},
 		{
 			"key":"EP03_S0020_0145",
-			"value":"ドッキリってなんだー？"
+			"value":"What’s a prank?"
 		},
 		{
 			"key":"EP03_S0020_0146",
-			"value":"お笑いタレントとかアイドルとかをビックリさせて\n楽しもうってゆー面白いことで……"
+			"value":"It’s this type of joke where you trick people\nfor laughs, especially celebrities."
 		},
 		{
 			"key":"EP03_S0020_0147",
-			"value":"いや、ただの中坊にこんな大掛かりなドッキリとか\n……ないな、うん。ゴメン"
+			"value":"Although, I can’t see the point of going to\nall this effort just to prank us."
 		},
 		{
 			"key":"EP03_S0020_0148",
-			"value":"ない、と言うなら……"
+			"value":"So, if this isn’t a prank..."
 		},
 		{
 			"key":"EP03_S0020_0149",
-			"value":"ここが何らかの異世界なら\nそれで腑に落ちる事もあるよ"
+			"value":"If this is another world, it would help\nexplain some things."
 		},
 		{
 			"key":"EP03_S0020_0150",
-			"value":"山深い未踏の地ならともかく\n普通に神社や学校に続く山道すらあるのに……"
+			"value":"Like, why hasn’t there been any sign of\na rescue team? Not even a helicopter?"
 		},
 		{
 			"key":"EP03_S0020_0151",
-			"value":"どうして捜索隊も青年団も来ないのか\nヘリの一台も飛んで来ないのか……"
+			"value":"It’s not like this place is that remote. It\nhas trails, a shrine, and an old school."
 		},
 		{
 			"key":"EP03_S0020_0152",
-			"value":"や、やめろよぉっ……！"
+			"value":"I-I don’t want to hear this!"
 		},
 		{
 			"key":"EP03_S0020_0153",
-			"value":"（リョウの叫び声に、シュウジさんも黙ってしまった\n　確かに、言わなくてもみんな薄々わかってる）"
+			"value":"(Shuuji falls silent after Ryo’s outburst,\nbut the implications are clear.)"
 		},
 		{
 			"key":"EP03_S0020_0154",
-			"value":"（……ここが僕たちの元いた世界と違うのなら\n　それは『待っていても助けは来ない』という事だ）"
+			"value":"(If this isn’t our world, it won’t matter how\nlong we wait. Help isn’t coming.)"
 		},
 		{
 			"key":"EP03_S0020_0155",
-			"value":"……そ、そうだな。冷静になろう\n僕が君たちをうろたえさせてちゃダメだ……"
+			"value":"Rrright, let’s try to stay calm. I shouldn’t\nsay anything to upset you."
 		},
 		{
 			"key":"EP03_S0020_0156",
-			"value":"どうすればここから脱出できるか\nまずはそのことを考えないと"
+			"value":"We need to think about how we’re going to get\nout of here."
 		},
 		{
 			"key":"EP03_S0020_0157",
-			"value":"うぅ……うぅ～ん……"
+			"value":"*sniff*...*sob*..."
 		},
 		{
 			"key":"EP03_S0020_0158",
-			"value":"なぁタクマ、このままじゃ埒が明かなくね？"
+			"value":"Takuma, this isn’t getting us anywhere."
 		},
 		{
 			"key":"EP03_S0020_0159",
-			"value":"シュウジさんは唸ってばっかだし……"
+			"value":"Shuuji’s just crying at this point."
 		},
 		{
 			"key":"EP03_S0020_0160",
-			"value":"ご、ごめんね……"
+			"value":"I’m sorry..."
 		},
 		{
 			"key":"EP03_S0020_0161",
-			"value":"……ブツブツ……ブツ……"
+			"value":"*mumble* *mumble*"
 		},
 		{
 			"key":"EP03_S0020_0162",
-			"value":"ホラ、リョウのやつもずっとあの調子だし……\nあれじゃ、からかい甲斐もねーわ"
+			"value":"And Ryo is losing it. It’s not even worth\npicking on him like this."
 		},
 		{
 			"key":"EP03_S0020_0163",
-			"value":"上級生をからかっちゃダメだよ"
+			"value":"You shouldn’t pick on him at all."
 		},
 		{
 			"key":"EP03_S0020_0164",
-			"value":"キュゥっ！　キュゥ！"
+			"value":"Kew! Kew!"
 		},
 		{
 			"key":"EP03_S0020_0165",
-			"value":"ふむ、クネモンもこう言っていることだし\n場所を変えてはどうだろうか？"
+			"value":"Well, you heard Kunemon. I suggest we\nreconvene somewhere else."
 		},
 		{
 			"key":"EP03_S0020_0166",
-			"value":"お腹も空いちゃったしね～"
+			"value":"Yeah and besides, I’m getting hungry."
 		},
 		{
 			"key":"EP03_S0020_0167",
-			"value":"それに女子の意見も聞いてみないとな"
+			"value":"And we should hear what the girls have to\nsay."
 		},
 		{
 			"key":"EP03_S0020_0168",
-			"value":"（うん、その通りだ）"
+			"value":"(Those are all good points.)"
 		},
 		{
 			"key":"EP03_S0020_Q2",
-			"value":"（一度考えをまとめておこうかな……）"
+			"value":"(We should get our priorities straight...)"
 		},
 		{
 			"key":"EP03_S0020_Q2_A1",
-			"value":"まずは何か食べよう"
+			"value":"Let’s start with food."
 		},
 		{
 			"key":"EP03_S0020_Q2_A2",
-			"value":"女子の意見も聞こう"
+			"value":"Let’s ask the girls."
 		},
 		{
 			"key":"EP03_S0020_0169",
-			"value":"お腹が空いたし"
+			"value":"I’m feeling hungry."
 		},
 		{
 			"key":"EP03_S0020_0170",
-			"value":"うん、まずは何か食べよう\nお腹が空いてると、頭も働かないし"
+			"value":"Let’s start with something to eat. It’s\nharder to think on an empty stomach."
 		},
 		{
 			"key":"EP03_S0020_0171",
-			"value":"んだな。そういやオレも腹減ったわ"
+			"value":"You said it! And man, am I starving."
 		},
 		{
 			"key":"EP03_S0020_0172",
-			"value":"そろそろ女子のみんなも食堂に来る頃かな？"
+			"value":"Maybe by now the girls will be in the\ncafeteria, too."
 		},
 		{
 			"key":"EP03_S0020_0173",
-			"value":"それじゃあ、朝食を摂りつつ\nみんなで話し合おう"
+			"value":"We can talk over breakfast."
 		},
 		{
 			"key":"EP03_S0020_0174",
-			"value":"女子の意見も聞こう"
+			"value":"Let’s ask the girls."
 		},
 		{
 			"key":"EP03_S0020_0175",
-			"value":"僕たちだけじゃなく、女子二人の意見も\n聞いてみないと決められないですよ"
+			"value":"We’ll need their input before we make any\ndecisions anyway."
 		},
 		{
 			"key":"EP03_S0020_0176",
-			"value":"た、確かに……それもそうだね"
+			"value":"Uh, yeah, that’s true."
 		},
 		{
 			"key":"EP03_S0020_0177",
-			"value":"なら、続きは食堂で朝飯食いながらにしようぜ！\nオレもう腹減っちゃったよ～"
+			"value":"Then let’s pick this up again in the\ncafeteria, because I am starving!"
 		},
 		{
 			"key":"EP03_S0020_0178",
-			"value":"それじゃあ、朝食を摂りつつ\nみんなで話し合おう"
+			"value":"All right, we can talk over breakfast."
 		},
 		{
 			"key":"EP03_S0020_0179",
-			"value":"（うっ……そういえば、起きてからまだ行ってなかった）"
+			"value":"(Oh, and come to think of it, I still need to\nuse the bathroom.)"
 		},
 		{
 			"key":"EP03_S0020_0180",
-			"value":"ごめん、みんなは先に行ってて"
+			"value":"Uh, you guys go on ahead, okay?"
 		},
 		{
 			"key":"EP03_S0020_0181",
-			"value":"んー？　どうしたタクマー？"
+			"value":"Why? Something wrong, Takuma?"
 		},
 		{
 			"key":"EP03_S0020_0182",
-			"value":"トイレだよ。済ましてから食堂に行くから！"
+			"value":"I just need to use the bathroom. Be right\nthere!"
 		},
 		{
 			"key":"EP03_S0020_0183",
-			"value":"お、そっか\n慌てんなよー"
+			"value":"Oh, okay. You could’ve just said so."
 		}
 	]
 }

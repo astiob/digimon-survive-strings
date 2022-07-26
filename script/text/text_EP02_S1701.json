@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1701_0001",
-			"value":"これは……確かに足跡だ！"
+			"value":"The footprints are there!"
 		},
 		{
 			"key":"EP02_S1701_0002",
-			"value":"ホントだ！　間違いないね！"
+			"value":"They really are! Absolutely!"
 		},
 		{
 			"key":"EP02_S1701_0003",
-			"value":"な？　言ったろ～？"
+			"value":"Right?"
 		},
 		{
 			"key":"EP02_S1701_0004",
-			"value":"足跡はどこに向かっているんだ？"
+			"value":"Where are the footprints heading?"
 		},
 		{
 			"key":"EP02_S1701_0005",
-			"value":"彼岸花の森の方へ続いてる！"
+			"value":"Into the spider lily forest! "
 		},
 		{
 			"key":"EP02_S1701_0006",
-			"value":"（足跡は彼岸花の森の方へ続いている！）"
+			"value":"(The prints lead into the forest with the\nspider lilies!)"
 		}
 	]
 }

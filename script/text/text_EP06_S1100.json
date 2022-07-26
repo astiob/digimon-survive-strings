@@ -2,239 +2,239 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1100_0001",
-			"value":"なあタクマ\nお前、怖くないの？"
+			"value":"Hey, man.\nAren’t you scared? "
 		},
 		{
 			"key":"EP06_S1100_0002",
-			"value":"ファルコモンたちのこと？"
+			"value":"You mean of Falcomon and the others?"
 		},
 		{
 			"key":"EP06_S1100_0003",
-			"value":"ああ。ロップモンから出てたあの黒い霧\nカイトも言ってたけど、なんかヤバそうだった"
+			"value":"Yeah. Like Kaito said, that black fog that\ncame out of Lopmon was pretty scary."
 		},
 		{
 			"key":"EP06_S1100_0004",
-			"value":"（そういえば、アグモンも\n　そんなことを言ってたな……）"
+			"value":"(Agumon said the same,\ncome to think of it.)"
 		},
 		{
 			"key":"EP06_S1100_0005",
-			"value":"アレはただの暴走だったのか？　ロップモンが\nシュウジさんに反撃しようとしてたんじゃないのか？"
+			"value":"Did he just lose control?\nOr was he fighting back against Shuuji?"
 		},
 		{
 			"key":"EP06_S1100_0006",
-			"value":"そんな力で裏切られたら\nオレらにそれを止められるのか？"
+			"value":"If they decided to turn against us,\ncould we stop them?"
 		},
 		{
 			"key":"EP06_S1100_0007",
-			"value":"アグモンやファルコモンたちのこと？"
+			"value":"You mean of Agumon and Falcomon?"
 		},
 		{
 			"key":"EP06_S1100_0008",
-			"value":"そうだ、ロップモンみたいに\n裏切るかもしれない"
+			"value":"Yeah, they might turn against us like\nLopmon did."
 		},
 		{
 			"key":"EP06_S1100_0009",
-			"value":"考えてもみろよ\n二人きりの時に裏切られたら？"
+			"value":"Think about it. If they attack when we’re\nalone with them..."
 		},
 		{
 			"key":"EP06_S1100_0010",
-			"value":"何の力もないオレたちには\nどうすることもできないだろ"
+			"value":"Our strength is nothing compared to theirs."
 		},
 		{
 			"key":"EP06_S1100_0011",
-			"value":"裏切り者が\n一度に何体も出る可能性だってある"
+			"value":"And more than one of them could turn against\nus at once."
 		},
 		{
 			"key":"EP06_S1100_0012",
-			"value":"戦う力があるからって、こいつらと\nつるんでるのは本当に正しいのか？"
+			"value":"Should we really team up with them just\nbecause it enables us to fight?"
 		},
 		{
 			"key":"EP06_S1100_0013",
-			"value":"ミノル……無闇に疑いを煽って\nお前は一体何がしたいんだ"
+			"value":"Why are you trying to spread so much\nsuspicion, Minoru?  "
 		},
 		{
 			"key":"EP06_S1100_0014",
-			"value":"オレはタクマに話してるんだ\n外野は引っ込んでろよ"
+			"value":"I’m talking to Takuma.\nYou need to back off."
 		},
 		{
 			"key":"EP06_S1100_0015",
-			"value":"（ミノル……どんどん口調が荒くなっていく）"
+			"value":"(Minoru’s getting feistier by the minute.)"
 		},
 		{
 			"key":"EP06_S1100_0016",
-			"value":"（すっかりファルコモンたちが\n　裏切るものだと思い込んでるみたいだ）"
+			"value":"(He’s already accepted that Falcomon\nand the others are traitors.)"
 		},
 		{
 			"key":"EP06_S1100_0017",
-			"value":"なあ、答えろよタクマ\nケモノたちに関して、お前はどう思ってるんだ？"
+			"value":"Be honest, Takuma.\nWhat do you think about those monsters?"
 		},
 		{
 			"key":"EP06_S1100_0018",
-			"value":"（どう思ってる……か\n　正直な気持ちを打ち明けるべきか？）"
+			"value":"(What do I think?\nShould I tell him the truth?)"
 		},
 		{
 			"key":"EP06_S1100_0019",
-			"value":"（僕はアグモンを信じている\n　アグモンに悪意があるとは思えない）"
+			"value":"(I trust Agumon.\nI can’t believe he’d hurt me.)"
 		},
 		{
 			"key":"EP06_S1100_0020",
-			"value":"（それにファルコモンたちは、僕たちをここまで\n　身体を張って守ってくれた……）"
+			"value":"(And Falcomon and the others have kept us\nsafe for so long...)"
 		},
 		{
 			"key":"EP06_S1100_0021",
-			"value":"（全部罠かもしれないという不安はあるけど\n　でも僕は……彼らも信じたいと思っている気がする）"
+			"value":"(I’m scared it could be a trap, too, but...\nI feel like I want to trust them.)"
 		},
 		{
 			"key":"EP06_S1100_Q1",
-			"value":"（ミノルに僕の考えを伝えないと）"
+			"value":"(I should tell Minoru how I feel.)"
 		},
 		{
 			"key":"EP06_S1100_Q1_A1",
-			"value":"僕はアグモンのことを信じてる"
+			"value":"I trust Agumon."
 		},
 		{
 			"key":"EP06_S1100_Q1_A2",
-			"value":"心配しすぎだ"
+			"value":"You’re too worried."
 		},
 		{
 			"key":"EP06_S1100_Q1_A3",
-			"value":"みんなを信じたい"
+			"value":"I want to be trusting."
 		},
 		{
 			"key":"EP06_S1100_0023",
-			"value":"僕はアグモンのことを信じてるよ\nここまで守ってくれたんだ"
+			"value":"I trust Agumon.\nHe has protected me this far."
 		},
 		{
 			"key":"EP06_S1100_0024",
-			"value":"だからミノルも冷静になれば、自分を守ってくれる\nファルコモンを信じられるはずだよ"
+			"value":"If you’d stop and think rationally, you’d\ntrust Falcomon for keeping you safe, too."
 		},
 		{
 			"key":"EP06_S1100_0025",
-			"value":"ミノルも、タクマのように\n心優しい人物だったらよかったのにな"
+			"value":"I wish you were as kind-hearted as Takuma."
 		},
 		{
 			"key":"EP06_S1100_0026",
-			"value":"だから……！\n外野は引っ込んでろって言っただろ！"
+			"value":"Oh, shut it!\nI thought I told you to back off!"
 		},
 		{
 			"key":"EP06_S1100_0027",
-			"value":"オレだってアグモンみたいな\n優しそうなケモノなら信じられたかもな！"
+			"value":"I might trust you if you were a nice monster\nlike Agumon!"
 		},
 		{
 			"key":"EP06_S1100_0028",
-			"value":"信用できないのは俺のせいだとでも\n言うつもりか！？"
+			"value":"Are you trying to say it’s my fault you don’t\ntrust me?!"
 		},
 		{
 			"key":"EP06_S1100_0029",
-			"value":"ああそうだよ！\n大体、なんでお前とオレなんだよ！"
+			"value":"I sure am! Why’s it have to be me and you,\nanyway?"
 		},
 		{
 			"key":"EP06_S1100_0031",
-			"value":"心配しすぎだよ、ミノル\n……みんなを不安にさせてどうするんだ"
+			"value":"You’re too worried, Minoru.\nAnd you’re making everyone else anxious."
 		},
 		{
 			"key":"EP06_S1100_0032",
-			"value":"あいかわらずお人好しだな、タクマは"
+			"value":"That’s Takuma. Always one of the nice guys."
 		},
 		{
 			"key":"EP06_S1100_0033",
-			"value":"そうかもね"
+			"value":"I guess..."
 		},
 		{
 			"key":"EP06_S1100_0034",
-			"value":"お人好しから言わせてもらえば\n決めつけるのはよくないよ、ミノル"
+			"value":"Then take it from the nice guy that you’re\njumping to conclusions."
 		},
 		{
 			"key":"EP06_S1100_0035",
-			"value":"ファルコモンたちについて\nわからないことが多いからって……"
+			"value":"Sure, there’s a lot we don’t know about\nFalcomon and the others. "
 		},
 		{
 			"key":"EP06_S1100_0036",
-			"value":"疑うばっかりじゃいけないと思う\nそれじゃ、ますます何もわからなくなるだけだ"
+			"value":"But being suspicious just adds more confusion\nto the mix. "
 		},
 		{
 			"key":"EP06_S1100_0037",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1100_0038",
-			"value":"だったら、ファルコモン\nお前はなんでオレを守ろうとするんだ？"
+			"value":"Okay, then spill it. Why are you protecting\nme, Falcomon?"
 		},
 		{
 			"key":"EP06_S1100_0039",
-			"value":"なんでオレを選んだ？　騙し易そうだったか？\n疑われるとは思わなかったからか？"
+			"value":"I mean, why me? Thought I was an easy target?\nDidn’t think I'd be so suspicious, did you?"
 		},
 		{
 			"key":"EP06_S1100_0041",
-			"value":"僕は信じたい\nアグモンのことも、ファルコモンのことも"
+			"value":"I want to believe them.\nAgumon and Falcomon both."
 		},
 		{
 			"key":"EP06_S1100_0042",
-			"value":"……なんで"
+			"value":"Why?"
 		},
 		{
 			"key":"EP06_S1100_0043",
-			"value":"わからないよ"
+			"value":"I honestly don’t know."
 		},
 		{
 			"key":"EP06_S1100_0044",
-			"value":"でもなんとなく信じていい気がするし\n信じたいなって思うんだ"
+			"value":"I just feel like I should.\nI feel like I want to."
 		},
 		{
 			"key":"EP06_S1100_0045",
-			"value":"タクマ……！\nボクもタクマのこと、信じる！"
+			"value":"Aw, Takuma!\nI trust you, too!"
 		},
 		{
 			"key":"EP06_S1100_0046",
-			"value":"……ずるいよなぁ、お前\nまるでヒーローみたいなこと言うんだから"
+			"value":"Well played.\nActing like you’re the hero."
 		},
 		{
 			"key":"EP06_S1100_0047",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP06_S1100_0048",
-			"value":"なんでもねぇよ"
+			"value":"Nothing."
 		},
 		{
 			"key":"EP06_S1100_0049",
-			"value":"じゃあアグモン、お前の方だ\nお前はなんでタクマを守ってるんだ"
+			"value":"Alright, Agumon.\nWhy are you protecting Takuma then?"
 		},
 		{
 			"key":"EP06_S1100_0050",
-			"value":"うーんと……タクマだから！\nタクマのこと、守りたいって思うから！"
+			"value":"Because...because of who he is!\nI just want to protect him!"
 		},
 		{
 			"key":"EP06_S1100_0051",
-			"value":"はぁ？"
+			"value":"Seriously...?"
 		},
 		{
 			"key":"EP06_S1100_0052",
-			"value":"……これは俺たちに本能的に刻まれてるもの\n一緒にいる奴とは、良くも悪くもずっと一緒"
+			"value":"It’s in our very instinct. We always remain\nwith our partners, for better and for worse."
 		},
 		{
 			"key":"EP06_S1100_0053",
-			"value":"ニンゲンのコドモを待ち望み、出会えば全力で守る\n俺にも、それだけしかわからない"
+			"value":"We wait for human children, and then protect\nthem with all our might. That’s all we know."
 		},
 		{
 			"key":"EP06_S1100_0054",
-			"value":"誰とどういう理由で巡り合うのかは……\n俺の方が知りたいくらいだ"
+			"value":"Who we go together with and why\nis beyond me."
 		},
 		{
 			"key":"EP06_S1100_0055",
-			"value":"ふん、答えになってねぇよ"
+			"value":"That’s your answer?"
 		},
 		{
 			"key":"EP06_S1100_0056",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1100_0057",
-			"value":"ファルコモン……"
+			"value":"Falcomon..."
 		},
 		{
 			"key":"EP06_S1100_0058",
-			"value":"何をどうしたら、自分より強いバケモノを\n信じようって気になるんだよ……"
+			"value":"It’s just hard to trust a monster that’s\nway stronger than I am..."
 		}
 	]
 }

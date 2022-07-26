@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1157_0001",
-			"value":"むぅ……意外と見つからないものだな"
+			"value":"Hmm... This search is proving surprisingly\ndifficult."
 		},
 		{
 			"key":"EP02_S1157_0002",
-			"value":"ファルコモンもか？\nやっぱり簡単にはいかないか……"
+			"value":"You having trouble too, Falcomon? This is\npretty tough, huh?"
 		},
 		{
 			"key":"EP02_S1157_0003",
-			"value":"ああ、森の中ならば木の実や野草などがあるが\nここだとどこに何があるかすら判断できん"
+			"value":"Yes. The forest has fruits, nuts, and plants\nall over. Here I don’t know what to look for."
 		},
 		{
 			"key":"EP02_S1157_0004",
-			"value":"うーん、ムズカシイんだなー……"
+			"value":"Yeah, tell me about it."
 		},
 		{
 			"key":"EP02_S1157_0005",
-			"value":"心配するな。ミノルが一生懸命探しているところだ"
+			"value":"But fear not. Minoru is searching as hard as\nhe can, and despite how he may seem,"
 		},
 		{
 			"key":"EP02_S1157_0006",
-			"value":"ミノルはああ見えて知識があるようだ\n意外な所から見つけ出したりするからな"
+			"value":"Minoru is very knowledgeable. He can find\nthings in the most unlikely places."
 		},
 		{
 			"key":"EP02_S1157_0007",
-			"value":"そっか。それじゃあ、ミノルの発見に期待しようかな"
+			"value":"That’s great! Then we can count on Minoru to\nturn something up."
 		},
 		{
 			"key":"EP02_S1157_0008",
-			"value":"ああ、俺も引き続き探す\nタクマたちも頑張ってくれ"
+			"value":"Indeed. Now, I will return to my own search.\nBest of luck to you both."
 		},
 		{
 			"key":"EP02_S1157_0009",
-			"value":"ミノルは意外と博識だ\nきっと何か見つけるだろう"
+			"value":"Minoru is surprisingly knowledgeable. He’s\nsure to find something."
 		}
 	]
 }

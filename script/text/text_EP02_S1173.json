@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1173_0001",
-			"value":"くんくん、くんくん……匂うわ\nさっきのヤツの匂い！"
+			"value":"*sniff* *sniff* That’s it! It’s that same\nscent from earlier!"
 		},
 		{
 			"key":"EP02_S1173_0002",
-			"value":"って言っても、僕にはわからないな……"
+			"value":"That’s great, but it doesn’t help me much."
 		},
 		{
 			"key":"EP02_S1173_0003",
-			"value":"確か、見えないものを見る道具があったんじゃない？"
+			"value":"I thought you had some tool that let you see\nthings that were invisible."
 		},
 		{
 			"key":"EP02_S1173_0004",
-			"value":"あ、そうか！　それで調べればわかるかも！"
+			"value":"Oh, right! I should investigate to see what\nI can find out."
 		},
 		{
 			"key":"EP02_S1173_0005",
-			"value":"さっきのヤツの匂いを感じるわ\nタクマ、調べてみて！"
+			"value":"I’m getting that same scent from earlier. You\nshould investigate, Takuma!"
 		}
 	]
 }

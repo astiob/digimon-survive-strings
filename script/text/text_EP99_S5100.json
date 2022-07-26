@@ -2,183 +2,183 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S5100_0001",
-			"value":"ねえ、ちょっと……ちょっと……\nタクマ……タクマ……！"
+			"value":"Hey, uh... Um, Takuma... Takuma!"
 		},
 		{
 			"key":"EP99_S5100_0002",
-			"value":"え……なんだ……？\nどこかから、こ、声……！？"
+			"value":"Huh? What’s that? Where’s that voice coming\nfrom?"
 		},
 		{
 			"key":"EP99_S5100_0003",
-			"value":"ここだよ……！\n後ろ、タクマ後ろ！"
+			"value":"Over here! Hey, Takuma, look behind you!"
 		},
 		{
 			"key":"EP99_S5100_0004",
-			"value":"うわあっ！　シュウジ先輩！！\nビックリさせないで下さいよ……！"
+			"value":"Uwah! Shuuji! Don’t sneak up on me like that!"
 		},
 		{
 			"key":"EP99_S5100_0005",
-			"value":"シ～～～～……ッ！\n誰かに尾行されてないよな？"
+			"value":"Shhh! You weren’t followed, were you?"
 		},
 		{
 			"key":"EP99_S5100_0006",
-			"value":"尾行なんてされませんよ……\nいったいココで何をしているんですか？"
+			"value":"No, I wasn’t followed. What are you even\ndoing out here?"
 		},
 		{
 			"key":"EP99_S5100_0007",
-			"value":"いや、その……だ、うん\n君の後ろをそっと歩いていたが……"
+			"value":"I, uh, well... I was just walking quietly\nbehind you."
 		},
 		{
 			"key":"EP99_S5100_0008",
-			"value":"シュウジ先輩こそ\n僕を尾行してるじゃないですか"
+			"value":"Sounds like you’re the one who was following\nme."
 		},
 		{
 			"key":"EP99_S5100_0009",
-			"value":"ち、ちがうんだ！\nちょっと内密な話があったんだ"
+			"value":"No! It wasn’t like that! I just had something\nI wanted to talk with you about. Privately."
 		},
 		{
 			"key":"EP99_S5100_0010",
-			"value":"え、僕と？"
+			"value":"With me?"
 		},
 		{
 			"key":"EP99_S5100_0011",
-			"value":"そう、君と！"
+			"value":"Yes, with you!"
 		},
 		{
 			"key":"EP99_S5100_0012",
-			"value":"（どういうつもりなんだ……\nちょっと気持ちが悪いぞ）"
+			"value":"(I don’t know what Shuuji is thinking. This\nis kinda creepy.)"
 		},
 		{
 			"key":"EP99_S5100_0013",
-			"value":"ほ、ほら！　僕が……その……\n正気を失いかけた時……"
+			"value":"It’s just...well, you know... That time\nI almost lost it..."
 		},
 		{
 			"key":"EP99_S5100_0014",
-			"value":"それを君が防いでくれたから……\nお礼が言いたいっていうか"
+			"value":"...you’re the one who brought me back to my\nsenses. I just wanted to say thanks."
 		},
 		{
 			"key":"EP99_S5100_0015",
-			"value":"感謝を表明してもやぶさかでは\nないような……ってね"
+			"value":"And I didn’t want it to seem forced or\nanything."
 		},
 		{
 			"key":"EP99_S5100_0016",
-			"value":"は、はあ……"
+			"value":"Right..."
 		},
 		{
 			"key":"EP99_S5100_0017",
-			"value":"（シュウジ先輩のプライドが邪魔をしているのか\n言い方がはっきりしてないな……）"
+			"value":"(Sounds like Shuuji’s pride is making this\nhard for him. He’s not being very clear.)"
 		},
 		{
 			"key":"EP99_S5100_0018",
-			"value":"（でも、何か返事をしないと\nええっと……）"
+			"value":"(Still, I ought to reply to him somehow. Let\nme think...)"
 		},
 		{
 			"key":"EP99_S5100_Q1",
-			"value":"シュウジのお礼に返す言葉は？"
+			"value":"How should I respond to Shuuji?"
 		},
 		{
 			"key":"EP99_S5100_Q1_A1",
-			"value":"気にしないでいい"
+			"value":"Don’t worry about it."
 		},
 		{
 			"key":"EP99_S5100_Q1_A2",
-			"value":"お互い様ですから"
+			"value":"We got each other."
 		},
 		{
 			"key":"EP99_S5100_Q1_A3",
-			"value":"そんなお礼は変ですよ"
+			"value":"That’s weird."
 		},
 		{
 			"key":"EP99_S5100_0019",
-			"value":"シュウジ先輩\n気にしないでいいですよ"
+			"value":"Listen, don’t worry about it, Shuuji."
 		},
 		{
 			"key":"EP99_S5100_0020",
-			"value":"いやでも、こういうことは\nきちんとしないとダメなような気がする"
+			"value":"No, I feel like this is the sort of thing\nthat needs to be done properly."
 		},
 		{
 			"key":"EP99_S5100_0021",
-			"value":"（う～ん、この言い方も\nきちんとしていないよな……）"
+			"value":"(Funny. He hasn’t chosen a very proper way of\ndoing it.)"
 		},
 		{
 			"key":"EP99_S5100_0022",
-			"value":"それにもう……\n僕は役立たずだと思われたくないから"
+			"value":"And anyway, I don’t want people thinking I’m\nuseless anymore."
 		},
 		{
 			"key":"EP99_S5100_0023",
-			"value":"（シュウジ先輩……）"
+			"value":"(Shuuji...)"
 		},
 		{
 			"key":"EP99_S5100_0024",
-			"value":"そんなのいいんですよ\nお互い様ですから"
+			"value":"Hey, don’t worry about it. We’ve got each\nother’s backs. That’s all there is to it."
 		},
 		{
 			"key":"EP99_S5100_0025",
-			"value":"しかし、それじゃ……！"
+			"value":"I’m not sure that’s really..."
 		},
 		{
 			"key":"EP99_S5100_0026",
-			"value":"だってこんな世界で頼れる\n数少ない仲間じゃないですか"
+			"value":"Besides, you’re one of the few friends I have\nin this world who I know I can count on."
 		},
 		{
 			"key":"EP99_S5100_0027",
-			"value":"え、仲間……？\n僕が……？"
+			"value":"What? You mean...you consider me a friend?"
 		},
 		{
 			"key":"EP99_S5100_0028",
-			"value":"当たり前の事を聞かないでくださいよ\n仲間以外のなんなんです？"
+			"value":"Sure, that just goes without saying. What\nelse would you be?"
 		},
 		{
 			"key":"EP99_S5100_0029",
-			"value":"とにかくシュウジ先輩\nもし僕が同じような目にあったら助けてください"
+			"value":"Anyway, Shuuji, if you notice the same thing\nhappening to me, I’ll be counting on you."
 		},
 		{
 			"key":"EP99_S5100_0030",
-			"value":"ああ、わかった\n約束するよ……でも、ふふふ……"
+			"value":"Right, okay. I won’t let you down. Still...\nHeheheh..."
 		},
 		{
 			"key":"EP99_S5100_0031",
-			"value":"シュウジ先輩？"
+			"value":"Shuuji?"
 		},
 		{
 			"key":"EP99_S5100_0032",
-			"value":"僕は……仲間……か\nそっか……うん"
+			"value":"Friends, huh? Yeah...friends..."
 		},
 		{
 			"key":"EP99_S5100_0033",
-			"value":"シュウジ先輩\nそんなお礼は変ですよ"
+			"value":"Well, that’s weird, but okay."
 		},
 		{
 			"key":"EP99_S5100_0034",
-			"value":"へ、変！？\nど、どういう事なんだ？"
+			"value":"W-weird?! Wh-what do you mean weird?"
 		},
 		{
 			"key":"EP99_S5100_0035",
-			"value":"あ、いえ、別に変な意味\nじゃなくて……"
+			"value":"Oh, nothing serious, really. It’s just..."
 		},
 		{
 			"key":"EP99_S5100_0036",
-			"value":"シュウジ先輩がいまこうしているのは\n他ならぬロップモンのおかげでしょう？"
+			"value":"Lopmon had a lot more to do with how things\nturned out than anyone."
 		},
 		{
 			"key":"EP99_S5100_0037",
-			"value":"だったら僕に気遣うんじゃなく\nロップモンを可愛がってください"
+			"value":"So rather than thanking me, I think you\nshould be showing Lopmon some affection."
 		},
 		{
 			"key":"EP99_S5100_0038",
-			"value":"あ、いや……\nそうだな、うん……"
+			"value":"Oh, uh... Yeah, well..."
 		},
 		{
 			"key":"EP99_S5100_0039",
-			"value":"シュウジ先輩、ちなみに\n他の人にもお礼は言ったんですか？"
+			"value":"And by the way, did you thank the others too?"
 		},
 		{
 			"key":"EP99_S5100_0040",
-			"value":"いや、まだだ。これからっていうか……\nやっぱり照れ臭いっていうか……"
+			"value":"No, not yet. I was going to do that next.\nIt’s just, I feel so embarrassed..."
 		},
 		{
 			"key":"EP99_S5100_0041",
-			"value":"ちょっと恥ずかしいけど\nちゃんとしないとな……頑張ってみるよ"
+			"value":"Although, even if it is embarrassing, it’s\nsomething I have to do. I’ll give it a go."
 		}
 	]
 }

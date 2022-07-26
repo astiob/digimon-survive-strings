@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0031_0001",
-			"value":"流石にこんなすぐ近くには\n罠とか張ってないとは思うけど……"
+			"value":"I doubt they’d have laid traps this close..."
 		},
 		{
 			"key":"EP07_S0031_0002",
-			"value":"わからないぞ、油断するな"
+			"value":"You have no idea. Be careful."
 		},
 		{
 			"key":"EP07_S0031_0003",
-			"value":"地下水道に入る前から罠を仕掛けていたなら\nこの辺りに罠が張られている可能性はある"
+			"value":"If there were traps before we entered the\ncanals, there might be some here too."
 		},
 		{
 			"key":"EP07_S0031_0004",
-			"value":"アルケニモンがどれくらい\n計画的に襲ってきたのか次第ってことか"
+			"value":"It’s all down to how much planning Arukenimon\nput into the attack."
 		},
 		{
 			"key":"EP07_S0031_0005",
-			"value":"一応、調べてみるか？"
+			"value":"Should we check and see?"
 		}
 	]
 }

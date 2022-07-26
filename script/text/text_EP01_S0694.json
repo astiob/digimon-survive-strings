@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0694_0101",
-			"value":"おい、急ごう。すぐにここも雪が降って来るはずだ\nとにかく神社へ行こう"
+			"value":"Come on, let’s hustle. The snow should be on\nus soon. Let’s get to the shrine."
 		},
 		{
 			"key":"EP01_S0694_0102",
-			"value":"うん、そうだね\n案内をよろしく頼むよ"
+			"value":"Yeah, he’s right. Lead the way!"
 		},
 		{
 			"key":"EP01_S0694_0001",
-			"value":"この辺りにサキたちはいないようだな……\n神社はこの奥か……"
+			"value":"They don’t seem to be anywhere around here.\nThe shrine must be further in..."
 		},
 		{
 			"key":"EP01_S0694_0002",
-			"value":"（神社はこの先みたいだ\n　とにかく行ってみよう）"
+			"value":"(The shrine must be just ahead. We should\nhead toward it for now.)"
 		}
 	]
 }

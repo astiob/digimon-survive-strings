@@ -2,199 +2,199 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0621_0100",
-			"value":"じゃあ一緒にリョウ君とサキ君を連れ戻そう！"
+			"value":"Come on, let’s go bring back Ryo and Saki\ntogether!"
 		},
 		{
 			"key":"EP01_S0621_0101",
-			"value":"って言っても、どっちに行けばいいのか……"
+			"value":"That being said, which way should we go?"
 		},
 		{
 			"key":"EP01_S0621_0102",
-			"value":"……ん？\nなあ、誰か近づいてきたぜ？"
+			"value":"...Huh? Hey, who’s that coming this way?"
 		},
 		{
 			"key":"EP01_S0621_0201",
-			"value":"すまないが、そこの君たち\n確か……キャンプの参加者、だよな？"
+			"value":"Excuse me.\nAll of you are from that camp, right?"
 		},
 		{
 			"key":"EP01_S0621_0034",
-			"value":"オレは、ここら辺に住んでる者で\n今、妹を捜しているんだが……"
+			"value":"I live around here.\nI’m just looking for my little sister..."
 		},
 		{
 			"key":"EP01_S0621_0035",
-			"value":"妹さんを？"
+			"value":"Your sister?"
 		},
 		{
 			"key":"EP01_S0621_0036",
-			"value":"ああ、アイツいつもフラフラと\n勝手に出歩く癖があってな……"
+			"value":"Yes, she’s a bit frail, but likes to go off\non her own..."
 		},
 		{
 			"key":"EP01_S0621_0103",
-			"value":"妹は、なんていうか……小動物っぽいやつだ\n人見知りで、気弱な感じで、守ってあげたいような……"
+			"value":"My sister is...how do I put this...like a\ntiny animal. Timid, and needing protection..."
 		},
 		{
 			"key":"EP01_S0621_0104",
-			"value":"そんな女の子見なかったな～"
+			"value":"Uh, are we talking about the same girl?"
 		},
 		{
 			"key":"EP01_S0621_0105",
-			"value":"サキたちと一緒にいた『ミウ』って子とは\nイメージがだいぶ違うしな……"
+			"value":"There was a kid hanging around here named\nMiu, but she doesn’t fit the bill."
 		},
 		{
 			"key":"EP01_S0621_0106",
-			"value":"ミウ……？\n今、ミウって言ったか！？"
+			"value":"Miu...? Did you just say Miu?!"
 		},
 		{
 			"key":"EP01_S0621_0107",
-			"value":"あ、ああ、言ったけど……"
+			"value":"Uhhh yeah, I sure did..."
 		},
 		{
 			"key":"EP01_S0621_0108",
-			"value":"ミウちゃんってあの子よね？\n猫耳みたいな帽子を被った、小学生くらいの"
+			"value":"Yes, we met a girl named Miu. Maybe grade\nschool age, wearing a hat with cat ears."
 		},
 		{
 			"key":"EP01_S0621_0109",
-			"value":"ああ、そうだ\n会ったのか？"
+			"value":"Yes, that’s her! You’ve seen her?!"
 		},
 		{
 			"key":"EP01_S0621_0110",
-			"value":"え～！？　オレたちが見た子は\nもっと頭のおかしい子だったよな！？"
+			"value":"Say what?! The girl we met had a few more\nscrews loose than the girl you’re describing."
 		},
 		{
 			"key":"EP01_S0621_0111",
-			"value":"ちょ、ちょっとミノルくん、失礼よ"
+			"value":"H-hey, don't be rude, Minoru..."
 		},
 		{
 			"key":"EP01_S0621_0112",
-			"value":"いやでも、あれを人見知りとか\n守ってあげたいとかは違うだろ～！"
+			"value":"I’m just saying, I didn’t see any shrinking\nviolet who needed saving, is all!"
 		},
 		{
 			"key":"EP01_S0621_0113",
-			"value":"お前らの評価なんてどうでもいい！\nそれで？　ミウはどこに行ったんだ！？"
+			"value":"Who cares what you thought of her?! Just tell\nme, where did she go?!"
 		},
 		{
 			"key":"EP01_S0621_0114",
-			"value":"えっと……ごめんなさい\n実は私たちも人を捜している途中なの"
+			"value":"Well... I’m sorry, but we’re actually looking\nfor her ourselves."
 		},
 		{
 			"key":"EP01_S0621_0041",
-			"value":"オレたちと一緒にキャンプに来てるヤツと\nさっき神社に向かってってさ"
+			"value":"She went off to go to a shrine with some of\nthe other campers."
 		},
 		{
 			"key":"EP01_S0621_0042",
-			"value":"それで、オレたちは\nそいつらを連れ帰りに向かう所なんだ"
+			"value":"We were just going to try and bring them\nback with us."
 		},
 		{
 			"key":"EP01_S0621_0043",
-			"value":"そうか、またアイツが勝手に……\nどうもありがとう"
+			"value":"I see, so she went off on her own...\nThank you very much."
 		},
 		{
 			"key":"EP01_S0621_0079",
-			"value":"あそこには入っちゃいけないって\n言われてたのに……！"
+			"value":"And after I told her she’s not allowed to go\nin there...!"
 		},
 		{
 			"key":"EP01_S0621_0044",
-			"value":"オレはカイト……よかったら、\n君たちと同行させてくれないか？"
+			"value":"My name is Kaito. If you want, we could go\nlook for them together."
 		},
 		{
 			"key":"EP01_S0621_0045",
-			"value":"目的は一緒のようだしな、いいぜ\nそれに神社の場所を実は、オレたちよく知らないんだ"
+			"value":"Why not? We’re all after the same thing.\nPlus you know where the place is, right?"
 		},
 		{
 			"key":"EP01_S0621_0046",
-			"value":"ははっ……\nああ、だったらオレが道案内しよう"
+			"value":"Ha ha...\nSure, I’ll show you the way."
 		},
 		{
 			"key":"EP01_S0621_0047",
-			"value":"ここで生まれ育ったわけじゃないにせよ\nもう何年か住んでるからな"
+			"value":"I wasn’t raised here, but I’ve lived here for\na long time."
 		},
 		{
 			"key":"EP01_S0621_0080",
-			"value":"その神社の場所なら知っている\nまかせてくれ"
+			"value":"I know where the shrine is. Come on, follow\nme."
 		},
 		{
 			"key":"EP01_S0621_0048",
-			"value":"オレはミノル、そんで\nこっちがタクマで、こっちがアオイさん"
+			"value":"I’m Minoru, that’s Takuma, and this here is\nAoi."
 		},
 		{
 			"key":"EP01_S0621_0049",
-			"value":"僕は引率の、シュウジ\nよろしく頼むよ、カイト君"
+			"value":"And I’m the leader, Shuuji.\nNice to meet you, Kaito."
 		},
 		{
 			"key":"EP01_S0621_0050",
-			"value":"（大人びて見えたけど、どうやらカイトは\n　僕やミノルと同じ中２のようだ）"
+			"value":"(From the looks of him I thought Kaito was an\nadult, but he’s the same age as me.)"
 		},
 		{
 			"key":"EP01_S0621_0115",
-			"value":"（でも、頼りになりそうで安心した\n　カイトが案内してくれればきっとすぐに……）"
+			"value":"(I’m relieved, though. Looks like we can\ncount on him. We’ll get there in no time.)"
 		},
 		{
 			"key":"EP01_S0621_0053",
-			"value":"ん……？"
+			"value":"Hmm...?"
 		},
 		{
 			"key":"EP01_S0621_0116",
-			"value":"なあ、みんな\n今って春、だよな？"
+			"value":"Uh, say, guys. It’s spring now, right?"
 		},
 		{
 			"key":"EP01_S0621_0055",
-			"value":"決まってるだろ？\n今が春じゃなきゃ、いつが春だっていうんだよ"
+			"value":"Does a bear poop in the woods? If it’s not\nspring, then when is it?"
 		},
 		{
 			"key":"EP01_S0621_0056",
-			"value":"ならさ、北国でもないこの場所で、\n春先に雪が降るものなのかな"
+			"value":"I just figured we’re a little too far south\nfor it to snow at the start of spring..."
 		},
 		{
 			"key":"EP01_S0621_0057",
-			"value":"何を言って――"
+			"value":"What’re you—"
 		},
 		{
 			"key":"EP01_S0621_0058",
-			"value":"えっ！？"
+			"value":"Ooowuuuh?!"
 		},
 		{
 			"key":"EP01_S0621_0059",
-			"value":"本当だわ……！\n雪……！"
+			"value":"You’re right... Snow!"
 		},
 		{
 			"key":"EP01_S0621_0060",
-			"value":"季節外れの――なんて言うには、ちょっとハズレ過ぎ\nだと思うんだよな"
+			"value":"Calling this unseasonal would be a bit of an\nunderstatement."
 		},
 		{
 			"key":"EP01_S0621_0061",
-			"value":"確かに……"
+			"value":"Indeed..."
 		},
 		{
 			"key":"EP01_S0621_0062",
-			"value":"こっちじゃ先週も降ってたな\n地元じゃ異常気象だって話してた"
+			"value":"It snowed here last week, too. I heard the\nweather gets all wonky around these parts."
 		},
 		{
 			"key":"EP01_S0621_0063",
-			"value":"最近、あちこちでそんなニュースを\n見かけるよなあ……"
+			"value":"I’ve heard of similar stories in other\nplaces..."
 		},
 		{
 			"key":"EP01_S0621_0064",
-			"value":"お、おい……\nなんか、すげー吹雪いてきたんだけど"
+			"value":"Whoa, uh... Some kinda blizzard has kicked up\nhere, yeah?"
 		},
 		{
 			"key":"EP01_S0621_0065",
-			"value":"さむ……"
+			"value":"So cold..."
 		},
 		{
 			"key":"EP01_S0621_0066",
-			"value":"このままここにいては危険だな\n僕が見てくるから、みんなは先に帰ってもらえないか？"
+			"value":"It’s too dangerous to keep going. I’ll go\ntake a look, so why don’t you all go back?"
 		},
 		{
 			"key":"EP01_S0621_0067",
-			"value":"それより、すぐそこのトンネルに入りませんか？\nこれじゃ校舎へ帰り着く前に、どうにかなっちゃうかも"
+			"value":"Why don’t we duck back into that tunnel? Who\nknows what’d happen before we made it back."
 		},
 		{
 			"key":"EP01_S0621_0068",
-			"value":"確かにそうね……室内じゃないけど\nこんな場所よりはずっとマシだと思います"
+			"value":"Fair enough... It might not be indoors, but\nit’s better than staying out here."
 		},
 		{
 			"key":"EP01_S0621_0069",
-			"value":"それもそうだな……よし、みんな\nとりあえずトンネルに避難しよう"
+			"value":"That’s true... Okay, let’s retreat to the\ntunnel for now."
 		}
 	]
 }

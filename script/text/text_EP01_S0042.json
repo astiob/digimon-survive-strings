@@ -2,15 +2,15 @@
     "scenario_text": [
         {
             "key": "EP01_S0042_0001",
-            "value": "（ここにはいないな……よかった！\n　どうやらみんなは巻き込まれずに済んだのか）"
+            "value": "(They are here...what a relief! That means\nthey weren’t caught up in the landslide.)"
         },
         {
             "key": "EP01_S0042_0002",
-            "value": "（<color=#B41919>別の場所</color>も調べてみよう……）"
+            "value": "(I should check out <color=#B41919>other places</color>...)"
         },
         {
             "key": "EP01_S0042_0003",
-            "value": "別の場所を調べてみよう"
+            "value": "I’ll look somewhere else."
         }
     ]
 }

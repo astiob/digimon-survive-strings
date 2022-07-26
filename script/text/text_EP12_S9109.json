@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9109_0001",
-			"value":"次はどこ行く～？"
+			"value":"Where should we go next?"
 		},
 		{
 			"key":"EP12_S9109_0002",
-			"value":"そうだなぁ……まぁ、特に用事もないし\n教室にいてもいいんだけど……"
+			"value":"I’m not sure. We don’t really have anything\nto do, so we could go back to the classroom."
 		},
 		{
 			"key":"EP12_S9109_0003",
-			"value":"タクマ！　まだ近くにいる！？"
+			"value":"Takuma! Are you still nearby?!"
 		},
 		{
 			"key":"EP12_S9109_0004",
-			"value":"サキだね。なんか慌ててる？"
+			"value":"That was Saki. It sounded like she was upset."
 		},
 		{
 			"key":"EP12_S9109_0005",
-			"value":"何かあったんだ\n行こう、アグモン！"
+			"value":"Something must’ve happened. Let’s go, Agumon!"
 		}
 	]
 }

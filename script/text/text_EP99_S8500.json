@@ -2,91 +2,91 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S8500_0001",
-			"value":"あっ、タクマさん！\nそっちはダメ！　危ないって"
+			"value":"Wait, Takuma! Not that way! It’s dangerous!"
 		},
 		{
 			"key":"EP99_S8500_0002",
-			"value":"……ミウ？\nどうしてここに？"
+			"value":"Miu? What are you doing here?"
 		},
 		{
 			"key":"EP99_S8500_0003",
-			"value":"タクマさんの姿が見かけなかったから\nちょっと心配になって探しに来たの"
+			"value":"I didn’t know where you went, so I got\nworried and decided to look for you."
 		},
 		{
 			"key":"EP99_S8500_0004",
-			"value":"そうしたら案の定、森の中なんだもの\nウチ、びっくりしちゃった！"
+			"value":"And here you are, out in the forest like\nI thought. You really had me scared!"
 		},
 		{
 			"key":"EP99_S8500_0005",
-			"value":"そっか……でも森が危険って？\n何か変わった様子はないんだけど……"
+			"value":"Oh, sorry. But is the forest really that\ndangerous? It doesn’t look so bad."
 		},
 		{
 			"key":"EP99_S8500_0006",
-			"value":"そう見えるよね……やっぱ"
+			"value":"Right. It doesn’t look that way."
 		},
 		{
 			"key":"EP99_S8500_0007",
-			"value":"でもね、『やつら』はどこにでも\n潜んでいるって思った方がいいよ"
+			"value":"But you need to imagine that the enemy could\nbe hiding anywhere."
 		},
 		{
 			"key":"EP99_S8500_0008",
-			"value":"それでウチらは何度も不意打ちをくらって\nそのたびに必死に戦ったんだから"
+			"value":"We’ve been ambushed so many times...and each\ntime we’ve had to fight for our lives."
 		},
 		{
 			"key":"EP99_S8500_0009",
-			"value":"とにかく、一人歩きは\nなるべく避けること！　いい？"
+			"value":"Anyway, never go anywhere alone if you can\nhelp it, okay?"
 		},
 		{
 			"key":"EP99_S8500_0010",
-			"value":"…………ミウ"
+			"value":"Miu..."
 		},
 		{
 			"key":"EP99_S8500_0011",
-			"value":"ん？　どうしたの？\nぼーっとしちゃって……"
+			"value":"Takuma? What is it? You seem kind of\ndistracted."
 		},
 		{
 			"key":"EP99_S8500_0012",
-			"value":"まさかウチの顔になにかついてる？"
+			"value":"Is there something on my face?"
 		},
 		{
 			"key":"EP99_S8500_0101",
-			"value":"少し会わないうちに、ちょっと変わったよね\n大人になった"
+			"value":"You’ve changed a bit while I was gone. You’re\na bit more mature now."
 		},
 		{
 			"key":"EP99_S8500_0102",
-			"value":"えっ、ほんと？\nほんとにそう思う！？"
+			"value":"Huh, really? You really think so?!"
 		},
 		{
 			"key":"EP99_S8500_0103",
-			"value":"うん。しっかりしたなぁって……"
+			"value":"Yeah. More self-assured, I think..."
 		},
 		{
 			"key":"EP99_S8500_0104",
-			"value":"えへへ……ウチだって、タクマさんがいない間\n皆としっかり戦ってきたからね……！"
+			"value":"Eheheh... Me and the others had our fair\nshare of battles while you were gone, y’know!"
 		},
 		{
 			"key":"EP99_S8500_0105",
-			"value":"でも、ウチにそんなこと言ってくれるのは\nタクマさんだけなんだよ"
+			"value":"Still, you’re the only one who’s ever said\nsomething like that to me."
 		},
 		{
 			"key":"EP99_S8500_0106",
-			"value":"お兄ちゃんなんか、いつまで経っても\n子供扱いなんだから……！"
+			"value":"Kaito’s always gonna treat me like a child,\nanyway."
 		},
 		{
 			"key":"EP99_S8500_0107",
-			"value":"はは……カイトはしょうがないね"
+			"value":"Ha ha... Yeah, that’s Kaito all over."
 		},
 		{
 			"key":"EP99_S8500_0108",
-			"value":"ほんとだよ！"
+			"value":"You’re telling me!"
 		},
 		{
 			"key":"EP99_S8500_0109",
-			"value":"…………ところでさ、タクマさんに\nちょっと聞きたいことがあるんだよね。いい？"
+			"value":"...By the way, Takuma. Can I ask you\nsomething?"
 		},
 		{
 			"key":"EP99_S8500_0110",
-			"value":"うん？"
+			"value":"Yeah?"
 		}
 	]
 }

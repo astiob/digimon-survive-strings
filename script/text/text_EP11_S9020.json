@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9020_0001",
-			"value":"みんな……もう全員集合かな\nもしかして僕が最後……とか？"
+			"value":"...Looks like everyone’s here. Guess that\nmeans I’m the last one."
 		},
 		{
 			"key":"EP11_S9020_0002",
-			"value":"遅いぜタクマ！\n珍しいな、お前が最後なんて"
+			"value":"You’re late, Takuma!\nYou’re not usually bringing up the rear."
 		},
 		{
 			"key":"EP11_S9020_0003",
-			"value":"ごめんごめん\n準備に手間取っちゃって"
+			"value":"My bad, my bad. Preparations took longer than\nI expected."
 		},
 		{
 			"key":"EP11_S9020_0004",
-			"value":"それじゃ、これからどうするか\n決めようか"
+			"value":"All right, let’s figure out our next course\nof action."
 		},
 		{
 			"key":"EP11_S9020_0005",
-			"value":"ええ、そのことなんだけど\nシュウジ先輩に説明してもらうわね"
+			"value":"Yes, about that.\nShuuji, would you do the honors?"
 		},
 		{
 			"key":"EP11_S9020_0006",
-			"value":"この先だが、まずは東の四聖獣との接触を優先したい"
+			"value":"First, I think we should prioritize contact\nwith the Sovereign Digimon of the east."
 		},
 		{
 			"key":"EP11_S9020_0007",
-			"value":"山と森に囲まれていて、どこにいるかを\n探し出すのは困難だろうけど"
+			"value":"The mountains and forest around there will\nmake searching for it difficult."
 		},
 		{
 			"key":"EP11_S9020_0008",
-			"value":"だからこそ、時間に余裕のある今のうちに\n行っておきたいと言うのが僕とアオイの結論だ"
+			"value":"That’s why Aoi and I concluded that we should\nget started while we have the extra time."
 		},
 		{
 			"key":"EP11_S9020_0009",
-			"value":"異論なし、だな"
+			"value":"No objections here."
 		},
 		{
 			"key":"EP11_S9020_0010",
-			"value":"ただ、他にも問題がある"
+			"value":"Still, there’s another problem."
 		},
 		{
 			"key":"EP11_S9020_0011",
-			"value":"西と北の四聖獣が睨みを効かせてくれている今\n敵が自由に動ける範囲が狭くなってるはずだ"
+			"value":"Enemy movements are restricted thanks to the\nSovereign Digimon of the north and west."
 		},
 		{
 			"key":"EP11_S9020_0012",
-			"value":"だからこそ、自由に動ける所には\n大量の戦力を送り込んでもおかしくない"
+			"value":"That means they’re probably concentrating\ntheir forces in areas they CAN move in."
 		},
 		{
 			"key":"EP11_S9020_0013",
-			"value":"つまり、今まで以上の激闘が待ってる\n……ってわけだ"
+			"value":"In other words...we have even tougher battles\nwaiting up ahead."
 		},
 		{
 			"key":"EP11_S9020_0014",
-			"value":"それなら、少しでも捜索範囲を\nしぼっておきたいですね"
+			"value":"In that case, we should limit our search area\nas much as we can."
 		},
 		{
 			"key":"EP11_S9020_0015",
-			"value":"（そのためにどうすればいいかな\nヒントを持っていそうなのは……）"
+			"value":"(How are we supposed to do that?\nIf only there was some sort of clue...)"
 		},
 		{
 			"key":"EP11_S9020_Q1",
-			"value":"心当たりがありそうなのは……"
+			"value":"I bet I know who has an idea..."
 		},
 		{
 			"key":"EP11_S9020_Q1_A1",
-			"value":"教授"
+			"value":"Professor."
 		},
 		{
 			"key":"EP11_S9020_Q1_A2",
-			"value":"アグモン"
+			"value":"Agumon."
 		},
 		{
 			"key":"EP11_S9020_Q1_A3",
-			"value":"ファルコモン"
+			"value":"Falcomon."
 		},
 		{
 			"key":"EP11_S9020_0016",
-			"value":"教授は一度この世界に来てますよね？\n何かわかりませんか？"
+			"value":"You’ve been to this world before, right,\nProfessor? Any ideas?"
 		},
 		{
 			"key":"EP11_S9020_0017",
-			"value":"すまない……なにぶん、５０年前のことだ\n思い出したと言ってもほんの一部でしかない"
+			"value":"Sorry... This is fifty years ago you’re\ntalking about. I barely remember any of it."
 		},
 		{
 			"key":"EP11_S9020_0018",
-			"value":"ただ東の四聖獣といえば、青竜（チンロン）\nとなると司る五行は木気だ……"
+			"value":"The one in the east should be Qīnglóng (the\nAzure Dragon), of the wood element."
 		},
 		{
 			"key":"EP11_S9020_0019",
-			"value":"木気……"
+			"value":"The wood element..."
 		},
 		{
 			"key":"EP11_S9020_0020",
-			"value":"そう、山と森に囲まれた地なら\nそこに青竜の原型になった獣神はいるということだ"
+			"value":"Yes, there should be a Kemonogami in the land\nsurrounded by Qīnglóng’s forest."
 		},
 		{
 			"key":"EP11_S9020_0021",
-			"value":"なるほど……"
+			"value":"I see..."
 		},
 		{
 			"key":"EP11_S9020_0022",
-			"value":"対象範囲を狭める役には立たないかもしれないが\nいると確信できるだけでも気は楽になるだろう"
+			"value":"It may not help limit our search range, but\nI hope the knowledge offers some reassurance."
 		},
 		{
 			"key":"EP11_S9020_0023",
-			"value":"はい！　ありがとうございます"
+			"value":"Yeah! Thanks a lot."
 		},
 		{
 			"key":"EP11_S9020_0024",
-			"value":"（他に詳しいことを知ってそうなのは……）"
+			"value":"(You know who else might know something...)"
 		},
 		{
 			"key":"EP11_S9020_0025",
-			"value":"アグモンは何か知らない？\nこの世界が故郷なんだし、伝説とかさ"
+			"value":"Do you know any legends or anything, Agumon?\nThis world is your home after all."
 		},
 		{
 			"key":"EP11_S9020_0026",
-			"value":"ごめんよ～！　タクマ！\nそんなの心当たりもないよ！"
+			"value":"Sorry, Takuma! I really don’t know anything\nlike that!"
 		},
 		{
 			"key":"EP11_S9020_0027",
-			"value":"（そうか……他に詳しそうなのは\n誰かいるかな？）"
+			"value":"(I see... Who else might know something?)"
 		},
 		{
 			"key":"EP11_S9020_0028",
-			"value":"ファルコモン、空の上から何かを\n見かけたことはない？"
+			"value":"Say, Falcomon, have you ever seen anything\nfrom the sky?"
 		},
 		{
 			"key":"EP11_S9020_0029",
-			"value":"残念ながら……ないな\n空の上からでは、森の中はわからんしな"
+			"value":"My apologies... From above, I can’t ascertain\nanything about the forest below."
 		},
 		{
 			"key":"EP11_S9020_0030",
-			"value":"（空の上からじゃなく、実際に森の中を\n歩いたことがないとわからないのかな？）"
+			"value":"(I guess we can’t see anything in the forest\nunless we actually walk through it, huh?)"
 		},
 		{
 			"key":"EP11_S9020_0031",
-			"value":"手がかりなしで探すしかないか……"
+			"value":"Guess we have no choice but to look for clues\nin there ourselves..."
 		},
 		{
 			"key":"EP11_S9020_0032",
-			"value":"東……東……\nもしかしたら、あの場所かも……"
+			"value":"East...east...\nMaybe it’s that place..."
 		},
 		{
 			"key":"EP11_S9020_0033",
-			"value":"レナモン、何か思い当たるものがあるの？"
+			"value":"Did you think of something, Renamon?"
 		},
 		{
 			"key":"EP11_S9020_0034",
-			"value":"知っての通り、私たちは\nずっと『主』の追手から逃げていた"
+			"value":"As you know, I’ve been on the run from the\nMaster this whole time."
 		},
 		{
 			"key":"EP11_S9020_0035",
-			"value":"その過程で見てきたことが\n君たちの助けになるかもしれない"
+			"value":"Something I saw in my travels may be of some\nuse to you all."
 		},
 		{
 			"key":"EP11_S9020_0036",
-			"value":"何か心当たりがあるのかしら？"
+			"value":"You have some sort of idea?"
 		},
 		{
 			"key":"EP11_S9020_0037",
-			"value":"ピエモンやその仲間たちのねぐらの近く\n地下水道に、あいつらが危険視する場所がある"
+			"value":"There’s a place in the underground waterway\nPiedmon and his cohorts regard as dangerous."
 		},
 		{
 			"key":"EP11_S9020_0038",
-			"value":"危険視？　それは一体どうして？"
+			"value":"Dangerous? Why, exactly?"
 		},
 		{
 			"key":"EP11_S9020_0039",
-			"value":"よく仲間が消えてしまう場所がある\n……そんな話を聞いたことがある"
+			"value":"I’ve heard that many of their numbers have\nvanished in that area."
 		},
 		{
 			"key":"EP11_S9020_0040",
-			"value":"『主』に従う獣神が消える場所……\nねぇ、ひょっとして！"
+			"value":"A place where the Master’s Kemonogami\ndisappear... Wait, could that mean—?!"
 		},
 		{
 			"key":"EP11_S9020_0041",
-			"value":"うん！　もしかしたらそこに\n東の四聖獣はいるのかもしれない"
+			"value":"Yeah! The Sovereign Digimon of the east might\nbe in there."
 		},
 		{
 			"key":"EP11_S9020_0042",
-			"value":"その説が正解なら……\nオレたちは敵のど真ん中に行くわけだ"
+			"value":"If that theory’s correct...we’ve gotta dive\ninto the belly of the beast."
 		},
 		{
 			"key":"EP11_S9020_0043",
-			"value":"間違いなく、『主』の部下たちがいるぜ？"
+			"value":"You better believe the Master’s minions will\nbe there."
 		},
 		{
 			"key":"EP11_S9020_0044",
-			"value":"それでも、行こう\nこんなことで、僕たちは怯えてなんかいられない"
+			"value":"Still, we should go. We can’t let something\nlike that stop us."
 		},
 		{
 			"key":"EP11_S9020_0045",
-			"value":"おうよ！　今更、敵のど真ん中に\n行くくらい、なんともないぜ！"
+			"value":"Yeah! After everything we’ve been through,\nheading straight at our enemies is nothing!"
 		},
 		{
 			"key":"EP11_S9020_0046",
-			"value":"（指針は決まった。恐怖はあるけど\n僕たちは確かな一歩を踏み出すことにした）"
+			"value":"(Our course is set. It’s a bit scary, but\nwe’ve taken our first steps forward.)"
 		}
 	]
 }

@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4026_0001",
-			"value":"おい、大丈夫か！？"
+			"value":"Hey, are you okay?!"
 		},
 		{
 			"key":"EP09_S4026_0002",
-			"value":"う、うぅ……"
+			"value":"Arrrgh..."
 		},
 		{
 			"key":"EP09_S4026_0003",
-			"value":"意識はあるようだ。よかった\nだが、あちこち怪我しているようだが……"
+			"value":"Looks like she’s still conscious. That’s\ngood, but she’s wounded from head to toe..."
 		},
 		{
 			"key":"EP09_S4026_0004",
-			"value":"ケガしてるけど、そこまで重くなさそう\n大丈夫？　逃げられる？"
+			"value":"He’s hurt, but it don’t look too bad. You\ngood? Can you get outta here?"
 		},
 		{
 			"key":"EP09_S4026_0005",
-			"value":"このくらい、平気だ……\nうぐっ！"
+			"value":"Shouldn’t be a proble—urk!"
 		},
 		{
 			"key":"EP09_S4026_0006",
-			"value":"無理しないでね\nこれあげる、ただのハンカチだけど……"
+			"value":"Don’t push yourself. Here, take this. It’s\njust a hanky, but..."
 		},
 		{
 			"key":"EP09_S4026_0007",
-			"value":"痛いところ、ぎゅーって押さえて\n傷が開かないように"
+			"value":"I’ll make a tourniquet around the wound so it\nwon’t open."
 		},
 		{
 			"key":"EP09_S4026_0008",
-			"value":"助かった、ありがとう……"
+			"value":"Thanks, this is a big help..."
 		},
 		{
 			"key":"EP09_S4026_0009",
-			"value":"礼だ……受け取ってくれ"
+			"value":"Here... Take this."
 		},
 		{
 			"key":"EP09_S4026_0010",
-			"value":"ありがとな！"
+			"value":"Oh gee, thanks!"
 		},
 		{
 			"key":"EP09_S4026_0011",
-			"value":"怪我した子を集めてるんだ\n君も一緒に来てくれ"
+			"value":"We’re gathering up all the injured. You\nshould come with me."
 		},
 		{
 			"key":"EP09_S4026_0012",
-			"value":"ああ、わかった"
+			"value":"Okay, got it."
 		},
 		{
 			"key":"EP09_S4026_0013",
-			"value":"ジジモンや他のみんなは無事だろうか……"
+			"value":"I hope Jijimon and the others are okay..."
 		}
 	]
 }

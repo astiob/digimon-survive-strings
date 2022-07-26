@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1110_0001",
-			"value":"あれ……？\nファルコモン？　あれれー？"
+			"value":"Huh...? Falcomon, where..."
 		},
 		{
 			"key":"EP03_S1110_0002",
-			"value":"ミノル、どうしたんだ？"
+			"value":"Minoru? What’s wrong?"
 		},
 		{
 			"key":"EP03_S1110_0003",
-			"value":"ああ、さっきまで一緒にいたのにさ\n今、気がついたらファルコモンいねーし"
+			"value":"We were together just a second ago, but now\nFalcomon’s gone."
 		},
 		{
 			"key":"EP03_S1110_0004",
-			"value":"どこ行ったのかな……\nトイレ？"
+			"value":"Where’d he go? To the bathroom?"
 		},
 		{
 			"key":"EP03_S1110_0005",
-			"value":"まあアグモンならともかく、ファルコモンなら\nそういうの一言断り入れてから行くよな……"
+			"value":"Agumon might run off without saying anything,\nbut Falcomon would let you know, right?"
 		},
 		{
 			"key":"EP03_S1110_0006",
-			"value":"だよなぁ"
+			"value":"He sure would."
 		},
 		{
 			"key":"EP03_S1110_0007",
-			"value":"まぁ、アイツの事だから心配はしてないけどな"
+			"value":"Still, this is Falcomon we’re talking about.\nI’m not worried."
 		},
 		{
 			"key":"EP03_S1110_0008",
-			"value":"オレ、ここでしばらくファルコモンを待つわ\nま、すぐ戻ってくるだろ"
+			"value":"I think I’ll wait here for Falcomon. I’m sure\nhe’ll be back in no time."
 		}
 	]
 }

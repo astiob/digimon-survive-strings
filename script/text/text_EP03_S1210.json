@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1210_0001",
-			"value":"……見間違い……な、ワケはねぇよなぁ？\nじゃ、じゃあ……やっぱり……"
+			"value":"Was I seeing things? No...that can’t be it.\nThen we’re actually..."
 		},
 		{
 			"key":"EP03_S1210_0002",
-			"value":"おい、どうしたんだリョウ？"
+			"value":"Ryo...? What’s up?"
 		},
 		{
 			"key":"EP03_S1210_0003",
-			"value":"う、うるせーな……\nアッチ行ってろよぉ……"
+			"value":"Shut up... Get lost, would you?"
 		},
 		{
 			"key":"EP03_S1210_0004",
-			"value":"お、今度はちゃんとしゃべれるな～！"
+			"value":"Hey, that was an actual response!"
 		},
 		{
 			"key":"EP03_S1210_0005",
-			"value":"キュキュゥ！"
+			"value":"Kewkew!"
 		},
 		{
 			"key":"EP03_S1210_0006",
-			"value":"もう大丈夫か？"
+			"value":"Are you feeling better now?"
 		},
 		{
 			"key":"EP03_S1210_0007",
-			"value":"な、何が大丈夫だよ……オレがど、ど\nどうかしてるみてーじゃねぇかよ……"
+			"value":"Whaddya mean, better? You act like...like\nthere’s something wrong with me!"
 		},
 		{
 			"key":"EP03_S1210_0008",
-			"value":"ああ……まぁ、そうだな\nどうかしてるって意味じゃ僕もだよ"
+			"value":"Uh... well, look, in a way, I feel like\nthere’s something wrong with me, too."
 		},
 		{
 			"key":"EP03_S1210_0009",
-			"value":"いや、僕たちみんながそうか……"
+			"value":"I think you could say that about all of us."
 		},
 		{
 			"key":"EP03_S1210_0010",
-			"value":"よ、用がないならあっち……行けよ……"
+			"value":"Hey, if you got nothin’ to say, get lost."
 		},
 		{
 			"key":"EP03_S1210_0011",
-			"value":"（うーん、おかしくなっちゃったかと思えば\n　普通に話もできる……）"
+			"value":"(I thought he’d lost it earlier, but now he’s\ntalking with me just fine.)"
 		},
 		{
 			"key":"EP03_S1210_0012",
-			"value":"（リョウは今、どういう状態なんだろう？）"
+			"value":"(What kind of state is he in right now?)"
 		},
 		{
 			"key":"EP03_S1210_Q1",
-			"value":"（何か質問すればわかるかな？）"
+			"value":"(Maybe if I ask the right questions, I can find out.)"
 		},
 		{
 			"key":"EP03_S1210_Q1_A1",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1210_Q1_A2",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1210_Q1_A3",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S1210_Q1_A4",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1210_0013",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1210_0014",
-			"value":"実際……今、僕たちの身に\n何が起こっているんだろうな？"
+			"value":"So, what do you think’s actually going on\nright now?"
 		},
 		{
 			"key":"EP03_S1210_0015",
-			"value":"……うるせえ。何が起きよーがよ\nどうせ、どうにもならねーんだ"
+			"value":"...Shut up. Whatever’s happening, it doesn’t\nmatter."
 		},
 		{
 			"key":"EP03_S1210_0016",
-			"value":"（会話はできるけど、ヤケになってるのは相変わらずか）"
+			"value":"(Well, he may be talking, but I see he’s as\nprickly as ever.)"
 		},
 		{
 			"key":"EP03_S1210_0017",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1210_0018",
-			"value":"じゃあ、僕たちはこれからどう行動したらいいのかな？"
+			"value":"Okay, what do you think we should do next?"
 		},
 		{
 			"key":"EP03_S1210_0019",
-			"value":"だから、どうもこうもねえだろ……\n何をしたって、どうせみんな死ぬんだ……"
+			"value":"I’m telling you, who cares? Whatever we do,\nwe’re just gonna die..."
 		},
 		{
 			"key":"EP03_S1210_0020",
-			"value":"少なくとも僕は、ここで死ぬつもりは一切ないよ"
+			"value":"Well, I can only speak for myself, but I’m\nnot planning on dying here."
 		},
 		{
 			"key":"EP03_S1210_0021",
-			"value":"そりゃあ誰だっていつかは死ぬけどさ\nお爺ちゃんお婆ちゃんになるまで、まだうんと先だよ"
+			"value":"Sure, we’ll all die some day, but that’s way\nin the future, when we’re old men and women."
 		},
 		{
 			"key":"EP03_S1210_0022",
-			"value":"そーゆー話してんじゃねェよぉ！\n畜生、このやろぉ……！"
+			"value":"That’s not what I’m talking about! Argh, you\nidiot!"
 		},
 		{
 			"key":"EP03_S1210_0023",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S1210_0024",
-			"value":"うるせえ。何を言ったって、どうせもう……\nうぅっ、くううぅぅ……！"
+			"value":"Shut up! It doesn’t matter what you say...\nUrrrgh... Argh!"
 		},
 		{
 			"key":"EP03_S1210_0025",
-			"value":"（リョウの今の心境も、わからなくはない……）"
+			"value":"(I can certainly understand how Ryo feels\nright now.)"
 		},
 		{
 			"key":"EP03_S1210_0026",
-			"value":"（不安で不安で仕方ないんだよな……\n　周りも子供ばっかで、誰も頼れない……）"
+			"value":"(He must be worried sick, and we’re all just\nkids. There’s nobody for him to rely on.)"
 		},
 		{
 			"key":"EP03_S1210_0027",
-			"value":"（唯一の年上のシュウジさんも\n　まぁ、頼れるタイプじゃないしな……）"
+			"value":"(Shuuji’s the only one here older than Ryo,\nand he doesn’t exactly inspire confidence.)"
 		},
 		{
 			"key":"EP03_S1210_0028",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1210_0029",
-			"value":"と、とにかくよォ……おめーはバカでガキだから\n何もわかっちゃいねーようだろうけどよぉ……"
+			"value":"Look, you’re just a stupid brat, so you\nprobably don’t get it, but..."
 		},
 		{
 			"key":"EP03_S1210_0030",
-			"value":"今のオレたちの状況ってのは、もうな……\nくそっ……ああ、くそぉっ……！！"
+			"value":"Our situation... Our situation is... Damn it!\nArgh, we’re so screwed!"
 		},
 		{
 			"key":"EP03_S1210_0031",
-			"value":"ブツブツブツ……そうだ……きっとそうだ\nここはブツブツ……そう……死後の※※なんだ……"
+			"value":"*mumble* *mumble* Yeah, that’s it... This has\nto be... *mumble* The afterlife..."
 		},
 		{
 			"key":"EP03_S1210_0032",
-			"value":"（あっ、また僕に目を合わせなくなった……\n　また自分の世界に戻っちゃった……参ったな）"
+			"value":"(He’s not looking at me anymore. Guess he’s\nback in his own world... Ugh.)"
 		},
 		{
 			"key":"EP03_S1210_Q2",
-			"value":"（他に何か聞きたいことはあるかな？）"
+			"value":"(Was there anything else I wanted to ask?)"
 		},
 		{
 			"key":"EP03_S1210_Q2_A1",
-			"value":"聞きたいことはもうない"
+			"value":"That’s all."
 		},
 		{
 			"key":"EP03_S1210_Q2_A2",
-			"value":"まだあると思う"
+			"value":"There’s more."
 		},
 		{
 			"key":"EP03_S1210_0033",
-			"value":"（うぅん……まぁ、なんとか話もできるし\n　大丈夫、だよな？）"
+			"value":"(Well, at least I got to talk with him...\nHe’ll be okay...right?)"
 		},
 		{
 			"key":"EP03_S1210_0034",
-			"value":"リョウ、本当に大丈夫か～？　心配だ～……"
+			"value":"Is Ryo really all right? I’m worried."
 		},
 		{
 			"key":"EP03_S1210_0035",
-			"value":"キュゥ……キュ……"
+			"value":"Kewww...kew..."
 		},
 		{
 			"key":"EP03_S1210_0036",
-			"value":"わかってるけど……どうすればいいのか\n僕にもわからないよ"
+			"value":"I know how you feel, but...I’m not sure what\nto do either."
 		},
 		{
 			"key":"EP03_S1210_0037",
-			"value":"そうだ、そうだ見間違いじゃない\nじゃあきっとアイツらもやっぱ幽霊で……"
+			"value":"That’s it. It must be. I wasn’t seeing\nthings. They had to be ghosts..."
 		},
 		{
 			"key":"EP03_S1210_0038",
-			"value":"そう、そうだ、きっとオレたちも……\nぶつぶつぶつ……くうぅ……うぎぃぃぃ……！"
+			"value":"Yes, and that must mean we’re ghosts too...\n*mumble* *mumble* Ungh...gahhh!"
 		},
 		{
 			"key":"EP03_S1210_0039",
-			"value":"（どうしたもんかなぁ、リョウ……\n　このまま放っとくわけにもいかないし……）"
+			"value":"(What should we do with Ryo...? I can’t just\nleave him like this...)"
 		},
 		{
 			"key":"EP03_S1210_0040",
-			"value":"ひ、ひひひ……そうだ、それなら\nママに会える……会えるんだ……"
+			"value":"Heh, heheheh... And if that’s true, I can see\nher... I can see Mommy..."
 		}
 	]
 }

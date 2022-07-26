@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0633_0003",
-			"value":"なんだこれは！"
+			"value":"What the heck?!"
 		},
 		{
 			"key":"EP01_S0633_0004",
-			"value":"あれ？　いない？　でも、確かにカメラには映ったぞ"
+			"value":"Huh? Nothing’s here? But the camera\ndefinitely picked up something."
 		},
 		{
 			"key":"EP01_S0633_0101",
-			"value":"ん？　あれって……？"
+			"value":"Hmm? What’s this....?"
 		},
 		{
 			"key":"EP01_S0633_0102",
-			"value":"どうした、ミノル？"
+			"value":"What is it, Minoru?"
 		},
 		{
 			"key":"EP01_S0633_0005",
-			"value":"おーい、みんな！\nこっちに変なものがあるぜ！"
+			"value":"Heyyy, you guuuys! There’s a weird thingy\nover here!"
 		},
 		{
 			"key":"EP01_S0633_0103",
-			"value":"変な物？"
+			"value":"Weird thingy?"
 		},
 		{
 			"key":"EP01_S0633_0104",
-			"value":"一体何を見つけたのかしら……"
+			"value":"Who knows what that could mean..."
 		},
 		{
 			"key":"EP01_S0633_0105",
-			"value":"こ、こらっ！\n勝手に行くんじゃない！"
+			"value":"Wha—hey! Don’t just go off on your own!"
 		},
 		{
 			"key":"EP01_S0633_0006",
-			"value":"くぅっ……仕方ない、みんな行こう！"
+			"value":"Grrr... Fine, we’ll all go together!"
 		}
 	]
 }

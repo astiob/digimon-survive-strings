@@ -2,251 +2,251 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0012_0001",
-			"value":"あっ、おはようカイト、ドラクモン"
+			"value":"Oh, good morning, Kaito, Dracmon."
 		},
 		{
 			"key":"EP04_S0012_0002",
-			"value":"チッ……やっと起きてきやがったか"
+			"value":"Hmph! Finally up, are you?"
 		},
 		{
 			"key":"EP04_S0012_0003",
-			"value":"（うわ、かなり怒ってるみたいだな\n　もしかして、僕が起きるのをずっと待ってたのかな）"
+			"value":"(Wow, he seems pretty mad. Has he been\nwaiting for me to wake up this whole time?)"
 		},
 		{
 			"key":"EP04_S0012_0004",
-			"value":"遅くなって、ゴメン\n昨日は、なかなか寝付けなくて"
+			"value":"Sorry I woke up so late. I had a hard time\ngetting to sleep."
 		},
 		{
 			"key":"EP04_S0012_0005",
-			"value":"相当疲れてたんだろ\n仕方ねーよ"
+			"value":"Yeah, whatever. I’m sure you were exhausted."
 		},
 		{
 			"key":"EP04_S0012_0006",
-			"value":"ところで、ほかのみんなは？"
+			"value":"So, where’s everybody else?"
 		},
 		{
 			"key":"EP04_S0012_0007",
-			"value":"知るかよ……！\n誰も来やしねえ"
+			"value":"How should I know? You’re the only one who’s\nshown up."
 		},
 		{
 			"key":"EP04_S0012_0008",
-			"value":"えっ、そうなのか？\nみんなとっくに集まってると思ってたのに"
+			"value":"Wait, really? I thought for sure they’d have\nall been here by now."
 		},
 		{
 			"key":"EP04_S0012_0009",
-			"value":"でも……じゃあ、みんなどこに？"
+			"value":"Where is everybody?"
 		},
 		{
 			"key":"EP04_S0012_0010",
-			"value":"あっちこっち行ったみてーだぞ\n暗い顔してよ"
+			"value":"All over the place, apparently, and lookin’\npretty upset."
 		},
 		{
 			"key":"EP04_S0012_0011",
-			"value":"おめーらの仲間が霧に飲まれそうになった時\n触手みてえなもんが出てきたろ？"
+			"value":"You saw that tentacle thing come out of the\nfog when you nearly lost your friend, right?"
 		},
 		{
 			"key":"EP04_S0012_0012",
-			"value":"みんなアレにビビっちまってんのさ\nムリもねーけどよ"
+			"value":"They’re all terrified of that thing, and\nbelieve me, I can see why."
 		},
 		{
 			"key":"EP04_S0012_0013",
-			"value":"（そっか……みんなも僕と同じように\n　考えてたんだな）"
+			"value":"(Oh. I guess they were all thinking along the\nsame lines as me, then.)"
 		},
 		{
 			"key":"EP04_S0012_0014",
-			"value":"（本当に、アレは怖かったしな……）"
+			"value":"(And yeah, that thing was really scary.)"
 		},
 		{
 			"key":"EP04_S0012_0015",
-			"value":"けっ、情けねえ。仲間の命救ったんだから\nそれでいいじゃねえか"
+			"value":"Heh, pathetic. You got your friend out.\nIsn’t that all that matters?"
 		},
 		{
 			"key":"EP04_S0012_0016",
-			"value":"でも、霧からあんな正体不明のバケモノが出るなんて\n怖がるのも仕方ないんじゃないか？"
+			"value":"Sure, but can you really blame them for\ngetting scared of that monster in the mist?"
 		},
 		{
 			"key":"EP04_S0012_0017",
-			"value":"なら一番危ねえのは\n一人ぼっちのミウじゃねえか！"
+			"value":"No, but that just means Miu is in the most\ndanger, all by herself!"
 		},
 		{
 			"key":"EP04_S0012_0018",
-			"value":"目の前で、てめーらの仲間が1人\n霧に食われてやられちまったんだ"
+			"value":"They did see that friend of yours get taken\ninto the fog right in front of them."
 		},
 		{
 			"key":"EP04_S0012_0019",
-			"value":"おめーと同じで\nみんな思うところがあるんだろ"
+			"value":"I’m sure that’s bothering all of them as much\nas it is you."
 		},
 		{
 			"key":"EP04_S0012_0020",
-			"value":"（そっか……そうだよな\n　リョウのことがショックだったのは僕だけじゃない）"
+			"value":"(That’s a good point. Ryo’s death didn’t just\ncome as a shock to me.)"
 		},
 		{
 			"key":"EP04_S0012_0021",
-			"value":"（みんなも同じなんだよな\n　そう思うと……）"
+			"value":"(It has to be on everyone’s mind. They’ll\nneed to process what happened.)"
 		},
 		{
 			"key":"EP04_S0012_0022",
-			"value":"みんなのこと\n少し、そっとしておいたほうがいいのかな"
+			"value":"We should probably give them some time."
 		},
 		{
 			"key":"EP04_S0012_0023",
-			"value":"何言ってんだ！　今は一刻も早く\nミウを助けに行かなきゃなんねーんだぞ！"
+			"value":"But we don’t have any time to give! We need\nto get out there and save Miu!"
 		},
 		{
 			"key":"EP04_S0012_0024",
-			"value":"それはもちろんそうだけど……\n正体不明の霧のこともあるし、みんな不安なんだよ"
+			"value":"True, but with that strange fog, everyone’s\nnervous."
 		},
 		{
 			"key":"EP04_S0012_0025",
-			"value":"だからこそ、早く助けに行かなきゃ\nヤベーんだろ！"
+			"value":"All the more reason we should move fast!\nMiu’s in trouble!"
 		},
 		{
 			"key":"EP04_S0012_0026",
-			"value":"霧のことだけじゃねえ\nバケモノがミウを狙ってるんだ……！"
+			"value":"And it’s not just the fog. There are monsters\nafter her!"
 		},
 		{
 			"key":"EP04_S0012_0027",
-			"value":"（そうだ……あのアルケニモンとかいう強いやつ\n　『贄』がどうとか言ってたっけ）"
+			"value":"(That’s right... Arukenimon, that spider\nmonster, said something about a sacrifice.)"
 		},
 		{
 			"key":"EP04_S0012_0028",
-			"value":"（もし、あんなのが他にもたくさんいたら……）"
+			"value":"(She was really strong, too. If there are\nlots of other things like her out there...)"
 		},
 		{
 			"key":"EP04_S0012_0029",
-			"value":"ああ、クソッ……！"
+			"value":"Damn it, this is why I wanted to find Miu\nyesterday!"
 		},
 		{
 			"key":"EP04_S0012_0030",
-			"value":"こんなことなら、何としてでも\n昨日のうちにミウを見つけておくんだった"
+			"value":"I should never have let you talk me out of\nit!"
 		},
 		{
 			"key":"EP04_S0012_0031",
-			"value":"いや、そもそも、オレが\nミウから目を離してさえいなけりゃ……！"
+			"value":"No, I never should’ve taken my eyes off her\nin the first place!"
 		},
 		{
 			"key":"EP04_S0012_0032",
-			"value":"カイト、ちょっと落ち着けよ"
+			"value":"Kaito, calm down."
 		},
 		{
 			"key":"EP04_S0012_0033",
-			"value":"タクマの言う通りだぜ"
+			"value":"Yes, listen to Takuma."
 		},
 		{
 			"key":"EP04_S0012_0034",
-			"value":"うるせえ！　これが落ち着いていられるか！\n妹の命がかかってんだ！"
+			"value":"Shut up! Don’t you tell me to calm down!\nMy sister’s life is on the line!"
 		},
 		{
 			"key":"EP04_S0012_0035",
-			"value":"そんなこと、言われなくてもわかってんだよ\nけどな、1人でイライラしても仕方ねーだろ"
+			"value":"Hey, it’s not like I forgot. But you gettin’\nmad isn’t gonna help anything."
 		},
 		{
 			"key":"EP04_S0012_0036",
-			"value":"もういい！　議論してる時間も\nこねーやつらを待ってる時間も無駄だ！"
+			"value":"No, you know what’s not gonna help? Arguing\nwhile waiting for help that’s not coming!"
 		},
 		{
 			"key":"EP04_S0012_0037",
-			"value":"オレは1人でミウを捜しに行く"
+			"value":"I’m gonna go look for Miu on my own."
 		},
 		{
 			"key":"EP04_S0012_0038",
-			"value":"ま、待ちなって！"
+			"value":"Kaito, wait!"
 		},
 		{
 			"key":"EP04_S0012_0039",
-			"value":"単独行動は危険すぎる\n行くなら、全員で行くべきだよ"
+			"value":"It’s too dangerous for you to go by yourself!\nWe all need to stick together."
 		},
 		{
 			"key":"EP04_S0012_0040",
-			"value":"同感だ"
+			"value":"I agree."
 		},
 		{
 			"key":"EP04_S0012_0041",
-			"value":"おめーを、危険な目になんて\n遭わせられないからな"
+			"value":"I don’t want you putting yourself in danger."
 		},
 		{
 			"key":"EP04_S0012_0042",
-			"value":"……！"
+			"value":"Dracmon..."
 		},
 		{
 			"key":"EP04_S0012_0043",
-			"value":"わかったよ……"
+			"value":"All right, fine."
 		},
 		{
 			"key":"EP04_S0012_0044",
-			"value":"（よかった、わかってくれたみたいだ）"
+			"value":"(That’s a relief. We managed to get through\nto him for once.)"
 		},
 		{
 			"key":"EP04_S0012_0045",
-			"value":"けど、待つのは昼までだ\nそれ以上は、待てねえ"
+			"value":"But I’m only waiting around until noon. After\nthat, I’m going."
 		},
 		{
 			"key":"EP04_S0012_0046",
-			"value":"えっ？"
+			"value":"What?"
 		},
 		{
 			"key":"EP04_S0012_0047",
-			"value":"昼まで待って、誰も来なかったら\nその時は、誰が何と言おうとミウを捜しに行く"
+			"value":"I’ll wait here ‘til noon. Then I’m looking\nfor Miu, no matter what anyone says."
 		},
 		{
 			"key":"EP04_S0012_0048",
-			"value":"オレ１人でな"
+			"value":"I’ll go alone if I have to."
 		},
 		{
 			"key":"EP04_S0012_0049",
-			"value":"ったく……バカやろーが\nその時は俺も一緒に決まってんだろ"
+			"value":"Man, you can be such an idiot sometimes. You\nknow I’ll be with you if it comes to that."
 		},
 		{
 			"key":"EP04_S0012_0050",
-			"value":"はあ？　誰がバカだ、誰が"
+			"value":"Hey, who’re you callin’ an idiot?"
 		},
 		{
 			"key":"EP04_S0012_0051",
-			"value":"おめー以外に誰がいるんだよ"
+			"value":"You, obviously. Who else would I be talking\nabout?"
 		},
 		{
 			"key":"EP04_S0012_0052",
-			"value":"どうせ、本当は誰も巻き込みたくないとか\nよけーなこと考えてんだろうけどな"
+			"value":"You’ve probably got some stupid idea about\nnot putting anyone else in danger, don’t you?"
 		},
 		{
 			"key":"EP04_S0012_0053",
-			"value":"１人で突っ走ろうとすんじゃねー\n何のために俺がいると思ってんだ"
+			"value":"Quit trying to do everything by yourself.\nWhat do you think I’m here for?"
 		},
 		{
 			"key":"EP04_S0012_0054",
-			"value":"そうかよ……\nそりゃ、悪かったな"
+			"value":"You...really feel that way? All right, sorry\nabout that."
 		},
 		{
 			"key":"EP04_S0012_0055",
-			"value":"（ドラクモンは、本当にカイトが心配なんだな）"
+			"value":"(Dracmon seems genuinely concerned for\nKaito.)"
 		},
 		{
 			"key":"EP04_S0012_0056",
-			"value":"（カイトもカイトで、なんだかんだ\n　ドラクモンの話をちゃんと聞いてるし）"
+			"value":"(And Kaito does actually seem to listen to\nDracmon, in his own way.)"
 		},
 		{
 			"key":"EP04_S0012_0057",
-			"value":"（なんだかんだ言って\n　この２人は、仲がいいってことなのかな）"
+			"value":"(It might not look like it, but I think those\ntwo are actually pretty close.)"
 		},
 		{
 			"key":"EP04_S0012_0058",
-			"value":"つーわけで、タクマ\nみんなを頼むぞ"
+			"value":"So, Takuma, I guess this means you’d better\nround everyone up."
 		},
 		{
 			"key":"EP04_S0012_0059",
-			"value":"昼までは、カイトが勝手に出ていかねーように\n俺がちゃんと見張ってるから"
+			"value":"I’ll need to keep an eye on Kaito to make\nsure he doesn’t take off early."
 		},
 		{
 			"key":"EP04_S0012_0060",
-			"value":"わかった！\nみんなを呼んでくる"
+			"value":"Got it. I’ll go get the others."
 		},
 		{
 			"key":"EP04_S0012_0061",
-			"value":"（ええと、昼までだから……）"
+			"value":"(Let’s see, if I’ve got until noon...)"
 		},
 		{
 			"key":"EP04_S0012_0062",
-			"value":"（しまった！　あんまり時間がないぞ！？\n　急いでみんなを集めなきゃ！）"
+			"value":"(Oh no! That’s hardly any time! I need to get\neveryone here quick!)"
 		}
 	]
 }

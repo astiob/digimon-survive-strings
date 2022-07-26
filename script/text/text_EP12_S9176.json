@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9176_0001",
-			"value":"うわっ！"
+			"value":"Eek!"
 		},
 		{
 			"key":"EP12_S9176_0002",
-			"value":"……ふ、ふぅ～、音が出ただけか\nビックリさせるなぁ、もう……"
+			"value":"Phew... It was just some noise. Why does\neverything have to be so scary?"
 		},
 		{
 			"key":"EP12_S9176_0003",
-			"value":"……あれ？　なんで扉が、閉まってるんだ？\nだ、誰か、入ってる……のか？"
+			"value":"Wait, why is this door closed? Is...is\nsomeone in there?"
 		},
 		{
 			"key":"EP12_S9176_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP12_S9176_0005",
-			"value":"（こ、これ以上考えるのはやめよう！）"
+			"value":"(I...I think I’m just going to forget it.)"
 		}
 	]
 }

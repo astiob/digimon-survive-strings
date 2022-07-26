@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0310_0001",
-			"value":"やった、日没までに帰って来れた！"
+			"value":"Great, we made it back before sunset!"
 		},
 		{
 			"key":"EP01_S0310_0002",
-			"value":"ここがタクマたちのガッコウ……？"
+			"value":"This is your uh, “skewl,” Takuma?"
 		},
 		{
 			"key":"EP01_S0310_0003",
-			"value":"いや、通ってる学校はここじゃないよ\n僕らは課外学習の宿泊施設として使ってるだけだけど……"
+			"value":"Not exactly. I go to a different school. This\nis just the one we’re staying in for camp."
 		},
 		{
 			"key":"EP01_S0310_0036",
-			"value":"学校は学校か……"
+			"value":"Still, I guess a school is a school..."
 		},
 		{
 			"key":"EP01_S0310_0004",
-			"value":"タクマ、ガッコウってなんだ？？"
+			"value":"But what IS a “skewl,” Takuma?"
 		},
 		{
 			"key":"EP01_S0310_0101",
-			"value":"（え？　学校とは何か？）"
+			"value":"(Oh, uh... What IS a school, anyway?)"
 		},
 		{
 			"key":"EP01_S0310_0102",
-			"value":"（そんなこと聞かれても……\n　僕だって考えたこともなかったし）"
+			"value":"(I’ve never really thought about it...\nI’m not sure how to answer.)"
 		},
 		{
 			"key":"EP01_S0310_0103",
-			"value":"（先生とかが言いそうなことを言えばいいのかな？\n　いや、自分の正直な気持ちを言えば……）"
+			"value":"(Maybe with something a teacher would say?\nNo, no, I should say my real feelings...)"
 		},
 		{
 			"key":"EP01_S0310_0104",
-			"value":"（いやいや！　そもそも今は\n　そんなことしてる場合じゃないって）"
+			"value":"(Ah, but now’s not the time for this anyway!)"
 		},
 		{
 			"key":"EP01_S0310_Q1",
-			"value":"（アグモンが質問しているけど……どうしよう？）"
+			"value":"(How do I answer Agumon’s question?)"
 		},
 		{
 			"key":"EP01_S0310_Q1_A1",
-			"value":"今は治療が先だ"
+			"value":"Focus on first-aid."
 		},
 		{
 			"key":"EP01_S0310_Q1_A2",
-			"value":"適当に答えてしまおう"
+			"value":"Answer vaguely."
 		},
 		{
 			"key":"EP01_S0310_Q1_A3",
-			"value":"ちゃんと答えておくか"
+			"value":"Answer directly."
 		},
 		{
 			"key":"EP01_S0310_0105",
-			"value":"そういう説明は後だ\nいまは治療しないと……"
+			"value":"I’ll explain that another time.\nWe need to find first-aid."
 		},
 		{
 			"key":"EP01_S0310_0106",
-			"value":"そうだった！　ラブラモ～ン、大丈夫か～？"
+			"value":"Oh yeah! How’re ya holding up, Labramon?"
 		},
 		{
 			"key":"EP01_S0310_0107",
-			"value":"大丈夫よ！　これくらいどうってことないわ！"
+			"value":"I’m fine! This is nothing!"
 		},
 		{
 			"key":"EP01_S0310_0108",
-			"value":"（ラブラモンはああ言ってるけど、やっぱり心配だ\n　早く治療してあげないと）"
+			"value":"(She may say that, but I’m still worried. We\nneed to treat her soon.)"
 		},
 		{
 			"key":"EP01_S0310_0109",
-			"value":"えっと、子供が大人になるための場所、かな"
+			"value":"A school is a place for kids to become\nadults, I guess."
 		},
 		{
 			"key":"EP01_S0310_0110",
-			"value":"勉強だけじゃなくて、生き方とか人との付き合い方とか\n大事なことを身につけるところ……だと思う"
+			"value":"You study, sure, but you learn about life,\nfriendships...all the important stuff."
 		},
 		{
 			"key":"EP01_S0310_0111",
-			"value":"そっか～！\nじゃあ、困ったらガッコウに来れば安心だな！"
+			"value":"Uh huh! So “skewl” is a good place to go if\nyou have any problems!"
 		},
 		{
 			"key":"EP01_S0310_0112",
-			"value":"ああ……きっと、そうだ"
+			"value":"Yeah, you hit the nail on the head."
 		},
 		{
 			"key":"EP01_S0310_0113",
-			"value":"勉強するところだ。授業を受けて、\nテストを受けたりするんだよ"
+			"value":"We go there to study, go to class, take\ntests, the whole shebang."
 		},
 		{
 			"key":"EP01_S0310_0114",
-			"value":"ジュギョー？　テスト？\nん～？　なんだそれ～？"
+			"value":"“Klas”? “Tess”? “She-bang”? What the heck is\nall that?!"
 		},
 		{
 			"key":"EP01_S0310_0115",
-			"value":"あー、はいはい\n詳しいことは後で話してやるからな"
+			"value":"Yes, yes, I’ll give you a rundown on all of\nit later, okay?"
 		},
 		{
 			"key":"EP01_S0310_0116",
-			"value":"それより今はラブラモンを治療してやらなきゃ\n早く中に入ろう"
+			"value":"Right now we’d better take care of Labramon.\nLet’s head on inside."
 		},
 		{
 			"key":"EP01_S0310_0006",
-			"value":"でも、……あれっ？\nどういう事だ？　誰もいないぞ？"
+			"value":"...Wait, what? No one’s here."
 		},
 		{
 			"key":"EP01_S0310_0007",
-			"value":"いや、いないどころか……\n様子、おかしくねーか！？"
+			"value":"And that’s not even the weirdest part...\nWould ya just look at this place!"
 		},
 		{
 			"key":"EP01_S0310_0008",
-			"value":"ホントだ……\nなんでこんな……ボロボロに！？"
+			"value":"Yeah... Why is everything all so messed up?!"
 		},
 		{
 			"key":"EP01_S0310_0117",
-			"value":"もしかして、オレたちが気絶してる間に\n群発地震のデカいのが来ちまったのか？"
+			"value":"You think a huge earthquake tore through this\nplace while we were all passed out?"
 		},
 		{
 			"key":"EP01_S0310_0118",
-			"value":"ミノルも気絶してたのか？"
+			"value":"Oh, you passed out too, Minoru?"
 		},
 		{
 			"key":"EP01_S0310_0119",
-			"value":"ああ、オレも、アオイさんもな……\nしかし……"
+			"value":"Yeah, and Aoi, too. But..."
 		},
 		{
 			"key":"EP01_S0310_0120",
-			"value":"どうして……？\nい、一体……何があったの！？"
+			"value":"What in the world... What could have happened\nhere?!"
 		},
 		{
 			"key":"EP01_S0310_0121",
-			"value":"それを知りたいのはオレの方ですよ！"
+			"value":"That’s what I wanna know!"
 		},
 		{
 			"key":"EP01_S0310_0122",
-			"value":"どうなってんだ、コレ……\nただでさえ、もうじき日が暮れるってのによ"
+			"value":"What’s the deal with this place...? And it’s\ngonna get dark soon, right?"
 		},
 		{
 			"key":"EP01_S0310_0123",
-			"value":"夜の校舎すら普通に怖いのに\nこんな廃墟じゃ……うぅぅ、ぶるぶるぶる……"
+			"value":"A school building at night would be freaky by\nitself... But all beat up like this? Brrr..."
 		},
 		{
 			"key":"EP01_S0310_0124",
-			"value":"や、ヤメてよ……私まで怖くなっちゃう！"
+			"value":"Stop it... You’re scaring me!"
 		},
 		{
 			"key":"EP01_S0310_0200",
-			"value":"落ち着けミノル。俺がいるから大丈夫だ"
+			"value":"Calm yourself, Minoru. Worry not, I’m right\nhere with you."
 		},
 		{
 			"key":"EP01_S0310_0201",
-			"value":"そうよ！　アオイは私が守るわ！"
+			"value":"Yeah! And I’ll protect Aoi!"
 		},
 		{
 			"key":"EP01_S0310_0125",
-			"value":"気絶してたのって、どれくらいかな……？\n僕は……小一時間と気絶していなかったと思うけど"
+			"value":"I wonder how long we were out? It couldn’t\nhave been more than an hour for me."
 		},
 		{
 			"key":"EP01_S0310_0126",
-			"value":"オレたちも、それくらいかなあ……？"
+			"value":"That sounds about the same as us, I think."
 		},
 		{
 			"key":"EP01_S0310_0127",
-			"value":"スマホの時計で見る限り間違いないわね\n日付も変わってないし"
+			"value":"According to my phone’s clock, that seems\nabout right. The date hasn’t changed, either."
 		},
 		{
 			"key":"EP01_S0310_0128",
-			"value":"通信で時間が合わせられなくても、\nこれくらいで時間が狂う事はないはずよね？"
+			"value":"Even if it can’t connect to the network, the\ntime should still be right."
 		},
 		{
 			"key":"EP01_S0310_0129",
-			"value":"じゃあ、その僅かな間に何かが起きたって事か？"
+			"value":"Then something must’ve happened in that short\namount of time, right?"
 		},
 		{
 			"key":"EP01_S0310_0130",
-			"value":"破壊兵器とか天変地異で朽ち果てた……とか？"
+			"value":"A weapon of mass destruction, a natural\ndisaster...something like that?"
 		},
 		{
 			"key":"EP01_S0310_0131",
-			"value":"じゃあ、なんで草ボーボーになってんだよ？"
+			"value":"Then how come this place is so overgrown?"
 		},
 		{
 			"key":"EP01_S0310_0132",
-			"value":"確かに、これは単に衝撃で破壊された感じじゃない\n長い時間をかけて、朽ちていったような……"
+			"value":"...Good point. This doesn’t look like it was\ndestroyed. More like it fell apart over time."
 		},
 		{
 			"key":"EP01_S0310_0133",
-			"value":"気にはなるけど……今はラブラモンの手当てが\nできればそれでいいわよ"
+			"value":"I admit I am curious... But Labramon’s wound\ntakes higher priority now."
 		},
 		{
 			"key":"EP01_S0310_0134",
-			"value":"とにかく、中へ入りましょう！"
+			"value":"Anyway, let’s go inside!"
 		}
 	]
 }

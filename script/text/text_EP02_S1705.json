@@ -2,19 +2,19 @@
     "scenario_text": [
         {
             "key": "EP02_S1705_0001",
-            "value": "（戻っているのか？\n　<color=#B41919>彼岸花の森</color>の方に向かってる痕跡もある……）"
+            "value": "(Are they back? There are traces headed to\nthe <color=#B41919>spider lily forest</color>...)"
         },
         {
             "key": "EP02_S1705_0002",
-            "value": "追いかけてみよう"
+            "value": "Let’s follow them!"
         },
         {
             "key": "EP02_S1705_0003",
-            "value": "お～う！"
+            "value": "Aye aye!"
         },
         {
             "key": "EP02_S1705_0004",
-            "value": "（<color=#B41919>彼岸花の森</color>の方に向かう足跡を追ってみよう）"
+            "value": "(Let’s follow the footprints into the <color=#B41919>forest\nwith the spider lilies</color>.)"
         }
     ]
 }

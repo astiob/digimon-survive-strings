@@ -2,155 +2,155 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1210_0001",
-			"value":"う～ん……食堂なら何かあると思ったんだけど\nやっぱり、そう簡単には行かないわね"
+			"value":"Hmm... I thought we could find something in\nthe cafeteria, but that was wishful thinking."
 		},
 		{
 			"key":"EP02_S1210_0101",
-			"value":"食べ物、なさそう？"
+			"value":"No food then?"
 		},
 		{
 			"key":"EP02_S1210_0002",
-			"value":"ここには、もう何もないみたいね"
+			"value":"It looks like there’s nothing here."
 		},
 		{
 			"key":"EP02_S1210_0003",
-			"value":"食べ物を探してるの？"
+			"value":"You’re looking for food?"
 		},
 		{
 			"key":"EP02_S1210_0004",
-			"value":"ええ……ダメもとだけど\nいざとなったら外を探さないといけないわね"
+			"value":"Yes... I guess if push comes to shove, we’ll\nhave to take our search outdoors."
 		},
 		{
 			"key":"EP02_S1210_0005",
-			"value":"大丈夫よ、その時は私が\nアオイの事はゼッタイ守るから！"
+			"value":"Don’t worry, Aoi! When the time comes I’ll be\nsure to protect you!"
 		},
 		{
 			"key":"EP02_S1210_0006",
-			"value":"ありがとう、ラブラモン……"
+			"value":"Thank you, Labramon..."
 		},
 		{
 			"key":"EP02_S1210_Q1",
-			"value":"（アオイさんが危ない目に遭ったら……）"
+			"value":"(That might put Aoi in danger...)"
 		},
 		{
 			"key":"EP02_S1210_Q1_A1",
-			"value":"僕も守るよ"
+			"value":"I’ll look out for you."
 		},
 		{
 			"key":"EP02_S1210_Q1_A2",
-			"value":"いや、一人で出ちゃダメだ"
+			"value":"Don’t go on your own."
 		},
 		{
 			"key":"EP02_S1210_0102",
-			"value":"うん。その時は僕だって守るよ"
+			"value":"I’ll look out for you, too, Aoi."
 		},
 		{
 			"key":"EP02_S1210_0008",
-			"value":"……ありがとう、タクマくん"
+			"value":"...Thanks, Takuma."
 		},
 		{
 			"key":"EP02_S1210_0009",
-			"value":"じゃあどっちがアオイを上手く守れるか勝負ね！\n負けないわよ～！"
+			"value":"Then we’ll see who protects her better, won’t\nwe?!"
 		},
 		{
 			"key":"EP02_S1210_0103",
-			"value":"ボクもやるぞ～！"
+			"value":"Me, too!"
 		},
 		{
 			"key":"EP02_S1210_0010",
-			"value":"それって……私がまず\n危険な目に遭わないとダメなやつ？"
+			"value":"Well... Let’s hope there’s nothing to protect\nme from in the first place, okay?"
 		},
 		{
 			"key":"EP02_S1210_0104",
-			"value":"いや、そんなことしちゃダメだ"
+			"value":"No, you can’t do that!"
 		},
 		{
 			"key":"EP02_S1210_0105",
-			"value":"タクマくん……？"
+			"value":"Takuma?"
 		},
 		{
 			"key":"EP02_S1210_0106",
-			"value":"一人で外に行くなんて危なすぎる\n行くならみんなで行こう！"
+			"value":"It’s too risky for you to go out alone.\nWe should all go!"
 		},
 		{
 			"key":"EP02_S1210_0107",
-			"value":"あ、ああ……そうよね\n確かにみんなで行った方が安全だわ"
+			"value":"Yeah, you’re right.\nIt would be safer with all of us."
 		},
 		{
 			"key":"EP02_S1210_0108",
-			"value":"でも、みんなで一緒に同じところを探すなんて\n意味ないんじゃないかしら？"
+			"value":"But isn’t it pointless if we all look?"
 		},
 		{
 			"key":"EP02_S1210_0109",
-			"value":"うっ……\nそれは、そうだよね……"
+			"value":"Yeah, that’s what I figured."
 		},
 		{
 			"key":"EP02_S1210_0110",
-			"value":"大丈夫よ。ハルくんとミユキちゃんがいるんですもの\nきっと校舎内に食べ物があるわ"
+			"value":"It’s okay. Haru and Miyuki are here.\nThere’s gotta be food in the school."
 		},
 		{
 			"key":"EP02_S1210_0111",
-			"value":"そうだわ、食べ物は無かったけど……\nこんな物をみつけたの"
+			"value":"Oh yeah, there wasn’t any food, but I did\nfind this."
 		},
 		{
 			"key":"EP02_S1210_0112",
-			"value":"私よりタクマくんにあげた方が\n有効活用してくれるかな、って"
+			"value":"I’m sure you could use this more effectively\nthan I would, Takuma."
 		},
 		{
 			"key":"EP02_S1210_0113",
-			"value":"えっ、いいの？"
+			"value":"Wow, are you sure?"
 		},
 		{
 			"key":"EP02_S1210_0114",
-			"value":"ええ。あなたが持っていて"
+			"value":"Yeah. You take it."
 		},
 		{
 			"key":"EP02_S1210_0115",
-			"value":"わーい！　やったねタクマ！"
+			"value":"Hurray! Nice one, Takuma!"
 		},
 		{
 			"key":"EP02_S1210_0200",
-			"value":"きゃっ！？"
+			"value":"Yeek!"
 		},
 		{
 			"key":"EP02_S1210_0201",
-			"value":"え、メール？　ど、どうして……\n電波は無いはずなのに……"
+			"value":"What? A message? That doesn’t... I thought we\ndidn’t have a signal?"
 		},
 		{
 			"key":"EP02_S1210_0202",
-			"value":"それ、文字化けしてない？\n僕にも届いてたんだけど……"
+			"value":"Is it a bunch of garbled text? I got the same\nkind of message."
 		},
 		{
 			"key":"EP02_S1210_0203",
-			"value":"……あら、本当だわ\nそれに、こっちからは送れないみたい"
+			"value":"Huh... Yeah, it is. Doesn’t look like I can\nsend messages from my side, either."
 		},
 		{
 			"key":"EP02_S1210_0204",
-			"value":"何なのかしら……ちょっと怖いわ"
+			"value":"What is this? It’s kinda spooky..."
 		},
 		{
 			"key":"EP02_S1210_0205",
-			"value":"気にしてもしょうがないよ\n今は食料探しを優先しておこう"
+			"value":"Can’t worry about that now. The search for\nsupplies comes first."
 		},
 		{
 			"key":"EP02_S1210_0116",
-			"value":"あ、そういえば！"
+			"value":"Oh, by the way!"
 		},
 		{
 			"key":"EP02_S1210_0117",
-			"value":"ハルから聞いたんだけど、\n体育館奥の倉庫に食料があるかもだってさ！"
+			"value":"Haru told me there might be food in the\nstorage at the back of the gym."
 		},
 		{
 			"key":"EP02_S1210_0118",
-			"value":"本当！？　急いで行ってみましょう！"
+			"value":"Really?! Let’s hurry and check!"
 		},
 		{
 			"key":"EP02_S1210_0119",
-			"value":"食料は体育館にあるのよね？\n早く行きましょう！"
+			"value":"There’s food in the gym?\nLet’s go see!"
 		},
 		{
 			"key":"EP02_S1210_0120",
-			"value":"あら？　どうしたのかしら、タクマくん？"
+			"value":"What is it, Takuma?"
 		}
 	]
 }

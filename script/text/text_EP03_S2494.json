@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2494_0001",
-			"value":"タクマタクマ～！　何かあるよ～！"
+			"value":"Takuma! Takuma! I found something!"
 		},
 		{
 			"key":"EP03_S2494_0002",
-			"value":"お、これは使えそうだな\nありがとな、アグモン"
+			"value":"Oh, this looks useful. Thanks, Agumon!"
 		},
 		{
 			"key":"EP03_S2494_0003",
-			"value":"えへへ～"
+			"value":"Eheheh..."
 		},
 		{
 			"key":"EP03_S2494_0004",
-			"value":"お前もたまには何か見つけたらどうだ？"
+			"value":"Hey, why don’t you ever find anything?"
 		},
 		{
 			"key":"EP03_S2494_0005",
-			"value":"はっ、俺はミウを捜すので手一杯でね\nそういうのは自分でやりな"
+			"value":"What? I’ve had my hands full looking for Miu.\nGo find stuff like that on your own."
 		},
 		{
 			"key":"EP03_S2494_0006",
-			"value":"ケッ、口の減らねえヤツだ"
+			"value":"Hey! Watch your mouth!"
 		}
 	]
 }

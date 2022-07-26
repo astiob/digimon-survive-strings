@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1004_0001",
-			"value":"そういえば、コイツらとはまだ\nちゃんと挨拶してなかったな"
+			"value":"You know, we haven’t really been properly\nintroduced yet. "
 		},
 		{
 			"key":"EP03_S1004_0002",
-			"value":"あ、そういえばそうだな"
+			"value":"That’s true."
 		},
 		{
 			"key":"EP03_S1004_0003",
-			"value":"ボク、アグモン！　よろしく～"
+			"value":"Hi, I’m Agumon! Nice to meet you!"
 		},
 		{
 			"key":"EP03_S1004_0004",
-			"value":"僕はタクマだ"
+			"value":"And I’m Takuma."
 		},
 		{
 			"key":"EP03_S1004_0005",
-			"value":"私はフローラモンよ。サキのパートナーなの\nよろしく！"
+			"value":"I’m Floramon, Saki’s partner. Pleased to meet\nyou."
 		},
 		{
 			"key":"EP03_S1004_0006",
-			"value":"えっと……ボクはロップモン\nシュウジの、パートナー、です……一応"
+			"value":"Uh... I’m Lopmon. I’m, uh, Shuuji’s partner,\nI guess."
 		},
 		{
 			"key":"EP03_S1004_0007",
-			"value":"君たちも僕らの味方、ってことで\nいいんだよな？"
+			"value":"I take it we’re all on the same side, then?"
 		},
 		{
 			"key":"EP03_S1004_0008",
-			"value":"も、もちろん……！"
+			"value":"Of course!"
 		},
 		{
 			"key":"EP03_S1004_0009",
-			"value":"アンタたちの味方っていうか、サキの味方ね\nサキがアンタたちから離れるなら、私はサキに着いてくわ"
+			"value":"Well, I’m more on Saki’s side. If she ever\nleaves, I’m going with her."
 		},
 		{
 			"key":"EP03_S1004_0010",
-			"value":"あはは……なかなか、ハッキリ言うヤツだな……"
+			"value":"Haha, well, you sure don’t beat around the\nbush."
 		},
 		{
 			"key":"EP03_S1004_0011",
-			"value":"まぁ、悪いやつじゃなさそうだぞ！\nあの二人のことはちゃんと守ってたしな"
+			"value":"She doesn’t seem bad, though! And she helped\nprotect those two."
 		},
 		{
 			"key":"EP03_S1004_0012",
-			"value":"当然よ！　サキは特別だもの！"
+			"value":"Naturally! Saki is very special."
 		},
 		{
 			"key":"EP03_S1004_0013",
-			"value":"う、うん。ボクも、シュウジは、大事……"
+			"value":"Yeah. I care a lot about Shuuji, too..."
 		},
 		{
 			"key":"EP03_S1004_0014",
-			"value":"そっか。うん、改めて、よろしくな"
+			"value":"Got it. Well, it’s nice to meet you both."
 		},
 		{
 			"key":"EP03_S1004_0015",
-			"value":"どうしたタクマ？　サキとシュウジに話しかけないのか？"
+			"value":"What’s wrong, Takuma? Aren’t you going to\ntalk with Shuuji and Saki?"
 		}
 	]
 }

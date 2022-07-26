@@ -2,147 +2,147 @@
     "scenario_text": [
         {
             "key": "EP07_S3110_0001",
-            "value": "（あれ、カイト……）"
+            "value": "(Is that Kaito?)"
         },
         {
             "key": "EP07_S3110_0002",
-            "value": "（辺りを見ながらミウの方を気にかけてる\n　やっぱり心配なのかな）"
+            "value": "(He’s keeping an eye out for Miu as he\nsearches. He is worried after all.)"
         },
         {
             "key": "EP07_S3110_0003",
-            "value": "なあ\nオレとミウ、タクマにはどう見える？"
+            "value": "Hey.\nHow do things between me and Miu look to you?"
         },
         {
             "key": "EP07_S3110_0004",
-            "value": "えっ？\nな、仲良しだなって……"
+            "value": "What? Besides the fact that you’re getting\nalong now?"
         },
         {
             "key": "EP07_S3110_0005",
-            "value": "誤魔化さなくていい\n正直に言え"
+            "value": "Come on.\nYou can be honest with me."
         },
         {
             "key": "EP07_S3110_0006",
-            "value": "（って言われても……\n　正直に言ったら怒らないかな）"
+            "value": "(Not sure about that. He’ll probably be mad\nif I’m too honest.)"
         },
         {
             "key": "EP07_S3110_0007",
-            "value": "（カイトがミウに見せる心配ぶりって\n　お兄ちゃんっていうより保護者みたいなんだよな）"
+            "value": "(The way Kaito worries about Miu is almost\nlike how a parent worries about a kid.)"
         },
         {
             "key": "EP07_S3110_0008",
-            "value": "（少なくとも、普通じゃないとは思うけど……）"
+            "value": "(It’s just not normal...)"
         },
         {
             "key": "EP07_S3110_Q1",
-            "value": "（ミウに対するカイトの態度は……）"
+            "value": "(What’s Kaito’s attitude towards Miu?)"
         },
         {
             "key": "EP07_S3110_Q1_A1",
-            "value": "大事なんだなと思う"
+            "value": "She’s very important."
         },
         {
             "key": "EP07_S3110_Q1_A2",
-            "value": "過保護だと思う"
+            "value": "You’re overprotective."
         },
         {
             "key": "EP07_S3110_Q1_A3",
-            "value": "信頼してないと思う"
+            "value": "You don’t trust her."
         },
         {
             "key": "EP07_S3110_0009",
-            "value": "大事なんだなと思う"
+            "value": "She’s very important."
         },
         {
             "key": "EP07_S3110_0010",
-            "value": "カイトはミウを大事にしてるんだなって\n強く感じるけど……"
+            "value": "It’s obvious she’s very important to you."
         },
         {
             "key": "EP07_S3110_0011",
-            "value": "誤魔化さなくていいって言っただろうが\n適当なお世辞言ってんじゃねぇ"
+            "value": "I told you not to joke around.\nI’m not fishing for compliments here."
         },
         {
             "key": "EP07_S3110_0012",
-            "value": "……まあ、間違っちゃいねーけどよ"
+            "value": "You’re not wrong, though."
         },
         {
             "key": "EP07_S3110_0013",
-            "value": "過保護だと思う"
+            "value": "You’re overprotective."
         },
         {
             "key": "EP07_S3110_0014",
-            "value": "過保護だと思うよ"
+            "value": "You act like her dad."
         },
         {
             "key": "EP07_S3110_0015",
-            "value": "…………"
+            "value": "..."
         },
         {
             "key": "EP07_S3110_0016",
-            "value": "ごめん、でもミウがうざったがってるのを\nわかってるのに、世話を焼き続けてるから"
+            "value": "I think Miu finds it annoying.\nYou’re always in her business."
         },
         {
             "key": "EP07_S3110_0017",
-            "value": "そうだな\nテメーの言うとおりだ"
+            "value": "You’re totally right about that."
         },
         {
             "key": "EP07_S3110_0018",
-            "value": "信頼してないと思う"
+            "value": "You don’t trust her."
         },
         {
             "key": "EP07_S3110_0019",
-            "value": "カイトはミウのことを信頼してないから\n心配になるんじゃないかな、と思う"
+            "value": "You don’t seem to trust Miu, Kaito. That’s\nprobably why you worry about her."
         },
         {
             "key": "EP07_S3110_0020",
-            "value": "信頼だ？"
+            "value": "Trust?"
         },
         {
             "key": "EP07_S3110_0021",
-            "value": "ミウは小さいのに、このつらい状況で\n一生懸命がんばってると思うよ"
+            "value": "She may be small, but she’s doing her best\nthrough all of this."
         },
         {
             "key": "EP07_S3110_0022",
-            "value": "でもカイトは、ミウが\nなんにもできない子みたいに扱うだろ？"
+            "value": "And yet you seem to treat her like she’s\npowerless."
         },
         {
             "key": "EP07_S3110_0023",
-            "value": "……正直に、とは言ったが\nここまでキツい言葉をもらうとはな"
+            "value": "I asked you to be honest, but I wasn’t\nexpecting you to be that brutal."
         },
         {
             "key": "EP07_S3110_0024",
-            "value": "ご、ごめん"
+            "value": "Sorry."
         },
         {
             "key": "EP07_S3110_0025",
-            "value": "謝るな\n間違っちゃいねーよ"
+            "value": "Don’t apologize. You’re right."
         },
         {
             "key": "EP07_S3110_0026",
-            "value": "この危険な世界で、たった一人の妹が\n心配ってのは、フツーじゃねーの？"
+            "value": "To be so worried about just one sister in\nsuch a dangerous world? Is that normal?"
         },
         {
             "key": "EP07_S3110_0027",
-            "value": "……まーな\nだけど……そうだな"
+            "value": "Well... I guess you have a point."
         },
         {
             "key": "EP07_S3110_0028",
-            "value": "元の世界に帰ったら\nオレも向き合わなきゃいけねーかもな……"
+            "value": "I’ll have to face her if we get back home..."
         },
         {
             "key": "EP07_S3110_0029",
-            "value": "（カイト……？）"
+            "value": "(Kaito?)"
         },
         {
             "key": "EP07_S3110_0030",
-            "value": "ミウのことはオレが守る\nテメーは捜索に集中しろ"
+            "value": "I’ll keep an eye on Miu. You keep looking."
         },
         {
             "key": "EP07_S3110_0031",
-            "value": "（そういえば、そろそろ教授の具合も\n　よくなったかな？）"
+            "value": "(Oh yeah, I wonder if the professor’s feeling\nany better?)"
         },
         {
             "key": "EP07_S3110_0032",
-            "value": "（<color=#B41919>様子</color>を見に行ってみよう）"
+            "value": "(I should go <color=#B41919>check on him</color>.)"
         }
     ]
 }

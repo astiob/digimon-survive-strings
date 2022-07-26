@@ -2,215 +2,215 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S0060_0001",
-			"value":"これでお前もわかったろ？\nもう……ミユキはだめだ"
+			"value":"You get it now, don’t you?\n...Miyuki’s no good anymore."
 		},
 		{
 			"key":"EP09_S0060_0002",
-			"value":"……彼女の意識は\n主に取り込まれているんだな"
+			"value":"...Her consciousness has been taken over by\nthe Master."
 		},
 		{
 			"key":"EP09_S0060_0003",
-			"value":"（そしてみんなは、何度もミユキに\n　襲われながら過ごしてきた……）"
+			"value":"(And they spent all this time enduring attack\nafter attack by Miyuki...)"
 		},
 		{
 			"key":"EP09_S0060_0004",
-			"value":"（だからってミユキを倒すなんてできない\n　仲間だってのもあるし）"
+			"value":"(After all, they couldn’t exactly kill her.\nShe’s one of us.)"
 		},
 		{
 			"key":"EP09_S0060_0005",
-			"value":"（何より、彼女がいないと主を止められない）"
+			"value":"(And above all, we can’t stop the Master\nwithout her.)"
 		},
 		{
 			"key":"EP09_S0060_0006",
-			"value":"なぁタクマ、つらい気持ちはオレたちも同じだ\nでも、もうどうしようもねえだろ"
+			"value":"We know how you feel, man. There just ain’t\nanything we can do about it now."
 		},
 		{
 			"key":"EP09_S0060_0007",
-			"value":"どうにかしたいけどさ\nどうすりゃいいんだか……"
+			"value":"We’d like to do something to help, but...\nwhat?"
 		},
 		{
 			"key":"EP09_S0060_0008",
-			"value":"（ミユキの必要性を伝える？\n　そんなのみんなだってわかってる）"
+			"value":"(I’m sure everyone realizes how important\nMiyuki is in all of this.)"
 		},
 		{
 			"key":"EP09_S0060_0009",
-			"value":"（ミユキの意識を取り戻す方法……\n　さっきの教授みたいに呼びかければ）"
+			"value":"(Maybe there’s a way to bring her back. What\nif we call to her like the professor did?)"
 		},
 		{
 			"key":"EP09_S0060_0010",
-			"value":"（いや、それこそ教授に呼びかけ続けてもらえば\n　いずれ意識を戻すんじゃないか？）"
+			"value":"(No, maybe we should let him keep doing it.\nShe’ll come back eventually, right?)"
 		},
 		{
 			"key":"EP09_S0060_Q1",
-			"value":"（みんなにミユキを助けるように頼むには……）"
+			"value":"(I want to ask everyone to save Miyuki...)"
 		},
 		{
 			"key":"EP09_S0060_Q1_A1",
-			"value":"みんなでミユキに呼びかけよう！"
+			"value":"Let’s all talk to her!"
 		},
 		{
 			"key":"EP09_S0060_Q1_A2",
-			"value":"世界を救う為、ミユキは必要なんだ"
+			"value":"We need Miyuki."
 		},
 		{
 			"key":"EP09_S0060_Q1_A3",
-			"value":"教授の言葉なら、効果があるかも"
+			"value":"The professor can..."
 		},
 		{
 			"key":"EP09_S0060_0011",
-			"value":"みんなで呼びかけよう！"
+			"value":"Let’s all talk to her!"
 		},
 		{
 			"key":"EP09_S0060_0012",
-			"value":"みんなでミユキに呼びかけよう！\nそうすれば彼女も目を覚ますんじゃないか？"
+			"value":"Let’s all talk to her together! I bet that’ll\nbring Miyuki back to her senses."
 		},
 		{
 			"key":"EP09_S0060_0013",
-			"value":"そんなのとっくにやったよ\n最初にあの子が来た時に……"
+			"value":"We tried that already. Waaay back when she\nfirst showed up."
 		},
 		{
 			"key":"EP09_S0060_0014",
-			"value":"ええ、でも……"
+			"value":"Yes, but..."
 		},
 		{
 			"key":"EP09_S0060_0015",
-			"value":"（そりゃそうだよな\n　こんなことみんなだって試したはずだ）"
+			"value":"(Well that makes sense. I guess they would’ve\ntested that out themselves already.)"
 		},
 		{
 			"key":"EP09_S0060_0016",
-			"value":"ミユキは必要なんだ"
+			"value":"We need Miyuki."
 		},
 		{
 			"key":"EP09_S0060_0017",
-			"value":"だけど、やっぱりミユキは必要なんだ"
+			"value":"Still, we need Miyuki."
 		},
 		{
 			"key":"EP09_S0060_0018",
-			"value":"……歌か"
+			"value":"...You mean her song?"
 		},
 		{
 			"key":"EP09_S0060_0019",
-			"value":"ああ。それに前にも言ったけど\nこの世界を救わなければ僕たちの世界も危ない"
+			"value":"Yeah. Like I said before, if we don’t save\nthis world, ours will be in danger, too."
 		},
 		{
 			"key":"EP09_S0060_0020",
-			"value":"……とは言ってもよ、どうすりゃいいんだ？"
+			"value":"Then what’re we supposed to do?"
 		},
 		{
 			"key":"EP09_S0060_0021",
-			"value":"それは……"
+			"value":"I mean..."
 		},
 		{
 			"key":"EP09_S0060_0022",
-			"value":"教授の言葉なら……"
+			"value":"The professor can..."
 		},
 		{
 			"key":"EP09_S0060_0023",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP09_S0060_0024",
-			"value":"さっきの戦闘中、ミユキは\n教授に強い反応を示していた"
+			"value":"Miyuki had a strong reaction to the Professor\nduring the last battle."
 		},
 		{
 			"key":"EP09_S0060_0025",
-			"value":"彼女を正気に戻す鍵は\n教授が握っているんだと思う"
+			"value":"The Professor may be who we need to return\nher to her senses."
 		},
 		{
 			"key":"EP09_S0060_0026",
-			"value":"そうは言うが、私は何をすれば……"
+			"value":"Okay, but I’m not sure what I should..."
 		},
 		{
 			"key":"EP09_S0060_0027",
-			"value":"仮にミユキちゃんを正気に戻せたとしても\n他にも問題はあるのよ"
+			"value":"Even if we return Miyuki to normal, we have\nanother problem to deal with."
 		},
 		{
 			"key":"EP09_S0060_0028",
-			"value":"廃工場でのことを覚えているでしょ\nわずかな隙間でもあれば、彼らは攻め込んでくるの"
+			"value":"Remember what happened at the factory?\nThey’ll attack at the slightest opportunity."
 		},
 		{
 			"key":"EP09_S0060_0029",
-			"value":"みんなのおかげで、今は無事だけど\n彼らが本気になったら、いつまでもつか……"
+			"value":"We survived this time with everyone’s help,\nbut if they get serious, how long can we...?"
 		},
 		{
 			"key":"EP09_S0060_Q2",
-			"value":"（もっと他に方法はないか……？）"
+			"value":"(Is there any other way...?)"
 		},
 		{
 			"key":"EP09_S0060_Q2_A1",
-			"value":"他にある"
+			"value":"There must be."
 		},
 		{
 			"key":"EP09_S0060_Q2_A2",
-			"value":"思いつかない"
+			"value":"I just don’t know."
 		},
 		{
 			"key":"EP09_S0060_0030",
-			"value":"他にある"
+			"value":"There must be."
 		},
 		{
 			"key":"EP09_S0060_0031",
-			"value":"思いつかない"
+			"value":"I just don’t know."
 		},
 		{
 			"key":"EP09_S0060_0032",
-			"value":"……あっ！"
+			"value":"...Ah!"
 		},
 		{
 			"key":"EP09_S0060_0033",
-			"value":"どうした、ミウ\n腹が減ったのか？"
+			"value":"What is it, Miu?\nAre you hungry?"
 		},
 		{
 			"key":"EP09_S0060_0034",
-			"value":"ちが～～～～～～う！\nジジモンだよ！"
+			"value":"Nooo!\nJijimon!"
 		},
 		{
 			"key":"EP09_S0060_0035",
-			"value":"あのおじいちゃんはこの世界の生き字引だもの！\nきっと何か知ってるはずだよ！"
+			"value":"That old fart’s a walking encyclopedia about\nthis world! He must know something!"
 		},
 		{
 			"key":"EP09_S0060_0036",
-			"value":"…………！"
+			"value":"...!"
 		},
 		{
 			"key":"EP09_S0060_0037",
-			"value":"遊園地への道は、まだ繋がってるのか？"
+			"value":"Is the path to the amusement park still open?"
 		},
 		{
 			"key":"EP09_S0060_0038",
-			"value":"わかんねーけど、でも……"
+			"value":"Can’t say for sure..."
 		},
 		{
 			"key":"EP09_S0060_0039",
-			"value":"このままいても、事態は進展しないわね"
+			"value":"Our situation will not improve the way things\nare right now."
 		},
 		{
 			"key":"EP09_S0060_0040",
-			"value":"実際、何も事態が動かなければ別の場所に行こうって\nみんなで話してたもんね。行くしかないよ"
+			"value":"We all said that we’d head somewhere else if\nnothing changed. Gotta stick to the plan."
 		},
 		{
 			"key":"EP09_S0060_0041",
-			"value":"（みんなも頷いてる。僕がいなかった数日で\n　本当にみんなたくましくなったんだな）"
+			"value":"(Everyone seems to agree. They’ve really\ngrown a lot in the days I was gone.)"
 		},
 		{
 			"key":"EP09_S0060_0042",
-			"value":"どうする、タクマくん？"
+			"value":"What do you think should we do, Takuma?"
 		},
 		{
 			"key":"EP09_S0060_0043",
-			"value":"え、僕？"
+			"value":"Oh, me?"
 		},
 		{
 			"key":"EP09_S0060_0044",
-			"value":"全員の意思で決めたいの\n……あなたの意見も、聞かせてちょうだい"
+			"value":"We need a unanimous decision here. So please,\ntell me what you think."
 		},
 		{
 			"key":"EP09_S0060_0045",
-			"value":"（そうだ。僕たちだけで考えていても\n　らちが明かない）"
+			"value":"(That’s right. We won’t make any progress\njust mulling this over by ourselves.)"
 		},
 		{
 			"key":"EP09_S0060_0046",
-			"value":"……行こう、遊園地に！"
+			"value":"So let’s head to the amusement park!"
 		}
 	]
 }

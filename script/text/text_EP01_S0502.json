@@ -2,27 +2,27 @@
     "scenario_text": [
         {
             "key": "EP01_S0502_0001",
-            "value": "見つけた！　さっきのヤツだ！\n確かにあそこにいるぞ"
+            "value": "I found it! That thing from before! It’s\nright over there, no doubt about it."
         },
         {
             "key": "EP01_S0502_0002",
-            "value": "どうしよう？　襲ってくる感じじゃないけど……"
+            "value": "What should I do? It doesn’t look hostile,\nbut still..."
         },
         {
             "key": "EP01_S0502_0003",
-            "value": "ここは……何もないか"
+            "value": "Hmm...nothing here, huh?"
         },
         {
             "key": "EP01_S0502_0004",
-            "value": "あれ……また消えた？　すばしっこいな"
+            "value": "Man, did it vanish again? This thing’s quick\non it’s feet...at least, I think it has feet."
         },
         {
             "key": "EP01_S0502_0005",
-            "value": "別のところを<color=#B41919>カメラ</color>で見てみよう"
+            "value": "I’ll survey other spots with my <color=#B41919>camera</color>."
         },
         {
             "key": "EP01_S0502_0006",
-            "value": "別のところをカメラで見てみよう"
+            "value": "I’ll survey other spots with my camera."
         }
     ]
 }

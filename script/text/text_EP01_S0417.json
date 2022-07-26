@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0417_0001",
-			"value":"やっぱりここが怪しいよな～"
+			"value":"I know something’s fishy about this spot..."
 		},
 		{
 			"key":"EP01_S0417_0002",
-			"value":"ああ、でもどうやって向こうに行こう？"
+			"value":"Yeah, but how can we get to the other side?"
 		},
 		{
 			"key":"EP01_S0417_0003",
-			"value":"ラブラモンもいるし、力を合わせて開けられないかな？"
+			"value":"Do you think me and Labramon could force it\nopen together?"
 		},
 		{
 			"key":"EP01_S0417_0004",
-			"value":"うん、ラブラモンとも話してみよう"
+			"value":"Maybe. Let’s ask."
 		},
 		{
 			"key":"EP01_S0417_0005",
-			"value":"ラブラモンと力を合わせて\nここを開けられないかな？"
+			"value":"You think you and Labramon could open this if\nyou worked together?"
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S2050_0001",
-			"value":"んー……\nなんか、ここ怪しい気がする……！"
+			"value":"Hmm...\nSomething about this spot feels weird..."
 		},
 		{
 			"key":"EP07_S2050_0002",
-			"value":"ねえ、タクマ\nもっと探してみようよ！"
+			"value":"Come on, Takuma, let’s look around some more!"
 		},
 		{
 			"key":"EP07_S2050_0003",
-			"value":"タクマ！\nここはもう調べ終わったゾ！"
+			"value":"Takuma! We’ve already looked everywhere\naround here!"
 		},
 		{
 			"key":"EP07_S2050_0004",
-			"value":"ああ、そうだったな\nもう何もなさそうだ"
+			"value":"Yeah, you’re right. I doubt we’ll find\nanything else here."
 		}
 	]
 }

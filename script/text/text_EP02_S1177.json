@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1177_0001",
-			"value":"さっきの怪物、全然姿が見えなかった……"
+			"value":"I couldn’t even see that monster when it\nattacked us before."
 		},
 		{
 			"key":"EP02_S1177_0002",
-			"value":"あんな相手に、また襲われるかもしれないの？"
+			"value":"Is it really going to come after us again?"
 		},
 		{
 			"key":"EP02_S1177_0003",
-			"value":"大丈夫よアオイ、私が絶対に守ってあげる！"
+			"value":"Don’t worry, Aoi! I’ll protect you no matter\nwhat!"
 		},
 		{
 			"key":"EP02_S1177_0004",
-			"value":"僕たちだっているよ\nみんなで力を合わせれば、きっと大丈夫だ"
+			"value":"Yeah, and don’t forget about us. As long as\nwe all work together, I’m sure we’ll be fine."
 		},
 		{
 			"key":"EP02_S1177_0005",
-			"value":"そう……そうよね。弱気になってはいけないわ"
+			"value":"Yes... Yes, you’re right. I shouldn’t let my\nfears get the better of me."
 		},
 		{
 			"key":"EP02_S1177_0006",
-			"value":"弱気になっては駄目ね\nサキさんたちを捜しましょう"
+			"value":"I shouldn’t let my fears get the better of\nme. Let’s go find Saki and the others."
 		}
 	]
 }

@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1200_0001",
-			"value":"…………ふぅ"
+			"value":"*sigh*"
 		},
 		{
 			"key":"EP07_S1200_0002",
-			"value":"シュウジ先輩……何か考え事ですか？"
+			"value":"Hey, Shuuji. Something on your mind?"
 		},
 		{
 			"key":"EP07_S1200_0003",
-			"value":"ああ、いや……\n食糧は足りるだろうか、と不安になってね"
+			"value":"Oh, not especially. I’m just worried about\nour food supply."
 		},
 		{
 			"key":"EP07_S1200_0004",
-			"value":"うんうん"
+			"value":"I see."
 		},
 		{
 			"key":"EP07_S1200_0005",
-			"value":"僕たちは、なんとしても生き抜いて帰るんだ"
+			"value":"We need to make it through this, find a way\nto get back alive."
 		},
 		{
 			"key":"EP07_S1200_0006",
-			"value":"そのためには、食糧の確保が必要不可欠だ"
+			"value":"And in order to do that, it’s essential that\nwe have enough to eat."
 		},
 		{
 			"key":"EP07_S1200_0007",
-			"value":"そうだね、シュウジ\nごはんは大切だよ！"
+			"value":"That’s right, Shuuji! Food is important!"
 		},
 		{
 			"key":"EP07_S1200_0008",
-			"value":"ああ。しっかりチェックしておかないとな"
+			"value":"Yeah. I need to check everywhere."
 		}
 	]
 }

@@ -2,135 +2,135 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9570_0001",
-			"value":"君たちはすごいことをやってのけたね"
+			"value":"You’ve all done something truly amazing."
 		},
 		{
 			"key":"EP10_S9570_0002",
-			"value":"な、なんですか突然？"
+			"value":"Professor? What’s gotten into you all of a\nsudden?"
 		},
 		{
 			"key":"EP10_S9570_0003",
-			"value":"これだけの命を救ったんだ\n少しくらいは誇ってもいいんだよ"
+			"value":"Just look at how many lives you saved. Take a\nmoment to be proud. You’ve earned it."
 		},
 		{
 			"key":"EP10_S9570_0004",
-			"value":"誇れるようなことはしてません\n僕たちは、ただ、必死だっただけです"
+			"value":"It doesn’t feel like we’ve done anything to\nbe proud of. We were just desperate."
 		},
 		{
 			"key":"EP10_S9570_0005",
-			"value":"誰の命も取りこぼさないように、って"
+			"value":"Desperate not to lose anyone."
 		},
 		{
 			"key":"EP10_S9570_0006",
-			"value":"その心が大切なんだ\n……我々、大人が忘れてしまったものだ"
+			"value":"It’s that mindset that’s most important. It’s\nsomething we adults can forget sometimes."
 		},
 		{
 			"key":"EP10_S9570_0007",
-			"value":"（教授は褒めてくれるけど、大げさな気がするな\n　本当に大したことしたわけじゃないと思うけど……）"
+			"value":"(The professor’s praise feels overblown.\nWe didn’t do anything that incredible...)"
 		},
 		{
 			"key":"EP10_S9570_0008",
-			"value":"（教授だって僕たちを何度も助けてくれた\n　僕たちが褒められるなら、教授も褒められるべきだ）"
+			"value":"(Besides, the professor’s saved us more times\nthan I can count. He deserves the praise.)"
 		},
 		{
 			"key":"EP10_S9570_0009",
-			"value":"（第一、これはまだ始まりに過ぎない\n　僕たちは世界を救おうとしてるんだから）"
+			"value":"(At any rate, this is just the beginning.\nWe’re trying to save the world here.)"
 		},
 		{
 			"key":"EP10_S9570_Q1",
-			"value":"（教授に何て言おうかな？）"
+			"value":"(What should I say to the professor?)"
 		},
 		{
 			"key":"EP10_S9570_Q1_A1",
-			"value":"大げさですよ"
+			"value":"You exaggerate."
 		},
 		{
 			"key":"EP10_S9570_Q1_A2",
-			"value":"まだ喜んでいる場合じゃないです"
+			"value":"No time to celebrate."
 		},
 		{
 			"key":"EP10_S9570_Q1_A3",
-			"value":"教授だって助けてくれましたよ"
+			"value":"You’ve done as much."
 		},
 		{
 			"key":"EP10_S9570_0010",
-			"value":"大げさですよ\n本当に、がむしゃらだっただけなんですから"
+			"value":"You’re exaggerating. We’ve been running\naround frantically this whole time."
 		},
 		{
 			"key":"EP10_S9570_0011",
-			"value":"はは、ならそういうことにしておこう"
+			"value":"Ha ha, if you insist. Then we’ll leave it at\nthat."
 		},
 		{
 			"key":"EP10_S9570_0012",
-			"value":"ただね、そんな君たちに触発されて\n私の枯れた正義感にも火が点いたんだよ"
+			"value":"It’s just, you children have ignited a fire\nof justice within me long since extinguished."
 		},
 		{
 			"key":"EP10_S9570_0013",
-			"value":"褒めてもらえるのは嬉しいですけど\nまだ喜んでいられません"
+			"value":"I appreciate the compliment, but we can’t\ncelebrate just yet."
 		},
 		{
 			"key":"EP10_S9570_0014",
-			"value":"僕たちは二つの世界を救おうとしてるんですから\n今回以上に、これからもっと助けることになります"
+			"value":"We’re trying to rescue the two worlds. That\nmeans we’ll be saving a lot more people."
 		},
 		{
 			"key":"EP10_S9570_0015",
-			"value":"そうだね、君の言う通りだ\nだがそれを臆面もなくはっきりと言えるとは……"
+			"value":"Yes, right you are. Still, to think you’d\nmake such a declaration so unabashedly..."
 		},
 		{
 			"key":"EP10_S9570_0016",
-			"value":"いやぁ、君は本当に強い心の持ち主だ\nそんな君だからこそ、私も奮い立たされる"
+			"value":"What a strong heart you possess. No wonder\nyou’ve stoked such a fire in me."
 		},
 		{
 			"key":"EP10_S9570_0017",
-			"value":"教授だって、僕たちを何度も\n助けてくれたじゃないですか"
+			"value":"But Professor, you saved us so many times."
 		},
 		{
 			"key":"EP10_S9570_0018",
-			"value":"それ以上に\n君たちに助けてもらっているよ"
+			"value":"However much I may have helped you, you’ve\nhelped me more."
 		},
 		{
 			"key":"EP10_S9570_0019",
-			"value":"え、そうでしたっけ？\nえっと……そんな場面ありました？"
+			"value":"Huh, is that right? Um... When exactly did we\ndo that?"
 		},
 		{
 			"key":"EP10_S9570_0020",
-			"value":"ふふふ、命を救われたとかそういうことではないんだ\nここでの日々の暮らし、何でもない時間が大切なんだよ"
+			"value":"Ho ho, I don’t mean saving my life. The days\nspent here, the time we shared was precious."
 		},
 		{
 			"key":"EP10_S9570_0021",
-			"value":"君たち若者の真っ直ぐな情熱や意志を見ていると\nこの年老いた身でも頑張ろうと思えるんだ"
+			"value":"The youthful passion and resolve of you all.\nI want to do all I can too, old as I am."
 		},
 		{
 			"key":"EP10_S9570_0022",
-			"value":"私一人でいたらこうはならなかっただろう\n本当に、感謝しているよ"
+			"value":"I never would have accomplished this feat on\nmy own. You have my sincere gratitude."
 		},
 		{
 			"key":"EP10_S9570_0023",
-			"value":"また、何かしらの形で\n恩返しをしないといけないな"
+			"value":"I feel like I should make it up to you\nsomehow."
 		},
 		{
 			"key":"EP10_S9570_0024",
-			"value":"気にしないでくださいよ\n教授も、僕たちの仲間なんですから"
+			"value":"Don’t worry about it, Professor. After all,\nyou’re one of us."
 		},
 		{
 			"key":"EP10_S9570_0025",
-			"value":"仲間……そうか、仲間か"
+			"value":"You think so? You really feel like I’m one of\nyou?"
 		},
 		{
 			"key":"EP10_S9570_0026",
-			"value":"ええ、仲間です"
+			"value":"Absolutely."
 		},
 		{
 			"key":"EP10_S9570_0027",
-			"value":"この年になって君たちのような仲間が\nできるとは……"
+			"value":"To think at this age, you’d accept me as one\nof your own..."
 		},
 		{
 			"key":"EP10_S9570_0028",
-			"value":"はは……まったく\nなんて人生とは面白いものだろうな……"
+			"value":"Haha, isn’t life strange?"
 		},
 		{
 			"key":"EP10_S9570_0029",
-			"value":"人生とは面白いものだ\n君たちにも是非この気持ちを感じてほしいよ"
+			"value":"Life is so strange. I wish all of you could\nfeel what I feel."
 		}
 	]
 }

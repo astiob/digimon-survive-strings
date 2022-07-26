@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0041_0001",
-			"value":"ジジモンからもらった鍵は、\nここで使うんだな"
+			"value":"We can use the key we got from Jijimon here."
 		},
 		{
 			"key":"EP05_S0041_0002",
-			"value":"早速、使ってみようよ！"
+			"value":"Go on, use it, use it!"
 		},
 		{
 			"key":"EP05_S0041_0003",
-			"value":"ビンゴ！　開いたぜ！"
+			"value":"Bingo! It’s open!"
 		}
 	]
 }

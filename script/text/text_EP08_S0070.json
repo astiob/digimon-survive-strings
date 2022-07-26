@@ -2,291 +2,291 @@
     "scenario_text": [
         {
             "key": "EP08_S0070_0001",
-            "value": "ふぅ……やっと着いた"
+            "value": "Phew... We finally made it!"
         },
         {
             "key": "EP08_S0070_0002",
-            "value": "しかしこうしてみると……\nこっちの外観は見慣れないな……"
+            "value": "It’s funny. After all that time in the other\nworld, now this school looks wrong to me."
         },
         {
             "key": "EP08_S0070_0003",
-            "value": "ここ……"
+            "value": "This place..."
         },
         {
             "key": "EP08_S0070_0004",
-            "value": "見た感じ、私が通ってた学校と同じはずだけど……\nなんだかキレイになってる"
+            "value": "This looks like where I went to school,\nonly...a lot nicer somehow."
         },
         {
             "key": "EP08_S0070_0005",
-            "value": "（やっぱり、ミユキが住んでた時代よりも\n　時間が経ってるから……ってことだよな）"
+            "value": "(Probably another result of how much time\nit’s been since Miyuki lived here.)"
         },
         {
             "key": "EP08_S0070_0006",
-            "value": "（こっちに戻ってきても\n　わけがわからないことだらけだ……）"
+            "value": "(Even having made it back, I still feel like\nI have no idea what’s going on.)"
         },
         {
             "key": "EP08_S0070_0007",
-            "value": "ねえ、タクマさん\nこれから、どうする？"
+            "value": "So, what are we going to do now, Takuma?"
         },
         {
             "key": "EP08_S0070_0008",
-            "value": "どうするって、休むんじゃないの？"
+            "value": "What do you mean? We came here to rest,\ndidn’t we?"
         },
         {
             "key": "EP08_S0070_0009",
-            "value": "でも、よくわからないことも多いし\n色々調べたほうがいいのかなって……"
+            "value": "Yes, but there’s still a lot we don’t know.\nI was thinking we should look into things."
         },
         {
             "key": "EP08_S0070_0010",
-            "value": "校舎の探索ってことー？"
+            "value": "You mean you want to search the school?"
         },
         {
             "key": "EP08_S0070_0011",
-            "value": "探索っていうか、まずは先生を探して\nこっちの状況を聞くのがいいのかもしれないけど……"
+            "value": "I don’t know about a search, but we could\nfind a teacher and ask what’s going on."
         },
         {
             "key": "EP08_S0070_0012",
-            "value": "そうなると、またアグモンには\n隠れててもらった方がいいのかな？"
+            "value": "In that case, we should probably have Agumon\nhide somewhere again."
         },
         {
             "key": "EP08_S0070_0013",
-            "value": "ええ～！　また～！？"
+            "value": "What? Again?!"
         },
         {
             "key": "EP08_S0070_Q1",
-            "value": "（さて……これからどうしよう？）"
+            "value": "(So...what’s out next move?)"
         },
         {
             "key": "EP08_S0070_Q1_A1",
-            "value": "まずはアグモンを隠そう"
+            "value": "Hide Agumon."
         },
         {
             "key": "EP08_S0070_Q1_A2",
-            "value": "どうにもならないから休もう"
+            "value": "Forget it, just rest."
         },
         {
             "key": "EP08_S0070_Q1_A3",
-            "value": "とにかく先生を探そう"
+            "value": "Find a teacher."
         },
         {
             "key": "EP08_S0070_0014",
-            "value": "まずはアグモンを隠す"
+            "value": "Hide Agumon."
         },
         {
             "key": "EP08_S0070_0015",
-            "value": "何をするにしても……\nまずは、アグモンを隠さないと"
+            "value": "Well, the first thing we’ll need to do is to\nhide Agumon somewhere."
         },
         {
             "key": "EP08_S0070_0016",
-            "value": "どうしてボクを隠すんだ？"
+            "value": "I still don’t see why I have to hide."
         },
         {
             "key": "EP08_S0070_0017",
-            "value": "それはさっきも言っただろ？"
+            "value": "We’ve been over this before."
         },
         {
             "key": "EP08_S0070_0018",
-            "value": "向こうと違って、僕らの世界には\nアグモンやファルコモンみたいな奴はいない"
+            "value": "In this world, creatures like you and\nFalcomon just don’t exist."
         },
         {
             "key": "EP08_S0070_0019",
-            "value": "だから、もし誰かに見つかったら\n大騒ぎになるんだよ"
+            "value": "So if anyone sees you, it could cause\na panic."
         },
         {
             "key": "EP08_S0070_0020",
-            "value": "確かに……\nタクマさんの言う通りだわ"
+            "value": "Yeah, Takuma’s right."
         },
         {
             "key": "EP08_S0070_0021",
-            "value": "え～、ボクもうイヤだ\nタクマと一緒がいい！"
+            "value": "Well, I don’t want to hide anymore! I want to\nstay with you, Takuma!"
         },
         {
             "key": "EP08_S0070_0022",
-            "value": "それに、ぬいぐるみのマネしてたら\n大丈夫なんじゃないの？"
+            "value": "Why can’t I just pretend to be a stuffed\nanimal again?"
         },
         {
             "key": "EP08_S0070_0023",
-            "value": "さっきはそれで誤魔化せたけど\n学生たちはさすがに気づくと思うから"
+            "value": "That may have worked before, but I doubt\nwe’ll be able to fool any of the students."
         },
         {
             "key": "EP08_S0070_0024",
-            "value": "な、頼むよ。先生を探して\n何か事情がわかったら、なるべく早く迎えにくるから"
+            "value": "Could you please just stay out of sight? I’ll\ncome back as soon as we learn something."
         },
         {
             "key": "EP08_S0070_0025",
-            "value": "仕方ないなー\n本当に、ちょっとの間だけだからね"
+            "value": "Oh, all right. But you better come right\nback!"
         },
         {
             "key": "EP08_S0070_0026",
-            "value": "どうにもならないから休む"
+            "value": "Forget it, just rest."
         },
         {
             "key": "EP08_S0070_0027",
-            "value": "正直、どうにもならないのかもしれないし\nとにかく体を休めることくらいしか……"
+            "value": "Honestly, I doubt we’ll be able to accomplish\nanything. Why don’t we just rest?"
         },
         {
             "key": "EP08_S0070_0028",
-            "value": "どうにもならないって、どういうこと？"
+            "value": "What makes you so sure we won’t be able to\naccomplish anything?"
         },
         {
             "key": "EP08_S0070_0029",
-            "value": "よく考えてみてよ"
+            "value": "Well, think about it."
         },
         {
             "key": "EP08_S0070_0030",
-            "value": "先生とか、大人に会えたとして\n一体、何て説明すればいいんだ？　例えば──"
+            "value": "Let’s say we do find a teacher, or some other\nadult. How do we explain what happened?"
         },
         {
             "key": "EP08_S0070_0031",
-            "value": "「不気味な世界に迷い込んで\n　モンスターと戦ってました」"
+            "value": "We can’t just say we woke up in another world\nand had to fight a bunch of monsters,"
         },
         {
             "key": "EP08_S0070_0032",
-            "value": "「僕らだけは何とか戻ってきたんですが、他のみんなが\n　どうなったかはわかりません」って言うのか？"
+            "value": "and even after we made it back, we don’t know\nwhat happened to the others who were with us."
         },
         {
             "key": "EP08_S0070_0033",
-            "value": "誰かに助けを求めようとしても、どう説明する？\n信じてもらえるわけがないじゃないか"
+            "value": "Even if we do find someone to ask for help,\nthey’ll never believe us."
         },
         {
             "key": "EP08_S0070_0034",
-            "value": "だからって、なにもしないで休むだけ？\n休んだあとに、がんばるんじゃないの？"
+            "value": "So you want to just give up and take a rest?\nWhat about after we rest, will you try then?"
         },
         {
             "key": "EP08_S0070_0035",
-            "value": "そんなこと言ったって……"
+            "value": "I mean, I guess, but I still don’t see what\nwe can do."
         },
         {
             "key": "EP08_S0070_0036",
-            "value": "タクマさんの言うことも、わからなくはないかも"
+            "value": "I know what you mean, Takuma."
         },
         {
             "key": "EP08_S0070_0037",
-            "value": "どうしようもないって……本当のことなのよね\n他のみんなが戻ってこられないのも……"
+            "value": "And, really, there’s not much we can do. The\nothers might be stuck in that world forever."
         },
         {
             "key": "EP08_S0070_0038",
-            "value": "あ……"
+            "value": "Wait..."
         },
         {
             "key": "EP08_S0070_0039",
-            "value": "（そうだ……）"
+            "value": "(That’s right.)"
         },
         {
             "key": "EP08_S0070_0040",
-            "value": "（他のみんな……\n　皆、まだ向こうの世界なんだよな……）"
+            "value": "(The others are still trapped in that other\nworld.)"
         },
         {
             "key": "EP08_S0070_0041",
-            "value": "（確かに、誰にも信じてもらえないかもしれない）"
+            "value": "(So, sure, we may not be able to get anyone\nelse to believe us...)"
         },
         {
             "key": "EP08_S0070_0042",
-            "value": "（ましてや助ける方法なんて、\n　まだ見当もつかないけど……）"
+            "value": "(...and I may not have the first clue as to\nhow we could possibly save them...)"
         },
         {
             "key": "EP08_S0070_0043",
-            "value": "（いや、だからって……\n　勝手に諦めていいハズがない）"
+            "value": "(...but that doesn’t make it okay to just\ngive up!)"
         },
         {
             "key": "EP08_S0070_0044",
-            "value": "ごめん、アグモン、ミユキ\nちょっと焦ってたみたいだ"
+            "value": "Agumon, Miyuki, I’m sorry. I don’t know what\ncame over me."
         },
         {
             "key": "EP08_S0070_0045",
-            "value": "仕方ないよ\n私だって、これからどうなるか不安だもの"
+            "value": "That’s okay. I mean, I’m pretty worried about\nwhat might happen myself."
         },
         {
             "key": "EP08_S0070_0046",
-            "value": "うん……でも\nだからこそ、まずは落ち着こう"
+            "value": "Right, but that’s all the more reason why we\nshouldn’t let ourselves lose focus."
         },
         {
             "key": "EP08_S0070_0047",
-            "value": "みんなは、もっと大変な目にあってるに違いないんだ\n諦めないで、僕らにできることを考えないと"
+            "value": "I’m sure the others have things way worse. We\nneed to find a way to help them."
         },
         {
             "key": "EP08_S0070_0048",
-            "value": "今できることは、情報を集めることだと思う\nそのためにも、アグモンには隠れててもらわないと"
+            "value": "And the best way we can do that is to gather\ninformation. So, Agumon, you need to hide."
         },
         {
             "key": "EP08_S0070_0049",
-            "value": "え～！　またボクだけひとりぼっちなの～？"
+            "value": "What? You mean I have to stay all by myself\nagain?!"
         },
         {
             "key": "EP08_S0070_0050",
-            "value": "ごめんね、アグモン\nなるべく早く戻ってくるから"
+            "value": "I’m sorry, Agumon. We’ll be back as soon as\nwe can."
         },
         {
             "key": "EP08_S0070_0051",
-            "value": "しょうがないなぁ……\nその代わり、早くむかえにきてよ"
+            "value": "Oh, all right. But you better not take long!"
         },
         {
             "key": "EP08_S0070_0052",
-            "value": "とにかく先生を探す"
+            "value": "Find a teacher."
         },
         {
             "key": "EP08_S0070_0053",
-            "value": "そうだな……\nまずは誰か先生を見つけよう"
+            "value": "Yeah, the more I think about it, the more\nI think we should start by finding a teacher."
         },
         {
             "key": "EP08_S0070_0054",
-            "value": "きっと先生たちも\n僕らのことを捜してるに違いないし"
+            "value": "I’m sure they’re looking for us, after all."
         },
         {
             "key": "EP08_S0070_0055",
-            "value": "それに、先生は何か知ってるかもしれない"
+            "value": "And maybe they know something."
         },
         {
             "key": "EP08_S0070_0056",
-            "value": "そのためにも……\n悪いんだけど、アグモンには隠れててもらわないと"
+            "value": "But if that’s what we’re going to do...sorry,\nAgumon, but you’re going to need to hide."
         },
         {
             "key": "EP08_S0070_0057",
-            "value": "また隠れるの！？\nボク、タクマと一緒がいいよ～！"
+            "value": "Again?! But I want to stay with you, Takuma!"
         },
         {
             "key": "EP08_S0070_0058",
-            "value": "さっきだって、ぬいぐるみのフリして\n大丈夫だったんだし、ボクも行くー！"
+            "value": "Everything worked out before when I pretended\nto be a stuffed animal. I’m coming too!"
         },
         {
             "key": "EP08_S0070_0059",
-            "value": "ダメだよ\nさすがに学生たちに見つかったら、気づかれちゃうし"
+            "value": "No, you’re not. That trick isn’t going to\nwork if any of the students notice you."
         },
         {
             "key": "EP08_S0070_0060",
-            "value": "ごめんね、アグモン"
+            "value": "I’m sorry, Agumon."
         },
         {
             "key": "EP08_S0070_0061",
-            "value": "むぅ～……わかったよぉ\nでも、早く戻ってきてね"
+            "value": "Hmph... Fine. But you’d better come back\nsoon!"
         },
         {
             "key": "EP08_S0070_0062",
-            "value": "よし、それじゃアグモンは建物の陰にある\n茂みのあたりで隠れてて"
+            "value": "Okay. Agumon, you hide in the bushes on the\nmore shaded side of the building."
         },
         {
             "key": "EP08_S0070_0063",
-            "value": "おばあさんと違って、学生たち相手だと\nぬいぐるみじゃないのはすぐバレるだろうから"
+            "value": "Remember, that stuffed animal trick probably\nwon’t fool the students like before."
         },
         {
             "key": "EP08_S0070_0064",
-            "value": "くれぐれも、気を付けて。いいな？"
+            "value": "So you’ll need to be careful and stay out of\nsight, okay?"
         },
         {
             "key": "EP08_S0070_0065",
-            "value": "ふふ……かくれんぼみたいだね"
+            "value": "Heheh, it’s kind of like hide and seek."
         },
         {
             "key": "EP08_S0070_0066",
-            "value": "かくれんぼかぁ……\nうん、ボクがんばって隠れてる！"
+            "value": "Hide and seek, huh? Well, I can do that! I’ll\nhide so good, no one will ever find me!"
         },
         {
             "key": "EP08_S0070_0067",
-            "value": "ははっ、頼んだぞ！"
+            "value": "Haha, you’d better!"
         },
         {
             "key": "EP08_S0070_0068",
-            "value": "じゃあ僕たちは、校舎に入って\n情報を集めながら、<color=#B41919>先生</color>を探してみよう"
+            "value": "All right, now let’s head inside, see what we\ncan learn, and try to find a <color=#B41919>teacher</color>."
         }
     ]
 }

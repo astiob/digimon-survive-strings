@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S0510_0001",
-			"value":"どうした、タクマ？"
+			"value":"What is it, Takuma?"
 		},
 		{
 			"key":"EP09_S0510_0002",
-			"value":"みんなピリピリしてるなって思ってさ\n僕がいない間に何があったんだ？"
+			"value":"Everyone’s acting all tense. What happened\nwhile I was gone?"
 		},
 		{
 			"key":"EP09_S0510_0003",
-			"value":"……んー、あー……ま、色々だな"
+			"value":"...Um, well... Let’s say it’s been a lot."
 		},
 		{
 			"key":"EP09_S0510_0004",
-			"value":"（言いたくないようなことがあった\n　ということだろうか？）"
+			"value":"(Sounds like it’s something he doesn’t really\nwant to talk about.)"
 		},
 		{
 			"key":"EP09_S0510_0005",
-			"value":"ま、何にせよ戻ってきてくれて嬉しいぜ！"
+			"value":"Well, the important thing is, you’re back!"
 		},
 		{
 			"key":"EP09_S0510_0006",
-			"value":"タクマのおかげで、希望も見えてきたことだしな！"
+			"value":"We have hope again, all thanks to you!"
 		},
 		{
 			"key":"EP09_S0510_0007",
-			"value":"どうだ、タクマ\nミノルはたくましくなっただろう？"
+			"value":"What do you think, Takuma?\nHas Minoru toughened up a bit?"
 		},
 		{
 			"key":"EP09_S0510_0008",
-			"value":"ファルコモン、お前っ！？"
+			"value":"Aw, come on, Falcomon!"
 		},
 		{
 			"key":"EP09_S0510_0009",
-			"value":"本当のことだ、照れなくてもいい"
+			"value":"I speak the truth, no need to be bashful."
 		},
 		{
 			"key":"EP09_S0510_0010",
-			"value":"いやいやいやいや、なんで子供を自慢する\n親みたいなことを言ってんだよ！"
+			"value":"Hold up, you’re talking like a parent fawning\nover their baby boy!"
 		},
 		{
 			"key":"EP09_S0510_0011",
-			"value":"気に障ったならひかえるが、俺の率直な意見だ"
+			"value":"If it hurts your feelings I’ll relent.\nIt was simply my honest opinion."
 		},
 		{
 			"key":"EP09_S0510_0012",
-			"value":"お前なぁ……"
+			"value":"Why I oughta..."
 		},
 		{
 			"key":"EP09_S0510_0013",
-			"value":"（確かにたくましくなったな。わざとじゃなく\n　素直に明るく振る舞えてる）"
+			"value":"(He’s definitely gotten stronger. He can act\nso cheerful without putting up a front.)"
 		},
 		{
 			"key":"EP09_S0510_0014",
-			"value":"（でも、それって元からミノルが持ってるものを\n　まっすぐ表に出してる、とも言えるかな？）"
+			"value":"(It feels more like something he’s always had\ninside of him has risen to the surface.)"
 		},
 		{
 			"key":"EP09_S0510_0015",
-			"value":"（まぁ、僕から見ればファルコモンだって\n　成長してるように見えるけど）"
+			"value":"(From what I can tell, Falcomon’s done some\ngrowing of his own, too.)"
 		},
 		{
 			"key":"EP09_S0510_Q1",
-			"value":"（ミノルにどう言おうか？）"
+			"value":"(What should I say about it?)"
 		},
 		{
 			"key":"EP09_S0510_Q1_A1",
-			"value":"ミノルはたくましくなったな"
+			"value":"Minoru’s shaped up!"
 		},
 		{
 			"key":"EP09_S0510_Q1_A2",
-			"value":"元からこんなもんじゃないか？"
+			"value":"He’s the same guy."
 		},
 		{
 			"key":"EP09_S0510_Q1_A3",
-			"value":"ファルコモンが変わったかな？"
+			"value":"Falcomon’s changed."
 		},
 		{
 			"key":"EP09_S0510_0016",
-			"value":"ミノルはたくましくなったな"
+			"value":"Minoru’s shaped up!"
 		},
 		{
 			"key":"EP09_S0510_0017",
-			"value":"僕もミノルはたくましくなったと思うぞ"
+			"value":"I think you’ve shaped up a bit too, Minoru."
 		},
 		{
 			"key":"EP09_S0510_0018",
-			"value":"おいおいタクマまで！　やめろって！"
+			"value":"Sheesh, not you too, man! Give me a break!"
 		},
 		{
 			"key":"EP09_S0510_0019",
-			"value":"なんていうか、今までみたいな調子のいい感じとは\n違って、ちゃんと明るく振る舞ってるっていうか……"
+			"value":"I mean, instead of mouthing off the way you\nusually do, you seem somehow more cheerful..."
 		},
 		{
 			"key":"EP09_S0510_0020",
-			"value":"無理してない感じ、かな\nミノルらしくていいと思うよ"
+			"value":"But it doesn’t feel forced, I guess? I’m\nhappy to see you acting like yourself."
 		},
 		{
 			"key":"EP09_S0510_0021",
-			"value":"そ、そうか？　へへ……\nあんがとな"
+			"value":"Oh, uh, you think? Heh, well... Thanks, dude."
 		},
 		{
 			"key":"EP09_S0510_0022",
-			"value":"ふっ、タクマもミノルのことが\nわかってきたじゃないか"
+			"value":"Hmph, it seems you understand my boy well,\nTakuma."
 		},
 		{
 			"key":"EP09_S0510_0023",
-			"value":"だからお前は何目線なんだよ！"
+			"value":"Who the heck said I’m your boy, man?!"
 		},
 		{
 			"key":"EP09_S0510_0024",
-			"value":"元からこんなもんじゃないか？"
+			"value":"He’s the same guy."
 		},
 		{
 			"key":"EP09_S0510_0025",
-			"value":"うーん、ミノルは元からこんなもんじゃないか？"
+			"value":"Hmm, hasn’t Minoru always been this way?"
 		},
 		{
 			"key":"EP09_S0510_0026",
-			"value":"ほう？　というと？"
+			"value":"Oh? How do you figure?"
 		},
 		{
 			"key":"EP09_S0510_0027",
-			"value":"ミノルって空気読んで調子いいこと言ったりするけど\nそれだって思ってもないこと言ってたわけじゃないし"
+			"value":"You always seem to mouth off, but you were\njust saying what’s on your mind."
 		},
 		{
 			"key":"EP09_S0510_0028",
-			"value":"元々のミノルの良さが\n今は素直に表に出せてるってだけだと思う"
+			"value":"It’s like the good stuff that was always\ninside you’s come to the surface now."
 		},
 		{
 			"key":"EP09_S0510_0029",
-			"value":"ん、んー？　それって褒めてる、のか？"
+			"value":"Um, that IS a compliment, right?"
 		},
 		{
 			"key":"EP09_S0510_0030",
-			"value":"もちろん"
+			"value":"Of course."
 		},
 		{
 			"key":"EP09_S0510_0031",
-			"value":"褒めているな。大絶賛だ"
+			"value":"High praise, indeed!"
 		},
 		{
 			"key":"EP09_S0510_0032",
-			"value":"そ、そうなのか……へへ、なんか照れるぜ"
+			"value":"For real? Heheh... You’re making me blush,\nhere."
 		},
 		{
 			"key":"EP09_S0510_0033",
-			"value":"だが、そんなことは俺だって知っているさ\n俺の方がミノルに詳しいんだぞ、タクマ"
+			"value":"Even I could discern that much, Takuma. I’ve\nbecome a bit of an expert on our boy, here."
 		},
 		{
 			"key":"EP09_S0510_0034",
-			"value":"な、なに変なことで張り合ってんだよ！\n恥ずかしいだろー！"
+			"value":"Aw c’mon, it’s like a competition to\nembarrass me!"
 		},
 		{
 			"key":"EP09_S0510_0035",
-			"value":"ファルコモンが変わった"
+			"value":"Falcomon’s changed."
 		},
 		{
 			"key":"EP09_S0510_0036",
-			"value":"ミノルが変わったように見えるなら\nそれはファルコモンが変わったからじゃないか？"
+			"value":"If you think Minoru’s changed, I’d say it’s\nbecause you’ve changed too, Falcomon."
 		},
 		{
 			"key":"EP09_S0510_0037",
-			"value":"む？　どういうことだ？"
+			"value":"Me? Whatever do you mean?"
 		},
 		{
 			"key":"EP09_S0510_0038",
-			"value":"ファルコモンがミノルの良さに気づいた……\nいや、違うな。ちゃんと褒められるようになったんだ"
+			"value":"You realized Minoru’s good points... Or it’s\nmore like you learned to praise them."
 		},
 		{
 			"key":"EP09_S0510_0039",
-			"value":"もちろん、ミノルだってファルコモンを素直に\n受け入れてる。お互いに信頼し合えてる証拠だよな"
+			"value":"And Minoru accepted you without question,\ntoo. That’s proof that you trust each other."
 		},
 		{
 			"key":"EP09_S0510_0040",
-			"value":"ふむ……そういう発想はなかったな\n俺も成長している、か"
+			"value":"Hrmm... I hadn’t thought of it that way. I’ve\ngrown too, have I?"
 		},
 		{
 			"key":"EP09_S0510_0041",
-			"value":"オレもそう思うぜ"
+			"value":"I’d say so!"
 		},
 		{
 			"key":"EP09_S0510_0042",
-			"value":"これからも素直に褒めてくれよな！\nオレは褒められて伸びるタイプだからさ！"
+			"value":"Keep shoveling the praise on! I’m a flower\nthat needs watering, baby."
 		},
 		{
 			"key":"EP09_S0510_0043",
-			"value":"ふっ、あまり調子に乗るんじゃないぞ？"
+			"value":"Hmph, I do believe you’re backsliding..."
 		},
 		{
 			"key":"EP09_S0510_0044",
-			"value":"ふふふ、ミノルとファルコモン、仲良しだ～！"
+			"value":"Heheh, such an odd couple, those guys!"
 		},
 		{
 			"key":"EP09_S0510_0045",
-			"value":"（この二人、うまくやっているみたいでよかった）"
+			"value":"(These two look like they’re getting along\njust fine...)"
 		},
 		{
 			"key":"EP09_S0510_0046",
-			"value":"ま、オレとファルコモンなら大丈夫だよ\n何があっても負けねえさ！"
+			"value":"Well, don’t worry about us. Whatever comes\nalong, we got this!"
 		}
 	]
 }

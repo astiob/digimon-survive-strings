@@ -2,191 +2,191 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9068_0001",
-			"value":"シュウジさん、ちょっといいですか？"
+			"value":"Got a minute, Shuuji?"
 		},
 		{
 			"key":"EP13_S9068_0002",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP13_S9068_0003",
-			"value":"……シュウジさん？"
+			"value":"Uh, Shuuji?"
 		},
 		{
 			"key":"EP13_S9068_0004",
-			"value":"あ、悪い、気づかなかった\nどうした、タクマ？"
+			"value":"Oh, sorry, I must have spaced out. What is\nit, Takuma?"
 		},
 		{
 			"key":"EP13_S9068_0005",
-			"value":"（反応が鈍いな……集中してるんだろうか？\n　指摘していいものかな……？）"
+			"value":"(I don’t think he heard me just now. He must\nhave something on his mind. Do I mention it?)"
 		},
 		{
 			"key":"EP13_S9068_Q1",
-			"value":"（シュウジさんに、何て声をかけよう……？）"
+			"value":"(What should I say to Shuuji?)"
 		},
 		{
 			"key":"EP13_S9068_Q1_A1",
-			"value":"調子悪いんですか？"
+			"value":"Not feeling well?"
 		},
 		{
 			"key":"EP13_S9068_Q1_A2",
-			"value":"頼りにしてます"
+			"value":"I’m counting on you!"
 		},
 		{
 			"key":"EP13_S9068_Q1_A3",
-			"value":"肩の力を抜いたほうが"
+			"value":"You should relax."
 		},
 		{
 			"key":"EP13_S9068_0006",
-			"value":"調子悪いんですか？"
+			"value":"Not feeling well?"
 		},
 		{
 			"key":"EP13_S9068_0007",
-			"value":"……？\nシュウジさん、どこか調子悪いんですか？"
+			"value":"Uh...you sure you’re okay, Shuuji? Are you\nnot feeling well?"
 		},
 		{
 			"key":"EP13_S9068_0008",
-			"value":"いや、別に……"
+			"value":"No, I’m fine."
 		},
 		{
 			"key":"EP13_S9068_0009",
-			"value":"そう……\nだったら、いいですけど"
+			"value":"All right, if you say so."
 		},
 		{
 			"key":"EP13_S9068_0010",
-			"value":"ウソだ！\nシュウジ、ずっと悩みっぱなしじゃない！"
+			"value":"That’s a lie! Shuuji, you’ve been worried\nsick this whole time!"
 		},
 		{
 			"key":"EP13_S9068_0011",
-			"value":"ゆうべだって\n全然寝てなかったし……"
+			"value":"And you didn’t sleep at all last night."
 		},
 		{
 			"key":"EP13_S9068_0012",
-			"value":"ロップモン、余計なこと言わなくていい！"
+			"value":"Hey, Lopmon! You don’t have to tell him that!"
 		},
 		{
 			"key":"EP13_S9068_0013",
-			"value":"でもボク、心配なんだよ\nシュウジのことが……"
+			"value":"But I’m worried about you, Shuuji."
 		},
 		{
 			"key":"EP13_S9068_0014",
-			"value":"……そうかもな"
+			"value":"Lopmon’s right."
 		},
 		{
 			"key":"EP13_S9068_0015",
-			"value":"不安なんだよ、何もかも……"
+			"value":"I’m so worried about all this."
 		},
 		{
 			"key":"EP13_S9068_0016",
-			"value":"シュウジ……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP13_S9068_0017",
-			"value":"お願い、タクマ！\nシュウジのこと、守ってあげて！"
+			"value":"Takuma, please! You have to look out for him,\nokay?!"
 		},
 		{
 			"key":"EP13_S9068_0018",
-			"value":"うん、任せておいて"
+			"value":"I will, don’t worry."
 		},
 		{
 			"key":"EP13_S9068_0019",
-			"value":"頼りにしてます"
+			"value":"I’m counting on you!"
 		},
 		{
 			"key":"EP13_S9068_0020",
-			"value":"頼りにしてますからね"
+			"value":"I’m counting on you, Shuuji!"
 		},
 		{
 			"key":"EP13_S9068_0021",
-			"value":"……？\nああ、任せとけ……"
+			"value":"What? Yeah, sure, I won’t let you down."
 		},
 		{
 			"key":"EP13_S9068_0022",
-			"value":"はは……僕は教授の次に年上だからね"
+			"value":"Ha ha, I am the oldest after the Professor,\nafter all."
 		},
 		{
 			"key":"EP13_S9068_0023",
-			"value":"肩の力を抜いたほうが"
+			"value":"You should relax."
 		},
 		{
 			"key":"EP13_S9068_0024",
-			"value":"シュウジさん\nもっと肩の力を抜いた方が……"
+			"value":"Shuuji, I think you need to try and relax."
 		},
 		{
 			"key":"EP13_S9068_0025",
-			"value":"……何が言いたい？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP13_S9068_0026",
-			"value":"いえ、すごく無理してるように\n見えたから……"
+			"value":"It’s just, you look like you’re really\nstressed out."
 		},
 		{
 			"key":"EP13_S9068_0027",
-			"value":"そんな。別に、無理なんて――"
+			"value":"What? No, I’m fine."
 		},
 		{
 			"key":"EP13_S9068_0028",
-			"value":"ウソだ！\nシュウジ、ずっと悩みっぱなしじゃない！"
+			"value":"That’s a lie! Shuuji, you’ve been worried\nsick this whole time!"
 		},
 		{
 			"key":"EP13_S9068_0029",
-			"value":"ゆうべだって\n全然寝てなかったし……"
+			"value":"And you didn’t sleep at all last night."
 		},
 		{
 			"key":"EP13_S9068_0030",
-			"value":"ロップモン、余計なこと言わなくていい！"
+			"value":"Hey, Lopmon! You don’t have to tell him that!"
 		},
 		{
 			"key":"EP13_S9068_0031",
-			"value":"でもボク、心配なんだよ\nシュウジのことが……"
+			"value":"But I’m worried about you, Shuuji."
 		},
 		{
 			"key":"EP13_S9068_0032",
-			"value":"お願い、タクマ！\nシュウジのこと、守ってあげて！"
+			"value":"Takuma, please! You have to look out for him,\nokay?!"
 		},
 		{
 			"key":"EP13_S9068_0033",
-			"value":"このままじゃ、主と戦うより先に\nシュウジが壊れちゃうよぉ……"
+			"value":"At this rate, Shuuji, you’re going to fall\napart before we even get to the Master."
 		},
 		{
 			"key":"EP13_S9068_0034",
-			"value":"ロップモン……"
+			"value":"Lopmon..."
 		},
 		{
 			"key":"EP13_S9068_0035",
-			"value":"ロップモン、任せておいて\nシュウジさんは、僕とみんなが守ってみせる"
+			"value":"Don’t worry, Lopmon. We’ll all make sure to\nlook out for Shuuji."
 		},
 		{
 			"key":"EP13_S9068_0036",
-			"value":"だからシュウジさんも、肩の力抜いていいんですよ"
+			"value":"And Shuuji, try to let go of some of that\nstress."
 		},
 		{
 			"key":"EP13_S9068_0037",
-			"value":"ロップモン、タクマ……\nありがとう……"
+			"value":"Lopmon, Takuma... Thank you."
 		},
 		{
 			"key":"EP13_S9068_0038",
-			"value":"タクマ、僕はもう大丈夫だ\n君と話して、だいぶ落ち着いた"
+			"value":"I’m feeling better now, Takuma. Don’t worry.\nTalking with you earlier helped me relax."
 		},
 		{
 			"key":"EP13_S9068_0039",
-			"value":"タクマはもう分かってるんだろ？\n今、自分がすべきことが何か……って"
+			"value":"I’m sure you know what you need to do now,\ndon’t you?"
 		},
 		{
 			"key":"EP13_S9068_0040",
-			"value":"僕だけじゃない。タクマはみんなと話して\n落ち着かせてあげなきゃならないはずだ"
+			"value":"You need to talk to everyone, not just me,\nand help them get ready for this."
 		},
 		{
 			"key":"EP13_S9068_0041",
-			"value":"これは、タクマにしかできない\n頼むよ。君は僕らの……リーダーだ"
+			"value":"It’s something only you can do. Please,\nyou’re the leader."
 		},
 		{
 			"key":"EP13_S9068_0042",
-			"value":"……分かりました、シュウジさん\n僕、自分がやるべきことをやってきます"
+			"value":"You got it, Shuuji. I’ll do what I need to\ndo."
 		},
 		{
 			"key":"EP13_S9068_0043",
-			"value":"僕はもう大丈夫だ\n君はみんなのところへ行ってあげてくれ"
+			"value":"I’m feeling better now, Takuma. Why don’t you\ngo talk to the others?"
 		}
 	]
 }

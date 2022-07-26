@@ -2,59 +2,59 @@
     "scenario_text": [
         {
             "key": "EP04_S1163_0001",
-            "value": "わわっ！？　なぜオマエたちがここにいる！？"
+            "value": "Huh?! What are you guys doing here?"
         },
         {
             "key": "EP04_S1163_0002",
-            "value": "なぜって、もちろんミウを助けるためだ"
+            "value": "Trying to save Miu, obviously."
         },
         {
             "key": "EP04_S1163_0003",
-            "value": "とかなんとか言って\n女王様をワルイやつに、渡す気じゃ……？"
+            "value": "Really? You’re not just saying that so you\ncan hand Her Majesty over to the bad guys?"
         },
         {
             "key": "EP04_S1163_0004",
-            "value": "ボクたちは、そんなことしないよ"
+            "value": "No way! We wouldn’t do that!"
         },
         {
             "key": "EP04_S1163_0005",
-            "value": "アグモンの言う通りだよ"
+            "value": "Yeah, Agumon’s telling the truth."
         },
         {
             "key": "EP04_S1163_0006",
-            "value": "だから、知ってるなら教えてくれないか？\nミウがどこにいるのか"
+            "value": "So if you know where Miu’s hiding, could you\ntell us?"
         },
         {
             "key": "EP04_S1163_0007",
-            "value": "そ、それは……"
+            "value": "Well..."
         },
         {
             "key": "EP04_S1163_0008",
-            "value": "それは？"
+            "value": "Well?"
         },
         {
             "key": "EP04_S1163_0009",
-            "value": "っ……お、教えちゃダメって言われてるからダメ！"
+            "value": "No, I’m not supposed to say, so I won’t!"
         },
         {
             "key": "EP04_S1163_0010",
-            "value": "ええー！？\nボクらが見つける前に、敵に捕まっちゃってもいいの？"
+            "value": "What?! But what if the bad guys take her away\nbefore we can find her?!"
         },
         {
             "key": "EP04_S1163_0011",
-            "value": "そう簡単には、見つからないもん！"
+            "value": "That’ll never happen!"
         },
         {
             "key": "EP04_S1163_0012",
-            "value": "女王様が、<color=#B41919>あんなところ</color>に入ってるなんて\n誰も気づきっこないんだから……"
+            "value": "Nobody would ever think to look in a <color=#B41919>place\nlike that</color>!"
         },
         {
             "key": "EP04_S1163_0013",
-            "value": "（あんなところ……？\n　意外な場所ってことか？）"
+            "value": "(Sounds like she’s hiding in some unexpected\nlocation.)"
         },
         {
             "key": "EP04_S1163_0014",
-            "value": "あんなところに、女王様が隠れてるなんて\n絶対誰も気づきっこないはず……！"
+            "value": "Nobody would ever think to look for Her\nMajesty in there!"
         }
     ]
 }

@@ -2,111 +2,111 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S3030_0001",
-			"value":"なんだか、ドキドキする……\nいつ何は起きるかと思うと……！"
+			"value":"I feel so nervous. Who knows what could\nhappen at any time."
 		},
 		{
 			"key":"EP07_S3030_0002",
-			"value":"ああ……油断できないな"
+			"value":"Right. Stay on your guard."
 		},
 		{
 			"key":"EP07_S3030_0003",
-			"value":"ねえ、ウチら\nほんとに生きて帰れるのかな……？"
+			"value":"Hey, you think we’re all really going to make\nit out of this alive?"
 		},
 		{
 			"key":"EP07_S3030_0004",
-			"value":"……え？"
+			"value":"What?"
 		},
 		{
 			"key":"EP07_S3030_0005",
-			"value":"タクマは大丈夫なの？\nこの状況、どうしたらいいのかしらね……"
+			"value":"Listen, Takuma, are you okay? I don’t know\nwhat to do in this kind of situation."
 		},
 		{
 			"key":"EP07_S3030_Q1",
-			"value":"ミウもサキも不安そうだ……"
+			"value":"Miu and Saki both seem pretty nervous."
 		},
 		{
 			"key":"EP07_S3030_Q1_A1",
-			"value":"僕は、みんなを守りたい"
+			"value":"Don’t worry."
 		},
 		{
 			"key":"EP07_S3030_Q1_A2",
-			"value":"そんなこと、僕に聞くな"
+			"value":"Don’t ask me!"
 		},
 		{
 			"key":"EP07_S3030_Q1_A3",
-			"value":"みんなで声を掛け合おう！"
+			"value":"We rely on each other."
 		},
 		{
 			"key":"EP07_S3030_0006",
-			"value":"不安になるのは分かるよ\nでも、みんなで最善を尽くそう"
+			"value":"I can understand why you’d be nervous, but\nlet’s all put our best feet forward here."
 		},
 		{
 			"key":"EP07_S3030_0007",
-			"value":"とにかく今は\nミユキたちを追うのが最優先だよ"
+			"value":"Remember our top priority right now is to\nfind Miyuki and Haru."
 		},
 		{
 			"key":"EP07_S3030_0008",
-			"value":"え……\nそんなこと、僕に聞かないでよ"
+			"value":"What? Don’t ask me! How should I know?"
 		},
 		{
 			"key":"EP07_S3030_0009",
-			"value":"そ、そうだよね……ごめん"
+			"value":"You’re right. You can’t have all the answers.\nI’m sorry."
 		},
 		{
 			"key":"EP07_S3030_0010",
-			"value":"なによー。頼りないわね～\n僕に任せろくらいのこと、言ってみなさいよ"
+			"value":"Oh, what is wrong with you? Are you good for\nnothing? You’re supposed to be reassuring!"
 		},
 		{
 			"key":"EP07_S3030_0011",
-			"value":"し、しかたないだろう！？"
+			"value":"How am I supposed to be reassuring?"
 		},
 		{
 			"key":"EP07_S3030_0012",
-			"value":"僕だって、自分のことで\nいっぱいいっぱいなんだから"
+			"value":"I can barely handle everything that’s going\non myself!"
 		},
 		{
 			"key":"EP07_S3030_0013",
-			"value":"そ、それに、今はミユキたちを追うのが先だろ"
+			"value":"Besides, we should be focusing on finding\nHaru and Miyuki right now."
 		},
 		{
 			"key":"EP07_S3030_0014",
-			"value":"うーん……ハッキリ「こう」だって言えないけど\nなんとかできるよう、みんなで声を掛け合おう"
+			"value":"Look, I may not have the answer, but we can\ncount on one another to come up with one."
 		},
 		{
 			"key":"EP07_S3030_0015",
-			"value":"ほら、三人寄れば文殊の知恵、って言うだろ？"
+			"value":"They say two heads are better than one,\nright?"
 		},
 		{
 			"key":"EP07_S3030_0016",
-			"value":"そう、だよね……"
+			"value":"I guess..."
 		},
 		{
 			"key":"EP07_S3030_0017",
-			"value":"大丈夫。みんなが一緒なら、きっとその時に\n最善の方法を選ぶことができるはずだよ"
+			"value":"Everything’s going to be okay. As long as we\nstick together, we’ll find a solution."
 		},
 		{
 			"key":"EP07_S3030_0018",
-			"value":"……うん"
+			"value":"Sure."
 		},
 		{
 			"key":"EP07_S3030_0019",
-			"value":"とにかく今は、少しでも早くミユキたちに追いつこう\nまずはそれからだ"
+			"value":"Anyway, right now we should be focused on\ncatching up with Haru and Miyuki."
 		},
 		{
 			"key":"EP07_S3030_0020",
-			"value":"やばい……。タクマはああ言ってたけど\nなんだか足がすくんで動かないよ"
+			"value":"Ugh, this is the worst. I know Takuma’s\nright, but I’m so scared I can hardly move."
 		},
 		{
 			"key":"EP07_S3030_0021",
-			"value":"無理しちゃダメだよ\nゆっくり……ね？"
+			"value":"Well, you don’t have to force yourself. Just\ntake your time, okay?"
 		},
 		{
 			"key":"EP07_S3030_0022",
-			"value":"う、うん……"
+			"value":"Right..."
 		},
 		{
 			"key":"EP07_S3030_0023",
-			"value":"（今、僕がまた声をかけるのは逆効果だろうな\n今は、二人を信じてそっとしておこう）"
+			"value":"(I doubt my saying anything now would be much\nhelp. What I need to do is believe in them.)"
 		}
 	]
 }

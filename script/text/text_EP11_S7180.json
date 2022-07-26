@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7180_0001",
-			"value":"タクマさん！　アオイさんは見つかった？"
+			"value":"Takuma! Have you found Aoi?"
 		},
 		{
 			"key":"EP11_S7180_0002",
-			"value":"だめだ。どこにもいない……"
+			"value":"Nope, I haven’t seen her anywhere."
 		},
 		{
 			"key":"EP11_S7180_0003",
-			"value":"そっか。まだ見つからないんだね\n案外、遠くには行ってない気がするんだけどなぁ"
+			"value":"I see. Nothing yet, huh? I get the feeling\nAoi isn’t all that far away."
 		},
 		{
 			"key":"EP11_S7180_0004",
-			"value":"ミウは、なんとなくそう思ってるだけでしょ\nこーいうとき、適当なこと言っちゃダメよ"
+			"value":"It’s just a hunch though, right? You can’t\njust say what you want at a time like this."
 		},
 		{
 			"key":"EP11_S7180_0005",
-			"value":"適当じゃないよ。帰ってくる途中かもって思ったの\nまだ、近くの森にいるとか……"
+			"value":"I’m not! I just thought she may be on the way\nback. Like in the forest, maybe..."
 		},
 		{
 			"key":"EP11_S7180_0006",
-			"value":"確かにそうだね。探してみるよ"
+			"value":"Yeah, I think so, too.\nI’ll take a look around for her."
 		}
 	]
 }

@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1081_0001",
-			"value":"タクマ、なにしてるんだ？"
+			"value":"Takuma? What are you doing?"
 		},
 		{
 			"key":"EP04_S1081_0002",
-			"value":"いや、窓の向こうって\nどうなってるかと思って……"
+			"value":"I thought I’d check to see what was through\nthis window..."
 		},
 		{
 			"key":"EP04_S1081_0003",
-			"value":"うわっ！　音が……！"
+			"value":"Oops! That was loud!"
 		},
 		{
 			"key":"EP04_S1081_0004",
-			"value":"今の音はなんだ！？"
+			"value":"What was that sound?!"
 		},
 		{
 			"key":"EP04_S1081_0005",
-			"value":"ここまで侵入者が！？"
+			"value":"Intruders?! In here?!"
 		},
 		{
 			"key":"EP04_S1081_0006",
-			"value":"さがして追い出すぞ！"
+			"value":"Let’s go chase them out!"
 		},
 		{
 			"key":"EP04_S1081_0007",
-			"value":"大変だ！　あいつらに見つかっちゃう！"
+			"value":"Oh no! They’re gonna find us!"
 		},
 		{
 			"key":"EP04_S1081_0008",
-			"value":"アグモン！　急いで逃げよう！"
+			"value":"Come on, let’s run for it!"
 		}
 	]
 }

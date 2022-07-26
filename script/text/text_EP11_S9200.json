@@ -2,407 +2,407 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9200_0001",
-			"value":"アオイさん、何してるの？"
+			"value":"What’re you doing, Aoi?"
 		},
 		{
 			"key":"EP11_S9200_0002",
-			"value":"掃除よ。こんなときに\n何してるんだって感じだけど"
+			"value":"Just cleaning. I’m not sure what else to do\nat a time like this."
 		},
 		{
 			"key":"EP11_S9200_0003",
-			"value":"こういう時だからこそよ！\n汚れた場所にいたら落ち着かないわ！"
+			"value":"Times like these make the dirty spots that\nmuch more irritating!"
 		},
 		{
 			"key":"EP11_S9200_0004",
-			"value":"その気持ちはなんとなく、わかるかも"
+			"value":"Yeah, I think I get what you mean."
 		},
 		{
 			"key":"EP11_S9200_0005",
-			"value":"それに、この場所だって\n誰かの想いが詰まった場所だもの"
+			"value":"Plus, this place is full of memories for all\nof us."
 		},
 		{
 			"key":"EP11_S9200_0006",
-			"value":"だから、綺麗にしたくなったの"
+			"value":"That’s why I want to keep it tidy."
 		},
 		{
 			"key":"EP11_S9200_0007",
-			"value":"僕も手伝うよ"
+			"value":"I’ll help, too!"
 		},
 		{
 			"key":"EP11_S9200_0008",
-			"value":"ありがとう\nじゃあ、そこのほうきで埃を取ってくれる？"
+			"value":"Thank you. In that case, would you take care\nof the dusting over there?"
 		},
 		{
 			"key":"EP11_S9200_0009",
-			"value":"ああ、わかったよ"
+			"value":"Sure, no problem."
 		},
 		{
 			"key":"EP11_S9200_0010",
-			"value":"ねぇ……タクマくん"
+			"value":"Um, Takuma..."
 		},
 		{
 			"key":"EP11_S9200_0011",
-			"value":"何？"
+			"value":"Yeah?"
 		},
 		{
 			"key":"EP11_S9200_0012",
-			"value":"……誰も欠けずに\nここまで来れたのって奇跡だと思わない？"
+			"value":"...Don’t you think it’s a miracle we made it\nthis far without losing anyone?"
 		},
 		{
 			"key":"EP11_S9200_0013",
-			"value":"奇跡なんかじゃないよ"
+			"value":"It’s no miracle."
 		},
 		{
 			"key":"EP11_S9200_0014",
-			"value":"僕たちみんな――特にアオイさんが\nがんばってくれたからだよ"
+			"value":"Everyone’s been working super hard...\nEspecially you, Aoi."
 		},
 		{
 			"key":"EP11_S9200_0015",
-			"value":"だから、奇跡じゃなくて、努力の証……\n僕はそう思うんだ"
+			"value":"So it’s not a miracle, but proof of our\nefforts... That’s what I think."
 		},
 		{
 			"key":"EP11_S9200_0016",
-			"value":"そんな、私なんて大したことなんて……"
+			"value":"Especially me?\nI don’t think I did anything special..."
 		},
 		{
 			"key":"EP11_S9200_0017",
-			"value":"（アオイさんは謙遜するけど、すごく頑張ってきた\n　みんなのリーダーとして、時にはお母さんとして）"
+			"value":"(She’s being modest. Aoi’s tried so hard, as\na leader, a mother to everyone...)"
 		},
 		{
 			"key":"EP11_S9200_Q1",
-			"value":"（だったら、アオイさんに何て言おう）"
+			"value":"(What should I say to Aoi?)"
 		},
 		{
 			"key":"EP11_S9200_Q1_A1",
-			"value":"みんなのお母さんだから"
+			"value":"You're like a mom to us."
 		},
 		{
 			"key":"EP11_S9200_Q1_A2",
-			"value":"みんなのリーダーだから"
+			"value":"You're like a leader to us."
 		},
 		{
 			"key":"EP11_S9200_0018",
-			"value":"みんなのお母さんだから"
+			"value":"A mom to all of us."
 		},
 		{
 			"key":"EP11_S9200_0019",
-			"value":"みんなのお母さんだから"
+			"value":"That's not true, Aoi. You're like a mom\n to all of us."
 		},
 		{
 			"key":"EP11_S9200_0020",
-			"value":"お母さん……"
+			"value":"A mom..."
 		},
 		{
 			"key":"EP11_S9200_0021",
-			"value":"アオイみたいなお母さん\n素敵だと思うわ！"
+			"value":"I think a mom like you would be great!"
 		},
 		{
 			"key":"EP11_S9200_0022",
-			"value":"でも、私、そんな立派なことなんて……"
+			"value":"I don’t think I’ve done anything so\npraiseworthy..."
 		},
 		{
 			"key":"EP11_S9200_0023",
-			"value":"いつも僕たちを\n支えてくれたじゃないか"
+			"value":"You always take care of everyone, don’t you?"
 		},
 		{
 			"key":"EP11_S9200_0024",
-			"value":"あ、でも、お母さんって年齢じゃないか\nじゃあお姉さん……かも"
+			"value":"Ah, but I guess a mother’s gotta be much\nolder, huh? So maybe...a big sister?"
 		},
 		{
 			"key":"EP11_S9200_0025",
-			"value":"……どちらにしても嬉しいわ\n私のこと、評価してくれてるんだもの"
+			"value":"...Either way, I’m happy that you hold me in\nsuch high esteem."
 		},
 		{
 			"key":"EP11_S9200_0026",
-			"value":"アオイさんは評価されるだけのことを\nしてると思うよ、本当に"
+			"value":"That’s only because you’ve earned it, Aoi."
 		},
 		{
 			"key":"EP11_S9200_0027",
-			"value":"……ありがとう、タクマくん"
+			"value":"...Thanks, Takuma."
 		},
 		{
 			"key":"EP11_S9200_0028",
-			"value":"みんなのリーダーだから"
+			"value":"A leader to all of us."
 		},
 		{
 			"key":"EP11_S9200_0029",
-			"value":"アオイさんはみんなのリーダーだから"
+			"value":"That's not true, Aoi. You're like a leader\n to all of us."
 		},
 		{
 			"key":"EP11_S9200_0030",
-			"value":"リーダーなんて呼ばれること\n私はしてないわよ"
+			"value":"I don’t consider myself any kind of leader."
 		},
 		{
 			"key":"EP11_S9200_0031",
-			"value":"でも、僕のいない間\nみんなをまとめたのはアオイさんなんでしょ？"
+			"value":"But you held everyone together while I was\ngone, didn’t you?"
 		},
 		{
 			"key":"EP11_S9200_0032",
-			"value":"私は何も……シュウジさんの方が\nよっぽどリーダーだったはずよ"
+			"value":"No, I... Shuuji was much more of a leader\nthan I was."
 		},
 		{
 			"key":"EP11_S9200_0033",
-			"value":"もちろんシュウジさんもリーダーだけど\nアオイさんだってリーダーだと、僕は思うよ"
+			"value":"Well of course he’s a leader, but I think\nyou’re just as much a leader as he is."
 		},
 		{
 			"key":"EP11_S9200_0034",
-			"value":"私も、リーダー？"
+			"value":"Me, a leader?"
 		},
 		{
 			"key":"EP11_S9200_0035",
-			"value":"ああ、リーダーが何人いたっていいじゃないか\nアオイさんはそれだけ頑張ってきた。だから――"
+			"value":"Yeah. No one said there’s gotta be just one.\nYou’ve definitely done your part! So..."
 		},
 		{
 			"key":"EP11_S9200_0036",
-			"value":"ありがとう。アオイさんのおかげで\n僕はまたみんなと再会できたんだ"
+			"value":"Thanks, Aoi. I was able to see everyone again\nbecause of you."
 		},
 		{
 			"key":"EP11_S9200_0037",
-			"value":"……そこまで言われると"
+			"value":"...Well, if you’re gonna go that far..."
 		},
 		{
 			"key":"EP11_S9200_0038",
-			"value":"ちょっと、自信に思えてきたわ\n自信に思っても、いいかしら？"
+			"value":"I might have gained a little confidence.\nIs that all right?"
 		},
 		{
 			"key":"EP11_S9200_0039",
-			"value":"もちろん！\nアオイさんはすごいことをしたんだよ！"
+			"value":"Of course it is! What you’ve done is amazing!"
 		},
 		{
 			"key":"EP11_S9200_0040",
-			"value":"タクマくん……ありがとう"
+			"value":"Takuma... Thank you."
 		},
 		{
 			"key":"EP11_S9200_0041",
-			"value":"でも、タクマくんだってがんばってるでしょう？"
+			"value":"But you’ve been making every effort as well,\nhaven’t you, Takuma?"
 		},
 		{
 			"key":"EP11_S9200_0042",
-			"value":"え？　僕？"
+			"value":"Huh? Me?"
 		},
 		{
 			"key":"EP11_S9200_0043",
-			"value":"ええ。私だけじゃない……タクマくんも\nみんなもとてもがんばっているわ"
+			"value":"Yes. You’ve been working just as hard for\neveryone as I have."
 		},
 		{
 			"key":"EP11_S9200_0044",
-			"value":"じゃあ、みんなががんばったんだね"
+			"value":"It’s safe to say everyone’s been doing their\nbest here."
 		},
 		{
 			"key":"EP11_S9200_0045",
-			"value":"ええ、そう思うわ。誰か一人でも\n欠けていたら……"
+			"value":"Yes, I agree. If we had lost even a single\none of us..."
 		},
 		{
 			"key":"EP11_S9200_0046",
-			"value":"今、こうしてはいられなかったはずだもの"
+			"value":"I don’t think we would be here right now."
 		},
 		{
 			"key":"EP11_S9200_0047",
-			"value":"この世界のこと……僕たちの世界との\n繋がりも知らずに、終わっていたかもしれないね"
+			"value":"Both this world and ours could have ended,\nwith us having no idea how they’re connected."
 		},
 		{
 			"key":"EP11_S9200_0048",
-			"value":"教授と、レナモンのことも……"
+			"value":"We wouldn’t have known about the professor,\nor Renamon..."
 		},
 		{
 			"key":"EP11_S9200_0049",
-			"value":"教授が大人になるまでの長い時間\nレナモンはミユキを思い続けてたんだよね……"
+			"value":"Renamon always thought of Miyuki, so long\nthat the professor grew into an adult..."
 		},
 		{
 			"key":"EP11_S9200_0050",
-			"value":"ええ……そんなに長い時間\n誰か一人のことを思うのは……"
+			"value":"I know... To be thinking about a single person\nfor such a long time..."
 		},
 		{
 			"key":"EP11_S9200_0051",
-			"value":"幸福か、それとも不幸なのかしら……？"
+			"value":"Is that a happy experience? Or an unhappy\none?"
 		},
 		{
 			"key":"EP11_S9200_0052",
-			"value":"（そんな長い時間、想像もできないけど\n　レナモンと教授を見ていると……）"
+			"value":"(I can’t imagine such a long time. Still,\nlooking at Renamon and the professor...)"
 		},
 		{
 			"key":"EP11_S9200_Q2",
-			"value":"（アオイさんに何て言おう）"
+			"value":"(I should tell Aoi it’s...)"
 		},
 		{
 			"key":"EP11_S9200_Q2_A1",
-			"value":"きっと、幸福だ"
+			"value":"Happiness, I’m sure."
 		},
 		{
 			"key":"EP11_S9200_Q2_A2",
-			"value":"不幸なのかもしれない"
+			"value":"Unhappiness, maybe."
 		},
 		{
 			"key":"EP11_S9200_0053",
-			"value":"きっと、幸福だ"
+			"value":"Happiness, I’m sure."
 		},
 		{
 			"key":"EP11_S9200_0054",
-			"value":"きっと、幸福だ\nそれだけ長く、強く思える相手なんて――"
+			"value":"I’d say it’s happiness. If it’s someone you\ncan think about so much for so long..."
 		},
 		{
 			"key":"EP11_S9200_0055",
-			"value":"たぶん、そう簡単に会えないから"
+			"value":"I’d say that’s not the type of person you\nmeet every day."
 		},
 		{
 			"key":"EP11_S9200_0056",
-			"value":"そうね……だからこそ、レナモンは\n教授を許せなかったんだわ"
+			"value":"You’re right... I guess that’s why Renamon\ncouldn’t forgive the professor."
 		},
 		{
 			"key":"EP11_S9200_0057",
-			"value":"でも、そんな二人もわかり合えた"
+			"value":"Well, even those two have come to understand\neach other."
 		},
 		{
 			"key":"EP11_S9200_0058",
-			"value":"いがみ合っていても、きっと\nわかりあえる……それって素敵なことよね"
+			"value":"Coming to an understanding despite being at\nodds... Isn’t that wonderful?"
 		},
 		{
 			"key":"EP11_S9200_0059",
-			"value":"うん。だから、四聖獣ともわかり合いたい\nそうすれば、きっと……"
+			"value":"Yeah. I want to do the same with the Four\nSovereign Monsters. If we can do that..."
 		},
 		{
 			"key":"EP11_S9200_0060",
-			"value":"大丈夫よ。タクマくんの願いは\n四聖獣に届くわ"
+			"value":"Don’t worry, Takuma. Your wish will reach\nthem, I’m sure of it."
 		},
 		{
 			"key":"EP11_S9200_0061",
-			"value":"不幸なのかもしれない"
+			"value":"Unhappiness, maybe."
 		},
 		{
 			"key":"EP11_S9200_0062",
-			"value":"不幸なのかもしれない\nレナモン、幸せそうには見えなかったから……"
+			"value":"Maybe it’s unhappiness. Renamon didn’t look\ntoo happy, after all..."
 		},
 		{
 			"key":"EP11_S9200_0063",
-			"value":"守るって気持ちが……いつしか\n違うものに変わっていったのね"
+			"value":"The desire to protect...transformed into\nsomething different without her noticing."
 		},
 		{
 			"key":"EP11_S9200_0064",
-			"value":"けど、レナモンは間違ってない。ミユキを\n守りたいって気持ちは、嘘じゃなかったんだから"
+			"value":"But Renamon isn’t in the wrong. That feeling\nof wanting to protect Miyuki wasn’t a lie."
 		},
 		{
 			"key":"EP11_S9200_0065",
-			"value":"そうね……だからきっと\n教授ともわかり合えたんだわ"
+			"value":"Yes... Maybe that’s why Renamon and the\nprofessor came to understand each other."
 		},
 		{
 			"key":"EP11_S9200_0066",
-			"value":"あ、いけない。話していたら\n掃除の手が止まってしまったわ"
+			"value":"Oh, shoot! All this talk made me forget about\nthe cleaning."
 		},
 		{
 			"key":"EP11_S9200_0067",
-			"value":"さ、掃除の続きをしましょう？"
+			"value":"Shall we get back to it?"
 		},
 		{
 			"key":"EP11_S9200_0068",
-			"value":"こんなもんかな？"
+			"value":"That should do it."
 		},
 		{
 			"key":"EP11_S9200_0069",
-			"value":"タクマくん、まだ埃が残っているわ"
+			"value":"You missed a spot, Takuma."
 		},
 		{
 			"key":"EP11_S9200_0070",
-			"value":"わっ、ほんとだ\n掃除って結構、難しいよなぁ"
+			"value":"Oops, you’re right. Cleaning’s harder than\nI thought."
 		},
 		{
 			"key":"EP11_S9200_0071",
-			"value":"うふふ……でも、タクマくんは筋がいいわ\nできない人は、本当にできないもの"
+			"value":"Hee hee... Still, you’re pretty good at this.\nSome people just have no sense for it."
 		},
 		{
 			"key":"EP11_S9200_0072",
-			"value":"そうなの？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP11_S9200_0073",
-			"value":"ええ、そうなのよ\nふふ……"
+			"value":"Hee hee, yes, I do."
 		},
 		{
 			"key":"EP11_S9200_0074",
-			"value":"……ねぇ、タクマくん"
+			"value":"Um, Takuma..."
 		},
 		{
 			"key":"EP11_S9200_0075",
-			"value":"どうしたの？"
+			"value":"What’s up?"
 		},
 		{
 			"key":"EP11_S9200_0076",
-			"value":"全部が解決しても……\nこんな風に私と接してくれる？"
+			"value":"Once everything’s settled... Will you still\nhang out with me like this?"
 		},
 		{
 			"key":"EP11_S9200_0077",
-			"value":"（どうしたんだろう？　当たり前だ、って言いたいけど\n　いやでも、根拠もないことを言うのはどうかなぁ？）"
+			"value":"(What’s this? I’d say it’s obvious, but\nI don’t exactly have proof or anything.)"
 		},
 		{
 			"key":"EP11_S9200_Q3",
-			"value":"（アオイさんに何て言えばいいんだ）"
+			"value":"(How should I respond to Aoi?)"
 		},
 		{
 			"key":"EP11_S9200_Q3_A1",
-			"value":"もちろんだよ"
+			"value":"Of course!"
 		},
 		{
 			"key":"EP11_S9200_Q3_A2",
-			"value":"できるだけ、がんばるよ"
+			"value":"As much as I can."
 		},
 		{
 			"key":"EP11_S9200_0078",
-			"value":"もちろんだよ"
+			"value":"Of course!"
 		},
 		{
 			"key":"EP11_S9200_0079",
-			"value":"もちろんだよ\n僕たちは、仲間なんだから！"
+			"value":"Of course! I mean, we’re friends, right?"
 		},
 		{
 			"key":"EP11_S9200_0080",
-			"value":"そうよね……全部が解決しても\nよろしくね、タクマくん"
+			"value":"Yes, you’re right... I look forward to the\nday all this ends, then."
 		},
 		{
 			"key":"EP11_S9200_0081",
-			"value":"こっちこそ、よろしくお願いするよ！"
+			"value":"Yeah, me too!"
 		},
 		{
 			"key":"EP11_S9200_0082",
-			"value":"できるだけ、がんばるよ"
+			"value":"As much as I can."
 		},
 		{
 			"key":"EP11_S9200_0083",
-			"value":"できるだけ、がんばるよ"
+			"value":"As much as I can."
 		},
 		{
 			"key":"EP11_S9200_0084",
-			"value":"向こうも向こうで何が待ち受けているか\nわからないから――"
+			"value":"We have no idea what’s waiting for us ahead,\nafter all..."
 		},
 		{
 			"key":"EP11_S9200_0085",
-			"value":"断言はできないけど"
+			"value":"I can’t say anything for sure at this point."
 		},
 		{
 			"key":"EP11_S9200_0086",
-			"value":"……向こうの世界でも\n大変なことはあるものね"
+			"value":"...There are plenty of trials ahead of us\nback in our world too, huh?"
 		},
 		{
 			"key":"EP11_S9200_0087",
-			"value":"でもきっと、この世界での経験が\nあれば、大丈夫だよ"
+			"value":"Still, after everything we’ve been through in\nthis world, I’m sure it’ll all work out."
 		},
 		{
 			"key":"EP11_S9200_0088",
-			"value":"ええ。私もそう思うわ"
+			"value":"Yes, I think so, too."
 		},
 		{
 			"key":"EP11_S9200_0089",
-			"value":"ふぅ……掃除はこのくらいでいいわね\n私も準備しなくちゃ"
+			"value":"*whew* That’s enough cleaning for now.\nI should get ready."
 		},
 		{
 			"key":"EP11_S9200_0090",
-			"value":"それじゃあタクマくん、また後で"
+			"value":"See you later, Takuma."
 		},
 		{
 			"key":"EP11_S9200_0091",
-			"value":"うん、また後で"
+			"value":"Yeah, until then."
 		},
 		{
 			"key":"EP11_S9200_0092",
-			"value":"この先も大変でしょうけど、乗り切りましょう\n全員で、ね"
+			"value":"Things are about to get tough for us, but\nwe’ll get through it. All of us, together."
 		}
 	]
 }

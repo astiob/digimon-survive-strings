@@ -2,183 +2,183 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1035_0001",
-			"value":"おい……そろそろ行くぞ"
+			"value":"All right, let’s get moving again."
 		},
 		{
 			"key":"EP04_S1035_0002",
-			"value":"えっ！　もう！？\nついさっき、ここについたばっかりじゃない？"
+			"value":"What? Already?! But we just stopped."
 		},
 		{
 			"key":"EP04_S1035_0003",
-			"value":"もう十分休憩したろ"
+			"value":"You had long enough."
 		},
 		{
 			"key":"EP04_S1035_0004",
-			"value":"遊園地までは、まだ距離があるみてえだし\nここでチンタラしてる場合じゃねーんだ"
+			"value":"Besides, we can’t be wastin’ time here when\nwe still got such a long way to go."
 		},
 		{
 			"key":"EP04_S1035_0005",
-			"value":"カイトの言う通りだぜ\nこんなペースじゃ、あっという間に夜になっちまう"
+			"value":"Kaito’s right. At this rate, next thing you\nknow the sun will be down."
 		},
 		{
 			"key":"EP04_S1035_0006",
-			"value":"それによ、あの霧だって\nいつ出てくるかわかんねえぞ"
+			"value":"Plus that fog could come rollin’ in at any\ntime."
 		},
 		{
 			"key":"EP04_S1035_0007",
-			"value":"（確かに……これ以上、休んでるわけにも\n　いかないよな……）"
+			"value":"(That’s true. We really shouldn’t stop for\nmuch longer than this.)"
 		},
 		{
 			"key":"EP04_S1035_0008",
-			"value":"（でも、みんな大丈夫なのか……？）"
+			"value":"(But has everyone gotten enough rest?)"
 		},
 		{
 			"key":"EP04_S1035_0009",
-			"value":"（サキとミユキ、それからロップモンは\n　かなり疲れてたみたいだったけど……）"
+			"value":"(Saki, Miyuki, and Lopmon all seemed pretty\nexhausted.)"
 		},
 		{
 			"key":"EP04_S1035_Q1",
-			"value":"（今、一番心配なのは……）"
+			"value":"(I think I’m most worried about...)"
 		},
 		{
 			"key":"EP04_S1035_Q1_A1",
-			"value":"サキ"
+			"value":"Saki"
 		},
 		{
 			"key":"EP04_S1035_Q1_A2",
-			"value":"ミユキ"
+			"value":"Miyuki"
 		},
 		{
 			"key":"EP04_S1035_Q1_A3",
-			"value":"ロップモン"
+			"value":"Lopmon"
 		},
 		{
 			"key":"EP04_S1035_0010",
-			"value":"サキ"
+			"value":"Saki"
 		},
 		{
 			"key":"EP04_S1035_0011",
-			"value":"（やっぱり、少し顔色の悪かった\n　サキが心配かな……）"
+			"value":"(Saki wasn’t looking so great when we\nstopped. I’m most concerned about her.)"
 		},
 		{
 			"key":"EP04_S1035_0012",
-			"value":"ん？　タクマ？\nどうしたの？　私のこと、ジッと見て……"
+			"value":"Hm? Takuma, is something wrong? Why’re you\nstaring at me?"
 		},
 		{
 			"key":"EP04_S1035_0013",
-			"value":"あっ、いや……"
+			"value":"Uh, no reason..."
 		},
 		{
 			"key":"EP04_S1035_0014",
-			"value":"あっ、もしかして\n私のこと、心配してくれてる～？"
+			"value":"Wait, is this because you’re worried about\nme?"
 		},
 		{
 			"key":"EP04_S1035_0015",
-			"value":"だいじょーぶ！\nしっかり休憩したからさ"
+			"value":"Well, don’t be! I’m all rested up now."
 		},
 		{
 			"key":"EP04_S1035_0016",
-			"value":"景色を見ながら、一緒に\nのんびりしたものね～！"
+			"value":"Yeah, we both got a nice chance to relax and\ntake in the view!"
 		},
 		{
 			"key":"EP04_S1035_0017",
-			"value":"（言われてみれば……サキの顔色は\n　回復してるみたいだな）"
+			"value":"(She does look like she’s feeling better.)"
 		},
 		{
 			"key":"EP04_S1035_0018",
-			"value":"（この調子なら、大丈夫そうかな）"
+			"value":"(I guess she’s good to go.)"
 		},
 		{
 			"key":"EP04_S1035_0019",
-			"value":"ミユキ"
+			"value":"Miyuki"
 		},
 		{
 			"key":"EP04_S1035_0020",
-			"value":"（やっぱりミユキが心配かも）"
+			"value":"(I’m concerned about Miyuki.)"
 		},
 		{
 			"key":"EP04_S1035_0021",
-			"value":"（ただでさえ、しゃべらないし\n　いつも眠そうな感じだし、無理してるんじゃ……）"
+			"value":"(She’s always so quiet, and she’s sleepy all\nthe time. Maybe this is too much for her.)"
 		},
 		{
 			"key":"EP04_S1035_0022",
-			"value":"ねえ、ミユキちゃんとハルくんは\nもう疲れは取れた？　大丈夫？"
+			"value":"Miyuki, Haru, how are you feeling? All rested\nup and ready to get moving again?"
 		},
 		{
 			"key":"EP04_S1035_0023",
-			"value":"ぼくは、へいき"
+			"value":"I’m fine."
 		},
 		{
 			"key":"EP04_S1035_0024",
-			"value":"へいき……"
+			"value":"Fine..."
 		},
 		{
 			"key":"EP04_S1035_0025",
-			"value":"ならいいんだけど……\nもし、本当に辛かったら言ってね？"
+			"value":"All right, then. But let us know if things\nstart to get too hard, okay?"
 		},
 		{
 			"key":"EP04_S1035_0026",
-			"value":"その時は、私の背中に乗せてあげるわ"
+			"value":"Then I’ll let you ride on my back!"
 		},
 		{
 			"key":"EP04_S1035_0027",
-			"value":"（アオイさんとラブラモンが見てくれてるし\n　なんとか大丈夫そうだな）"
+			"value":"(Seems like Aoi and Labramon are looking out\nfor them, so they should be fine.)"
 		},
 		{
 			"key":"EP04_S1035_0028",
-			"value":"ロップモン"
+			"value":"Lopmon"
 		},
 		{
 			"key":"EP04_S1035_0029",
-			"value":"（ロップモンは、足が痛いって\n　泣きそうな顔してたし、心配だよな……）"
+			"value":"(Lopmon said his legs were sore, and I think\nI saw tears in his eyes. That concerns me.)"
 		},
 		{
 			"key":"EP04_S1035_0030",
-			"value":"ロップモン、足、いたいの治ったー？"
+			"value":"Lopmon, are your legs feeling better?"
 		},
 		{
 			"key":"EP04_S1035_0031",
-			"value":"うん、ボクも……ちゃんと歩くよ"
+			"value":"Yeah... I can walk fine now."
 		},
 		{
 			"key":"EP04_S1035_0032",
-			"value":"シュウジ、今度は、足ひっぱらないように\nボクもちゃんとするね"
+			"value":"Shuuji, I swear I’ll keep up this time."
 		},
 		{
 			"key":"EP04_S1035_0033",
-			"value":"当たり前のことを、いちいち言うな"
+			"value":"Sure, that’s the least you could do. I don’t\nsee why you’re telling me about it."
 		},
 		{
 			"key":"EP04_S1035_0034",
-			"value":"むー……どうしてシュウジは\nいつもコトバがチクチクしてるんだろう？"
+			"value":"Grr... Why does Shuuji always have to be so\nmean?"
 		},
 		{
 			"key":"EP04_S1035_0035",
-			"value":"心に余裕がない証なのだろうが……\nロップモン、あまり気にしすぎるなよ"
+			"value":"It is proof that he has but little room in\nhis heart. Lopmon, do not be dismayed."
 		},
 		{
 			"key":"EP04_S1035_0036",
-			"value":"うん……ボク、大丈夫だから"
+			"value":"Right... I’ll be okay."
 		},
 		{
 			"key":"EP04_S1035_0037",
-			"value":"（シュウジさんとは相変わらずだけど\n　ひとまず歩けそうではあるか……）"
+			"value":"(Well, Shuuji’s as demanding as ever, but it\ndoes look like we can get moving.)"
 		},
 		{
 			"key":"EP04_S1035_0038",
-			"value":"シュウジさん……みんな体力も戻って来たみたいだし\nカイトの言う通り、そろそろ出発しましょう"
+			"value":"Everyone seems to be feeling better, Shuuji.\nKaito’s right, we should get moving."
 		},
 		{
 			"key":"EP04_S1035_0039",
-			"value":"モタモタしてると、ミウがどうなるか\nわかんねーんだからな"
+			"value":"Yeah, who knows what could happen to Miu if\nwe waste too much time?"
 		},
 		{
 			"key":"EP04_S1035_0040",
-			"value":"そんなこと、言われずともわかってる"
+			"value":"You don’t have to tell me that."
 		},
 		{
 			"key":"EP04_S1035_0041",
-			"value":"みんな、先へ進むぞ"
+			"value":"Let’s go, everyone!"
 		}
 	]
 }

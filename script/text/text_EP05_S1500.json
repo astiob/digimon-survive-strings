@@ -2,255 +2,255 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1500_0001",
-			"value":"ミウ、こんな所にいたんだ\nカイトが捜してたよ"
+			"value":"Oh, there you are, Miu.\nKaito was looking for you."
 		},
 		{
 			"key":"EP05_S1500_0002",
-			"value":"だってさミウ\nまったく、お兄ちゃんは心配性ねー"
+			"value":"What’d I tell ya, Miu? That brother of yours\nsure likes to worry."
 		},
 		{
 			"key":"EP05_S1500_0003",
-			"value":"お兄ちゃんのことなんて知らんもん"
+			"value":"What do I care?"
 		},
 		{
 			"key":"EP05_S1500_0004",
-			"value":"こういう状況なんだから、カイトが\n心配する気持ちもわかるんだ"
+			"value":"I understand his concerns, given how things\nare right now."
 		},
 		{
 			"key":"EP05_S1500_0005",
-			"value":"兄妹で仲良くしたいっていうのは、\n自然な感情じゃないかな？"
+			"value":"Isn’t it natural for your brother to want to\nget along with you?"
 		},
 		{
 			"key":"EP05_S1500_0006",
-			"value":"……そうだけど"
+			"value":"...Yeah, I guess so."
 		},
 		{
 			"key":"EP05_S1500_0007",
-			"value":"こんなよくわからない世界でも、\nお兄ちゃんがお兄ちゃんのままで……"
+			"value":"Even in this weird world, your brother’s\nstill your brother."
 		},
 		{
 			"key":"EP05_S1500_0008",
-			"value":"それがちょっと、嫌になるの"
+			"value":"It just kinda bothers me, that’s all."
 		},
 		{
 			"key":"EP05_S1500_0009",
-			"value":"そっか……でも、カイトのそういう\nぶれないところはすごいと思うよ"
+			"value":"I see... Still, I’m impressed that this\nsituation doesn’t rattle a guy like him."
 		},
 		{
 			"key":"EP05_S1500_0010",
-			"value":"お兄ちゃんはね、悪霊に取り憑かれてるんだよ"
+			"value":"Kaito’s haunted by an evil spirit."
 		},
 		{
 			"key":"EP05_S1500_0011",
-			"value":"あ、悪霊……？"
+			"value":"An evil spirit?"
 		},
 		{
 			"key":"EP05_S1500_0012",
-			"value":"うん。だからウチのことあんな心配するの"
+			"value":"Yeah. That’s why he frets over me so much."
 		},
 		{
 			"key":"EP05_S1500_0013",
-			"value":"ほらほら、見てタクマさん。これ、お札だよ"
+			"value":"Here, Takuma! This is a talisman."
 		},
 		{
 			"key":"EP05_S1500_0014",
-			"value":"このお札で悪霊退散するのだー"
+			"value":"Use it to exorcise the evil spirit."
 		},
 		{
 			"key":"EP05_S1500_0015",
-			"value":"（相変わらずミウはよくわからない子だな……）"
+			"value":"(I seriously can’t tell what she’s getting\nat, as usual.)"
 		},
 		{
 			"key":"EP05_S1500_0016",
-			"value":"（うーん、これはノってあげた方がいいのかな？\n　それとも、カイトとの仲を取り持つべき？）"
+			"value":"(Hmm, maybe I should just go along with it?\nOr maybe mediate between her and Kaito?)"
 		},
 		{
 			"key":"EP05_S1500_0017",
-			"value":"（いや、シャコモンに振ってみた方がいいかな？）"
+			"value":"(Oh, or what if I let Syakomon handle...\nwhatever this is?)"
 		},
 		{
 			"key":"EP05_S1500_Q1",
-			"value":"（さて、ここはどうしよう？）"
+			"value":"(How should I react here?)"
 		},
 		{
 			"key":"EP05_S1500_Q1_A1",
-			"value":"いいね、悪霊退散だ！"
+			"value":"Yeah, let’s cast it out!"
 		},
 		{
 			"key":"EP05_S1500_Q1_A2",
-			"value":"カイトのこともわかってあげて"
+			"value":"Take Kaito’s side."
 		},
 		{
 			"key":"EP05_S1500_Q1_A3",
-			"value":"悪霊だってさ？　シャコモン"
+			"value":"Do it, Syakomon!"
 		},
 		{
 			"key":"EP05_S1500_0019",
-			"value":"お、いいね！　悪霊退散だ！"
+			"value":"Oh, good call! Let’s cast out that evil\nspirit!"
 		},
 		{
 			"key":"EP05_S1500_0020",
-			"value":"うんうん！　こうやってね\nナンマイダーナンマイダーってするの！"
+			"value":"Yeah! I know a good chant! Namuamidabutsu,\nnamuamidabutsuuu⁠—"
 		},
 		{
 			"key":"EP05_S1500_0021",
-			"value":"ぐわぁ～！　く、苦しい～！"
+			"value":"Ack! IT BUUURNS!"
 		},
 		{
 			"key":"EP05_S1500_0022",
-			"value":"わぁ！　た、タクマさんに効いちゃった！？\nタクマさんにも悪霊が憑いてたの！？"
+			"value":"Yeek! It worked on you?! B-b-but that means\nyou’re possessed, too?!"
 		},
 		{
 			"key":"EP05_S1500_0023",
-			"value":"うぐぐ……助けて～"
+			"value":"Ooh... Help me..."
 		},
 		{
 			"key":"EP05_S1500_0024",
-			"value":"た、タクマ～！　しっかりして～！"
+			"value":"Hey, stay with us, Takuma!"
 		},
 		{
 			"key":"EP05_S1500_0025",
-			"value":"ごめんね、タクマさん～！"
+			"value":"Takumaaa, I’m sooorryyy!"
 		},
 		{
 			"key":"EP05_S1500_0026",
-			"value":"な、なーんちゃってー。冗談だよー"
+			"value":"Uh, it was just a joke, you guys."
 		},
 		{
 			"key":"EP05_S1500_0027",
-			"value":"も、もうっ！　ビックリさせないでよ\nタクマさんのバカっ！"
+			"value":"Wha’⁠—! You almost gave me a heart attack,\nyou stupid jerk!"
 		},
 		{
 			"key":"EP05_S1500_0028",
-			"value":"ごめんごめん……"
+			"value":"Sorry, sorry..."
 		},
 		{
 			"key":"EP05_S1500_0029",
-			"value":"ふふ……ミウったら、楽しそうにはしゃいじゃって"
+			"value":"Hehe, I bet she really thinks this is funny,\nanyway."
 		},
 		{
 			"key":"EP05_S1500_0031",
-			"value":"ミウ？　カイトのこともわかってあげてよ"
+			"value":"Hey, Miu? Why don’t you try to see things\nfrom Kaito’s side?"
 		},
 		{
 			"key":"EP05_S1500_0032",
-			"value":"カイトだって、別に意地悪で言ってるんじゃないしさ"
+			"value":"It’s not like he’s doing this out spite."
 		},
 		{
 			"key":"EP05_S1500_0033",
-			"value":"そんなの……わかってるもん"
+			"value":"I...I know that."
 		},
 		{
 			"key":"EP05_S1500_0034",
-			"value":"それでも、嫌なものは嫌なの……"
+			"value":"Still, I can’t stand what I can’t stand."
 		},
 		{
 			"key":"EP05_S1500_0035",
-			"value":"ミウ……"
+			"value":"Miu..."
 		},
 		{
 			"key":"EP05_S1500_0036",
-			"value":"タクマ、ミウだってお兄ちゃんの気持ちは\nわかってるの"
+			"value":"She gets how Kaito feels, Takuma."
 		},
 		{
 			"key":"EP05_S1500_0037",
-			"value":"それでも、ミウにだって感情はあるんだよ\n干渉されたくないことだってあるの"
+			"value":"But Miu has feelings of her own. She doesn’t\nwant someone interfering in her life."
 		},
 		{
 			"key":"EP05_S1500_0038",
-			"value":"ミウはお兄ちゃんの言いなりの\n操り人形じゃないんだから"
+			"value":"She’s not just some puppet dancing on her\nbrother’s strings."
 		},
 		{
 			"key":"EP05_S1500_0039",
-			"value":"あ……そ、そうだよね。ごめん、ミウ\n僕も、ミウの気持ち考えてなかった"
+			"value":"Ah. Well, when you put it that way... My bad,\nMiu, I wasn’t considering your feelings."
 		},
 		{
 			"key":"EP05_S1500_0040",
-			"value":"ん……いいけど、別に"
+			"value":"Um... It’s all right."
 		},
 		{
 			"key":"EP05_S1500_0042",
-			"value":"だってさ、シャコモン"
+			"value":"Do it, Syakomon!"
 		},
 		{
 			"key":"EP05_S1500_0043",
-			"value":"え、私？"
+			"value":"What? Uh, me?"
 		},
 		{
 			"key":"EP05_S1500_0044",
-			"value":"ほら～、シャコモンも一緒にやろ？\n悪霊退散～悪霊退散～"
+			"value":"Come on, you think we should go for it, don’t\nyou, Syakomon? Ex-or-cise, ex-or-cise..."
 		},
 		{
 			"key":"EP05_S1500_0045",
-			"value":"ふふん。ミウ？　そんな紙切れなんて使わなくても\nお兄ちゃんから悪霊を追い出す方法があるわよ？"
+			"value":"Uh, Miu? Y’know there’s a way to get rid of\nthat evil spirit without some scrap of paper."
 		},
 		{
 			"key":"EP05_S1500_0046",
-			"value":"え？　なになに、どうやんの？"
+			"value":"Huh? What, what is it?"
 		},
 		{
 			"key":"EP05_S1500_0047",
-			"value":"私のこの殻を開いて～、お兄ちゃんを中に\n誘いこんだら～……"
+			"value":"If I just open my shell here, and invite your\nbrother inside, then..."
 		},
 		{
 			"key":"EP05_S1500_0048",
-			"value":"がぶっ！"
+			"value":"CHOMP!"
 		},
 		{
 			"key":"EP05_S1500_0049",
-			"value":"これで一発よ！"
+			"value":"Gone in one bite!"
 		},
 		{
 			"key":"EP05_S1500_0050",
-			"value":"わぁ！　すごいすごい！\nシャコモンてんさ～い！"
+			"value":"Wow, that’s genius! You’re incredible,\nSyakomon!"
 		},
 		{
 			"key":"EP05_S1500_0051",
-			"value":"にしし～、後でお兄ちゃんにやってみようね～"
+			"value":"Nyeheheh, let’s try it on Kaito next."
 		},
 		{
 			"key":"EP05_S1500_0052",
-			"value":"いいわね！"
+			"value":"I’m down!"
 		},
 		{
 			"key":"EP05_S1500_0053",
-			"value":"あ、あんまり危ないことはしないでね……"
+			"value":"Um, things are dangerous enough around here\nas it is..."
 		},
 		{
 			"key":"EP05_S1500_0054",
-			"value":"まぁとにかく、カイトには僕からも言っておくからさ\nあんまり喧嘩ばかりしないで、ね？"
+			"value":"At any rate, I’ll say something to your\nbrother. Try to lay off the bickering, okay?"
 		},
 		{
 			"key":"EP05_S1500_0055",
-			"value":"うん……"
+			"value":"I'll try to try, at least..."
 		},
 		{
 			"key":"EP05_S1500_0056",
-			"value":"……あのね、タクマさん"
+			"value":"...Hey, Takuma."
 		},
 		{
 			"key":"EP05_S1500_0057",
-			"value":"何？"
+			"value":"What?"
 		},
 		{
 			"key":"EP05_S1500_0058",
-			"value":"ウチ、何もわからないままここにいて\nこれからどうすればいいかも、全然わかんないの"
+			"value":"I came here all clueless, and heck, I still\nhave no idea how I’m supposed to handle this."
 		},
 		{
 			"key":"EP05_S1500_0059",
-			"value":"少しくらい、わかることがあればいいのに……"
+			"value":"It’d be nice if I knew anything at all..."
 		},
 		{
 			"key":"EP05_S1500_0060",
-			"value":"（わからないことだらけじゃ、不安にもなるよな）"
+			"value":"(It’s only natural to get so anxious with so\nlittle info to go on.)"
 		},
 		{
 			"key":"EP05_S1500_0061",
-			"value":"（だからかな、ミウはカイトが嫌いなんじゃなくて\n　不安な気持ちをぶつけてるだけなのかもしれない）"
+			"value":"(Maybe it’s less that she hates Kaito, and\nmore like she’s directing her fears at him.)"
 		},
 		{
 			"key":"EP05_S1500_0062",
-			"value":"わかんないことばっか\n少しくらい、わかることがあればいいのに……"
+			"value":"I’m seriously clueless here. It’d be nice if\nI knew anything at all..."
 		}
 	]
 }

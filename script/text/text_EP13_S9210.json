@@ -2,287 +2,287 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9210_0001",
-			"value":"ミノル、何やってるんだ？"
+			"value":"Minoru, am I seeing things?"
 		},
 		{
 			"key":"EP13_S9210_0002",
-			"value":"ああ、掃除だよ……"
+			"value":"Nope, I’m cleaning up."
 		},
 		{
 			"key":"EP13_S9210_0003",
-			"value":"おかしいだろ？\n学校の掃除当番をいつもサボッてたオレが――"
+			"value":"It’s funny, isn’t it? I always used to do\nwhatever I could to get out of cleaning duty."
 		},
 		{
 			"key":"EP13_S9210_0004",
-			"value":"出ていく場所の掃除をするなんてさ"
+			"value":"And now here I am, cleaning up even though\nwe’re about to leave."
 		},
 		{
 			"key":"EP13_S9210_0005",
-			"value":"……でも、そうしたい気分だったんだ\nここでの暮らしに愛着があんのかな、オレ"
+			"value":"But it just felt like the right thing to do.\nI guess living here really got to me."
 		},
 		{
 			"key":"EP13_S9210_0006",
-			"value":"ミノル……"
+			"value":"Minoru..."
 		},
 		{
 			"key":"EP13_S9210_0007",
-			"value":"（ミノルの気持ちはよくわかる\n　でも、あんまり真面目に返すのもらしくないかな？）"
+			"value":"(I know what he means, but maybe the thing\nfor me to do is to try and lighten the mood.)"
 		},
 		{
 			"key":"EP13_S9210_Q1",
-			"value":"（ミノルに何て言おう……？）"
+			"value":"(What should I say?)"
 		},
 		{
 			"key":"EP13_S9210_Q1_A1",
-			"value":"それなら、ここに残る？"
+			"value":"So, why not stay here?"
 		},
 		{
 			"key":"EP13_S9210_Q1_A2",
-			"value":"気持ちはわかるよ"
+			"value":"I know how you feel."
 		},
 		{
 			"key":"EP13_S9210_0008",
-			"value":"それなら、ここに残る？"
+			"value":"So, why not stay here?"
 		},
 		{
 			"key":"EP13_S9210_0009",
-			"value":"それなら、ここに残る？"
+			"value":"So, why not stay here?"
 		},
 		{
 			"key":"EP13_S9210_0010",
-			"value":"それはいい\n俺たちはお前を歓迎するぞ"
+			"value":"A worthy suggestion. We would all welcome you\nhere."
 		},
 		{
 			"key":"EP13_S9210_0011",
-			"value":"へへ、それも悪くないな\nけど、そういうわけにもいかないだろ……"
+			"value":"Heheh, you know, it doesn’t sound half bad.\nBut it’s not really a possibility."
 		},
 		{
 			"key":"EP13_S9210_0012",
-			"value":"向こうにだって、オレを待ってくれてる人が\nいるんだからさ"
+			"value":"After all, there are people back in my world\nwho are waiting for me."
 		},
 		{
 			"key":"EP13_S9210_0013",
-			"value":"気持ちはわかるよ"
+			"value":"I know how you feel."
 		},
 		{
 			"key":"EP13_S9210_0014",
-			"value":"気持ちはわかるよ"
+			"value":"I know how you feel."
 		},
 		{
 			"key":"EP13_S9210_0015",
-			"value":"ああ……何でだろうな\nこっちの世界は辛いことばっかりなのに"
+			"value":"Yeah, I’m not really sure how it happened.\nEverything here has been so hard."
 		},
 		{
 			"key":"EP13_S9210_0016",
-			"value":"どうして、こんな寂しい気分になるんだろう\nやっと帰れるかもしれねえってのに……"
+			"value":"But I feel so sad to leave this place, even\nwhen we might finally be going home."
 		},
 		{
 			"key":"EP13_S9210_0017",
-			"value":"ミノル、手伝うぞ"
+			"value":"Allow me to give you a hand."
 		},
 		{
 			"key":"EP13_S9210_0018",
-			"value":"じゃあ、そこの高いところ拭いてくれ\nそれと――その……"
+			"value":"Sure. You can wipe off that hard-to-reach\nspot up there. And, uh..."
 		},
 		{
 			"key":"EP13_S9210_0019",
-			"value":"どうした？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP13_S9210_0020",
-			"value":"少し言いにくいことなんだけどさ――"
+			"value":"It’s kind of hard for me to say this, but..."
 		},
 		{
 			"key":"EP13_S9210_0021",
-			"value":"言いよどむな\n俺とお前の仲じゃないか"
+			"value":"You needn’t worry. We’re partners, are we\nnot?"
 		},
 		{
 			"key":"EP13_S9210_0022",
-			"value":"でも改まってこんなことを\n言うのは照れ臭いというか……"
+			"value":"Yeah, but it’s just so embarrassing..."
 		},
 		{
 			"key":"EP13_S9210_0023",
-			"value":"（大体、ミノルがいいそうなことは\n　想像はつくけど……）"
+			"value":"(I think I’ve got a pretty good idea of what\nMinoru wants to say.)"
 		},
 		{
 			"key":"EP13_S9210_Q2",
-			"value":"（ミノルはファルコモンに対して……）"
+			"value":"Minoru wants to..."
 		},
 		{
 			"key":"EP13_S9210_Q2_A1",
-			"value":"お礼を言いたいんだろう"
+			"value":"Say thanks."
 		},
 		{
 			"key":"EP13_S9210_Q2_A2",
-			"value":"励ましたいんだろう"
+			"value":"Encourage Falcomon."
 		},
 		{
 			"key":"EP13_S9210_0024",
-			"value":"お礼を言いたいんだろう"
+			"value":"Say thanks."
 		},
 		{
 			"key":"EP13_S9210_0025",
-			"value":"お礼を言いたいんだろ？"
+			"value":"You’re trying to say thanks, aren’t you?"
 		},
 		{
 			"key":"EP13_S9210_0026",
-			"value":"なんだと！？\nそれは本当か！！！！？？？"
+			"value":"What?! Is that true?!"
 		},
 		{
 			"key":"EP13_S9210_0027",
-			"value":"……ちょ、声がでかいって！"
+			"value":"Hey, not so loud!"
 		},
 		{
 			"key":"EP13_S9210_0028",
-			"value":"いや、すまん。ミノルが俺を頼りに\nしていることは知っていたが……"
+			"value":"My apologies. I knew, of course, that you\nrelied on me, but..."
 		},
 		{
 			"key":"EP13_S9210_0029",
-			"value":"しかし、改めて礼を言ってもらえるとなると\n嬉しいものだな。宙返りしたい気分だぞ"
+			"value":"It’s still so nice that you would want to\nthank me properly. I could do a flip!"
 		},
 		{
 			"key":"EP13_S9210_0030",
-			"value":"……だ、そうだよ、ミノル"
+			"value":"Well, there you have it, Minoru."
 		},
 		{
 			"key":"EP13_S9210_0031",
-			"value":"わーったよ……その、あれだ\nファルコモン、ありがとうな"
+			"value":"Okay, okay. Yeah, you got it. Falcomon, thank\nyou."
 		},
 		{
 			"key":"EP13_S9210_0032",
-			"value":"お前に会うまで、オレはダメな奴だった\n一見明るく振舞ってたけど、それは――"
+			"value":"Before I met you, I was nothing. Sure, I may\nhave acted cheerful, but..."
 		},
 		{
 			"key":"EP13_S9210_0033",
-			"value":"目の前の問題から目をそらすために、ずっと\nふざけてごまかしてたんだ"
+			"value":"...that was just a way for me to avoid facing\nmy problems, with a joke and a laugh."
 		},
 		{
 			"key":"EP13_S9210_0034",
-			"value":"でもお前は、そんなオレに\n戦う力をくれた……いや、戦う心をくれたんだ"
+			"value":"But you gave me the strength to fight when\nI only wanted to run. You changed my heart."
 		},
 		{
 			"key":"EP13_S9210_0035",
-			"value":"だから……ありがとう、ファルコモン……"
+			"value":"So, thank you, Falcomon."
 		},
 		{
 			"key":"EP13_S9210_0036",
-			"value":"いいや……それは俺も同じだ\nありがとう、ミノル……"
+			"value":"No, I feel the same way about you. Thank you,\nMinoru."
 		},
 		{
 			"key":"EP13_S9210_0037",
-			"value":"励ましたいんだろう"
+			"value":"Encourage Falcomon."
 		},
 		{
 			"key":"EP13_S9210_0038",
-			"value":"ファルコモンを励ましたいんだろ？"
+			"value":"You’re trying to cheer him up before the\nfight, aren’t you?"
 		},
 		{
 			"key":"EP13_S9210_0039",
-			"value":"へっ、いやあ、まあ……そうだな"
+			"value":"Heh, well, uh, yeah..."
 		},
 		{
 			"key":"EP13_S9210_0040",
-			"value":"……うっし！\n気合い入れようぜ、ファルコモン！"
+			"value":"Here we go! Time for us to do this thing,\nright, Falcomon?"
 		},
 		{
 			"key":"EP13_S9210_0041",
-			"value":"ああ……"
+			"value":"Indeed."
 		},
 		{
 			"key":"EP13_S9210_0042",
-			"value":"（余計な口出しをしちゃったかな……）"
+			"value":"(Maybe I didn’t have to say anything, after\nall.)"
 		},
 		{
 			"key":"EP13_S9210_0043",
-			"value":"ところで、もうすぐ決戦だよね"
+			"value":"Anyway, not much time left now before this is\nall over."
 		},
 		{
 			"key":"EP13_S9210_0044",
-			"value":"あーあ……考えないようにしてたのによぉ"
+			"value":"Man, don’t remind me. I’ve been trying not to\nthink about it."
 		},
 		{
 			"key":"EP13_S9210_0045",
-			"value":"え？"
+			"value":"Oh?"
 		},
 		{
 			"key":"EP13_S9210_0046",
-			"value":"（考えないようにって……やっぱり決戦が怖いのか？）"
+			"value":"(Does that mean...he really has been worried\nabout the upcoming fight?)"
 		},
 		{
 			"key":"EP13_S9210_0047",
-			"value":"（いや、それとも元の世界に戻るのが？\n　もしかして、こっちが居心地いいって思ってる？）"
+			"value":"(Or maybe it’s going back to our world that\nscares him. Maybe he prefers it here.)"
 		},
 		{
 			"key":"EP13_S9210_Q3",
-			"value":"（ミノルはひょっとして……）"
+			"value":"Minoru, are you afraid of..."
 		},
 		{
 			"key":"EP13_S9210_Q3_A1",
-			"value":"決戦が怖い？"
+			"value":"...the battle?"
 		},
 		{
 			"key":"EP13_S9210_Q3_A2",
-			"value":"元の世界に戻りたくない？"
+			"value":"...going back home?"
 		},
 		{
 			"key":"EP13_S9210_0048",
-			"value":"決戦が怖い？"
+			"value":"...the battle?"
 		},
 		{
 			"key":"EP13_S9210_0049",
-			"value":"決戦が怖い？"
+			"value":"...the battle?"
 		},
 		{
 			"key":"EP13_S9210_0050",
-			"value":"ああ……やっぱり少しな……"
+			"value":"Yeah, a little."
 		},
 		{
 			"key":"EP13_S9210_0051",
-			"value":"安心しろ、俺もだ"
+			"value":"Do not fear. I’m scared too..."
 		},
 		{
 			"key":"EP13_S9210_0052",
-			"value":"だが、お前には俺がついてる\n俺にも、お前がついてる"
+			"value":"...but I’ll be there for you, and I know\nyou’ll be there for me."
 		},
 		{
 			"key":"EP13_S9210_0053",
-			"value":"ああ、そうだったな\n安心だ……"
+			"value":"Yeah, you’re right. I shouldn’t be worried."
 		},
 		{
 			"key":"EP13_S9210_0054",
-			"value":"元の世界に戻りたくない？"
+			"value":"...going back home?"
 		},
 		{
 			"key":"EP13_S9210_0055",
-			"value":"元の世界に戻りたくない？"
+			"value":"Do you not want to go back home?"
 		},
 		{
 			"key":"EP13_S9210_0056",
-			"value":"そんなことはないけどさぁ……"
+			"value":"Well, no, it’s not like that."
 		},
 		{
 			"key":"EP13_S9210_0057",
-			"value":"ミノル、向こうにはお前を待つ家族がいるのだろう？"
+			"value":"Minoru, your family is waiting for you back\nin your world, are they not?"
 		},
 		{
 			"key":"EP13_S9210_0058",
-			"value":"余計なことは考えるな\nお前は、お前のいるべき場所に立て"
+			"value":"Do not lose sight of that. You should go back\nto where you belong."
 		},
 		{
 			"key":"EP13_S9210_0059",
-			"value":"……そうだな"
+			"value":"Yeah, right..."
 		},
 		{
 			"key":"EP13_S9210_0060",
-			"value":"決戦、がんばろうな……"
+			"value":"Let’s give this final battle all we have."
 		},
 		{
 			"key":"EP13_S9210_0061",
-			"value":"ああ……"
+			"value":"Indeed."
 		},
 		{
 			"key":"EP13_S9210_0062",
-			"value":"大丈夫だって、心配すんなよ\n……迷ったり、してねえから"
+			"value":"Hey, don’t worry about me! I’m not feeling\nconflicted about anything!"
 		}
 	]
 }

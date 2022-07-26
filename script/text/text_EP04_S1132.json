@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1132_0001",
-			"value":"これは……普通の窓か……"
+			"value":"This is...just a normal window."
 		},
 		{
 			"key":"EP04_S1132_0002",
-			"value":"くもってるけど、ちゃんと外が見えるね"
+			"value":"It’s clouded up, but I can see outside."
 		},
 		{
 			"key":"EP04_S1132_0003",
-			"value":"そうだな……\nこれで、今いる場所がなんとなくわかったかな"
+			"value":"Okay, I think I have an idea where we are."
 		}
 	]
 }

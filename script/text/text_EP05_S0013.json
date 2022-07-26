@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0013_0001",
-			"value":"みんなの意見は聞いたけど……"
+			"value":"I heard everyone out, but..."
 		},
 		{
 			"key":"EP05_S0013_0002",
-			"value":"他に安全な方法なんて思いつかないし\nこのままじゃ状況は変わらない"
+			"value":"We can’t think of any safe plans, and nothing\nwill change if we just stick around here."
 		},
 		{
 			"key":"EP05_S0013_0003",
-			"value":"うん、やっぱり行くしかないか"
+			"value":"We really don’t have another choice, do we?\nWe have to go."
 		},
 		{
 			"key":"EP05_S0013_0004",
-			"value":"ん、なんだ？　シュウジさんの声？"
+			"value":"Huh? Is that Shuuji’s voice I just heard?"
 		},
 		{
 			"key":"EP05_S0013_0005",
-			"value":"タクマ、食堂の方から聞こえるよ"
+			"value":"It came from the cafeteria, Takuma."
 		},
 		{
 			"key":"EP05_S0013_0006",
-			"value":"なんだろう\n行ってみよう！"
+			"value":"What was that about? Let’s go check it out!"
 		}
 	]
 }

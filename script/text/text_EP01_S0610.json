@@ -2,55 +2,55 @@
     "scenario_text": [
         {
             "key": "EP01_S0610_0100",
-            "value": "んもう、なんでそんなに不機嫌なのよぉ"
+            "value": "Jeez, what crawled up your backside and died?"
         },
         {
             "key": "EP01_S0610_0101",
-            "value": "知らねーよ"
+            "value": "Search me."
         },
         {
             "key": "EP01_S0610_0102",
-            "value": "つっけんどんな態度を先生とかシュウジさんに\nたしなめられたからかしら？"
+            "value": "Let me guess: Shuuji and the teachers gave\nyou flak for your “cheerful” disposition?"
         },
         {
             "key": "EP01_S0610_0103",
-            "value": "んなことねー"
+            "value": "You dunno what you’re talkin’ about."
         },
         {
             "key": "EP01_S0610_0104",
-            "value": "はいはい\nほら、行くよ"
+            "value": "Sure, sure, whatever you say. Come on,\nit’s time to go!"
         },
         {
             "key": "EP01_S0610_0105",
-            "value": "ちっ……しゃーねえ、わかったよ"
+            "value": "Tch... All right, already..."
         },
         {
             "key": "EP01_S0610_0006",
-            "value": "ていうかよ、\nいつまでオレについてくるんだよ……"
+            "value": "And anyway, how long do you plan on following\nme around?"
         },
         {
             "key": "EP01_S0610_0007",
-            "value": "だってリョウ、\n目離すと何するかわかんないし"
+            "value": "What do you expect? Who knows what you’ll do\nif I take my eyes off you, Ryo."
         },
         {
             "key": "EP01_S0610_0008",
-            "value": "監視かよ"
+            "value": "So you’re my supervisor now?"
         },
         {
             "key": "EP01_S0610_0009",
-            "value": "放っとけないタイプかなーって"
+            "value": "Clearly you’re not the type to be left to\nyour own devices."
         },
         {
             "key": "EP01_S0610_0010",
-            "value": "うぜえ……"
+            "value": "Oh, just shut up..."
         },
         {
             "key": "EP01_S0610_0011",
-            "value": "えっ、こんなかわい子ちゃんに向かって\nソレ！？"
+            "value": "Now is that any way to talk to a cute girl\nlike me?!"
         },
         {
             "key": "EP01_S0610_0029",
-            "value": "（ブツブツ言いながら先へ行ってしまったリョウを追って、\n　サキも<color=#B41919>史跡</color>に向かったみたいだ……）"
+            "value": "(Saki’s headed for the <color=#B41919>landmark</color>, chasing\nRyo as he continues bellyaching.)"
         }
     ]
 }

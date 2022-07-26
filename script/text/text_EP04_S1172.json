@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1172_0001",
-			"value":"なんか変だな……"
+			"value":"That’s funny..."
 		},
 		{
 			"key":"EP04_S1172_0002",
-			"value":"タクマ、なにか見つけたの！？"
+			"value":"Did you find something, Takuma?"
 		},
 		{
 			"key":"EP04_S1172_0003",
-			"value":"ななな、なにを見つけたって言うのよぉ？"
+			"value":"Wh-wh-what did you find?"
 		},
 		{
 			"key":"EP04_S1172_0004",
-			"value":"いや、このあたり……\nさっきよりも、かなり散らかってないか？"
+			"value":"Doesn’t this area seem...messier than it did\nbefore?"
 		},
 		{
 			"key":"EP04_S1172_0005",
-			"value":"ぎぎ、ぎっくん！"
+			"value":"*gulp!*"
 		},
 		{
 			"key":"EP04_S1172_0006",
-			"value":"ほんとだー！　たしかに、ちょっとおかしいぞー？"
+			"value":"Oh yeah, it does! That’s weird..."
 		},
 		{
 			"key":"EP04_S1172_0007",
-			"value":"お、おかしくなんかないわよー！\n変なこと言って邪魔するの、ゆるさないんだからぁ！"
+			"value":"No! There’s nothing weird about that! Stop\nmaking up stuff to annoy me!"
 		},
 		{
 			"key":"EP04_S1172_0008",
-			"value":"ずいぶん慌ててるみたいだけど\nなにか隠してるんじゃ……？"
+			"value":"You seem pretty flustered. You’re not hiding\nsomething, are you?"
 		},
 		{
 			"key":"EP04_S1172_0009",
-			"value":"隠してないもん！　邪魔するから怒ってるだけだもん！\nもういいから、今すぐ出てってよ～～～！！！"
+			"value":"No I’m not hiding anything! I’m upset because\nyou keep bothering me! Now get out!!!"
 		},
 		{
 			"key":"EP04_S1172_0010",
-			"value":"うわわっ！　お、押さないで……！"
+			"value":"Hey! You don’t have to push me!"
 		},
 		{
 			"key":"EP04_S1172_0011",
-			"value":"さっきよりも散らかってるなんて\nき、気のせいでしょ！"
+			"value":"And you’re just imagining that things are\nmessier than before!"
 		}
 	]
 }

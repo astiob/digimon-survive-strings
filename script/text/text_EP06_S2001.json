@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2001_0001",
-			"value":"おーい、ファルコモン！\n返事をしてくれー！"
+			"value":"Falcomon! Hey, Falcomon! If you can hear us,\nsay something!"
 		},
 		{
 			"key":"EP06_S2001_0002",
-			"value":"ねえ、タクマ\nファルコモン、ここにはいないみたいだゾ？"
+			"value":"Hey, Takuma? I don’t think he’s here."
 		},
 		{
 			"key":"EP06_S2001_0003",
-			"value":"（そうだな、他の場所を探してみよう……）"
+			"value":"(Yeah. We should try searching somewhere\nelse.)"
 		}
 	]
 }

@@ -2,267 +2,267 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7190_0001",
-			"value":"タクマくん……さっきはすまなかったな\nアオイくんのことで水を差すような意見を言って"
+			"value":"Takuma... I’m sorry about before. I didn’t\nmean to throw Aoi under the bus."
 		},
 		{
 			"key":"EP11_S7190_0002",
-			"value":"いえ……今の状況を考えたら\n教授の意見が現実的だってことは、わかりますから"
+			"value":"That’s okay. Given the situation, I can see\nhow you were being realistic."
 		},
 		{
 			"key":"EP11_S7190_0003",
-			"value":"しかし、これまで仲間を失ってきた君たちに\n残酷なことを言ってしまった"
+			"value":"Even so, in light of all the friends you’ve\nlost, it was a cruel thing to say."
 		},
 		{
 			"key":"EP11_S7190_0004",
-			"value":"反省しているよ"
+			"value":"I regret bringing it up."
 		},
 		{
 			"key":"EP11_S7190_0005",
-			"value":"謝罪すべきは、ハル……お前じゃない\n彼女が消える原因を作ってしまった私のほうだ"
+			"value":"Akiharu, you need not apologize. I’m the\nreason she’s missing in the first place."
 		},
 		{
 			"key":"EP11_S7190_0006",
-			"value":"レナモン……"
+			"value":"Renamon..."
 		},
 		{
 			"key":"EP11_S7190_0007",
-			"value":"それこそ、これ以上君が気に病むことはないと\n言ったじゃないか"
+			"value":"Didn’t I tell you not to blame yourself for\nthat?"
 		},
 		{
 			"key":"EP11_S7190_0008",
-			"value":"君が、ミユキを……姉さんを助けたいがために\n無茶をしたことは、タクマくんたちもわかっているよ"
+			"value":"Everyone understands that you were only\ntrying to do all you could to save Miyuki."
 		},
 		{
 			"key":"EP11_S7190_0009",
-			"value":"そうだよ"
+			"value":"Yeah, the professor’s right."
 		},
 		{
 			"key":"EP11_S7190_0010",
-			"value":"しかし、私は……ミユキを救うことができるなら\nお前たちの絆など壊れても仕方ないと……"
+			"value":"Still, I was willing to sever the bonds\nbetween you so long as I got Miyuki back."
 		},
 		{
 			"key":"EP11_S7190_0011",
-			"value":"頭のどこかで、そんな卑怯なことを\n考えていたんだ"
+			"value":"I was being selfish."
 		},
 		{
 			"key":"EP11_S7190_0012",
-			"value":"自分は、ミユキとの絆が断ち切られてしまうのではと\nずっと……恐れていたくせに……"
+			"value":"I was willing to make that trade, even though\nI knew how much Miyuki’s bond meant to me."
 		},
 		{
 			"key":"EP11_S7190_0013",
-			"value":"（レナモン……さっきみんなと話した時は\n　冷静に見えたけど……）"
+			"value":"(Renamon seemed so calm and collected when we\nwere all talking just now.)"
 		},
 		{
 			"key":"EP11_S7190_0014",
-			"value":"（僕が考えてたよりも、ずっとアオイさんのことで\n　責任を感じてたのかもしれないな）"
+			"value":"(He must be feeling a lot more responsible\nfor what happened to Aoi than I realized.)"
 		},
 		{
 			"key":"EP11_S7190_0015",
-			"value":"（こんな時、何て言ったらいいんだろう？）"
+			"value":"(Is there anything I could say that might\nhelp him feel better?)"
 		},
 		{
 			"key":"EP11_S7190_0016",
-			"value":"（レナモンのせいじゃない……って言っても\n　きっと素直には受け取れないよな）"
+			"value":"(I mean, I doubt he’ll accept that this\nwasn’t his fault if I just tell him that.)"
 		},
 		{
 			"key":"EP11_S7190_0017",
-			"value":"（いっそ、責任を感じてるなら、絶対にアオイさんを\n　捜し出してほしいって、はっぱをかけるとか？）"
+			"value":"(Should I use his sense of responsibility to\nget him fired up for the search?)"
 		},
 		{
 			"key":"EP11_S7190_0018",
-			"value":"（でもそれじゃ、今度はレナモンを\n　追い詰めることになっちゃうかな）"
+			"value":"(But if I do that, it might end up putting\ntoo much pressure on Renamon.)"
 		},
 		{
 			"key":"EP11_S7190_0019",
-			"value":"（ここはやっぱり、今はとにかく\n　全員の協力が必要だってことを伝えたほうがいいのかも）"
+			"value":"(Maybe the thing to do is point out that this\nis why we all need to work together?)"
 		},
 		{
 			"key":"EP11_S7190_Q1",
-			"value":"（レナモンを元気づけるにはどうすればいい？）"
+			"value":"(How can I cheer Renamon up?)"
 		},
 		{
 			"key":"EP11_S7190_Q1_A1",
-			"value":"レナモンに責任はないと伝えよう"
+			"value":"Say he’s not to blame."
 		},
 		{
 			"key":"EP11_S7190_Q1_A2",
-			"value":"早く捜すべきと、はっぱを掛けよう"
+			"value":"Get him to search."
 		},
 		{
 			"key":"EP11_S7190_Q1_A3",
-			"value":"とにかく、全員で協力しようと諭そう"
+			"value":"Emphasize cooperation."
 		},
 		{
 			"key":"EP11_S7190_0020",
-			"value":"レナモンのせいじゃないと伝える"
+			"value":"Say he’s not to blame."
 		},
 		{
 			"key":"EP11_S7190_0021",
-			"value":"今回のことは、レナモン１人の責任なんかじゃないよ"
+			"value":"Renamon, it’s not like everything that\nhappened was your sole responsibility."
 		},
 		{
 			"key":"EP11_S7190_0022",
-			"value":"お前たちはそう言うしかないだろうが\n私の見せた幻が引き金になったことは確かだろう"
+			"value":"That’s all you people ever say, but it was\nstill my illusions that started everything."
 		},
 		{
 			"key":"EP11_S7190_0023",
-			"value":"それを、私の責任と言わずして\n何と言うのだ"
+			"value":"How can I not be responsible for that?"
 		},
 		{
 			"key":"EP11_S7190_0024",
-			"value":"でも、僕たちはみんなアオイさんが\nサキのことで心に傷を負ってたのを知ってた"
+			"value":"Regardless of what you did, we all knew Aoi\nwas struggling with Saki’s death."
 		},
 		{
 			"key":"EP11_S7190_0025",
-			"value":"なのに、そのアオイさんから目を離したんだ"
+			"value":"And despite that, none of us kept an eye on\nher."
 		},
 		{
 			"key":"EP11_S7190_0026",
-			"value":"あの場にいた誰かに責任があるっていうなら\nそれは……全員の責任だと思う"
+			"value":"So if we’re assigning blame for what happened\nthere, I’d say we all deserve some of it."
 		},
 		{
 			"key":"EP11_S7190_0027",
-			"value":"ボクも……アオイがいなくなる気配に\n全然気づけなかった"
+			"value":"Including me... I didn’t notice at all when\nI stopped sensing Aoi."
 		},
 		{
 			"key":"EP11_S7190_0028",
-			"value":"君たちは、戦っていたからね\n無理もないことだ"
+			"value":"Well, you were fighting. I wouldn’t be too\nhard on yourself."
 		},
 		{
 			"key":"EP11_S7190_0029",
-			"value":"でも……ボクもね、自分はわるくない……！\nなんて思えないよ"
+			"value":"Still, I don’t feel like I can say I didn’t\ndo anything wrong."
 		},
 		{
 			"key":"EP11_S7190_0030",
-			"value":"そうだね……僕も一緒だ\nだけど、そんなことばかり言ってても仕方ないとも思う"
+			"value":"Right, that’s how I feel too. Only I don’t\nthink it’s very helpful to focus on that."
 		},
 		{
 			"key":"EP11_S7190_0031",
-			"value":"だからレナモン……自分が悪いとか、責任とか\nそういうのは、もうやめにしない？"
+			"value":"So, Renamon, why don’t we move on from\nworrying about who’s to blame?"
 		},
 		{
 			"key":"EP11_S7190_0032",
-			"value":"責任を感じてるなら早く探すべきとはっぱをかける"
+			"value":"Get him to search."
 		},
 		{
 			"key":"EP11_S7190_0033",
-			"value":"本当にアオイさんに悪いと思ってるなら……\n落ち込んでないで、捜すべきだよ"
+			"value":"Well, if you really feel bad about what\nhappened, don’t cry about it. Go find Aoi."
 		},
 		{
 			"key":"EP11_S7190_0034",
-			"value":"た、タクマくん、その言い方は……"
+			"value":"Takuma, don’t you think that’s putting things\na little harshly?"
 		},
 		{
 			"key":"EP11_S7190_0035",
-			"value":"冷たいこと言ってるって、わかってます"
+			"value":"I realize it’s not a nice thing to say."
 		},
 		{
 			"key":"EP11_S7190_0036",
-			"value":"けど、ミユキを助けるためにも\n今はアオイさんを捜すべきだって……"
+			"value":"But right now we need to find Aoi. Doing that\nwill help us save Miyuki, too."
 		},
 		{
 			"key":"EP11_S7190_0037",
-			"value":"僕たちにそう言ったのは、他でもない……\nレナモンじゃないか！"
+			"value":"Isn’t that what you said to us yourself,\nRenamon?"
 		},
 		{
 			"key":"EP11_S7190_0038",
-			"value":"……！"
+			"value":"True..."
 		},
 		{
 			"key":"EP11_S7190_0039",
-			"value":"だったら、落ち込んでる暇なんてないはずだよ"
+			"value":"Then there’s no time for wallowing in self-\ndoubt."
 		},
 		{
 			"key":"EP11_S7190_0040",
-			"value":"それが私の罪滅ぼしにもなる……ということか"
+			"value":"You’re saying...this is my penance?"
 		},
 		{
 			"key":"EP11_S7190_0041",
-			"value":"今はとにかく全員で協力しようと諭す"
+			"value":"Emphasize cooperation."
 		},
 		{
 			"key":"EP11_S7190_0042",
-			"value":"責任がどうとか、そんなの誰も気にしてない……\nそれより大事なことはアオイさんを捜すことだから"
+			"value":"Look, nobody cares who’s fault this is. The\nimportant thing is that we find Aoi."
 		},
 		{
 			"key":"EP11_S7190_0043",
-			"value":"とにかく今は、全員で協力して\nアオイさんを見つけ出すことに集中しようよ"
+			"value":"So what we need to do right now is focus on\nworking together to look for her."
 		},
 		{
 			"key":"EP11_S7190_0044",
-			"value":"それで、お前たちは納得できるのか？"
+			"value":"And you’ll all be satisfied with that?"
 		},
 		{
 			"key":"EP11_S7190_0045",
-			"value":"当たり前じゃないか\nだって……レナモンも、僕らの仲間なんだから"
+			"value":"Of course. After all, you’re one of us,\nRenamon."
 		},
 		{
 			"key":"EP11_S7190_0046",
-			"value":"ボクもそう思うぞ～！"
+			"value":"That’s just how I feel too!"
 		},
 		{
 			"key":"EP11_S7190_0047",
-			"value":"仲間のピンチは、みんなで助けるんだ！\nだからレナモンのことも、助けに行ったんだし"
+			"value":"And when one of us is in trouble, the others\nall help out. It’s what we did for you."
 		},
 		{
 			"key":"EP11_S7190_0048",
-			"value":"今度は、レナモンがアオイを助ける番だよ！"
+			"value":"Now it’s your turn to help Aoi!"
 		},
 		{
 			"key":"EP11_S7190_0049",
-			"value":"確かに、お前たちの言う通りなのかもしれないな……"
+			"value":"Yes. You may both have a point there."
 		},
 		{
 			"key":"EP11_S7190_0050",
-			"value":"そうだね……\nまずは、アオイくんを捜し出すことに注力しよう"
+			"value":"Really, the important thing is that we find\nAoi."
 		},
 		{
 			"key":"EP11_S7190_0051",
-			"value":"もちろん、その先のことも\n考えておかなければならないが……"
+			"value":"Though of course we should also keep in mind\nwhat comes next."
 		},
 		{
 			"key":"EP11_S7190_0052",
-			"value":"その先～？？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP11_S7190_0053",
-			"value":"うむ。ミユキ……姉さんを\nどうやって助け出し、連れ戻すか……"
+			"value":"I mean we’ll need to figure out how to help\nMiyuki, er, my sister, and bring her back."
 		},
 		{
 			"key":"EP11_S7190_0054",
-			"value":"僕は、そのためにもアオイさんが必要だと思っています"
+			"value":"I think we’ll need Aoi for that."
 		},
 		{
 			"key":"EP11_S7190_0055",
-			"value":"そう……そうだな\nなら、立ち止まっている時間はない……か"
+			"value":"Yes... I think you’re right. In which case,\nwe can’t afford to stand around, can we?"
 		},
 		{
 			"key":"EP11_S7190_0056",
-			"value":"って、レナモン！？\nどこへ行く気だ……！？"
+			"value":"Huh? Renamon? Where are you going?"
 		},
 		{
 			"key":"EP11_S7190_0057",
-			"value":"もちろん、アオイを捜しにだ"
+			"value":"To look for Aoi, obviously."
 		},
 		{
 			"key":"EP11_S7190_0058",
-			"value":"ひとりで行っちゃった"
+			"value":"He just...went off on his own."
 		},
 		{
 			"key":"EP11_S7190_0059",
-			"value":"まだ、僕らと一緒にいるのは気まずいのかな……"
+			"value":"Maybe he’s still not comfortable being around\nus."
 		},
 		{
 			"key":"EP11_S7190_0060",
-			"value":"そうかもしれないね\nだが……今の彼なら、１人にしても大丈夫だろう"
+			"value":"Perhaps not. As he is now, however, he’s\nlikely quite safe on his own."
 		},
 		{
 			"key":"EP11_S7190_0061",
-			"value":"レナモンは１人でアオイくんを\n捜しに行ってしまったが……"
+			"value":"Renamon may have gone off looking for Aoi on\nhis own,"
 		},
 		{
 			"key":"EP11_S7190_0062",
-			"value":"そう心配することもないだろう"
+			"value":"but I doubt we need to worry about him."
 		}
 	]
 }

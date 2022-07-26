@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1947_0001",
-			"value":"ラブラモン……"
+			"value":"Labramon..."
 		},
 		{
 			"key":"EP05_S1947_0002",
-			"value":"話しかけるのが怖いなら\n僕が行こうか？"
+			"value":"If you’re scared to talk to him, want me to\ngo with you?"
 		},
 		{
 			"key":"EP05_S1947_0003",
-			"value":"い、いえ……私が、行きます"
+			"value":"No... No, I’ll do it."
 		},
 		{
 			"key":"EP05_S1947_0004",
-			"value":"私、ラブラモンを信じているもの\n冷静に話を聞けば、大丈夫……"
+			"value":"I believe in Labramon. It’ll be fine if\nI talk to him calmly..."
 		},
 		{
 			"key":"EP05_S1947_0005",
-			"value":"わかった……無理しないでね"
+			"value":"All right... Just don’t force yourself, okay?"
 		},
 		{
 			"key":"EP05_S1947_0006",
-			"value":"怖くても、立ち向かうの。そうしないと\nラブラモンに顔向けできないわ"
+			"value":"I may be scared, but I’ll do it. Otherwise,\nI won’t be able to face Labramon..."
 		}
 	]
 }

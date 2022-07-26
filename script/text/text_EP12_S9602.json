@@ -2,239 +2,239 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9602_0001",
-			"value":"うむ、古い井戸のようだな"
+			"value":"Hm... It appears to be an old well."
 		},
 		{
 			"key":"EP12_S9602_0002",
-			"value":"オレ知ってる。アレだろ？\n呪いのビデオ観たら七日後に死ぬっていう……"
+			"value":"Oh, hey, this is like that movie where after\nyou watch a video you die seven days later."
 		},
 		{
 			"key":"EP12_S9602_0003",
-			"value":"やだっ、やめてよ！\n私あれホントに苦手なんだから！"
+			"value":"Minoru, cut it out! I can’t handle any of\nthat horror stuff!"
 		},
 		{
 			"key":"EP12_S9602_0004",
-			"value":"け、けどよ……ただの井戸なんだろ？\nべ、別に、呪われてたりしないんだよな……？"
+			"value":"But it’s...it’s just a well, right? It’s not\nc-cursed or anything, is it?"
 		},
 		{
 			"key":"EP12_S9602_0005",
-			"value":"中は……空っぽだ\n空井戸ってやつだな。けど――"
+			"value":"It’s...empty. The well is dry. Only..."
 		},
 		{
 			"key":"EP12_S9602_0006",
-			"value":"……底に、何か貼ってある\nあれは、お札……？"
+			"value":"There’s something stuck to the bottom. Looks\nlike a talisman?"
 		},
 		{
 			"key":"EP12_S9602_0007",
-			"value":"そのようだな\n何かの封印のようだが……"
+			"value":"Yes, it appears to be some sort of seal..."
 		},
 		{
 			"key":"EP12_S9602_0008",
-			"value":"お、お札って、旅館とかの曰く付きの部屋に貼ってある\nやつだよな……？　ま、マジで？　ヤバくね……？"
+			"value":"You...you mean like the kind they put on\nhaunted rooms in old inns? That sounds bad..."
 		},
 		{
 			"key":"EP12_S9602_0009",
-			"value":"これはさすがに、良くないのでは……？"
+			"value":"Yeah... Maybe we shouldn’t mess with this."
 		},
 		{
 			"key":"EP12_S9602_0010",
-			"value":"ウチ、あれちょっと欲しいかも……"
+			"value":"I kind of want to take one of those things."
 		},
 		{
 			"key":"EP12_S9602_0011",
-			"value":"やめとけ！\n多分、あれはマジのやつだ……"
+			"value":"Hey, stop! I’m pretty sure those are the real\ndeal."
 		},
 		{
 			"key":"EP12_S9602_0012",
-			"value":"ね、ねぇ～！　もう帰ろうよぉ～！"
+			"value":"C-c-can’t we just get out of here?"
 		},
 		{
 			"key":"EP12_S9602_0013",
-			"value":"やっぱり、ここから鳴ってる！！"
+			"value":"This is definitely where that groaning sound\nis coming from."
 		},
 		{
 			"key":"EP12_S9602_0014",
-			"value":"（すごく気になるけど……\n　この雰囲気も、お札も、入るのを躊躇わせる……）"
+			"value":"(I’m really curious, but between the spooky\natmosphere and those seals, I don’t know...)"
 		},
 		{
 			"key":"EP12_S9602_0015",
-			"value":"（どうしよう……けど、他の場所は調べ尽くしたし\n　もう、手詰まり感はあった）"
+			"value":"(I don’t want to go down there, but...we’ve\nbeen everywhere else.)"
 		},
 		{
 			"key":"EP12_S9602_0016",
-			"value":"（手がかりらしいものは、あの井戸だけか……\n　やっぱり中を調べるべきか？）"
+			"value":"(That well is our only lead right now. Maybe\nwe should go down and check it out?)"
 		},
 		{
 			"key":"EP12_S9602_Q1",
-			"value":"（僕はどうすればいい……？）"
+			"value":"(Good question...)"
 		},
 		{
 			"key":"EP12_S9602_Q1_A1",
-			"value":"降りて調べよう"
+			"value":"Let’s check it out."
 		},
 		{
 			"key":"EP12_S9602_Q1_A2",
-			"value":"無理だ、怖すぎる"
+			"value":"Forget it. I’m scared."
 		},
 		{
 			"key":"EP12_S9602_Q1_A3",
-			"value":"他の場所をもう一度調べよう"
+			"value":"Let’s keep looking."
 		},
 		{
 			"key":"EP12_S9602_0017",
-			"value":"降りて調べよう"
+			"value":"Let’s check it out."
 		},
 		{
 			"key":"EP12_S9602_0018",
-			"value":"……みんな、降りて調べよう"
+			"value":"Come on, guys, let’s investigate."
 		},
 		{
 			"key":"EP12_S9602_0019",
-			"value":"待ってくれ、危険じゃないのか？"
+			"value":"Wait, don’t you think that’s dangerous?"
 		},
 		{
 			"key":"EP12_S9602_0020",
-			"value":"ハッ、危険じゃないものなんてあるのか？\nこのままじゃ何もわからないままだ"
+			"value":"At this point, what isn’t dangerous? Besides,\nwe won’t learn anything by doing nothing."
 		},
 		{
 			"key":"EP12_S9602_0021",
-			"value":"ぐっ……うぅ……"
+			"value":"*gulp* Oh..."
 		},
 		{
 			"key":"EP12_S9602_0022",
-			"value":"そうだな……わかった、行ってみよう"
+			"value":"You have a point. Okay, let’s go."
 		},
 		{
 			"key":"EP12_S9602_0023",
-			"value":"何があるかわからない\nみんな、覚悟を決めておくんだ"
+			"value":"Now there’s no telling what’s down there, so\neveryone be ready for anything."
 		},
 		{
 			"key":"EP12_S9602_0024",
-			"value":"無理だ、怖すぎる"
+			"value":"Forget it. I’m scared."
 		},
 		{
 			"key":"EP12_S9602_0025",
-			"value":"む、無理だ、怖すぎる……！"
+			"value":"Just forget it. This is way too scary!"
 		},
 		{
 			"key":"EP12_S9602_0026",
-			"value":"ね、ね？　無理だよね？　怖いよね？\nよし戻ろう！　はい決まり！"
+			"value":"Right? It’s just...too creepy, isn’t it?\nLet’s go back. Yeah, glad that’s settled!"
 		},
 		{
 			"key":"EP12_S9602_0027",
-			"value":"お前たち、本当に世界を救う気はあるのか？\nこの程度の恐怖で立ち止まっていたら先に進めないぞ"
+			"value":"I thought you wanted to save the world. Are\nyou really going to let this scare you off?"
 		},
 		{
 			"key":"EP12_S9602_0028",
-			"value":"うっ……た、確かに、その通りだ……"
+			"value":"Oooh... I guess...you’ve got a point."
 		},
 		{
 			"key":"EP12_S9602_0029",
-			"value":"……うぅっ"
+			"value":"*whimper*..."
 		},
 		{
 			"key":"EP12_S9602_0030",
-			"value":"よ、よしっ、覚悟完了！\nオレは行くぜ！"
+			"value":"All right! I’m all set! Time to go!"
 		},
 		{
 			"key":"EP12_S9602_0031",
-			"value":"ミノル！？"
+			"value":"Minoru?!"
 		},
 		{
 			"key":"EP12_S9602_0032",
-			"value":"せ、世界を救う為ならよ……\nこ、ここ、この程度、へっちゃらよぉ……"
+			"value":"If we want to save the world, we c-can’t let\nthis stop us!"
 		},
 		{
 			"key":"EP12_S9602_0033",
-			"value":"……わかった、僕も行くよ\nミノルのおかげで覚悟できた"
+			"value":"You’re right. I’ll go with you. You helped me\nmake up my mind."
 		},
 		{
 			"key":"EP12_S9602_0034",
-			"value":"（振り向くと、みんなも覚悟できたようだ\n　ここにはもう、怯えてる仲間はいない）"
+			"value":"(By the time I turn back, everyone’s ready to\ngo. Nobody looks scared anymore.)"
 		},
 		{
 			"key":"EP12_S9602_0035",
-			"value":"他の場所をもう一度調べよう"
+			"value":"Let’s keep looking."
 		},
 		{
 			"key":"EP12_S9602_0036",
-			"value":"ほ、他の場所をもう一度調べよう！\nま、まだ見落としがあるかもしれないし！"
+			"value":"Let’s keep looking! It never hurts to double\ncheck, and we might have missed something!"
 		},
 		{
 			"key":"EP12_S9602_0037",
-			"value":"タクマくん、気持ちはわかるが、諦めなさい"
+			"value":"Takuma, I understand you must be afraid, but\nplease, stop."
 		},
 		{
 			"key":"EP12_S9602_0038",
-			"value":"君だってわかっているはずだ\nここは、勇気を奮い立たせる場面だと"
+			"value":"This is what we’ve been looking for, and you\nknow it. You’ll just have to be courageous."
 		},
 		{
 			"key":"EP12_S9602_0039",
-			"value":"わ、わかってます、けど……"
+			"value":"I...I know, but..."
 		},
 		{
 			"key":"EP12_S9602_0040",
-			"value":"……あー、もう、やるっきゃねえのか"
+			"value":"Oh, enough stalling! Let’s just get this over\nwith!"
 		},
 		{
 			"key":"EP12_S9602_0041",
-			"value":"どけよタクマ、オレが行く"
+			"value":"Move it, Takuma. I’m going in."
 		},
 		{
 			"key":"EP12_S9602_0042",
-			"value":"リョウ！？"
+			"value":"Ryo?!"
 		},
 		{
 			"key":"EP12_S9602_0043",
-			"value":"お前らも、オレが先に行くから\n腹くくれたヤツから来いよな"
+			"value":"Just so you all know, I’m goin’ on ahead. You\ncan come after me when you find your guts."
 		},
 		{
 			"key":"EP12_S9602_0044",
-			"value":"ケッ、カッコつけやがって\nオレも行くぜ"
+			"value":"Hmph, cut the tough guy act. I’m goin’ too."
 		},
 		{
 			"key":"EP12_S9602_0045",
-			"value":"ひ、必要なことなら\nや、やらないと、いけないわよね……！"
+			"value":"I... I guess if we have to, we have to!"
 		},
 		{
 			"key":"EP12_S9602_0046",
-			"value":"……ありがとう、リョウ\nけどゴメン、僕が先に行くよ"
+			"value":"Thanks, Ryo. But sorry, I’d better go first."
 		},
 		{
 			"key":"EP12_S9602_0047",
-			"value":"足、震えてるじゃないか"
+			"value":"I can see your legs are shaking."
 		},
 		{
 			"key":"EP12_S9602_0048",
-			"value":"ちっ、バレたか……"
+			"value":"Aw, man. So much for that."
 		},
 		{
 			"key":"EP12_S9602_0049",
-			"value":"ううん、本当に助かった\n僕が先に行くから、ゆっくり降りてきて"
+			"value":"No, it was really helpful. Anyway, I’ll go on\nahead. You take your time."
 		},
 		{
 			"key":"EP12_S9602_0050",
-			"value":"みんな、行こう"
+			"value":"Let’s go, everybody!"
 		},
 		{
 			"key":"EP12_S9602_0051",
-			"value":"よいしょ、よいしょ……よしっ"
+			"value":"Carefully...carefully... There!"
 		},
 		{
 			"key":"EP12_S9602_0052",
-			"value":"ここが井戸の底……"
+			"value":"So, this is the bottom of the well."
 		},
 		{
 			"key":"EP12_S9602_0053",
-			"value":"みんな降りたか？"
+			"value":"Is everyone here?"
 		},
 		{
 			"key":"EP12_S9602_0054",
-			"value":"ああ、全員降りた\nけど、真っ暗だな……"
+			"value":"Yes, everyone’s down. Only it’s pitch black."
 		},
 		{
 			"key":"EP12_S9602_0055",
-			"value":"――っ！！？\nやばい、底が崩れた！？"
+			"value":"Wha?! What happened? The bottom collapsed?!"
 		}
 	]
 }

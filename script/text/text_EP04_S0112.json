@@ -2,615 +2,615 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0112_0001",
-			"value":"はぁ……はぁ……！\nなんとか、間に合った……！"
+			"value":"*huff*...*huff* We actually...made it!"
 		},
 		{
 			"key":"EP04_S0112_0002",
-			"value":"ぜ……全員、無事に脱出できたようだな……"
+			"value":"Looks like we all got out in time."
 		},
 		{
 			"key":"EP04_S0112_0003",
-			"value":"サキさん、足は大丈夫？"
+			"value":"Saki, how’s your leg?"
 		},
 		{
 			"key":"EP04_S0112_0004",
-			"value":"うん、もう平気"
+			"value":"I think I can walk on it now."
 		},
 		{
 			"key":"EP04_S0112_0005",
-			"value":"あ……ありがとね、カイト"
+			"value":"Thanks, Kaito."
 		},
 		{
 			"key":"EP04_S0112_0006",
-			"value":"いや、こっちこそ……\nミウをかばってくれて……感謝してる"
+			"value":"Nah, I should be thanking you. You saved Miu."
 		},
 		{
 			"key":"EP04_S0112_0007",
-			"value":"そのミウだけど……大丈夫かしら？"
+			"value":"Speaking of which, Miu, are you all right?"
 		},
 		{
 			"key":"EP04_S0112_0008",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP04_S0112_0009",
-			"value":"かなりまいってるみたいよ"
+			"value":"Seems like she’s having a hard time taking\nall of this in."
 		},
 		{
 			"key":"EP04_S0112_0010",
-			"value":"そりゃあそうだろ。まさかこんなことになるなんて\n思ってもなかっただろうしよ"
+			"value":"I bet. She probably never imagined things\ncould get this bad."
 		},
 		{
 			"key":"EP04_S0112_0011",
-			"value":"オレも、そうだった……"
+			"value":"That’s what it was like for me, too."
 		},
 		{
 			"key":"EP04_S0112_0012",
-			"value":"くっ……けどよ、オレがちゃんと\nミウのそばにいれば、こんなことには……"
+			"value":"Grr... If only I’d been with her, this never\nwould’ve happened!"
 		},
 		{
 			"key":"EP04_S0112_0013",
-			"value":"そうしてたら、コイツはここが残酷な世界だって\n自分で気づくこともねーわけだ"
+			"value":"And she may never have realized how cruel\nthis world can be."
 		},
 		{
 			"key":"EP04_S0112_0014",
-			"value":"うっ……"
+			"value":"Urk..."
 		},
 		{
 			"key":"EP04_S0112_0015",
-			"value":"結局、本気で痛い目に遭わないと\nわかんねえこともあるんだよ"
+			"value":"Sometimes you gotta suffer to learn a hard\nlesson."
 		},
 		{
 			"key":"EP04_S0112_0016",
-			"value":"今は、そっとしとくしかねーんじゃね？"
+			"value":"I think we oughtta give her some space."
 		},
 		{
 			"key":"EP04_S0112_0017",
-			"value":"とにかく、いつまでも\nここでのんびりしているわけにもいかない"
+			"value":"Anyway, we need to keep moving."
 		},
 		{
 			"key":"EP04_S0112_0018",
-			"value":"敵のモンスターに見つからないうちに\nここを離れ……"
+			"value":"Let’s get out of here before some enemy\nmonster—"
 		},
 		{
 			"key":"EP04_S0112_0019",
-			"value":"ひめい……？"
+			"value":"Are those...screams?"
 		},
 		{
 			"key":"EP04_S0112_0020",
-			"value":"え？　ハル、今なんて……？"
+			"value":"Huh? Haru, what was that?"
 		},
 		{
 			"key":"EP04_S0112_0021",
-			"value":"あっち……\n悲鳴が聞こえる"
+			"value":"I hear screams... Over that way."
 		},
 		{
 			"key":"EP04_S0112_0022",
-			"value":"きこえる……"
+			"value":"That way..."
 		},
 		{
 			"key":"EP04_S0112_0023",
-			"value":"（まさか、それって……！）"
+			"value":"(Don’t tell me...)"
 		},
 		{
 			"key":"EP04_S0112_0024",
-			"value":"うわー、きゃあああ！"
+			"value":"Aaaaaah!!!"
 		},
 		{
 			"key":"EP04_S0112_0025",
-			"value":"やめて！　やめてよぉぉ！"
+			"value":"Stop! Please, stop!"
 		},
 		{
 			"key":"EP04_S0112_0026",
-			"value":"今の声！　パルモンとパタモンだよ！"
+			"value":"It’s them! Palmon and Patamon!"
 		},
 		{
 			"key":"EP04_S0112_0027",
-			"value":"な、何だ！？\n向こうから何か来たのか！？"
+			"value":"Wh-what the heck?! Something’s coming this\nway!"
 		},
 		{
 			"key":"EP04_S0112_0028",
-			"value":"マズいよ、タクマ！\nすごく強そうなのが迫ってくる！"
+			"value":"Bad news, Takuma! Some real strong enemies\nare headed straight for us!"
 		},
 		{
 			"key":"EP04_S0112_0029",
-			"value":"この気配……ただ者ではないぞ……！"
+			"value":"My senses tell me...these are no ordinary\nfoes!"
 		},
 		{
 			"key":"EP04_S0112_0030",
-			"value":"来たぞ！　あいつらだ！"
+			"value":"There! It’s them!"
 		},
 		{
 			"key":"EP04_S0112_0031",
-			"value":"ふん！　ニンゲンのコドモと一緒にいる連中が\nここにいるそうだなァ！"
+			"value":"Hmph! So, this is where those fools with the\nhuman children have come!"
 		},
 		{
 			"key":"EP04_S0112_0032",
-			"value":"エモノが……一杯……"
+			"value":"Prey... So much...prey..."
 		},
 		{
 			"key":"EP04_S0112_0033",
-			"value":"（こ、これが……敵の侵入者……！）"
+			"value":"(These are the attackers?!)"
 		},
 		{
 			"key":"EP04_S0112_0034",
-			"value":"なんかボク、ザワザワする……！"
+			"value":"They give me the chills!"
 		},
 		{
 			"key":"EP04_S0112_0035",
-			"value":"なんだよあいつら……\nあの目つき……絶対やべえよ……"
+			"value":"What is with those guys? Did you catch the\nlook in their eyes? They gotta be bad news."
 		},
 		{
 			"key":"EP04_S0112_0036",
-			"value":"あ……う……\n何……？　ウチが知ってる子たちと、違う……"
+			"value":"Er... Uh... What? These aren’t like the\nmonsters I know at all..."
 		},
 		{
 			"key":"EP04_S0112_0037",
-			"value":"ミウ、絶対にそばを離れるんじゃねえぞ！"
+			"value":"Miu, you stay right next to me, okay?"
 		},
 		{
 			"key":"EP04_S0112_0038",
-			"value":"ガキどもは……オレが……"
+			"value":"Leave the children...to me..."
 		},
 		{
 			"key":"EP04_S0112_0039",
-			"value":"好きにしろ\nオレはそっちはどうでもいい"
+			"value":"Of course. The children are no concern of\nmine."
 		},
 		{
 			"key":"EP04_S0112_0040",
-			"value":"ふざけたこと抜かしてんじゃねえぞ！\nオオカミ野郎が！"
+			"value":"Oh yeah? We’ll see about that, Mr. Big Bad\nWolf!"
 		},
 		{
 			"key":"EP04_S0112_0041",
-			"value":"なれなれしく呼ぶな！\nオレの名はガルルモンだ！"
+			"value":"Don’t you call me that! I am Garurumon!"
 		},
 		{
 			"key":"EP04_S0112_0042",
-			"value":"き、君たちもアルケニモンの仲間なのか……！？"
+			"value":"Are... Are you with Arukenimon?!"
 		},
 		{
 			"key":"EP04_S0112_0043",
-			"value":"あんなクズ連中なんぞ、知るか！\nそうだな、まずは……"
+			"value":"Pah! I care nothing for trash like her! Now,\nlet’s see, I think..."
 		},
 		{
 			"key":"EP04_S0112_0044",
-			"value":"お前が一番骨がありそうだ！"
+			"value":"You’re the biggest threat!"
 		},
 		{
 			"key":"EP04_S0112_0045",
-			"value":"むむっ！"
+			"value":"Urk!"
 		},
 		{
 			"key":"EP04_S0112_0046",
-			"value":"これでもくらえぇい！"
+			"value":"Take this!"
 		},
 		{
 			"key":"EP04_S0112_0047",
-			"value":"グッ……こ、こいつっ！"
+			"value":"Bah! How dare you!"
 		},
 		{
 			"key":"EP04_S0112_0048",
-			"value":"（ガルルモンがいきなり、\n　ファルコモンに飛びかかった！）"
+			"value":"(Garurumon just leapt at Falcomon!)"
 		},
 		{
 			"key":"EP04_S0112_0049",
-			"value":"ニンゲンのこわっぱどもと\n絆を結んでいるようだな！"
+			"value":"I hear you’ve formed a bond with these human\nwhelps!"
 		},
 		{
 			"key":"EP04_S0112_0050",
-			"value":"クッ……かなり強いぞ！\nみ、皆も気をつけろ！"
+			"value":"Argh... He’s quite strong! Watch out!"
 		},
 		{
 			"key":"EP04_S0112_0051",
-			"value":"ファ、ファルコモン！"
+			"value":"Falcomon!"
 		},
 		{
 			"key":"EP04_S0112_0052",
-			"value":"ハハハ、お前たちの力、\nこのオレにみせてみろ！"
+			"value":"Hahaha, now let’s see this power of yours!"
 		},
 		{
 			"key":"EP04_S0112_0053",
-			"value":"ファルコモンをはなせ～！"
+			"value":"Let go of Falcomon!"
 		},
 		{
 			"key":"EP04_S0112_0054",
-			"value":"う、うわっ、強い！"
+			"value":"Whoa! He’s strong!"
 		},
 		{
 			"key":"EP04_S0112_0055",
-			"value":"この野郎！"
+			"value":"Take this!"
 		},
 		{
 			"key":"EP04_S0112_0056",
-			"value":"う、うわっ、押し負けるっ！"
+			"value":"What?! I’m being pushed back?"
 		},
 		{
 			"key":"EP04_S0112_0057",
-			"value":"う、うぅっ……"
+			"value":"Unnngh..."
 		},
 		{
 			"key":"EP04_S0112_0058",
-			"value":"お前は助けに行かないのか！？"
+			"value":"Aren’t you going to help them?!"
 		},
 		{
 			"key":"EP04_S0112_0059",
-			"value":"あ……ぼ、ボク……ボク……"
+			"value":"Oh... I... I..."
 		},
 		{
 			"key":"EP04_S0112_0060",
-			"value":"くそっ……どうしてこうも\n役立たずなんだ……！"
+			"value":"Bah! Why are you always so useless?"
 		},
 		{
 			"key":"EP04_S0112_0061",
-			"value":"う、ぅ……"
+			"value":"Unngh..."
 		},
 		{
 			"key":"EP04_S0112_0062",
-			"value":"なんだ、お前たちの力はその程度か？\nガッカリさせるなよ！？"
+			"value":"What, don’t tell me that’s all you’ve got?\nI thought you were supposed to be strong!"
 		},
 		{
 			"key":"EP04_S0112_0063",
-			"value":"いまのうちに……"
+			"value":"Now’s my chance..."
 		},
 		{
 			"key":"EP04_S0112_0064",
-			"value":"ガキどもを……もらっていくか……"
+			"value":"These children...are mine..."
 		},
 		{
 			"key":"EP04_S0112_0065",
-			"value":"こ、こっちに来ないで！"
+			"value":"Hey! B-back off!"
 		},
 		{
 			"key":"EP04_S0112_0066",
-			"value":"やだ……やだ……！"
+			"value":"No... Stop!"
 		},
 		{
 			"key":"EP04_S0112_0067",
-			"value":"ミウから離れて～！"
+			"value":"Get away from Miu!"
 		},
 		{
 			"key":"EP04_S0112_0068",
-			"value":"じょ、女王様に近寄るなぁああ！"
+			"value":"You... You keep away from our queen!"
 		},
 		{
 			"key":"EP04_S0112_0069",
-			"value":"女王様は、連れて行かせない！"
+			"value":"We won’t let you take her!"
 		},
 		{
 			"key":"EP04_S0112_0070",
-			"value":"女王様を守れぇえええええ！"
+			"value":"Save the queen!!!"
 		},
 		{
 			"key":"EP04_S0112_0071",
-			"value":"い、いかん！　みんな、やめるんじゃ！！"
+			"value":"No! All of you, stop!"
 		},
 		{
 			"key":"EP04_S0112_0072",
-			"value":"邪魔を……するな……！"
+			"value":"Don’t...interfere..."
 		},
 		{
 			"key":"EP04_S0112_0073",
-			"value":"ひぐっ……！"
+			"value":"Urgh!"
 		},
 		{
 			"key":"EP04_S0112_0074",
-			"value":"い、いたいぃ……っ"
+			"value":"Yeowch!"
 		},
 		{
 			"key":"EP04_S0112_0075",
-			"value":"ふえぇ……っ"
+			"value":"Gah..."
 		},
 		{
 			"key":"EP04_S0112_0076",
-			"value":"あ……あ……\nみんなが……ウチのせいで、みんなが……！"
+			"value":"No... No... They’re all suffering...\nAll because of me..."
 		},
 		{
 			"key":"EP04_S0112_0077",
-			"value":"他愛ない……"
+			"value":"Pathetic..."
 		},
 		{
 			"key":"EP04_S0112_0078",
-			"value":"うぅ……まだ、まだ……！\n女王様を……絶対に、守るんだ……！"
+			"value":"Rrk... We’re not...finished yet! We will...\nprotect...the queen!"
 		},
 		{
 			"key":"EP04_S0112_0079",
-			"value":"やだ……！　もうやめて！\nウチのために、戦ったりしないで！"
+			"value":"No, stop! That’s enough! Please, you don’t\nhave to fight for me!"
 		},
 		{
 			"key":"EP04_S0112_0080",
-			"value":"ミウ！？　何してる！　こっちに戻れ！！"
+			"value":"Miu?! What’re you thinking?! Get back here!"
 		},
 		{
 			"key":"EP04_S0112_0081",
-			"value":"これが……アルケニモンが取り逃したガキ……\nオレが……！"
+			"value":"So this...is the child...who escaped from\nArukenimon!"
 		},
 		{
 			"key":"EP04_S0112_0082",
-			"value":"ひっ……！！"
+			"value":"Eep!"
 		},
 		{
 			"key":"EP04_S0112_0083",
-			"value":"させないわよ！"
+			"value":"I don’t think so!"
 		},
 		{
 			"key":"EP04_S0112_0084",
-			"value":"そこを……どけ……"
+			"value":"Out of...my way..."
 		},
 		{
 			"key":"EP04_S0112_0085",
-			"value":"アオイ！"
+			"value":"Aoi!"
 		},
 		{
 			"key":"EP04_S0112_0086",
-			"value":"こいつの狙いはミウみたい！\nミウを逃がして！"
+			"value":"It’s after Miu! We have to get her out of\nhere!"
 		},
 		{
 			"key":"EP04_S0112_0087",
-			"value":"わ、わかったわ！\nさあ、ミウちゃんこっちに！"
+			"value":"Right! Miu, come this way!"
 		},
 		{
 			"key":"EP04_S0112_0088",
-			"value":"逃がさん……"
+			"value":"You’re not getting away..."
 		},
 		{
 			"key":"EP04_S0112_0089",
-			"value":"私たちが相手よ！\nかかってきなさい！"
+			"value":"Well, first you’ll have to go through us!\nBring it on!"
 		},
 		{
 			"key":"EP04_S0112_0090",
-			"value":"さ、さあ、はやく！"
+			"value":"Hurry, this way!"
 		},
 		{
 			"key":"EP04_S0112_0091",
-			"value":"で、でも……みんなが！"
+			"value":"But...what about everyone else?"
 		},
 		{
 			"key":"EP04_S0112_0092",
-			"value":"みんなウチを魔法使いだって、信じてくれてたのに……！\nウチを守ろうと戦ってくれたのに！"
+			"value":"They all really thought I was a sorceress!\nThey fought to protect me!"
 		},
 		{
 			"key":"EP04_S0112_0093",
-			"value":"ウチまだ、みんなのために何もできてない！"
+			"value":"But I haven’t done anything for them!"
 		},
 		{
 			"key":"EP04_S0112_0094",
-			"value":"今はあなたが一番危険なの！\nだから、お城の中で暫く隠れて……"
+			"value":"You’re the one in the most danger right now!\nSo you’ll need to hide in the castle for—"
 		},
 		{
 			"key":"EP04_S0112_0095",
-			"value":"って、きゃあ！？"
+			"value":"Wha’? Aaah!"
 		},
 		{
 			"key":"EP04_S0112_0096",
-			"value":"逃がさんぞ……"
+			"value":"You’re not going anywhere..."
 		},
 		{
 			"key":"EP04_S0112_0097",
-			"value":"アグモンたちをもう倒したの！？\nアオイたちに手は出させないわよ！"
+			"value":"You already beat Agumon and the others?!\nWell, I won’t let you hurt Aoi or Miu!"
 		},
 		{
 			"key":"EP04_S0112_0098",
-			"value":"ふん、軽く押しただけだ\nあんな貧弱な連中だとはな……"
+			"value":"Hmph, I barely even touched them.\nSo pathetic."
 		},
 		{
 			"key":"EP04_S0112_0099",
-			"value":"オマエは……どうだ？\n骨はありそうだが……"
+			"value":"But what about you? Looks like you’ve got\nsome fight in you."
 		},
 		{
 			"key":"EP04_S0112_0100",
-			"value":"ミ……ミウちゃんにも\n手は出させないわ……"
+			"value":"I’m not letting you hurt Miu!"
 		},
 		{
 			"key":"EP04_S0112_0101",
-			"value":"震えながらでもよく言ったわ、アオイ！\nあとはまかせて！　私だって……！"
+			"value":"That’s the spirit, Aoi! So what if you’re\ntrembling? Leave this to me! I can handle it!"
 		},
 		{
 			"key":"EP04_S0112_0102",
-			"value":"う、うぅぅ……\nこ、怖いよぉ……"
+			"value":"Oh, this is awful! I’m so scared!"
 		},
 		{
 			"key":"EP04_S0112_0103",
-			"value":"そうよ、可愛いだけじゃないの"
+			"value":"You should be. Not all monsters are cute and\ncuddly."
 		},
 		{
 			"key":"EP04_S0112_0104",
-			"value":"ふん\nくだらん……"
+			"value":"Hmph. Pathetic."
 		},
 		{
 			"key":"EP04_S0112_0105",
-			"value":"えっ？\nあいつ、帰って行くわ？"
+			"value":"What? He’s...leaving?"
 		},
 		{
 			"key":"EP04_S0112_0106",
-			"value":"ガキどもが……"
+			"value":"But the human brats..."
 		},
 		{
 			"key":"EP04_S0112_0107",
-			"value":"逃がす気か……？"
+			"value":"You’re letting them go...?"
 		},
 		{
 			"key":"EP04_S0112_0108",
-			"value":"オレの目的はニンゲンのコドモと\n契約したヤツをブっ倒す事だ……"
+			"value":"I came here so I could crush the fools who\nbonded with the human children."
 		},
 		{
 			"key":"EP04_S0112_0109",
-			"value":"お前らみたいに、\n悪趣味にガキを狩る事じゃない"
+			"value":"I’m not on some stupid hunt for children like\nyou and your friends."
 		},
 		{
 			"key":"EP04_S0112_0110",
-			"value":"ガルルモン……裏切り者……"
+			"value":"Garurumon... You traitor..."
 		},
 		{
 			"key":"EP04_S0112_0111",
-			"value":"裏切るも何も、\nお前らの仲間になったつもりはない！"
+			"value":"Traitor? How am I a traitor? I’ve never been\none of you!"
 		},
 		{
 			"key":"EP04_S0112_0112",
-			"value":"な、何だかわからないけど\nモメてるみたいね！？"
+			"value":"I’m not sure what’s going on, but it looks\nlike...they’re fighting?!"
 		},
 		{
 			"key":"EP04_S0112_0113",
-			"value":"い、今のうちに、逃げたほうがいいんじゃ……"
+			"value":"You...\nYou think this is our chance to escape?"
 		},
 		{
 			"key":"EP04_S0112_0114",
-			"value":"生け贄のガキは……連れて行く……"
+			"value":"I will take...the child sacrifice..."
 		},
 		{
 			"key":"EP04_S0112_0115",
-			"value":"おい、ミウはお前たちには渡さないぞ！"
+			"value":"Hey! You’re not taking Miu anywhere!"
 		},
 		{
 			"key":"EP04_S0112_0116",
-			"value":"ニンゲンのガキに……何ができる……"
+			"value":"What can you do? You’re only human..."
 		},
 		{
 			"key":"EP04_S0112_0117",
-			"value":"俺たちの大切な仲間に手出しはさせんぞ！"
+			"value":"You will not harm our friends and partners!"
 		},
 		{
 			"key":"EP04_S0112_0118",
-			"value":"ちっ……しつこく立ち上がってきやがったか"
+			"value":"Hmph... Don’t you know when to stay down?"
 		},
 		{
 			"key":"EP04_S0112_0119",
-			"value":"さっきのは不意をつかれて転んだだけだ\nまだ負けちゃいないぞ！"
+			"value":"You just got in a lucky shot last time!\nI ain’t done yet!"
 		},
 		{
 			"key":"EP04_S0112_0120",
-			"value":"そうだ、そうだー！"
+			"value":"Yeah, that’s right!"
 		},
 		{
 			"key":"EP04_S0112_0121",
-			"value":"ほほう、威勢だけは良いな"
+			"value":"Well, at least you’ve got guts."
 		},
 		{
 			"key":"EP04_S0112_0122",
-			"value":"だったら次は……力の押し比べじゃなく\n戦いの腕で実力を示してもらうぞ"
+			"value":"All right, then. Let’s see what you can do in\na real fight, not just a contest of strength."
 		},
 		{
 			"key":"EP04_S0112_0123",
-			"value":"望むところだぜ！"
+			"value":"Wouldn’t have it any other way!"
 		},
 		{
 			"key":"EP04_S0112_0124",
-			"value":"（戦いは避けられない\n　けど、あいつらの強さは普通じゃない……！）"
+			"value":"(I don’t see any way out of this without\na fight, but these two are crazy strong.)"
 		},
 		{
 			"key":"EP04_S0112_0125",
-			"value":"（せめて、アグモンたちが実力を出せるように\n　何か……そう、何かひと言……！）"
+			"value":"(If only there was something I could say to\nhelp our partners give their all...)"
 		},
 		{
 			"key":"EP04_S0112_Q1",
-			"value":"（僕はなんて声をかければいい……！？）"
+			"value":"(But what might that be?!)"
 		},
 		{
 			"key":"EP04_S0112_Q1_A1",
-			"value":"ガルルモンに勝負を挑むんだ！"
+			"value":"Challenge Garurumon to a fight!"
 		},
 		{
 			"key":"EP04_S0112_Q1_A2",
-			"value":"アグモンたちにかなうもんか"
+			"value":"Agumon and the others are too much for you."
 		},
 		{
 			"key":"EP04_S0112_Q1_A3",
-			"value":"ガルルモンを煽るんだ！"
+			"value":"Make Garurumon angry!"
 		},
 		{
 			"key":"EP04_S0112_0126",
-			"value":"いくぞ、ガルルモン！"
+			"value":"Bring it, Garurumon!"
 		},
 		{
 			"key":"EP04_S0112_0127",
-			"value":"（ここは正々堂々、勝負の宣言だ！）"
+			"value":"(If it’s a fight he wants, I’ll show him it’s\na fight he’s gonna get!)"
 		},
 		{
 			"key":"EP04_S0112_0128",
-			"value":"いくぞ、ガルルモン！"
+			"value":"All right, bring it on, Garurumon! Do your\nworst!"
 		},
 		{
 			"key":"EP04_S0112_0129",
-			"value":"ふんっ、逃げずに挑もうという\nその気概だけは、ほめてやるぜ……！"
+			"value":"Hmph! Well, at least you’ve got the guts to\nstand and fight, I’ll give you that!"
 		},
 		{
 			"key":"EP04_S0112_0130",
-			"value":"気持ちだけじゃないよ！\nボクたちは、絶対に負けたりしない！"
+			"value":"Oh, we’ve got more than just guts! We’re\ngonna take you down!"
 		},
 		{
 			"key":"EP04_S0112_0131",
-			"value":"アグモン、よく言ったな……！\nその通りだ！"
+			"value":"Well said, Agumon! Victory will be ours!"
 		},
 		{
 			"key":"EP04_S0112_0132",
-			"value":"果たしてそう上手くいくかな？"
+			"value":"We’ll see about that."
 		},
 		{
 			"key":"EP04_S0112_0133",
-			"value":"僕は、アグモンたちを信じてる！"
+			"value":"I believe in Agumon, and in every one of our\npartners!"
 		},
 		{
 			"key":"EP04_S0112_0134",
-			"value":"いいだろう……おもしろい"
+			"value":"Then this should be interesting."
 		},
 		{
 			"key":"EP04_S0112_0135",
-			"value":"フフフ……さあ、かかってこい！"
+			"value":"Heheheh... Bring it on!"
 		},
 		{
 			"key":"EP04_S0112_0136",
-			"value":"アグモンたちにかなうもんか"
+			"value":"You’re done for!"
 		},
 		{
 			"key":"EP04_S0112_0137",
-			"value":"お前なんてアグモンたちにかなうもんか！"
+			"value":"You’re done for! Agumon and the others could\nbeat you any day!"
 		},
 		{
 			"key":"EP04_S0112_0138",
-			"value":"さっきは、ちいとばかし油断しちまったが\n今度はそうはいかねえぜ！"
+			"value":"You may have gotten lucky earlier, but I’m\nnot letting that happen again!"
 		},
 		{
 			"key":"EP04_S0112_0139",
-			"value":"私たちがすごいってところ、見せてあげるわ！"
+			"value":"Yeah, we’ll show you just what we can do!"
 		},
 		{
 			"key":"EP04_S0112_0140",
-			"value":"フハハ！　面白い！\n上等だ、かかってこい！"
+			"value":"Hahaha! Just what I wanted to hear!\nBring it on!"
 		},
 		{
 			"key":"EP04_S0112_0141",
-			"value":"恥ずかしくないのか！？"
+			"value":"Aren’t you ashamed?"
 		},
 		{
 			"key":"EP04_S0112_0142",
-			"value":"女子供ばかり狙って恥ずかしくないのか！？"
+			"value":"How dare you pick on little kids like that!\nOn girls!"
 		},
 		{
 			"key":"EP04_S0112_0143",
-			"value":"な、何を言うっ！？\nオ、オレはそんな……！"
+			"value":"What?! That’s...that’s not what’s happening!"
 		},
 		{
 			"key":"EP04_S0112_0144",
-			"value":"あなたみたいに卑怯なやつ\n絶対に、許さないんだから！"
+			"value":"Cowards like you are the worst!"
 		},
 		{
 			"key":"EP04_S0112_0145",
-			"value":"ぼ、ボクだって……！"
+			"value":"Yeah...even I’m better than that!"
 		},
 		{
 			"key":"EP04_S0112_0146",
-			"value":"ひ、卑怯だと……！？"
+			"value":"Me? A COWARD?!"
 		},
 		{
 			"key":"EP04_S0112_0147",
-			"value":"（あ、こいつ動揺し始めたぞ）"
+			"value":"(Aha, he’s starting to get flustered.)"
 		},
 		{
 			"key":"EP04_S0112_0148",
-			"value":"（乱暴なヤツだけど、\n　戦い方には誇りを持つタイプっぽいな！）"
+			"value":"(He may be tough, but he seems like the type\nthat takes pride in a fair fight.)"
 		},
 		{
 			"key":"EP04_S0112_0149",
-			"value":"（おっかなそうな相手だけど……\n　戦闘開始だ！）"
+			"value":"(He’s an intimidating opponent all right,\nbut...here goes nothing!)"
 		}
 	]
 }

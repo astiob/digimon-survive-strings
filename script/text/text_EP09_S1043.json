@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S1043_0001",
-			"value":"おい、大丈夫か！？"
+			"value":"Hey, are you okay?!"
 		},
 		{
 			"key":"EP09_S1043_0002",
-			"value":"う、うぅ……"
+			"value":"Arrrgh..."
 		},
 		{
 			"key":"EP09_S1043_0003",
-			"value":"意識はあるようだ。よかった\nだが、あちこち怪我しているようだが……"
+			"value":"Looks like she’s still conscious. That’s\ngood, but she’s wounded from head to toe..."
 		},
 		{
 			"key":"EP09_S1043_0004",
-			"value":"傷はそこまで深くねえみたいだな\nおい、大丈夫か？　動けるか？"
+			"value":"They don’t look too deep, at least. Yo, you\nhear me? Can you walk?"
 		},
 		{
 			"key":"EP09_S1043_0005",
-			"value":"このくらい、平気だ……\nうぐっ！"
+			"value":"Shouldn’t be a proble—urk!"
 		},
 		{
 			"key":"EP09_S1043_0006",
-			"value":"動くと傷が開くな\nちょっと待ってろ"
+			"value":"Your wounds’ll bust open if you move like\nthat. Hold on a sec."
 		},
 		{
 			"key":"EP09_S1043_0007",
-			"value":"ふんっ！"
+			"value":"Hrrrn!"
 		},
 		{
 			"key":"EP09_S1043_0008",
-			"value":"自分の服を破いた……？\nあぁそうか、包帯だね"
+			"value":"You’re tearing your own clothes...? Ah,\nmaking bandages, I see."
 		},
 		{
 			"key":"EP09_S1043_0009",
-			"value":"あくまで応急処置だけどな\nほら、これでどうだ？"
+			"value":"It’s nothing more than first aid at best.\nHow’s that, better?"
 		},
 		{
 			"key":"EP09_S1043_0010",
-			"value":"助かった、ありがとう……"
+			"value":"Thanks, this is a big help..."
 		},
 		{
 			"key":"EP09_S1043_0011",
-			"value":"礼だ……受け取ってくれ"
+			"value":"Here... Take this."
 		},
 		{
 			"key":"EP09_S1043_0012",
-			"value":"ありがとな！"
+			"value":"Oh gee, thanks!"
 		},
 		{
 			"key":"EP09_S1043_0013",
-			"value":"怪我した子を集めてるんだ\n君も一緒に来てくれ"
+			"value":"We’re gathering up all the injured. You\nshould come with me."
 		},
 		{
 			"key":"EP09_S1043_0014",
-			"value":"ああ、わかった"
+			"value":"Okay, got it."
 		},
 		{
 			"key":"EP09_S1043_0015",
-			"value":"ジジモンや他のみんなは無事だろうか……"
+			"value":"I hope Jijimon and the others are okay..."
 		}
 	]
 }

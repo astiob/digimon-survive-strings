@@ -2,123 +2,123 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4024_0001",
-			"value":"気を付けろよ\n今はテメーらにまで手が回らねぇ"
+			"value":"Careful, now. I can’t back you up right now\nif something goes down."
 		},
 		{
 			"key":"EP09_S4024_0002",
-			"value":"もしテメーらがケガするようなことがあっても\nオレはミウを優先するからな"
+			"value":"Tough luck if any of you get hurt. Miu comes\nfirst, and that’s a fact."
 		},
 		{
 			"key":"EP09_S4024_0003",
-			"value":"悪いな、タクマ\nカイトはミウが心配で気が立ってんだ"
+			"value":"Them’s the breaks, Takuma. Kaito’s on edge\nworrying over Miu."
 		},
 		{
 			"key":"EP09_S4024_0004",
-			"value":"当たり前だろうが！\nこんな危険しかない状況で……！"
+			"value":"‘Course I’m on edge! There ain’t nothing\nabout this situation that’s safe!"
 		},
 		{
 			"key":"EP09_S4024_0005",
-			"value":"わ、わ、落ち着いてよ～！"
+			"value":"Ah, calm down, calm down!"
 		},
 		{
 			"key":"EP09_S4024_0006",
-			"value":"（まずい、このままじゃケンカになる）"
+			"value":"(Man, this’ll turn into a fight at this\nrate.)"
 		},
 		{
 			"key":"EP09_S4024_0007",
-			"value":"（とはいえ、カイトがピリピリするのも\n　この状況じゃ当然なんだよな）"
+			"value":"(Still, I’m not surprised to see Kaito tense\nin a situation like this.)"
 		},
 		{
 			"key":"EP09_S4024_0008",
-			"value":"（どうすれば揉めずに\n　事態を落ち着かせられるかな……）"
+			"value":"(I wonder how I can cool the temperature\nhere...)"
 		},
 		{
 			"key":"EP09_S4024_Q1",
-			"value":"（カイトの苛立ちを鎮めるには……）"
+			"value":"(How do I calm things down?)"
 		},
 		{
 			"key":"EP09_S4024_Q1_A1",
-			"value":"カイトを宥めよう"
+			"value":"Pacify Kaito."
 		},
 		{
 			"key":"EP09_S4024_Q1_A2",
-			"value":"ドラクモンを庇おう"
+			"value":"Cover for Dracmon."
 		},
 		{
 			"key":"EP09_S4024_Q1_A3",
-			"value":"カイトからの心配に感謝しよう"
+			"value":"Be appreciative."
 		},
 		{
 			"key":"EP09_S4024_0009",
-			"value":"カイトを宥める"
+			"value":"Pacify Kaito."
 		},
 		{
 			"key":"EP09_S4024_0010",
-			"value":"言い争ってる時間が一番無駄だ\n冷静になってよ"
+			"value":"Squabbling is the last thing we have time for\nhere. Chill out, man."
 		},
 		{
 			"key":"EP09_S4024_0011",
-			"value":"……ちっ、確かにな"
+			"value":"...Damn, you ain’t wrong."
 		},
 		{
 			"key":"EP09_S4024_0012",
-			"value":"ドラクモンを庇う"
+			"value":"Cover for Dracmon."
 		},
 		{
 			"key":"EP09_S4024_0013",
-			"value":"ドラクモンは悪くないだろ\nフォローしてくれただけじゃないか"
+			"value":"Dracmon’s done nothing wrong. He’s just\nfollowing your lead, you know."
 		},
 		{
 			"key":"EP09_S4024_0014",
-			"value":"なんだと？"
+			"value":"Say what?"
 		},
 		{
 			"key":"EP09_S4024_0015",
-			"value":"っていうか、こんな口喧嘩こそ\n今やるべきじゃないって"
+			"value":"And besides, we didn’t come here to give each\nother ‘tude, now did we?"
 		},
 		{
 			"key":"EP09_S4024_0016",
-			"value":"ちっ……"
+			"value":"Hmph..."
 		},
 		{
 			"key":"EP09_S4024_0017",
-			"value":"心配に感謝する"
+			"value":"Appreciate him."
 		},
 		{
 			"key":"EP09_S4024_0018",
-			"value":"心配ありがとう、カイト\n大丈夫、自分の身はちゃんと護るから"
+			"value":"I appreciate the concern, Kaito. Don’t worry,\nI can take care of myself."
 		},
 		{
 			"key":"EP09_S4024_0019",
-			"value":"テメーらを心配して言ったんじゃねぇよ\n足引っ張るなって言いたいだけだ"
+			"value":"Who said I’m concerned? I’m just telling you\nnot to slow us down."
 		},
 		{
 			"key":"EP09_S4024_0020",
-			"value":"おやおやぁ？\nカイト、素直じゃない……"
+			"value":"What’s that, now? C’mon, Kaito, no need to be\nshy..."
 		},
 		{
 			"key":"EP09_S4024_0021",
-			"value":"ドラクモン！　そうやって茶化すと\nややこしくなるから！"
+			"value":"Dracmon! Don’t poke the bear, you’ll just\nmake things worse."
 		},
 		{
 			"key":"EP09_S4024_0022",
-			"value":"ふん……"
+			"value":"Hmph."
 		},
 		{
 			"key":"EP09_S4024_0023",
-			"value":"とにかくだ\n今は何があってもおかしくねぇ"
+			"value":"Well, anything could happen here, that’s for\nsure."
 		},
 		{
 			"key":"EP09_S4024_0024",
-			"value":"ミウのためにも気張らないとな\n死にたくなかったら気合い入れろよ"
+			"value":"Gotta go all out for Miu here. Better get\nyour ass in gear if you wanna survive."
 		},
 		{
 			"key":"EP09_S4024_0025",
-			"value":"うん"
+			"value":"Yeah."
 		},
 		{
 			"key":"EP09_S4024_0026",
-			"value":"辺りには敵も、あの霧もいるんだ\n死にたくなかったら気合い入れろよ"
+			"value":"We’re surrounded by enemies and fog. Psyche\nyourself up if you ain’t got a death wish."
 		}
 	]
 }

@@ -2,143 +2,143 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9104_0001",
-			"value":"ここには……何もないか"
+			"value":"Hmm... Nothing here, huh?"
 		},
 		{
 			"key":"EP13_S9104_0002",
-			"value":"下の方から悪い気配が溢れてきてるよ"
+			"value":"I’m sensing something awful from somewhere\nunderneath us."
 		},
 		{
 			"key":"EP13_S9104_0003",
-			"value":"それじゃあ、下に進んでいこう……"
+			"value":"Then we’d better start heading down."
 		},
 		{
 			"key":"EP13_S9104_0004",
-			"value":"うわぁっ！？"
+			"value":"Wah?!"
 		},
 		{
 			"key":"EP13_S9104_0005",
-			"value":"ひゃっ！？"
+			"value":"Yeep!"
 		},
 		{
 			"key":"EP13_S9104_0006",
-			"value":"ひぃぃっ！？\nび、ビビらすんじゃねえよっ！"
+			"value":"Ahhh! D-d-don’t scare me like that!"
 		},
 		{
 			"key":"EP13_S9104_0007",
-			"value":"な、何？　スマホ？"
+			"value":"What was that? It sounded like someone’s\nphone."
 		},
 		{
 			"key":"EP13_S9104_0008",
-			"value":"あー、ごめんごめん、オレのだわ、あはは……"
+			"value":"Haha, sorry about that! It was mine."
 		},
 		{
 			"key":"EP13_S9104_0009",
-			"value":"あ、私のも……\nメールが届いてる……？"
+			"value":"Yeah, mine too... It’s...a message?"
 		},
 		{
 			"key":"EP13_S9104_0010",
-			"value":"メール！？　だ、誰からだ！？\nってか、届くのか！？"
+			"value":"Wait, seriously?! Who’s it from? And how’s\nthat possible?!"
 		},
 		{
 			"key":"EP13_S9104_0011",
-			"value":"えー、なになに～……？"
+			"value":"Yeah, what’s it say?"
 		},
 		{
 			"key":"EP13_S9104_0012",
-			"value":"はぁ？　何だこりゃ\n文字化けしてて全然読めねえじゃん"
+			"value":"What the—? This doesn’t make any sense. It’s\njust a string of random symbols."
 		},
 		{
 			"key":"EP13_S9104_0013",
-			"value":"私のも読めない……\nなんか、キモチワルイな……"
+			"value":"I can’t read mine either. It’s...kind of\ncreepy."
 		},
 		{
 			"key":"EP13_S9104_0014",
-			"value":"そう言えば、祠を調べていた時に\n僕のスマホにも文字化けメールが来ていたな"
+			"value":"You know, I got a garbled message when I was\ninvestigating the shrine, too."
 		},
 		{
 			"key":"EP13_S9104_0015",
-			"value":"おいおい、ンな大事なこと\nなんで今まで言わなかったんだよ？"
+			"value":"And you didn’t think to mention that until\nnow? That’s important information!"
 		},
 		{
 			"key":"EP13_S9104_0016",
-			"value":"い、いや、読めないしいつも来る訳じゃないし\nそれほど大事とは思わなくて……"
+			"value":"Well... It was all nonsense, and it only\nhappened once. I thought it was nothing."
 		},
 		{
 			"key":"EP13_S9104_0017",
-			"value":"（僕もここで文字化けメールを受け取ったな\n　偶然なのか……？）"
+			"value":"(I got a garbled text when I was here, too.\nCould this all just be coincidence?)"
 		},
 		{
 			"key":"EP13_S9104_Q1",
-			"value":"（この文字化けメール、どうしよう？）"
+			"value":"(What should I do about this message?)"
 		},
 		{
 			"key":"EP13_S9104_Q1_A1",
-			"value":"それどころじゃないな"
+			"value":"Forget it."
 		},
 		{
 			"key":"EP13_S9104_Q1_A2",
-			"value":"返信してみようか"
+			"value":"Try responding."
 		},
 		{
 			"key":"EP13_S9104_Q1_A3",
-			"value":"前にもこんなことがあったな"
+			"value":"This happened before."
 		},
 		{
 			"key":"EP13_S9104_0018",
-			"value":"それどころじゃない"
+			"value":"Forget it."
 		},
 		{
 			"key":"EP13_S9104_0019",
-			"value":"今はそれどころじゃない\nとりあえず放っておこう"
+			"value":"I think we’ve got bigger things to worry\nabout right now. Let’s just forget it."
 		},
 		{
 			"key":"EP13_S9104_0020",
-			"value":"え～？　せっかく元の世界と連絡取れるかも\nしれないんだぜ？　何かやってみようぜ！"
+			"value":"Are you crazy? This might be how we can send\na message to our world! We gotta try!"
 		},
 		{
 			"key":"EP13_S9104_0021",
-			"value":"返信してみようか"
+			"value":"Try responding."
 		},
 		{
 			"key":"EP13_S9104_0022",
-			"value":"返信、してみようか……？"
+			"value":"You think...we should try responding?"
 		},
 		{
 			"key":"EP13_S9104_0023",
-			"value":"いいね！　これで誰かと連絡とれるかもだし！"
+			"value":"Good idea! Maybe this will let us actually\nget in touch with someone!"
 		},
 		{
 			"key":"EP13_S9104_0024",
-			"value":"おいおい、ンなことしてる場合かよ"
+			"value":"Wait, is this seriously what you think we\nshould be doing right now?"
 		},
 		{
 			"key":"EP13_S9104_0025",
-			"value":"前にもこんなことがあった"
+			"value":"This happened before."
 		},
 		{
 			"key":"EP13_S9104_0026",
-			"value":"前にもこんなことがあったな……"
+			"value":"You know, this isn’t the first time this has\nhappened..."
 		},
 		{
 			"key":"EP13_S9104_0027",
-			"value":"ん……そういや、たまにあったっけ\n意味わかんねえから放置してたけど……"
+			"value":"Oh yeah. Now that you mention it, you’re\nright. Only we never knew what to make of it."
 		},
 		{
 			"key":"EP13_S9104_0028",
-			"value":"何か意味がある、ということなのか……？"
+			"value":"So, you think this could be significant?"
 		},
 		{
 			"key":"EP13_S9104_0029",
-			"value":"気にはなるけど、後回しにしましょう\n今は主が先よ"
+			"value":"It does seem important, but the Master’s our\ntop priority right now. Let’s focus on him."
 		},
 		{
 			"key":"EP13_S9104_0030",
-			"value":"そうだね……"
+			"value":"Yeah... You’re right."
 		},
 		{
 			"key":"EP13_S9104_0031",
-			"value":"みんな、行こう"
+			"value":"Let’s go, everybody!"
 		}
 	]
 }

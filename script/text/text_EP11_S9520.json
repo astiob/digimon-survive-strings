@@ -2,147 +2,147 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9520_0001",
-			"value":"うーん、何も見つからない～\nもっと深いとこまで入って探した方が良くな～い？"
+			"value":"Hmm, there’s nothing around here. Maybe we\nshould look farther inside?"
 		},
 		{
 			"key":"EP11_S9520_0002",
-			"value":"見落としている可能性だってある\n闇雲に奥へ行って敵に出くわしたら対処できないし"
+			"value":"We may be overlooking something. And if we\nrush inside, we may run right into enemies."
 		},
 		{
 			"key":"EP11_S9520_0003",
-			"value":"もう少しこのまま浅い所を探すべきだよ"
+			"value":"We should keep checking these nearby areas."
 		},
 		{
 			"key":"EP11_S9520_0004",
-			"value":"ん～、でもぉ……"
+			"value":"Yeah, but still..."
 		},
 		{
 			"key":"EP11_S9520_0005",
-			"value":"ふむ……どうするべきか\nタクマはどう思う？"
+			"value":"Hmm... What do you think is the best course\nof action, Takuma?"
 		},
 		{
 			"key":"EP11_S9520_0006",
-			"value":"（確かに浅い所も探した方がいいだろうけど\n　レナモンはこの中って言ってたし……難しいな）"
+			"value":"(I think we should search around here, but\nRenamon said to go farther in... Hard call.)"
 		},
 		{
 			"key":"EP11_S9520_Q1",
-			"value":"（そうだな、僕の考えは……）"
+			"value":"(Hmm, well I think that...)"
 		},
 		{
 			"key":"EP11_S9520_Q1_A1",
-			"value":"シュウジさんの方が正しい"
+			"value":"Shuuji’s right."
 		},
 		{
 			"key":"EP11_S9520_Q1_A2",
-			"value":"サキの意見も正しい"
+			"value":"Saki’s right."
 		},
 		{
 			"key":"EP11_S9520_Q1_A3",
-			"value":"……二人とも正しいような"
+			"value":"...You’re both right."
 		},
 		{
 			"key":"EP11_S9520_0007",
-			"value":"シュウジさんの方が正しい"
+			"value":"Shuuji’s right."
 		},
 		{
 			"key":"EP11_S9520_0008",
-			"value":"シュウジさんの方が正しい\n危険は避けた方がいいです"
+			"value":"Shuuji’s right. We should avoid any danger."
 		},
 		{
 			"key":"EP11_S9520_0009",
-			"value":"そういうもんなの？"
+			"value":"You think so?"
 		},
 		{
 			"key":"EP11_S9520_0010",
-			"value":"そういうもんだと思うよ\nサキは、どうしても反対？"
+			"value":"Yes, I do. You’re against it, Saki?"
 		},
 		{
 			"key":"EP11_S9520_0011",
-			"value":"そういうわけじゃないけど"
+			"value":"It’s not that..."
 		},
 		{
 			"key":"EP11_S9520_0012",
-			"value":"レナモンもこの中にあるって言ってたし……"
+			"value":"It’s just, Renamon said we should go in\ndeeper."
 		},
 		{
 			"key":"EP11_S9520_0013",
-			"value":"まぁでも、とりあえず手がかりっぽいものなら\nここにもあるかもだしね"
+			"value":"But who knows? We may find a clue or two\naround here, too."
 		},
 		{
 			"key":"EP11_S9520_0014",
-			"value":"サキの意見も正しい"
+			"value":"Saki’s right."
 		},
 		{
 			"key":"EP11_S9520_0015",
-			"value":"サキの意見も正しいですよ\nレナモンの情報を信じれば――"
+			"value":"Saki’s right. If we trust Renamon’s info..."
 		},
 		{
 			"key":"EP11_S9520_0016",
-			"value":"ここの内部で何かが起きているのは\n間違いないんですし……"
+			"value":"There has to be something happening around\nhere."
 		},
 		{
 			"key":"EP11_S9520_0017",
-			"value":"そうは言うけどな……"
+			"value":"So you say, but..."
 		},
 		{
 			"key":"EP11_S9520_0018",
-			"value":"まずはこの場所を徹底的に探して、何もないと\n確認できたら奥へ行く、ということでどうだろう？"
+			"value":"But why don’t we comb this area first, then\ngo in once we’re sure there’s nothing here?"
 		},
 		{
 			"key":"EP11_S9520_0019",
-			"value":"まぁ……そういうことなら"
+			"value":"Well... That makes sense to me."
 		},
 		{
 			"key":"EP11_S9520_0020",
-			"value":"ありがとう。それじゃあ探索を続けよう\n時間は限られているんだから"
+			"value":"Thanks for saying so. Now, let’s keep looking\naround here. Better hurry."
 		},
 		{
 			"key":"EP11_S9520_0021",
-			"value":"……二人とも正しいような"
+			"value":"...You’re both right."
 		},
 		{
 			"key":"EP11_S9520_0022",
-			"value":"……二人とも正しいような\n正直、わかりません"
+			"value":"...You’re both right. I honestly don’t know\nwhat to do."
 		},
 		{
 			"key":"EP11_S9520_0023",
-			"value":"君がそんなことじゃ困るよ\n疲れているのか？"
+			"value":"You’re not helping, Takuma. Are you feeling\ntired?"
 		},
 		{
 			"key":"EP11_S9520_0024",
-			"value":"確かに、タクマらしくないよね\n大丈夫？"
+			"value":"Yeah, that’s not something you’d usually say.\nYou okay?"
 		},
 		{
 			"key":"EP11_S9520_0025",
-			"value":"大丈夫だって！\n心配かけて、すみません"
+			"value":"I’m fine! Sorry to worry you."
 		},
 		{
 			"key":"EP11_S9520_0026",
-			"value":"ならいいんだが……"
+			"value":"If you say so..."
 		},
 		{
 			"key":"EP11_S9520_0027",
-			"value":"少し探索するポイントを変えようか\nこの辺りには何もなさそうだ"
+			"value":"Should we shift our search to a different\narea? I think we’re done here."
 		},
 		{
 			"key":"EP11_S9520_0028",
-			"value":"……わかりました\nそうしよっか"
+			"value":"...Gotcha. Okay, let’s go."
 		},
 		{
 			"key":"EP11_S9520_0029",
-			"value":"（二人とも行っちゃった……）"
+			"value":"(They both ran off...)"
 		},
 		{
 			"key":"EP11_S9520_0030",
-			"value":"（……いったい四聖獣は\n　どこにいるんだろう？）"
+			"value":"(Where in the world is that Sovereign\nMonster?)"
 		},
 		{
 			"key":"EP11_S9520_0031",
-			"value":"なかなか見つからないな……\nもう少し探したら、サキ君の言う通り奥へ行くよ"
+			"value":"No luck here... Let’s look a little bit more,\nthen head inside like Saki suggested."
 		},
 		{
 			"key":"EP11_S9520_0032",
-			"value":"ちょっと見て回ったら行くから\nタクマは他のとこ見てきて！"
+			"value":"I’ll do another once-over here. You check out\nanother spot, Takuma!"
 		}
 	]
 }

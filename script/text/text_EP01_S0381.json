@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0381_0001",
-			"value":"（ここは……やっぱり進めないか）"
+			"value":"(Hmm... As I thought, I can’t get past here.)"
 		},
 		{
 			"key":"EP01_S0381_0002",
-			"value":"（ん……？　気のせいか？\n　なんだか、蜘蛛の巣が……）"
+			"value":"(Wait...is it just me, or have the webs...?)"
 		},
 		{
 			"key":"EP01_S0381_0003",
-			"value":"蜘蛛の巣が……増えて、ないか？"
+			"value":"Have the webs...gotten thicker?"
 		},
 		{
 			"key":"EP01_S0381_0004",
-			"value":"ああ、さっき見た時より増えてる\n新しいベタベタがあるよ"
+			"value":"Yeah, there’s a lot more of the sticky stuff\nthan before."
 		},
 		{
 			"key":"EP01_S0381_0005",
-			"value":"つまり敵は、今この瞬間も\n校舎内で罠を張り続けてるってことか！？"
+			"value":"Does that mean the enemy’s setting traps\nthroughout the school as we speak?!"
 		},
 		{
 			"key":"EP01_S0381_0006",
-			"value":"タクマ、急ごう\nこのままじゃどんどん悪くなる"
+			"value":"We should hurry, Takuma. Things are just\ngonna get worse at this rate."
 		},
 		{
 			"key":"EP01_S0381_0007",
-			"value":"いずれ僕らも捕まるかも、ってことか……？"
+			"value":"By worse, you mean we’ll get captured, too?"
 		},
 		{
 			"key":"EP01_S0381_0008",
-			"value":"冗談じゃない……！\n急いで体育館への道を探そう！"
+			"value":"Not a chance! Let’s find the path into the\ngym, pronto!"
 		},
 		{
 			"key":"EP01_S0381_0009",
-			"value":"これ以上状況が悪くならないうちに\n体育館への道を探そう！"
+			"value":"We have to find the path into the gym before\nour situation gets any worse!"
 		}
 	]
 }

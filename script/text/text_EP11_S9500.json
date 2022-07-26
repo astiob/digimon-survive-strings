@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9500_0001",
-			"value":"ミノル、どう？　見つかった？"
+			"value":"What’s up, Minoru? Find anything?"
 		},
 		{
 			"key":"EP11_S9500_0002",
-			"value":"さっぱりだぜ……"
+			"value":"Nope, not at all..."
 		},
 		{
 			"key":"EP11_S9500_0003",
-			"value":"この辺りだとは思うのだがな……"
+			"value":"I figured we’d have better luck here..."
 		},
 		{
 			"key":"EP11_S9500_Q1",
-			"value":"あのさ"
+			"value":"Hey, let’s..."
 		},
 		{
 			"key":"EP11_S9500_Q1_A1",
-			"value":"少し休憩しよう"
+			"value":"Take a break."
 		},
 		{
 			"key":"EP11_S9500_Q1_A2",
-			"value":"もう少し探してみよう"
+			"value":"Look a bit longer."
 		},
 		{
 			"key":"EP11_S9500_Q1_A3",
-			"value":"ちゃんと探してる？"
+			"value":"Actually get serious?"
 		},
 		{
 			"key":"EP11_S9500_0004",
-			"value":"少し休憩しよう\n根を詰めても、辛いだけだよ"
+			"value":"Let’s take a little break. Pushing anymore\nwill just wear us out."
 		},
 		{
 			"key":"EP11_S9500_0005",
-			"value":"でも……いいのかよ？\n時間もないし、早く見つけないと……"
+			"value":"Are you sure? We don’t have much time,\nif we don’t hurry..."
 		},
 		{
 			"key":"EP11_S9500_0006",
-			"value":"四聖獣に会ったときに疲れてたら\n意味ないだろう？"
+			"value":"What’s the point in finding the Sovereign\nDigimon if we’re exhausted?"
 		},
 		{
 			"key":"EP11_S9500_0007",
-			"value":"それに、今までだってなんだかんだ\nあったけど――"
+			"value":"Plus, one way or another up until now..."
 		},
 		{
 			"key":"EP11_S9500_0008",
-			"value":"四聖獣に会えてきたんだ\n今回だって、きっと会えるよ"
+			"value":"We were able to find the Sovereign Digimon.\nThat’s why we’ll definitely do it again."
 		},
 		{
 			"key":"EP11_S9500_0009",
-			"value":"……わかった\nオレ、少し休むわ"
+			"value":"...Yeah, okay. Let’s take a little rest."
 		},
 		{
 			"key":"EP11_S9500_0010",
-			"value":"休むことで、見えるようになるものも\nあるだろうから、賛成だ"
+			"value":"I agree to this course of action. A rest is\nsure to makes certain things more visible."
 		},
 		{
 			"key":"EP11_S9500_0011",
-			"value":"ありがとな、タクマ"
+			"value":"Thanks, Takuma."
 		},
 		{
 			"key":"EP11_S9500_0012",
-			"value":"もう少し探してみよう\n諦めなければ、見つかるはずだよ"
+			"value":"Let’s look a bit longer. We should be able to\nfind them if we stick it out."
 		},
 		{
 			"key":"EP11_S9500_0013",
-			"value":"だよな。よし、ファルコモン\n気合入れるぜ！"
+			"value":"Yeah, you’re right. C’mon, Falcomon, let’s\nput our elbows into it!"
 		},
 		{
 			"key":"EP11_S9500_0014",
-			"value":"うむ。俺たちで見つけよう"
+			"value":"Indeed. Let’s continue our search."
 		},
 		{
 			"key":"EP11_S9500_0015",
-			"value":"ちゃんと探してる？"
+			"value":"How about we actually search seriously?"
 		},
 		{
 			"key":"EP11_S9500_0016",
-			"value":"探してるって！\n何だよその言い方！"
+			"value":"I am being serious!\nWhat’s with that tone?!"
 		},
 		{
 			"key":"EP11_S9500_0017",
-			"value":"ごめんごめん。冗談だよ"
+			"value":"Sorry, sorry. I was just kidding."
 		},
 		{
 			"key":"EP11_S9500_0018",
-			"value":"冗談にしたってさぁ……\n萎えるってーの"
+			"value":"Even if you say so...\nIt really rustled my jimmies."
 		},
 		{
 			"key":"EP11_S9500_0019",
-			"value":"いいではないか。タクマなりに\n気をつかったんだろう"
+			"value":"I think it’s fine. It’s just Takuma’s way of\nshowing concern."
 		},
 		{
 			"key":"EP11_S9500_0020",
-			"value":"そうだけど……"
+			"value":"Sure, but..."
 		},
 		{
 			"key":"EP11_S9500_0021",
-			"value":"まぁ、いいや\nとりあえず、探すのを続けるよ"
+			"value":"Ah, forget it. Let’s get back to the hunt for\nnow."
 		},
 		{
 			"key":"EP11_S9500_0022",
-			"value":"じゃあな\n何か見つけたらすぐ言えよな！"
+			"value":"Later. Yell if you find anything!"
 		},
 		{
 			"key":"EP11_S9500_0023",
-			"value":"うーむ……やはり、この辺りが怪しいと\n思うのだがな"
+			"value":"Hmm... This area looks suspicious to me."
 		},
 		{
 			"key":"EP11_S9500_0024",
-			"value":"オレは、ファルコモンのカンを信じるぜ\nもう一度、この辺りをよく探してみよう"
+			"value":"I trust your gut, Falcomon.\nLets take another look around here."
 		},
 		{
 			"key":"EP11_S9500_0025",
-			"value":"しかし……もしカンが外れていて\n貴重な時間が無駄になったりしたら……"
+			"value":"Still... If my instincts are wrong, and we\nwaste precious time..."
 		},
 		{
 			"key":"EP11_S9500_0026",
-			"value":"それはそれで別にかまわねーよ。オレ一人だったら\nアテもなくウロウロするだけだろうし"
+			"value":"I don’t really mind, man. If it were just me,\nI’d be wandering around aimlessly anyway."
 		},
 		{
 			"key":"EP11_S9500_0027",
-			"value":"……ふ、そうか\nじゃあ、この辺りをもう一度探してみよう"
+			"value":"...Ho, I see. In that case, let’s look around\nhere once more."
 		},
 		{
 			"key":"EP11_S9500_0028",
-			"value":"（この辺りは、ミノルたちに任せておこう）"
+			"value":"(I can leave this area to them.)"
 		}
 	]
 }

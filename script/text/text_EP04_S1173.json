@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1173_0001",
-			"value":"うーん……ここには\n変わったところはなさそうだな"
+			"value":"Hmm... I’m not seeing anything out of the\nordinary here."
 		},
 		{
 			"key":"EP04_S1173_0002",
-			"value":"ほんとー？　地下牢に落とされたときみたいに\nかくしボタンとか、ないの？"
+			"value":"Are you sure? There’s no hidden button like\nthe one that dropped us into that jail cell?"
 		},
 		{
 			"key":"EP04_S1173_0003",
-			"value":"うん、そういうのはなさそうだ"
+			"value":"Not that I could find."
 		},
 		{
 			"key":"EP04_S1173_0004",
-			"value":"ほ、ほら！\nなにもないって、わかったでしょ！？"
+			"value":"You see? There’s nothing here!"
 		},
 		{
 			"key":"EP04_S1173_0005",
-			"value":"ここを捜したって、女王様は\n見つからないんだからぁ！　とっとと出てくの！"
+			"value":"You’re not going to find Her Majesty by\nlooking around this room! Now leave!"
 		},
 		{
 			"key":"EP04_S1173_0006",
-			"value":"いやでも、もうちょっとよく捜さないと……！"
+			"value":"But I’m not done searching!"
 		},
 		{
 			"key":"EP04_S1173_0007",
-			"value":"（って、ほっぽり出されちゃった……）"
+			"value":"(She kicked us out...)"
 		},
 		{
 			"key":"EP04_S1173_0008",
-			"value":"女王様は、そんなとこにはいませんよぉ～だ\nお隠れになってるんだから……！"
+			"value":"You won’t find Her Majesty in there! She’s\nhiding!"
 		}
 	]
 }

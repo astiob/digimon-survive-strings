@@ -2,559 +2,559 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0011_0001",
-			"value":"（遊園地でミウを助け出した後\n　僕たちは一度校舎に戻ってきた）"
+			"value":"(After rescuing Miu at the amusement park,\nwe went back to the school for a bit.)"
 		},
 		{
 			"key":"EP05_S0011_0002",
-			"value":"（ジジモンからの話で\n　元の世界に帰れる可能性があることはわかった）"
+			"value":"(From Jijimon, we learned that there might be\na way for us to get back to our world.)"
 		},
 		{
 			"key":"EP05_S0011_0003",
-			"value":"（方法については僕たちよりも事情に詳しい敵から\n　話を聞いた方がいい、ということらしい）"
+			"value":"(As for the way... We should ask an enemy out\nthere who knows more about what’s going on.)"
 		},
 		{
 			"key":"EP05_S0011_0004",
-			"value":"（敵の元に乗り込むからにはしっかり準備をしよう\n　ということになって、今はみんなで備蓄を確認してる）"
+			"value":"(We have to be ready before we go asking\nquestions... So we’re all checking supplies.)"
 		},
 		{
 			"key":"EP05_S0011_0005",
-			"value":"タクマくん、何かいいものは見つかった？"
+			"value":"Have you found anything promising, Takuma?"
 		},
 		{
 			"key":"EP05_S0011_0006",
-			"value":"それがなかなか見つからなくて\nアオイさんはどうだった？"
+			"value":"Nothing worth mentioning. How about you?"
 		},
 		{
 			"key":"EP05_S0011_0007",
-			"value":"私も見つけられなくて……\n……ダメね、私"
+			"value":"Nothing over here, either. ...I’m hopeless,\naren’t I?"
 		},
 		{
 			"key":"EP05_S0011_0008",
-			"value":"そんなことないわ！\nアオイはちゃんとやってるもの！"
+			"value":"That’s not true, Aoi! You’re trying just as\nhard as everybody else!"
 		},
 		{
 			"key":"EP05_S0011_0009",
-			"value":"ありがとう……"
+			"value":"Thanks..."
 		},
 		{
 			"key":"EP05_S0011_0010",
-			"value":"ボクたちも見つけられなかったし、\n気にしなくていいよ！"
+			"value":"We haven’t found anything either, so don’t\nsweat it!"
 		},
 		{
 			"key":"EP05_S0011_0011",
-			"value":"そうだよ、気にしない気にしない"
+			"value":"Right, what Agumon said!"
 		},
 		{
 			"key":"EP05_S0011_0012",
-			"value":"お、もう二人は来てたんだな！"
+			"value":"Oh hey, you guys’re here, too!"
 		},
 		{
 			"key":"EP05_S0011_0013",
-			"value":"うん。特に何も見つけられなかったけど……\nそっちはどうだった？"
+			"value":"Yeah. We couldn’t find anything, though...\nAny luck over there?"
 		},
 		{
 			"key":"EP05_S0011_0014",
-			"value":"オレの方もダメだった\n校舎って、意外と役立つものがないんだな"
+			"value":"None at all, I’m afraid. You’d think a school\nwould have more useful stuff, huh?"
 		},
 		{
 			"key":"EP05_S0011_0015",
-			"value":"どうなんだろうな……\n他のみんなは？"
+			"value":"What’s the deal, I wonder... You seen the\nothers?"
 		},
 		{
 			"key":"EP05_S0011_0016",
-			"value":"来てないけど……あ"
+			"value":"They haven’t showed up yet... Oh!"
 		},
 		{
 			"key":"EP05_S0011_0017",
-			"value":"おはよう、みんな……"
+			"value":"Good morning, everyone..."
 		},
 		{
 			"key":"EP05_S0011_0018",
-			"value":"おはよう……"
+			"value":"Morning..."
 		},
 		{
 			"key":"EP05_S0011_0019",
-			"value":"お、おはようございまーす……"
+			"value":"Uh, mornin’..."
 		},
 		{
 			"key":"EP05_S0011_0020",
-			"value":"（シュウジさん、かなりうなされてたみたいだけど\n　やっぱり疲れが溜まってるのかな）"
+			"value":"(Sounds like Shuuji had a nasty dream last\nnight. He must be pretty wiped out.)"
 		},
 		{
 			"key":"EP05_S0011_0021",
-			"value":"シュウジさん、大丈夫ですか？\n顔色、悪いですけど……"
+			"value":"Are you all right, Shuuji? You look a little\npale..."
 		},
 		{
 			"key":"EP05_S0011_0022",
-			"value":"寝てる間、うわごとみたいなこと言ってましたよ？\n悪夢でも見てたんスか？"
+			"value":"You were talking all funny in your sleep. You\nhave a nightmare or something?"
 		},
 		{
 			"key":"EP05_S0011_0023",
-			"value":"っ！　い、いや、大丈夫だ……！\n悪夢なんて見るわけないじゃないか！"
+			"value":"Wha’! No, I, I’m fine...! I slept like\na baby, I swear!"
 		},
 		{
 			"key":"EP05_S0011_0024",
-			"value":"いや、でもその顔色は……\nん？"
+			"value":"Still, you’re not looking too good... Hmm?"
 		},
 		{
 			"key":"EP05_S0011_0025",
-			"value":"ウチは一人でも平気だって言ってるでしょ！"
+			"value":"I said I’m fine on my own!"
 		},
 		{
 			"key":"EP05_S0011_0026",
-			"value":"何が起こるかわからない所なんだぞ！\nお前を一人にできるか！"
+			"value":"We have no idea what’s going to happen!\nI can’t leave you alone!"
 		},
 		{
 			"key":"EP05_S0011_0027",
-			"value":"いいから！　ついてこないで！"
+			"value":"Enough already! Don’t come with me!"
 		},
 		{
 			"key":"EP05_S0011_0028",
-			"value":"おい！　ミウ！"
+			"value":"Hey! Miu!"
 		},
 		{
 			"key":"EP05_S0011_0029",
-			"value":"あの二人は変わんねーな\n安心できそうだよ、オレ"
+			"value":"Those two are the same as ever. Kinda puts\nyou at ease, doesn’t it?"
 		},
 		{
 			"key":"EP05_S0011_0030",
-			"value":"いや、和んでる場合じゃないだろ\n喧嘩してるなら止めないと……"
+			"value":"Now’s not the time to sit back and relax. We\nhave to stop them from bickering..."
 		},
 		{
 			"key":"EP05_S0011_0031",
-			"value":"何をしてるんだ、まったくっ！"
+			"value":"WHAT in the WORLD are you DOING?!"
 		},
 		{
 			"key":"EP05_S0011_0032",
-			"value":"え？　……ちょ、ちょっと、シュウジさん？"
+			"value":"Huh? Uhhh, Shuuji?"
 		},
 		{
 			"key":"EP05_S0011_0033",
-			"value":"そこの二人！\nいつまでもそんな調子だと、みんなが困るんだぞ！"
+			"value":"Hey, you two! Your constant fighting is\nstarting to annoy everyone!"
 		},
 		{
 			"key":"EP05_S0011_0034",
-			"value":"うるせぇな\n兄妹のことに首を突っ込むな！"
+			"value":"Shut up. This is family business, so stay out\nof it!"
 		},
 		{
 			"key":"EP05_S0011_0035",
-			"value":"二人とも、落ち着いて！\nミウも、お兄さんのことを邪険にしないでさ"
+			"value":"Calm down, guys! And Miu, don’t be so cruel\nto your brother."
 		},
 		{
 			"key":"EP05_S0011_0036",
-			"value":"ウチは悪くないもん……"
+			"value":"But I didn’t do anything wrong..."
 		},
 		{
 			"key":"EP05_S0011_0037",
-			"value":"シュウジさん、二人はこれで仲がいいんですし、\nあまりきつく言わなくていいと思います"
+			"value":"Those two get along in their own way, Shuuji.\nMaybe you don’t need to be so harsh."
 		},
 		{
 			"key":"EP05_S0011_0038",
-			"value":"そうは言うけど……\nとにかく、あんまり揉めないように！"
+			"value":"You say so, but... Anyway, stop arguing so\nmuch over nothing!"
 		},
 		{
 			"key":"EP05_S0011_0039",
-			"value":"あれ、みんな、揃ってるんだね\n私が最後……なんか、雰囲気悪い？"
+			"value":"Oh hey, the gang’s all here. Guess I’m\nlast...uh, did I miss something important?"
 		},
 		{
 			"key":"EP05_S0011_0040",
-			"value":"大丈夫だよ。せっかくみんながそろったし、\n成果を確認した方がいいかな？"
+			"value":"No, it’s cool. Now that everyone’s here,\nmaybe we should see where we’re at?"
 		},
 		{
 			"key":"EP05_S0011_0041",
-			"value":"そうしよう\n……タクマ、僕が仕切るよ"
+			"value":"Yes, good idea... Let me take the lead,\nTakuma."
 		},
 		{
 			"key":"EP05_S0011_0042",
-			"value":"お願いします"
+			"value":"It’s all you."
 		},
 		{
 			"key":"EP05_S0011_0043",
-			"value":"なんだか大変だね、ニンゲンって"
+			"value":"Humans are kind of intense, huh."
 		},
 		{
 			"key":"EP05_S0011_0044",
-			"value":"みんな、アオイみたいにいい子ならいいんだけどね"
+			"value":"If only all of them were as nice as Aoi."
 		},
 		{
 			"key":"EP05_S0011_0045",
-			"value":"今はまだ仕方ない\n信じて見守るだけだ"
+			"value":"Nothing to be done about it now. We can only\nhave faith and watch over them."
 		},
 		{
 			"key":"EP05_S0011_0046",
-			"value":"そういうものかしらねぇ……"
+			"value":"You sure about that...?"
 		},
 		{
 			"key":"EP05_S0011_0047",
-			"value":"──つまり、目立った成果はないということだね\n僕たちには明確に敵がいるのに、これはまずい……"
+			"value":"...In other words, nothing worth reporting.\nThis is bad, given the enemies out there."
 		},
 		{
 			"key":"EP05_S0011_0048",
-			"value":"あいつらの狙いはオレたちを生け贄にすること、か"
+			"value":"Those things want to sacrifice us or\nsomething?"
 		},
 		{
 			"key":"EP05_S0011_0049",
-			"value":"意味わかんない……"
+			"value":"I don’t get it..."
 		},
 		{
 			"key":"EP05_S0011_0050",
-			"value":"その人が元凶ということなの……？"
+			"value":"Maybe that’s the one behind all of this?"
 		},
 		{
 			"key":"EP05_S0011_0051",
-			"value":"そもそも管理者って、いったい何なんだ？"
+			"value":"What is this “caretaker” in the first place?"
 		},
 		{
 			"key":"EP05_S0011_0052",
-			"value":"要するにアレだろ？　悪の親玉なわけだよな？\nそいつに会えば色々わかるんじゃねーの？"
+			"value":"Probably, like, the king of all evil, right?\nI bet we’d figure things out if we met him."
 		},
 		{
 			"key":"EP05_S0011_0053",
-			"value":"会うって、敵のボスにか？　冗談じゃねえぞ！\nどう考えたって危ねえじゃねえか！"
+			"value":"You mean meet the head bad guy? Are you outta\nyour mind?! That’s way too risky!"
 		},
 		{
 			"key":"EP05_S0011_0054",
-			"value":"それって敵のアジトに乗り込むってこと？\nそんなの絶対危ないじゃん！"
+			"value":"That means waltzing into the enemy’s hideout?\nThat’s not risky, that’s a death sentence!"
 		},
 		{
 			"key":"EP05_S0011_0055",
-			"value":"そ、そうよね……私も、ちょっと怖いわ"
+			"value":"She’s right...\nThe idea is pretty frightening."
 		},
 		{
 			"key":"EP05_S0011_0056",
-			"value":"何言ってんだ、行くしかねーだろ"
+			"value":"What’re you saying? You act like we got\na choice!"
 		},
 		{
 			"key":"EP05_S0011_0057",
-			"value":"オレたちは何も知らない\n敵のことも、襲われる理由も、この世界のことさえも"
+			"value":"We got no idea what’s going on—our enemies,\nwhy we’re being attacked, even this world!"
 		},
 		{
 			"key":"EP05_S0011_0058",
-			"value":"そんな状態じゃ身を守ることもできやしねえ"
+			"value":"How’re we supposed to defend ourselves if\nwe’re in the dark here?!"
 		},
 		{
 			"key":"EP05_S0011_0059",
-			"value":"とっとと相手の本拠地に乗り込んで\n知ってること洗いざらい吐かせるべきだ"
+			"value":"We oughta kick their door down and get them\nto spill everything they know!"
 		},
 		{
 			"key":"EP05_S0011_0060",
-			"value":"ん……まぁ、言ってることはわかるけど"
+			"value":"Hmm... Well, you’re not wrong."
 		},
 		{
 			"key":"EP05_S0011_0061",
-			"value":"いいじゃんいいじゃん！　ラスボスに殴り込みだー！"
+			"value":"Yeah, I like it! Jump right to the last boss!"
 		},
 		{
 			"key":"EP05_S0011_0062",
-			"value":"お前は留守番だ、ミウ"
+			"value":"You’re gonna stay put, Miu."
 		},
 		{
 			"key":"EP05_S0011_0063",
-			"value":"はー！？　なんでよー！"
+			"value":"What?! Whyyy?!"
 		},
 		{
 			"key":"EP05_S0011_0064",
-			"value":"危ないからに決まってるだろ！"
+			"value":"It’s obvious how dangerous this’s gonna be!"
 		},
 		{
 			"key":"EP05_S0011_0065",
-			"value":"私たちは心配しないくせに\nミウちゃんにはホント過保護なんだから"
+			"value":"And you don’t worry about us at all? Just\nher. No wonder she feels coddled to death."
 		},
 		{
 			"key":"EP05_S0011_0066",
-			"value":"あはは……"
+			"value":"Ahaha..."
 		},
 		{
 			"key":"EP05_S0011_0067",
-			"value":"ちょ、ちょっと待ちたまえ！"
+			"value":"Now⁠, now everyone just hold your horses!"
 		},
 		{
 			"key":"EP05_S0011_0068",
-			"value":"やっぱり、敵の本拠地に乗り込むなんて\n認められない！　危険ではないか！"
+			"value":"I can’t let any of you just walk right into\nthe enemy base! It’s too dangerous!"
 		},
 		{
 			"key":"EP05_S0011_0069",
-			"value":"あー、出た出た。まーた始まったよ"
+			"value":"Hoh boy, here we go again..."
 		},
 		{
 			"key":"EP05_S0011_0070",
-			"value":"我々がいるのだから、多少の危険は問題ないと思うがな"
+			"value":"You have no need to fear a certain degree of\ndanger with us around, you know."
 		},
 		{
 			"key":"EP05_S0011_0071",
-			"value":"うん！　タクマはボクが守るぞ！"
+			"value":"Yeah! I’ll protect Takuma!"
 		},
 		{
 			"key":"EP05_S0011_0072",
-			"value":"ま、それなりに修羅場はくぐってるしね、私たちって"
+			"value":"We’ve been through our fair share of crazy\nscrapes, after all."
 		},
 		{
 			"key":"EP05_S0011_0073",
-			"value":"それにこんだけ数がいるんだぜ？\nヨユーだっつの！"
+			"value":"Their numbers ain’t anything to worry about,\nneither! Easy pickings!"
 		},
 		{
 			"key":"EP05_S0011_0074",
-			"value":"あー確かに。フローラモンたちがいれば平気かも？"
+			"value":"True, true. It should be fine with all of\nthese guys around, right?"
 		},
 		{
 			"key":"EP05_S0011_0075",
-			"value":"コイツらの力があれば\nちょっとやそっとのことくらい問題ねーだろ"
+			"value":"With their power, we shouldn’t have too much\ntrouble, I’d guess."
 		},
 		{
 			"key":"EP05_S0011_0076",
-			"value":"くっ……そ、それは、君たちのケモノが\n強いから、そう言えるんだろう！"
+			"value":"Dammit... That’s easy for you to say! Your\nbeasts are strong!"
 		},
 		{
 			"key":"EP05_S0011_0077",
-			"value":"僕のだけこんな、使えない、役立たずで……"
+			"value":"Why is mine the only one so useless..."
 		},
 		{
 			"key":"EP05_S0011_0078",
-			"value":"ご、ごめんなさい……"
+			"value":"I, I’m sorry..."
 		},
 		{
 			"key":"EP05_S0011_0079",
-			"value":"シュウジさん、そんな言い方はないじゃないですか\nロップモンだって頑張ってるのに"
+			"value":"Lopmon’s doing his best too, Shuuji. You\nshouldn’t talk about him like that."
 		},
 		{
 			"key":"EP05_S0011_0080",
-			"value":"とにかく反対だ！　わざわざ危険に飛び込むことはない\n他の方法を探すべきだ！"
+			"value":"Anyway, I’m against this! There’s no need to\nface such danger. There are other ways!"
 		},
 		{
 			"key":"EP05_S0011_0081",
-			"value":"いいや、今はこれが最善だ！　敵の本拠地に乗り込んで\n手っ取り早く情報を聞きだすべきだ！"
+			"value":"This is our best option right now! Rush their\nbase, and get all the intel we need! Simple!"
 		},
 		{
 			"key":"EP05_S0011_0082",
-			"value":"なぁタクマ、これまとまらねーんじゃね？\nお前の意見言ってみてくれよ"
+			"value":"This is going nowhere, man. Why don’t you try\ngiving your two cents?"
 		},
 		{
 			"key":"EP05_S0011_0083",
-			"value":"（うーん、敵の本拠地に行くか\n　他の方法を探すか、か……）"
+			"value":"(Hmm. Should we head to the enemy base, or\nlook for another way...?)"
 		},
 		{
 			"key":"EP05_S0011_0084",
-			"value":"（確かに敵の本拠地に行くとなれば危ないけど\n　わからないことを知れるのは魅力だよな）"
+			"value":"(The first choice is definitely dangerous,\nbut it’d be nice to get some info.)"
 		},
 		{
 			"key":"EP05_S0011_0085",
-			"value":"（他の方法は、危険がない方法でこの世界について\n　調べるってことか……その方法が思いつかないけど）"
+			"value":"(The second means finding a safer way to\nlearn about this world... But how, exactly?)"
 		},
 		{
 			"key":"EP05_S0011_0086",
-			"value":"（どっちにしたっていい部分も悪い部分もあるよな\n　僕の意見だけで決まるとは思えないけど……）"
+			"value":"(Each option has its pros and cons. I don’t\nsee my opinion tipping the scales, but...)"
 		},
 		{
 			"key":"EP05_S0011_Q1",
-			"value":"（これからの方針について、僕の意見は……）"
+			"value":"(Still, I think we should...)"
 		},
 		{
 			"key":"EP05_S0011_Q1_A1",
-			"value":"他の方法を探そう"
+			"value":"Look for another way."
 		},
 		{
 			"key":"EP05_S0011_Q1_A2",
-			"value":"敵の本拠地に乗り込もう"
+			"value":"Enter the enemy base."
 		},
 		{
 			"key":"EP05_S0011_Q1_A3",
-			"value":"簡単には決められないな……"
+			"value":"Think a bit more..."
 		},
 		{
 			"key":"EP05_S0011_0088",
-			"value":"確かにシュウジさんやサキの言う通り\n危ないことは避けるに越したことはないよ"
+			"value":"I’m with Shuuji and Saki. We should do all we\ncan to avoid putting ourselves in danger."
 		},
 		{
 			"key":"EP05_S0011_0089",
-			"value":"そ、そうだ、その通り"
+			"value":"Uh...yes, my sentiments exactly."
 		},
 		{
 			"key":"EP05_S0011_0090",
-			"value":"おいおい、そんな弱腰でいいのかよ？"
+			"value":"Yo, you really think that chickenshit is\ngonna fly here?"
 		},
 		{
 			"key":"EP05_S0011_0091",
-			"value":"みんなのことはボクらが守るよ？"
+			"value":"You know we’re here to protect you, right?"
 		},
 		{
 			"key":"EP05_S0011_0092",
-			"value":"アグモンたちのことを信じてないわけじゃないんだ\n身の安全は大事ってことだよ"
+			"value":"It’s not that I don’t trust you guys, Agumon.\nI’m just prioritizing our safety."
 		},
 		{
 			"key":"EP05_S0011_0093",
-			"value":"ただ、問題はその安全な方法が思いつかないことかな\nシュウジさんは何かいい案はありますか？"
+			"value":"The problem is, I can’t think of a safer way\nto do this. Do you have any ideas, Shuuji?"
 		},
 		{
 			"key":"EP05_S0011_0094",
-			"value":"そ、それは……\n今は、ない……けど"
+			"value":"Me? Um, well... Not exactly."
 		},
 		{
 			"key":"EP05_S0011_0095",
-			"value":"はっ、あんだけ大口叩いといてそれかよ"
+			"value":"Pfft, all sizzle and no steak.\nWhat a blowhard."
 		},
 		{
 			"key":"EP05_S0011_0096",
-			"value":"カイトくん！　それは言い過ぎです"
+			"value":"Hey, watch your mouth, Kaito!"
 		},
 		{
 			"key":"EP05_S0011_0097",
-			"value":"こうなると、この世界を知るためには\n結局敵の本拠地に行くことになるんだけど……"
+			"value":"In that case, the only way to learn about\nthis world is to seek out the enemy..."
 		},
 		{
 			"key":"EP05_S0011_0099",
-			"value":"うん、ミノルやカイトの言う通り\n敵の本拠地に行くべきだ"
+			"value":"I’m with Minoru and Kaito. We should head for\nthe enemy’s base."
 		},
 		{
 			"key":"EP05_S0011_0100",
-			"value":"うんうん、やっぱそうだよなー"
+			"value":"Right on the money. Am I right, or amirite?"
 		},
 		{
 			"key":"EP05_S0011_0101",
-			"value":"でも、それって戦うことになるよね？\n私は、戦わないで済むならそうしたいけど……"
+			"value":"But that means we’ll end up fighting, doesn’t\nit? Isn’t there a more peaceful way...?"
 		},
 		{
 			"key":"EP05_S0011_0102",
-			"value":"もちろん襲われる危険はあるだろうけど\nそれはここにいても同じだし"
+			"value":"I know we run the risk of being attacked, but\nwe run the same risk by staying here."
 		},
 		{
 			"key":"EP05_S0011_0103",
-			"value":"それに、敵の親玉を倒すのが目的じゃないよ\n話を聞いて、危なそうなら逃げればいいし"
+			"value":"Besides, we’re not going there to fight, just\ntalk. If things get dicey we can always run."
 		},
 		{
 			"key":"EP05_S0011_0104",
-			"value":"うむ、そういうことなら殿は任せてくれ\n逃げ道を作るくらい造作もない"
+			"value":"Indeed. If it comes to that, opening up an\nescape route should be a trifle for us."
 		},
 		{
 			"key":"EP05_S0011_0105",
-			"value":"なるほどねー。うーん、まぁそういうことなら\nあんまり危なくはなさそうかな……？"
+			"value":"Ahh, I get it. Well if that’s the case, it\ncan’t be ALL that dangerous...right?"
 		},
 		{
 			"key":"EP05_S0011_0107",
-			"value":"本拠地に行くべきか、行かないべきか\n今はまだ、どっちがいいとも言えないよ"
+			"value":"Right now, it’s hard to say if heading to\ntheir base is the right move."
 		},
 		{
 			"key":"EP05_S0011_0108",
-			"value":"なにそれー、ユージューフダンじゃなーい？"
+			"value":"Whaaat, since when were you a fence-sitter?"
 		},
 		{
 			"key":"EP05_S0011_0109",
-			"value":"いやだって、しょうがないだろ。本拠地に行かない\nとしても、他の案もないわけだし"
+			"value":"I’m just saying. Even if we don’t go, we\ndon’t have any other backup plans, either."
 		},
 		{
 			"key":"EP05_S0011_0110",
-			"value":"それはそうよね\n安全は大事だけど、この世界の情報だって大事だし"
+			"value":"That is true. Safety is key, but so is\nlearning more about this world."
 		},
 		{
 			"key":"EP05_S0011_0111",
-			"value":"結局はどう安全に外を探索するか\nということになるのかしら？"
+			"value":"When it comes down to it, the real issue is\nhow to search outside safely, isn’t it?"
 		},
 		{
 			"key":"EP05_S0011_0112",
-			"value":"そうだね。それで困ったことに、今僕たちが知ってる\n情報源は、一番危険な敵の本拠地だけなんだ"
+			"value":"Yeah. Unfortunately, the only place that can\nhelp us is the one we don’t wanna go to."
 		},
 		{
 			"key":"EP05_S0011_0113",
-			"value":"そうすると……うーん……"
+			"value":"If that’s true, then... Hmm..."
 		},
 		{
 			"key":"EP05_S0011_0114",
-			"value":"もういいじゃん、さっさと乗り込もうよ\nシャコモンたちがいれば平気でしょ？"
+			"value":"Let’s just gooo already! Syakomon and the\nothers will take care of us, right?"
 		},
 		{
 			"key":"EP05_S0011_0115",
-			"value":"そうね、危ない時は私たちに任せてくれればいいわ"
+			"value":"Yeah, leave the hairy stuff to us!"
 		},
 		{
 			"key":"EP05_S0011_0116",
-			"value":"くっ……君たちはそうやって\n僕の意見を無視して……"
+			"value":"So that’s it, then... You all are just going\nto ignore me..."
 		},
 		{
 			"key":"EP05_S0011_0117",
-			"value":"僕のケモノが弱いからか……？\n僕が戦えないから……？"
+			"value":"Is it because my beast is weak...? Because\nI can’t fight...?"
 		},
 		{
 			"key":"EP05_S0011_0118",
-			"value":"僕は……僕は、常に正しく、強くあり\nみんなを導いていかなければならないのに……"
+			"value":"I...I must be strong. Always strong, always\ncorrect. I must guide everyone...and yet..."
 		},
 		{
 			"key":"EP05_S0011_0119",
-			"value":"しゅ、シュウジ……大丈夫？"
+			"value":"Shu...Shuuji? Are you okay?"
 		},
 		{
 			"key":"EP05_S0011_0120",
-			"value":"うるさい！　お前のせいなんだ！"
+			"value":"Quiet! This is all your fault!"
 		},
 		{
 			"key":"EP05_S0011_0121",
-			"value":"ひっ……ご、ごめんなさい"
+			"value":"Heeek! I’m sorry..."
 		},
 		{
 			"key":"EP05_S0011_0122",
-			"value":"とにかく！\n僕たちには敵がいて、戦わないとならない！"
+			"value":"Anyway, we have enemies out there, so we have\nto fight!"
 		},
 		{
 			"key":"EP05_S0011_0123",
-			"value":"そのために協力しないとならないんだ！\n僕たちが無事に帰るためにも！"
+			"value":"That means we have to work together! That way\nwe can all get home safely!"
 		},
 		{
 			"key":"EP05_S0011_0124",
-			"value":"帰れる可能性はあるんだもんな……"
+			"value":"Assuming there’s even a way back home..."
 		},
 		{
 			"key":"EP05_S0011_0125",
-			"value":"わけわかんないまま、生け贄にされるなんて\n絶対に嫌だもんね"
+			"value":"I can’t stand the idea of being offered up\nwith no clue as to why."
 		},
 		{
 			"key":"EP05_S0011_0126",
-			"value":"僕はもう一度、校舎内を探しに行く！\nみんなも何か対策しておくように！"
+			"value":"I’m going to go look inside the school again!\nAll of you should consider your own plans!"
 		},
 		{
 			"key":"EP05_S0011_0127",
-			"value":"あ、ま、待ってよ～！"
+			"value":"Uh, wait! Heyyyyyy!"
 		},
 		{
 			"key":"EP05_S0011_0128",
-			"value":"何も見つからなかったって話だったじゃん"
+			"value":"Sounds like he didn’t find jack, either."
 		},
 		{
 			"key":"EP05_S0011_0129",
-			"value":"そういう言い方はよくないぞ\nシュウジは立派に務めを果たしている"
+			"value":"You should watch your tone. Shuuji is\nperforming his duties quite admirably."
 		},
 		{
 			"key":"EP05_S0011_0130",
-			"value":"シュウジさんは頑張ってるわ"
+			"value":"Shuuji is trying his best."
 		},
 		{
 			"key":"EP05_S0011_0131",
-			"value":"私なんかよりよっぽど……"
+			"value":"Unlike me..."
 		},
 		{
 			"key":"EP05_S0011_0132",
-			"value":"アオイはちゃんとやってるわ！\n自信を持って！"
+			"value":"You’re doing your best too, Aoi! Have more\nconfidence in yourself!"
 		},
 		{
 			"key":"EP05_S0011_0133",
-			"value":"……ありがとう"
+			"value":"...Thanks."
 		},
 		{
 			"key":"EP05_S0011_0134",
-			"value":"ねぇ、タクマ\nボクたちはどーする？"
+			"value":"Hey, Takuma. What’re we gonna do?"
 		},
 		{
 			"key":"EP05_S0011_0135",
-			"value":"物を探すのも大切だけど、\nみんなに話を聞いて、状況をまとめたいんだ"
+			"value":"Our search takes priority, but maybe I’ll\ntalk to everyone and get the bigger picture."
 		},
 		{
 			"key":"EP05_S0011_0136",
-			"value":"アグモンは自由にしてていいよ"
+			"value":"You do whatever you want, Agumon."
 		},
 		{
 			"key":"EP05_S0011_0137",
-			"value":"わかった！"
+			"value":"Okay!"
 		},
 		{
 			"key":"EP05_S0011_0138",
-			"value":"（少しでも何かがわかればいいんだけど……）"
+			"value":"(It’d be nice if he actually knew something,\nbut oh well...)"
 		}
 	]
 }

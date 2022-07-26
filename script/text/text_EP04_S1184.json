@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1184_0001",
-			"value":"ねーねー、タクマ\nここさ、さっきよりずーっとゴチャゴチャしてない？"
+			"value":"Hey Takuma, doesn’t this place seem a lot\nmessier than before?"
 		},
 		{
 			"key":"EP04_S1184_0002",
-			"value":"そう言われてみると\n部屋の中がずいぶん散らかってるような……"
+			"value":"Yeah, now that you mention it. There’s stuff\nscattered all over the place."
 		},
 		{
 			"key":"EP04_S1184_0003",
-			"value":"そ、それは私がいるからだよっ\nお部屋をぐちゃぐちゃにするのが、好きなんだよっ"
+			"value":"That’s just because of me. I like to make\na big mess."
 		},
 		{
 			"key":"EP04_S1184_0004",
-			"value":"（目をそらして、あわあわしてる……\n　なんか怪しいな……）"
+			"value":"(She won’t make eye contact, and she seems\nreally flustered. That’s pretty suspicious.)"
 		},
 		{
 			"key":"EP04_S1184_0005",
-			"value":"えーっと……\nもしかして君以外にも、誰かここにいる？"
+			"value":"And...there’s nobody here besides you?"
 		},
 		{
 			"key":"EP04_S1184_0006",
-			"value":"いっ……いるわけないでしょ！"
+			"value":"Of... Of course not!"
 		},
 		{
 			"key":"EP04_S1184_0007",
-			"value":"ひ、ひとりになりたいんだから\nここから出て行って！！"
+			"value":"Now I want to be alone, so get out of here!"
 		},
 		{
 			"key":"EP04_S1184_0008",
-			"value":"ちょ、ちょっと……！"
+			"value":"Not so fast!"
 		},
 		{
 			"key":"EP04_S1184_0009",
-			"value":"ここには、私ひとりしかいないの！\nだから散らかしたのも、私なの！"
+			"value":"There’s nobody else here, just me! So I’m the\none who made the mess!"
 		}
 	]
 }

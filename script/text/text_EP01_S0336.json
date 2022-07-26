@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0336_0001",
-			"value":"何かしら……\nなんだか嫌な予感がする……"
+			"value":"What is this? I have a bad feeling here..."
 		},
 		{
 			"key":"EP01_S0336_0002",
-			"value":"嫌な予感って？"
+			"value":"A bad feeling? About what?"
 		},
 		{
 			"key":"EP01_S0336_0003",
-			"value":"うーん……具体的には、わからないけど……"
+			"value":"Um, I can’t say for sure..."
 		},
 		{
 			"key":"EP01_S0336_0004",
-			"value":"なんだか嫌な予感がするわ……"
+			"value":"It’s just an instinct, I guess..."
 		}
 	]
 }

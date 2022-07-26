@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2492_0001",
-			"value":"大丈夫、お姉ちゃん？　疲れてない？"
+			"value":"Are you okay, Sis? You’re not too tired?"
 		},
 		{
 			"key":"EP03_S2492_0002",
-			"value":"大丈夫……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP03_S2492_0003",
-			"value":"そう……つらかったら、すぐに言ってね？"
+			"value":"All right... If it starts to get too hard,\nlet me know."
 		},
 		{
 			"key":"EP03_S2492_0004",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP03_S2492_0005",
-			"value":"（あの二人に登山は厳しかったかな……\n　もしもの時は僕が二人を助けてあげよう）"
+			"value":"(It must’ve been tough for them going up the\nmountain. I’ll need to be ready to help too.)"
 		}
 	]
 }

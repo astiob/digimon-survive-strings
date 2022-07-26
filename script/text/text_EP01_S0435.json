@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0435_0001",
-			"value":"タクマー、さっき来たとこも来てないかー？"
+			"value":"Haven’t we been here already, Takuma?"
 		},
 		{
 			"key":"EP01_S0435_0002",
-			"value":"一回見たからって安心はできないと思うんだ\n見落としがあったり変わったりするだろ？"
+			"value":"Just because we looked once doesn’t mean\nwe’re done here. Maybe we missed something."
 		},
 		{
 			"key":"EP01_S0435_0003",
-			"value":"そっか！　タクマはかしこいな！"
+			"value":"Oh, I get it! You sure are smart!"
 		},
 		{
 			"key":"EP01_S0435_0004",
-			"value":"い、いやぁ、それほどでも……"
+			"value":"Heh, I wouldn’t go that far..."
 		},
 		{
 			"key":"EP01_S0435_0005",
-			"value":"よーく捜そうな！"
+			"value":"Let’s search high and low!"
 		}
 	]
 }

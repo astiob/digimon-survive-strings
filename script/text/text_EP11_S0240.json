@@ -2,199 +2,199 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S0240_0001",
-			"value":"おう、タクマか\n祠に行く準備は済んだのか？"
+			"value":"Yo, Takuma. Ready to head to the shrine?"
 		},
 		{
 			"key":"EP11_S0240_Q1",
-			"value":"カイトになんて答えよう？"
+			"value":"How should I respond to Kaito?"
 		},
 		{
 			"key":"EP11_S0240_Q1_A1",
-			"value":"もう少しかかりそう"
+			"value":"It’ll take more time."
 		},
 		{
 			"key":"EP11_S0240_Q1_A2",
-			"value":"あとちょっとで終わる"
+			"value":"I’m almost done."
 		},
 		{
 			"key":"EP11_S0240_0002",
-			"value":"もう少しかかりそう\nみんなも、まだまだみたいだし"
+			"value":"It’ll take some more time. I think it’s the\nsame for the others."
 		},
 		{
 			"key":"EP11_S0240_0003",
-			"value":"カイトはどうだい？"
+			"value":"What about you, Kaito?"
 		},
 		{
 			"key":"EP11_S0240_0004",
-			"value":"オレは別に準備することもないし……\nミウが行けるようなら、すぐにでも大丈夫だ"
+			"value":"I don’t really have anything to prep...\nI’ll be ready to go whenever Miu is."
 		},
 		{
 			"key":"EP11_S0240_0005",
-			"value":"まあ、そんなわけだから\n行くときはいつでも声をかけてくれよ"
+			"value":"Just gimme a holler when it’s time for us to\nhead out, yeah?"
 		},
 		{
 			"key":"EP11_S0240_0006",
-			"value":"あとちょっとで終わるよ"
+			"value":"I’m almost done."
 		},
 		{
 			"key":"EP11_S0240_0007",
-			"value":"じゃあ、行くときは声をかけてくれよ"
+			"value":"All right, gimme a shout when we’re going."
 		},
 		{
 			"key":"EP11_S0240_0008",
-			"value":"オレは別に準備することもないし……\nミウが行けるようなら、いつでも大丈夫だからな"
+			"value":"I don’t really have anything to prep...\nI’ll be ready to go whenever Miu is."
 		},
 		{
 			"key":"EP11_S0240_0009",
-			"value":"いまさらだけど、カイトは\nいつもミウのことを気にしてるよね"
+			"value":"You’re always thinking about Miu. Even now,\naren’t you, Kaito?"
 		},
 		{
 			"key":"EP11_S0240_0010",
-			"value":"すごいなぁって思うよ"
+			"value":"I gotta say, it’s pretty impressive."
 		},
 		{
 			"key":"EP11_S0240_0011",
-			"value":"そうか？　兄妹なら当たり前だと思うがな\nまあ、オレたちの場合はいろいろあったからな"
+			"value":"Really? I’m just doing what a brother does.\nWe’ve been through a lot together"
 		},
 		{
 			"key":"EP11_S0240_0012",
-			"value":"タクマには、どうしても守りたいって\n存在はいないのかよ？"
+			"value":"What about you, Takuma? Is there anything out\nthere you’d do anything to protect?"
 		},
 		{
 			"key":"EP11_S0240_Q2",
-			"value":"どうしても守りたい存在……？"
+			"value":"Something I want to protect...?"
 		},
 		{
 			"key":"EP11_S0240_Q2_A1",
-			"value":"ちょっとわからないな"
+			"value":"I don’t really know."
 		},
 		{
 			"key":"EP11_S0240_Q2_A2",
-			"value":"いない……と思う"
+			"value":"I...don’t think so."
 		},
 		{
 			"key":"EP11_S0240_0013",
-			"value":"ちょっとわからないな……"
+			"value":"I don’t really know..."
 		},
 		{
 			"key":"EP11_S0240_0014",
-			"value":"仲間やアグモンを守りたいって\n思うことはあるけど……"
+			"value":"I mean, I’ve thought about protecting my\nfriends, or Agumon..."
 		},
 		{
 			"key":"EP11_S0240_0015",
-			"value":"そういうのとは違うんだよ\nオレはミウのことになると、他が見えなくなる"
+			"value":"That’s different. When it comes to Miu,\nI lose sight of everything else."
 		},
 		{
 			"key":"EP11_S0240_0016",
-			"value":"いない……と思う"
+			"value":"I...don’t think so."
 		},
 		{
 			"key":"EP11_S0240_0017",
-			"value":"仲間やアグモンを守りたいって\n思うことはあるけど……"
+			"value":"I mean, I’ve thought about protecting my\nfriends, or Agumon..."
 		},
 		{
 			"key":"EP11_S0240_0018",
-			"value":"カイトが言っているのとは\nちょっと違う気がするし"
+			"value":"Still, I get the feeling that’s not what you\nmean, Kaito."
 		},
 		{
 			"key":"EP11_S0240_0019",
-			"value":"そうだよな……オレの場合は、ミウだけが大事で\n他がどうでもよくなる時がある"
+			"value":"Yeah... For me, Miu is the only important\nthing to me. I lose sight of everything else."
 		},
 		{
 			"key":"EP11_S0240_0020",
-			"value":"でもだからこそ、みんなタクマを\n信頼してるんだと思うぜ？"
+			"value":"But I guess that’s why everyone trusts you\nlike they do, Takuma."
 		},
 		{
 			"key":"EP11_S0240_0021",
-			"value":"そうなのかな"
+			"value":"I can see that."
 		},
 		{
 			"key":"EP11_S0240_0022",
-			"value":"ああ、そうだと思う\nオレじゃあ、そうはいかないからな"
+			"value":"Yeah, I bet that’s why.\nMe, I can’t do things that way."
 		},
 		{
 			"key":"EP11_S0240_0023",
-			"value":"ミウがさらわれた時なんか\nカイトはすごい剣幕だったしな"
+			"value":"You were super pissed when Miu got kidnapped."
 		},
 		{
 			"key":"EP11_S0240_0024",
-			"value":"あの時は……そうだな\nミウを救うことしか考えていなかった"
+			"value":"Yeah... All I could think about was saving\nher when that happened."
 		},
 		{
 			"key":"EP11_S0240_0025",
-			"value":"正直、他はどうなってもいいって思ったし……"
+			"value":"In all honesty, I didn’t give two flips about\nanything else."
 		},
 		{
 			"key":"EP11_S0240_0026",
-			"value":"ミウはカイトのそういうところが\n嫌だって言ってるぞ？"
+			"value":"Miu says that’s what she hates about you,\nyou know?"
 		},
 		{
 			"key":"EP11_S0240_0027",
-			"value":"それは言わないでくれよ、ドラクモン\nオレにだってどうしたらいいかわからねぇ"
+			"value":"Don’t say that, Dracmon. Even I don’t know\nwhat to do about it."
 		},
 		{
 			"key":"EP11_S0240_0028",
-			"value":"ミウに嫌われたくはないけど\nどうしても自分を抑えられないし……"
+			"value":"I don’t want Miu to hate me, but I just can’t\nhelp myself..."
 		},
 		{
 			"key":"EP11_S0240_0029",
-			"value":"なあ、タクマ\nオレはどうすればいいんだろうな？"
+			"value":"Hey, Takuma. What do you think I should do?"
 		},
 		{
 			"key":"EP11_S0240_Q3",
-			"value":"悩めるカイトになんて答えよう？"
+			"value":"How should I answer Kaito’s concerns?"
 		},
 		{
 			"key":"EP11_S0240_Q3_A1",
-			"value":"ミウと話し合うべきだ"
+			"value":"Try talking to Miu."
 		},
 		{
 			"key":"EP11_S0240_Q3_A2",
-			"value":"僕にはわからないよ"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP11_S0240_0030",
-			"value":"ミウと話し合うべきだと思う、カイト"
+			"value":"I think you should talk to Miu, Kaito."
 		},
 		{
 			"key":"EP11_S0240_0031",
-			"value":"カイトの過保護は嫌がってるかもしれないけど\n別にカイト自身を嫌ってるわけじゃないだろ？"
+			"value":"She may not like how protective you are, but\nthat doesn’t mean she hates you."
 		},
 		{
 			"key":"EP11_S0240_0032",
-			"value":"俺もそう思うぞ\nタクマの言う通りだ"
+			"value":"I think so, too.\nYou should do as Takuma says."
 		},
 		{
 			"key":"EP11_S0240_0033",
-			"value":"話し合うか……オレだってそう思うけどな\n面と向かって、なんて話せばいいんだよ"
+			"value":"Talk it out, huh... Not a bad idea. Face to\nface, we should be able to hash it out."
 		},
 		{
 			"key":"EP11_S0240_0034",
-			"value":"それは、カイトが考えるしかないかもな"
+			"value":"I guess you’ll have to think of something."
 		},
 		{
 			"key":"EP11_S0240_0035",
-			"value":"だよな……ありがとよ、タクマ"
+			"value":"Yeah, guess so... Thanks, Takuma."
 		},
 		{
 			"key":"EP11_S0240_0036",
-			"value":"僕にはわからないよ、カイト\nそれはやはり自分で考えるべきだと思うし"
+			"value":"I don’t know, Kaito. You should think of\nsomething on your own."
 		},
 		{
 			"key":"EP11_S0240_0037",
-			"value":"そうだよな……\nすまん、変なこと聞いちまって……"
+			"value":"Yeah... Sorry for asking something weird..."
 		},
 		{
 			"key":"EP11_S0240_0038",
-			"value":"もう少し、一人で考えてみるよ"
+			"value":"I’ll try thinking on my own for a bit longer."
 		},
 		{
 			"key":"EP11_S0240_0039",
-			"value":"カイト、俺も相談にのるぞ？"
+			"value":"I’ll help out too, Kaito!"
 		},
 		{
 			"key":"EP11_S0240_0040",
-			"value":"ああ、ありがとな、ドラクモン"
+			"value":"Cool. Thanks, Dracmon."
 		}
 	]
 }

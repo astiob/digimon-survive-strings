@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9103_0001",
-			"value":"あれ？　教授は探索に行かないんスか？"
+			"value":"Wait, does that mean you aren’t gonna look\nwith us, Professor?"
 		},
 		{
 			"key":"EP10_S9103_0002",
-			"value":"ああ、すまんね。私はここで少し休ませてもらうよ"
+			"value":"Yes, I’m afraid so. I’ll rest here for a bit."
 		},
 		{
 			"key":"EP10_S9103_0003",
-			"value":"フィールドワークで歩きまわるのには慣れていたつもり\nだったが、いやはや、年は取りたくないものだ"
+			"value":"I thought I was used to working in the field,\nbut my age is catching up with me."
 		},
 		{
 			"key":"EP10_S9103_0004",
-			"value":"あ～、おじいちゃんにはツラい冒険っスもんね"
+			"value":"Man, must be tough getting older. On the\nknees, I mean."
 		},
 		{
 			"key":"EP10_S9103_0005",
-			"value":"ふふ、言ってくれるじゃないか"
+			"value":"Ho ho, couldn’t have said it better myself!"
 		},
 		{
 			"key":"EP10_S9103_0006",
-			"value":"こらミノル、ここまで一緒に来た仲間に対して\n馬鹿にするようなことを言うな"
+			"value":"Minoru, do not make light of the companion\nwho has journeyed so far with us."
 		},
 		{
 			"key":"EP10_S9103_0007",
-			"value":"えっ？　馬鹿にしたつもりなんてないって！"
+			"value":"What? But I wasn’t!"
 		},
 		{
 			"key":"EP10_S9103_0008",
-			"value":"大丈夫ですよ教授。僕たちで祠を探しますから\nゆっくり休んでいてください"
+			"value":"It’s okay, Professor, we’ll look for the\nshrine. You just rest here."
 		},
 		{
 			"key":"EP10_S9103_0009",
-			"value":"まかせて～！"
+			"value":"Leave it to us!"
 		},
 		{
 			"key":"EP10_S9103_0010",
-			"value":"ありがとう。代わりに私は\n知識で君たちに貢献させてもらうよ"
+			"value":"Thank you. I’ll contribute to your search\nwith all the knowledge at my disposal.  "
 		},
 		{
 			"key":"EP10_S9103_0011",
-			"value":"さて、それじゃあ僕らは探索に――"
+			"value":"Well then, time to get back to the⁠—"
 		},
 		{
 			"key":"EP10_S9103_0012",
-			"value":"あれ？　あそこにいるのって……\nハルじゃないか？"
+			"value":"Huh? Over there... Ain’t that Haru?"
 		},
 		{
 			"key":"EP10_S9103_0013",
-			"value":"ハルっ！？\nなんでここに！？"
+			"value":"Haru?! Why is he here?!"
 		},
 		{
 			"key":"EP10_S9103_0014",
-			"value":"お～い、ハル～！"
+			"value":"Heeey, Haruuu!"
 		},
 		{
 			"key":"EP10_S9103_0015",
-			"value":"えぇっ！？　なんで逃げんの？\nはっ、まさか偽物！？"
+			"value":"Whoa! The heck is he running for?! Yo, you\nthink he’s another fake?"
 		},
 		{
 			"key":"EP10_S9103_0016",
-			"value":"いや、偽物ならさっきのミユキみたいに\nこっちに近づいて騙そうとするんじゃないか？"
+			"value":"No, if he was, he’d try to come trick us like\nthe fake Miyuki did."
 		},
 		{
 			"key":"EP10_S9103_0017",
-			"value":"あれは間違いなく本物のハルくんだ\nあの気まずそうな顔……間違いない"
+			"value":"That’s definitely the real Haru. I’d\nrecognize that restless countenance anywhere."
 		},
 		{
 			"key":"EP10_S9103_0018",
-			"value":"あぁ、確かに\n……え、じゃあなんで？"
+			"value":"Ah, true that... But why, then?"
 		},
 		{
 			"key":"EP10_S9103_0019",
-			"value":"（ハル……どうしてこんなところに一人で？\n　僕が霧に飲まれた後に行方不明になったはずじゃ……）"
+			"value":"(Haru... Why’s he here by himself? He up and\nvanished after I was swallowed by the fog.)"
 		},
 		{
 			"key":"EP10_S9103_0020",
-			"value":"（けど、僕らから逃げるなんて……何か隠してる？\n　みんなの前から黙って消えたのも理由があるのか？）"
+			"value":"(But he’s running away... What’s he hiding\nfrom us? Why would he leave without a word?)"
 		},
 		{
 			"key":"EP10_S9103_0021",
-			"value":"（いやいや、あんな小さな子の何を疑ってるんだ\n　早く追いかけるべきだろう）"
+			"value":"(Hold up, what’s there to doubt about a kid\nlike that? We should head after him.)"
 		},
 		{
 			"key":"EP10_S9103_Q1",
-			"value":"（僕が最優先に考えるのは？）"
+			"value":"(What should we do?)"
 		},
 		{
 			"key":"EP10_S9103_Q1_A1",
-			"value":"追いかけよう！"
+			"value":"We have to follow him!"
 		},
 		{
 			"key":"EP10_S9103_Q1_A2",
-			"value":"何か隠してるのか？"
+			"value":"What’s he hiding?"
 		},
 		{
 			"key":"EP10_S9103_Q1_A3",
-			"value":"なんでこんなところにいるんだ？"
+			"value":"Why is he here?"
 		},
 		{
 			"key":"EP10_S9103_0022",
-			"value":"ハルを追いかけよう！"
+			"value":"We have to follow him!"
 		},
 		{
 			"key":"EP10_S9103_0023",
-			"value":"だな！　ったく一人でこんなとこうろつくなんて\n何考えてんだ！？"
+			"value":"Hey! What’s he thinking, wandering around in\na place like this?!"
 		},
 		{
 			"key":"EP10_S9103_0024",
-			"value":"むぅ、怪しい気もするが……"
+			"value":"Hrrm, something strange is afoot..."
 		},
 		{
 			"key":"EP10_S9103_0025",
-			"value":"ほら、早く行くぞファルコモン！"
+			"value":"C’mon, Falcomon! Let’s go!"
 		},
 		{
 			"key":"EP10_S9103_0026",
-			"value":"どうして逃げるんだ……？\n僕たちに何か隠してるのか？"
+			"value":"Why’d he run? Is he hiding something from us?"
 		},
 		{
 			"key":"EP10_S9103_0027",
-			"value":"なに疑ってんだよ！\n早く追いかけないと迷子になるぞ！"
+			"value":"What’s with the twenty questions, man?! We\ngotta chase him or he’ll get lost again!"
 		},
 		{
 			"key":"EP10_S9103_0028",
-			"value":"うむ、急ぐぞ！"
+			"value":"Indeed, let us make haste!"
 		},
 		{
 			"key":"EP10_S9103_0029",
-			"value":"なんでこんなところにいるんだ？"
+			"value":"Why is he here?"
 		},
 		{
 			"key":"EP10_S9103_0030",
-			"value":"きっとはぐれちまったんだろ！\nそんなことより早く追いかけようぜ！"
+			"value":"He must have gotten lost! Never mind that\nnow, we gotta hurry after him!"
 		},
 		{
 			"key":"EP10_S9103_0031",
-			"value":"ん～、なんか気になるけど……\n一人にしちゃかわいそうだね！"
+			"value":"Hmm, something’s not right, but...I’d feel\nawful if we left him on his own!"
 		},
 		{
 			"key":"EP10_S9103_0032",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S9103_0033",
-			"value":"教授？　何か気になることでも？"
+			"value":"Professor? Is something bothering you?"
 		},
 		{
 			"key":"EP10_S9103_0034",
-			"value":"んん……いや、個人的なことだよ\n気にしなくていい"
+			"value":"Umm... No, pay it no mind. It’s a personal\nmatter."
 		},
 		{
 			"key":"EP10_S9103_0035",
-			"value":"それより、早く追いかけてあげなさい"
+			"value":"Go on, you should hurry after him."
 		},
 		{
 			"key":"EP10_S9103_0036",
-			"value":"わ、わかりました……"
+			"value":"Sure, all right..."
 		},
 		{
 			"key":"EP10_S9103_0037",
-			"value":"私は不測の事態に備えて、ここに待機しているよ\n早くあの子を追いかけてあげなさい"
+			"value":" I’ll wait here as a contingency. Please,\npursue that child without delay."
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0154_0001",
-			"value":"事件とかかな？　聞いてみようぜ！"
+			"value":"Think there was an accident or something?\nLet’s ask around!"
 		},
 		{
 			"key":"EP01_S0154_0100",
-			"value":"土砂崩れだって？　マジカヨ\n……先に進んでた奴ら大丈夫かな？"
+			"value":"A landslide? For really reals? Man...\nThink the guys that went ahead are okay?"
 		},
 		{
 			"key":"EP01_S0154_0101",
-			"value":"流石のミノルくんも、こんな状況で\nふざけたりしないのね"
+			"value":"No childish jibes? I suppose you wouldn’t be\nso callous as to joke at a time like this."
 		},
 		{
 			"key":"EP01_S0154_0102",
-			"value":"当たり前でしょ！　オレだって空気読むって"
+			"value":"Of course! Even I know when to watch my\nmouth! ...Sometimes. Maybe."
 		}
 	]
 }

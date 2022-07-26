@@ -2,215 +2,215 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1800_0001",
-			"value":"（あ、アグモンにファルコモンに、シャコモンか\n　こんな所で集まって遊んでたのか）"
+			"value":"(Oh, it’s Agumon, Falcomon and Syakomon. All\nof them were playing here?)"
 		},
 		{
 			"key":"EP05_S1800_0002",
-			"value":"これから一緒にがんばろ～！"
+			"value":"Welcome to the gang, Syakomon!"
 		},
 		{
 			"key":"EP05_S1800_0003",
-			"value":"うん！　アグモンもみんなもよろしくね！"
+			"value":"Thanks, Agumon! And thanks to the rest of\nyou, too!"
 		},
 		{
 			"key":"EP05_S1800_0004",
-			"value":"うむ。よろしく頼む\nコドモたちにも挨拶はしたのか？"
+			"value":"Indeed, welcome to our ranks.\nDid you introduce yourself to the children?"
 		},
 		{
 			"key":"EP05_S1800_0005",
-			"value":"したよー！\nなんだか難しい顔してたけど、何かあったのかな？"
+			"value":"Sure did! They looked a bit weirded out,\nis something wrong?"
 		},
 		{
 			"key":"EP05_S1800_0006",
-			"value":"わからないことが多いからな\n少し不安がっているんだ"
+			"value":"There’s a lot we don’t know, after all.\nEveryone’s a bit on edge."
 		},
 		{
 			"key":"EP05_S1800_0007",
-			"value":"ボクたちがいればだいじょーぶだって、\n思うんだけどなぁ"
+			"value":"I say things’re just fine as long as we’re\nhere!"
 		},
 		{
 			"key":"EP05_S1800_0008",
-			"value":"うんうん！　私もそう思う！\nどんなことがあっても、私たちなら大丈夫！"
+			"value":"My sentiments exactly! We can deal with\nanything that comes our way!"
 		},
 		{
 			"key":"EP05_S1800_0009",
-			"value":"コドモたちもそう簡単にいけば、\n何も問題ないのだろうがな……"
+			"value":"If only the children would feel the same way,\nthings would certainly go more smoothly..."
 		},
 		{
 			"key":"EP05_S1800_0010",
-			"value":"タクマたちを元気づけないとね！\nよーし、がんばるぞ～！"
+			"value":"We have to keep them all in good spirits!\nLet’s do our best!"
 		},
 		{
 			"key":"EP05_S1800_0011",
-			"value":"（アイツら、僕たちのことを考えてくれてるんだな）"
+			"value":"(I see, they’re thinking about our best\ninterests.)"
 		},
 		{
 			"key":"EP05_S1800_0012",
-			"value":"（気持ちはすごく嬉しい\n　……けど、正直アグモンたちに元気づけられてもな）"
+			"value":"(I appreciate the thought. Still...to think\nthey have to keep us in good spirits.)"
 		},
 		{
 			"key":"EP05_S1800_0013",
-			"value":"（いやいや、その気持ちが大事なんじゃないか\n　ここは大人な対応を見せてやるか？）"
+			"value":"(No, no, their consideration is important.\nShould I be adult about this?)"
 		},
 		{
 			"key":"EP05_S1800_0014",
-			"value":"（うーん、でも、普通にお礼を言うのも\n　恥ずかしいような……）"
+			"value":"(Hmm, still, it’s a little embarrassing to\ncome out and say thanks...)"
 		},
 		{
 			"key":"EP05_S1800_Q1",
-			"value":"（僕はどうすればいいのだろう？）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP05_S1800_Q1_A1",
-			"value":"素直にお礼をしておくかな"
+			"value":"Say thanks honestly."
 		},
 		{
 			"key":"EP05_S1800_Q1_A2",
-			"value":"正直な気持ちを言ってしまおうか"
+			"value":"Speak my real feelings."
 		},
 		{
 			"key":"EP05_S1800_Q1_A3",
-			"value":"うーん、どうにも照れくさいな"
+			"value":"Beat around the bush."
 		},
 		{
 			"key":"EP05_S1800_0016",
-			"value":"三人とも、見つけたよ"
+			"value":"There you three are."
 		},
 		{
 			"key":"EP05_S1800_0017",
-			"value":"あ、タクマ！"
+			"value":"Oh, Takuma!"
 		},
 		{
 			"key":"EP05_S1800_0018",
-			"value":"僕たちのことを考えてくれてたんだな\n嬉しいよ、ありがとう"
+			"value":"You were thinking of us, weren’t you? Thanks,\nI really appreciate it."
 		},
 		{
 			"key":"EP05_S1800_0019",
-			"value":"えへへ～、褒められた～"
+			"value":"Eheheh, aww shucks!"
 		},
 		{
 			"key":"EP05_S1800_0020",
-			"value":"僕も君たちに負けないように\nみんなの為に頑張るよ！"
+			"value":"I’ll make sure to work just as hard for\neveryone’s sake!"
 		},
 		{
 			"key":"EP05_S1800_0021",
-			"value":"おう！　一緒にがんばろう！"
+			"value":"Yeah! Let’s do our best!"
 		},
 		{
 			"key":"EP05_S1800_0023",
-			"value":"三人とも、見つけたよ"
+			"value":"There you three are."
 		},
 		{
 			"key":"EP05_S1800_0024",
-			"value":"おぉ、タクマか"
+			"value":"Oh, it is you, Takuma."
 		},
 		{
 			"key":"EP05_S1800_0025",
-			"value":"話聞いたぞ？"
+			"value":"I heard you guys talking, you know."
 		},
 		{
 			"key":"EP05_S1800_0026",
-			"value":"僕たちを思ってくれるのは嬉しいけど\n今の状況は、元気づけられてもどうしようもないからさ"
+			"value":"I appreciate you thinking of us, but we won’t\nget anywhere with you guys propping us up."
 		},
 		{
 			"key":"EP05_S1800_0027",
-			"value":"む……そうか。もはや気持ちの問題ではないんだな"
+			"value":"Hrrm... I see. This is not simply a matter of\nfeelings anymore."
 		},
 		{
 			"key":"EP05_S1800_0028",
-			"value":"そういうこと\nあ、もちろん君たちの気持ちは、本当に嬉しいよ！"
+			"value":"Exactly. Oh, but of course I’m happy you all\nfeel that way!"
 		},
 		{
 			"key":"EP05_S1800_0029",
-			"value":"まぁ、この問題は\n自分たちでなんとかするよ"
+			"value":"Well, we’ll deal with this problem on our\nown."
 		},
 		{
 			"key":"EP05_S1800_0030",
-			"value":"アグモンたちには戦いで頑張ってもらうから\nその時はよろしくな"
+			"value":"We’ll need you guys’ help in any fight, so\nback us up when the time comes."
 		},
 		{
 			"key":"EP05_S1800_0031",
-			"value":"適材適所か。心得た\nその時が来れば、しっかり活躍してみせよう"
+			"value":"Just the ones for the job, as it were. Very\nwell, we shall do our utmost when we must."
 		},
 		{
 			"key":"EP05_S1800_0033",
-			"value":"三人とも、見つけたよ"
+			"value":"There you three are."
 		},
 		{
 			"key":"EP05_S1800_0034",
-			"value":"あら、タクマ"
+			"value":"Oh, it’s Takuma."
 		},
 		{
 			"key":"EP05_S1800_0035",
-			"value":"あー、その……話、聞こえちゃってさ\n僕らを元気づける、って"
+			"value":"Um, so... I overheard you guys talking. About\nkeeping us all in good spirits."
 		},
 		{
 			"key":"EP05_S1800_0036",
-			"value":"ええ、そうよ！　みんなに元気になってもらうの！"
+			"value":"Yep, that’s what I said! We’ll be sure to\ncheer you guys on!"
 		},
 		{
 			"key":"EP05_S1800_0037",
-			"value":"うん……まぁ、元気になったらどうにかなるか\nって言えば、そうでもないけどさ"
+			"value":"Yeah... Well, cheering us up won’t take care\nof anything by itself."
 		},
 		{
 			"key":"EP05_S1800_0038",
-			"value":"でも、いつまでも雰囲気悪いと居心地も悪いし\nどうせなら楽しい方がいいし……"
+			"value":"Still, things have been so uncomfortable and\ngloomy, maybe some fun would be better..."
 		},
 		{
 			"key":"EP05_S1800_0039",
-			"value":"んん？　何が言いたいのかわかんないわ？"
+			"value":"Hmm? I don’t know what you’re trying to say\nhere."
 		},
 		{
 			"key":"EP05_S1800_0040",
-			"value":"えっと、だからさ、問題の解決に\nなるかどうかは置いといて……"
+			"value":"Um, so basically, putting aside whether it’ll\nactually take care of our problems..."
 		},
 		{
 			"key":"EP05_S1800_0041",
-			"value":"か、感謝は……しておくよ"
+			"value":"Let me just say...thank you."
 		},
 		{
 			"key":"EP05_S1800_0042",
-			"value":"はぁ～……ごちゃごちゃと何を言ってるのかと思ったら\nお礼くらいスッと言えばいいのに"
+			"value":"Oh boy... Just give a straight thanks, why\ndon’t you. All that pointless mumbling."
 		},
 		{
 			"key":"EP05_S1800_0043",
-			"value":"うん……照れ隠しだったんだけど\n余計に恥ずかしくなっちゃったよ……"
+			"value":"Sure. I was trying to hide my embarrassment,\nbut that just made it even worse..."
 		},
 		{
 			"key":"EP05_S1800_0044",
-			"value":"さて、僕はまたみんなのところを周ってくるよ"
+			"value":"Welp, I’m going to head back to the others."
 		},
 		{
 			"key":"EP05_S1800_0045",
-			"value":"じゃあボクも行くー！"
+			"value":"Then I’ll go with you!"
 		},
 		{
 			"key":"EP05_S1800_0046",
-			"value":"ファルコモンたちはいいのか？"
+			"value":"Are those two going to be all right?"
 		},
 		{
 			"key":"EP05_S1800_0047",
-			"value":"うん！　遊ぶのはまた後で！"
+			"value":"Yeah! We’ll play again later!"
 		},
 		{
 			"key":"EP05_S1800_0048",
-			"value":"そっか。それじゃあアグモン、一緒に行くか！"
+			"value":"Gotcha. Okay, Agumon, let’s go!"
 		},
 		{
 			"key":"EP05_S1800_0049",
-			"value":"お～う！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP05_S1800_0050",
-			"value":"しっかりタクマを支えるんだぞ？"
+			"value":"Be sure to assist Takuma properly."
 		},
 		{
 			"key":"EP05_S1800_0051",
-			"value":"寄り道しちゃダメよ？"
+			"value":"Don’t go smelling flowers on the way!"
 		},
 		{
 			"key":"EP05_S1800_0052",
-			"value":"まかせろ～！"
+			"value":"Leave it to me!"
 		}
 	]
 }

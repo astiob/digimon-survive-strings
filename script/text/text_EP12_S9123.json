@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9123_0001",
-			"value":"犯人は現場に戻る、と思って来たけど……"
+			"value":"I thought maybe we’d catch the ghost\nreturning to the scene of the crime,"
 		},
 		{
 			"key":"EP12_S9123_0002",
-			"value":"あの人の姿どころか手がかりも見つからないな"
+			"value":"but not only is there no sign of him, there\nare no clues either."
 		},
 		{
 			"key":"EP12_S9123_0003",
-			"value":"しょうがないね\nいろいろ見てみようよ"
+			"value":"I guess we’ll just have to keep looking\naround."
 		},
 		{
 			"key":"EP12_S9123_0004",
-			"value":"ああ、そうだな"
+			"value":"Yeah, I guess."
 		},
 		{
 			"key":"EP12_S9123_0005",
-			"value":"（さすがに、夜のトイレに一人で幽霊探しは\n　かなり怖いな……）"
+			"value":"(Okay, checking the bathroom for ghosts at\nnight is pretty scary.)"
 		}
 	]
 }

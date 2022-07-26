@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0406_0001",
-			"value":"それでタクマー、トイレってなんだー？"
+			"value":"Is that a “ress rum,” Takuma?"
 		},
 		{
 			"key":"EP01_S0406_0002",
-			"value":"あぁ、だから、用を足すところだよ"
+			"value":"Yeah, the place where you...take care of\nbusiness."
 		},
 		{
 			"key":"EP01_S0406_0003",
-			"value":"ヨーオタス？　なんだそれ？"
+			"value":"Business? What kinda business?"
 		},
 		{
 			"key":"EP01_S0406_0004",
-			"value":"え、えっと、つまり……\nおしっことか、うんちとか、することころ……"
+			"value":"Umm, well... You know... Number one and\nnumber two."
 		},
 		{
 			"key":"EP01_S0406_0005",
-			"value":"あー、そうだったのか！\nナルホドなー"
+			"value":"Oh, I think I get it now!"
 		},
 		{
 			"key":"EP01_S0406_0006",
-			"value":"キューキューバコ、ないなー……"
+			"value":"No “furst ayde kit” here..."
 		}
 	]
 }

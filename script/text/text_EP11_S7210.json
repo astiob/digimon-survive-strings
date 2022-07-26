@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7210_0001",
-			"value":"ミウくんに聞いたよ\nアオイくんは、まだ見つからないようだね"
+			"value":"Ah, Takuma. I heard from Miu that Aoi has\nyet to return."
 		},
 		{
 			"key":"EP11_S7210_0002",
-			"value":"はい……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP11_S7210_0003",
-			"value":"アオイさんが、帰ってきてたらいいな\nって、ウチも思ったんだけど……"
+			"value":"I was hoping she’d be back by now, but..."
 		},
 		{
 			"key":"EP11_S7210_0004",
-			"value":"こちらにも戻ってきてはいない\nアオイくんは、大丈夫だろうか"
+			"value":"She hasn’t come back here, either.\nI do worry about her."
 		},
 		{
 			"key":"EP11_S7210_0005",
-			"value":"精神的にも\nだいぶ追いつめられていたからな……"
+			"value":"She must be mentally exhausted by now..."
 		}
 	]
 }

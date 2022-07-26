@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9101_0001",
-			"value":"あれ？　シュウジさんとロップモン、二人だけで\n校舎から出て、どこ行くんだろう？"
+			"value":"Hm? Shuuji and Lopmon are heading out alone\nsomewhere. I wonder where they’re going."
 		},
 		{
 			"key":"EP12_S9101_0002",
-			"value":"タクマ、追いかけよう！"
+			"value":"Let’s follow them, Takuma!"
 		},
 		{
 			"key":"EP12_S9101_0003",
-			"value":"ああ！"
+			"value":"Right!"
 		}
 	]
 }

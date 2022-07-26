@@ -2,83 +2,83 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1702_0001",
-			"value":"うーん、やっぱ足跡は二種類あるなぁ\nこれじゃどっちに行けばいいかわかんねーぞ"
+			"value":"There are two different print types, though.\nI can’t figure out which to follow."
 		},
 		{
 			"key":"EP02_S1702_0002",
-			"value":"（ミノルがスマホのカメラを見て困ってるな）"
+			"value":"(Minoru is confused as he looks at the\ncamera.)"
 		},
 		{
 			"key":"EP02_S1702_Q1",
-			"value":"（ミノルになんて言おう？）"
+			"value":"(What should I say to him?)"
 		},
 		{
 			"key":"EP02_S1702_Q1_A1",
-			"value":"直感に頼るしかない"
+			"value":"Trust your instincts."
 		},
 		{
 			"key":"EP02_S1702_Q1_A2",
-			"value":"二つの違いは何だろう？"
+			"value":"What’s the difference?"
 		},
 		{
 			"key":"EP02_S1702_0003",
-			"value":"どっちの足跡も同じに見えるな……\nここは直感に頼るしかなさそうだ"
+			"value":"Both prints look the same...\nWe need to trust our instincts."
 		},
 		{
 			"key":"EP02_S1702_0004",
-			"value":"よしきた！　直感ならオレに任せてくれ！"
+			"value":"That’s it! Leave the instincts to me!"
 		},
 		{
 			"key":"EP02_S1702_0005",
-			"value":"実はオレ、くじ運はいいんだぜ！"
+			"value":"I’m always lucky at lotteries!"
 		},
 		{
 			"key":"EP02_S1702_0006",
-			"value":"おぉ、そうなのか！"
+			"value":"Oh, really?"
 		},
 		{
 			"key":"EP02_S1702_0007",
-			"value":"いや、ごめん……言ってみたかっただけ\nっつーかむしろ自信ない"
+			"value":"No. I just wanted to say that.\nI’m actually clueless."
 		},
 		{
 			"key":"EP02_S1702_0008",
-			"value":"こんな時に変な見栄を張るんじゃない……"
+			"value":"This isn’t the time for fooling around..."
 		},
 		{
 			"key":"EP02_S1702_0009",
-			"value":"どっちかは偽物なんだ。なら違いはあるはずだ\nどんな小さなものでも、違いを見つけよう"
+			"value":"One is a fake. There must be a difference.\nWe need to find it, no matter how small."
 		},
 		{
 			"key":"EP02_S1702_0010",
-			"value":"いや、んなこと言ったって……\nタクマには、違いわかるか？"
+			"value":"What are you saying? Do you see a difference,\nTakuma?"
 		},
 		{
 			"key":"EP02_S1702_0011",
-			"value":"わか……らないな"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP02_S1702_0012",
-			"value":"だろー？　こんなんじゃ選びようがないって！"
+			"value":"Right? How’re we supposed to choose?"
 		},
 		{
 			"key":"EP02_S1702_0013",
-			"value":"うむ、確かに難しい選択だ"
+			"value":"Yeah, this is really hard."
 		},
 		{
 			"key":"EP02_S1702_0014",
-			"value":"あ～もうタクマが選んでくれよ！\nタクマの選んだ方なら文句ないからさ！"
+			"value":"Just choose one, Takuma! Whichever one you\npick is fine!"
 		},
 		{
 			"key":"EP02_S1702_0015",
-			"value":"がんばれタクマー！"
+			"value":"You can do it, Takuma!"
 		},
 		{
 			"key":"EP02_S1702_0016",
-			"value":"うぅ……責任重大じゃないか"
+			"value":"Wow... that’s a lot of pressure."
 		},
 		{
 			"key":"EP02_S1702_0017",
-			"value":"タクマが選んでくれ！"
+			"value":"Choose, Takuma!"
 		}
 	]
 }

@@ -2,211 +2,211 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4120_0001",
-			"value":"この子が……それに、カイトくんが！"
+			"value":"Oh my gosh, it’s... It must be Kaito that did\nthis!"
 		},
 		{
 			"key":"EP11_S4120_0002",
-			"value":"アオイさん、どうした！？"
+			"value":"What is it, Aoi?!"
 		},
 		{
 			"key":"EP11_S4120_0003",
-			"value":"こっちよ、タクマ！\nこれを見て"
+			"value":"Over here, Takuma! Look!"
 		},
 		{
 			"key":"EP11_S4120_0004",
-			"value":"え……これ、敵？\n倒されてるけど……"
+			"value":"Is that an enemy? Looks like someone took\ncare of it already..."
 		},
 		{
 			"key":"EP11_S4120_0005",
-			"value":"きっとこの敵を倒したのはカイトくんなのよ\n私、森の奥に人影を見たの"
+			"value":"It must have been Kaito! I caught a glimpse\nof someone deeper in the forest."
 		},
 		{
 			"key":"EP11_S4120_0006",
-			"value":"本当か！？"
+			"value":"Really?!"
 		},
 		{
 			"key":"EP11_S4120_0007",
-			"value":"ええ、あの人影は多分カイトくんだと思うの\nドラクモンっぽい影も近くにいたもの"
+			"value":"I think the person I saw was Kaito. There was\na shadow that looked like Dracmon, too."
 		},
 		{
 			"key":"EP11_S4120_0008",
-			"value":"でも私、すぐに影を見失ってしまって……"
+			"value":"But they disappeared so fast..."
 		},
 		{
 			"key":"EP11_S4120_0009",
-			"value":"カイトたちはどっちに行ったの！？"
+			"value":"Which way did they go?!"
 		},
 		{
 			"key":"EP11_S4120_0010",
-			"value":"あっちよ、森の奥"
+			"value":"That way, deeper into the woods."
 		},
 		{
 			"key":"EP11_S4120_0011",
-			"value":"（校舎とは違う方向だ……）"
+			"value":"(That’s the opposite of the direction to the\nschool.)"
 		},
 		{
 			"key":"EP11_S4120_0012",
-			"value":"（ここは二手に分かれるべきだ\n　みんなに知らせる役と、カイトらしき影を追う役）"
+			"value":"(We should divide in two. One group to tell\nthe others, and one to follow Kaito.)"
 		},
 		{
 			"key":"EP11_S4120_0013",
-			"value":"（本当なら、影を見たアオイさんが追う役の方が\n　いいんだろうけど……）"
+			"value":"(Aoi should probably go with the ones looking\nfor Kaito...)"
 		},
 		{
 			"key":"EP11_S4120_0014",
-			"value":"（カイトたちを救おうと必死なアオイさんに\n　お願いするのは、正直に言うと無茶をしそうで怖い）"
+			"value":"(But she’s so desperate to find him, I feel\nlike she might do something rash.)"
 		},
 		{
 			"key":"EP11_S4120_0015",
-			"value":"……タクマくん、アグモン"
+			"value":"Listen, Takuma. Agumon."
 		},
 		{
 			"key":"EP11_S4120_0016",
-			"value":"えっ！？　な、何！？"
+			"value":"Huh? What?!"
 		},
 		{
 			"key":"EP11_S4120_0017",
-			"value":"私、みんなを呼んでくるわ"
+			"value":"I’ll go get everyone."
 		},
 		{
 			"key":"EP11_S4120_0018",
-			"value":"だからタクマくんたちは\nカイトくんたちの痕跡を追いかけてほしいの"
+			"value":"I want you two to follow after Kaito and\nDracmon."
 		},
 		{
 			"key":"EP11_S4120_0019",
-			"value":"いいの？\nアオイ、カイトたちを心配してたのに"
+			"value":"Are you sure? I know you’re worried about\nhim..."
 		},
 		{
 			"key":"EP11_S4120_0020",
-			"value":"アオイさんに任せるのは心配だな、って\nタクマくんの顔に書いてあったもの"
+			"value":"And you’re worried about trusting me with\nthat. It’s written all over your face."
 		},
 		{
 			"key":"EP11_S4120_0021",
-			"value":"う……"
+			"value":"Um..."
 		},
 		{
 			"key":"EP11_S4120_0022",
-			"value":"相談してる時間も惜しいの\nお願い、タクマくん"
+			"value":"We don’t have the time to discuss this.\nPlease, Takuma."
 		},
 		{
 			"key":"EP11_S4120_0023",
-			"value":"（アオイさん、本当は行きたいだろうに\n　きっと僕を信頼して任せてくれたんだ）"
+			"value":"(I know she wants to, but she’s counting on\nme to do it instead.)"
 		},
 		{
 			"key":"EP11_S4120_0024",
-			"value":"（なら、僕だって信頼に応えなきゃ）"
+			"value":"(I can’t say no to that.)"
 		},
 		{
 			"key":"EP11_S4120_Q1",
-			"value":"（アオイさんになんて返そう？）"
+			"value":"(How should I respond to Aoi?)"
 		},
 		{
 			"key":"EP11_S4120_Q1_A1",
-			"value":"絶対に見つけよう"
+			"value":"We’ll find him."
 		},
 		{
 			"key":"EP11_S4120_Q1_A2",
-			"value":"わかったよ"
+			"value":"I’m on it."
 		},
 		{
 			"key":"EP11_S4120_Q1_A3",
-			"value":"やっぱりアオイさんが追う？"
+			"value":"Are you sure?"
 		},
 		{
 			"key":"EP11_S4120_0025",
-			"value":"絶対に見つける"
+			"value":"We’ll find him."
 		},
 		{
 			"key":"EP11_S4120_0026",
-			"value":"うん、絶対に見つける"
+			"value":"All right, I’ll find him. I promise."
 		},
 		{
 			"key":"EP11_S4120_0027",
-			"value":"それに、みんなが来る前に見つけたら\nみんなの到着をちゃんと待つよ"
+			"value":"And in case we find him before everyone gets\nback, we’ll be waiting here."
 		},
 		{
 			"key":"EP11_S4120_0028",
-			"value":"タクマくんならそう言ってくれると思った"
+			"value":"I knew you’d say that, Takuma."
 		},
 		{
 			"key":"EP11_S4120_0029",
-			"value":"アグモン、タクマをしっかり守るのよ"
+			"value":"Please keep him safe, Agumon."
 		},
 		{
 			"key":"EP11_S4120_0030",
-			"value":"うん！\nレンラク、頼んだぞ～！"
+			"value":"Of course! Good luck informing the others!"
 		},
 		{
 			"key":"EP11_S4120_0031",
-			"value":"それじゃ、行きましょう、ラブラモン"
+			"value":"Let’s get going then, Labramon!"
 		},
 		{
 			"key":"EP11_S4120_0032",
-			"value":"ええ！"
+			"value":"Roger that!"
 		},
 		{
 			"key":"EP11_S4120_0033",
-			"value":"わかった"
+			"value":"I’m on it."
 		},
 		{
 			"key":"EP11_S4120_0034",
-			"value":"わかった\nなんとか追いかけてみるよ"
+			"value":"I’m on it. We’ll find him!"
 		},
 		{
 			"key":"EP11_S4120_0035",
-			"value":"無茶なお願いをしてごめんなさい\nすぐに戻ってくるから"
+			"value":"Sorry to ask so much of you. I’ll be back\nbefore long."
 		},
 		{
 			"key":"EP11_S4120_0036",
-			"value":"急ぎましょ、アオイ"
+			"value":"Let’s hurry and get this over with, Aoi."
 		},
 		{
 			"key":"EP11_S4120_0037",
-			"value":"ええ\nお願いね、タクマくん！"
+			"value":"Right! Thanks, Takuma."
 		},
 		{
 			"key":"EP11_S4120_0038",
-			"value":"やっぱりアオイさんが追う？"
+			"value":"Are you sure?"
 		},
 		{
 			"key":"EP11_S4120_0039",
-			"value":"やっぱりアオイさんがカイトたちを追う？"
+			"value":"Are you sure you don’t want to go after him\nyourself?"
 		},
 		{
 			"key":"EP11_S4120_0040",
-			"value":"え？　ど、どうして？"
+			"value":"Huh? Why would you say that?"
 		},
 		{
 			"key":"EP11_S4120_0041",
-			"value":"今のアオイさんなら、冷静だから\n無茶はしないだろうし、それもいいかなって"
+			"value":"You’re really focused, so I don’t doubt you\ncan do it. And I thought you might want to..."
 		},
 		{
 			"key":"EP11_S4120_0042",
-			"value":"もう！　アオイはあなたの気持ちを汲んで\n行きたいのを我慢してるのよ！"
+			"value":"Can’t you see she’s trying to be thoughtful\nand restrain herself? Sheesh!"
 		},
 		{
 			"key":"EP11_S4120_0043",
-			"value":"そうやってまぜっかえさないの！\n時間ないんだから！"
+			"value":"Don’t mess with her like that! We don’t have\nthe time!"
 		},
 		{
 			"key":"EP11_S4120_0044",
-			"value":"そ、そっか、ごめん\nじゃあ僕とアグモンでカイトたちを追うよ"
+			"value":"Sorry! Me and Agumon will go after Kaito\nthen..."
 		},
 		{
 			"key":"EP11_S4120_0045",
-			"value":"まったくもう\n行きましょ、アオイ！"
+			"value":"Ugh! Come on, Aoi, let’s go!"
 		},
 		{
 			"key":"EP11_S4120_0046",
-			"value":"無茶なお願いをしてごめんなさい\nすぐに戻ってくるから"
+			"value":"Sorry to ask so much of you. I’ll be back\nbefore long."
 		},
 		{
 			"key":"EP11_S4120_0047",
-			"value":"よろしくね、タクマくん、アグモン！"
+			"value":"Thanks for the help, Takuma! And Agumon, too!"
 		},
 		{
 			"key":"EP11_S4120_0048",
-			"value":"おう！　まっかせろ～！"
+			"value":"Sure thing! You can count on us!"
 		}
 	]
 }

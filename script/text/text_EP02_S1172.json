@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1172_0001",
-			"value":"タクマ、この辺り何かある"
+			"value":"Takuma, I found something!"
 		},
 		{
 			"key":"EP02_S1172_0002",
-			"value":"何か……でも、僕には見えないな"
+			"value":"Are you sure? I don’t see anything."
 		},
 		{
 			"key":"EP02_S1172_0003",
-			"value":"いや、見えないものを見る方法があったな！"
+			"value":"But wasn’t there a way you could see things\nthat are invisible?"
 		},
 		{
 			"key":"EP02_S1172_0004",
-			"value":"タクマ、この辺りに何かある\n調べてみて！"
+			"value":"There’s something here! You should\ninvestigate!"
 		}
 	]
 }

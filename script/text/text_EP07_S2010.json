@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S2010_0001",
-			"value":"ハルくんとミユキちゃん\nこの辺りにもいない……"
+			"value":"There’s no sign of Haru or Miyuki here."
 		},
 		{
 			"key":"EP07_S2010_0002",
-			"value":"ほんとにも～\nどこに連れて行かれちゃったのかしら！"
+			"value":"Really? Where could they have been taken off\nto? This is so frustrating!"
 		},
 		{
 			"key":"EP07_S2010_0003",
-			"value":"はやく見つけてあげないと……\n敵は、何するか分からないやつらだし……"
+			"value":"And we need to find them right away, or who\nknows what the enemy might do to them."
 		},
 		{
 			"key":"EP07_S2010_0004",
-			"value":"ねえ、タクマさん\n二人とも……大丈夫かしら……"
+			"value":"What do you think, Takuma? Do you think\nthey’re still okay?"
 		},
 		{
 			"key":"EP07_S2010_Q1",
-			"value":"ハルとミユキは大丈夫かな？"
+			"value":"Are Haru and Miyuki all right?"
 		},
 		{
 			"key":"EP07_S2010_Q1_A1",
-			"value":"たぶんね"
+			"value":"Probably."
 		},
 		{
 			"key":"EP07_S2010_Q1_A2",
-			"value":"きっと間に合うよ"
+			"value":"We’ll find them."
 		},
 		{
 			"key":"EP07_S2010_Q1_A3",
-			"value":"ダメかも……"
+			"value":"Maybe not."
 		},
 		{
 			"key":"EP07_S2010_0005",
-			"value":"たぶんね"
+			"value":"Probably."
 		},
 		{
 			"key":"EP07_S2010_0006",
-			"value":"たぶんって……"
+			"value":"That’s, uh, not very reassuring."
 		},
 		{
 			"key":"EP07_S2010_0007",
-			"value":"ミユキをわざわざ連れて行ったからには\n何かに、利用するつもりなんだ"
+			"value":"They went after Miyuki specifically. They\nmust want her for something."
 		},
 		{
 			"key":"EP07_S2010_0008",
-			"value":"だから……すぐに命をどうこうってのは\nないと思う……けど……"
+			"value":"So I don’t think they’d just kill her. Not\nright away, at least."
 		},
 		{
 			"key":"EP07_S2010_0009",
-			"value":"じゃあ、用が済んだら？"
+			"value":"What about after they get what they want?"
 		},
 		{
 			"key":"EP07_S2010_0010",
-			"value":"……その前に、見つけるんだ\n僕らに出来る事はそれしかない"
+			"value":"We’ll find her before that happens. That’s\nall we can hope for."
 		},
 		{
 			"key":"EP07_S2010_0011",
-			"value":"みんなで、これだけ必死に追ってるんだ\nきっと間に合うよ"
+			"value":"With all of us looking this hard, I’m sure\nwe’ll find them before anything bad happens."
 		},
 		{
 			"key":"EP07_S2010_0012",
-			"value":"でも……"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP07_S2010_0013",
-			"value":"今はそう信じて、とにかく探そう\nきっと大丈夫。必ず間に合わせよう。ね？"
+			"value":"What we need to do right now is keep looking\nand hope. It’s okay. We’re going to make it."
 		},
 		{
 			"key":"EP07_S2010_0014",
-			"value":"そうよ！　がんばろう、アオイ！"
+			"value":"That’s right! Let’s keep at it, Aoi!"
 		},
 		{
 			"key":"EP07_S2010_0015",
-			"value":"ええ、そうね……"
+			"value":"Yeah, you’re right."
 		},
 		{
 			"key":"EP07_S2010_0016",
-			"value":"ダメかも……しれないな……"
+			"value":"We...might be too late."
 		},
 		{
 			"key":"EP07_S2010_0017",
-			"value":"ちょっとタクマ！\nアンタ何、弱気になってんのよ！？"
+			"value":"Takuma, what’s gotten into you? Since when\nhave you been such a pessimist?"
 		},
 		{
 			"key":"EP07_S2010_0018",
-			"value":"いや、だって……\nこれだけ探して見つからないんだ"
+			"value":"I’m just saying we’ve looked really hard,\nand we haven’t found anything."
 		},
 		{
 			"key":"EP07_S2010_0019",
-			"value":"最悪の事態は、覚悟しておくべきだと思う"
+			"value":"We may need to prepare ourselves for the\nworst."
 		},
 		{
 			"key":"EP07_S2010_0020",
-			"value":"……そうかもしれないわね"
+			"value":"Yeah, maybe you’re right."
 		},
 		{
 			"key":"EP07_S2010_0021",
-			"value":"アオイまで……もう！"
+			"value":"Not you too, Aoi!"
 		},
 		{
 			"key":"EP07_S2010_0022",
-			"value":"とにかく、今は探そう……それしかない"
+			"value":"Anyway, all we can do right now is keep\nlooking."
 		},
 		{
 			"key":"EP07_S2010_0023",
-			"value":"タクマさん、慎重ね\nここは何度探しても、ハルくんたちはいないわ"
+			"value":"I appreciate you being so thorough, Takuma,\nbut Haru and Miyuki aren’t here."
 		},
 		{
 			"key":"EP07_S2010_0024",
-			"value":"別のところを探しましょう！\n私とアオイも、これからどうするか話し合ってるの"
+			"value":"Let’s look somewhere else! Aoi and I were\njust talking about where we should try next."
 		},
 		{
 			"key":"EP07_S2010_0025",
-			"value":"そうか、分かった\nそれじゃ僕は、別のところへ行くよ"
+			"value":"Got it. I’ll head somewhere else, then."
 		}
 	]
 }

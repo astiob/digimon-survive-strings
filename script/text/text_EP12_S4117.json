@@ -2,87 +2,87 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S4117_0001",
-			"value":"この壁画は確か……"
+			"value":"Hmm, what was this mural supposed to be\nagain?"
 		},
 		{
 			"key":"EP12_S4117_0002",
-			"value":"ボク、覚えてるぞー！"
+			"value":"Oh! I remember!"
 		},
 		{
 			"key":"EP12_S4117_0003",
-			"value":"この絵は、タクマたちの世界と\nボクらの世界を描いたもの……だったよな！"
+			"value":"This mural shows both your world and ours!\nIsn’t that right?"
 		},
 		{
 			"key":"EP12_S4117_0004",
-			"value":"ああ、良く覚えていたね"
+			"value":"Yes, I’m impressed you remembered."
 		},
 		{
 			"key":"EP12_S4117_0005",
-			"value":"うん！　教授が、二つの世界は別々じゃなくて\nつながってるーって言ってたのも、覚えてるぞ～！"
+			"value":"And that’s not all! I remember how you told\nus that the worlds are actually connected!"
 		},
 		{
 			"key":"EP12_S4117_0006",
-			"value":"そうだった……！"
+			"value":"Oh yeah!"
 		},
 		{
 			"key":"EP12_S4117_0007",
-			"value":"で、この真ん中のが門……\n二つの世界を繋ぐゲートなんだよな"
+			"value":"And this thing in the middle is a gate.\nA doorway that connects the worlds, right?"
 		},
 		{
 			"key":"EP12_S4117_0008",
-			"value":"個人の力によるものか、広く伝わる技術なのか……\nそのあたりのことはまったくわからないがね"
+			"value":"Yes, though I’ve no idea whether it was the\nproduct of an individual’s unique ability..."
 		},
 		{
 			"key":"EP12_S4117_0009",
-			"value":"ともかく、このゲートは\n失われたテクノロジー……なのだろう"
+			"value":"...or a widely dispersed skill. Either way,\nthis gate is likely some lost technology."
 		},
 		{
 			"key":"EP12_S4117_0010",
-			"value":"そして……このゲートが\n何かしらの理由で開いてしまって……"
+			"value":"And...every now and then it would open for\nsome reason..."
 		},
 		{
 			"key":"EP12_S4117_0011",
-			"value":"ケモノガミ、人間の双方それぞれに\n互いの世界へ迷い込む者が出るようになった……"
+			"value":"...which led to humans and Kemonogami getting\nlost in each other’s worlds."
 		},
 		{
 			"key":"EP12_S4117_0012",
-			"value":"それがこの、ゲートに吸い込まれてる\n人間とケモノってことですよね"
+			"value":"That must be what this image of humans and\nmonsters being drawn into the gate is about."
 		},
 		{
 			"key":"EP12_S4117_0013",
-			"value":"まるで、僕たちがこの世界に\n連れてこられた時みたいに……"
+			"value":"Reminds me of how we suddenly found ourselves\nthrown into this world."
 		},
 		{
 			"key":"EP12_S4117_0014",
-			"value":"神隠しと呼ばれる現象のいくつかは\nきっとゲートの不具合によるものだったのだろう"
+			"value":"No doubt some of the disappearances occurred\nbecause something went wrong with the gate."
 		},
 		{
 			"key":"EP12_S4117_0015",
-			"value":"もしまた、こんな風にゲートが開いてしまったら\n二つの世界はどうなるんでしょうか……"
+			"value":"So, if it were to open up like this again,\nwhat would happen to the two worlds?"
 		},
 		{
 			"key":"EP12_S4117_0016",
-			"value":"規模によっては大きな混乱が訪れるだろう"
+			"value":"Depending on the magnitude of that new\nconnection, it could cause widespread chaos."
 		},
 		{
 			"key":"EP12_S4117_0017",
-			"value":"秩序をもって対応しなければ、今の人間社会は\nあっけなく崩れてしまう可能性すらある"
+			"value":"Without some countervailing force of order,\nit may mean the end of society as we know it."
 		},
 		{
 			"key":"EP12_S4117_0018",
-			"value":"社会が、崩れる……"
+			"value":"It...it could be that bad?"
 		},
 		{
 			"key":"EP12_S4117_0019",
-			"value":"とにかく今は、ゲートが開いてしまわないよう\n祈るだけだ"
+			"value":"Well, in any case, I suppose all we can do is\npray we never find out."
 		},
 		{
 			"key":"EP12_S4117_0020",
-			"value":"私たちの世界と、こちらの世界は\nゲートを通じて繋がっており……"
+			"value":"This world and our world are connected by\nsome sort of gate."
 		},
 		{
 			"key":"EP12_S4117_0021",
-			"value":"そのゲートが何かしらの理由で開くことにより\n双方の世界へ迷い込む者たちが出るようになったんだ"
+			"value":"When that gate opens, humans and Kemonogami\nget lost in each other’s worlds."
 		}
 	]
 }

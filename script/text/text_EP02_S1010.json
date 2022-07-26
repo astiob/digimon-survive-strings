@@ -2,123 +2,123 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1010_0001",
-			"value":"あ、まだここに居たんだ……"
+			"value":"Oh, you’re still here?"
 		},
 		{
 			"key":"EP02_S1010_0002",
-			"value":"うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP02_S1010_0003",
-			"value":"うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP02_S1010_0004",
-			"value":"そういえば、さっきのミユキの歌……"
+			"value":"By the way, that song Miyuki was singing..."
 		},
 		{
 			"key":"EP02_S1010_0005",
-			"value":"あ、いや。何でもない……"
+			"value":"...Actually, never mind."
 		},
 		{
 			"key":"EP02_S1010_0006",
-			"value":"上手だったよ～"
+			"value":"It was sooo good!"
 		},
 		{
 			"key":"EP02_S1010_0007",
-			"value":"ありがとう……"
+			"value":"Thank you..."
 		},
 		{
 			"key":"EP02_S1010_0008",
-			"value":"ありがとう……"
+			"value":"Thank you..."
 		},
 		{
 			"key":"EP02_S1010_Q1",
-			"value":"（ミユキとハル……やっぱり気になるな）"
+			"value":"(I’m actually worried about them...)"
 		},
 		{
 			"key":"EP02_S1010_Q1_A1",
-			"value":"ハルは姉思いだな"
+			"value":"Haru looks after her."
 		},
 		{
 			"key":"EP02_S1010_Q1_A2",
-			"value":"ミユキのことが特に気になる"
+			"value":"Especially Miyuki."
 		},
 		{
 			"key":"EP02_S1010_Q1_A3",
-			"value":"二人はいつからここにいるんだろう？"
+			"value":"When’d they get here?"
 		},
 		{
 			"key":"EP02_S1010_0101",
-			"value":"ハルはいつもミユキと一緒にいて\nすごく姉思いなんだな"
+			"value":"You're always with Miyuki.\nYou really look after her."
 		},
 		{
 			"key":"EP02_S1010_0102",
-			"value":"うん……\n大事な人だから……"
+			"value":"Yeah...\nShe’s important to me..."
 		},
 		{
 			"key":"EP02_S1010_0103",
-			"value":"そっか。ハルも男なんだから\nお姉ちゃんを守ってやらないとな"
+			"value":"Well, you're a good boy and you have to look\nafter her."
 		},
 		{
 			"key":"EP02_S1010_0104",
-			"value":"うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP02_S1010_0009",
-			"value":"（やっぱり、ミユキは無表情なままだ）"
+			"value":"(Miyuki’s expressionless, as usual.)"
 		},
 		{
 			"key":"EP02_S1010_0010",
-			"value":"（あんな綺麗な歌声で……\n　こんなに可愛いのに……）"
+			"value":"(She’s such a cute kid...\nand has a beautiful singing voice...)"
 		},
 		{
 			"key":"EP02_S1010_0011",
-			"value":"（どうして笑顔すら見せてくれないんだろう……）"
+			"value":"(So I wonder why she never smiles?)"
 		},
 		{
 			"key":"EP02_S1010_0012",
-			"value":"（って、何考えてんだ僕は！）"
+			"value":"(...Okay, that was a random thought.)"
 		},
 		{
 			"key":"EP02_S1010_0105",
-			"value":"そういえばまだ聞いてなかったけど\n二人はいつからここにいるんだ？"
+			"value":"I’ve been meaning to ask this but, when did\nyou get here?"
 		},
 		{
 			"key":"EP02_S1010_0106",
-			"value":"（もしかしたら、ここでの生活の知恵を\n　知ってるかもしれない）"
+			"value":"(They might know how to live here.)"
 		},
 		{
 			"key":"EP02_S1010_0107",
-			"value":"わかんない"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP02_S1010_0108",
-			"value":"わかんない"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP02_S1010_0109",
-			"value":"そ、そっか……"
+			"value":"I see..."
 		},
 		{
 			"key":"EP02_S1010_0110",
-			"value":"（そう上手くはいかないか）"
+			"value":"(That didn’t work.)"
 		},
 		{
 			"key":"EP02_S1010_0111",
-			"value":"そんなことよりも\nさっきのお歌、もっときかせて～！"
+			"value":"But more importantly, can I hear more of that\nsong?"
 		},
 		{
 			"key":"EP02_S1010_0112",
-			"value":"……また今度ね"
+			"value":"...Maybe some other time."
 		},
 		{
 			"key":"EP02_S1010_0113",
-			"value":"また今度"
+			"value":"Other time."
 		},
 		{
 			"key":"EP02_S1010_0114",
-			"value":"（歌うのはもうやめたのか\n　寄り添い合って、仲のいい姉弟だな）"
+			"value":"(She won’t sing? Those two get along pretty\nwell, huh?)"
 		}
 	]
 }

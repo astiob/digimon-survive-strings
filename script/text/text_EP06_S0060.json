@@ -2,763 +2,763 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S0060_0001",
-			"value":"（疲れた……激しい戦いだったな）"
+			"value":"(I’m tired... That was a tough fight.)"
 		},
 		{
 			"key":"EP06_S0060_0002",
-			"value":"（みんなも疲れてるだろうな\n　ちゃんと休めてるかな……）"
+			"value":"(Everyone else must be tired, too.\nI hope they can rest well.)"
 		},
 		{
 			"key":"EP06_S0060_0003",
-			"value":"（一番の心配事だった、みんなのすれ違いは\n　収まったからよかったけど……）"
+			"value":"(I’m glad everyone’s back on good terms.\nThat was my biggest concern.)"
 		},
 		{
 			"key":"EP06_S0060_0004",
-			"value":"（まだ気になることは残ってる）"
+			"value":"(But a few things are still bothering me.)"
 		},
 		{
 			"key":"EP06_S0060_0005",
-			"value":"（ハルと教授の関係、ガルルモンの妙な様子\n　彼らの真意は、一体？）"
+			"value":"(What’s with Haru and the professor? And\nGarurumon’s attitude? What’s going on?)"
 		},
 		{
 			"key":"EP06_S0060_0006",
-			"value":"（わからないことだらけなのに、敵の本拠地に\n　乗り込む時は刻一刻と近づいてる……）"
+			"value":"(I have no idea, but we’re definitely getting\ncloser to entering the enemy base.)"
 		},
 		{
 			"key":"EP06_S0060_0007",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0060_0008",
-			"value":"タクマ？\nまた難しい顔してる！"
+			"value":"Takuma? You look like something’s bothering\nyou again!"
 		},
 		{
 			"key":"EP06_S0060_0009",
-			"value":"うん……考えてたら頭がぐるぐるしちゃってさ"
+			"value":"Yeah. Thinking about everything going on\nmakes my head spin."
 		},
 		{
 			"key":"EP06_S0060_0010",
-			"value":"早く休むべきなのはわかってるんだけど\nすぐには眠れそうにないかも……"
+			"value":"I know I should get some rest, but I don’t\nfeel like sleeping."
 		},
 		{
 			"key":"EP06_S0060_0011",
-			"value":"タクマくん？　眠れないの？"
+			"value":"Did you say you can’t sleep, Takuma?"
 		},
 		{
 			"key":"EP06_S0060_0012",
-			"value":"あれ、アオイさんこそ"
+			"value":"Oh! You too, Aoi?"
 		},
 		{
 			"key":"EP06_S0060_0013",
-			"value":"きっと二人とも気が昂ってるのよ\n何か飲んだりして、少し身体を温めたら？"
+			"value":"You’re both worked up. Maybe you should drink\nsomething to try to relax."
 		},
 		{
 			"key":"EP06_S0060_0014",
-			"value":"あんまり備蓄を無駄遣いするわけには\nいかないんじゃないかしら？"
+			"value":"I hardly think we should be wasting supplies."
 		},
 		{
 			"key":"EP06_S0060_0015",
-			"value":"ちゃんと休めない方が問題なんじゃないかな？\nまだ食料に余裕はあるし、水も出るし"
+			"value":"But not getting enough sleep is even worse.\nWe have extra supplies and water."
 		},
 		{
 			"key":"EP06_S0060_0016",
-			"value":"……そうね、その通りかも\nはあ……"
+			"value":"That’s true...\n*sigh*"
 		},
 		{
 			"key":"EP06_S0060_0017",
-			"value":"タクマくんみたいに\n柔軟に考えられたらいいのに"
+			"value":"I wish I was as easy-going as you, Takuma."
 		},
 		{
 			"key":"EP06_S0060_0018",
-			"value":"それか、サキさんみたいに思ったことを\nたくさん言えるように、とか"
+			"value":"Or that I could say whatever’s on my mind,\nlike Saki."
 		},
 		{
 			"key":"EP06_S0060_0019",
-			"value":"そうかな？　アオイさんの真面目さは\nいいところだと思うけど"
+			"value":"Really?\nI think your seriousness is your strength."
 		},
 		{
 			"key":"EP06_S0060_0020",
-			"value":"そう……かしら"
+			"value":"Hm, I guess so."
 		},
 		{
 			"key":"EP06_S0060_0021",
-			"value":"あれだけのことがあって、それでも\nラブラモンをなるべく傷つけないようにしてた"
+			"value":"Plus, you’ve also been making sure Labramon\ndoesn’t get hurt."
 		},
 		{
 			"key":"EP06_S0060_0022",
-			"value":"凄く偉いことだと思うけどな"
+			"value":"I think that’s amazing."
 		},
 		{
 			"key":"EP06_S0060_0023",
-			"value":"アオイはいつもみんなのこと見てるから\nえらいなって思ってるぞ～！"
+			"value":"You’re always looking out for everyone.\nIt really is amazing!"
 		},
 		{
 			"key":"EP06_S0060_0024",
-			"value":"アオイにはアオイの良さがあるの\n真面目なのだって大事なことよ"
+			"value":"You have your own strengths, Aoi.\nBeing serious is important, too."
 		},
 		{
 			"key":"EP06_S0060_0025",
-			"value":"みんな……ありがとう"
+			"value":"Thanks, guys."
 		},
 		{
 			"key":"EP06_S0060_0026",
-			"value":"ふふ、これでよく眠れるかもね"
+			"value":"Now maybe you’ll be able to sleep better."
 		},
 		{
 			"key":"EP06_S0060_0027",
-			"value":"うん、なんだか少し気が楽になっちゃった"
+			"value":"I do feel a little more relaxed now."
 		},
 		{
 			"key":"EP06_S0060_0028",
-			"value":"やっぱり私、もう寝るね\nおやすみなさい、タクマくん"
+			"value":"Yeah, I think I’ll hit the hay.\nGood night, Takuma."
 		},
 		{
 			"key":"EP06_S0060_0029",
-			"value":"おやすみ、アオイさん"
+			"value":"Good night, Aoi."
 		},
 		{
 			"key":"EP06_S0060_0030",
-			"value":"（アオイさんにはいつも何かと助けられてるし\n　役に立てたならよかったな）"
+			"value":"(She always helps a lot, so I hope that\nhelped her, too.)"
 		},
 		{
 			"key":"EP06_S0060_0031",
-			"value":"（……いよいよ、敵の本拠地に向かうんだ）"
+			"value":"(It’s finally almost time to head to the\nenemy base.)"
 		},
 		{
 			"key":"EP06_S0060_0032",
-			"value":"（団地の西の工場……そこに\n　元の世界に帰るための手掛かりがきっとある）"
+			"value":"(There must be a clue about how to get home\nin the factory east of the apartments.)"
 		},
 		{
 			"key":"EP06_S0060_0033",
-			"value":"（僕もしっかり身体を休めて\n　明日に備えなきゃな）"
+			"value":"(I’d better rest up to get ready for\ntomorrow.)"
 		},
 		{
 			"key":"EP06_S0060_0034",
-			"value":"タクマ！\nこれ、一緒に食おうぜ"
+			"value":"Takuma!\nCome eat this with me!"
 		},
 		{
 			"key":"EP06_S0060_0035",
-			"value":"わっ、ミノル？\nそれ……肉の缶詰？"
+			"value":"Huh?\nIs that...canned meat?"
 		},
 		{
 			"key":"EP06_S0060_0036",
-			"value":"美味そうだけど、このタイプのは\n一個しかなかったから、目ぇ付けてたんだ"
+			"value":"Looks good, but there’s only one of this type\nso I’ve had my eye on it."
 		},
 		{
 			"key":"EP06_S0060_0037",
-			"value":"備蓄を勝手に減らすなと言ったんだがな"
+			"value":"They said not to waste supplies, though..."
 		},
 		{
 			"key":"EP06_S0060_0038",
-			"value":"敵の本拠地のアタリもついたんだし\nちょっとくらい贅沢したっていいだろ"
+			"value":"But we’re near the enemy base, so we might as\nwell live a little!"
 		},
 		{
 			"key":"EP06_S0060_0039",
-			"value":"そうだね\nじゃあ、こっそり食べちゃおうか"
+			"value":"True.\nOkay, let’s eat it in secret!"
 		},
 		{
 			"key":"EP06_S0060_0040",
-			"value":"さっすがタクマ！\n話がわかるぅ！"
+			"value":"Hah!\nI knew you’d understand, Takuma!"
 		},
 		{
 			"key":"EP06_S0060_0041",
-			"value":"じゃ、はいこれ\nやるよ"
+			"value":"All right, here goes!\nHere, take it."
 		},
 		{
 			"key":"EP06_S0060_0042",
-			"value":"え？　一緒に食べるんじゃないの？"
+			"value":"Huh? I thought we were gonna share it?"
 		},
 		{
 			"key":"EP06_S0060_0043",
-			"value":"いや、まあ……今日は世話になったし？\nそのお礼っつーか？"
+			"value":"Yeah, but you helped me so much today.\nSo I wanted to, like, thank you..."
 		},
 		{
 			"key":"EP06_S0060_0044",
-			"value":"ミノル……"
+			"value":"Minoru..."
 		},
 		{
 			"key":"EP06_S0060_0045",
-			"value":"ありがとう、じゃあ\nみんなで一緒に食べようよ"
+			"value":"Thanks a lot.\nBut let’s enjoy it together!"
 		},
 		{
 			"key":"EP06_S0060_0046",
-			"value":"やった、食う食う！"
+			"value":"Okay, I’ll have some then!"
 		},
 		{
 			"key":"EP06_S0060_0047",
-			"value":"お前、最初からタクマが譲ってくれると\n見込んで言ったな？"
+			"value":"You knew Takuma was gonna say that all along,\ndidn’t you?"
 		},
 		{
 			"key":"EP06_S0060_0048",
-			"value":"へへへ、バレた？\nだってタクマなら絶対そう言うからさ"
+			"value":"Hehe, was it that obvious?\nI mean, knowing Takuma...  "
 		},
 		{
 			"key":"EP06_S0060_0049",
-			"value":"タクマは優しくて周りを引っ張れる\nヤツだからな"
+			"value":"He’s always nice to everyone around him,\nalways bringing people together."
 		},
 		{
 			"key":"EP06_S0060_0050",
-			"value":"……ヒーローみたいにさ"
+			"value":"Like a hero..."
 		},
 		{
 			"key":"EP06_S0060_0051",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP06_S0060_0052",
-			"value":"なんでもねーって\n早く食べようぜ！"
+			"value":"Nothing, nothing!\nLet’s hurry up and eat!"
 		},
 		{
 			"key":"EP06_S0060_0053",
-			"value":"う、うん"
+			"value":"Um, sure."
 		},
 		{
 			"key":"EP06_S0060_0054",
-			"value":"まったく\n仕方ないな、お前たちは"
+			"value":"Hmph.\nHumans..."
 		},
 		{
 			"key":"EP06_S0060_0055",
-			"value":"（ファルコモン……言葉とは裏腹に\n　優しい顔してるな）"
+			"value":"(Falcomon sure looks happy despite his\nwords.)"
 		},
 		{
 			"key":"EP06_S0060_0056",
-			"value":"（ファルコモンとミノルのわだかまりも解けて\n　敵の本拠地のアタリもついた）"
+			"value":"(Falcomon and Minoru got over their problems,\nand we’re near the enemy base.)"
 		},
 		{
 			"key":"EP06_S0060_0057",
-			"value":"（きっと明日からは\n　今日よりもっと大変だけど……）"
+			"value":"(Things are bound to get worse starting\ntomorrow.)"
 		},
 		{
 			"key":"EP06_S0060_0058",
-			"value":"（でも、仲間がこうして\n　明るい笑顔で僕を労ってくれるから、頑張れる）"
+			"value":"(Still, being appreciated by smiling friends\nmakes me feel like I can handle it.)"
 		},
 		{
 			"key":"EP06_S0060_0059",
-			"value":"（……明日も精一杯、頑張ろう\n　なんとしても元の世界への糸口を見つけるんだ）"
+			"value":"(Let’s do our best tomorrow.\nWe’ll find a way back to our world somehow.)"
 		},
 		{
 			"key":"EP06_S0060_0060",
-			"value":"おう、まだ起きてんのか？"
+			"value":"Oh, you’re still awake?"
 		},
 		{
 			"key":"EP06_S0060_0061",
-			"value":"リョウ、クネモン……"
+			"value":"It’s Ryo and Kunemon."
 		},
 		{
 			"key":"EP06_S0060_0062",
-			"value":"キュッ！"
+			"value":"Kew!"
 		},
 		{
 			"key":"EP06_S0060_0063",
-			"value":"やっほー、クネモン"
+			"value":"Hey, Kunemon."
 		},
 		{
 			"key":"EP06_S0060_0064",
-			"value":"リョウも眠れないの？"
+			"value":"You having trouble sleeping?"
 		},
 		{
 			"key":"EP06_S0060_0065",
-			"value":"まぁな、もうすぐ敵の本拠地に行くって思ったら\n色々考えちまってよ"
+			"value":"I can’t stop thinking about how we’ll be at\nthe enemy base soon."
 		},
 		{
 			"key":"EP06_S0060_0066",
-			"value":"……なぁ、タクマ\nオレよぉ、最初はこの世界が怖かったんだよ"
+			"value":"You know, Takuma...\nI was so scared of this world at first."
 		},
 		{
 			"key":"EP06_S0060_0067",
-			"value":"うん、知ってる\nいつも震えてたもんね"
+			"value":"I know.\nYou were always shaking like crazy."
 		},
 		{
 			"key":"EP06_S0060_0068",
-			"value":"うっ……まぁ、そうだったんだけどよ\n今はそうでもねえっつーか……"
+			"value":"Uh, right...\nAnyway, I don’t feel that way anymore."
 		},
 		{
 			"key":"EP06_S0060_0069",
-			"value":"生きるのは大変だし、死にそうな目にも遭ったけど\n仲間と協力して過ごすってのは、悪くねえな"
+			"value":"It’s hard to survive, and I almost died, but\nworking together with everyone’s not so bad."
 		},
 		{
 			"key":"EP06_S0060_0070",
-			"value":"クネモンとも出会えたしよ"
+			"value":"And I met Kunemon, too."
 		},
 		{
 			"key":"EP06_S0060_0071",
-			"value":"キュゥン……"
+			"value":"Kewww."
 		},
 		{
 			"key":"EP06_S0060_0072",
-			"value":"あー、だからなんだ、そのー……\n上手く言えねえけどよぉ……"
+			"value":"So, like, I don’t know how to put this into\nwords, but..."
 		},
 		{
 			"key":"EP06_S0060_0073",
-			"value":"はは、リョウの不器用は相変わらずだな"
+			"value":"Haha, you always have a hard time with words,\ndon’t you?"
 		},
 		{
 			"key":"EP06_S0060_0074",
-			"value":"うるせえっ、何言うか忘れちまったんだよ！"
+			"value":"Shut up!\nI just forgot what I was gonna say!"
 		},
 		{
 			"key":"EP06_S0060_0075",
-			"value":"はぁ、まぁいいや。とにかく、早く寝ろよ\n寝不足で使い物にならねえ、なんて笑えねえからな"
+			"value":"Whatever. Go get some sleep.\nYou won’t do much good running on empty."
 		},
 		{
 			"key":"EP06_S0060_0076",
-			"value":"うん、ありがとう\nそうするよ"
+			"value":"Good idea.\nI think I will!"
 		},
 		{
 			"key":"EP06_S0060_0077",
-			"value":"（最初は怯えてばかりだったあのリョウが\n　今はしっかり立って前を向いてる）"
+			"value":"(Ryo used to be really scared, but now he’s\nmore strong and positive.)"
 		},
 		{
 			"key":"EP06_S0060_0078",
-			"value":"（きっとみんなも同じだ\n　前よりも成長して、強くなってるんだ）"
+			"value":"(The same goes for the others. We’ve all\ngrown and gotten stronger than before.)"
 		},
 		{
 			"key":"EP06_S0060_0079",
-			"value":"（僕たちなら大丈夫。敵の本拠地だろうと\n　きっと全員無事に切り抜けられる）"
+			"value":"(We can do this. We’re all gonna survive\nwhatever this enemy base has in store.)"
 		},
 		{
 			"key":"EP06_S0060_0080",
-			"value":"（必ず、全員で元の世界に帰るんだ）"
+			"value":"(We will all make it back to our world.)"
 		},
 		{
 			"key":"EP06_S0060_0081",
-			"value":"あれ？　タクマたちも眠れないの？"
+			"value":"Huh? You having trouble sleeping, too?"
 		},
 		{
 			"key":"EP06_S0060_0082",
-			"value":"そうなんだ\nタクマも、ってことはサキも？"
+			"value":"Yep.\nI’m guessing you’re in the same boat?"
 		},
 		{
 			"key":"EP06_S0060_0083",
-			"value":"うん、だから水でも飲もうかと思って\nそしたら食堂にタクマがいるのが見えたから"
+			"value":"Yeah. I thought I’d grab some water, and then\nI saw you in the cafeteria."
 		},
 		{
 			"key":"EP06_S0060_0084",
-			"value":"水を飲み終えたら、眠れなくても\n横になっておいた方がいいわよ"
+			"value":"Even if you can’t sleep after getting water,\nit’s still best to lie down."
 		},
 		{
 			"key":"EP06_S0060_0085",
-			"value":"タクマもよ？　あなたも今日みんなの間を\n走り回ってたんだから、疲れてるはずだもの"
+			"value":"You too, Takuma. You’ve been running around\nall day and must be worn out."
 		},
 		{
 			"key":"EP06_S0060_0086",
-			"value":"そうだね、身体だけでも休めなきゃ\nアドバイスありがとう、フローラモン"
+			"value":"You’re right, I should let my body rest.\nThanks for the advice, Floramon."
 		},
 		{
 			"key":"EP06_S0060_0087",
-			"value":"ねえ、タクマにも悩みがあるの？"
+			"value":"So, is anything bothering you, Takuma?"
 		},
 		{
 			"key":"EP06_S0060_0088",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP06_S0060_0089",
-			"value":"だって、眠れないんでしょ？"
+			"value":"I mean, since you can’t sleep."
 		},
 		{
 			"key":"EP06_S0060_0090",
-			"value":"悩みっていうか、考え事かな\nわからないことが多すぎてさ"
+			"value":"Just a lot to think about, I guess.\nToo many things I don’t understand."
 		},
 		{
 			"key":"EP06_S0060_0091",
-			"value":"ふーん……"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP06_S0060_0092",
-			"value":"な、何？"
+			"value":"What?"
 		},
 		{
 			"key":"EP06_S0060_0093",
-			"value":"考え事の内容、話さないのかなって\n話したら楽になるかなって思ったんだけど"
+			"value":"Wanna talk about it?\nMight make you feel better."
 		},
 		{
 			"key":"EP06_S0060_0094",
-			"value":"サキに？"
+			"value":"Talk? Like, to you?"
 		},
 		{
 			"key":"EP06_S0060_0095",
-			"value":"うん、だってタクマ\n私の話けっこう聞いてくれるから"
+			"value":"Yeah.\nYou’ve been listening to me so much."
 		},
 		{
 			"key":"EP06_S0060_0096",
-			"value":"お礼みたいな感じ？\nそしたら私もまた相談しやすいし"
+			"value":"Think of it as a thank you.\nThen I won’t feel bad next time."
 		},
 		{
 			"key":"EP06_S0060_0097",
-			"value":"でも、言いたくなかったり上手く言えなかったりで\n相談できないこともあるだろうから"
+			"value":"It’s okay if there are some things you can’t\nsay, or that are hard to talk about."
 		},
 		{
 			"key":"EP06_S0060_0098",
-			"value":"言いたくなったら言ってよ\n聞くからさ"
+			"value":"Tell me whatever you feel like sharing.\nI’ll listen."
 		},
 		{
 			"key":"EP06_S0060_0099",
-			"value":"うん……ありがとう"
+			"value":"Okay... Thanks."
 		},
 		{
 			"key":"EP06_S0060_0100",
-			"value":"はいはい\nまた私の話も聞いてよね"
+			"value":"No prob!\nI hope you’ll listen to me again, too!  "
 		},
 		{
 			"key":"EP06_S0060_0101",
-			"value":"じゃあ私水飲んで寝るね\nおやすみ、タクマ"
+			"value":"I’m gonna grab some water and sleep.\nGood night, Takuma!"
 		},
 		{
 			"key":"EP06_S0060_0102",
-			"value":"あんまり無理しないのよ\nおやすみ"
+			"value":"Take it easy!\nGood night."
 		},
 		{
 			"key":"EP06_S0060_0103",
-			"value":"おやすみ、二人とも"
+			"value":"Good night, you two."
 		},
 		{
 			"key":"EP06_S0060_0104",
-			"value":"おやすみー！"
+			"value":"Good night!"
 		},
 		{
 			"key":"EP06_S0060_0105",
-			"value":"（サキ、あれは励ましてくれたんだろうな\n　……うん）"
+			"value":"(I guess that cheered me up some.\nYeah... It definitely did.)"
 		},
 		{
 			"key":"EP06_S0060_0106",
-			"value":"（頭の中はまだ散らばっててぐちゃぐちゃだけど）"
+			"value":"(My mind still feels like a mess...)"
 		},
 		{
 			"key":"EP06_S0060_0107",
-			"value":"（どうしようもなくなったら話を聞いてくれる\n　サキも、きっとみんなも）"
+			"value":"(But I know where to turn if I need to talk.\nSaki, and the others would do the same, too.)"
 		},
 		{
 			"key":"EP06_S0060_0108",
-			"value":"（そう思うと、安心して……眠くなってきたな）"
+			"value":"(Thinking about that makes me relaxed.\nAnd now I’m sleepy, too...)"
 		},
 		{
 			"key":"EP06_S0060_0109",
-			"value":"タクマ、眠い？\nもう寝る？"
+			"value":"Feeling tired, Takuma?\nWanna hit the hay?"
 		},
 		{
 			"key":"EP06_S0060_0110",
-			"value":"うん、そうしようか\n行こう、アグモン"
+			"value":"Sounds like a good idea.\nTime for bed, Agumon."
 		},
 		{
 			"key":"EP06_S0060_0111",
-			"value":"（明日はいよいよ敵の本拠地に向かうんだ）"
+			"value":"(Tomorrow we finally head to the enemy base.)"
 		},
 		{
 			"key":"EP06_S0060_0112",
-			"value":"（きっと、元の世界へ戻るためのヒントがそこにある\n　頑張らなきゃな）"
+			"value":"(There’s bound to be a clue there to help us\nget home. We can do this!)"
 		},
 		{
 			"key":"EP06_S0060_0113",
-			"value":"やぁタクマ、夜更かしは感心しないな"
+			"value":"I’m not happy to see you up so late, Takuma."
 		},
 		{
 			"key":"EP06_S0060_0114",
-			"value":"あ、すいません\nなかなか寝付けなくて……"
+			"value":"Uh, sorry.\nI just couldn’t sleep, so..."
 		},
 		{
 			"key":"EP06_S0060_0115",
-			"value":"あぁすまない、冗談だ\n僕も眠れなくて、少し歩いていたところだったんだ"
+			"value":"Just kidding! Apologies. I couldn’t sleep\neither, so I got up to take a walk."
 		},
 		{
 			"key":"EP06_S0060_0116",
-			"value":"シュウジと一緒にお散歩してたんだよ"
+			"value":"Me and Shuuji were going for a stroll."
 		},
 		{
 			"key":"EP06_S0060_0117",
-			"value":"そうだったんですか"
+			"value":"Okay, gotcha."
 		},
 		{
 			"key":"EP06_S0060_0118",
-			"value":"……なぁ、タクマ\n僕はやはり、敵の本拠地に行くのは怖い"
+			"value":"You know, Takuma. I’m scared about us going\nto the enemy base."
 		},
 		{
 			"key":"EP06_S0060_0119",
-			"value":"え、そんな……"
+			"value":"You are?"
 		},
 		{
 			"key":"EP06_S0060_0120",
-			"value":"きっと敵が大勢いるだろう\nアルケニモンやガルルモンのような強力な者も"
+			"value":"There must be lots of enemies there.\nStrong ones, like Arukenimon and Garurumon."
 		},
 		{
 			"key":"EP06_S0060_0121",
-			"value":"そんなところに行って\n果たして無事で済むだろうか？"
+			"value":"Can we really make it out alive from a place\nlike that?"
 		},
 		{
 			"key":"EP06_S0060_0122",
-			"value":"……大丈夫ですよ。僕らは一人じゃない\nアグモンやロップモンだってついてます"
+			"value":"We’ll be okay. We’re not alone.\nWe’ve got Agumon and Lopmon to help."
 		},
 		{
 			"key":"EP06_S0060_0123",
-			"value":"みんなの力を合わせれば\nどんな困難だって乗り越えられますよ"
+			"value":"If we work to combine our strengths, we can\nbeat any challenge."
 		},
 		{
 			"key":"EP06_S0060_0124",
-			"value":"ふっ……君ならそう言ってくれると思っていた\n安心したよ"
+			"value":"*sigh* I thought you’d say something along\nthose lines. Very reassuring of you."
 		},
 		{
 			"key":"EP06_S0060_0125",
-			"value":"っていうか、僕がこう言うってわかってて\n弱気なフリしましたよね？"
+			"value":"So you pretended to be scared because you\nknew I’d say that?"
 		},
 		{
 			"key":"EP06_S0060_0126",
-			"value":"バレてしまったか\nいや、怖いのは本当なんだ"
+			"value":"You saw right through me.\nBut I am scared, that’s no lie."
 		},
 		{
 			"key":"EP06_S0060_0127",
-			"value":"僕は、誰にも傷ついてほしくない\nリーダーとしてではなく、仲間だから"
+			"value":"I don’t want to see anyone get hurt. I don’t\nmean that as a leader, but as a friend."
 		},
 		{
 			"key":"EP06_S0060_0128",
-			"value":"だけど、怯えてばかりで立ち止まっては\nどこにも行けなくなってしまう"
+			"value":"But freezing up and getting scared makes it\nhard to go anywhere at all."
 		},
 		{
 			"key":"EP06_S0060_0129",
-			"value":"みんなと、それからロップモンのおかげで\nそれに気づけたんだ"
+			"value":"Everyone, especially Lopmon, helped me\nrealize that."
 		},
 		{
 			"key":"EP06_S0060_0130",
-			"value":"シュウジ……"
+			"value":"Thank you, Shuuji..."
 		},
 		{
 			"key":"EP06_S0060_0131",
-			"value":"タクマ、僕は強くなるよ\nみんなを守って、前に進めるように"
+			"value":"I will become stronger, Takuma.\nTo protect everyone and move forward."
 		},
 		{
 			"key":"EP06_S0060_0132",
-			"value":"ロップモンと一緒に、ね"
+			"value":"With Lopmon by my side."
 		},
 		{
 			"key":"EP06_S0060_0133",
-			"value":"はい、頼りにしてます"
+			"value":"I’m counting on you."
 		},
 		{
 			"key":"EP06_S0060_0134",
-			"value":"はは、それはこちらのセリフだよ"
+			"value":"That’s my line, haha!"
 		},
 		{
 			"key":"EP06_S0060_0135",
-			"value":"さて、そろそろ寝ようか\n決戦に備えて体力回復だ"
+			"value":"Well, time to get to bed and rest up in\npreparation for the final battle!"
 		},
 		{
 			"key":"EP06_S0060_0136",
-			"value":"（いつも緊張していたシュウジさんが\n　今では余裕を持っていられている）"
+			"value":"(He used to always be so tense, but now he\nseems more chill.)"
 		},
 		{
 			"key":"EP06_S0060_0137",
-			"value":"（本人はまだ自信がなさそうだけど\n　僕には立派なリーダーに見えるな）"
+			"value":"(He might still lack confidence, but he makes\na fine leader in my book.)"
 		},
 		{
 			"key":"EP06_S0060_0138",
-			"value":"（あのシュウジさんがいてくれれば\n　きっと僕らは大丈夫だ）"
+			"value":"(With Shuuji on our side, I think we’ll be\njust fine.)"
 		},
 		{
 			"key":"EP06_S0060_0139",
-			"value":"（絶対に、敵の本拠地で\n　元の世界に帰る方法を見つけるんだ）"
+			"value":"(We’ll find a way to get back to our world in\nthe enemy base. I just know it.)"
 		},
 		{
 			"key":"EP06_S0060_0140",
-			"value":"ん？　先客か"
+			"value":"Huh? You’re here?"
 		},
 		{
 			"key":"EP06_S0060_0141",
-			"value":"カイト？\nもしかして、カイトも眠れないの？"
+			"value":"Oh, Kaito!\nYou couldn’t fall asleep, either, huh?"
 		},
 		{
 			"key":"EP06_S0060_0142",
-			"value":"眠れないっつーか\nなんとなく目が覚めただけだ"
+			"value":"I fell asleep just fine, but then I woke up.\nThat’s all."
 		},
 		{
 			"key":"EP06_S0060_0143",
-			"value":"目が覚めたらタクマがいなかったからな\n心配になって捜しに来たってわけだ"
+			"value":"And when he woke up, you were gone.\nSo he came looking for you."
 		},
 		{
 			"key":"EP06_S0060_0144",
-			"value":"……違う"
+			"value":"That’s not how it happened..."
 		},
 		{
 			"key":"EP06_S0060_0145",
-			"value":"（夜だからか、否定の声が静かだ\n　カイトって、こういうところが常識人だよな）"
+			"value":"(Kaito argues more quietly at night.\nHe’s more considerate than I thought.)"
 		},
 		{
 			"key":"EP06_S0060_0146",
-			"value":"眠れねぇなら温かいものを口に入れろ\n眠れなくても横になれ"
+			"value":"If you can’t sleep, eat something.\nAnd at least lie down."
 		},
 		{
 			"key":"EP06_S0060_0147",
-			"value":"暑いとか寒いとかが気になるなら\n適当に上掛けを足すなり引くなりすればいい"
+			"value":"If you’re too hot or cold, then add or remove\nsome blankets."
 		},
 		{
 			"key":"EP06_S0060_0148",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0060_0149",
-			"value":"おい、何黙ってんだ、お前"
+			"value":"What’s with the silent act?"
 		},
 		{
 			"key":"EP06_S0060_0150",
-			"value":"はっ……い、いや、なんでもないよ\n驚いてただけ"
+			"value":"Um, nothing...\nI’m just a little surprised."
 		},
 		{
 			"key":"EP06_S0060_0151",
-			"value":"驚いた？"
+			"value":"Surprised? By what?"
 		},
 		{
 			"key":"EP06_S0060_0152",
-			"value":"いっぱい気を遣ってくれるから\nもしかして本当に心配してくれたのかって"
+			"value":"You’re fussing over me so much, I thought you\nmust really be worried."
 		},
 		{
 			"key":"EP06_S0060_0153",
-			"value":"……違うっつってんだろ"
+			"value":"Me? Yeah, right."
 		},
 		{
 			"key":"EP06_S0060_0154",
-			"value":"オレはもう寝る\n明日は敵の拠点だ、お前も早く寝ろよ"
+			"value":"I’m going to bed. Tomorrow we head to the\nenemy base, so get some rest."
 		},
 		{
 			"key":"EP06_S0060_0155",
-			"value":"だってさ、おやすみ\nいい夢見ろよ！"
+			"value":"All righty! Goodnight!\nAnd sweet dreams!"
 		},
 		{
 			"key":"EP06_S0060_0156",
-			"value":"うん、おやすみ\nありがとう"
+			"value":"Good night to you, too!\nAnd thanks!"
 		},
 		{
 			"key":"EP06_S0060_0157",
-			"value":"おやすみ～！"
+			"value":"Good night!"
 		},
 		{
 			"key":"EP06_S0060_0158",
-			"value":"（カイト、やっぱり面倒見がいいんだなぁ）"
+			"value":"(Kaito is pretty thoughtful after all.)"
 		},
 		{
 			"key":"EP06_S0060_0159",
-			"value":"（うん、考え事で体力を浪費するのはよくない\n　言われたとおり、早く寝よう）"
+			"value":"(He’s right... I shouldn’t waste energy\nthinking. I should get to bed.)"
 		},
 		{
 			"key":"EP06_S0060_0160",
-			"value":"（カイトのおかげで頭のぐるぐるも治まったし\n　ゆっくり眠れそうな気がする……）"
+			"value":"(My head feels better too now, thanks to him.\nI feel like I’m gonna sleep well.)"
 		},
 		{
 			"key":"EP06_S0060_0161",
-			"value":"どーん！"
+			"value":"BANG!"
 		},
 		{
 			"key":"EP06_S0060_0162",
-			"value":"うわあっ！？"
+			"value":"AAAH!"
 		},
 		{
 			"key":"EP06_S0060_0163",
-			"value":"あはは、すごい声！\nねぇねぇ、驚いた～？"
+			"value":"Haha, you should hear yourself!\nDid I scare you?"
 		},
 		{
 			"key":"EP06_S0060_0164",
-			"value":"驚いたよ……いつの間にそこに？\n全然気づかなかった"
+			"value":"Yes, you did. How long have you been there?\nI didn’t even notice."
 		},
 		{
 			"key":"EP06_S0060_0165",
-			"value":"普通に入って来たわよ\nでもタクマ、考え事に没頭してたから"
+			"value":"We just walked right in.\nYou were really lost in thought!"
 		},
 		{
 			"key":"EP06_S0060_0166",
-			"value":"知ってる？　あんまり考え事ばっかりしてると\nハゲちゃうんだよ？"
+			"value":"Have you heard?\nThinking too much makes you go bald."
 		},
 		{
 			"key":"EP06_S0060_0167",
-			"value":"うっ……それはまだ早いかな"
+			"value":"Uh, I think I’m too young for that."
 		},
 		{
 			"key":"EP06_S0060_0168",
-			"value":"だったら早く寝なさいよ\n頭使ってるだけでも疲れはするんだから"
+			"value":"Then you should go to sleep.\nJust thinking uses energy, you know."
 		},
 		{
 			"key":"EP06_S0060_0169",
-			"value":"でもな、タクマは疲れてるのに\nなんかうまく眠れないみたいなんだ"
+			"value":"But Takuma can’t fall asleep even though he’s\ntired."
 		},
 		{
 			"key":"EP06_S0060_0170",
-			"value":"ちゃんと頭をお休みさせないからよ\n頭を空っぽにする努力をしなきゃ"
+			"value":"Because you won’t turn off your mind!\nYou gotta make your head totally empty!"
 		},
 		{
 			"key":"EP06_S0060_0171",
-			"value":"頭を空っぽに……かぁ\nどうすればいいの？"
+			"value":"Totally empty, huh?\nAny idea how to do that?"
 		},
 		{
 			"key":"EP06_S0060_0172",
-			"value":"何かの数を数えるといいって\n聞いたことがあるわ"
+			"value":"Try counting up to something!\nI heard that works."
 		},
 		{
 			"key":"EP06_S0060_0173",
-			"value":"じゃあシャコモンの殻にある歯を数えよ～\n一本～、二本～……"
+			"value":"How about counting the teeth on Syakomon’s\nshell? One, two..."
 		},
 		{
 			"key":"EP06_S0060_0174",
-			"value":"……うう、眠い"
+			"value":"I’m sleepy already..."
 		},
 		{
 			"key":"EP06_S0060_0175",
-			"value":"効き目すごくない！？"
+			"value":"Wow, that was fast!"
 		},
 		{
 			"key":"EP06_S0060_0176",
-			"value":"ほら、言ったじゃない\nタクマも寝転んで何かを数えてみなさいよ"
+			"value":"See? Told you so. You should lay down and\ncount to something, too."
 		},
 		{
 			"key":"EP06_S0060_0177",
-			"value":"う、うん\nそうしようかな"
+			"value":"Right.\nGuess I’ll try it."
 		},
 		{
 			"key":"EP06_S0060_0178",
-			"value":"それにしても……よかった\nミウも寝付けなかったみたいなんだけど……"
+			"value":"Actually, I’m glad we talked.\nMiu was having trouble sleeping, too."
 		},
 		{
 			"key":"EP06_S0060_0179",
-			"value":"こんなに早く眠くなるなんて\nタクマの顔を見たら安心したのかもね"
+			"value":"It’s pretty early for her bedtime.\nBut seeing your face calmed her down."
 		},
 		{
 			"key":"EP06_S0060_0180",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP06_S0060_0181",
-			"value":"むにゃ……ううん、ウチ布団に帰る\nおやすみ、タクマさん、アグモン～……"
+			"value":"*yawn* Time to hop under my blanket.\nNight night, Takuma and Agumon!"
 		},
 		{
 			"key":"EP06_S0060_0182",
-			"value":"おやすみ、ミウ！"
+			"value":"Good night, Miu!"
 		},
 		{
 			"key":"EP06_S0060_0183",
-			"value":"じゃ、私はミウを連れて帰るから\nおやすみなさい"
+			"value":"I’ll carry her back.\nHave a good sleep."
 		},
 		{
 			"key":"EP06_S0060_0184",
-			"value":"うん、おやすみ"
+			"value":"Yeah, you too."
 		},
 		{
 			"key":"EP06_S0060_0185",
-			"value":"（嵐のような二人だったな……）"
+			"value":"(Those two are like a whirlwind...)"
 		},
 		{
 			"key":"EP06_S0060_0186",
-			"value":"（まあ、眠くなったなら何よりだ\n　僕もシャコモンの方法、試してみるか）"
+			"value":"(Well, at least I’m tired.\nMaybe I should try Syakomon’s advice.)"
 		},
 		{
 			"key":"EP06_S0060_0187",
-			"value":"僕らも寝ようか、アグモン！"
+			"value":"Let’s go to bed too, Agumon!"
 		},
 		{
 			"key":"EP06_S0060_0188",
-			"value":"うん！　ボク、何の数を数えようかな～"
+			"value":"Okay! I wonder what I should count to..."
 		},
 		{
 			"key":"EP06_S0060_0189",
-			"value":"（きっと明日からは\n　もっと大変な日々が待っている）"
+			"value":"(Things are only gonna get harder starting\ntomorrow...)"
 		},
 		{
 			"key":"EP06_S0060_0190",
-			"value":"（答えの出ないことは一旦頭から追い出して\n　できることを精一杯がんばろう）"
+			"value":"(All I can do is ignore what I don’t know,\nand focus on doing what I can do right now.) "
 		}
 	]
 }

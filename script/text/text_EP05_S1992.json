@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1992_0001",
-			"value":"おう、タクマ\nシュウジは？"
+			"value":"‘Sup, Takuma. Found Shuuji yet?"
 		},
 		{
 			"key":"EP05_S1992_0002",
-			"value":"いない……そっちは？"
+			"value":"Nope... How about you?"
 		},
 		{
 			"key":"EP05_S1992_0003",
-			"value":"同じくだ"
+			"value":"Same here."
 		},
 		{
 			"key":"EP05_S1992_0004",
-			"value":"そうか……僕は他のところを捜してくるよ"
+			"value":"Gotcha... I’ll go look somewhere else, then."
 		},
 		{
 			"key":"EP05_S1992_0005",
-			"value":"おう、オレは一応もうちょいこの辺捜すわ"
+			"value":"Word, I’ll keep looking around here for\na bit."
 		},
 		{
 			"key":"EP05_S1992_0006",
-			"value":"ああ、頼む！"
+			"value":"Cool, go for it!"
 		},
 		{
 			"key":"EP05_S1992_0007",
-			"value":"ん……？　水ん中に何か……"
+			"value":"Hmm? There’s something in the water..."
 		},
 		{
 			"key":"EP05_S1992_0008",
-			"value":"ん？　あぁ、気のせいだったわ\nほら、早く行けよ"
+			"value":"Huh? Oh, guess it was my imagination. Go on,\nnow, get outta here."
 		}
 	]
 }

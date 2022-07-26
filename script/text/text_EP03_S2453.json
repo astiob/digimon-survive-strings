@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2453_0001",
-			"value":"二人は、あの女の人とカイトのこと\n気にならない？"
+			"value":"Are either of you concerned about Kaito and\nthat woman fighting?"
 		},
 		{
 			"key":"EP03_S2453_0002",
-			"value":"別に……"
+			"value":"Nah..."
 		},
 		{
 			"key":"EP03_S2453_0003",
-			"value":"別に……"
+			"value":"Nah..."
 		},
 		{
 			"key":"EP03_S2453_0004",
-			"value":"うーん、仲間のことなんだし\n少しは気にしてほしいんだけど……"
+			"value":"Hey, Kaito’s a friend. I think you should at\nleast be a little concerned."
 		},
 		{
 			"key":"EP03_S2453_0005",
-			"value":"そもそも、あのカイトって人、誰？"
+			"value":"You keep talking about Kaito. Who is he?"
 		},
 		{
 			"key":"EP03_S2453_0006",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP03_S2453_0007",
-			"value":"ぼくたち、会ったことない"
+			"value":"We’ve never met him."
 		},
 		{
 			"key":"EP03_S2453_0008",
-			"value":"ない……"
+			"value":"Never..."
 		},
 		{
 			"key":"EP03_S2453_0009",
-			"value":"あ……あぁ、そうか\nそういえば二人はカイトに会ってなかったよね"
+			"value":"What? Oh, right. You never did meet him."
 		},
 		{
 			"key":"EP03_S2453_0010",
-			"value":"あの人、本当に仲間？　怪物じゃない？"
+			"value":"Is he really a friend? You’re sure he’s not\na monster?"
 		},
 		{
 			"key":"EP03_S2453_0011",
-			"value":"だ、大丈夫！　カイトは間違いなく仲間だから！"
+			"value":"Don’t worry! He’s definitely a friend!"
 		},
 		{
 			"key":"EP03_S2453_0012",
-			"value":"まだ終わらないの？\n早く行こう"
+			"value":"Are you done yet? Can we go?"
 		}
 	]
 }

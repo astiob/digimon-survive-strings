@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9550_0001",
-			"value":"……うーん"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP10_S9550_0002",
-			"value":"シュウジさんどうしたんですか？\n難しい顔をして"
+			"value":"What is it, Shuuji? You look like something’s\nbothering you."
 		},
 		{
 			"key":"EP10_S9550_0003",
-			"value":"みんなの様子を見ていて、思ったんだ\n僕はひょっとして、情の薄い人間なんだろうか……"
+			"value":"I’ve been thinking. I see the others and I\nwonder if maybe I’m not a caring person."
 		},
 		{
 			"key":"EP10_S9550_0004",
-			"value":"なんですか、いきなり"
+			"value":"Uh, where’s this coming from?"
 		},
 		{
 			"key":"EP10_S9550_0005",
-			"value":"ここにいるケモノガミと別れの挨拶をしようともせず\n次にどうするかばかり考えている"
+			"value":"It never even occurred to me to say goodbye\nto the Kemonogami. Just what to do next..."
 		},
 		{
 			"key":"EP10_S9550_0006",
-			"value":"そう考える僕ははたして正しいのか……ってね"
+			"value":"And it makes me think maybe something’s wrong\nwith me."
 		},
 		{
 			"key":"EP10_S9550_0007",
-			"value":"そんなことないよ！\nシュウジは、みんなのためにがんばってる！"
+			"value":"What? Of course not! Shuuji, you’re working\nreally hard to help everyone!"
 		},
 		{
 			"key":"EP10_S9550_0008",
-			"value":"僕もそう思います"
+			"value":"Yeah, I think so too."
 		},
 		{
 			"key":"EP10_S9550_Q1",
-			"value":"（それに、シュウジさんがいなかったら……）"
+			"value":"(Besides, if it weren’t for Shuuji...)"
 		},
 		{
 			"key":"EP10_S9550_Q1_A1",
-			"value":"いつまでも出発できませんし"
+			"value":"We’d never get going."
 		},
 		{
 			"key":"EP10_S9550_Q1_A2",
-			"value":"まとめ役がいなくなりますし"
+			"value":"We’d have no cohesion."
 		},
 		{
 			"key":"EP10_S9550_Q1_A3",
-			"value":"戦力が減りますし"
+			"value":"We’d lack firepower."
 		},
 		{
 			"key":"EP10_S9550_0009",
-			"value":"僕たちはいつまでもここから\n出発できなかったかもしれませんし"
+			"value":"...We may never have gotten around to leaving\nthis place at all."
 		},
 		{
 			"key":"EP10_S9550_0010",
-			"value":"シュウジさんは情が薄いんじゃなくて\nみんなのためになることを考えてるだけですよ"
+			"value":"It’s not that you don’t care. You’re just\nfocused on what’s best for everyone."
 		},
 		{
 			"key":"EP10_S9550_0011",
-			"value":"そう言ってもらえると、助かるよ……"
+			"value":"You don’t know happy it makes me to hear you\nsay that."
 		},
 		{
 			"key":"EP10_S9550_0012",
-			"value":"みんなをまとめる役がいなくなっちゃうじゃないですか"
+			"value":"We wouldn’t have anyone who could keep our\ngroup together."
 		},
 		{
 			"key":"EP10_S9550_0013",
-			"value":"うーん、それはどうかな……\nまとめ役ならタクマやアオイ君の方が適任だと思うが"
+			"value":"Hmm, I don’t know about that... You and Aoi\nare more than up to the task."
 		},
 		{
 			"key":"EP10_S9550_0014",
-			"value":"そ、そんなことないですって！\n最近のシュウジさんは頼りになりますよ"
+			"value":"That’s not true, I’m telling you! You’ve been\nso reliable lately, Shuuji."
 		},
 		{
 			"key":"EP10_S9550_0015",
-			"value":"はは……まぁ、お世辞でも嬉しいよ"
+			"value":"Ha ha... Well, I appreciate it, even if it is\njust empty flattery."
 		},
 		{
 			"key":"EP10_S9550_0016",
-			"value":"（お世辞のつもりはなかったけど\n　確かに今はアオイさんの方がリーダーっぽいよな）"
+			"value":"(I wasn’t trying to flatter him, but I guess\nAoi has taken on the leader role.)"
 		},
 		{
 			"key":"EP10_S9550_0017",
-			"value":"僕たちの貴重な戦力が減ってしまいます\nただでさえ厳しいのに、そうなったら困りますよ"
+			"value":"We’d lack the firepower we so desperately\nneed. Things are tough at the best of times."
 		},
 		{
 			"key":"EP10_S9550_0018",
-			"value":"それもそうだね。今はギリギリの状況だ\nロップモンと一緒に僕もしっかり戦わないと"
+			"value":"Well that’s true. Lopmon and I have to do our\npart, seeing how precarious our situation is."
 		},
 		{
 			"key":"EP10_S9550_0019",
-			"value":"うん、一緒にがんばろうね！"
+			"value":"Yeah, let’s do our best!"
 		},
 		{
 			"key":"EP10_S9550_0020",
-			"value":"ああ、頑張ろう"
+			"value":"Right. Together."
 		},
 		{
 			"key":"EP10_S9550_0021",
-			"value":"ところで、タクマはいいのか？　別れの挨拶"
+			"value":"What about you, Takuma? Aren’t you going to\nsay goodbye?"
 		},
 		{
 			"key":"EP10_S9550_0022",
-			"value":"僕は大丈夫ですよ\n……ミウは、まだかかりそうですけど"
+			"value":"Nah, I’m good. Miu might need some more time,\nthough."
 		},
 		{
 			"key":"EP10_S9550_0023",
-			"value":"ここの女王様だったから、仕方ない……か"
+			"value":"Yes, she was the queen here for a while,\nwasn’t she?"
 		},
 		{
 			"key":"EP10_S9550_0024",
-			"value":"時間になったら、僕が声をかけますよ"
+			"value":"I’ll make sure to get her when it’s time to\ngo."
 		},
 		{
 			"key":"EP10_S9550_0025",
-			"value":"よろしく頼む\n僕はうまく言えないだろうからね……"
+			"value":"Thanks. I’m not sure I could manage it."
 		},
 		{
 			"key":"EP10_S9550_0026",
-			"value":"適材適所だ。タクマ、任せたよ"
+			"value":"I’ll leave that to you, Takuma. You’re\nclearly the right one for the job."
 		},
 		{
 			"key":"EP10_S9550_0027",
-			"value":"はい！"
+			"value":"Got it!"
 		},
 		{
 			"key":"EP10_S9550_0028",
-			"value":"この先もきっと激しい戦闘になる\n十分に準備をして行こう"
+			"value":"We have a tough fight ahead of us. We better\nprepare the best we can."
 		}
 	]
 }

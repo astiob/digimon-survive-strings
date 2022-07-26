@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9710_0001",
-			"value":"なーんにもないよ！\nほんとにこの辺なの！？"
+			"value":"There’s nothing here! Are we sure we’re even\nin the right area?"
 		},
 		{
 			"key":"EP10_S9710_0002",
-			"value":"根気よく探しましょう\nそれに、何もなくてもわかることはあるわ"
+			"value":"Let’s keep at it. Besides, even if we don’t\nfind anything at least we’re making progress."
 		},
 		{
 			"key":"EP10_S9710_0003",
-			"value":"何もなくても？"
+			"value":"How do you figure?"
 		},
 		{
 			"key":"EP10_S9710_0004",
-			"value":"ええ。ここには何もなかった\nってことがわかるでしょう？"
+			"value":"It just means there’s one less place for us\nto check."
 		},
 		{
 			"key":"EP10_S9710_0005",
-			"value":"なるほど、そういうことね！　……でも\nそれって、私たち無駄骨ってことじゃない？"
+			"value":"Oh, I get it! Doesn’t it seem like a lot of\nwasted effort, though?"
 		},
 		{
 			"key":"EP10_S9710_0006",
-			"value":"まぁ、そうなんだけど"
+			"value":"I guess I can’t argue with you there."
 		},
 		{
 			"key":"EP10_S9710_0007",
-			"value":"あら、タクマくん"
+			"value":"Oh. It’s you, Takuma."
 		},
 		{
 			"key":"EP10_S9710_0008",
-			"value":"大変そうだね"
+			"value":"Looks like you’ve having a rough time of it."
 		},
 		{
 			"key":"EP10_S9710_0009",
-			"value":"そうね……これだけ探して見つからないと\nサキさんじゃなくても気が滅入るわ……"
+			"value":"Yes... Looking this long with nothing to show\nfor it would upset anyone, not just Saki."
 		},
 		{
 			"key":"EP10_S9710_0010",
-			"value":"アオイちゃんも疲れてるんじゃない？\nずっと探し続けてるし、ちょっとは休んだ方がいいよ"
+			"value":"Aren’t you tired, Aoi? We’ve been looking so\nlong, we should take a break."
 		},
 		{
 			"key":"EP10_S9710_0011",
-			"value":"そうよ。へとへとのまま探してたら\n見つかるものも見つからないわ"
+			"value":"You’re right. If we force it while tired,\nwe’ll miss the things we would’ve found."
 		},
 		{
 			"key":"EP10_S9710_0012",
-			"value":"でも、早く祠を見つけないと\n主の眷属に先を越されちゃうかも……"
+			"value":"Still, if we don’t find the shrine soon, the\nMaster’s Kenzoku could get there first..."
 		},
 		{
 			"key":"EP10_S9710_0013",
-			"value":"ええ、そうね……\nいつまでもここでのんびりしていられないわ……"
+			"value":"That’s true, too... We can’t just hang around\nhere forever."
 		},
 		{
 			"key":"EP10_S9710_0014",
-			"value":"でも……"
+			"value":"But..."
 		},
 		{
 			"key":"EP10_S9710_0015",
-			"value":"（うーん、休んだ方がいいっていうのはもっともだ\n　みんな見るからに疲れてるし）"
+			"value":"(Hmm, I think they should rest. Anyone could\nsee how exhausted they are.)"
 		},
 		{
 			"key":"EP10_S9710_0016",
-			"value":"（けど、アオイさんの言う通り\n　今は一刻も早く祠を見つけたい）"
+			"value":"(But Aoi’s right. We need to find the shrine\nas soon as we can.)"
 		},
 		{
 			"key":"EP10_S9710_Q1",
-			"value":"（アオイさんに何て言おうか……）"
+			"value":"(What should we do?)"
 		},
 		{
 			"key":"EP10_S9710_Q1_A1",
-			"value":"一旦休憩しない？"
+			"value":"Let’s take a break?"
 		},
 		{
 			"key":"EP10_S9710_Q1_A2",
-			"value":"今はとにかく探してみるしかない"
+			"value":"Keep looking."
 		},
 		{
 			"key":"EP10_S9710_0017",
-			"value":"フローラモンの言う通り、疲れてる時は\n休んだ方がいいよ。一旦休憩しない？"
+			"value":"Floramon’s right, you should rest when you’re\ntired. Why don’t we take a break?"
 		},
 		{
 			"key":"EP10_S9710_0018",
-			"value":"ん……そうね、みんなにそこまで言われたら\n意地を張るわけにはいかないわね"
+			"value":"Hmm... Okay, if everyone insists, I can’t be\nstubborn about it, now can I?"
 		},
 		{
 			"key":"EP10_S9710_0019",
-			"value":"それじゃあ、ちょっとだけ休憩しましょう"
+			"value":"We’ll take a break. Just a short one."
 		},
 		{
 			"key":"EP10_S9710_0020",
-			"value":"よかった……もう、あんまり無理しちゃダメよ？"
+			"value":"Great... You can’t overdo it, you know?"
 		},
 		{
 			"key":"EP10_S9710_0021",
-			"value":"ごめんね。でも、休んだらまた探索するからね"
+			"value":"I’m sorry. But I’ll be back to the search\nonce I’m rested up."
 		},
 		{
 			"key":"EP10_S9710_0022",
-			"value":"ありがと、タクマ\nおかげでアオイちゃんを休ませてあげられたよ"
+			"value":"Thanks, Takuma. You actually got Aoi to take\nfive."
 		},
 		{
 			"key":"EP10_S9710_0023",
-			"value":"いや、サキに言われなかったらアオイさんが\n疲れてたことに気づかなかった"
+			"value":"Hey, I wouldn’t even have noticed she was\ntired if you hadn’t said anything."
 		},
 		{
 			"key":"EP10_S9710_0024",
-			"value":"やっぱりサキは周りをよく見てるな"
+			"value":"You’re pretty considerate, aren’t you, Saki?"
 		},
 		{
 			"key":"EP10_S9710_0025",
-			"value":"へへ～、まぁね"
+			"value":"Heh heh, yeah. I guess!"
 		},
 		{
 			"key":"EP10_S9710_0026",
-			"value":"今はとにかく探してみるしかないよ\n……文句は、後で聞くから"
+			"value":"Well, we don’t have much choice but to keep\nlooking. We can always complain later."
 		},
 		{
 			"key":"EP10_S9710_0027",
-			"value":"お、言ったわね～？"
+			"value":"Ha! Okay, you said it."
 		},
 		{
 			"key":"EP10_S9710_0028",
-			"value":"何にもなかったらたっぷり言うから\n覚悟しておいてよ？　……なんてね"
+			"value":"Okay, if we don’t find anything, I’ll have an\nearful saved up for you. Or not! Haha."
 		},
 		{
 			"key":"EP10_S9710_0029",
-			"value":"それじゃあ、もうちょっと頑張ろっかな！\n行こう、フローラモン"
+			"value":"Now then, I’ve got a little more searching\nleft in me. Let’s go, Floramon!"
 		},
 		{
 			"key":"EP10_S9710_0030",
-			"value":"ええ、見つからなかったら\n私もタクマに文句言ってやるわ"
+			"value":"Yeah, I’ll give Takuma a piece of my mind if\nwe don’t find anything!"
 		},
 		{
 			"key":"EP10_S9710_0031",
-			"value":"ほ、ほどほどにしてね……"
+			"value":"Uh... Take your time, then..."
 		},
 		{
 			"key":"EP10_S9710_0032",
-			"value":"ありがとう、タクマくん\nおかげでサキさんの元気が出たみたい"
+			"value":"Thank you, Takuma. Looks like Saki’s cheered\nup a bit."
 		},
 		{
 			"key":"EP10_S9710_0033",
-			"value":"どういたしまして\nでも、疲れたら無理しないで休んでね"
+			"value":"My pleasure. Still, don’t push it if you’re\ntired, okay?"
 		},
 		{
 			"key":"EP10_S9710_0034",
-			"value":"ええ、無理はしないし、みんなにも無理はさせないわ\n安心してちょうだい"
+			"value":"Yes, and I’ll make sure no one else has to,\neither. You don’t have to worry!"
 		},
 		{
 			"key":"EP10_S9710_0035",
-			"value":"さすがアオイさん、頼もしいな"
+			"value":"Glad I can count on you, Aoi."
 		},
 		{
 			"key":"EP10_S9710_0036",
-			"value":"タクマくん、この辺りは私たちに任せて"
+			"value":"Takuma, why don’t you leave this spot to us?"
 		},
 		{
 			"key":"EP10_S9710_0037",
-			"value":"わかった、僕は別の場所を探してみる\nここは二人に頼むよ"
+			"value":"Sure thing. I’ll go try somewhere else. Good\nluck, you two!"
 		},
 		{
 			"key":"EP10_S9710_0038",
-			"value":"タクマくん、この辺りは私とサキさんに任せて"
+			"value":"Saki and I have got this place covered,\nTakuma."
 		}
 	]
 }

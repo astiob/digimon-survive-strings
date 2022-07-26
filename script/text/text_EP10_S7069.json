@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S7069_0001",
-			"value":"これが……新しく出現した、図書館"
+			"value":"This is...the library that appeared."
 		},
 		{
 			"key":"EP10_S7069_0002",
-			"value":"おいおい、なんか今までと\n雰囲気違うんじゃねーか？"
+			"value":"Hey, isn’t there something weird about this?"
 		},
 		{
 			"key":"EP10_S7069_0003",
-			"value":"ああ、これはこの世界で見てきた\n古めかしい団地や校舎とは違う"
+			"value":"Yeah, buildings like the apartments and the\nschool have all been run-down."
 		},
 		{
 			"key":"EP10_S7069_0004",
-			"value":"我々にとってもごく最近の建築様式\n新しい建造物だ"
+			"value":"This building looks like it’s been built\npretty recently, though."
 		},
 		{
 			"key":"EP10_S7069_0005",
-			"value":"教授のこぼした、今までと違うって言葉\nこういうことだったんですね"
+			"value":"So this is what you meant by “clearly\ndistinct,” Professor..."
 		},
 		{
 			"key":"EP10_S7069_0006",
-			"value":"そうだ\n恐らくだが……"
+			"value":"Yes, I’m afraid so..."
 		},
 		{
 			"key":"EP10_S7069_0007",
-			"value":"これは最近取り込まれた人間の\n記憶から生み出されたものではないかと思う"
+			"value":"This must have been manufactured from\nmemories recently taken from humans..."
 		},
 		{
 			"key":"EP10_S7069_0008",
-			"value":"記憶から……？"
+			"value":"Memories?"
 		},
 		{
 			"key":"EP10_S7069_0009",
-			"value":"じゃあ、ウチらの拠点の学校は？　遊園地は？\nあの古い建物は誰の記憶なの？"
+			"value":"So what about this old school building and\nthe amusement park? Are they memories too?"
 		},
 		{
 			"key":"EP10_S7069_0010",
-			"value":"君たちより昔に霧にさらわれた誰かの記憶だろう"
+			"value":"I imagine they’re the memories of someone who\nwas taken previously. My sister, most likely."
 		},
 		{
 			"key":"EP10_S7069_0011",
-			"value":"あの団地のことも考えると\n恐らくは……"
+			"value":"Then the apartments must have been..."
 		},
 		{
 			"key":"EP10_S7069_0012",
-			"value":"……？"
+			"value":"...?"
 		},
 		{
 			"key":"EP10_S7069_0013",
-			"value":"あ、いや――"
+			"value":"I’m not entirely sure. But never mind about\nthat."
 		},
 		{
 			"key":"EP10_S7069_0014",
-			"value":"モタモタしてられねぇ\nアオイとラブラモンが危ないんだ"
+			"value":"Aoi and Labramon could be in hot water while\nwe’re standing around here yapping."
 		},
 		{
 			"key":"EP10_S7069_0015",
-			"value":"そうだね、ごめん\n中に入ってみよう"
+			"value":"Whoops, yeah, you’re right. Let’s go inside."
 		}
 	]
 }

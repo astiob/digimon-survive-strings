@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2491_0001",
-			"value":"仕方ない。とりあえず進むしかねえな"
+			"value":"Well, whatever. Let’s just keep going."
 		},
 		{
 			"key":"EP03_S2491_0002",
-			"value":"あの電波塔の上からならこの辺を見渡せるし\nミウを捜すのに役立つんじゃない？"
+			"value":"Look on the bright side. Maybe the view from\nthe tower will help us find Miu."
 		},
 		{
 			"key":"EP03_S2491_0003",
-			"value":"そうだな。それにマジで電波が届くなら\nミウと一緒に帰る目途もついたってことだ"
+			"value":"Maybe. And if we actually get a signal, maybe\nthat’s how we all get back, including Miu."
 		},
 		{
 			"key":"EP03_S2491_0004",
-			"value":"そうと決まれば、行くか"
+			"value":"Anyway, we might as well go up there and see\nwhat happens."
 		}
 	]
 }

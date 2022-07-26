@@ -2,59 +2,59 @@
     "scenario_text": [
         {
             "key": "EP04_S1171_0001",
-            "value": "あれ……？"
+            "value": "Huh...?"
         },
         {
             "key": "EP04_S1171_0002",
-            "value": "タクマ、どうしたの？"
+            "value": "What is it, Takuma?"
         },
         {
             "key": "EP04_S1171_0003",
-            "value": "いや、この<color=#B41919>宝箱</color>のところに\nなんか食べかけのお菓子が落ちてて……"
+            "value": "I just noticed this half-eaten snack on the\nground by this <color=#B41919>treasure chest</color>."
         },
         {
             "key": "EP04_S1171_0004",
-            "value": "あっ、ほんとだー！"
+            "value": "Oh yeah, look at that!"
         },
         {
             "key": "EP04_S1171_0005",
-            "value": "そそそ、それは、ついさっき私が食べた\nおかしの残りよ！！"
+            "value": "Th-that’s just left over from the snack I had\nearlier!"
         },
         {
             "key": "EP04_S1171_0006",
-            "value": "そうなのかー？"
+            "value": "Oh, is that it?"
         },
         {
             "key": "EP04_S1171_0007",
-            "value": "こんな時にお菓子食べてたの？"
+            "value": "So you just stopped to have a snack while all\nthis was going on?"
         },
         {
             "key": "EP04_S1171_0008",
-            "value": "ここ、こんな時だってなんだって\nお腹がすいちゃったら、しょうがないでしょ！"
+            "value": "D-don’t make it sound so bad! You can’t help\nit when you’re hungry, can you?"
         },
         {
             "key": "EP04_S1171_0009",
-            "value": "もうっ、いいから黙ってて！"
+            "value": "Anyway, leave me alone!"
         },
         {
             "key": "EP04_S1171_0010",
-            "value": "すっごくすっごく忙しいんだから\n邪魔しちゃダメなの！　今すぐ出てって！"
+            "value": "I’m super, super busy right now, so I don’t\nwant you bothering me! Go away!"
         },
         {
             "key": "EP04_S1171_0011",
-            "value": "えっ、ちょ、ちょっと……！？"
+            "value": "Wha’? Hey!"
         },
         {
             "key": "EP04_S1171_0012",
-            "value": "お、押すなよ～！"
+            "value": "Don’t push me!"
         },
         {
             "key": "EP04_S1171_0013",
-            "value": "（部屋から追い出されちゃった……）"
+            "value": "(She kicked us out...)"
         },
         {
             "key": "EP04_S1171_0014",
-            "value": "たっ、食べかけのお菓子は私のよ！\nほんとのほんとに、私のなんだからぁー！"
+            "value": "Th-that half-eaten snack was mine! Really,\nbelieve me, it was!"
         }
     ]
 }

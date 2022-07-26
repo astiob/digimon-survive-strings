@@ -2,183 +2,183 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4304_0001",
-			"value":"あっ、タクマ、アグモン！\nおかえり！"
+			"value":"Takuma, Agumon! Welcome back!"
 		},
 		{
 			"key":"EP11_S4304_0002",
-			"value":"今、サキくんに話を聞いていたところだ\nなんでも山の方は霧で覆われてしまったとか"
+			"value":"Saki told me how the mountains are covered in\nfog."
 		},
 		{
 			"key":"EP11_S4304_0003",
-			"value":"山だけじゃない\n他にも色々な場所に霧が立ち込めている"
+			"value":"It’s not just the mountains. There’s fog\nappearing elsewhere, too."
 		},
 		{
 			"key":"EP11_S4304_0004",
-			"value":"無事なのはこの校舎周辺と祠\nあとは神社くらいだろう"
+			"value":"About the only places that are still safe are\nthis school and the shrines."
 		},
 		{
 			"key":"EP11_S4304_0005",
-			"value":"そうか、じゃあカイトたちも無事なら\n近くにいるってことか"
+			"value":"Then if Kaito’s safe, he must be somewhere\nnearby."
 		},
 		{
 			"key":"EP11_S4304_0006",
-			"value":"うん、そういうこと\nちょっと希望が見えてきたね！"
+			"value":"That’s true. I’m starting to have some hope!"
 		},
 		{
 			"key":"EP11_S4304_0007",
-			"value":"このまま捜し続ければ\nあまり時間をかけずに二人を見つけられるかも"
+			"value":"If we keep searching, at this rate we’ll find\n‘em both before too long."
 		},
 		{
 			"key":"EP11_S4304_0008",
-			"value":"（うーん？　サキもフローラモンも嬉しそうで\n　全然怖がってるように見えない）"
+			"value":"(That’s odd. They seem so happy. Not scared\nat all...)"
 		},
 		{
 			"key":"EP11_S4304_0009",
-			"value":"（いつ牙を剥くかわからない危険なものが\n　すぐそこまで迫ってるってことなのに）"
+			"value":"(Even though danger could be lurking around\nany turn, ready to jump out.)"
 		},
 		{
 			"key":"EP11_S4304_0010",
-			"value":"（これって……あえて明るく振舞って、他の人たちを\n　不安にさせないようにしてるんだよな？）"
+			"value":"(They must be pretending to be okay to make\nthe rest of us feel better... Is that it?)"
 		},
 		{
 			"key":"EP11_S4304_Q1",
-			"value":"（サキの態度をどう思う？）"
+			"value":"(What should I make of Saki’s attitude?)"
 		},
 		{
 			"key":"EP11_S4304_Q1_A1",
-			"value":"危機感がないと思う"
+			"value":"She’s not scared."
 		},
 		{
 			"key":"EP11_S4304_Q1_A2",
-			"value":"バランスをとって、わざとだと思う"
+			"value":"She’s striking a balance."
 		},
 		{
 			"key":"EP11_S4304_Q1_A3",
-			"value":"危なっかしいと思う"
+			"value":"She’s being careless."
 		},
 		{
 			"key":"EP11_S4304_0011",
-			"value":"危機感がないんじゃないか"
+			"value":"She’s not scared."
 		},
 		{
 			"key":"EP11_S4304_0012",
-			"value":"前向きなのはいいけど、もうちょっと\n危機感を持った方がいいと思うよ"
+			"value":"I’m glad you’re staying positive, but I think\nwe should be a little more concerned."
 		},
 		{
 			"key":"EP11_S4304_0013",
-			"value":"わかってるよ、霧が危ないことくらい"
+			"value":"The fog is dangerous. I get it."
 		},
 		{
 			"key":"EP11_S4304_0014",
-			"value":"でも、ミユキちゃんを助ける前に\nカイトたちを捜すって決めたじゃない"
+			"value":"But we decided to look for Kaito before we\nsave Miyuki, right?"
 		},
 		{
 			"key":"EP11_S4304_0015",
-			"value":"その方針が変わらないんだったら\n早く見つけてあげられるのはいいことだから"
+			"value":"I just want to do that as fast as possible,\nif that’s still our plan."
 		},
 		{
 			"key":"EP11_S4304_0016",
-			"value":"確かに、そういう考え方もある"
+			"value":"I can certainly understand that."
 		},
 		{
 			"key":"EP11_S4304_0017",
-			"value":"だが、今後もし事態が悪化したら、その方針から\n考え直さなければいけないだろう"
+			"value":"But the situation has gotten worse. We need\nto rethink our plan."
 		},
 		{
 			"key":"EP11_S4304_0018",
-			"value":"う……"
+			"value":"Erm..."
 		},
 		{
 			"key":"EP11_S4304_0019",
-			"value":"わざとだろう"
+			"value":"It’s an act."
 		},
 		{
 			"key":"EP11_S4304_0020",
-			"value":"（うん、サキが霧の怖さに気づいてないはずがない\n　あえて悪い可能性を口にしてないんだ）"
+			"value":"(There’s no way she doesn’t understand the\ndanger. She just doesn’t want to say it.)"
 		},
 		{
 			"key":"EP11_S4304_0021",
-			"value":"（冷静な意見は教授が言ってくれるから\n　バランスをとって明るい意見を言っている？）"
+			"value":"(She’s being positive to balance out the\nprofessor’s more hard-line approach.)"
 		},
 		{
 			"key":"EP11_S4304_0022",
-			"value":"（だとしたら……すごいな、サキ\n　周りを見て、上手く立ち回ろうとしてるんだ）"
+			"value":"(In that case it’s actually impressive how\nshe’s managing the group energy.)"
 		},
 		{
 			"key":"EP11_S4304_0023",
-			"value":"サキくんの言うことも一理あるが……\n喜んでばかりはいられないぞ"
+			"value":"I see what you’re saying, Saki... But don’t\nget too overjoyed about it."
 		},
 		{
 			"key":"EP11_S4304_0024",
-			"value":"危なっかしいな"
+			"value":"She’s careless."
 		},
 		{
 			"key":"EP11_S4304_0025",
-			"value":"言ってることはわかるけど\nもう少し怖がった方がいいよ"
+			"value":"I see what you’re saying, but I think it’s\nscarier than that."
 		},
 		{
 			"key":"EP11_S4304_0026",
-			"value":"なんで？"
+			"value":"Why?"
 		},
 		{
 			"key":"EP11_S4304_0027",
-			"value":"霧は今後、もっと増えるかもしれないし\nその時どういう動きをするかもわからない"
+			"value":"The fog might increase even more—then what\nwill we do?"
 		},
 		{
 			"key":"EP11_S4304_0028",
-			"value":"ミユキが祭壇に縛られてた時みたいに\nあっという間に増えるかもしれない"
+			"value":"It might suddenly spread like it did when\nMiyuki was bound to the altar."
 		},
 		{
 			"key":"EP11_S4304_0029",
-			"value":"カイトたちを捜してる時にそんなことになって\n逃げ損ねたらどうするんだよ"
+			"value":"If that happens while we’re searching for\nKaito and we get trapped, then what?"
 		},
 		{
 			"key":"EP11_S4304_0030",
-			"value":"怖いこと言わないでよ……確かに\nもしもの悪いことだって、考えなきゃいけないけどさ"
+			"value":"Stop scaring me! I mean, we should think\nabout that, too..."
 		},
 		{
 			"key":"EP11_S4304_0031",
-			"value":"そんなこと言ってたら、怖くて\nカイトたちのこと捜せなくなっちゃうよ"
+			"value":"But it makes me so scared I can’t keep up the\nsearch for Kaito."
 		},
 		{
 			"key":"EP11_S4304_0032",
-			"value":"……サキ"
+			"value":"Saki..."
 		},
 		{
 			"key":"EP11_S4304_0033",
-			"value":"サキくんの気持ちはわかるがね\nそれでも、危険は想定して動くべきだ"
+			"value":"I understand Saki’s feelings, but we must\nkeep the danger in mind."
 		},
 		{
 			"key":"EP11_S4304_0034",
-			"value":"霧はその内、この辺りをも埋め尽くすかもしれない"
+			"value":"The fog could envelop this area in the blink\nof an eye."
 		},
 		{
 			"key":"EP11_S4304_0035",
-			"value":"時間の猶予がどれくらいあるかわからない\n方法を少し変えるべきだ"
+			"value":"We don’t know how long we have. We need to\nchange our approach."
 		},
 		{
 			"key":"EP11_S4304_0036",
-			"value":"素早く、見落としのないように\nかつ、何かあったらすぐに逃げられるように"
+			"value":"We must be quick yet careful...and able to\nflee at a moment’s notice."
 		},
 		{
 			"key":"EP11_S4304_0037",
-			"value":"きちんと割り振りを決めて捜索しなければ\n危険だろう"
+			"value":"It’d be dangerous to search for him without\nsettling on a firm approach first."
 		},
 		{
 			"key":"EP11_S4304_0038",
-			"value":"なら一度、ここにいない者たちも集めて\n体制を整え直した方がいいんじゃないか"
+			"value":"Then we should gather everyone who’s not here\nand form a clear system for action."
 		},
 		{
 			"key":"EP11_S4304_0039",
-			"value":"そうだね。辺りを捜して\nみんなを集めて来るよ"
+			"value":"Yeah. Let’s search the area and gather\neveryone together."
 		},
 		{
 			"key":"EP11_S4304_0040",
-			"value":"タクマ……気を付けてね\n危ないと思ったらすぐに帰ってきてよ！"
+			"value":"Be careful, Takuma. And if you feel in\ndanger, come back quick!"
 		},
 		{
 			"key":"EP11_S4304_0041",
-			"value":"霧が迫ってるのは怖いけど、カイトたちの居場所は\n捜しやすくなったかもね！"
+			"value":"It IS scary that the fog is spreading, but it\nmight make it easier to find Kaito!"
 		}
 	]
 }

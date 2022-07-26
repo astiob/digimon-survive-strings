@@ -2,35 +2,35 @@
     "scenario_text": [
         {
             "key": "EP07_S3000_0001",
-            "value": "何か見つかった？"
+            "value": "Did you find anything?"
         },
         {
             "key": "EP07_S3000_0002",
-            "value": "いや、オレたちも今ここに来たばっかでさ\nまだ何にも……"
+            "value": "No, we just got here. Nothing yet..."
         },
         {
             "key": "EP07_S3000_0003",
-            "value": "二人とも\nこの辺りに怪しい気配を感じる"
+            "value": "We both sense something suspicious here."
         },
         {
             "key": "EP07_S3000_0004",
-            "value": "ピエモンか！？"
+            "value": "Piedmon?"
         },
         {
             "key": "EP07_S3000_0005",
-            "value": "いや……もっと別の何かだ"
+            "value": "No... Something different."
         },
         {
             "key": "EP07_S3000_0006",
-            "value": "別の何かぁ？\nつっても、何も見えねーけど……"
+            "value": "Different? But we can’t see anything..."
         },
         {
             "key": "EP07_S3000_0007",
-            "value": "そうだ、タクマ\n<color=#B41919>カメラ</color>で調べてみようぜ！"
+            "value": "Oh, yeah. Takuma! Check things out with the\n<color=#B41919>camera</color>!"
         },
         {
             "key": "EP07_S3000_0008",
-            "value": "カメラで調べれば、怪しい気配とかいうのの\n正体がわかるかもな！"
+            "value": "The camera might help us figure out what’s\nleaving those scary traces!"
         }
     ]
 }

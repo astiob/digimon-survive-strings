@@ -2,559 +2,559 @@
 	"scenario_text":[
 		{
 			"key":"EP08_S0021_0001",
-			"value":"ミユキ、どこに行っちゃったんだろ～？"
+			"value":"Where could Miyuki have gone?"
 		},
 		{
 			"key":"EP08_S0021_0002",
-			"value":"そんなに遠く離れた場所には\nいないと思うんだけど……"
+			"value":"I don’t think she’d be too far."
 		},
 		{
 			"key":"EP08_S0021_0003",
-			"value":"もっと向こうも捜してみるかー？"
+			"value":"Should we try looking farther out?"
 		},
 		{
 			"key":"EP08_S0021_0004",
-			"value":"いや、いきなりはやめておこう"
+			"value":"No, let’s not get ahead of ourselves."
 		},
 		{
 			"key":"EP08_S0021_0005",
-			"value":"奥の方は、木が生い茂ってて薄暗いし\n何があるかわからないから……"
+			"value":"The trees are thicker that way, and you never\nknow what might be hiding in the shadows."
 		},
 		{
 			"key":"EP08_S0021_0006",
-			"value":"それにしても……なんか変だな"
+			"value":"Plus, something about this place seems...off."
 		},
 		{
 			"key":"EP08_S0021_0007",
-			"value":"変って？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP08_S0021_0008",
-			"value":"何だろう？\nこの森……違和感があるっていうか……"
+			"value":"I can’t quite put my finger on it, but this\nforest...something about it is...different."
 		},
 		{
 			"key":"EP08_S0021_0009",
-			"value":"いつもと、何かが違うような……"
+			"value":"It’s not quite the same as I’m used to."
 		},
 		{
 			"key":"EP08_S0021_0010",
-			"value":"それならボクにもあるぞ！"
+			"value":"Oh yeah, I noticed something like that too!"
 		},
 		{
 			"key":"EP08_S0021_0011",
-			"value":"アグモンも、何か気になるのか？\n何が気になるんだ？"
+			"value":"So it’s not just me. What is it that’s\nbothering you, Agumon?"
 		},
 		{
 			"key":"EP08_S0021_0012",
-			"value":"えっとね～……"
+			"value":"Well..."
 		},
 		{
 			"key":"EP08_S0021_0013",
-			"value":"う～ん……"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP08_S0021_0014",
-			"value":"ん？　今の声って……！"
+			"value":"Huh? That sounded like..."
 		},
 		{
 			"key":"EP08_S0021_0015",
-			"value":"タクマ！　ボクにも聞こえたよ！\nあっちだ！"
+			"value":"I heard it too, Takuma! It came from over\nthat way!"
 		},
 		{
 			"key":"EP08_S0021_0016",
-			"value":"タクマ！　あそこ見て！\nミユキが倒れてる！"
+			"value":"Takuma! Look, over there! It’s Miyuki!"
 		},
 		{
 			"key":"EP08_S0021_0017",
-			"value":"ミユキ！"
+			"value":"Miyuki!"
 		},
 		{
 			"key":"EP08_S0021_0018",
-			"value":"ここは……？\n私……"
+			"value":"Where...am I?"
 		},
 		{
 			"key":"EP08_S0021_0019",
-			"value":"ミユキ！　僕がわかる！？"
+			"value":"Miyuki! Do you remember me?!"
 		},
 		{
 			"key":"EP08_S0021_0020",
-			"value":"タクマ、さん？"
+			"value":"Uh... Takuma?"
 		},
 		{
 			"key":"EP08_S0021_0021",
-			"value":"ミユキ……よかった……\n大丈夫？　怪我はない？"
+			"value":"I’m so glad we found you! Are you all right?\nYou’re not hurt or anything, are you?"
 		},
 		{
 			"key":"EP08_S0021_0022",
-			"value":"はい、たぶん……\nでも、私たちどうしてこんなところに……"
+			"value":"I don’t think so. But...what are we doing\nhere?"
 		},
 		{
 			"key":"EP08_S0021_0023",
-			"value":"よかった……本当に大丈夫そうだね"
+			"value":"Honestly, right now I’m just glad it sounds\nlike you really are okay."
 		},
 		{
 			"key":"EP08_S0021_0024",
-			"value":"え？"
+			"value":"What?"
 		},
 		{
 			"key":"EP08_S0021_0025",
-			"value":"いや、もしまた、前みたいに\nちゃんと話せなくなってたらどうしようかと思って"
+			"value":"Oh, I was afraid that maybe you’d lost the\nability to speak again."
 		},
 		{
 			"key":"EP08_S0021_0026",
-			"value":"心配してくれたんだ……"
+			"value":"You mean, you were worried about me?"
 		},
 		{
 			"key":"EP08_S0021_0027",
-			"value":"当たり前だぞ～！\nミユキも、ボクたちの大事な仲間だからな！"
+			"value":"Why wouldn’t we be? After all, you’re one of\nour closest friends!"
 		},
 		{
 			"key":"EP08_S0021_0028",
-			"value":"タクマさんとアグモンにそう言ってもらえて\n私……うれしい。それに……"
+			"value":"Oh, I’m so happy to hear you say that! And\nI’ve been meaning to tell you something."
 		},
 		{
 			"key":"EP08_S0021_0029",
-			"value":"これまで、私たち姉弟に良くしてくれて\n……本当にありがとう"
+			"value":"Thank you so much for being so nice to me and\nmy brother this whole time."
 		},
 		{
 			"key":"EP08_S0021_0030",
-			"value":"ふう……やっとだ……\nやっと、ちゃんとお礼が言えた……かな"
+			"value":"There... I finally got to say thank you. Was\nthat...clear enough?"
 		},
 		{
 			"key":"EP08_S0021_0031",
-			"value":"お礼なんてそんな、気にしなくていいよ"
+			"value":"Yeah, of course. But, I mean, it’s not like\nyou have to thank us for anything."
 		},
 		{
 			"key":"EP08_S0021_0032",
-			"value":"僕は、そうしたかったからそうしただけだから"
+			"value":"I haven’t been doing anything special. I just\ntreated you how I felt like treating you."
 		},
 		{
 			"key":"EP08_S0021_0033",
-			"value":"ボクもタクマと一緒だぞ"
+			"value":"Yeah, me too!"
 		},
 		{
 			"key":"EP08_S0021_0034",
-			"value":"私も、私の意思でタクマさんに\nお礼が言いたかった"
+			"value":"Well, I felt like thanking you just now, too.\nSo I did."
 		},
 		{
 			"key":"EP08_S0021_0035",
-			"value":"ふふふ……私たちって\n同じことを考えていたのね"
+			"value":"Heehee... We make a good pair, don’t we?"
 		},
 		{
 			"key":"EP08_S0021_0036",
-			"value":"そうだったのか……ははは"
+			"value":"I guess we do. Hahaha!"
 		},
 		{
 			"key":"EP08_S0021_0037",
-			"value":"今まで、ミユキとこんな風に\nちゃんと話したことってなかったね"
+			"value":"You know, I’ve never had a chance to talk\nwith you like this before, Miyuki."
 		},
 		{
 			"key":"EP08_S0021_0038",
-			"value":"ん～？　でも、ここに来る前の場所でも\nミユキはちゃんとお喋りしてたよ？"
+			"value":"Really? Wasn’t she talking like this in that\nother place before we came here?"
 		},
 		{
 			"key":"EP08_S0021_0039",
-			"value":"あの時は、急だったし\nゆっくり話したわけじゃないからさ"
+			"value":"Well, we didn’t exactly have a lot of time\nthere. We never had the chance to chit chat."
 		},
 		{
 			"key":"EP08_S0021_0040",
-			"value":"そっかー"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP08_S0021_0041",
-			"value":"ある意味、はじめまして……だよね\nタクマさん"
+			"value":"This does feel like a fresh start. I guess\nI should say...nice to meet you, Takuma."
 		},
 		{
 			"key":"EP08_S0021_0042",
-			"value":"うん。それじゃあ改めて、よろしく\nミユキ"
+			"value":"Right. Nice to meet you too, Miyuki."
 		},
 		{
 			"key":"EP08_S0021_0043",
-			"value":"アグモンも、よろしくね"
+			"value":"Same to you, Agumon."
 		},
 		{
 			"key":"EP08_S0021_0044",
-			"value":"よろしく、ミユキ！"
+			"value":"You too, Miyuki!"
 		},
 		{
 			"key":"EP08_S0021_0045",
-			"value":"あの……それでタクマさん、アグモン\nここはいったい、どこなの……？"
+			"value":"So, Takuma, Agumon... Where are we exactly?"
 		},
 		{
 			"key":"EP08_S0021_0046",
-			"value":"（そうだ……！\n　のんびりしてる場合じゃなかったぞ……！）"
+			"value":"(Oh yeah! We shouldn’t just be standing\naround chatting like this!)"
 		},
 		{
 			"key":"EP08_S0021_0047",
-			"value":"ごめんなさい\n私、ぼんやりしてた時のことあまり覚えてなくて……"
+			"value":"Sorry, but I have a hard time remembering\nthings from when I was out of it."
 		},
 		{
 			"key":"EP08_S0021_0048",
-			"value":"謝らなくていいよ"
+			"value":"No need to apologize."
 		},
 		{
 			"key":"EP08_S0021_0049",
-			"value":"それに……実を言うと、僕たちもまだ\nここがどこなのか、ハッキリわかってないんだ"
+			"value":"And, to be honest, we’re still not entirely\nsure where this is either."
 		},
 		{
 			"key":"EP08_S0021_0050",
-			"value":"でも、森がいつもと違って\nなんか変なのは、わかってるぞ"
+			"value":"But we do know there’s something off about\nthis forest. It’s not...normal."
 		},
 		{
 			"key":"EP08_S0021_0051",
-			"value":"そういえば、さっきも\nそんなこと言ってたよな"
+			"value":"Oh yeah, we were talking about that earlier."
 		},
 		{
 			"key":"EP08_S0021_0052",
-			"value":"アグモンは、何がいつもと違うと思ったんだ？"
+			"value":"What was it that struck you as different\nabout this place, Agumon?"
 		},
 		{
 			"key":"EP08_S0021_0053",
-			"value":"この森……ボクたちみたいなやつらの気配が\n全然ないんだ！"
+			"value":"I can’t sense anything in this forest like me\nor the others!"
 		},
 		{
 			"key":"EP08_S0021_0054",
-			"value":"アグモンみたいなやつらって……？"
+			"value":"You mean...nothing like you at all?"
 		},
 		{
 			"key":"EP08_S0021_0055",
-			"value":"うん！　ファルコモンやドラクモンや\n他のみんなの気配も、全然しない"
+			"value":"Right! I can’t even sense Falcomon or\nDracmon, or anyone else."
 		},
 		{
 			"key":"EP08_S0021_0056",
-			"value":"それって、どういうこと？"
+			"value":"So...what does that mean?"
 		},
 		{
 			"key":"EP08_S0021_0057",
-			"value":"それはボクにもわからない……\nけど……"
+			"value":"I don’t know why, either..."
 		},
 		{
 			"key":"EP08_S0021_0058",
-			"value":"ファルコモンたちの気配も、他のやつらの気配も\nなんにもないなんて……やっぱり変だよ！"
+			"value":"If I can’t sense Falcomon or anyone else,\nthere’s definitely something weird going on!"
 		},
 		{
 			"key":"EP08_S0021_0059",
-			"value":"みんなと、遠く離れちゃったってことなのかな？"
+			"value":"Maybe that means we’re really far away from\nthe others."
 		},
 		{
 			"key":"EP08_S0021_0060",
-			"value":"ぱっと見た感じだと、さっきまでいた\n工場の近くでもなさそうだな"
+			"value":"Well, from what I saw, it doesn’t seem like\nwe’re anywhere near the factory."
 		},
 		{
 			"key":"EP08_S0021_0061",
-			"value":"あの妙な島のどこかだとは思うんだけど……"
+			"value":"We’re probably still somewhere on that weird\nisland, but it’s strange..."
 		},
 		{
 			"key":"EP08_S0021_0062",
-			"value":"廃工場に向かう途中にも森があったけど\nあそこには、花なんて……"
+			"value":"I don’t remember any flowers in that forest\nwe had to go through to get to the factory."
 		},
 		{
 			"key":"EP08_S0021_0063",
-			"value":"（花……？　そうか、彼岸花！\n　違和感の正体は、これだ！）"
+			"value":"(Wait, that’s it! The red spider lilies!\nThat’s what’s so weird about this place!)"
 		},
 		{
 			"key":"EP08_S0021_0064",
-			"value":"（この世界で、彼岸花が咲いてる場所なんて\n　ほんの限られた場所だけだったはず……！）"
+			"value":"(And in this world, red spider lilies only\ngrow in one specific area!)"
 		},
 		{
 			"key":"EP08_S0021_0065",
-			"value":"（ということは、いつのまにか校舎の近くまで\n　戻ってたのか……？）"
+			"value":"(Does that mean we somehow wound up back by\nthe school?)"
 		},
 		{
 			"key":"EP08_S0021_0066",
-			"value":"（いやでも、あの辺りとも少し様子が違うような……\n　むしろ、ここは……）"
+			"value":"(No, that can’t be it. The surroundings don’t\nquite match up. If anything, this is like...)"
 		},
 		{
 			"key":"EP08_S0021_0067",
-			"value":"っ……"
+			"value":"No..."
 		},
 		{
 			"key":"EP08_S0021_0068",
-			"value":"（も、もしかして、ここって……）"
+			"value":"(It... It can’t be... Can it?)"
 		},
 		{
 			"key":"EP08_S0021_0069",
-			"value":"（いや……そんなはずはないよな\n　そんな都合のいい話があるわけ……）"
+			"value":"(I mean, there’s no way, right? Things don’t\njust work out like that.)"
 		},
 		{
 			"key":"EP08_S0021_0070",
-			"value":"（ちょっと落ち着いて考えよう）"
+			"value":"(I need to calm down and think this through\nagain.)"
 		},
 		{
 			"key":"EP08_S0021_0071",
-			"value":"（ここは教授みたいに、わかってる事を\n　１つ１つ検証して、積み重ねて考えないと）"
+			"value":"(Carefully examine all that I know, one thing\nat a time, like the professor would...)"
 		},
 		{
 			"key":"EP08_S0021_0072",
-			"value":"タクマ、どうかしたのか？"
+			"value":"Is something wrong, Takuma?"
 		},
 		{
 			"key":"EP08_S0021_0073",
-			"value":"何かわかったの？"
+			"value":"Did you figure something out?  "
 		},
 		{
 			"key":"EP08_S0021_0074",
-			"value":"いや、まだ何も……"
+			"value":"No. No, I can’t be sure of anything yet."
 		},
 		{
 			"key":"EP08_S0021_0075",
-			"value":"…………？"
+			"value":"If you say so."
 		},
 		{
 			"key":"EP08_S0021_0076",
-			"value":"タクマ、これからどうする？"
+			"value":"So what do we do now, Takuma?"
 		},
 		{
 			"key":"EP08_S0021_0077",
-			"value":"あ……うん、僕もそれを考えてたんだ"
+			"value":"Uh, right. I’ve been wondering about that\ntoo."
 		},
 		{
 			"key":"EP08_S0021_0078",
-			"value":"ここでじっとしてても\nどうにもならなそうだし……"
+			"value":"I don’t see much point in staying here."
 		},
 		{
 			"key":"EP08_S0021_0079",
-			"value":"かといって、無暗に歩いて\n迷ったりしても……大変よね？"
+			"value":"But then again, if we just head out blindly\nand get lost...that won’t help either."
 		},
 		{
 			"key":"EP08_S0021_0080",
-			"value":"敵の気配はしないけど……\n先にボクが見てこよーか？"
+			"value":"I don’t sense any enemies nearby, but...you\nthink I should go see what’s up ahead?"
 		},
 		{
 			"key":"EP08_S0021_0081",
-			"value":"二手に分かれるの？\nそんなの、危なくないかな？"
+			"value":"But that would mean splitting up. Don’t you\nthink that could be dangerous?"
 		},
 		{
 			"key":"EP08_S0021_0082",
-			"value":"うーん……そういわれると～……"
+			"value":"Hmm... I guess it could be."
 		},
 		{
 			"key":"EP08_S0021_0083",
-			"value":"タクマ、どうしたらいいと思うー？"
+			"value":"What do you think, Takuma?"
 		},
 		{
 			"key":"EP08_S0021_0084",
-			"value":"（今の状況じゃ、できることは限られてるよな）"
+			"value":"(Under the circumstances, our options are\nlimited.)"
 		},
 		{
 			"key":"EP08_S0021_0085",
-			"value":"（ここでじっとして、みんなが僕らを見つけてくれる\n　可能性にかけるか）"
+			"value":"(We could stay here and hope the others find\nus.)"
 		},
 		{
 			"key":"EP08_S0021_0086",
-			"value":"（それとも、アグモンとミユキと\n　３人で、周辺を調べてみるか……）"
+			"value":"(Or the three of us could go take a look\naround.)"
 		},
 		{
 			"key":"EP08_S0021_0087",
-			"value":"（ここは一旦、アグモンに任せて\n　僕とミユキは大人しくしているか……）"
+			"value":"(Then again, we could have Agumon do the\nlooking while Miyuki and I stay here.)"
 		},
 		{
 			"key":"EP08_S0021_Q1",
-			"value":"（僕たちが今やるべきなのは……）"
+			"value":"(What’s our best option?)"
 		},
 		{
 			"key":"EP08_S0021_Q1_A1",
-			"value":"ここでじっと待とう"
+			"value":"Stay put."
 		},
 		{
 			"key":"EP08_S0021_Q1_A2",
-			"value":"３人で周辺を調べよう"
+			"value":"Look around together."
 		},
 		{
 			"key":"EP08_S0021_Q1_A3",
-			"value":"アグモンに偵察してきてもらおう"
+			"value":"Let Agumon scout."
 		},
 		{
 			"key":"EP08_S0021_0088",
-			"value":"ここでジッと待つ"
+			"value":"Stay put."
 		},
 		{
 			"key":"EP08_S0021_0089",
-			"value":"敵の気配はしないとはいえ\n何があるかわからないし……"
+			"value":"Even if Agumon isn’t sensing any danger, you\nnever know what could be out there."
 		},
 		{
 			"key":"EP08_S0021_0090",
-			"value":"ここでじっとして、みんなが捜しに来てくれるのを\n待つのはどうかな"
+			"value":"Why don’t we stay here and wait for the\nothers to find us?"
 		},
 		{
 			"key":"EP08_S0021_0091",
-			"value":"それにこの辺りには、例の霧もないみたいだから\nひとまず安全だろ？"
+			"value":"After all, there’s no sign of that fog\nanywhere, so we should be safe. "
 		},
 		{
 			"key":"EP08_S0021_0092",
-			"value":"タクマがそう言うなら\nボクはそれでもいいけど……"
+			"value":"Okay, I guess. If that’s what you want to do,\nTakuma."
 		},
 		{
 			"key":"EP08_S0021_0093",
-			"value":"（って言いつつ、全然納得してないって顔してる……）"
+			"value":"(Agumon...does not seem to like that idea.)"
 		},
 		{
 			"key":"EP08_S0021_0094",
-			"value":"あの……ごめんなさい……！"
+			"value":"Um... I’m sorry, but..."
 		},
 		{
 			"key":"EP08_S0021_0095",
-			"value":"え……？"
+			"value":"Hm?"
 		},
 		{
 			"key":"EP08_S0021_0096",
-			"value":"私は……じっと待つほうが、不安……かも"
+			"value":"I think...waiting around will just...make me\nmore nervous."
 		},
 		{
 			"key":"EP08_S0021_0097",
-			"value":"もしかしたら、みんなとは\nすごく離れた場所にいるかもしれないし"
+			"value":"I mean, what if we’re somewhere really far\naway from everyone else?"
 		},
 		{
 			"key":"EP08_S0021_0098",
-			"value":"それに、ずっとみんなに頼ってばっかりだったから\nできれば、自分で捜しに行きたくて……っ"
+			"value":"Besides, I’ve relied on the others for so\nlong. I want to go find them this time."
 		},
 		{
 			"key":"EP08_S0021_0099",
-			"value":"（そうか……そうだよな\n　ようやく、自分の思う通りに動けるようになったんだ）"
+			"value":"(You know, I hadn’t thought about it, but\nMiyuki did just regain control of herself.)"
 		},
 		{
 			"key":"EP08_S0021_0100",
-			"value":"（じっと待ってるなんて\n　もどかしいはずだよな……）"
+			"value":"(Of course she isn’t going to want to wait\naround like nothing’s changed.)"
 		},
 		{
 			"key":"EP08_S0021_0101",
-			"value":"うん……ごめん\n僕が間違ってたかも……！"
+			"value":"Actually, I’m sorry. I think I made the wrong\ncall."
 		},
 		{
 			"key":"EP08_S0021_0102",
-			"value":"えっ……それじゃあ……？"
+			"value":"Really? You mean you’ve changed your mind?"
 		},
 		{
 			"key":"EP08_S0021_0103",
-			"value":"３人で、この周辺を調べて\nみんなのところに戻る手がかりを探そう"
+			"value":"Let’s all look around for some clues that\ncould lead us back to the others."
 		},
 		{
 			"key":"EP08_S0021_0104",
-			"value":"さっすがタクマ！　そうこなくっちゃ！"
+			"value":"Now that’s more like it! Good call, Takuma!"
 		},
 		{
 			"key":"EP08_S0021_0105",
-			"value":"３人で周辺を調べる"
+			"value":"Look around together."
 		},
 		{
 			"key":"EP08_S0021_0106",
-			"value":"やっぱり、３人で一緒に\n周辺を調べてみるのがいいんじゃないかな"
+			"value":"I think it’s probably best if we all look\naround together."
 		},
 		{
 			"key":"EP08_S0021_0107",
-			"value":"じっとしてても、どうにもならないと思うし\n今はバラバラになるのは避けたい"
+			"value":"Staying put isn’t going to do us any good,\nand I’d hate to get split up."
 		},
 		{
 			"key":"EP08_S0021_0108",
-			"value":"ひとまず、この辺りには霧は出てないみたいだし\n注意しながら探せば、そう危険なこともないと思う"
+			"value":"Plus there’s no sign of the fog nearby, so as\nlong as we’re careful, I think we’ll be okay. "
 		},
 		{
 			"key":"EP08_S0021_0109",
-			"value":"２人とも……どうかな？"
+			"value":"What do you two think?"
 		},
 		{
 			"key":"EP08_S0021_0110",
-			"value":"もちろん！\nボクはタクマに賛成だよ！"
+			"value":"You should know what I think! I’m with you,\nTakuma!"
 		},
 		{
 			"key":"EP08_S0021_0111",
-			"value":"うん、私も……！"
+			"value":"Yeah, I like the sound of that!"
 		},
 		{
 			"key":"EP08_S0021_0112",
-			"value":"アグモンに偵察してきてもらう"
+			"value":"Let Agumon scout."
 		},
 		{
 			"key":"EP08_S0021_0113",
-			"value":"無暗に動き回るのは危険かもしれないし\nかといって、じっとしててもどうにもならない"
+			"value":"Well, looking around blindly could be\ndangerous, but we can't just stay here..."
 		},
 		{
 			"key":"EP08_S0021_0114",
-			"value":"だから、まずはアグモンに\n周辺を調べてきてもらったらどうかと思うんだけど……"
+			"value":"I think maybe we should let Agumon take\na look around to be safe."
 		},
 		{
 			"key":"EP08_S0021_0115",
-			"value":"タクマの頼みなら、ボクは引き受けるぞ！"
+			"value":"Whatever you say, Takuma!"
 		},
 		{
 			"key":"EP08_S0021_0116",
-			"value":"ま、待って！"
+			"value":"Wait!"
 		},
 		{
 			"key":"EP08_S0021_0117",
-			"value":"ミユキ……？"
+			"value":"What is it, Miyuki?"
 		},
 		{
 			"key":"EP08_S0021_0118",
-			"value":"私は……離れちゃダメだと思う"
+			"value":"I...don’t think we should split up."
 		},
 		{
 			"key":"EP08_S0021_0119",
-			"value":"ここでバラバラに動いて\nもし……もしまた、はぐれて会えなくなったりしたら……"
+			"value":"After all, what if... What if we get lost and\nnever see each other again?"
 		},
 		{
 			"key":"EP08_S0021_0120",
-			"value":"（ミユキ……すごく不安そうな顔してる）"
+			"value":"(Miyuki seems really upset by that\npossibility.)"
 		},
 		{
 			"key":"EP08_S0021_0121",
-			"value":"（でも、それも当然なのかも\n　別々に動いて、ちゃんと再会できる保証なんてないし）"
+			"value":"(And she’s right. If we do split up, there’s\nno guarantee we’ll find each other again.)"
 		},
 		{
 			"key":"EP08_S0021_0122",
-			"value":"動くときは、みんなで……だよな"
+			"value":"I guess...if we’re going to move at all, we\nshould just move together."
 		},
 		{
 			"key":"EP08_S0021_0123",
-			"value":"タクマさん……！"
+			"value":"Thanks for understanding, Takuma."
 		},
 		{
 			"key":"EP08_S0021_0124",
-			"value":"やっぱり、離れちゃダメだ\n３人で一緒に周囲を調べよう！"
+			"value":"Well, you’re right, I’d hate for us to get\nseparated. Let’s all look around together!"
 		},
 		{
 			"key":"EP08_S0021_0125",
-			"value":"ただし、例の霧に襲われたら元も子もない\n慎重に行こう"
+			"value":"But if that fog shows up we’re in trouble, so\nwe’ll have to be careful. "
 		},
 		{
 			"key":"EP08_S0021_0126",
-			"value":"うん！　わかった！"
+			"value":"Right, got it!"
 		},
 		{
 			"key":"EP08_S0021_0127",
-			"value":"そうと決まれば……\nといっても、どっちに向かえばいいんだか"
+			"value":"So, now that that’s settled, which way should\nwe go?"
 		},
 		{
 			"key":"EP08_S0021_0128",
-			"value":"タクマ、見て見て！\nあっち！！"
+			"value":"Hey, Takuma! Look, over there!"
 		},
 		{
 			"key":"EP08_S0021_0129",
-			"value":"……！"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP08_S0021_0130",
-			"value":"あそこ、明るくなってる！"
+			"value":"It’s all lit up!"
 		},
 		{
 			"key":"EP08_S0021_0131",
-			"value":"本当だ……！\nさっきまでは、薄暗かったのに"
+			"value":"It sure is! Funny, it was dark until just\nnow."
 		},
 		{
 			"key":"EP08_S0021_0132",
-			"value":"あそこだけ、ぽっかりと光が差し込んでる……\nまるで、こっちへ来いって言ってるみたい"
+			"value":"The light’s shining in just that one spot,\nlike it’s showing us the way to go."
 		},
 		{
 			"key":"EP08_S0021_0133",
-			"value":"（言われてみると……まるで僕らが進むべき道を\n　教えてくれてるみたいな……）"
+			"value":"(She’s right. It’s almost like we’re being\nguided down the right path...)"
 		},
 		{
 			"key":"EP08_S0021_0134",
-			"value":"（いや、全部単なる偶然かもしれないけど……\n　どっちにしても、今のうちに動くべきだ）"
+			"value":"(No, this could still all be a coincidence.\nEither way, though, we need to get moving.)"
 		},
 		{
 			"key":"EP08_S0021_0135",
-			"value":"よし……ともかく\nあの光の方向へ、進んでみよう！"
+			"value":"All right, let’s head for the light!"
 		}
 	]
 }

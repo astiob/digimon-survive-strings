@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0250_0001",
-			"value":"なるほど、あいつはどうやら味方らしいな！"
+			"value":"I see, that one definitely looks like it’s\non our side!"
 		},
 		{
 			"key":"EP01_S0250_0002",
-			"value":"だからファルコモンは\n悪いやつじゃないって！"
+			"value":"I TOLD you! Falcomon’s a good guy!"
 		},
 		{
 			"key":"EP01_S0250_0003",
-			"value":"でも……ゴツモン相手じゃ\n相性が悪いかも……"
+			"value":"Still... I don’t think he’s a match for\nGotsumon..."
 		},
 		{
 			"key":"EP01_S0250_0004",
-			"value":"タクマ、加勢していいか！？"
+			"value":"Can I join the fight, Takuma?!"
 		},
 		{
 			"key":"EP01_S0250_0005",
-			"value":"そうだな、ミノルを放っておけない\n助けよう！"
+			"value":"Yeah, we can’t just stand here and watch.\nPlease, go help him!"
 		}
 	]
 }

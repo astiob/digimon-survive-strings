@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9102_0001",
-			"value":"さぁみんな、行こう！"
+			"value":"Come on, guys, let’s go!"
 		},
 		{
 			"key":"EP13_S9102_0002",
-			"value":"待ってタクマ！\n敵だ！"
+			"value":"Takuma, wait! There’s an enemy up ahead!"
 		},
 		{
 			"key":"EP13_S9102_0003",
-			"value":"シャァァァァァァ……！"
+			"value":"Shaaaaaah!"
 		},
 		{
 			"key":"EP13_S9102_0004",
-			"value":"やはり簡単にはいかないな……"
+			"value":" Looks like this won’t be so easy."
 		},
 		{
 			"key":"EP13_S9102_0005",
-			"value":"蹴散らすぞ、アグモン！"
+			"value":"Let’s stomp this thing, Agumon!"
 		},
 		{
 			"key":"EP13_S9102_0006",
-			"value":"おうっ！"
+			"value":"You got it!"
 		}
 	]
 }

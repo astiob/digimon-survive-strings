@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2222_0001",
-			"value":"ここが敵の本拠地である可能性って\nあるのかな？"
+			"value":"Is it possible this is the enemy base?"
 		},
 		{
 			"key":"EP06_S2222_0002",
-			"value":"高い場所から道を見下ろせて部屋数もある\n生活するにはいいんだろうが……"
+			"value":"You can see the road from high places, plenty\nof rooms. Looks easy enough to live there."
 		},
 		{
 			"key":"EP06_S2222_0003",
-			"value":"拠点としちゃ、難点だらけだ\n高いにゃ高いが見通しが悪い"
+			"value":"Still, as a base it’s full of weak points. It\nmay be tall, but the view ain’t great."
 		},
 		{
 			"key":"EP06_S2222_0004",
-			"value":"あと部屋が狭い！"
+			"value":"Plus, the rooms are cramped!"
 		},
 		{
 			"key":"EP06_S2222_0005",
-			"value":"大きな敵がここの小さい部屋で\n寝泊まりしてる図を想像してみろよ"
+			"value":"Try and imagine some big brute shacking up in\na tiny little room like this!"
 		},
 		{
 			"key":"EP06_S2222_0006",
-			"value":"うーん、シュールかも"
+			"value":"Hmm, that’s a bit out there."
 		},
 		{
 			"key":"EP06_S2222_0007",
-			"value":"ま、生活するにはいいが\n何か企むには利便が悪いだろうな"
+			"value":"It’s fine if they’re just living there, but\nit ain’t convenient for planning anything."
 		},
 		{
 			"key":"EP06_S2222_0008",
-			"value":"じゃあ、ここは敵の住処じゃ\nないってこと？"
+			"value":"So that means this isn’t the enemy base?"
 		},
 		{
 			"key":"EP06_S2222_0009",
-			"value":"多分だけどな"
+			"value":"Probably not."
 		},
 		{
 			"key":"EP06_S2222_0010",
-			"value":"敵の拠点と思うよりは\n痕跡を探すイメージの方がいいんじゃねーの？"
+			"value":"More likely it’s a place to look for traces\nthan the enemy base, I figure?"
 		},
 		{
 			"key":"EP06_S2222_0011",
-			"value":"（ドラクモンの言うとおりかもしれないな）"
+			"value":"(I bet Dracmon’s right.)"
 		},
 		{
 			"key":"EP06_S2222_0012",
-			"value":"（痕跡かぁ\n　細かいところまでよく探してみよう）"
+			"value":"(Traces, huh? We should take a close look\naround, then.)"
 		},
 		{
 			"key":"EP06_S2222_0013",
-			"value":"まあ、根気よく探そーぜ\n敵の痕跡も、ファルコモンもな"
+			"value":"C’mon, let’s take it slow and steady. Look\nfor traces of the enemy, and of Falcomon."
 		}
 	]
 }

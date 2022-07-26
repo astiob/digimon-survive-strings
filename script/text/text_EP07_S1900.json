@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1900_0001",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S1900_0002",
-			"value":"あれ、教授？"
+			"value":"Hm? Professor?"
 		},
 		{
 			"key":"EP07_S1900_0003",
-			"value":"（教授は【壁画】に向かって\n何か呟いているみたいだ……）"
+			"value":"(The Professor is staring at the mural and\nmuttering something.)"
 		},
 		{
 			"key":"EP07_S1900_0004",
-			"value":"あの……教授？\nすみません、あのー……"
+			"value":"Um...Professor? Hello?"
 		},
 		{
 			"key":"EP07_S1900_0005",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S1900_0006",
-			"value":"（聞こえてない、わけないと思うんだけど……\n【壁画】を調べるのに夢中になってるのか？）"
+			"value":"(He should be able to hear me. I guess he’s\nreally absorbed in examining that mural?)"
 		},
 		{
 			"key":"EP07_S1900_0007",
-			"value":"（邪魔しちゃ悪いかな……）"
+			"value":"(Maybe I shouldn’t bother him.)"
 		}
 	]
 }

@@ -2,743 +2,743 @@
     "scenario_text": [
         {
             "key": "EP04_S0020_0001",
-            "value": "（そろそろみんな、食堂に集まった頃かな……？）"
+            "value": "(Everyone’s probably in the cafeteria by\nnow.)"
         },
         {
             "key": "EP04_S0020_0002",
-            "value": "（僕も食堂に戻ってみることにしよう）"
+            "value": "(I should head back.)"
         },
         {
             "key": "EP04_S0020_0003",
-            "value": "よかった……！\n全員、集まってくれてたんだな……！"
+            "value": "Oh, good. You’re all here!"
         },
         {
             "key": "EP04_S0020_0004",
-            "value": "そりゃあ、タクマが必死で頼みに来るからさ\n無視するわけにもいかないじゃん？"
+            "value": "Well, how could we say no? You seemed so\ndesperate."
         },
         {
             "key": "EP04_S0020_0005",
-            "value": "さっきまで、あれこれと悩んでいたくせにか？"
+            "value": "You’re one to talk. You were a bundle of\nnerves until just now."
         },
         {
             "key": "EP04_S0020_0006",
-            "value": "わー！　それは言わない約束だろ！"
+            "value": "Hey! You promised not to mention that!"
         },
         {
             "key": "EP04_S0020_0007",
-            "value": "（ミノル……さっきまではかなり落ち込んでたけど\n　少しは元気になってくれたんだな）"
+            "value": "(Minoru was pretty upset before. Looks like\nhe’s in better shape now.)"
         },
         {
             "key": "EP04_S0020_0008",
-            "value": "（それに、他のみんなも……）"
+            "value": "(Not to mention the others.)"
         },
         {
             "key": "EP04_S0020_0009",
-            "value": "タクマくん、心配ばかりかけてごめんね？\n私、もう大丈夫だから"
+            "value": "Sorry to make you worry about me all the\ntime, Takuma. I’m feeling better now."
         },
         {
             "key": "EP04_S0020_0010",
-            "value": "ばっちり、復活したんだよね～！"
+            "value": "Yeah, you really bounced back!"
         },
         {
             "key": "EP04_S0020_0011",
-            "value": "そっか……よかった"
+            "value": "Good. I’m glad to hear it."
         },
         {
             "key": "EP04_S0020_0012",
-            "value": "タクマのおかげだなー！"
+            "value": "I’m sure it was because of you, Takuma!"
         },
         {
             "key": "EP04_S0020_0013",
-            "value": "ハルとミユキも、ちゃんと来てくれて\nありがとな"
+            "value": "Haru, Miyuki, thanks for coming too."
         },
         {
             "key": "EP04_S0020_0014",
-            "value": "うん"
+            "value": "Sure."
         },
         {
             "key": "EP04_S0020_0015",
-            "value": "うん……"
+            "value": "Sure..."
         },
         {
             "key": "EP04_S0020_0016",
-            "value": "それで……本題のミウちゃんの\n救出の件だが……"
+            "value": "So, about us going to rescue Miu..."
         },
         {
             "key": "EP04_S0020_0017",
-            "value": "それについては、まずオレから\nひとつ言わせてくれ"
+            "value": "Right, let me just start by saying something."
         },
         {
             "key": "EP04_S0020_0018",
-            "value": "本当は、妹のために\nみんなを巻き込みたくはなかったんだ"
+            "value": "I really didn’t want to get you all involved\nin this, but..."
         },
         {
             "key": "EP04_S0020_0019",
-            "value": "なのに……すまねえ"
+            "value": "...thanks."
         },
         {
             "key": "EP04_S0020_0020",
-            "value": "うわ～マジかよ\nあのカイトが、すまねえだって！"
+            "value": "Whoa! Did you guys hear that? I think Kaito\nactually showed some appreciation just now."
         },
         {
             "key": "EP04_S0020_0021",
-            "value": "ミノル、茶化すな"
+            "value": "Minoru, no need to be sarcastic."
         },
         {
             "key": "EP04_S0020_0022",
-            "value": "そうだよー\nカイトの真剣な気持ちに水をさしたらダメでしょ"
+            "value": "That’s right! Kaito was just being sincere.\nNo need to make fun of him for that."
         },
         {
             "key": "EP04_S0020_0023",
-            "value": "ミノルって、ほーんとお調子者なのね～"
+            "value": "Minoru can’t take anything seriously, can he?"
         },
         {
             "key": "EP04_S0020_0024",
-            "value": "わっかんないかな～\nオレはね、わざと空気を明るくしようとしてるの！"
+            "value": "What? Don’t you get it? I’m just trying to\nlighten the mood!"
         },
         {
             "key": "EP04_S0020_0025",
-            "value": "（そうだよな……\n　ただでさえ本当はみんな不安なんだもんな……）"
+            "value": "(Yeah, and everyone is really upset right\nnow.)"
         },
         {
             "key": "EP04_S0020_0026",
-            "value": "（まあ、ミノルの場合は\n　たまに度が過ぎるのが、アレだけど）"
+            "value": "(Though sometimes Minoru can go too far.)"
         },
         {
             "key": "EP04_S0020_0027",
-            "value": "ねえ、カイトくん\n私たちに申し訳ないと思うことはないわ"
+            "value": "Listen, Kaito, you don’t have any reason to\nfeel like you’re dragging us into this."
         },
         {
             "key": "EP04_S0020_0028",
-            "value": "そうよ！\n私たちみんな、ミウを助けに行くつもりだったもの"
+            "value": "Yeah! We all want to rescue Miu anyway!"
         },
         {
             "key": "EP04_S0020_0029",
-            "value": "むしろ、謝るのは私たちのほうかも……"
+            "value": "If anything, I think we owe you an apology."
         },
         {
             "key": "EP04_S0020_0030",
-            "value": "一刻も早く助けに行きたかったはずなのに\n集まるのが遅くなって、ごめんなさい"
+            "value": "We all knew you were anxious to start looking\nfor Miu. Sorry we took so long."
         },
         {
             "key": "EP04_S0020_0031",
-            "value": "いや……昨日のこともあったからな\n仕方ねーって、わかってるから"
+            "value": "No, it’s cool. After what happened yesterday,\nI get it."
         },
         {
             "key": "EP04_S0020_0032",
-            "value": "そういうわけだから\nみんな、手を貸してくれ"
+            "value": "Anyway, will you help me out?"
         },
         {
             "key": "EP04_S0020_0033",
-            "value": "ああ、もちろんだ！"
+            "value": "You bet!"
         },
         {
             "key": "EP04_S0020_0034",
-            "value": "ちょ、ちょっと待ってくれ！"
+            "value": "Hey, not so fast!"
         },
         {
             "key": "EP04_S0020_0035",
-            "value": "この状況で言うのは申し訳ないが\n本当に行くつもりなのか？"
+            "value": "Look, given the situation, I hate to bring\nthis up, but are you serious about this?"
         },
         {
             "key": "EP04_S0020_0036",
-            "value": "シュウジ……？"
+            "value": "Shuuji?"
         },
         {
             "key": "EP04_S0020_0037",
-            "value": "今の、どういう意味だよ？"
+            "value": "What’s that supposed to mean?"
         },
         {
             "key": "EP04_S0020_0038",
-            "value": "そのままの意味だ"
+            "value": "Exactly what it sounds like."
         },
         {
             "key": "EP04_S0020_0039",
-            "value": "バケモノの敵に、正体不明の霧……\nその危険性は、昨日十分に味わったはずだろう？"
+            "value": "You know how dangerous it is out there!\nRemember the enemy monsters? The strange fog?"
         },
         {
             "key": "EP04_S0020_0040",
-            "value": "昨日はなんとかなったけど\nミウちゃんもそうとは限らないだろう？"
+            "value": "Maybe things worked out for us yesterday, but\nwe don’t know if that’s true for Miu."
         },
         {
             "key": "EP04_S0020_0041",
-            "value": "おいシュウジ、それはねえんじゃねーか？\n兄貴の前で妹が無事じゃないかも、なんてよぉ"
+            "value": "Shuuji, that is so not cool! You’re tellin’\nKaito to his face his sister might be dead?!"
         },
         {
             "key": "EP04_S0020_0042",
-            "value": "い、いや、僕はあくまで\n客観的な意見を言っただけだ……"
+            "value": "Nooo, I’m just trying to look at this\nobjectively..."
         },
         {
             "key": "EP04_S0020_0043",
-            "value": "リョウと同じように\nもしかしたら彼女も、もう……"
+            "value": "What’s to say Miu hasn’t already wound up\nlike Ryo?"
         },
         {
             "key": "EP04_S0020_0044",
-            "value": "何てこと言うの！　シュウジさん！"
+            "value": "Shuuji! How can you even say that?"
         },
         {
             "key": "EP04_S0020_0045",
-            "value": "あ、僕は客観的な意見を言っただけで……"
+            "value": "I... I’m just trying to look at this\nobjectively..."
         },
         {
             "key": "EP04_S0020_0046",
-            "value": "ミウは助からねえってのが\n客観的な意見だって言うのかよ！　てめぇ！"
+            "value": "So you’re saying Miu’s objectively doomed?!\nHow dare you?!"
         },
         {
             "key": "EP04_S0020_0047",
-            "value": "おい、暴力はやめろよ！\nハルとミユキもいるんだぞ？"
+            "value": "Hey! No need for this to get violent! Don’t\nforget we’ve got little kids here."
         },
         {
             "key": "EP04_S0020_0048",
-            "value": "こわい……"
+            "value": "I’m scared..."
         },
         {
             "key": "EP04_S0020_0049",
-            "value": "こわい……"
+            "value": "Scared..."
         },
         {
             "key": "EP04_S0020_0050",
-            "value": "悪い……"
+            "value": "Sorry."
         },
         {
             "key": "EP04_S0020_0051",
-            "value": "けど、そいつの言ってることだけは\n認められねー！"
+            "value": "But what you’re saying is the one thing\nI will not accept!"
         },
         {
             "key": "EP04_S0020_0052",
-            "value": "ぼ、僕は、ここにいるみんなの命に\n責任があるんだ！"
+            "value": "I... I have a responsibility for the lives of\neveryone here!"
         },
         {
             "key": "EP04_S0020_0053",
-            "value": "リーダーとして、慎重な判断を下す必要があるんだ！"
+            "value": "I’m the leader! It’s up to me to weigh the\noptions and make the most prudent decision!"
         },
         {
             "key": "EP04_S0020_0054",
-            "value": "何がリーダーとしてだ！\nんなもん、ただ臆病風吹かせてるだけじゃねーか！"
+            "value": "Don’t give me that! You’re just looking for\nan excuse to cover for your own cowardice!"
         },
         {
             "key": "EP04_S0020_0055",
-            "value": "おいカイト、やめてやれ！"
+            "value": "Kaito, stop! That’s enough!"
         },
         {
             "key": "EP04_S0020_0056",
-            "value": "僕は！　臆病なんかじゃない！"
+            "value": "I am NOT a coward!"
         },
         {
             "key": "EP04_S0020_0057",
-            "value": "君のような無鉄砲な人間にはわからないかもしれないが\n年上には年上としての、責任があるんだ！"
+            "value": "Maybe a hothead like you can’t see it, but as\nthe oldest one here, I have a responsibility!"
         },
         {
             "key": "EP04_S0020_0058",
-            "value": "シュウジも……やめてよ……"
+            "value": "Shuuji, please... You should stop too..."
         },
         {
             "key": "EP04_S0020_0059",
-            "value": "うるさい、お前は黙ってろ！"
+            "value": "Shut up! Not another word from you!"
         },
         {
             "key": "EP04_S0020_0060",
-            "value": "シュウジさん！　ちょっと落ち着いてください！"
+            "value": "Shuuji! Please, try not to get so worked up."
         },
         {
             "key": "EP04_S0020_0061",
-            "value": "カイトだって兄としての責任があるからこそ\n必死なんですよ"
+            "value": "Kaito has his own responsibility. He’s Miu’s\nolder brother. That’s why he’s so desperate."
         },
         {
             "key": "EP04_S0020_0062",
-            "value": "くっ……それは……"
+            "value": "I... I hadn’t thought of that."
         },
         {
             "key": "EP04_S0020_0063",
-            "value": "はっ！　そいつみてーな軟弱なやろーに\nオレの気持ちが……"
+            "value": "Hah! As if a spineless creep like you could\never understand how I feel!"
         },
         {
             "key": "EP04_S0020_0064",
-            "value": "兄貴の責任の大きさってもんが\nわかってたまるかよ！"
+            "value": "You have no idea how much responsibility goes\ninto being a big brother!"
         },
         {
             "key": "EP04_S0020_0065",
-            "value": "僕が無責任だって言いたいのか！！"
+            "value": "So now you’re calling me irresponsible?!"
         },
         {
             "key": "EP04_S0020_0066",
-            "value": "ああもう、これじゃいつまで経っても\n話が進まないじゃない"
+            "value": "Oh, we’re never going to get anywhere if this\nkeeps up."
         },
         {
             "key": "EP04_S0020_0067",
-            "value": "ボクやだよー、みんながケンカするの"
+            "value": "I don’t like it when everybody fights like\nthis."
         },
         {
             "key": "EP04_S0020_0068",
-            "value": "そんなの、僕だって同じだよ"
+            "value": "Yeah, me neither."
         },
         {
             "key": "EP04_S0020_0069",
-            "value": "（早く止めるべきってわかってるけど\n　どうすればいいんだ？）"
+            "value": "(I know I should stop this argument before it\ngoes on much longer, but how?)"
         },
         {
             "key": "EP04_S0020_0070",
-            "value": "（カイトの味方をするか……\n　シュウジさんの意見を尊重するか……）"
+            "value": "(Should I side with Kaito? Respect Shuuji’s\nopinion?)"
         },
         {
             "key": "EP04_S0020_0071",
-            "value": "（それとも、他の人の力を借りるか……）"
+            "value": "(Or try to enlist help from somebody else?)"
         },
         {
             "key": "EP04_S0020_Q1",
-            "value": "（カイトとシュウジさんのケンカを止めるには……）"
+            "value": "(What’s the best way to stop this fight?)"
         },
         {
             "key": "EP04_S0020_Q1_A1",
-            "value": "シュウジさんの意見を尊重だ"
+            "value": "Honor Shuuji’s point."
         },
         {
             "key": "EP04_S0020_Q1_A2",
-            "value": "カイトの味方をしよう"
+            "value": "Side with Kaito."
         },
         {
             "key": "EP04_S0020_Q1_A3",
-            "value": "他の人の力を借りようかな……"
+            "value": "Try to enlist help."
         },
         {
             "key": "EP04_S0020_0072",
-            "value": "シュウジさんの意見を尊重する"
+            "value": "Honor Shuuji’s point."
         },
         {
             "key": "EP04_S0020_0073",
-            "value": "カイト、ここは一度落ち着いて\nシュウジさんの意見も聞いてみようよ"
+            "value": "Kaito, I need you to calm down and just hear\nShuuji out, okay?"
         },
         {
             "key": "EP04_S0020_0074",
-            "value": "タクマまで、何言い出すんだよ！\nミウを諦めろって言うのか！？"
+            "value": "Not you too, Takuma! Are you tellin’ me to\ngive up on Miu?"
         },
         {
             "key": "EP04_S0020_0075",
-            "value": "そういうことなら、俺もタクマを\n許さねーぜ？"
+            "value": "Because if you are, you’re dead to me."
         },
         {
             "key": "EP04_S0020_0076",
-            "value": "そうじゃない！\nでも、シュウジさんの言うことも一理あるだろ！？"
+            "value": "No! All I’m saying is to respect Shuuji’s\nopinion. You can see his point, right?!"
         },
         {
             "key": "EP04_S0020_0077",
-            "value": "一度落ち着いて、対策を考えてから\n捜しに行くって道もあると思っただけだよ"
+            "value": "We just need to calm down and think of a plan\nbefore we start looking. That’s all."
         },
         {
             "key": "EP04_S0020_0078",
-            "value": "僕が言いたかったのは……そういうことだ"
+            "value": "Yes. That’s what I was trying to say."
         },
         {
             "key": "EP04_S0020_0079",
-            "value": "ほら、シュウジさんだって\n助けに行くのを全面的に反対してるわけじゃないから"
+            "value": "You see? It’s not like Shuuji’s dead set\nagainst going to rescue Miu."
         },
         {
             "key": "EP04_S0020_0080",
-            "value": "全面的に肯定しているわけでもないが……"
+            "value": "I’m not exactly all in favor of it either..."
         },
         {
             "key": "EP04_S0020_0081",
-            "value": "（そ、そんなこと言ったら\n　らちが明かないのに……！）"
+            "value": "(No, Shuuji! That’s just the kind of comment\nthat keeps us from getting anywhere!)"
         },
         {
             "key": "EP04_S0020_0082",
-            "value": "カイトの味方をする"
+            "value": "Side with Kaito."
         },
         {
             "key": "EP04_S0020_0083",
-            "value": "シュウジさん、ここはやっぱり\nカイトに手を貸すべきじゃないですか？"
+            "value": "Shuuji, don’t you think we should give Kaito\na hand here?"
         },
         {
             "key": "EP04_S0020_0084",
-            "value": "君は、ここにいる全員が\n再び危険な目に合ってもいいと言うのか？"
+            "value": "So you’re saying you’re fine with risking\neveryone’s lives all over again?"
         },
         {
             "key": "EP04_S0020_0085",
-            "value": "そうじゃないですけど\nこのまま放っておくわけには……それに……"
+            "value": "Of course not, but we can’t just leave Miu\nout there."
         },
         {
             "key": "EP04_S0020_0086",
-            "value": "もし、僕たちが行かない選択をしても\nカイトは１人で行っちゃいますよ？"
+            "value": "Besides, even if we decide not to go, Kaito\nwill take off on his own."
         },
         {
             "key": "EP04_S0020_0087",
-            "value": "そもそも、オレ１人で行くつもりだったからな"
+            "value": "It’s what I was plannin’ from the start."
         },
         {
             "key": "EP04_S0020_0088",
-            "value": "別に、今からだって\n１人で行ったっていいんだ……オレは"
+            "value": "And I’ve got no problem going back to that.\nI’ll find Miu alone if I have to."
         },
         {
             "key": "EP04_S0020_0089",
-            "value": "１人で、はナシだぜ\n何度も言うが、その時は俺も一緒だからな"
+            "value": "Oh, quit saying you’ll do it alone. For the\nhundredth time, I’ll go with you."
         },
         {
             "key": "EP04_S0020_0090",
-            "value": "シュウジさん……\nカイトとドラクモンだけ、行かせるんですか？"
+            "value": "Shuuji, do you really intend to let Kaito and\nDracmon go out there by themselves?"
         },
         {
             "key": "EP04_S0020_0091",
-            "value": "そんなのダメだよー！"
+            "value": "No! That’s not an option either!"
         },
         {
             "key": "EP04_S0020_0092",
-            "value": "シュウジ……"
+            "value": "Shuuji..."
         },
         {
             "key": "EP04_S0020_0093",
-            "value": "くっ……"
+            "value": "Grr..."
         },
         {
             "key": "EP04_S0020_0094",
-            "value": "他の人の力を借りる"
+            "value": "Try to enlist help."
         },
         {
             "key": "EP04_S0020_0095",
-            "value": "み、ミノル！\n何とか言ってくれ……！"
+            "value": "Hey, Minoru! Say something!"
         },
         {
             "key": "EP04_S0020_0096",
-            "value": "ええー！　オレ！？"
+            "value": "What? Me?!"
         },
         {
             "key": "EP04_S0020_0097",
-            "value": "じゃ、じゃあ\nここは民主的に多数決……とか？"
+            "value": "All right, uh, what do you say we take\na vote?"
         },
         {
             "key": "EP04_S0020_0098",
-            "value": "それはどうなの？\n人の命がかかってるのに……"
+            "value": "A vote? I don’t know, people’s lives are on\nthe line, here."
         },
         {
             "key": "EP04_S0020_0099",
-            "value": "じょ……冗談だって！"
+            "value": "Ha... Haha, just kidding!"
         },
         {
             "key": "EP04_S0020_0100",
-            "value": "それはないぞ、ミノル"
+            "value": "Minoru..."
         },
         {
             "key": "EP04_S0020_0101",
-            "value": "そんなこと言われたってよ～"
+            "value": "I mean, I don’t know what to say!"
         },
         {
             "key": "EP04_S0020_0102",
-            "value": "そんじゃあ、捜しに行く組と残る組の\n二手に分かれるとか！"
+            "value": "Anyway, uh, why don’t we split up? Then one\ngroup can search while the other stays here!"
         },
         {
             "key": "EP04_S0020_0103",
-            "value": "それは反対だよ\n行くなら、全員でだ"
+            "value": "I don’t like that. If we’re going to look for\nMiu, we should all go."
         },
         {
             "key": "EP04_S0020_0104",
-            "value": "オレの意見、全否定じゃん……！\nタクマが何とか言えって言ったのに……"
+            "value": "How are you against all my ideas? Why’d you\neven ask for my opinion then, Takuma?"
         },
         {
             "key": "EP04_S0020_0105",
-            "value": "ご、ごめん"
+            "value": "Sorry!"
         },
         {
             "key": "EP04_S0020_0106",
-            "value": "もういい\n手を貸してくれって言ったが、もめるならナシだ"
+            "value": "Forget it. I know I asked for your help, but\nit’s not worth all this trouble."
         },
         {
             "key": "EP04_S0020_0107",
-            "value": "じゃあな、オレは行くぜ"
+            "value": "So long! I’m outta here."
         },
         {
             "key": "EP04_S0020_0108",
-            "value": "か、勝手な真似はよせ！"
+            "value": "Stop going off on your own!"
         },
         {
             "key": "EP04_S0020_0109",
-            "value": "邪魔するな！"
+            "value": "Outta my way!"
         },
         {
             "key": "EP04_S0020_0110",
-            "value": "シュウジさんも、カイトくんも\nいい加減にしてください！！！"
+            "value": "Shuuji! Kaito! Both of you, enough!!!"
         },
         {
             "key": "EP04_S0020_0111",
-            "value": "うおっ……！？"
+            "value": "Wha’?!"
         },
         {
             "key": "EP04_S0020_0112",
-            "value": "あ、アオイ君……！"
+            "value": "Uh...Aoi?"
         },
         {
             "key": "EP04_S0020_0113",
-            "value": "すっげ……！\nあの２人を一気に黙らせた……！"
+            "value": "Wow! She sure shut them up!"
         },
         {
             "key": "EP04_S0020_0114",
-            "value": "なかなかに、勇ましい声だったな"
+            "value": "Yes, that was quite impressive."
         },
         {
             "key": "EP04_S0020_0115",
-            "value": "（アオイさんって\n　あんなにデカい声が出るんだ……）"
+            "value": "(I didn’t realize Aoi could get so loud.)"
         },
         {
             "key": "EP04_S0020_0116",
-            "value": "ここで言い争っていて、何になるんですか？\nこんなの、時間の無駄です！"
+            "value": "What is the point of you two fighting like\nthis? We’re wasting time!"
         },
         {
             "key": "EP04_S0020_0117",
-            "value": "カイトくん、シュウジさんとケンカしても\nミウちゃんは助からない……そうでしょ？"
+            "value": "Kaito, is fighting with Shuuji going to help\nrescue Miu?"
         },
         {
             "key": "EP04_S0020_0118",
-            "value": "そ、それは……"
+            "value": "Well, no, but—"
         },
         {
             "key": "EP04_S0020_0119",
-            "value": "シュウジさん、危険危険って言いますけど\n危ないからってここにこもるつもりですか？"
+            "value": "Shuuji, you keep talking about how dangerous\nit is, but do you never intend to leave?"
         },
         {
             "key": "EP04_S0020_0120",
-            "value": "そ、そんなつもりは……"
+            "value": "I didn’t say that—"
         },
         {
             "key": "EP04_S0020_0121",
-            "value": "ミウちゃんを捜しだすのはもちろんですけど……"
+            "value": "Obviously, we need to find Miu..."
         },
         {
             "key": "EP04_S0020_0122",
-            "value": "元の世界に帰るための方法を見つけるためにも\n行動するべきだと……私は思います……けど……"
+            "value": "But we also need to try and find a way home.\nAt least...that’s what I think."
         },
         {
             "key": "EP04_S0020_0123",
-            "value": "あれー？\nなんか急にアオイの声が小っちゃくなったー？"
+            "value": "Huh? Why’d Aoi get so quiet all of a sudden?"
         },
         {
             "key": "EP04_S0020_0124",
-            "value": "ふふっ……啖呵切ったのはいいけど\n途中で恥ずかしくなったんじゃない？"
+            "value": "Heh, she was really picking up steam there,\nbut then I guess she got self-conscious."
         },
         {
             "key": "EP04_S0020_0125",
-            "value": "アオイ、恥ずかしがることなんてないわよ！\nさっきのアオイ、とってもカッコよかった！"
+            "value": "You’ve got nothing to be ashamed of, Aoi!\nThat was incredible just now!"
         },
         {
             "key": "EP04_S0020_0126",
-            "value": "いえ……あの……ごめんなさい\nわ、私なんかが偉そうに……"
+            "value": "Oh no, um, I’m sorry. I didn’t mean to get so\ncarried away..."
         },
         {
             "key": "EP04_S0020_0127",
-            "value": "いや、アオイ君の言う通りだ\nすまない"
+            "value": "No, Aoi, you were right. I’m sorry."
         },
         {
             "key": "EP04_S0020_0128",
-            "value": "お、オレも……カッとなって悪かった"
+            "value": "Me too. Sorry I kinda lost it."
         },
         {
             "key": "EP04_S0020_0129",
-            "value": "よーし、それじゃあ\nミウを助けに行くっつーのに、まとまったってことで！"
+            "value": "Welp, sounds like we’re all agreed! We’re\ngoing to rescue Miu!"
         },
         {
             "key": "EP04_S0020_0130",
-            "value": "いや……なんでミノルが仕切り出すのよ"
+            "value": "Uh, Minoru? Who gave you the final say?"
         },
         {
             "key": "EP04_S0020_0131",
-            "value": "えー？　なんかそういうノリが\n必要かなーって思ってさ！"
+            "value": "What? Somebody had to say it, right?"
         },
         {
             "key": "EP04_S0020_0132",
-            "value": "で、どこに向かえばいいんだ？"
+            "value": "So, where do we go?"
         },
         {
             "key": "EP04_S0020_0133",
-            "value": "確か、昨日……\n遊園地に捜しに行くって、言ってたよな？"
+            "value": "I think yesterday we decided to check the\namusement park."
         },
         {
             "key": "EP04_S0020_0134",
-            "value": "ああ、昨日会ったテントモンってやつの話によれば\nミウはアルケニモンから逃げた後……"
+            "value": "Right, according to that Tentomon guy, after\nMiu got away from Arukenimon..."
         },
         {
             "key": "EP04_S0020_0135",
-            "value": "遊園地のほうへ行ったみてーだ"
+            "value": "...that’s where she was headed."
         },
         {
             "key": "EP04_S0020_0136",
-            "value": "テントモンがキラキラしたとこって\n言ってたやつだよな？"
+            "value": "Tentomon was the one who said it was the\nshiny place, right?"
         },
         {
             "key": "EP04_S0020_0137",
-            "value": "キラキラしたところ～？\n何だか素敵そう！"
+            "value": "The shiny place? It sounds lovely!"
         },
         {
             "key": "EP04_S0020_0138",
-            "value": "向かったのは\n本当に遊園地で間違いないのか？"
+            "value": "But are we sure that’s where she went?"
         },
         {
             "key": "EP04_S0020_0139",
-            "value": "ほぼ、間違いねーよ"
+            "value": "Not a doubt in my mind."
         },
         {
             "key": "EP04_S0020_0140",
-            "value": "あいつは昔から遊園地が好きだったからな"
+            "value": "She’s always loved amusement parks."
         },
         {
             "key": "EP04_S0020_0141",
-            "value": "それが突然、見下ろしたところにできてるなら\n行かないわけがないってことか"
+            "value": "So if she suddenly realized one was here,\nshe’d head straight for it."
         },
         {
             "key": "EP04_S0020_0142",
-            "value": "キラキラの、大きな輪があって\nすごかったもんな"
+            "value": "And there was that giant ring in the shiny\nplace. It looked really cool!"
         },
         {
             "key": "EP04_S0020_0143",
-            "value": "子供ってのは、みんな漏れなく\n遊園地が好きって相場が決まってるしな"
+            "value": "Besides, everybody knows kids are crazy about\namusement parks."
         },
         {
             "key": "EP04_S0020_0144",
-            "value": "ミユキとハルだって好きだろ？\n遊園地～♪"
+            "value": "I bet you both like them too, right Haru?\nMiyuki?"
         },
         {
             "key": "EP04_S0020_0145",
-            "value": "ぼく……わかんない"
+            "value": "I...dunno."
         },
         {
             "key": "EP04_S0020_0146",
-            "value": "わかんない……"
+            "value": "Dunno..."
         },
         {
             "key": "EP04_S0020_0147",
-            "value": "ええー！？　嘘だろー！？"
+            "value": "What?! You’ve gotta be kidding me!"
         },
         {
             "key": "EP04_S0020_0148",
-            "value": "（わかんないって\n　遊園地に行ったことないのかな……？）"
+            "value": "(They...don’t know? Does that mean they’ve\nnever been to an amusement park?)"
         },
         {
             "key": "EP04_S0020_0149",
-            "value": "遊園地にいる可能性が高いことはわかった\nなら、すぐにでも出発しよう"
+            "value": "Well, it sounds like she’s probably at the\namusement park. We’d better get going."
         },
         {
             "key": "EP04_S0020_0150",
-            "value": "じゃあみんな……\n行ってらっしゃい"
+            "value": "Bye everyone... Good luck."
         },
         {
             "key": "EP04_S0020_0151",
-            "value": "いやいやいや、\n君たちも一緒に来るんだよ！"
+            "value": "Oh, no. I don’t think so. You’re both coming\nwith us."
         },
         {
             "key": "EP04_S0020_0152",
-            "value": "また？\n……どうして"
+            "value": "Again? Why?"
         },
         {
             "key": "EP04_S0020_0153",
-            "value": "子供をさらうモンスターがいるとわかっている今\n君たちだけ残して行くわけにはいかないからな！"
+            "value": "Because we can’t just leave you on your own\nknowing there are monsters kidnapping children!"
         },
         {
             "key": "EP04_S0020_0154",
-            "value": "そうだろう？　みんな！"
+            "value": "Isn’t that right, everyone?"
         },
         {
             "key": "EP04_S0020_0155",
-            "value": "意義なーし！"
+            "value": "Yeah, no objections from me!"
         },
         {
             "key": "EP04_S0020_0156",
-            "value": "だな！"
+            "value": "Me either!"
         },
         {
             "key": "EP04_S0020_0157",
-            "value": "そう……わかった"
+            "value": "Oh... Okay."
         },
         {
             "key": "EP04_S0020_0158",
-            "value": "……そう"
+            "value": "Okay..."
         },
         {
             "key": "EP04_S0020_0159",
-            "value": "ところで、遊園地への行き方ってわかるかしら"
+            "value": "But, do we know the way to the amusement\npark?"
         },
         {
             "key": "EP04_S0020_0160",
-            "value": "昨日、電波塔の上から確認したから\n問題ねえ"
+            "value": "We saw it from the radio tower yesterday.\nFinding it won’t be a problem."
         },
         {
             "key": "EP04_S0020_0161",
-            "value": "方角的には、いつもの森から\n遊園地に向かう道がどっかにあるはずだと思うぜ"
+            "value": "I’m pretty sure there’s a path through the\nforest that leads in that direction."
         },
         {
             "key": "EP04_S0020_0162",
-            "value": "よし……<color=#B41919>森の中</color>を通ればいいんだな\n僕が先頭を歩くから、みんなしっかりついてきてくれ"
+            "value": "Right. So we just gotta get through the\n<color=#B41919>forest</color>. I’ll take point. You guys stay close."
         },
         {
             "key": "EP04_S0020_0163",
-            "value": "ボク、シュウジの前を守るね……"
+            "value": "I’ll stay in front of you to protect you,\nShuuji."
         },
         {
             "key": "EP04_S0020_0164",
-            "value": "お前は余計なことをするな\n足を引っ張らないようにだけ、ついてくればいい"
+            "value": "Did I ask you to do that? No, you just tag\nalong and try not to slow us down."
         },
         {
             "key": "EP04_S0020_0165",
-            "value": "わかった……ごめん"
+            "value": "Okay. Sorry."
         },
         {
             "key": "EP04_S0020_0166",
-            "value": "……ふぅ"
+            "value": "*sigh*"
         },
         {
             "key": "EP04_S0020_0167",
-            "value": "（何でため息なんてついてるんだ？\n　この子……）"
+            "value": "(What’s he sighing about?)"
         },
         {
             "key": "EP04_S0020_0168",
-            "value": "（そういえば、昨日もちょっと変だったよな……）"
+            "value": "(Actually, that reminds me. He was acting\nkind of weird yesterday.)"
         },
         {
             "key": "EP04_S0020_0169",
-            "value": "なあ……ハル"
+            "value": "Hey, Haru?"
         },
         {
             "key": "EP04_S0020_0170",
-            "value": "……なあに？"
+            "value": "What?"
         },
         {
             "key": "EP04_S0020_0171",
-            "value": "昨日のは……その、\n一体何だったの？"
+            "value": "About yesterday, uh... What happened exactly?"
         },
         {
             "key": "EP04_S0020_0172",
-            "value": "（そう、ミユキは相変わらずとしても\n　ハルは、時折おかしな様子を見せる）"
+            "value": "(Miyuki’s always kind of strange, but\nsometimes Haru just seems...off.)"
         },
         {
             "key": "EP04_S0020_0173",
-            "value": "（急に大人びた事を言ったり、\n　何かを見透かしたようだったり……）"
+            "value": "(Like he’ll suddenly say something mature, or\nact like he’s seen through things.)"
         },
         {
             "key": "EP04_S0020_0174",
-            "value": "……ゴメンなさい、\nぼくにもよくわかんない"
+            "value": "I’m not really sure. Sorry."
         },
         {
             "key": "EP04_S0020_0175",
-            "value": "そうか\nゴメンな"
+            "value": "Okay. Sorry if I bothered you."
         },
         {
             "key": "EP04_S0020_0176",
-            "value": "（本人にも自覚がないのかな）"
+            "value": "(Is he not aware of it himself?)"
         },
         {
             "key": "EP04_S0020_0177",
-            "value": "おおーい、タクマー！　ハルー！　ミユキー！\n早くしないと、置いてっちゃうぞー"
+            "value": "Hey, Takuma, Haru, Miyuki! Hurry up or you’ll\nget left behind!"
         },
         {
             "key": "EP04_S0020_0178",
-            "value": "あっ、ま、待って……！"
+            "value": "Oh, yeah, wait up!"
         },
         {
             "key": "EP04_S0020_0179",
-            "value": "２人とも、急ごう"
+            "value": "Come on, you two. We need to hurry."
         },
         {
             "key": "EP04_S0020_0180",
-            "value": "お姉ちゃん、行こう"
+            "value": "Miyuki, let’s go."
         },
         {
             "key": "EP04_S0020_0181",
-            "value": "ん……"
+            "value": "Go..."
         }
     ]
 }

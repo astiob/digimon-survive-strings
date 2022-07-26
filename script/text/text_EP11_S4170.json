@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4170_0001",
-			"value":"あ、タクマ……"
+			"value":"Uh, Takuma..."
 		},
 		{
 			"key":"EP11_S4170_0002",
-			"value":"山の方……霧が出てるね"
+			"value":"The mountains... The fog is thickening around\nthem."
 		},
 		{
 			"key":"EP11_S4170_0003",
-			"value":"うん、山はすっかり\nあの怖い霧で覆われちゃってるみたい"
+			"value":"Yeah, looks like they’re completely covered\nin that scary fog."
 		},
 		{
 			"key":"EP11_S4170_0004",
-			"value":"これじゃ山には行けないぞ"
+			"value":"There’s no way we’re going to the mountains\nnow."
 		},
 		{
 			"key":"EP11_S4170_0005",
-			"value":"そうなのよ\n困っちゃった"
+			"value":"That’s for sure. So now what?"
 		},
 		{
 			"key":"EP11_S4170_0006",
-			"value":"まあ、考えようによっては捜す範囲が\n狭くなったと思えるけどね"
+			"value":"I guess you could say there are fewer places\nfor us to search, at least."
 		},
 		{
 			"key":"EP11_S4170_0007",
-			"value":"だって、霧の方は\n探索しないで……いい……あれ？"
+			"value":"Like, we don’t need to search any areas with\nfog...right? Huh?"
 		},
 		{
 			"key":"EP11_S4170_0008",
-			"value":"み、みんな！\n霧の方から敵が来る！"
+			"value":"Everyone! Enemies are coming out of the fog!"
 		},
 		{
 			"key":"EP11_S4170_0009",
-			"value":"サキッ、下がって！"
+			"value":"Saki, get down!"
 		},
 		{
 			"key":"EP11_S4170_0010",
-			"value":"みんなに手出しはさせないぞ！"
+			"value":"I won’t let them get near anyone!"
 		}
 	]
 }

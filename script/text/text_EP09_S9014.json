@@ -2,99 +2,99 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S9014_0001",
-			"value":"（なんとか勝てたけど……\n　まだ生きている敵もいる）"
+			"value":"(We won somehow...but there are still some\nenemies left.)"
 		},
 		{
 			"key":"EP09_S9014_0002",
-			"value":"（あいつらも倒さなきゃ……ん？）"
+			"value":"(We have to beat them—huh?)"
 		},
 		{
 			"key":"EP09_S9014_0003",
-			"value":"（何だろう……？　床が光ってる？\n　何かが起きようとしている……？）"
+			"value":"(What the— The floor's shining? Something’s\nhappening, here...)"
 		},
 		{
 			"key":"EP09_S9014_0004",
-			"value":"まるで魔法陣のような絵が浮かんでる……\nこれって一体……！"
+			"value":"Something like a magic circle’s floating\nup... What the heck is this?!"
 		},
 		{
 			"key":"EP09_S9014_0005",
-			"value":"あの量の眷属を、一撃で……"
+			"value":"All of those Kenzoku were taken out by\na single attack."
 		},
 		{
 			"key":"EP09_S9014_0006",
-			"value":"つよ……"
+			"value":"What power..."
 		},
 		{
 			"key":"EP09_S9014_0007",
-			"value":"我の眠りを妨げる者め……\nおや、ニンゲンのコドモもいるのか"
+			"value":"Who dares disturb my slumber...?\nOh, I see you have human children with you."
 		},
 		{
 			"key":"EP09_S9014_0008",
-			"value":"あ、あなたは……？"
+			"value":"Who...who are you?"
 		},
 		{
 			"key":"EP09_S9014_0009",
-			"value":"珍しいな……こんな場所にやってくるとは\n５０年振りのニンゲン……いや、数百年振りか"
+			"value":"Curious... How many years has it been since a\nhuman came here? Fifty years...no, hundreds?"
 		},
 		{
 			"key":"EP09_S9014_0010",
-			"value":"では、どれ……屠るとするか！"
+			"value":"Now, then... Shall I slaughter you all?!"
 		},
 		{
 			"key":"EP09_S9014_0011",
-			"value":"え、ちょ、ちょっと！　待ってください！"
+			"value":"Whoa whoa whoa, wait a minute!"
 		},
 		{
 			"key":"EP09_S9014_Q1",
-			"value":"（どう対応すればいい！？）"
+			"value":"(How do I handle this?!)"
 		},
 		{
 			"key":"EP09_S9014_Q1_A1",
-			"value":"敵じゃありません！"
+			"value":"We’re not your enemy!"
 		},
 		{
 			"key":"EP09_S9014_Q1_A2",
-			"value":"コイツらとは違うんです！"
+			"value":"We’re not with them!"
 		},
 		{
 			"key":"EP09_S9014_Q1_A3",
-			"value":"ただ追われてただけなんです！"
+			"value":"We were being chased!"
 		},
 		{
 			"key":"EP09_S9014_0012",
-			"value":"敵じゃありません！"
+			"value":"Not your enemy!"
 		},
 		{
 			"key":"EP09_S9014_0013",
-			"value":"敵じゃありません！"
+			"value":"Wait, we're not your enemy!"
 		},
 		{
 			"key":"EP09_S9014_0014",
-			"value":"話聞いてねえ！　うわわっ、来たぁっ！"
+			"value":"It ain’t listening! Waaah, here it comes!"
 		},
 		{
 			"key":"EP09_S9014_0015",
-			"value":"コイツらとは違うんです！"
+			"value":"Not with them!"
 		},
 		{
 			"key":"EP09_S9014_0016",
-			"value":"コイツらとは違うんです！"
+			"value":"Wait, we're not with them!"
 		},
 		{
 			"key":"EP09_S9014_0017",
-			"value":"話してる場合か！　来るぞ！"
+			"value":"You tryin’ to have a chit-chat NOW?! Here it\ncomes!"
 		},
 		{
 			"key":"EP09_S9014_0018",
-			"value":"ただ追われてただけで！"
+			"value":"Just being chased!"
 		},
 		{
 			"key":"EP09_S9014_0019",
-			"value":"ただ追われてただけで！"
+			"value":"We were being chased and just ended up here!"
 		},
 		{
 			"key":"EP09_S9014_0020",
-			"value":"わっ、待って待って！　ひゃぁぁっ！"
+			"value":"Waaah, wait, hold on a sec! Yeeek!"
 		}
 	]
 }

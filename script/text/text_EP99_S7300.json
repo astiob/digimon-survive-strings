@@ -2,163 +2,163 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S7300_0001",
-			"value":"あ、タクマ\nちょうどいいタイミング！"
+			"value":"Hey, Takuma! Perfect timing."
 		},
 		{
 			"key":"EP99_S7300_0002",
-			"value":"ん？　僕に用事でもあったの？"
+			"value":"Oh? Did you need my help with something?"
 		},
 		{
 			"key":"EP99_S7300_0003",
-			"value":"まあね……へへへ\n実はさ、ちょっと相談があるんだけど……"
+			"value":"Yeah, you guessed it. Heheh. Actually, I was\nhoping I could get your advice."
 		},
 		{
 			"key":"EP99_S7300_0004",
-			"value":"アオイ……の事なんだけど"
+			"value":"It’s about Aoi..."
 		},
 		{
 			"key":"EP99_S7300_0005",
-			"value":"アオイ？　彼女がどうしたの？"
+			"value":"Oh? What about her?"
 		},
 		{
 			"key":"EP99_S7300_0006",
-			"value":"アオイってさ……\nなんか苦手なんだよね"
+			"value":"I just...I’m not sure how to deal with her."
 		},
 		{
 			"key":"EP99_S7300_0007",
-			"value":"ほら、アオイってさ\nいつも言いたい事をガマンしている感じでしょ？"
+			"value":"You know how it always seems like there’s\nsomething she wants to say, only she doesn’t?"
 		},
 		{
 			"key":"EP99_S7300_0008",
-			"value":"だったら言えばいいのにって思うと\nちょっとストレスが溜まるっていうか……"
+			"value":"Well, that stresses me out. I wish she’d just\ncome right out and say it."
 		},
 		{
 			"key":"EP99_S7300_0009",
-			"value":"だったらそう言えばいいのに"
+			"value":"Sounds like you should come right out and say\nthat."
 		},
 		{
 			"key":"EP99_S7300_0010",
-			"value":"いやそうなんだけど\nでも、言えばカドが立たない？"
+			"value":"I mean, yeah, I know, but...don’t you think\nthat will make her upset?"
 		},
 		{
 			"key":"EP99_S7300_0011",
-			"value":"う～ん、それはそうだけど……"
+			"value":"Well...probably."
 		},
 		{
 			"key":"EP99_S7300_0012",
-			"value":"だからこうしてタクマに相談してるんだけど\nねえ、どうしたらいいと思う？"
+			"value":"That’s why I wanted to talk to you. What do\nyou think I should do about this?"
 		},
 		{
 			"key":"EP99_S7300_0013",
-			"value":"（う～ん……\nどう返事をするのがベストなのか……）"
+			"value":"(Let me see... What’s the best way I can\nanswer this question?)"
 		},
 		{
 			"key":"EP99_S7300_0014",
-			"value":"（サキが苦手だと思うなら\n距離を置けばいい）"
+			"value":"(If Saki really has a problem with Aoi, she\ncan always just keep her distance.)"
 		},
 		{
 			"key":"EP99_S7300_0015",
-			"value":"（でもわざわざ僕に相談するということは……）"
+			"value":"(Instead, she’s asking me for advice. What\ncould that mean?)"
 		},
 		{
 			"key":"EP99_S7300_Q1",
-			"value":"サキへの返答は……"
+			"value":"How should I respond to Saki?"
 		},
 		{
 			"key":"EP99_S7300_Q1_A1",
-			"value":"アオイと仲良くしたいの？"
+			"value":"You want to get along?"
 		},
 		{
 			"key":"EP99_S7300_Q1_A2",
-			"value":"まさか果たし合いを！？"
+			"value":"You want fight it out?"
 		},
 		{
 			"key":"EP99_S7300_Q1_A3",
-			"value":"もしかして僕が好きなの？"
+			"value":"You’ve fallen for me?"
 		},
 		{
 			"key":"EP99_S7300_0016",
-			"value":"サキはアオイと仲良くしたいの？"
+			"value":"You want to find a way to get along better\nwith Aoi?"
 		},
 		{
 			"key":"EP99_S7300_0017",
-			"value":"……正直、わかんない"
+			"value":"To be honest, I don’t know."
 		},
 		{
 			"key":"EP99_S7300_0018",
-			"value":"確かにアオイは苦手\nでも嫌いじゃない……かも"
+			"value":"I mean, we may not really see eye-to-eye,\nbut...it’s not like I hate her."
 		},
 		{
 			"key":"EP99_S7300_0019",
-			"value":"だからこうして\n相談しているんだけど……"
+			"value":"That’s why I’m asking your advice."
 		},
 		{
 			"key":"EP99_S7300_0020",
-			"value":"（うーん、迷っている様子だな\nでも嫌いじゃない……とも言っている）"
+			"value":"(Hmm, she doesn’t seem too sure about this,\nbut at least she says she doesn’t hate Aoi.)"
 		},
 		{
 			"key":"EP99_S7300_0021",
-			"value":"……アオイは私の事を\nどう思っているのかな……"
+			"value":"I wonder what Aoi thinks of me..."
 		},
 		{
 			"key":"EP99_S7300_0022",
-			"value":"まさか果し合いを考えているの？"
+			"value":"You’re not looking for some way to fight all\nthis out, are you?"
 		},
 		{
 			"key":"EP99_S7300_0023",
-			"value":"ほら、白黒はっきり付けたいとか"
+			"value":"You know, settle things once and for all?"
 		},
 		{
 			"key":"EP99_S7300_0024",
-			"value":"……タクマ\n私がマジでそんな事を考えていると思う？"
+			"value":"...Takuma, do you seriously think that’s what\nI’m planning?"
 		},
 		{
 			"key":"EP99_S7300_0025",
-			"value":"いや、別にそういうわけじゃ……"
+			"value":"Well, no, not exactly..."
 		},
 		{
 			"key":"EP99_S7300_0026",
-			"value":"頭……マジで大丈夫？"
+			"value":"Because maybe you need to get your head\nexamined."
 		},
 		{
 			"key":"EP99_S7300_0027",
-			"value":"（うーん、どうやら\n激しく嫌っているわけではなさそうだ）"
+			"value":"(Well, at least that’s proof she doesn’t have\nit out for Aoi that badly.)"
 		},
 		{
 			"key":"EP99_S7300_0028",
-			"value":"もしかしてさ\nサキは僕のことが好きなの？"
+			"value":"Saki...are you in love with me or something?"
 		},
 		{
 			"key":"EP99_S7300_0029",
-			"value":"え？　どうしてそういう話になるの？\n意味わかんない"
+			"value":"What? What gave you that idea? Like, why\nwould you even think to ask that?"
 		},
 		{
 			"key":"EP99_S7300_0030",
-			"value":"あ、いや！　そうじゃなくって！\nだから……"
+			"value":"Oh, no! I mean, I just thought, uh..."
 		},
 		{
 			"key":"EP99_S7300_0031",
-			"value":"だってわざわざ僕に相談するって\n事は僕が気になるって事で……"
+			"value":"I figured since you wanted to talk to me\nabout this, maybe you had feelings for me..."
 		},
 		{
 			"key":"EP99_S7300_0032",
-			"value":"タクマ、話がぶっ飛びすぎ"
+			"value":"Takuma, that is one hell of a leap."
 		},
 		{
 			"key":"EP99_S7300_0033",
-			"value":"え、ちがうの！？"
+			"value":"You mean...it’s not like that?!"
 		},
 		{
 			"key":"EP99_S7300_0034",
-			"value":"全然違うよ！！"
+			"value":"It’s not like that at all!"
 		},
 		{
 			"key":"EP99_S7300_0035",
-			"value":"はあ、とにかく……"
+			"value":"*sigh* Anyway..."
 		},
 		{
 			"key":"EP99_S7300_0036",
-			"value":"なんかいい方法ないかな……"
+			"value":"I wonder if there’s a good way for Aoi and me\nto get along."
 		}
 	]
 }

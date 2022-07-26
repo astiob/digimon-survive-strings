@@ -2,159 +2,159 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S4600_0001",
-			"value":"お、タクマか。ここはだめだ\n大したものなんてない"
+			"value":"Oh, hey, Takuma. This isn’t the spot. There’s\nnothing here."
 		},
 		{
 			"key":"EP99_S4600_0002",
-			"value":"オレって運がねぇなあ……\nこのまま元の世界に帰れなかったりして"
+			"value":"I sure have the worst luck, don’t I? Watch me\nbe the only one who doesn’t make it back."
 		},
 		{
 			"key":"EP99_S4600_0003",
-			"value":"おいおい、縁起でもないことを\n言わないでくれよ"
+			"value":"Hey, don’t say that."
 		},
 		{
 			"key":"EP99_S4600_0004",
-			"value":"そうだ、タクマ\n元の世界はどうだった？"
+			"value":"By the way, Takuma, what were things like\nwhen you went back?"
 		},
 		{
 			"key":"EP99_S4600_0005",
-			"value":"どうだった……って？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP99_S4600_0006",
-			"value":"ほら、オレ達の事を\n少しは心配してただろ？"
+			"value":"Well, people must have been worried about us,\nright?"
 		},
 		{
 			"key":"EP99_S4600_0007",
-			"value":"（時間の流れが違うから\n他の人は僕らに気づかれてもいなかった）"
+			"value":"(Actually, because the flow of time is so\ndifferent, nobody had even really noticed.)"
 		},
 		{
 			"key":"EP99_S4600_0008",
-			"value":"（でも正直に言ってがっかりさせる\nのもアレだし……どう返事しよう？）"
+			"value":"(But if I say that, Minoru might get\ndepressed. What should I say?)"
 		},
 		{
 			"key":"EP99_S4600_Q1",
-			"value":"タクマの事を……"
+			"value":"About that..."
 		},
 		{
 			"key":"EP99_S4600_Q1_A1",
-			"value":"少しだけ"
+			"value":"They were worried."
 		},
 		{
 			"key":"EP99_S4600_Q1_A2",
-			"value":"実は……"
+			"value":"Actually..."
 		},
 		{
 			"key":"EP99_S4600_Q1_A3",
-			"value":"心配している女子がいた"
+			"value":"One girl missed you."
 		},
 		{
 			"key":"EP99_S4600_0009",
-			"value":"まあ……な。行方不明に気づかれた\nばかりだったから、少しだけ……ど"
+			"value":"Uh...yeah. They’d only just found out we were\nmissing, but they were kinda worried."
 		},
 		{
 			"key":"EP99_S4600_0010",
-			"value":"そっか、そうだよな……\nはやく戻らないと"
+			"value":"Yeah, I figured. We need to get back soon."
 		},
 		{
 			"key":"EP99_S4600_0011",
-			"value":"そうだ。オレさ、あれから少しは\n役に立つようになったんだぜ？"
+			"value":"Oh, and by the way, I’ve started to really\npull my own weight around here."
 		},
 		{
 			"key":"EP99_S4600_0012",
-			"value":"だからオマエのピンチは\n任せろよな！"
+			"value":"So if you’re ever in trouble, you can count\non me!"
 		},
 		{
 			"key":"EP99_S4600_0013",
-			"value":"（誰も気づいていないなんて\n言えなかった……）"
+			"value":"(I couldn’t just tell him nobody had even\nnoticed.)"
 		},
 		{
 			"key":"EP99_S4600_0014",
-			"value":"（不安にさせないためとはいえ……\n……少し心苦しいな）"
+			"value":"(Still, even if it was to reassure him,\nI don’t like lying to Minoru. It hurts.)"
 		},
 		{
 			"key":"EP99_S4600_0015",
-			"value":"実は……ミノル……"
+			"value":"Actually, Minoru..."
 		},
 		{
 			"key":"EP99_S4600_0016",
-			"value":"（……とは言いかけたものの\nどう言っていいか悩むなぁ）"
+			"value":"(...It’s no use. I don’t know how to finish\nthat sentence.)"
 		},
 		{
 			"key":"EP99_S4600_0017",
-			"value":"あ、タクマ！\nごめん、やっぱいいわ"
+			"value":"You know what, Takuma? Forget it."
 		},
 		{
 			"key":"EP99_S4600_0018",
-			"value":"そんな事を聞いたって\nオレの目的は変わらない、だろ？"
+			"value":"It’s not like you telling me will change what\nwe need to do, right?"
 		},
 		{
 			"key":"EP99_S4600_0019",
-			"value":"元の世界に必ず戻る\nもちろん皆で、力を合わせて――だもんな！"
+			"value":"We’re going back, no matter what. All of us\ntogether, right?!"
 		},
 		{
 			"key":"EP99_S4600_0020",
-			"value":"ミノルの事を心配している\n女の子がいたよ"
+			"value":"There was this one girl who was worried about\nyou, Minoru. She really seemed to miss you."
 		},
 		{
 			"key":"EP99_S4600_0021",
-			"value":"（ま、最初はこんな冗談くらい\n言っておくか）"
+			"value":"(I mean, I might as well start things off\nwith a joke.)"
 		},
 		{
 			"key":"EP99_S4600_0022",
-			"value":"うそ！？　誰、誰だよ！\nオレが知ってる子！？"
+			"value":"Seriously?! Who was it? Was it someone\nI know?!"
 		},
 		{
 			"key":"EP99_S4600_0023",
-			"value":"あ、いや……その……"
+			"value":"Oh, uh... actually..."
 		},
 		{
 			"key":"EP99_S4600_0024",
-			"value":"もったいぶらずに教えてくれよ！"
+			"value":"Come on, out with it already!"
 		},
 		{
 			"key":"EP99_S4600_0025",
-			"value":"（しまった……まさかミノルの食いつきが\nこんなに激しいなんて……！）"
+			"value":"(Oh no... I didn’t realize Minoru would be\nthat into the idea.)"
 		},
 		{
 			"key":"EP99_S4600_0026",
-			"value":"あ、えっと、その子は……\nいや、やめた。これ以上は言えないよ"
+			"value":"Well, she’s... No, never mind. I shouldn’t\nsay any more."
 		},
 		{
 			"key":"EP99_S4600_0027",
-			"value":"なんでだよ！！"
+			"value":"Why not?!"
 		},
 		{
 			"key":"EP99_S4600_0028",
-			"value":"その子に言われたんだ\n恥ずかしいからミノルにナイショにしてくれって"
+			"value":"Because I promised her I wouldn’t tell you.\nShe was kind of embarrassed."
 		},
 		{
 			"key":"EP99_S4600_0029",
-			"value":"そっか……\nなんて奥ゆかしい子なんだ……！"
+			"value":"Oh, I get it. So she’s really modest..."
 		},
 		{
 			"key":"EP99_S4600_0030",
-			"value":"でも、元の世界に戻れたら\nチャンスがあるはずだ"
+			"value":"But hey, if we make it back to our world,\nI think you’ve got a shot!"
 		},
 		{
 			"key":"EP99_S4600_0031",
-			"value":"だから絶対に頑張ろうな、ミノル"
+			"value":"So let’s make that happen, Minoru!"
 		},
 		{
 			"key":"EP99_S4600_0032",
-			"value":"もちろんだぜ！\nよーし、オレはやってやるかんな！"
+			"value":"You said it! I am going to do this!"
 		},
 		{
 			"key":"EP99_S4600_0033",
-			"value":"（ごめんよ、ミノル……！）"
+			"value":"(I’m so sorry, Minoru...)"
 		},
 		{
 			"key":"EP99_S4600_0034",
-			"value":"なあタクマ\nオレ達は絶対に戻ろうな"
+			"value":"Hey, Takuma. Seriously, let’s make it back."
 		},
 		{
 			"key":"EP99_S4600_0035",
-			"value":"オレとオマエがいれば大丈夫\n成功できる！　な！！"
+			"value":"After all, between the two of us, it’s\npractically a guarantee! Right?!"
 		}
 	]
 }

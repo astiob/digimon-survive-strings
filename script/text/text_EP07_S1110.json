@@ -2,175 +2,175 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1110_0001",
-			"value":"おお、タクマか"
+			"value":"Oh, Takuma. Hi."
 		},
 		{
 			"key":"EP07_S1110_0002",
-			"value":"お前、まさか油売ってるんじゃねーだろうな\n出発の準備はできたのか？"
+			"value":"Don’t tell me you’re lazing around?\nAre you ready to leave?"
 		},
 		{
 			"key":"EP07_S1110_0003",
-			"value":"あ……ごめん、まだだ"
+			"value":"Oops! Not yet."
 		},
 		{
 			"key":"EP07_S1110_0004",
-			"value":"なんだ、散歩か～？\n余裕じゃねーか"
+			"value":"So you’re just out on a walk? Must be nice to\nhave all that spare time."
 		},
 		{
 			"key":"EP07_S1110_0005",
-			"value":"ったく、この大事な時に遊んでんじゃねーよ\n浮ついてんのか？"
+			"value":"Why are you fooling around NOW?\nCan’t you take this seriously?"
 		},
 		{
 			"key":"EP07_S1110_0006",
-			"value":"うろうろしてるひまがあったら\nさっさと準備を整えておけ"
+			"value":"If you’ve got time to wander around, you\nshould finish getting ready."
 		},
 		{
 			"key":"EP07_S1110_0007",
-			"value":"（うう……怒られてしまった）"
+			"value":"(Oof. Totally got yelled at.)"
 		},
 		{
 			"key":"EP07_S1110_0008",
-			"value":"（みんなの様子が見たくて\n　ついうろうろ歩き回っちゃったけど）"
+			"value":"(I want to see how everyone is doing.\nBut you have to walk around to do that.)"
 		},
 		{
 			"key":"EP07_S1110_0009",
-			"value":"（もしかして僕こそ緊張してるから\n　みんなの顔が見たいだけなのかな）"
+			"value":"(Maybe I’m just nervous. Seeing their faces\nis reassuring...)"
 		},
 		{
 			"key":"EP07_S1110_0010",
-			"value":"（二人に相談したら気が楽になるかな？\n　でも、甘えたこと言ってまた怒られたらイヤだなぁ）"
+			"value":"(Will I feel better if I talk to them? I hope\nI’m not leaning on them too much.)"
 		},
 		{
 			"key":"EP07_S1110_Q1",
-			"value":"（二人になんて言おう……？）"
+			"value":"(Should I talk to them?)"
 		},
 		{
 			"key":"EP07_S1110_Q1_A1",
-			"value":"実は緊張してて"
+			"value":"I’m actually nervous."
 		},
 		{
 			"key":"EP07_S1110_Q1_A2",
-			"value":"みんなの様子が気になって"
+			"value":"How’s everyone doing?"
 		},
 		{
 			"key":"EP07_S1110_Q1_A3",
-			"value":"ぶらぶらしたかったんだ"
+			"value":"Just looking around."
 		},
 		{
 			"key":"EP07_S1110_0011",
-			"value":"実は緊張してて"
+			"value":"I’m actually nervous."
 		},
 		{
 			"key":"EP07_S1110_0012",
-			"value":"実は決戦を前に緊張してるみたいでさ\nついうろうろしちゃったんだ"
+			"value":"I must be nervous before the fighting.\nI just started walking around."
 		},
 		{
 			"key":"EP07_S1110_0013",
-			"value":"そうなのか\nお前でも緊張とかするんだな"
+			"value":"Really? You get nervous too?"
 		},
 		{
 			"key":"EP07_S1110_0014",
-			"value":"そんな言い方はないだろう……\nタクマだってニンゲンのコドモなんだ"
+			"value":"Do not judge him so harshly.\nTakuma is a human child too, after all."
 		},
 		{
 			"key":"EP07_S1110_0015",
-			"value":"リラックス、リラーックス\n決戦つったって今までと大して変わんねーよ"
+			"value":"Just relax.\nThis battle’s not that big a deal."
 		},
 		{
 			"key":"EP07_S1110_0016",
-			"value":"目的地に向かって歩いて、敵が出てきたら倒す\n簡単だろ？"
+			"value":"We walk to the base, and if the enemy comes\nat us, we defeat them. Simple, right?"
 		},
 		{
 			"key":"EP07_S1110_0017",
-			"value":"準備運動でもして、肩の力を抜いとけ"
+			"value":"Do some stretches. Get the tension out."
 		},
 		{
 			"key":"EP07_S1110_0018",
-			"value":"（あれ、みんな意外と優しい……）"
+			"value":"(Huh. They’re kinder to me than I thought.)"
 		},
 		{
 			"key":"EP07_S1110_0019",
-			"value":"ありがとう、みんな\n身体を解したら、僕も準備に取り掛かるよ"
+			"value":"Thanks, everyone. I’ll stretch and then start\ngetting ready."
 		},
 		{
 			"key":"EP07_S1110_0020",
-			"value":"みんなの様子が気になって"
+			"value":"How’s everyone doing?"
 		},
 		{
 			"key":"EP07_S1110_0021",
-			"value":"決戦を前にみんなの様子が気になって\n顔を見て回ってたんだ"
+			"value":"I was wondering how everyone was doing before\nthe battle. I wanted to see your faces."
 		},
 		{
 			"key":"EP07_S1110_0022",
-			"value":"ふん、お節介野郎が"
+			"value":"Snooping around just like always, huh."
 		},
 		{
 			"key":"EP07_S1110_0023",
-			"value":"まあまあ、タクマだって\n善意でやってくれたわけだし"
+			"value":"Now, now. I’m sure Takuma had good\nintentions."
 		},
 		{
 			"key":"EP07_S1110_0024",
-			"value":"あんまキツいこと言うなって\nなあ、ドラクモン？"
+			"value":"Don’t be so harsh on him.\nRight, Dracmon?"
 		},
 		{
 			"key":"EP07_S1110_0025",
-			"value":"そうだそうだ、自分がピリピリしてるからって\n八つ当たりすんなよなー"
+			"value":"You’re right. We shouldn’t take it out on him\njust because we’re nervous."
 		},
 		{
 			"key":"EP07_S1110_0026",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S1110_0027",
-			"value":"無言で睨むなよ！？"
+			"value":"The silent treatment?!"
 		},
 		{
 			"key":"EP07_S1110_0028",
-			"value":"心配をかけてすまないな、タクマ\nここは大丈夫だから"
+			"value":"Our apologies for having worried you, Takuma.\nWe are fine."
 		},
 		{
 			"key":"EP07_S1110_0029",
-			"value":"うん、他のところを見て回った後\n僕も準備に取り掛かるよ"
+			"value":"Okay. I’ll keep looking around a bit more,\nand then finish getting ready."
 		},
 		{
 			"key":"EP07_S1110_0030",
-			"value":"ぶらぶらしたかったんだ"
+			"value":"Just looking around."
 		},
 		{
 			"key":"EP07_S1110_0031",
-			"value":"ぶらぶらしたかったからしたんだよ\n自由時間をどう使ってもいいじゃないか"
+			"value":"I just wanted to look around.\nI had some free time on my hands."
 		},
 		{
 			"key":"EP07_S1110_0032",
-			"value":"のんきなこった"
+			"value":"Must be nice."
 		},
 		{
 			"key":"EP07_S1110_0033",
-			"value":"いやいや、大物なのかもしれねーぞ？\n決戦前に散歩なんて、肝が座ってるぜ"
+			"value":"Now, now, it might be important.\nA walk before a battle calms your nerves."
 		},
 		{
 			"key":"EP07_S1110_0034",
-			"value":"平常心でいることは大切だ\nミノルもタクマを見習え"
+			"value":"It is important to stay calm.\nMinoru, you can learn from Takuma."
 		},
 		{
 			"key":"EP07_S1110_0035",
-			"value":"こっちに飛び火すんの！？"
+			"value":"Don’t drag me into this!"
 		},
 		{
 			"key":"EP07_S1110_0036",
-			"value":"とにかく、お前もさっさと準備しろよ\n寝坊した上で遅刻とか許さねーからな"
+			"value":"No matter what, you need to get ready too.\nNo excuse for oversleeping AND lateness."
 		},
 		{
 			"key":"EP07_S1110_0037",
-			"value":"わかったよ"
+			"value":"Okay, okay."
 		},
 		{
 			"key":"EP07_S1110_0038",
-			"value":"さっさと準備しろよ"
+			"value":"Go and get ready now!"
 		},
 		{
 			"key":"EP07_S1110_0039",
-			"value":"オレたちは朝飯食ったら\nすぐにでも出られるぜ！"
+			"value":"We’re leaving as soon as we finish breakfast!"
 		}
 	]
 }

@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1722_0001",
-			"value":"ここで初めてファルコモンと一緒に戦ったんだよな～\nなんか懐かしいな！"
+			"value":"This where we first fought with Falcomon.\nThis takes me back!"
 		},
 		{
 			"key":"EP02_S1722_0002",
-			"value":"ミノル、気を抜いている場合ではないぞ\nいつまた襲われるかわからないのだからな？"
+			"value":"Minoru, stay focused! We don’t know when the\nnext attack could be."
 		},
 		{
 			"key":"EP02_S1722_0003",
-			"value":"大丈夫だって\nこう見えてちゃんと周りを警戒して――"
+			"value":"It’s fine.\nWe have a clear view of..."
 		},
 		{
 			"key":"EP02_S1722_0004",
-			"value":"ミノルあぶなーい！"
+			"value":"Minoru, look out!"
 		},
 		{
 			"key":"EP02_S1722_0005",
-			"value":"チ……気づかれたか"
+			"value":"Damn... They noticed."
 		},
 		{
 			"key":"EP02_S1722_0006",
-			"value":"うひぇぇえぇっ！？"
+			"value":"Yow!?"
 		},
 		{
 			"key":"EP02_S1722_0007",
-			"value":"だから気を抜くなと！"
+			"value":"I told you! Stay focused!"
 		},
 		{
 			"key":"EP02_S1722_0008",
-			"value":"せ、説教は後！　来るぞ！"
+			"value":"Save the sermon! Here it comes!"
 		},
 		{
 			"key":"EP02_S1722_0009",
-			"value":"まぁいい。遊んでもらうぞ"
+			"value":"Whatever. Time for some fun."
 		}
 	]
 }

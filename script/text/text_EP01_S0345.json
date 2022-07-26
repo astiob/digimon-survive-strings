@@ -2,59 +2,59 @@
     "scenario_text": [
         {
             "key": "EP01_S0345_0001",
-            "value": "うっ……この扉、蜘蛛の巣が多すぎる\nとても開けられそうにないぞ"
+            "value": "Man... There are too many webs on this door.\nI doubt we’ll be able to open it."
         },
         {
             "key": "EP01_S0345_0002",
-            "value": "でも、ピアノの音はこの中から聞こえてくる\n誰かいるのは間違いないな"
+            "value": "Still, that piano is definitely coming from\ninside. Someone has to be in there."
         },
         {
             "key": "EP01_S0345_0003",
-            "value": "（けど、ピアノだけじゃなく……女の子かな？\n　綺麗な鼻歌も聞こえてくる）"
+            "value": "(And not just the piano...is that a girl?\nI can hear some beautiful humming.)"
         },
         {
             "key": "EP01_S0345_0004",
-            "value": "うーん、どうしようか？　アグモン"
+            "value": "Hmm, what do you think we should do, Agumon?"
         },
         {
             "key": "EP01_S0345_0005",
-            "value": "うぅ、ごめんタクマ……\nボクのツメもきかないみたい……"
+            "value": "Aww, I’m sorry, Takuma... Not even my claws\nwill work here."
         },
         {
             "key": "EP01_S0345_0006",
-            "value": "そっか……うーん"
+            "value": "I see... That’s a problem."
         },
         {
             "key": "EP01_S0345_0007",
-            "value": "あれ？　ピアノも鼻歌も、止まった？"
+            "value": "Huh? The piano and the humming both stopped?"
         },
         {
             "key": "EP01_S0345_0008",
-            "value": "……ここは、思い切って声をかけてみるか"
+            "value": "...Should I just go ahead and try to call out\nto them?"
         },
         {
             "key": "EP01_S0345_0009",
-            "value": "なぁ！　そこに誰かいるのか！？\nいるなら返事をしてくれ！"
+            "value": "Hey! Is anybody in there?! If there is,\nplease respond!"
         },
         {
             "key": "EP01_S0345_0010",
-            "value": "………………"
+            "value": "..."
         },
         {
             "key": "EP01_S0345_0011",
-            "value": "返事はない……それどころか、物音ひとつしないな"
+            "value": "No response...\nIn fact, it’s dead silent in there."
         },
         {
             "key": "EP01_S0345_0012",
-            "value": "（中にいるのはいったい……\n　まさか、ホントにお化け？）"
+            "value": "(What’s going on in there... Don’t tell me\nit’s actually a ghost?!)"
         },
         {
             "key": "EP01_S0345_0013",
-            "value": "う～ん、誰かいる気配はするんだけどな～"
+            "value": "Huh, I swear I can feel someone in there,\nthough..."
         },
         {
             "key": "EP01_S0345_0014",
-            "value": "と、とにかく、ここには入れそうにない\n<color=#B41919>他の場所</color>を捜そう！"
+            "value": "Uh, at any rate, it doesn’t look like we can\nget in here. Let’s go <color=#B41919>someplace else</color>!"
         }
     ]
 }

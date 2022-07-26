@@ -2,319 +2,319 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1400_0001",
-			"value":"ああ、カイト……こんな所にいたのか？"
+			"value":"Oh, hey, Kaito. What are you doing over here?"
 		},
 		{
 			"key":"EP04_S1400_0002",
-			"value":"ああ、お前たちと一緒にいるのも\n何だかその……申し訳なくてな"
+			"value":"Oh, I don’t know. I didn’t want to intrude on\nyou guys or anything."
 		},
 		{
 			"key":"EP04_S1400_0003",
-			"value":"カイトももう僕らの仲間なんだ、\n遠慮することなんてないよ"
+			"value":"Hey, come on, you’re one of us now. No need\nto hang back."
 		},
 		{
 			"key":"EP04_S1400_0004",
-			"value":"そうはいかねえ。オレがあの女の正体に気づいてれば\nあんなことにはならなかったんだ"
+			"value":"Nah. If only I’d caught on to that woman\nsooner, things wouldn’t have gotten so bad."
 		},
 		{
 			"key":"EP04_S1400_0005",
-			"value":"そんなのカイトが気にすることじゃないよ\n全員無事だったんだし"
+			"value":"Hey, you shouldn’t let that bother you.\nBesides, everything turned out fine."
 		},
 		{
 			"key":"EP04_S1400_0006",
-			"value":"そうだぜカイト\n結果オーライだ！"
+			"value":"That’s right, Kaito. It all worked out."
 		},
 		{
 			"key":"EP04_S1400_0007",
-			"value":"いや、あの時、一歩間違えてたら\nリョウは死んでたかもしれねえんだ"
+			"value":"But if anything had gone wrong, Ryo could’ve\nwound up dead."
 		},
 		{
 			"key":"EP04_S1400_0008",
-			"value":"あんな目に遭わせちまったのは\n本当に、悪かったと思ってる……"
+			"value":"I really do feel bad about how it all went\ndown like that."
 		},
 		{
 			"key":"EP04_S1400_0009",
-			"value":"けど、あの時オレがちゃんと\nアイツの正体を見破ってれば……"
+			"value":"If only I’d seen through her disguise sooner,"
 		},
 		{
 			"key":"EP04_S1400_0010",
-			"value":"そうすりゃ、あんなことには……"
+			"value":"things wouldn’t have ended like that."
 		},
 		{
 			"key":"EP04_S1400_0011",
-			"value":"それこそ、カイト１人のせいなんかじゃないよ"
+			"value":"It’s not like it was all your fault."
 		},
 		{
 			"key":"EP04_S1400_0012",
-			"value":"すっかり騙された僕たちだって悪いんだ\n誰もカイトを責めたりなんてしないよ"
+			"value":"Everyone else got tricked, too. None of us\nblame you, Kaito."
 		},
 		{
 			"key":"EP04_S1400_0013",
-			"value":"誰も責めなくたって、\nオレが納得いかねえ！"
+			"value":"Well, I still feel bad about it, okay?"
 		},
 		{
 			"key":"EP04_S1400_0014",
-			"value":"オレはこれまでもずっと、自分勝手に\n好きなようにやってきた"
+			"value":"I’ve been acting so selfishly this whole\ntime, only thinking of myself."
 		},
 		{
 			"key":"EP04_S1400_0015",
-			"value":"でもそれは、全て自分で落とし前を付ける\n自信があったからだ……"
+			"value":"But I only did it because I thought I would\nbe the one to pay the price."
 		},
 		{
 			"key":"EP04_S1400_0016",
-			"value":"オレが巻き込んでいながら、あの場じゃ、\nオレは何の役にも立てなかった……"
+			"value":"I couldn’t do anything back there, even\nthough it was me who got Ryo into that mess!"
 		},
 		{
 			"key":"EP04_S1400_0017",
-			"value":"クソっ、自分で自分が許せねぇ！"
+			"value":"I’ll never forgive myself!"
 		},
 		{
 			"key":"EP04_S1400_0018",
-			"value":"だから、そこはカイトのせいじゃねーって！\nあんなの、どうしようもねーだろ！？"
+			"value":"No, Kaito, it wasn’t your fault! There was\nnothing anyone could have done!"
 		},
 		{
 			"key":"EP04_S1400_0019",
-			"value":"そうだよ……不可抗力すぎる"
+			"value":"That’s right. It was out of our hands."
 		},
 		{
 			"key":"EP04_S1400_0020",
-			"value":"それでも……謝りたかったんだ\nもっとできることがあったかもしれねぇって……"
+			"value":"Still, I wanted to apologize. I feel like\nthere was more I could’ve done."
 		},
 		{
 			"key":"EP04_S1400_0021",
-			"value":"だから……すまなかった"
+			"value":"So...sorry."
 		},
 		{
 			"key":"EP04_S1400_0022",
-			"value":"（カイトって、突っ走ってばっかりだと\n　思ってたけど）"
+			"value":"(I’ve always considered Kaito brash and\nthoughtless, but really, he’s a good guy...)"
 		},
 		{
 			"key":"EP04_S1400_0023",
-			"value":"（本当は、正義感が強くていいやつだし\n　案外素直で、実は常識的なとこもあるんだよな……）"
+			"value":"(...with a strong sense of what’s right,\nsurprising honesty, and even common sense.)"
 		},
 		{
 			"key":"EP04_S1400_Q1",
-			"value":"（僕も、カイトに何か言わないと……！）"
+			"value":"(I should say something too!)"
 		},
 		{
 			"key":"EP04_S1400_Q1_A1",
-			"value":"いいやつだな"
+			"value":"You’re a good guy."
 		},
 		{
 			"key":"EP04_S1400_Q1_A2",
-			"value":"案外素直だよな"
+			"value":"You’re really honest."
 		},
 		{
 			"key":"EP04_S1400_Q1_A3",
-			"value":"実は常識あるよな"
+			"value":"You’ve got some sense."
 		},
 		{
 			"key":"EP04_S1400_0028",
-			"value":"いいやつだな"
+			"value":""
 		},
 		{
 			"key":"EP04_S1400_0029",
-			"value":"カイトって、実はいいやつだよな"
+			"value":"You know, Kaito, you’re actually a good guy."
 		},
 		{
 			"key":"EP04_S1400_0030",
-			"value":"なんだよ急に？"
+			"value":"Huh? What’s this now?"
 		},
 		{
 			"key":"EP04_S1400_0031",
-			"value":"だって、筋が通らないって思ったから\n謝ってくれたんだろ？"
+			"value":"Well, you thought something was wrong and you\napologized, right?"
 		},
 		{
 			"key":"EP04_S1400_0032",
-			"value":"それに、なんだかんだ言って\n僕らのこと、心配してくれてるから"
+			"value":"And when it comes down to it, you’re\nconcerned about what happens to us."
 		},
 		{
 			"key":"EP04_S1400_0033",
-			"value":"なんか、いいやつだよなーと思って"
+			"value":"So I figure you must be all right."
 		},
 		{
 			"key":"EP04_S1400_0034",
-			"value":"別に……オレはただ\nこっちの事情に巻き込むわけにはいかねぇって……"
+			"value":"No, I don’t know. I just don’t want anyone\nelse getting caught up in my problems."
 		},
 		{
 			"key":"EP04_S1400_0035",
-			"value":"そう言ってるだけだ"
+			"value":"That’s all I’m saying."
 		},
 		{
 			"key":"EP04_S1400_0036",
-			"value":"ったく、素直じゃねーな"
+			"value":"Hah, you’re such a liar."
 		},
 		{
 			"key":"EP04_S1400_0037",
-			"value":"案外素直だよな"
+			"value":""
 		},
 		{
 			"key":"EP04_S1400_0038",
-			"value":"カイトって、案外素直なところあるよな"
+			"value":"You can be surprisingly honest sometimes, you\nknow that?"
 		},
 		{
 			"key":"EP04_S1400_0039",
-			"value":"ああ……？\nなんだそれ、気持ちわりーこと言うな"
+			"value":"Huh? What’re you going on about? You’re\nembarrassing me."
 		},
 		{
 			"key":"EP04_S1400_0040",
-			"value":"そうだぜタクマ\nこいつの場合は、単にアホなだけだからな"
+			"value":"That’s right, Takuma. In his case, it’s just\nthat he’s too dumb to lie."
 		},
 		{
 			"key":"EP04_S1400_0041",
-			"value":"いや、お前に言われたくねーよ"
+			"value":"Hey, I don’t want to hear that from you!"
 		},
 		{
 			"key":"EP04_S1400_0042",
-			"value":"（とか何とか言って\n　ドラクモンの言葉にはいつも耳を貸してるし）"
+			"value":"(And yet he always has an ear for what\nDracmon has to say.)"
 		},
 		{
 			"key":"EP04_S1400_0043",
-			"value":"（素直なところ、あると思うけどなぁ）"
+			"value":"(I do think he has an honest side.)"
 		},
 		{
 			"key":"EP04_S1400_0044",
-			"value":"（あんまり言うと、もっと怒られそうだから\n　やめとこう……）"
+			"value":"(But he might get upset if I bring it up\nagain, so I’d better not.)"
 		},
 		{
 			"key":"EP04_S1400_0045",
-			"value":"実は常識あるよな"
+			"value":""
 		},
 		{
 			"key":"EP04_S1400_0046",
-			"value":"カイトって、実は何気に常識的なとこあるよな"
+			"value":"You know, you actually do have some common\nsense, Kaito."
 		},
 		{
 			"key":"EP04_S1400_0047",
-			"value":"な、何だよいきなり……？"
+			"value":"Huh? What's this all of a sudden?"
 		},
 		{
 			"key":"EP04_S1400_0048",
-			"value":"ちょっと突っ走りやすいところあるし\n怒りっぽくて、口も悪いから誤解されやすそうだけど……"
+			"value":"You can be reckless and short-tempered, and\nyou don’t really have a way with words..."
 		},
 		{
 			"key":"EP04_S1400_0049",
-			"value":"妹のために、どうすればいいのかって\nいつも考えてるの……偉いと思うよ"
+			"value":"But you’re always thinking of what you can do\nfor Miu, and I think that’s great."
 		},
 		{
 			"key":"EP04_S1400_0050",
-			"value":"そんなんじゃ……ねぇ……！\nオレは……！"
+			"value":"What?! That’s not... I’m not... No..."
 		},
 		{
 			"key":"EP04_S1400_0051",
-			"value":"カイト？　どうした？"
+			"value":"Kaito, what’s wrong?"
 		},
 		{
 			"key":"EP04_S1400_0052",
-			"value":"な、なんでもねーよ！"
+			"value":"Forget it! It’s nothin’!"
 		},
 		{
 			"key":"EP04_S1400_0053",
-			"value":"けど……ありがとな、タクマ"
+			"value":"But...thanks, Takuma."
 		},
 		{
 			"key":"EP04_S1400_0054",
-			"value":"って、オレの話はいいんだよ！"
+			"value":"Anyway, enough about me!"
 		},
 		{
 			"key":"EP04_S1400_0055",
-			"value":"それよりタクマ、みんなちゃんと集まるんだろうな？\nオレは昼までしか、待たねーからな"
+			"value":"You sure the others are gonna show up?\nBecause I’m not waiting past noon!"
 		},
 		{
 			"key":"EP04_S1400_0056",
-			"value":"わ、わかってるって……！"
+			"value":"Okay, I got it, already!"
 		},
 		{
 			"key":"EP04_S1400_0057",
-			"value":"だいたいオレは、チンタラおしゃべりしてる\n場合じゃねーんだよ……！"
+			"value":"Man, I shouldn’t even be wasting time talking\nlike this!"
 		},
 		{
 			"key":"EP04_S1400_0058",
-			"value":"きゅ、急に怒り出したな……"
+			"value":"Huh? Now he’s angry? Why?"
 		},
 		{
 			"key":"EP04_S1400_0059",
-			"value":"どうせ照れ隠しだろ\nったく、ほんと素直じゃねー"
+			"value":"Heh. I’m sure it’s just a cover and he’s\nreally feeling embarrassed. What a liar."
 		},
 		{
 			"key":"EP04_S1400_0060",
-			"value":"おい、聞こえてんぞ"
+			"value":"Hey, I can hear you!"
 		},
 		{
 			"key":"EP04_S1400_0061",
-			"value":"マジでのんびりするつもりはねーからな\n敵のバケモノや、正体不明の霧のこともあるからな"
+			"value":"And I’m serious about not wastin’ time. We\ngot enemy monsters and weird fog out there."
 		},
 		{
 			"key":"EP04_S1400_0062",
-			"value":"（確かに……カイトの言う通り\n　心配事はつきないよな）"
+			"value":"(Yeah, he’s right. We’ve got no end of things\nto be concerned about right now.)"
 		},
 		{
 			"key":"EP04_S1400_0063",
-			"value":"そうだ……そういえば何なんだ？\nあの霧から出てきた、気味の悪い手は？"
+			"value":"Oh yeah, that reminds me, what were those\ncreepy hands that came out of the fog?"
 		},
 		{
 			"key":"EP04_S1400_0064",
-			"value":"僕も気になってたんだ\nドラクモンたちは、何か知らないの？"
+			"value":"That’s been bugging me too. Dracmon, do you\nor any of the others know anything?"
 		},
 		{
 			"key":"EP04_S1400_0065",
-			"value":"う～ん、そこはその、\n俺も何とも言えねーっていうか……"
+			"value":"Hmm, I’m not really sure myself."
 		},
 		{
 			"key":"EP04_S1400_0066",
-			"value":"知らないんだな？"
+			"value":"You don’t know?"
 		},
 		{
 			"key":"EP04_S1400_0067",
-			"value":"面目ない"
+			"value":"Sorry."
 		},
 		{
 			"key":"EP04_S1400_0068",
-			"value":"気にするな。お前なりにオレを、\n慰めてくれようとしたんだな。ありがとよ"
+			"value":"Well, that’s okay. You were trying to cheer\nme up the only way you knew how. Thanks."
 		},
 		{
 			"key":"EP04_S1400_0069",
-			"value":"（何だかんだで、カイトとドラクモンも\n　良いコンビみたいだな……）"
+			"value":"(Whatever else is true, Kaito and Dracmon\nmake a good team.)"
 		},
 		{
 			"key":"EP04_S1400_0200",
-			"value":"しっかしよぉ、ホント、何なんだよここは……"
+			"value":"But for real, man, the heck is this?"
 		},
 		{
 			"key":"EP04_S1400_0201",
-			"value":"ワケわかんねー文字化けメールは届くし\nそのくせこっちから連絡はできねえしよぉ"
+			"value":"I can get some whack-ass text, but I can’t\nsend anything back to anyone."
 		},
 		{
 			"key":"EP04_S1400_0202",
-			"value":"カイトにも届いてたんだ"
+			"value":"You too, huh, Kaito?"
 		},
 		{
 			"key":"EP04_S1400_0203",
-			"value":"お前もか？"
+			"value":"You mean I’m not the only one?"
 		},
 		{
 			"key":"EP04_S1400_0204",
-			"value":"うん……他のみんなにもね\n電波塔に行けばどうにかなると思ってたんだけど……"
+			"value":"Yeah... Everyone else, too. We were thinking\nof heading to the radio tower, actually."
 		},
 		{
 			"key":"EP04_S1400_0205",
-			"value":"くそっ、そんな状況でミウは一人ぼっちかよ\n早く助けに行ってやんねえと……！"
+			"value":"What, and leave Miu all by her lonesome?! We\ngotta hurry up and save her!"
 		},
 		{
 			"key":"EP04_S1400_0206",
-			"value":"か、カイト！　昼までは待って、ね！？"
+			"value":"Whoa, man, you said you’d wait around until\nnoon! Right?!"
 		},
 		{
 			"key":"EP04_S1400_0207",
-			"value":"わかってる……ちっ"
+			"value":"Yeah, yeah..."
 		},
 		{
 			"key":"EP04_S1400_0070",
-			"value":"霧から出た、気味の悪い手のこともあるし\nあんまりのんびりしてらんねぇ……"
+			"value":"We can’t stay here forever. I’m worried about\nthose creepy hands that came out of the fog."
 		},
 		{
 			"key":"EP04_S1400_0071",
-			"value":"昼までに全員集まらなかったら\nオレは、１人で行くからな"
+			"value":"If everyone’s not here by noon, I’m heading\nout on my own."
 		}
 	]
 }

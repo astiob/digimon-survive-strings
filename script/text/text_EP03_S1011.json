@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1011_0001",
-			"value":"なぁアグモン、ファルコモンとラブラモンがいないけど"
+			"value":"So, Agumon, what do you think about Falcomon\nand Labramon going missing?"
 		},
 		{
 			"key":"EP03_S1011_0002",
-			"value":"どこに行ったかとか、なんでいないのかとか\n何かわかるか？"
+			"value":"Do you have any idea where they might have\ngone, or why they left?"
 		},
 		{
 			"key":"EP03_S1011_0003",
-			"value":"う～ん？　わかんないけど、心配ないと思うよ？"
+			"value":"Hmm...I dunno, but I don’t think we should be\nworried."
 		},
 		{
 			"key":"EP03_S1011_0004",
-			"value":"そうなのか？　でも、ミノルやアオイさんといつも\n一緒にいたアイツらがいないなんて、気にならないか？"
+			"value":"Really? But they’re always with Minoru or\nAoi. Doesn’t it bother you that they’re gone?"
 		},
 		{
 			"key":"EP03_S1011_0005",
-			"value":"そうかな～。ちょっとその辺にいるだけじゃない？\nわかんないけど"
+			"value":"Not really. I kinda feel like they’re just\nover there? Not that I know or anything."
 		},
 		{
 			"key":"EP03_S1011_0006",
-			"value":"わかんないわかんないって……あぁ、なんか\nこのやり取りも久しぶりな気がするな"
+			"value":"I ask a question, you don’t know the answer.\nSame as always..."
 		},
 		{
 			"key":"EP03_S1011_0007",
-			"value":"まぁでも、確かにわかんないんだし\n今はどうしようもないか"
+			"value":"Still, when you don’t know, you don’t know.\nNot much else to say, right?"
 		},
 		{
 			"key":"EP03_S1011_0008",
-			"value":"そうだな～"
+			"value":"That’s true."
 		},
 		{
 			"key":"EP03_S1011_0009",
-			"value":"どうした～？　ファルコモンとラブラモンが\n気になるのか～？"
+			"value":"What’s wrong? Are you worried about Falcomon\nand Labramon?"
 		}
 	]
 }

@@ -2,111 +2,111 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1052_0001",
-			"value":"それでは、奥への扉を開けるぞ"
+			"value":"Now, let’s open the gate to the interior."
 		},
 		{
 			"key":"EP11_S1052_0002",
-			"value":"すげー！　今度は壁が動いた！"
+			"value":"Wow! The wall’s moving!"
 		},
 		{
 			"key":"EP11_S1052_0003",
-			"value":"なかなか凝ったつくりになってたんだな\nん？　中に壁画のようなものが見えるぞ？"
+			"value":"Looks like the mechanisms are a little rusty.\nHuh? I think I see a mural inside?"
 		},
 		{
 			"key":"EP11_S1052_0004",
-			"value":"こ、これは……！！"
+			"value":"This, this is...!!!"
 		},
 		{
 			"key":"EP11_S1052_0005",
-			"value":"どうしたんですか、教授？"
+			"value":"What is it, Professor?"
 		},
 		{
 			"key":"EP11_S1052_0006",
-			"value":"弥生様式……いや、ポンペイ第一様式のようでもあり\nグプタ様式とも……どうしてこんな混在しているんだ！"
+			"value":"It’s in ancient Yayoi style...and First-style\nPompeian, and that of the Gupta Empire. How?"
 		},
 		{
 			"key":"EP11_S1052_0007",
-			"value":"グプタ……なんだって？"
+			"value":"The Gupta what now?"
 		},
 		{
 			"key":"EP11_S1052_0008",
-			"value":"いやそれになにより……\nこれは……！！"
+			"value":"Never mind that, look! This is simply\nincredible!"
 		},
 		{
 			"key":"EP11_S1052_0009",
-			"value":"うーん、教授……オレたちには\nなにを言ってるのかわからないよ……"
+			"value":"Uh, Professor? I’m afraid you’ve lost us."
 		},
 		{
 			"key":"EP11_S1052_0010",
-			"value":"うむ……要するにだな……\nここには、こう書かれているのだ"
+			"value":"Right, yes, allow me to explain. This is what\nis written here."
 		},
 		{
 			"key":"EP11_S1052_0011",
-			"value":"我々の世界とこの異世界は\nかつて分離して誕生したものである"
+			"value":"Our world and this other world were created\nseparately long ago."
 		},
 		{
 			"key":"EP11_S1052_0012",
-			"value":"それだけではない……"
+			"value":"But that’s not all!"
 		},
 		{
 			"key":"EP11_S1052_0013",
-			"value":"人間とモンスターは元々はひとつであり\n魂を共有した片割れであると……そう書かれている"
+			"value":"Humans and monsters were once one. Two pieces\nof the same soul. That’s what it says."
 		},
 		{
 			"key":"EP11_S1052_0014",
-			"value":"んー？　それじゃあボクたちは\nニンゲンと同じってこと？"
+			"value":"Huh? So does that make us the same as humans?"
 		},
 		{
 			"key":"EP11_S1052_0015",
-			"value":"確かに、カイトと一緒にいると\n妙な心地よさは感じるが……"
+			"value":"It’s true, I do feel an odd sense of comfort\nwhen I am with Kaito, but I don’t know."
 		},
 		{
 			"key":"EP11_S1052_0016",
-			"value":"（そうか……だからこそ、この世界の異変が\n僕らの世界にも影響を及ぼすのか……）"
+			"value":"(I get it now. That’s why when something goes\nwrong here, it has an effect in our world.)"
 		},
 		{
 			"key":"EP11_S1052_0017",
-			"value":"ラブラモン……それで私たちは、互いに絆……\nううん、それ以上の強いもので繋がっているのね"
+			"value":"Labramon, that means we’re connected by\na bond...no, something even more powerful..."
 		},
 		{
 			"key":"EP11_S1052_0018",
-			"value":"そうね、アオイ！"
+			"value":"You’re right, Aoi!"
 		},
 		{
 			"key":"EP11_S1052_0019",
-			"value":"そうなると……ミユキを救うカギは、やっぱり\nレナモンと教授にかかっているのかもしれない"
+			"value":"And if that’s true, the key to saving Miyuki\nreally does lie in Renamon and the Professor."
 		},
 		{
 			"key":"EP11_S1052_0020",
-			"value":"私と……レナモン？"
+			"value":"In myself...and Renamon?"
 		},
 		{
 			"key":"EP11_S1052_0021",
-			"value":"うん、だってミユキは、教授やレナモンの呼びかけに\n一瞬だけだけど正気を取り戻したように見えた"
+			"value":"Yeah. Remember how when you called her, she\ncame back to her senses for a second?"
 		},
 		{
 			"key":"EP11_S1052_0022",
-			"value":"だから、次の戦いでもそれは有効なはずなんだ"
+			"value":"That should work in this next fight too."
 		},
 		{
 			"key":"EP11_S1052_0023",
-			"value":"そうか……確かに……"
+			"value":"Yes... You’re right."
 		},
 		{
 			"key":"EP11_S1052_0024",
-			"value":"よし！　まずはみんなでミユキの動きを止め\nそれから教授とレナモンが呼びかける――"
+			"value":"Yeah! So first we pin down Miyuki, and then\nthe Professor and Renamon call out to her."
 		},
 		{
 			"key":"EP11_S1052_0025",
-			"value":"よっしゃー！　それでキマリだぜ！"
+			"value":"Right! That settles it!"
 		},
 		{
 			"key":"EP11_S1052_0026",
-			"value":"でも……もし、うまくいかなかったら？"
+			"value":"But...what happens if things don’t go so\nwell?"
 		},
 		{
 			"key":"EP11_S1052_0027",
-			"value":"その時は……ミユキを抱えて\n全力で逃げるしかないだろうな……"
+			"value":"If that happens... We’ll grab Miyuki and\nhightail it out of there..."
 		}
 	]
 }

@@ -2,279 +2,279 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9220_0001",
-			"value":"（あれ？　カイトがきょろきょろしながら歩いてる\n　何か探してるのかな？）"
+			"value":"(That’s odd. Kaito’s walking around like he’s\nsearching for something... What could it be?)"
 		},
 		{
 			"key":"EP13_S9220_0002",
-			"value":"カイト、どうしたの？"
+			"value":"What’s up, Kaito?"
 		},
 		{
 			"key":"EP13_S9220_0003",
-			"value":"いや、ミウはどこに行ったかと思って……"
+			"value":"Oh, I was just wondering where Miu might have\ngotten off to."
 		},
 		{
 			"key":"EP13_S9220_0004",
-			"value":"（はは、カイトってば相変わらずミウのこと\n　ばっかりだな）"
+			"value":"(Haha, Kaito’s always thinking about Miu,\nisn’t he?)"
 		},
 		{
 			"key":"EP13_S9220_Q1",
-			"value":"（カイトに何て言おうかな？）"
+			"value":"(What should I tell him?)"
 		},
 		{
 			"key":"EP13_S9220_Q1_A1",
-			"value":"わかんないや"
+			"value":"She went over there."
 		},
 		{
 			"key":"EP13_S9220_Q1_A2",
-			"value":"妹のことばっかりだな"
+			"value":"You are all about Miu."
 		},
 		{
 			"key":"EP13_S9220_0005",
-			"value":"ごめん、わかんないや"
+			"value":"She went over there."
 		},
 		{
 			"key":"EP13_S9220_0006",
-			"value":"ミウだったら、あっちにいたよ"
+			"value":"Oh, well, she went over there."
 		},
 		{
 			"key":"EP13_S9220_0007",
-			"value":"そうか、悪いな"
+			"value":"Great, thanks."
 		},
 		{
 			"key":"EP13_S9220_0008",
-			"value":"ミウに用事なら僕も捜そうか？"
+			"value":"You know, if you need her for something, I’d\nbe happy to help you find her."
 		},
 		{
 			"key":"EP13_S9220_0009",
-			"value":"あぁ……いや、いい\nただ、あいつが心配なだけだ"
+			"value":"Oh, no, it’s nothing like that. I’m just\nworried about her."
 		},
 		{
 			"key":"EP13_S9220_0010",
-			"value":"……あのさ、カイト"
+			"value":"Listen, Kaito..."
 		},
 		{
 			"key":"EP13_S9220_0011",
-			"value":"ん？　なんだよ、改まって\n何か文句でもあるってか？"
+			"value":"What? What’s with that tone? You got some\nsome kinda problem with that?"
 		},
 		{
 			"key":"EP13_S9220_0012",
-			"value":"妹のことばっかりだな"
+			"value":"You are all about Miu."
 		},
 		{
 			"key":"EP13_S9220_0013",
-			"value":"こんな時なのに、カイトは妹のことばっかりだな"
+			"value":"Boy, you sure are all about Miu, aren’t you?\nEven with everything we’ve got going on."
 		},
 		{
 			"key":"EP13_S9220_0014",
-			"value":"はは、なんだよ\n何か文句でもあるってか？"
+			"value":"Haha, what? You got a problem with that?"
 		},
 		{
 			"key":"EP13_S9220_0015",
-			"value":"（文句、か……言いたいことはあるけど\n　今言ってもいいのかな）"
+			"value":"(Actually, I do kind of have a problem with\nthat, but is now the time to bring it up?)"
 		},
 		{
 			"key":"EP13_S9220_0016",
-			"value":"（決戦前だし、空気を悪くしたくない……\n　いや、むしろ今じゃなきゃ言えないのか？）"
+			"value":"(I’d hate to make trouble before the big\nfight, but this might be my only chance...)"
 		},
 		{
 			"key":"EP13_S9220_Q2",
-			"value":"（カイトに何て言おうかな？）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP13_S9220_Q2_A1",
-			"value":"言いたいことはある"
+			"value":"I do have a problem."
 		},
 		{
 			"key":"EP13_S9220_Q2_A2",
-			"value":"文句はない"
+			"value":"Nope, no problem."
 		},
 		{
 			"key":"EP13_S9220_0017",
-			"value":"文句はある"
+			"value":"I do have a problem."
 		},
 		{
 			"key":"EP13_S9220_0018",
-			"value":"文句というか、言いたいことはある"
+			"value":"Actually, yes. I do have a problem with that."
 		},
 		{
 			"key":"EP13_S9220_0019",
-			"value":"んだよ？"
+			"value":"Oh? What’s that?"
 		},
 		{
 			"key":"EP13_S9220_0020",
-			"value":"おっと、待ちなタクマ！\n文句だったら俺もあるぜ！"
+			"value":"Not so fast, Takuma! I got a problem, too!"
 		},
 		{
 			"key":"EP13_S9220_0021",
-			"value":"ドラクモンまで……？\nお前ら、いったい何が言いたいんだよ？"
+			"value":"You too, Dracmon?! What is it?"
 		},
 		{
 			"key":"EP13_S9220_0022",
-			"value":"文句はない"
+			"value":"Nope, no problem."
 		},
 		{
 			"key":"EP13_S9220_0023",
-			"value":"文句はないって\nただ仲良さそうで羨ましいだけさ"
+			"value":"Nope, no problem. I was just thinking how you\ntwo are so close, it makes me jealous."
 		},
 		{
 			"key":"EP13_S9220_0024",
-			"value":"そうか……"
+			"value":"Oh…"
 		},
 		{
 			"key":"EP13_S9220_0025",
-			"value":"こんな時に妹のことなんてと\nバカにされるかもしれねえが――"
+			"value":"You might think it’s dumb for me to be\nworrying about her right now, but..."
 		},
 		{
 			"key":"EP13_S9220_0026",
-			"value":"あいつのことだけは\nどうにもほっとけなくてな……"
+			"value":"...I can’t help it with her. She’s always on\nmy mind."
 		},
 		{
 			"key":"EP13_S9220_0027",
-			"value":"おいおいタクマ、なに遠慮してんだよ\nはっきり言ってやった方がいいぜ？"
+			"value":"Oh, come on, Takuma, out with it already! You\ngotta be honest about this sorta thing."
 		},
 		{
 			"key":"EP13_S9220_0028",
-			"value":"うぅ、そうは言ってもさ……"
+			"value":"Yeah, but...I don’t know..."
 		},
 		{
 			"key":"EP13_S9220_0029",
-			"value":"なんだよ、何が言いてぇんだ？"
+			"value":"Okay, what is it? Let’s hear it."
 		},
 		{
 			"key":"EP13_S9220_0030",
-			"value":"お前はいつも妹のことばかり心配してるが……\n少しは自分自身の心配もしろ"
+			"value":"It’s just, you only ever worry about Miu.\nI wish you’d think about yourself sometimes."
 		},
 		{
 			"key":"EP13_S9220_0031",
-			"value":"はぁ？　何言ってんだよ\nオレのことなんて別に――"
+			"value":"Huh? What are you talking about? Who even\ncares what happens to—"
 		},
 		{
 			"key":"EP13_S9220_0032",
-			"value":"……うん、僕もそのことが言いたかった"
+			"value":"Actually, I was about to say the same thing."
 		},
 		{
 			"key":"EP13_S9220_0033",
-			"value":"ミウの心配をしすぎて、自分をおろそかにして\nそれでカイト自身に何かあったらどうする？"
+			"value":"You always focus on Miu and neglect yourself.\nBut what if something happens to you?"
 		},
 		{
 			"key":"EP13_S9220_0034",
-			"value":"結局、ミウを悲しませるんじゃないのか？"
+			"value":"Wouldn’t that just end up making Miu sad,\ntoo?"
 		},
 		{
 			"key":"EP13_S9220_0035",
-			"value":"それは……"
+			"value":"I guess..."
 		},
 		{
 			"key":"EP13_S9220_0036",
-			"value":"（僕らだってカイトのことが心配なんだ\n　もう一人でミウを守ろうとしなくていい）"
+			"value":"(It’s not just Miu. We all care about Kaito.\nThe two of them aren’t alone anymore.)"
 		},
 		{
 			"key":"EP13_S9220_Q3",
-			"value":"（カイトにどう言えば伝わるかな……？）"
+			"value":"(But how do I get Kaito to see that?)"
 		},
 		{
 			"key":"EP13_S9220_Q3_A1",
-			"value":"カイトのことが心配なんだ"
+			"value":"We worry about you."
 		},
 		{
 			"key":"EP13_S9220_Q3_A2",
-			"value":"ミウのことは僕に任せろ"
+			"value":"Let me care for Miu."
 		},
 		{
 			"key":"EP13_S9220_0037",
-			"value":"カイトのことが心配なんだ"
+			"value":"We worry about you."
 		},
 		{
 			"key":"EP13_S9220_0038",
-			"value":"僕たちはみんな、カイトのことが心配なんだ\nわかってくれ"
+			"value":"We all worry about you, Kaito. Can’t you see\nthat?"
 		},
 		{
 			"key":"EP13_S9220_0039",
-			"value":"はっ、余計なお世話だっての"
+			"value":"Heh. Well, you shouldn’t waste your time."
 		},
 		{
 			"key":"EP13_S9220_0040",
-			"value":"それに、別に妹のことばかり\n気にしてるわけじゃない"
+			"value":"And anyway, it’s not like Miu is literally\nthe only person I care about."
 		},
 		{
 			"key":"EP13_S9220_0041",
-			"value":"オレはお前らのことだって気にしてる\n誰かが傷つくのが嫌なんだ。だから……"
+			"value":"I worry about all of you too. I don’t want\nany of you to get hurt. So chill out, okay?"
 		},
 		{
 			"key":"EP13_S9220_0042",
-			"value":"カイト……"
+			"value":"Kaito..."
 		},
 		{
 			"key":"EP13_S9220_0043",
-			"value":"安心しろ、お前の優しさは俺が知ってるぞ"
+			"value":"It’s cool, Kaito. I know just what a kind and\nthoughtful person you are!"
 		},
 		{
 			"key":"EP13_S9220_0044",
-			"value":"ミウのことは僕に任せろ"
+			"value":"Let me care for Miu."
 		},
 		{
 			"key":"EP13_S9220_0045",
-			"value":"だから、ミウのことは僕に任せろ"
+			"value":"That’s why I want you to let me be the one to\nlook out for Miu."
 		},
 		{
 			"key":"EP13_S9220_0046",
-			"value":"……ア？"
+			"value":"...What?"
 		},
 		{
 			"key":"EP13_S9220_0047",
-			"value":"カイトの分まで僕がミウを守る！\nだから――"
+			"value":"From now on, I’ll keep her safe so you won’t\nhave to! That way—"
 		},
 		{
 			"key":"EP13_S9220_0048",
-			"value":"タクマ、てめえ……\nまさか、ミウのこと……！！"
+			"value":"Takuma, are you serious...? Don’t tell me\nyou’ve got a thing for her!"
 		},
 		{
 			"key":"EP13_S9220_0049",
-			"value":"へ……？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP13_S9220_0050",
-			"value":"……あっ！　い、いや違う！\nそういう意味じゃなくて、じょ、冗談だよ！"
+			"value":"Wait, no! You’ve got it all wrong! I didn’t\nmean it like that! I was, uh...just kidding!"
 		},
 		{
 			"key":"EP13_S9220_0051",
-			"value":"オイ！　言っていい冗談と悪い冗談があるだろ！？"
+			"value":"What is wrong with you?! Don’t even joke\nabout that sort of thing!"
 		},
 		{
 			"key":"EP13_S9220_0052",
-			"value":"わぁっ、ごめん！　僕の言い方が悪かった！"
+			"value":"I’m sorry! Really, I shouldn’t have put it\nlike that!"
 		},
 		{
 			"key":"EP13_S9220_0053",
-			"value":"落ち着けよカイト\nタクマの言いたいことくらいわかんだろ？"
+			"value":"Kaito, relax. You get what Takuma was trying\nto say, right?"
 		},
 		{
 			"key":"EP13_S9220_0054",
-			"value":"……ちっ、わかってるよ\n今のは、反射的にムカついちまっただけだ"
+			"value":"Hmph... Yeah, I know. Guess I just snapped at\nhim without thinking."
 		},
 		{
 			"key":"EP13_S9220_0055",
-			"value":"まぁ、その、なんだ……"
+			"value":"Anyway, look, uh..."
 		},
 		{
 			"key":"EP13_S9220_0056",
-			"value":"オレは、お前らのこと\n……仲間だと思ってる"
+			"value":"I do think of all of you as friends, I guess."
 		},
 		{
 			"key":"EP13_S9220_0057",
-			"value":"だからよ、心配ぐらいさせろや"
+			"value":"So let me worry about what I want, okay?"
 		},
 		{
 			"key":"EP13_S9220_0058",
-			"value":"へへ、ようやく少しは素直になったなぁ？"
+			"value":"Heheh, finally starting to be more honest\nabout your feelings, Kaito?"
 		},
 		{
 			"key":"EP13_S9220_0059",
-			"value":"ふん……うるせえよ"
+			"value":"Oh, shut up."
 		},
 		{
 			"key":"EP13_S9220_0060",
-			"value":"ミウもお前らも強くなったのはわかってる\nだが、それは心配しない理由にはなんねえよ"
+			"value":"I can see how Miu’s gotten stronger, and all\nof you too, but I still worry, you know?"
 		}
 	]
 }

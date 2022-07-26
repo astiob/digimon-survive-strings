@@ -2,487 +2,487 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1200_0001",
-			"value":"何だったんだ、あの霧から出てきたバケモノは……"
+			"value":"What was that crazy monster that showed up\ninside the fog?"
 		},
 		{
 			"key":"EP04_S1200_0002",
-			"value":"あんなのがいるなんて、聞いてないぞ……\n僕たちはどうすればいいんだ……"
+			"value":"As if things weren’t bad enough. What are we\nsupposed to do now?"
 		},
 		{
 			"key":"EP04_S1200_0003",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0004",
-			"value":"うわっ！？"
+			"value":"Wah!"
 		},
 		{
 			"key":"EP04_S1200_0005",
-			"value":"あっ、タクマ……すまない\nつい独り言が……"
+			"value":"Oh, Takuma! Sorry, I was just talking to\nmyself."
 		},
 		{
 			"key":"EP04_S1200_0006",
-			"value":"いえ、僕のほうこそ\n驚かせてしまってすいません"
+			"value":"No, I feel like I should be the one to\napologize. I didn’t mean to scare you."
 		},
 		{
 			"key":"EP04_S1200_0007",
-			"value":"大丈夫ですか？"
+			"value":"How are you doing?"
 		},
 		{
 			"key":"EP04_S1200_0008",
-			"value":"シュウジ……ずっと辛そうにしてて\nボク……心配だよ"
+			"value":"Shuuji, you look like you’re in so much pain\nall the time. I’m worried about you."
 		},
 		{
 			"key":"EP04_S1200_0009",
-			"value":"うるさいな\nお前なんかに、何がわかるんだよ"
+			"value":"Shut up! What do you know?"
 		},
 		{
 			"key":"EP04_S1200_0010",
-			"value":"こんな世界に来て、何度も死にそうな目に遭って\nそれでも頑張っているっていうのに……"
+			"value":"As if getting dragged into this strange world\nand almost dying several times wasn’t enough!"
 		},
 		{
 			"key":"EP04_S1200_0011",
-			"value":"あんな……あんな恐ろしいものに\n立ち向かえっていうのか……？"
+			"value":"Is this what we get for carrying on despite\neverything? Having to deal with that thing?!"
 		},
 		{
 			"key":"EP04_S1200_0012",
-			"value":"シュウジ……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0013",
-			"value":"（シュウジさんもあのバケモノに怯えてるんだな\n　いや、無理もないか）"
+			"value":"(Sounds like Shuuji’s scared of that monster\ntoo. Not that I blame him.)"
 		},
 		{
 			"key":"EP04_S1200_0014",
-			"value":"（でも、シュウジさんには年長者として\n　例え見せかけでも前向きになってもらわないと）"
+			"value":"(But as the oldest one here, I feel like he\nshould at least act like he’s doing okay.)"
 		},
 		{
 			"key":"EP04_S1200_0015",
-			"value":"（こういう時こそロップモンに頼るべきだと\n　思うんだけど……まだ関係は悪いのかな？）"
+			"value":"(He should be relying on Lopmon, but\napparently they’re still on bad terms.)"
 		},
 		{
 			"key":"EP04_S1200_Q1",
-			"value":"（シュウジさんになんて言おう？）"
+			"value":"(What should I say to Shuuji?)"
 		},
 		{
 			"key":"EP04_S1200_Q1_A1",
-			"value":"無理もありません"
+			"value":"I don’t blame you."
 		},
 		{
 			"key":"EP04_S1200_Q1_A2",
-			"value":"しっかりしてください"
+			"value":"Stay strong."
 		},
 		{
 			"key":"EP04_S1200_Q1_A3",
-			"value":"ロップモンと協力しましょう"
+			"value":"Lopmon can help."
 		},
 		{
 			"key":"EP04_S1200_0016",
-			"value":"無理もありません"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0017",
-			"value":"無理もありませんよ。正直、アグモンたちが\n霧を怖がってた気持ち、わかりました"
+			"value":"Hey, I don’t blame you. Honestly, I totally\nget why Agumon and the others were so scared."
 		},
 		{
 			"key":"EP04_S1200_0018",
-			"value":"タクマも、怖いのかい？"
+			"value":"You mean, you’re scared too, Takuma?"
 		},
 		{
 			"key":"EP04_S1200_0019",
-			"value":"ええ、怖いです"
+			"value":"Absolutely."
 		},
 		{
 			"key":"EP04_S1200_0020",
-			"value":"そうか……なんだか、安心したよ"
+			"value":"Oh. You know, I’m kind of relieved to hear\nyou say that."
 		},
 		{
 			"key":"EP04_S1200_0021",
-			"value":"え？　安心？"
+			"value":"What? Why’s that?"
 		},
 		{
 			"key":"EP04_S1200_0022",
-			"value":"リョウを助けた時、みんなが走りだす中\n僕だけ出遅れたからね"
+			"value":"Well, when everyone else rushed over to save\nRyo, I was one step behind."
 		},
 		{
 			"key":"EP04_S1200_0023",
-			"value":"怖がっていたのは僕だけかと思っていた"
+			"value":"I thought maybe I was the only one who was\nscared."
 		},
 		{
 			"key":"EP04_S1200_0024",
-			"value":"そんなことは……"
+			"value":"Well, you weren’t."
 		},
 		{
 			"key":"EP04_S1200_0025",
-			"value":"いや、安心なんかしてはいけないな\n僕がしっかりしないといけないんだから"
+			"value":"But I shouldn’t be feeling relieved in the\nfirst place. I need to keep it together."
 		},
 		{
 			"key":"EP04_S1200_0026",
-			"value":"何ができるかわからないけど\nこれからのこと、少し考えてみるよ"
+			"value":"I’m not sure what there is we can do, but\nI’ll try to think more about our next move."
 		},
 		{
 			"key":"EP04_S1200_0027",
-			"value":"（スッキリした顔してるな\n　シュウジさんのこんな顔、久しぶりに見たかも）"
+			"value":"(He does seem like he’s feeling better.\nI haven’t seen him like this in a while.)"
 		},
 		{
 			"key":"EP04_S1200_0028",
-			"value":"しっかりしてください"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0029",
-			"value":"しっかりしてください。シュウジさんが\nみんなを引っ張らないでどうするんですか"
+			"value":"Shuuji, you need to stay strong. We’re all\ncounting on you to lead us."
 		},
 		{
 			"key":"EP04_S1200_0030",
-			"value":"う、うん……だけど、あんなのどうすれば……"
+			"value":"I know that, I do, but...how do we even face\nthat thing?"
 		},
 		{
 			"key":"EP04_S1200_0031",
-			"value":"怖がってるのはみんな同じです。だからこそ\nリーダーとして前に立ってほしいんです"
+			"value":"Look, we’re all scared. That’s why we need\nyou to step up and be a leader."
 		},
 		{
 			"key":"EP04_S1200_0032",
-			"value":"リーダーとして……"
+			"value":"Be...a leader."
 		},
 		{
 			"key":"EP04_S1200_0033",
-			"value":"そ、そうだな\nしっかりしないといけないな"
+			"value":"Y-you’re right. I need to stay strong."
 		},
 		{
 			"key":"EP04_S1200_0034",
-			"value":"僕は、リーダーなんだ……\nちゃんとやらないと……"
+			"value":"I’m...the leader. I have to set an example."
 		},
 		{
 			"key":"EP04_S1200_0035",
-			"value":"（うーん、なんだか気負いすぎてるかも\n　もっと他の言い方があったのかな……）"
+			"value":"(Hmm, he still seems pretty overwhelmed.\nMaybe I could’ve worded that better.)"
 		},
 		{
 			"key":"EP04_S1200_0036",
-			"value":"ロップモンと協力しましょう"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0037",
-			"value":"大丈夫ですよ。僕たちにはアグモンや\nロップモンがいるじゃないですか"
+			"value":"It’s okay, Shuuji. After all, we’ve got our\npartners. I have Agumon, and you have Lopmon."
 		},
 		{
 			"key":"EP04_S1200_0038",
-			"value":"みんなで協力すれば、なんとかなりますって！"
+			"value":"If we all work together, I’m sure we’ll make\nit through this somehow!"
 		},
 		{
 			"key":"EP04_S1200_0039",
-			"value":"お～う！　なんとかするぞ～！"
+			"value":"Yeah! I’ll make sure of it!"
 		},
 		{
 			"key":"EP04_S1200_0040",
-			"value":"ぼ、ボクも、頑張るよ……！"
+			"value":"I’ll d-do what I can too!"
 		},
 		{
 			"key":"EP04_S1200_0041",
-			"value":"アグモンはともかく……\nコイツが戦力になるかは疑わしいな"
+			"value":"Well, maybe Agumon can help, but I wouldn’t\nexpect much from Lopmon."
 		},
 		{
 			"key":"EP04_S1200_0042",
-			"value":"え……？"
+			"value":"You...wouldn’t?"
 		},
 		{
 			"key":"EP04_S1200_0043",
-			"value":"いつも怯えてばかりでちっとも役に立たない\nまともに戦えもしない"
+			"value":"Of course not! You’re scared of everything!\nYou’re never any help, especially in a fight."
 		},
 		{
 			"key":"EP04_S1200_0044",
-			"value":"どうしてお前なんだ……\nもっと強いヤツだったら、僕だって……"
+			"value":"I can’t believe I’m stuck with you. If I had\na stronger monster, that’s what would help."
 		},
 		{
 			"key":"EP04_S1200_0045",
-			"value":"うぅ、シュウジ……\nごめん……"
+			"value":"Oh... I... I’m sorry, Shuuji."
 		},
 		{
 			"key":"EP04_S1200_0046",
-			"value":"そんな言い方ないだろー！"
+			"value":"Hey, don’t you talk to him like that!"
 		},
 		{
 			"key":"EP04_S1200_0047",
-			"value":"戦うにしてもコイツは数に入れない方がいい\n足手まといになるだけだ"
+			"value":"We’re better off not even counting on Lopmon\nin a fight. He’d only get in the way."
 		},
 		{
 			"key":"EP04_S1200_0048",
-			"value":"（シュウジさん、ロップモンのことを全然信用してない\n　これはよくない気がする。でも……）"
+			"value":"(Shuuji has absolutely no faith in Lopmon.\nI feel like that’s a bad thing, but...)"
 		},
 		{
 			"key":"EP04_S1200_0049",
-			"value":"（よくわからない相手を信用しろ、だなんて\n　どう伝えればいいかわからないよ）"
+			"value":"(...how do I get through to him? I can’t just\ntell him to trust this strange creature.)"
 		},
 		{
 			"key":"EP04_S1200_0200",
-			"value":"この文字化けメールも\nきっとここに来る前に届いていたものなんだろう……"
+			"value":"This garbled message must’ve been sent before\nwe came here."
 		},
 		{
 			"key":"EP04_S1200_0201",
-			"value":"だってここは、異世界なんだから……"
+			"value":"After all, this is another world, right?"
 		},
 		{
 			"key":"EP04_S1200_0202",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0050",
-			"value":"とにかく\nすまないが、もうしばらく１人にしてくれないか"
+			"value":"Anyway, sorry, but would you mind giving me\na little more time on my own?"
 		},
 		{
 			"key":"EP04_S1200_0051",
-			"value":"えっ、でも……"
+			"value":"Uh, are you sure?"
 		},
 		{
 			"key":"EP04_S1200_0052",
-			"value":"今は１人で考えたいんだ"
+			"value":"Yeah, I could use some time to think."
 		},
 		{
 			"key":"EP04_S1200_0053",
-			"value":"わかりました"
+			"value":"All right."
 		},
 		{
 			"key":"EP04_S1200_0054",
-			"value":"シュウジ……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0055",
-			"value":"いいからお前はあっちに行け"
+			"value":"I’m fine. Just leave me alone."
 		},
 		{
 			"key":"EP04_S1200_0056",
-			"value":"うん"
+			"value":"Okay."
 		},
 		{
 			"key":"EP04_S1200_0057",
-			"value":"（今は、シュウジさんを信じよう……）"
+			"value":"(Right now, I think I’d better trust Shuuji.)"
 		},
 		{
 			"key":"EP04_S1200_0058",
-			"value":"うぅっ……僕のせいだ……！\n僕が……僕さえしっかりしていたら……！"
+			"value":"Urgh, this is all my fault! If only I’d been\nable to keep it together."
 		},
 		{
 			"key":"EP04_S1200_0059",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0060",
-			"value":"うわっ！？"
+			"value":"Wah!"
 		},
 		{
 			"key":"EP04_S1200_0061",
-			"value":"あっ、タクマ……すまない、\nつい独り言が……"
+			"value":"Oh, Takuma! Sorry, I was just talking to\nmyself."
 		},
 		{
 			"key":"EP04_S1200_0062",
-			"value":"いえ、僕のほうこそ\n驚かせてしまってすいません"
+			"value":"No, I feel like I should be the one to\napologize. I didn’t mean to scare you."
 		},
 		{
 			"key":"EP04_S1200_0063",
-			"value":"大丈夫ですか？"
+			"value":"How are you doing?"
 		},
 		{
 			"key":"EP04_S1200_0064",
-			"value":"シュウジ……ずっと辛そうにしてて\nボク……心配だよ"
+			"value":"Shuuji, you look like you’re in so much pain\nall the time. I’m worried about you."
 		},
 		{
 			"key":"EP04_S1200_0065",
-			"value":"うるさいな\nお前なんかに、何がわかるんだよ"
+			"value":"Shut up! What do you know?"
 		},
 		{
 			"key":"EP04_S1200_0066",
-			"value":"こんなわけのわからない場所に迷い込んで\nあげく、目の前で人が死んだんだぞ……！？"
+			"value":"Not only was I thrown into some strange new\nworld, I watched someone die in front of me!"
 		},
 		{
 			"key":"EP04_S1200_0067",
-			"value":"ご、ごめん……ボク……"
+			"value":"I’m sorry... I only meant..."
 		},
 		{
 			"key":"EP04_S1200_0068",
-			"value":"こんなことにならないようにって\n教授は僕にみんなのことを託していったのに……"
+			"value":"This is exactly the kind of thing the\nprofessor trusted me to keep from happening!"
 		},
 		{
 			"key":"EP04_S1200_0069",
-			"value":"僕がちゃんとしてなかったからリョウを……！\nこんな事じゃ、教授にも面目が立たないよ……"
+			"value":"If I’d had my act together, Ryo would still be\nhere! I’ve completely failed the professor."
 		},
 		{
 			"key":"EP04_S1200_0070",
-			"value":"気持ちはわかりますシュウジさん\nでも、あまり自分を責めないで下さい"
+			"value":"Shuuji, I can see why you’d feel that way, but\nyou shouldn’t blame yourself."
 		},
 		{
 			"key":"EP04_S1200_0071",
-			"value":"教授のことも、リョウのことも\nシュウジさんのせいじゃないんですから"
+			"value":"What happened to the two of them wasn’t your\nfault."
 		},
 		{
 			"key":"EP04_S1200_0072",
-			"value":"そうはいかない……年長者で、\nリーダーであるはずの僕が……"
+			"value":"No, it IS my fault! I'm the oldest, the one\nwho's supposed to be the leader!"
 		},
 		{
 			"key":"EP04_S1200_0073",
-			"value":"僕が、責任をもって\nみんなを守らなきゃいけなかったのに……！"
+			"value":"It was my job to keep everyone safe."
 		},
 		{
 			"key":"EP04_S1200_0074",
-			"value":"僕はリョウの親御さんに、\n何と言ってお詫びすれば良いんだ……！？"
+			"value":"How am I supposed to apologize to Ryo’s\nparents?!"
 		},
 		{
 			"key":"EP04_S1200_0075",
-			"value":"（本当に責任を感じてるんだ……）"
+			"value":"(He really feels like he’s responsible for\nwhat happened.)"
 		},
 		{
 			"key":"EP04_S1200_0076",
-			"value":"（でも、シュウジさんが\n　１人で責任を負うなんておかしいよな）"
+			"value":"(But it’s not like he’s solely to blame for\nit.)"
 		},
 		{
 			"key":"EP04_S1200_0077",
-			"value":"（そもそも\n　シュウジさんのせいなんかじゃないのに）"
+			"value":"(None of it was his fault.)"
 		},
 		{
 			"key":"EP04_S1200_Q2",
-			"value":"（こんな時、何て声をかければいいんだろう？）"
+			"value":"(So how do I answer his question?)"
 		},
 		{
 			"key":"EP04_S1200_Q2_A1",
-			"value":"僕も一緒に謝ります"
+			"value":"I’ll apologize too."
 		},
 		{
 			"key":"EP04_S1200_Q2_A2",
-			"value":"謝る必要はないです"
+			"value":"No need to apologize."
 		},
 		{
 			"key":"EP04_S1200_Q2_A3",
-			"value":"戻ってから考えましょう"
+			"value":"Think of that later."
 		},
 		{
 			"key":"EP04_S1200_0078",
-			"value":"僕も一緒に謝ります"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0079",
-			"value":"何て言って謝ればいいかはわからないけど……\nその時は、僕も一緒に謝ります"
+			"value":"Well, I’m not sure what you should say, but\nI’ll be there to apologize with you."
 		},
 		{
 			"key":"EP04_S1200_0080",
-			"value":"リョウのこと……"
+			"value":"After all, when it comes to what happened\nwith Ryo,"
 		},
 		{
 			"key":"EP04_S1200_0081",
-			"value":"シュウジさんに責任があるっていうなら\n僕も同じだと思うから"
+			"value":"I’m at least as responsible as you were."
 		},
 		{
 			"key":"EP04_S1200_0082",
-			"value":"ありがとう\nでも、気を使わせてしまったな……"
+			"value":"Thanks. But you shouldn’t have to feel that\nway."
 		},
 		{
 			"key":"EP04_S1200_0083",
-			"value":"僕は、本当にダメなリーダーだな"
+			"value":"I really am a terrible leader, aren’t I?"
 		},
 		{
 			"key":"EP04_S1200_0084",
-			"value":"そんなことないよ。シュウジはちゃんと\nリーダーとして、頑張ってると思うよ"
+			"value":"No, you’re not. You’re doing the best you\ncan, and I think that’s what counts."
 		},
 		{
 			"key":"EP04_S1200_0085",
-			"value":"お前には……聞いてない"
+			"value":"Well, who asked you?"
 		},
 		{
 			"key":"EP04_S1200_0086",
-			"value":"謝る必要はないです"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0087",
-			"value":"シュウジさんが謝る必要なんて\nないと思います"
+			"value":"I don’t think you have anything to apologize\nfor."
 		},
 		{
 			"key":"EP04_S1200_0088",
-			"value":"だって、こんな世界に迷いこむなんて\n予想もできなかったんだし"
+			"value":"After all, nobody could’ve known we’d end up\nin a world like this."
 		},
 		{
 			"key":"EP04_S1200_0089",
-			"value":"リョウが、あんなことになったのは\n正体不明の霧とバケモノの手のせいだから"
+			"value":"What happened to Ryo happened because of that\nweird fog and the monster hands inside it."
 		},
 		{
 			"key":"EP04_S1200_0090",
-			"value":"ボクも、そう思うよ"
+			"value":"That’s what I think too."
 		},
 		{
 			"key":"EP04_S1200_0091",
-			"value":"偉そうに言うな\nバケモノの仲間のくせに……！"
+			"value":"And what right do you have to an opinion?\nYou’re one of the monsters!"
 		},
 		{
 			"key":"EP04_S1200_0092",
-			"value":"ロップモンはシュウジさんを心配して……"
+			"value":"Lopmon’s just worried about you."
 		},
 		{
 			"key":"EP04_S1200_0093",
-			"value":"どうだかな\nどうせこいつも、バケモノなんだ……"
+			"value":"Is he, though? Don’t forget, he’s a monster."
 		},
 		{
 			"key":"EP04_S1200_0094",
-			"value":"戻ってから考えましょう"
+			"value":""
 		},
 		{
 			"key":"EP04_S1200_0095",
-			"value":"正直……今はそんなこと考えても\nしょうがない気がします"
+			"value":"To be honest, I don’t think focusing on that\nis going to help us now."
 		},
 		{
 			"key":"EP04_S1200_0096",
-			"value":"どうすればいいのかは、元の世界に戻ってから\n考えることにしましょう"
+			"value":"That’s the kind of thing we can worry about\nmore after we get back."
 		},
 		{
 			"key":"EP04_S1200_0097",
-			"value":"しかし、それでは\n問題を先送りにしているにすぎないじゃないか！"
+			"value":"But that doesn’t solve anything! It just\ndelays the problem!"
 		},
 		{
 			"key":"EP04_S1200_0098",
-			"value":"そうかもしれないですけど\n今は、目の前のことで頭がいっぱいで……"
+			"value":"Maybe, but I have a hard enough time thinking\nabout what to do now."
 		},
 		{
 			"key":"EP04_S1200_0099",
-			"value":"タクマの言う通りにしよう……？"
+			"value":"I think you should listen to Takuma."
 		},
 		{
 			"key":"EP04_S1200_0100",
-			"value":"何の責任もないお前が、勝手なことを言うな"
+			"value":"Oh, shut up! What do you know about\nresponsibility?"
 		},
 		{
 			"key":"EP04_S1200_0101",
-			"value":"とにかく\nすまないが、もうしばらく１人にしてくれないか"
+			"value":"Anyway, sorry, but would you mind giving me\na little more time on my own?"
 		},
 		{
 			"key":"EP04_S1200_0102",
-			"value":"えっ、でも……"
+			"value":"Uh, are you sure?"
 		},
 		{
 			"key":"EP04_S1200_0103",
-			"value":"今は１人で考えたいんだ"
+			"value":"Yeah, I could use some time to think."
 		},
 		{
 			"key":"EP04_S1200_0104",
-			"value":"わかりました"
+			"value":"All right."
 		},
 		{
 			"key":"EP04_S1200_0105",
-			"value":"シュウジ……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP04_S1200_0106",
-			"value":"いいからお前はあっちに行け"
+			"value":"I’m fine. Just leave me alone."
 		},
 		{
 			"key":"EP04_S1200_0107",
-			"value":"うん"
+			"value":"Okay."
 		},
 		{
 			"key":"EP04_S1200_0108",
-			"value":"（シュウジさん、そうとう参っているな……\n　なまじ責任感があるせいで、余計に辛いんだろう）"
+			"value":"Shuuji’s not taking this well, and his own\nstrong sense of responsibility isn’t helping."
 		},
 		{
 			"key":"EP04_S1200_0109",
-			"value":"（今は、そっとしておくのが一番かな？）"
+			"value":"Maybe it’s best if I just leave him alone for\na while."
 		},
 		{
 			"key":"EP04_S1200_0110",
-			"value":"すまないが、もうしばらく１人にしてくれ"
+			"value":"Would you mind giving me just a little more\ntime on my own?"
 		}
 	]
 }

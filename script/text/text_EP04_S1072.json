@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1072_0001",
-			"value":"あれ？\nなんか、ここ……床が変だぞ……？"
+			"value":"Hm? Hold on... Something about the floor here\nis weird."
 		},
 		{
 			"key":"EP04_S1072_0002",
-			"value":"ほんとだー！\nここ、簡単にはずれるようになってるみたいだ"
+			"value":"Yeah, you’re right! It’s made so this part\ncomes off!"
 		},
 		{
 			"key":"EP04_S1072_0003",
-			"value":"タクマ、下になんかあるぞ！"
+			"value":"Hey, there’s something underneath!"
 		},
 		{
 			"key":"EP04_S1072_0004",
-			"value":"床の下にって、まさか虫とかじゃ……"
+			"value":"It’s not a giant bug is it?"
 		},
 		{
 			"key":"EP04_S1072_0005",
-			"value":"違うよー！　ほら！"
+			"value":"No, look at this!"
 		},
 		{
 			"key":"EP04_S1072_0006",
-			"value":"ほんとだ！　やったなアグモン！"
+			"value":"Hey, that’s a good find! Nice work, Agumon!"
 		}
 	]
 }

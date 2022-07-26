@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1121_0001",
-			"value":"あっ……！\n足跡が、左に曲がって続いてる……！"
+			"value":"Look! The footprints go to the left!"
 		},
 		{
 			"key":"EP04_S1121_0002",
-			"value":"今度は、この通路の角を\n左に曲がったみたいだぞ……！"
+			"value":"They must have gone left around this corner!"
 		},
 		{
 			"key":"EP04_S1121_0003",
-			"value":"じゃあ、こっちにまだ新しい通路が\nあるってことかな"
+			"value":"So there’s another hall down this way?"
 		},
 		{
 			"key":"EP04_S1121_0004",
-			"value":"タクマ、進んでみよう！"
+			"value":"Let’s go, Takuma!"
 		}
 	]
 }

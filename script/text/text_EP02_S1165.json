@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1165_0001",
-			"value":"くんくん……やっぱり匂うわ\n獣みたいな匂い"
+			"value":"*sniff* *sniff* Yes, I’m picking up on\na scent. It smells like some sort of beast."
 		},
 		{
 			"key":"EP02_S1165_0002",
-			"value":"それってさっきのヤツか？\nどこに向かってる？"
+			"value":"You think it’s that thing from before?\nWhere’s it headed?"
 		},
 		{
 			"key":"EP02_S1165_0003",
-			"value":"う～ん……なんだかあちこちから匂いがして\nわかりにくいわ……"
+			"value":"Hmm, it’s hard to say. The scent’s coming\nfrom all over."
 		},
 		{
 			"key":"EP02_S1165_0004",
-			"value":"でも、アイツがいるのは間違いない\n気をつけてね"
+			"value":"But it’s definitely out there. We should be\ncareful."
 		},
 		{
 			"key":"EP02_S1165_0005",
-			"value":"わ、わかった"
+			"value":"Oh, okay."
 		},
 		{
 			"key":"EP02_S1165_0006",
-			"value":"アイツ、きっと近くにいるわ\n気をつけてね"
+			"value":"That thing has got to be close by. Be\ncareful."
 		}
 	]
 }

@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1204_0001",
-			"value":"タクマー、ショクリョウはここにあるのか？"
+			"value":"Is there food here, Takuma?"
 		},
 		{
 			"key":"EP02_S1204_0002",
-			"value":"う～ん、どうだろう……"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP02_S1204_0003",
-			"value":"なんとなく来てはみたけど\nよく考えたら体育館に食料なんてあるわけないよな"
+			"value":"We made it this far but come to think of it,\nwhy would there be food in a gym?"
 		},
 		{
 			"key":"EP02_S1204_0004",
-			"value":"なぁタクマー、これってショクリョウか？"
+			"value":"Is this food, Takuma?"
 		},
 		{
 			"key":"EP02_S1204_0005",
-			"value":"ん？　どれどれ？"
+			"value":"What? Where?"
 		},
 		{
 			"key":"EP02_S1204_0006",
-			"value":"あー、これは食料じゃないな\nでも役に立つやつだ"
+			"value":"No, that’s not food.\nBut it will be helpful."
 		},
 		{
 			"key":"EP02_S1204_0007",
-			"value":"見つけてくれてありがとう、アグモン"
+			"value":"Good job finding this, Agumon."
 		},
 		{
 			"key":"EP02_S1204_0008",
-			"value":"えへへ～、どういたしまして～"
+			"value":"You’re very welcome!"
 		},
 		{
 			"key":"EP02_S1204_0009",
-			"value":"タクマー、なんにもないなー"
+			"value":"Takuma, nothing's here."
 		},
 		{
 			"key":"EP02_S1204_0010",
-			"value":"そうだなぁ……\n他のとこも見てみるか"
+			"value":"Well, let me think.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1204_0011",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP02_S1204_0012",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		}
 	]
 }

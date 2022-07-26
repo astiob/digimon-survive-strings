@@ -2,383 +2,383 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1313_0001",
-			"value":"ここが……祠の扉の奥……？"
+			"value":"Is this the inner part of the shrine?"
 		},
 		{
 			"key":"EP11_S1313_0002",
-			"value":"さっきまでの部屋と似てるけど\nちょっと違うね"
+			"value":"It’s like the other room, but a little\ndifferent."
 		},
 		{
 			"key":"EP11_S1313_0003",
-			"value":"ここにも壁に、何か大きな絵が描かれているのね"
+			"value":"There are big pictures on this rooms’ walls,\ntoo."
 		},
 		{
 			"key":"EP11_S1313_0004",
-			"value":"壁画ってやつだよね"
+			"value":"They’re called murals."
 		},
 		{
 			"key":"EP11_S1313_0005",
-			"value":"でもこれ、何の絵だぁ？"
+			"value":"What are they pictures of, though?"
 		},
 		{
 			"key":"EP11_S1313_0006",
-			"value":"うーん……なんか、空みたいな\n雲……みたいな……"
+			"value":"Uhh, looks like the sky...and those are\nclouds?"
 		},
 		{
 			"key":"EP11_S1313_0007",
-			"value":"こっちは、人間と……ケモノかぁ？"
+			"value":"And this is a person and...a monster?"
 		},
 		{
 			"key":"EP11_S1313_0008",
-			"value":"興味深いな……"
+			"value":"Intriguing..."
 		},
 		{
 			"key":"EP11_S1313_0009",
-			"value":"しかし、いったいどのような\n意味が込められているのだ……？"
+			"value":"I wonder what it all means..."
 		},
 		{
 			"key":"EP11_S1313_0010",
-			"value":"これまでの壁画と合わせて考えれば\n何か見えてくるのかもしれないが……"
+			"value":"If we consider all the murals together they\nmay begin to make sense..."
 		},
 		{
 			"key":"EP11_S1313_0011",
-			"value":"全部いっぺんに見ないと\nわかんないってことかー！"
+			"value":"You mean they’re all part of one story?"
 		},
 		{
 			"key":"EP11_S1313_0012",
-			"value":"ああいや。単に考察の時間が足りないと言うべきか"
+			"value":"Not necessarily. But they may warrant more\ntime than what we have available."
 		},
 		{
 			"key":"EP11_S1313_0013",
-			"value":"だが、この壁画から分かることもある\n例えば……"
+			"value":"However, I can make a few inferences based on\nthese murals. For example..."
 		},
 		{
 			"key":"EP11_S1313_0014",
-			"value":"ケモノガミという神……あるいは神の使いと人間とが\n繋がっているということだ"
+			"value":"The gods called “Kemonogami,” or their\nmessengers, are connected to humans."
 		},
 		{
 			"key":"EP11_S1313_0015",
-			"value":"繋がってるってどういう意味だ？"
+			"value":"Connected? Like how?"
 		},
 		{
 			"key":"EP11_S1313_0016",
-			"value":"そこまでは私にもわからないがね……\n壁画の両者は、紐のようなもので結ばれているだろう？"
+			"value":"I don’t know. But see how the two murals are\nconnected by a cord?"
 		},
 		{
 			"key":"EP11_S1313_0017",
-			"value":"ほんとだ……"
+			"value":"Oh yeah..."
 		},
 		{
 			"key":"EP11_S1313_0018",
-			"value":"これって……もしかして、昔は神と人とが\nすごく身近な存在だったってことなのかな……"
+			"value":"Perhaps the gods and humans were closer in\nancient times."
 		},
 		{
 			"key":"EP11_S1313_0019",
-			"value":"今の俺らやカイトたちみてーに……ってことか？"
+			"value":"You mean like me and Kaito...? How all of us\nare?"
 		},
 		{
 			"key":"EP11_S1313_0020",
-			"value":"どうだろうね"
+			"value":"Perhaps. Or perhaps not. Who knows?"
 		},
 		{
 			"key":"EP11_S1313_0021",
-			"value":"なにぶん、私たちの世界では……神や霊獣\nといったものは実在しない概念でしかないからね"
+			"value":"At any rate, people don’t see gods and\nspirits like these as existing anymore."
 		},
 		{
 			"key":"EP11_S1313_0022",
-			"value":"だが、ニンゲンが信仰の対象として見ている存在……\nということなのだろう？"
+			"value":"Humans see them as something to believe in,\nor have faith in, right?"
 		},
 		{
 			"key":"EP11_S1313_0023",
-			"value":"それって、ピエモンたちにとっての\n主みたいな存在ってこと？"
+			"value":"Hmm... Sounds like how Piedmon and his crew\nsee the Master."
 		},
 		{
 			"key":"EP11_S1313_0024",
-			"value":"じゃあ、そいつらも世界を飲み込む\n怖いやつらってことかしら！？"
+			"value":"You mean, like a scary entity that can\nswallow up the world?! Yikes!"
 		},
 		{
 			"key":"EP11_S1313_0025",
-			"value":"ええ～！　ワルイ神様ってことじゃない！"
+			"value":"Your “gods” sound pretty terrifying!"
 		},
 		{
 			"key":"EP11_S1313_0026",
-			"value":"いや、先ほども言ったが私たちの世界では\n神というものに実体は存在しないのだよ"
+			"value":"Not exactly. You see, people don’t think gods\nhave actual bodies in the human world."
 		},
 		{
 			"key":"EP11_S1313_0027",
-			"value":"ゆえに、善とも悪とも言い切れない"
+			"value":"So it’s hard to determine if they’re truly\n“good” or “evil.”"
 		},
 		{
 			"key":"EP11_S1313_0028",
-			"value":"そういう、あいまいな存在だからかな……\nこの世界の主ほどには、神は信じられていないんだ"
+			"value":"Quite vague, really. In any case they’re not\nas immediate as the Master in this world."
 		},
 		{
 			"key":"EP11_S1313_0029",
-			"value":"もちろん、深く信心している人々がいるのも\n事実ではあるがね"
+			"value":"Although, of course, some people have very\nsincere beliefs in them."
 		},
 		{
 			"key":"EP11_S1313_0030",
-			"value":"オレたちだって、主を信じてるやつもいりゃ\n信じてないやつもいるけどな"
+			"value":"Same for us. Some believe in the Master and\nsome don’t."
 		},
 		{
 			"key":"EP11_S1313_0031",
-			"value":"確かに……でも、僕らの世界だと\nもっと、神の存在が希薄……っていうか"
+			"value":"Right. But in our world gods are more\ndistant, or faint."
 		},
 		{
 			"key":"EP11_S1313_0032",
-			"value":"そこに、実際に存在してるってわけじゃないから\nどこかでは、いないものとして認識してるっていうか……"
+			"value":"Like, gods don’t physically exist, so they’re\njust kind of out there somewhere."
 		},
 		{
 			"key":"EP11_S1313_0033",
-			"value":"存在が希薄……\nいないものとして……"
+			"value":"A faint presence, as if they don’t really\nexist... Exactly."
 		},
 		{
 			"key":"EP11_S1313_0034",
-			"value":"…………だとすると、もしや……"
+			"value":"In that case, perhaps..."
 		},
 		{
 			"key":"EP11_S1313_0035",
-			"value":"教授……？　どうかしたんですか？"
+			"value":"What is it, Professor? What’s on your mind?"
 		},
 		{
 			"key":"EP11_S1313_0036",
-			"value":"ああいや、すまない\nつい、考え事に夢中になってしまってね"
+			"value":"I’m sorry, I just got a little lost in\nthought."
 		},
 		{
 			"key":"EP11_S1313_0037",
-			"value":"それよりも……おしゃべりはここまでにしよう\n彼を待たせてしまっているようだ"
+			"value":"Anyway, enough talking for now. We’re keeping\nyou-know-who waiting."
 		},
 		{
 			"key":"EP11_S1313_0038",
-			"value":"ふん……いよいよこれから主の元に乗り込むというときに\n呑気な講釈とは……"
+			"value":"Well, you took the words right out of my\nmouth! Now’s not the time for lectures."
 		},
 		{
 			"key":"EP11_S1313_0039",
-			"value":"気になると、他のことが頭から抜けてしまう……\n私の悪い癖だ"
+			"value":"Once I get interested in something, all else\ndisappears from my mind. A bad habit of mine."
 		},
 		{
 			"key":"EP11_S1313_0040",
-			"value":"まあいい。それより……\n全員、この先へ進む覚悟はできてるんだろうな？"
+			"value":"Whatever. Is everyone fully and completely\nprepared to get moving now?"
 		},
 		{
 			"key":"EP11_S1313_0041",
-			"value":"（レナモンの目が……鋭くなった\n　本当に、いよいよなんだ……）"
+			"value":"(Renamon’s eyes are...intense. This is really\nit.)"
 		},
 		{
 			"key":"EP11_S1313_0042",
-			"value":"（きっと、ここから奥へ進んだら\n　もう後戻りはできないってことなんだろう）"
+			"value":"(Once we head into the inner area, there’s no\nturning back.)"
 		},
 		{
 			"key":"EP11_S1313_0043",
-			"value":"（みんなも、きっとそれはわかってる）"
+			"value":"(Everyone’s thinking the same thing.)"
 		},
 		{
 			"key":"EP11_S1313_0044",
-			"value":"（だから、もし……もしも引き返したいって\n　人がいるならここが最後のチャンス）"
+			"value":"(If anyone wants to turn back, this is their\nlast chance.)"
 		},
 		{
 			"key":"EP11_S1313_0045",
-			"value":"（けど、引き返したところで\n　今の状況が変わらなければ安全な場所なんてない）"
+			"value":"(But even if we do turn back, nowhere’s safe\nthe way things are now.)"
 		},
 		{
 			"key":"EP11_S1313_0046",
-			"value":"（僕らは、このまま進むしかないと思う）"
+			"value":"(In my opinion our only choice is to go on.)"
 		},
 		{
 			"key":"EP11_S1313_0047",
-			"value":"（それでも、立ち止まりたいって\n　人がいるなら……それはそれで受け入れよう）"
+			"value":"(Still, if anyone said they wanted to wait\nhere, I wouldn’t stop them.)"
 		},
 		{
 			"key":"EP11_S1313_Q1",
-			"value":"（レナモンに何て答えればいい？）"
+			"value":"(How should I respond to Renamon?)"
 		},
 		{
 			"key":"EP11_S1313_Q1_A1",
-			"value":"とっくに覚悟はできてる"
+			"value":"Ready as ever."
 		},
 		{
 			"key":"EP11_S1313_Q1_A2",
-			"value":"引き返したい人は引き返せばいい"
+			"value":"Anyone can leave."
 		},
 		{
 			"key":"EP11_S1313_Q1_A3",
-			"value":"少しだけ立ち止まって考えよう"
+			"value":"Let’s stop to think."
 		},
 		{
 			"key":"EP11_S1313_0048",
-			"value":"とっくに覚悟できてる"
+			"value":"Ready as ever."
 		},
 		{
 			"key":"EP11_S1313_0049",
-			"value":"レナモン……\n僕たち、覚悟なんてとっくにできてるよ"
+			"value":"We’ve always been ready, Renamon."
 		},
 		{
 			"key":"EP11_S1313_0050",
-			"value":"僕らの目的はミユキを助けること……"
+			"value":"Our goal is to rescue Miyuki."
 		},
 		{
 			"key":"EP11_S1313_0051",
-			"value":"それから、どんな形であれ主の復讐を止めて\n世界を救うこと……！"
+			"value":"We’ll stop the Master’s plan for revenge,\nwhatever that is, and save the world!"
 		},
 		{
 			"key":"EP11_S1313_0052",
-			"value":"だから、振り返ったりしない！"
+			"value":"There’s no looking back!"
 		},
 		{
 			"key":"EP11_S1313_0053",
-			"value":"引き返したい人は引き返せばいい"
+			"value":"Anyone can leave."
 		},
 		{
 			"key":"EP11_S1313_0054",
-			"value":"全員で話し合って、ここまで来たんだから\nそれぞれ覚悟はできてると思う"
+			"value":"We’ve reached this point by discussing\neverything together, so I think we’re ready."
 		},
 		{
 			"key":"EP11_S1313_0055",
-			"value":"そうか、なら……"
+			"value":"All right then! What are we waiting for?"
 		},
 		{
 			"key":"EP11_S1313_0056",
-			"value":"けど僕は、ここで引き返したいって思ってる仲間が\nいるなら……それを受け止めたいとも思う"
+			"value":"But if anyone wants to turn back, I wouldn’t\nstop them."
 		},
 		{
 			"key":"EP11_S1313_0057",
-			"value":"アオイさん、ミノル、サキ……\nカイト、ミウ……それから教授も"
+			"value":"Aoi, Minoru, Saki... Kaito and Miu... Even\nyou, Professor."
 		},
 		{
 			"key":"EP11_S1313_0058",
-			"value":"もし……もしも、少しでも怖いと思うなら\n引き返したいなら、ここで言ってくれないかな……？"
+			"value":"If you’re scared and don’t want to go on,\nplease say so now."
 		},
 		{
 			"key":"EP11_S1313_0059",
-			"value":"……ふふ、バカね、タクマくん"
+			"value":"Hmph, don’t be stupid, Takuma."
 		},
 		{
 			"key":"EP11_S1313_0060",
-			"value":"ここまで来て、やっぱやーめた！　なんて\n言うわけないだろ！"
+			"value":"Who would quit after coming this far?"
 		},
 		{
 			"key":"EP11_S1313_0061",
-			"value":"そうだよ！　私たちみんな……\nタクマと一緒で覚悟できてるって！"
+			"value":"Seriously! We’re all prepared to go with you,\nTakuma!"
 		},
 		{
 			"key":"EP11_S1313_0062",
-			"value":"むしろオレは、さっさと主を\nぶちのめしてやりたいくらいだぜ"
+			"value":"I wanna hurry up and beat this “Master” up\nalready!"
 		},
 		{
 			"key":"EP11_S1313_0063",
-			"value":"その前に、まずはミユキさんを\n助けるのが先でしょ！"
+			"value":"But first we’re rescuing Miyuki!"
 		},
 		{
 			"key":"EP11_S1313_0064",
-			"value":"い、いや、それもわかってるって"
+			"value":"I know, I know!"
 		},
 		{
 			"key":"EP11_S1313_0065",
-			"value":"元より私は、何に変えても\n姉さんを救うつもりだよ"
+			"value":"I have always intended to rescue my sister at\nall costs."
 		},
 		{
 			"key":"EP11_S1313_0066",
-			"value":"（みんな……！）"
+			"value":"(Wow, everyone’s on board!)"
 		},
 		{
 			"key":"EP11_S1313_0067",
-			"value":"レナモン、これが僕たちみんなの覚悟だよ！"
+			"value":"Looks like we’re all ready, Renamon!"
 		},
 		{
 			"key":"EP11_S1313_0068",
-			"value":"少しだけ立ち止まって考えよう"
+			"value":"Let’s stop to think."
 		},
 		{
 			"key":"EP11_S1313_0069",
-			"value":"みんな、覚悟してると思うけど……"
+			"value":"I think everyone’s ready."
 		},
 		{
 			"key":"EP11_S1313_0070",
-			"value":"レナモンの言う通り、本当にいよいよ主と\n対決することになる"
+			"value":"But like Renamon said, we’re finally about to\nfight the Master."
 		},
 		{
 			"key":"EP11_S1313_0071",
-			"value":"だから、少しだけ立ち止まって考えてみようか"
+			"value":"So maybe we should stop and think things\nthrough for a minute."
 		},
 		{
 			"key":"EP11_S1313_0072",
-			"value":"必要……ないんじゃねーのか？"
+			"value":"...Is that really necessary?"
 		},
 		{
 			"key":"EP11_S1313_0073",
-			"value":"え……？"
+			"value":"What?"
 		},
 		{
 			"key":"EP11_S1313_0074",
-			"value":"お前たちの顔見りゃわかる\nここにいる誰１人、引き返そうなんてやついねーよ"
+			"value":"I can tell just from your faces. No one is\ngoing to turn back."
 		},
 		{
 			"key":"EP11_S1313_0075",
-			"value":"私も同意見だ"
+			"value":"I second that."
 		},
 		{
 			"key":"EP11_S1313_0076",
-			"value":"私は……君たちほど、勇敢な瞳をした\n子どもたちを他に知らないよ"
+			"value":"I’ve never see such looks of bravery in my\nstudents’ eyes."
 		},
 		{
 			"key":"EP11_S1313_0077",
-			"value":"（教授の言う通り、全員が全員……\n　すごく力強い目をしてる……）"
+			"value":"(I see what the professor means. Everyone’s\neyes are so full of strength...)"
 		},
 		{
 			"key":"EP11_S1313_0078",
-			"value":"（そっか……そうだよな\n　心配なんて、何もしなくてよかったんだ）"
+			"value":"(He’s right. There’s nothing left to stop and\nthink about.)"
 		},
 		{
 			"key":"EP11_S1313_0079",
-			"value":"ごめん、みんな！\n立ち止まる必要なんてなかったよな！"
+			"value":"Sorry, guys! I guess we don’t need to stop\nafter all!"
 		},
 		{
 			"key":"EP11_S1313_0080",
-			"value":"レナモン、僕らの覚悟は決まってるよ！"
+			"value":"We’re ready, Renamon!"
 		},
 		{
 			"key":"EP11_S1313_0081",
-			"value":"そうか……ならばもう言うことはない"
+			"value":"Good. Then there’s nothing left to say."
 		},
 		{
 			"key":"EP11_S1313_0082",
-			"value":"もちろん、ボクたちの覚悟もばっちりだよー！"
+			"value":"We’re as prepared as we’ll ever be!"
 		},
 		{
 			"key":"EP11_S1313_0083",
-			"value":"当然だな……！\n主に、ほえ面かかせてやるぜ！"
+			"value":"Totally! I’m ready to make the Master cry!"
 		},
 		{
 			"key":"EP11_S1313_0084",
-			"value":"今まで散々世話になった分を\nきっちりと返してやるとしよう"
+			"value":"Time to get payback for all we’ve been\nthrough."
 		},
 		{
 			"key":"EP11_S1313_0085",
-			"value":"もう……だからその前に\nまずはミユキの救出でしょ"
+			"value":"But FIRST we’re rescuing Miu!"
 		},
 		{
 			"key":"EP11_S1313_0086",
-			"value":"ふふ……大丈夫よ、ラブラモン\nそっちは私たちで、引き受けましょう～？"
+			"value":"All right, Labramon, we get it. Just let us\nhandle that, okay? Hehe."
 		},
 		{
 			"key":"EP11_S1313_0087",
-			"value":"みんなで協力すれば、できないことなんて\nきっとないわよね"
+			"value":"Nothing will stop us if we work together."
 		},
 		{
 			"key":"EP11_S1313_0088",
-			"value":"ああ……その通りだ"
+			"value":"Yeah... Well said."
 		},
 		{
 			"key":"EP11_S1313_0089",
-			"value":"私たちも、全力でサポートしよう\nだからレナモン……姉さんの元へ連れて行ってくれ"
+			"value":"And we’ll do our best to support you. Now\nthen, Renamon, show me to my sister."
 		},
 		{
 			"key":"EP11_S1313_0090",
-			"value":"わかった"
+			"value":"Got it."
 		},
 		{
 			"key":"EP11_S1313_0091",
-			"value":"全員……気を緩めずについてこい\nここから先は、ますます主の気配が強くなるからな"
+			"value":"Come with me, and stay alert. I sense the\nMaster’s presence stronger than ever."
 		}
 	]
 }

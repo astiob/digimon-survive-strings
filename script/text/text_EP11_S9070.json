@@ -2,123 +2,123 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9070_0001",
-			"value":"……あれ？\n思ったより追いかけてきてない？"
+			"value":"...Huh? Hey, fewer of them are chasing us\nthan we expected, right?"
 		},
 		{
 			"key":"EP11_S9070_0002",
-			"value":"半分くらいしか来てねぇ！\nどうするんだよ！？"
+			"value":"Less than half came! What should we do?"
 		},
 		{
 			"key":"EP11_S9070_0003",
-			"value":"と、とりあえず僕たちは逃げよう！"
+			"value":"Well, all we can do is run for now!"
 		},
 		{
 			"key":"EP11_S9070_0004",
-			"value":"このままじゃまずいな……\n仕方ねぇ、オレたちも囮になるぞ！"
+			"value":"This doesn’t look good... Fine, guess we’ll\nplay decoy, too!"
 		},
 		{
 			"key":"EP11_S9070_0005",
-			"value":"あ、待ってお兄ちゃん！"
+			"value":"Ah! Wait, Kaito!"
 		},
 		{
 			"key":"EP11_S9070_0006",
-			"value":"ちょっと、ミウちゃん！\nあーもう！　追いかけるからね！"
+			"value":"Hey, Miu! Ah jeez... I’ll go after her!"
 		},
 		{
 			"key":"EP11_S9070_0007",
-			"value":"仕方ない。私も行くか"
+			"value":"Guess I have to go, too."
 		},
 		{
 			"key":"EP11_S9070_0008",
-			"value":"タクマくん、私たちも行くわ！\n四聖獣のこと、よろしくね！"
+			"value":"So are we, Takuma! We’ll leave the Sovereign\nMonster to you!"
 		},
 		{
 			"key":"EP11_S9070_0009",
-			"value":"敵はいなくなったけど……"
+			"value":"All the enemies are gone, but..."
 		},
 		{
 			"key":"EP11_S9070_0010",
-			"value":"四聖獣と戦うかもしれないと考えると\n不安が残る人数になってしまったな"
+			"value":"If we end up having to fight the Sovereign\nMonsters, I’m not confident about our numbers."
 		},
 		{
 			"key":"EP11_S9070_Q1",
-			"value":"（いったい、どうすればいい……？）"
+			"value":"(What the heck should I do now?)"
 		},
 		{
 			"key":"EP11_S9070_Q1_A1",
-			"value":"みんなを呼び戻そう"
+			"value":"Call everyone back."
 		},
 		{
 			"key":"EP11_S9070_Q1_A2",
-			"value":"僕も囮になろう"
+			"value":"Also act as a decoy."
 		},
 		{
 			"key":"EP11_S9070_Q1_A3",
-			"value":"祠の入り口を探そう"
+			"value":"Find the shrine entrance."
 		},
 		{
 			"key":"EP11_S9070_0011",
-			"value":"みんなを呼び戻す"
+			"value":"Call everyone back."
 		},
 		{
 			"key":"EP11_S9070_0012",
-			"value":"このままじゃ四聖獣と戦えない……\nみんなを呼び戻さないと！"
+			"value":"We can’t fight the Sovereign Monster like\nthis... I’ll call everyone back!"
 		},
 		{
 			"key":"EP11_S9070_0013",
-			"value":"落ち着きなさいタクマくん\nそれでは敵の集団を相手にすることになる"
+			"value":"Keep calm, Takuma. That would only draw the\nenemy’s ranks into battle."
 		},
 		{
 			"key":"EP11_S9070_0014",
-			"value":"それは、そうですけど……"
+			"value":"Yeah, I guess that’s true..."
 		},
 		{
 			"key":"EP11_S9070_0015",
-			"value":"僕も囮になる"
+			"value":"Also act as a decoy."
 		},
 		{
 			"key":"EP11_S9070_0016",
-			"value":"こ、こうなったら僕も敵を引きつける！"
+			"value":"W-well then I’ll draw away the enemy, too!"
 		},
 		{
 			"key":"EP11_S9070_0017",
-			"value":"タクマくん、しっかりするんだ！\nそれはあまりにも無意味だぞ！"
+			"value":"Hold yourself together, Takuma! Such action\nwould be meaningless!"
 		},
 		{
 			"key":"EP11_S9070_0018",
-			"value":"あ、そ、そうですよね\nすいません……"
+			"value":"Oh, uh, that makes sense. Sorry..."
 		},
 		{
 			"key":"EP11_S9070_0019",
-			"value":"祠の入り口を探す"
+			"value":"Find shrine entrance."
 		},
 		{
 			"key":"EP11_S9070_0020",
-			"value":"みんなの覚悟を無駄にはできないよな……\n早く祠の入り口を探さないと！"
+			"value":"I can’t waste their resolve... We have to\nfind the entrance to the shrine, now!"
 		},
 		{
 			"key":"EP11_S9070_0021",
-			"value":"しかし、どうやって？\n闇雲に探しては、いつ敵が戻ってくるかもわからん"
+			"value":"How, precisely? Fumbling through the darkness\nwill only occupy us until the enemy returns."
 		},
 		{
 			"key":"EP11_S9070_0022",
-			"value":"た、確かに……"
+			"value":"That’s true..."
 		},
 		{
 			"key":"EP11_S9070_0023",
-			"value":"あ、タクマ！　アレ見て！\n何か開いたよ！"
+			"value":"Ah, Takuma! Look over there! Something opened\nup!"
 		},
 		{
 			"key":"EP11_S9070_0024",
-			"value":"本当だ……もしかして、祠の入り口！？"
+			"value":"You’re right... Could that be the entrance?!"
 		},
 		{
 			"key":"EP11_S9070_0025",
-			"value":"多分そうだな。あの向こうから\n四聖獣の気配を感じる"
+			"value":"Probably. I sense the Sovereign Monster on\nthe other side."
 		},
 		{
 			"key":"EP11_S9070_0026",
-			"value":"よし、中に入ろう！"
+			"value":"Okay, let’s go in!"
 		}
 	]
 }

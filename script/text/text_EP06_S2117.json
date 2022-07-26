@@ -2,59 +2,59 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2117_0001",
-			"value":"タクマくん！\nさっきはごめんね"
+			"value":"Takuma! I’m sorry about before."
 		},
 		{
 			"key":"EP06_S2117_0002",
-			"value":"あ、ごめんっていうより\nアドバイスありがとう、かしら？"
+			"value":"Ah, I guess I should say thanks for the\nadvice instead?"
 		},
 		{
 			"key":"EP06_S2117_0003",
-			"value":"アオイさん、ラブラモンと仲直りしたんだ？"
+			"value":"So did you make up with Labramon?"
 		},
 		{
 			"key":"EP06_S2117_0004",
-			"value":"ええ！　元々私たちは\n仲違いってほどのことでもなかったし"
+			"value":"I did! It’s like nothing happened in the\nfirst place."
 		},
 		{
 			"key":"EP06_S2117_0005",
-			"value":"そうね、だからこそミノルくんたちや\n他のみんなが心配だわ"
+			"value":"All the more reason I’m worried about the\nothers now."
 		},
 		{
 			"key":"EP06_S2117_0006",
-			"value":"私、言葉が詰まってしまって\n仲裁できなかったけど……"
+			"value":"My words got stuck in my throat, and\nI couldn’t help mediate the situation..."
 		},
 		{
 			"key":"EP06_S2117_0007",
-			"value":"これからは目の前で喧嘩が起きたら\nちゃんと宥められたらって思うの"
+			"value":"But from now on, I’ll try to stop any fights\nthat start in front of me."
 		},
 		{
 			"key":"EP06_S2117_0008",
-			"value":"無理のない程度にお願いするよ\n僕も手伝うから"
+			"value":"As long you don’t overdo it, then by all\nmeans. I’ll be there to help, too."
 		},
 		{
 			"key":"EP06_S2117_0009",
-			"value":"ふふっ……あ、そうそう\nこれ、渡しておくね"
+			"value":"Hehe... Oh right, I meant to give this to\nyou."
 		},
 		{
 			"key":"EP06_S2117_0010",
-			"value":"さっきファルコモンを捜してる最中に\n見つけたの"
+			"value":"I found it while I was looking for Falcomon."
 		},
 		{
 			"key":"EP06_S2117_0011",
-			"value":"私じゃなくてアオイが見つけたのよ\nお手柄だと思わない？"
+			"value":"Aoi here found it, not me. No mean feat,\ndon’t you think?"
 		},
 		{
 			"key":"EP06_S2117_0012",
-			"value":"うん、お手柄だね\n大事に使うよ"
+			"value":"You’re right about that. I’ll put it to good\nuse."
 		},
 		{
 			"key":"EP06_S2117_0013",
-			"value":"ラブラモンには感謝してもしきれないわ"
+			"value":"My gratitude toward Labramon is practically\nbottomless."
 		},
 		{
 			"key":"EP06_S2117_0014",
-			"value":"だからこそ、ミノルくんもファルコモンと\n早く和解できるといいなって思うの"
+			"value":"That’s why I’d like to help Minoru make up\nwith Falcomon as soon as he can."
 		}
 	]
 }

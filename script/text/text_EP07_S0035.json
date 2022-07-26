@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0035_0001",
-			"value":"どんどん空気が張り詰めてきてる……\n一体何があったの……？"
+			"value":"The air is pressing tighter around us...\nWhat on earth happened here?"
 		},
 		{
 			"key":"EP07_S0035_0002",
-			"value":"ここ……ガルルモンと戦った場所だよね？"
+			"value":"This...is where we fought Garurumon, right?"
 		},
 		{
 			"key":"EP07_S0035_0003",
-			"value":"ここでまた戦いがあったのかな"
+			"value":"I wonder if there was another fight here?"
 		},
 		{
 			"key":"EP07_S0035_0004",
-			"value":"……ガルルモン\nそしてこの団地……か"
+			"value":"Garurumon...and this apartment complex..."
 		},
 		{
 			"key":"EP07_S0035_0005",
-			"value":"とにかく調べてみよう\n確かめなければ始まらない"
+			"value":"Right, well, let’s see what it is.\nUntil we check it out, we’re just guessing."
 		},
 		{
 			"key":"EP07_S0035_0006",
-			"value":"（残酷なものが見えるかもと思うと少し怖いけど\n　進むためには調べなきゃな……）"
+			"value":"(I’m afraid something terrible will appear,\nbut if I don’t check, we can’t move forward.)"
 		}
 	]
 }

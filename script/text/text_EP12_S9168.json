@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9168_0001",
-			"value":"あぶなっ！"
+			"value":"Whoa!"
 		},
 		{
 			"key":"EP12_S9168_0002",
-			"value":"大丈夫かね！？"
+			"value":"Are you all right?!"
 		},
 		{
 			"key":"EP12_S9168_0003",
-			"value":"は、はい\n怪我とかは、ありません"
+			"value":"Yeah, I’m okay."
 		},
 		{
 			"key":"EP12_S9168_0004",
-			"value":"よかった……うむ、こういう乱暴なものもあるのか\n私も気をつけよう"
+			"value":"I’m glad to hear it. If things get this\nviolent, I’d better take more care myself."
 		},
 		{
 			"key":"EP12_S9168_0005",
-			"value":"しかし、いったい何が目的なのか……"
+			"value":"Only, I wonder what such actions are meant to\nachieve."
 		}
 	]
 }

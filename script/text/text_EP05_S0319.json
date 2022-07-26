@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0319_0001",
-			"value":"あ、あら……？\nここは……"
+			"value":"Huh? This is..."
 		},
 		{
 			"key":"EP05_S0319_0002",
-			"value":"最初にいたところに戻されたみたいだ\n多分、本物を見分けられなかったから……"
+			"value":"Looks like we’re back at the start. Guess\nthat means we picked the wrong path..."
 		},
 		{
 			"key":"EP05_S0319_0003",
-			"value":"そう……私のせいで……"
+			"value":"I see. This is all my fault..."
 		},
 		{
 			"key":"EP05_S0319_0004",
-			"value":"大丈夫！　もう一回挑戦しよう！"
+			"value":"Don’t worry! We just have to try again!"
 		},
 		{
 			"key":"EP05_S0319_0005",
-			"value":"ええ、そうね。絶対にラブラモンを取り戻すわ！"
+			"value":"Yes, you’re right. I won’t stop until\nLabramon is back with me!"
 		}
 	]
 }

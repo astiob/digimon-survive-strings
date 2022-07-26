@@ -2,323 +2,323 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9240_0001",
-			"value":"オレさ……レナモンの気持ち\n少しわかるんだよ"
+			"value":"You know...I kinda get where Renamon’s coming\nfrom."
 		},
 		{
 			"key":"EP11_S9240_0002",
-			"value":"オレだって、ミウを守るためなら\nなんでもするかもしれねぇし……"
+			"value":"I’d do whatever it takes to protect Miu."
 		},
 		{
 			"key":"EP11_S9240_0003",
-			"value":"ミウを傷つけたやつのことは\n一生、許さねえ"
+			"value":"I’ll never forgive anyone who hurts Miu."
 		},
 		{
 			"key":"EP11_S9240_0004",
-			"value":"ずっと、誰かを恨んで生きていくの？"
+			"value":"Even if it meant holding a grudge forever?"
 		},
 		{
 			"key":"EP11_S9240_0005",
-			"value":"……そうなるな"
+			"value":"...If it came to that."
 		},
 		{
 			"key":"EP11_S9240_0006",
-			"value":"……レナモンみたいに\n和解するのはオレには無理だな"
+			"value":"...I couldn’t get over it like Renamon did."
 		},
 		{
 			"key":"EP11_S9240_0007",
-			"value":"大人にはなれないようだな"
+			"value":"You’ll never be an adult at this rate."
 		},
 		{
 			"key":"EP11_S9240_0008",
-			"value":"うるせぇよ。ミウを傷つけられても\n怒らないのが大人なら――"
+			"value":"Shut up. If an adult is someone who wouldn’t\nget pissed that Miu got hurt..."
 		},
 		{
 			"key":"EP11_S9240_0009",
-			"value":"オレは一生、子供でも構わねぇよ"
+			"value":"I don’t care if I stay a kid my whole life."
 		},
 		{
 			"key":"EP11_S9240_0010",
-			"value":"でも……それも、もう終わりかな"
+			"value":"But... I guess that’ll end soon."
 		},
 		{
 			"key":"EP11_S9240_0011",
-			"value":"終わり？"
+			"value":"End?"
 		},
 		{
 			"key":"EP11_S9240_0012",
-			"value":"この世界に来てから、ミウも変わったろ？\nオレがいなくても、もう大丈夫かもしれねぇ"
+			"value":"Miu’s changed since we came to this world,\ny’know? Soon she’ll be fine without me."
 		},
 		{
 			"key":"EP11_S9240_0013",
-			"value":"（うーん、確かにミウは成長したけど\n　カイトに妹離れさせるか、今まで通りか……）"
+			"value":"(Hmm, Miu certainly has grown. Should he give\nher some space? Or keep acting as always...?)"
 		},
 		{
 			"key":"EP11_S9240_Q1",
-			"value":"（カイトに何て言おう）"
+			"value":"Kaito, Miu..."
 		},
 		{
 			"key":"EP11_S9240_Q1_A1",
-			"value":"ミウはもう一人でも平気だよ"
+			"value":"Is fine on her own."
 		},
 		{
 			"key":"EP11_S9240_Q1_A2",
-			"value":"ミウにはまだカイトが必要だよ"
+			"value":"Still needs you."
 		},
 		{
 			"key":"EP11_S9240_0014",
-			"value":"もう一人でも平気だよ"
+			"value":"Is fine on her own."
 		},
 		{
 			"key":"EP11_S9240_0015",
-			"value":"ミウは、もう一人でも平気だよ"
+			"value":"She’s just fine on her own."
 		},
 		{
 			"key":"EP11_S9240_0016",
-			"value":"タクマもそう思うか……オレも\n妹離れってのをしなくちゃいけないな"
+			"value":"You think so, huh? I guess I’d better learn\nto give her some space."
 		},
 		{
 			"key":"EP11_S9240_0017",
-			"value":"けど、無理をすることはないと思うよ"
+			"value":"Still, don’t force yourself to do the\nimpossible."
 		},
 		{
 			"key":"EP11_S9240_0018",
-			"value":"ミウのことを気にしないカイトなんて\n想像できないし"
+			"value":"I can’t imagine a Kaito that didn’t worry\nabout his sister."
 		},
 		{
 			"key":"EP11_S9240_0019",
-			"value":"そう思われてるのも問題かもしれねぇな\nでも、仕方ねぇか"
+			"value":"That’s a problem in itself. Still, I can’t\nhelp it."
 		},
 		{
 			"key":"EP11_S9240_0020",
-			"value":"……ミウのことばかり\n考えていたからな"
+			"value":"...All I’ve ever thought about is her."
 		},
 		{
 			"key":"EP11_S9240_0021",
-			"value":"まだカイトが必要だよ"
+			"value":"Still needs you."
 		},
 		{
 			"key":"EP11_S9240_0022",
-			"value":"ミウには、まだカイトが必要だよ\nだって、カイトは家族なんだから"
+			"value":"She still needs you, Kaito. You’re family,\nafter all."
 		},
 		{
 			"key":"EP11_S9240_0023",
-			"value":"家族……"
+			"value":"Family..."
 		},
 		{
 			"key":"EP11_S9240_0024",
-			"value":"そう。だから、いらなくなる時なんて\n来ないよ、たぶんね"
+			"value":"Yeah. That’s why I think she’ll always need\nyou, in some way."
 		},
 		{
 			"key":"EP11_S9240_0025",
-			"value":"そうかもな……オレたちは\n家族なんだから"
+			"value":"You’re probably right... We’re family, after\nall."
 		},
 		{
 			"key":"EP11_S9240_0026",
-			"value":"でもよ……教授の相棒は\n裏切られたって思ってんだろうな"
+			"value":"Still... The professor’s partner feels\nbetrayed, right?"
 		},
 		{
 			"key":"EP11_S9240_0027",
-			"value":"家族に……裏切られたって"
+			"value":"Betrayed by his family."
 		},
 		{
 			"key":"EP11_S9240_0028",
-			"value":"もしそうなら……"
+			"value":"If that’s the case..."
 		},
 		{
 			"key":"EP11_S9240_0029",
-			"value":"簡単にはいかねぇ\n何十年も置き去りにされて……"
+			"value":"It’s not a simple thing. Imagine being left\nbehind for decades..."
 		},
 		{
 			"key":"EP11_S9240_0030",
-			"value":"俺なら、誰だろうと許せなくなってるな"
+			"value":"You’d lose the ability to forgive anyone,\nwouldn’t you?"
 		},
 		{
 			"key":"EP11_S9240_0031",
-			"value":"それが普通だろ\n……何もなければいいけどな"
+			"value":"No one could blame him for that.\n...I hope nothing bad happens, though."
 		},
 		{
 			"key":"EP11_S9240_0032",
-			"value":"（確かに、恨みはあるのかもしれない\n　けど僕は、教授に相棒と仲直りしてほしい）"
+			"value":"(I’m sure he holds a grudge. Still, I want\nhim and the professor to make up.)"
 		},
 		{
 			"key":"EP11_S9240_Q2",
-			"value":"（カイトに何て問おう）"
+			"value":"Kaito, we should..."
 		},
 		{
 			"key":"EP11_S9240_Q2_A1",
-			"value":"教授を信じよう"
+			"value":"Trust the professor."
 		},
 		{
 			"key":"EP11_S9240_Q2_A2",
-			"value":"教授を助けよう"
+			"value":"Save the professor."
 		},
 		{
 			"key":"EP11_S9240_0033",
-			"value":"信じよう"
+			"value":"Trust the professor."
 		},
 		{
 			"key":"EP11_S9240_0034",
-			"value":"信じよう\n教授を。教授が培った、絆を"
+			"value":"Let’s trust him, and the bond he built."
 		},
 		{
 			"key":"EP11_S9240_0035",
-			"value":"信じるしかねぇもんな……\nオレたちの絆と同じくらい"
+			"value":"Guess we have no choice... Let’s hope his\nbond is like ours."
 		},
 		{
 			"key":"EP11_S9240_0036",
-			"value":"強い絆があるはず……だよな？"
+			"value":"It should be strong...right?"
 		},
 		{
 			"key":"EP11_S9240_0037",
-			"value":"僕はそう信じるよ\n信じなきゃ、始まらない"
+			"value":"I think so. If I don’t believe in it, nothing\nwill change."
 		},
 		{
 			"key":"EP11_S9240_0038",
-			"value":"……だな。オレも信じてみるぜ"
+			"value":"...Yeah, you’re right. I’ll believe, too."
 		},
 		{
 			"key":"EP11_S9240_0039",
-			"value":"助けよう"
+			"value":"Save the professor."
 		},
 		{
 			"key":"EP11_S9240_0040",
-			"value":"助けよう\n僕たちは教授に何度も助けられたんだ"
+			"value":"Let’s save him. He’s saved us countless times\nhimself."
 		},
 		{
 			"key":"EP11_S9240_0041",
-			"value":"今度は、僕たちが教授を助ける番だ"
+			"value":"Now it’s our turn to pay him back."
 		},
 		{
 			"key":"EP11_S9240_0042",
-			"value":"まったくだ\n世話になりっぱなしってのは性にあわねぇしな"
+			"value":"Damn straight. I can’t just let him take care\nof us all the time."
 		},
 		{
 			"key":"EP11_S9240_0043",
-			"value":"助けようぜ、教授を"
+			"value":"Let’s go and save him!"
 		},
 		{
 			"key":"EP11_S9240_0044",
-			"value":"それにしても……"
+			"value":"Still..."
 		},
 		{
 			"key":"EP11_S9240_0045",
-			"value":"正直、お前とこんな話を\nするなんて、あの頃は思ってなかったぜ"
+			"value":"To be honest, I never thought you and I’d be\nable to talk like this back then."
 		},
 		{
 			"key":"EP11_S9240_0046",
-			"value":"あの頃って、出会った頃？"
+			"value":"Back then... You mean when we first met?"
 		},
 		{
 			"key":"EP11_S9240_0047",
-			"value":"ああ。あの頃から比べたら\nオレも、みんなも……変わったよな"
+			"value":"Yeah. Compared to that time, I... We’ve all\nchanged, haven’t we?"
 		},
 		{
 			"key":"EP11_S9240_0048",
-			"value":"あの頃のカイトなら、誰に言われなくても\nミウと一緒にいる――"
+			"value":"No matter what we said to you back then,\nyou’d only say—"
 		},
 		{
 			"key":"EP11_S9240_0049",
-			"value":"としか言わなかっただろうね"
+			"value":"That you're sticking with Miu, right?"
 		},
 		{
 			"key":"EP11_S9240_0050",
-			"value":"仕方ねぇだろ、事情があったんだ"
+			"value":"Well I had my reasons, you know?"
 		},
 		{
 			"key":"EP11_S9240_0051",
-			"value":"……ミウも、変わったと思うか？"
+			"value":"...Do you think Miu’s changed, too?"
 		},
 		{
 			"key":"EP11_S9240_0052",
-			"value":"僕はここに来る前のミウをあまり\n知らないけど……"
+			"value":"I don’t know what Miu was like before you\nguys came here..."
 		},
 		{
 			"key":"EP11_S9240_0053",
-			"value":"遊園地のみんなのために泣いたミウは\n間違いなく、いい子だと思うよ"
+			"value":"But the Miu who cried for everyone in the\namusement park is definitely a good kid."
 		},
 		{
 			"key":"EP11_S9240_0054",
-			"value":"だよな。ミウは変わったよ\nきっと、これからも変わっていく"
+			"value":"Yeah. She’s changed, you know. And she’ll\nkeep on changing, I’m sure of it."
 		},
 		{
 			"key":"EP11_S9240_0055",
-			"value":"それでも、家族なんだ\n一緒にいたいって思うぜ"
+			"value":"Still, we’re family. I want to us to be\ntogether."
 		},
 		{
 			"key":"EP11_S9240_0056",
-			"value":"二人ならいられるさ\nきっと、二人が自然に離れる日まで"
+			"value":"The two of you can do it. Until the day you\ntwo naturally go your separate ways."
 		},
 		{
 			"key":"EP11_S9240_0057",
-			"value":"ああ。その日までは……\nずっと一緒にいるけどな"
+			"value":"Yeah. Until that day... We’ll be together."
 		},
 		{
 			"key":"EP11_S9240_0058",
-			"value":"（カイトは本当にいいお兄ちゃんだ……\n　やり過ぎてミウに嫌われないといいけど）"
+			"value":"(Kaito really is a great brother. I just hope\nhe doesn’t piss off Miu by overdoing it.)"
 		},
 		{
 			"key":"EP11_S9240_Q3",
-			"value":"（カイトに何て言おう）"
+			"value":"(What should I say to Kaito?)"
 		},
 		{
 			"key":"EP11_S9240_Q3_A1",
-			"value":"カイトはいいお兄ちゃんだね"
+			"value":"You’re a good brother."
 		},
 		{
 			"key":"EP11_S9240_Q3_A2",
-			"value":"ほどほどにしようね"
+			"value":"Pace yourself."
 		},
 		{
 			"key":"EP11_S9240_0059",
-			"value":"いいお兄ちゃんだね"
+			"value":"You’re a good brother."
 		},
 		{
 			"key":"EP11_S9240_0060",
-			"value":"いいお兄ちゃんだね\n僕も、カイトみたいなお兄ちゃんが……"
+			"value":"You’re a good brother. If I had a brother\nlike you..."
 		},
 		{
 			"key":"EP11_S9240_0061",
-			"value":"欲しかったか？"
+			"value":"You’d be happy?"
 		},
 		{
 			"key":"EP11_S9240_0062",
-			"value":"いや\n僕は仲間のカイトが一番かな"
+			"value":"Naw, I think I’m happier to have you as my\nfriend."
 		},
 		{
 			"key":"EP11_S9240_0063",
-			"value":"オレも、お前は弟よりも\n仲間って感じだ"
+			"value":"Yeah, that beats having you as a little\nbrother any day."
 		},
 		{
 			"key":"EP11_S9240_0064",
-			"value":"これからも、よろしくな！"
+			"value":"Let’s keep the good times going!"
 		},
 		{
 			"key":"EP11_S9240_0065",
-			"value":"ほどほどにね"
+			"value":"Pace yourself."
 		},
 		{
 			"key":"EP11_S9240_0066",
-			"value":"ほどほどにね\nミウに嫌われても知らないよ？"
+			"value":"You’d better pace yourself, man. Miu may end\nup hating you, you know?"
 		},
 		{
 			"key":"EP11_S9240_0067",
-			"value":"うるせぇ！　ま、これからは\n嫌われないように気をつけるさ"
+			"value":"Shut up! Although, well, I’ll still be\ncareful anyway."
 		},
 		{
 			"key":"EP11_S9240_0068",
-			"value":"家族でいがみ合うなんて……\n悲しすぎるからな"
+			"value":"It ain’t right, y’know...for family to be at\neach other’s throats."
 		},
 		{
 			"key":"EP11_S9240_0069",
-			"value":"さて、こっから大詰めだ\nタクマ、しっかり準備しとけよ？"
+			"value":"Welp, the finale’s coming up. You sure you’re\nup for this, Takuma?"
 		},
 		{
 			"key":"EP11_S9240_0070",
-			"value":"うん、お互いにね"
+			"value":"Yeah, same as you."
 		},
 		{
 			"key":"EP11_S9240_0071",
-			"value":"最後の一踏ん張り、がんばろうぜ！"
+			"value":"Let’s keep pushing through to the end!"
 		}
 	]
 }

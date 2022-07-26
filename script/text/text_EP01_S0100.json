@@ -2,239 +2,239 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0100_Q1",
-			"value":"（僕はどうすればいい！？）"
+			"value":"(What should I do?!)"
 		},
 		{
 			"key":"EP01_S0100_Q1_A1",
-			"value":"逃げよう！"
+			"value":"Run away!"
 		},
 		{
 			"key":"EP01_S0100_Q1_A2",
-			"value":"戦おう！"
+			"value":"Stand and fight!"
 		},
 		{
 			"key":"EP01_S0100_Q1_A3",
-			"value":"まずは様子を見よう……"
+			"value":"Wait and see."
 		},
 		{
 			"key":"EP01_S0100_0001",
-			"value":"こいつ……ずっとこっちから目をそらさないぞ"
+			"value":"That thing isn’t taking its eyes off of me\nfor a second. I can’t run like this..."
 		},
 		{
 			"key":"EP01_S0100_0002",
-			"value":"だけど、見た感じ、足は鈍そうだし……\nよし、ここは一気に……"
+			"value":"Still, it doesn’t look all that fast.\nOkay, if I can just bolt..."
 		},
 		{
 			"key":"EP01_S0100_0003",
-			"value":"……って、うわあっ！\nま、また飛びかかってきたっ！"
+			"value":"...ARGH! It jumped at me again!"
 		},
 		{
 			"key":"EP01_S0100_0004",
-			"value":"この野郎……！\nそうそうナメられてたまるものか！"
+			"value":"Grrr, knock it off already!"
 		},
 		{
 			"key":"EP01_S0100_0005",
-			"value":"見た感じ動きは鈍そうだし\n油断さえしなければ……"
+			"value":"Looks pretty slow, so if I’m careful, maybe\nI can..."
 		},
 		{
 			"key":"EP01_S0100_0006",
-			"value":"って、うわっ！？\nな、なんか突進してきたっ！"
+			"value":"Whoa! It just came right at me!"
 		},
 		{
 			"key":"EP01_S0100_007",
-			"value":"油断はできないし……\nすこし……様子を見るか"
+			"value":"I can’t let my guard down. Maybe I should\njust...wait and see what it does?"
 		},
 		{
 			"key":"EP01_S0100_008",
-			"value":"体が岩でできているのか……\n突進には注意しないとだな……"
+			"value":"It’s body is made of stone... I have to watch\nout when it charges..."
 		},
 		{
 			"key":"EP01_S0100_009",
-			"value":"それに、よく見ると\nそんなに強そうじゃないな……"
+			"value":"Still, when I look closely it doesn’t seem\nall that strong..."
 		},
 		{
 			"key":"EP01_S0100_010",
-			"value":"って、うわあっ、\nまた来たあああぁっ！"
+			"value":"Aw, shoot, spoke too son!\nUWAAAH!"
 		},
 		{
 			"key":"EP01_S0100_0011",
-			"value":"いててててッ！\nくっ、コイツぅ！"
+			"value":"YYYOWCH!\nWhat the heck, man?!"
 		},
 		{
 			"key":"EP01_S0100_0012",
-			"value":"ま、まずい……！\nまた突進してくるつもりだ！！"
+			"value":"Sonuva... It looks like it’s gonna charge\nagain!"
 		},
 		{
 			"key":"EP01_S0100_0013",
-			"value":"逃げて！"
+			"value":"Run!"
 		},
 		{
 			"key":"EP01_S0100_0014",
-			"value":"お前は……コロモン！？"
+			"value":"Is that...Koromon?!"
 		},
 		{
 			"key":"EP01_S0100_0015",
-			"value":"こいつは気が立っている！！\nはやく逃げて！"
+			"value":"This thing’s got an ax to grind with ya!\nHurry up and get outta here!"
 		},
 		{
 			"key":"EP01_S0100_0016",
-			"value":"ま、待って、足がすくんで……"
+			"value":"Aw jeez, my legs are..."
 		},
 		{
 			"key":"EP01_S0100_0017",
-			"value":"ボクがこいつを引き止めてるうちに、\nさあ、早く！"
+			"value":"I’ll try to hold it off so you can get away!"
 		},
 		{
 			"key":"EP01_S0100_0018",
-			"value":"さあ、かかってこい！"
+			"value":"Here I goooooo!"
 		},
 		{
 			"key":"EP01_S0100_0019",
-			"value":"ぐあ！"
+			"value":"Gwahhh!"
 		},
 		{
 			"key":"EP01_S0100_0020",
-			"value":"なんだよお前……弱っちいじゃないか！\n僕なんて構わずにお前も逃げろよ！"
+			"value":"Boy, you’re...weak. Like, super weak.\nYou’re the one that should be running!"
 		},
 		{
 			"key":"EP01_S0100_0021",
-			"value":"だって……ボクはタクマを守らなくちゃ……"
+			"value":"But...I’ve gotta protect you, Takuma..."
 		},
 		{
 			"key":"EP01_S0100_0022",
-			"value":"ぐうぅぅ！"
+			"value":"Aaaugh!"
 		},
 		{
 			"key":"EP01_S0100_0023",
-			"value":"ううっ……ダ、ダメかも……"
+			"value":"Ungh... It’s no use..."
 		},
 		{
 			"key":"EP01_S0100_0024",
-			"value":"ああっまずい……"
+			"value":"Oh man, this is bad!"
 		},
 		{
 			"key":"EP01_S0100_0025",
-			"value":"（このままじゃ、コロモンが危ない……）"
+			"value":"(Koromon will be in trouble if this keeps up.)"
 		},
 		{
 			"key":"EP01_S0100_0026",
-			"value":"（あんなちっちゃなヤツが身を挺して\n　僕を守ってくれるなんて……）"
+			"value":"(I can’t believe that tiny little thing’s\nrisking its life to protect me...)"
 		},
 		{
 			"key":"EP01_S0100_0027",
-			"value":"（……そうだ。アイツが必死に戦ってるのに\n　僕だけが逃げるわけにはいかない！）"
+			"value":"(...I know, I can’t just run off on my own\nand let it fight to the death!)"
 		},
 		{
 			"key":"EP01_S0100_0028",
-			"value":"（でも、どうしたら……！）"
+			"value":"(But what...)"
 		},
 		{
 			"key":"EP01_S0100_Q2",
-			"value":"（僕はどうしたらいいんだ！？）"
+			"value":"(What should I do?!)"
 		},
 		{
 			"key":"EP01_S0100_Q2_A1",
-			"value":"攻撃あるのみだ！"
+			"value":"Gotta attack!"
 		},
 		{
 			"key":"EP01_S0100_Q2_A2",
-			"value":"コロモンを守るぞ！"
+			"value":"Protect Koromon!"
 		},
 		{
 			"key":"EP01_S0100_Q2_A3",
-			"value":"大声で敵の気を引きつける"
+			"value":"Yell to distract it."
 		},
 		{
 			"key":"EP01_S0100_0029",
-			"value":"（足元のこんな石でも！）"
+			"value":"(I’ll try one of these stones at my feet!)"
 		},
 		{
 			"key":"EP01_S0100_0030",
-			"value":"これでどうだ！"
+			"value":"How do you like THIS?!"
 		},
 		{
 			"key":"EP01_S0100_0031",
-			"value":"オイ！　お前！\nこっちだ！！"
+			"value":"Hey, you! Over here!"
 		},
 		{
 			"key":"EP01_S0100_0032",
-			"value":"ぎぎぎぎぎ……"
+			"value":"Gyee gyee gyee..."
 		},
 		{
 			"key":"EP01_S0100_0033",
-			"value":"よし、そうだ！　お前の相手はこっちだ！！"
+			"value":"Yeah, that’s right! I’m the one you want!"
 		},
 		{
 			"key":"EP01_S0100_0034",
-			"value":"やらせるもんか！"
+			"value":"I won’t let you!"
 		},
 		{
 			"key":"EP01_S0100_0035",
-			"value":"タクマって頼もしいなあ！\nけど危ないかも……"
+			"value":"Not bad, Takuma! But that might not be the\nbest idea..."
 		},
 		{
 			"key":"EP01_S0100_0036",
-			"value":"怪物め！\nお前の相手はこの僕だ！！"
+			"value":"Hey, monster! Your opponent is over here!"
 		},
 		{
 			"key":"EP01_S0100_0037",
-			"value":"ぎぎぎぎぎ……！"
+			"value":"Gyee gyee gyeeeeee!"
 		},
 		{
 			"key":"EP01_S0100_0038",
-			"value":"そうだ！　追いかけてこい！"
+			"value":"Yeah! Come and get me!"
 		},
 		{
 			"key":"EP01_S0100_0039",
-			"value":"コロモン！\nバラバラに逃げるぞ！"
+			"value":"Koromon! Run while you can!"
 		},
 		{
 			"key":"EP01_S0100_0040",
-			"value":"コロモン……せめてお前だけでも逃げろ！"
+			"value":"Go, Koromon... At least one of us should\nescape!"
 		},
 		{
 			"key":"EP01_S0100_0041",
-			"value":"そんな！\nタクマを置いて、逃げられナイぞ～！？"
+			"value":"No way! I can’t just leave you behind,\nTakuma!"
 		},
 		{
 			"key":"EP01_S0100_0042",
-			"value":"だから、それはお互い様だって！"
+			"value":"Well I guess that makes two of us then, huh?"
 		},
 		{
 			"key":"EP01_S0100_0043",
-			"value":"あっ、そっか～！"
+			"value":"Oh! Now that you mention it..."
 		},
 		{
 			"key":"EP01_S0100_0044",
-			"value":"はは、ははっ……！"
+			"value":"Ha...ha ha ha!"
 		},
 		{
 			"key":"EP01_S0100_0045",
-			"value":"……絶体絶命のピンチなのに、\n笑いが出るなんて、余裕だよな……"
+			"value":"How can you laugh at a time like this?"
 		},
 		{
 			"key":"EP01_S0100_0046",
-			"value":"ああ……ボクも……\n何だか、やれそうな気がしてきた……！"
+			"value":"What can I say... Suddenly I feel like I can\ndo it!"
 		},
 		{
 			"key":"EP01_S0100_0047",
-			"value":"タクマ、ボク、行かなくちゃ……！"
+			"value":"I’m gonna go for it, Takuma!"
 		},
 		{
 			"key":"EP01_S0100_0048",
-			"value":"えっ！？　おい、一体何を……！？"
+			"value":"Huh? What’re you saying?!"
 		},
 		{
 			"key":"EP01_S0100_0049",
-			"value":"大丈夫！　タクマ、見てて……！\n言ったでしょ、ボクはタクマを守るって……！！"
+			"value":"Just watch, Takuma! I told you I’d protect\nyou, and I meant it!"
 		},
 		{
 			"key":"EP01_S0100_0050",
-			"value":"コロモン進化～！"
+			"value":"Koromon, evolve tooo...!"
 		},
 		{
 			"key":"EP01_S0100_0051",
-			"value":"アグモン～！"
+			"value":"Agumon!"
 		}
 	]
 }

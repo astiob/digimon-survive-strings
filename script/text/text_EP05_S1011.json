@@ -2,263 +2,263 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1011_0001",
-			"value":"（シュウジさんとロップモンの関係は\n　傍目に見ても歪に感じる……）"
+			"value":"(It’s obvious how screwy things are between\nShuuji and Lopmon, even from the outside.)"
 		},
 		{
 			"key":"EP05_S1011_0002",
-			"value":"（アオイさんとラブラモンはどうなんだろう？）"
+			"value":"(How are Aoi and Labramon doing, I wonder?)"
 		},
 		{
 			"key":"EP05_S1011_0003",
-			"value":"えーっと、この材料だと……サラダに焼き魚かしら？"
+			"value":"Let’s see, with these ingredients... How\nabout grilled fish with a salad?"
 		},
 		{
 			"key":"EP05_S1011_0004",
-			"value":"うーん、でもお肉も食べないと\nバランスが悪いわよね"
+			"value":"Hmm, but the nutritional value will be off\nwithout some meat in there..."
 		},
 		{
 			"key":"EP05_S1011_0005",
-			"value":"それなら……野菜炒め？\nそうすると味付けは……"
+			"value":"Then...maybe a veggie stir-fry? But what\nseasoning would work?"
 		},
 		{
 			"key":"EP05_S1011_0006",
-			"value":"アオイ、私も手伝うわ！"
+			"value":"I’ll help out, Aoi!"
 		},
 		{
 			"key":"EP05_S1011_0007",
-			"value":"ありがとうラブラモン\nそれじゃあ、この野菜をあそこの箱に運んでくれる？"
+			"value":"Thanks, Labramon. Could you carry the\nvegetables to that box over there?"
 		},
 		{
 			"key":"EP05_S1011_0008",
-			"value":"まかせて！"
+			"value":"Leave it to me!"
 		},
 		{
 			"key":"EP05_S1011_0009",
-			"value":"アオイさん、何してるの？"
+			"value":"What’re you doing, Aoi?"
 		},
 		{
 			"key":"EP05_S1011_0010",
-			"value":"あぁ、タクマくん\n今日の献立を考えてたの"
+			"value":"Hey, Takuma. I’m just pondering over today’s\nmenu."
 		},
 		{
 			"key":"EP05_S1011_0011",
-			"value":"みんなの役に立ちたいんだけど\n私にはこんなことしかできなくて……"
+			"value":"I want to help everyone, but this is about\nall I can do..."
 		},
 		{
 			"key":"EP05_S1011_0012",
-			"value":"こんなこと、なんてことはないよ\n料理ができるなんてすごいじゃないか"
+			"value":"Don’t sell yourself short. What you can do in\na kitchen is pretty awesome."
 		},
 		{
 			"key":"EP05_S1011_0013",
-			"value":"でも、話し合いでも自分の意見を出せないし\n出せてもつい消極的なものになってしまうし……"
+			"value":"But I clam up in group discussions, and if\nI do end up talking, it’s always negative..."
 		},
 		{
 			"key":"EP05_S1011_0014",
-			"value":"それに、結局人の意見に流されちゃう\n私なんて、何もできてない"
+			"value":"And in the end, I just go along with other\nopinions. I can’t do a thing."
 		},
 		{
 			"key":"EP05_S1011_0015",
-			"value":"ねぇ、タクマくん\n私って、何なのかしら……"
+			"value":"Oh, Takuma, what am I to this group?"
 		},
 		{
 			"key":"EP05_S1011_0016",
-			"value":"（アオイさん、すごくネガティブになってる\n　なんとかして気分を上げたいけど……）"
+			"value":"(Aoi’s gotten so negative. I have to do\nsomething to lift her spirits.)"
 		},
 		{
 			"key":"EP05_S1011_0017",
-			"value":"（アオイさんは……優しいし、料理もできるし\n　お母さんっぽい？　いや、なんだそれ）"
+			"value":"(She’s...kind, and good at cooking. Like\na mom, maybe? Naw, that’s weird.)"
 		},
 		{
 			"key":"EP05_S1011_0018",
-			"value":"（真面目だし、しっかりしてるから、委員長っぽい？\n　うーん、それはそうなんだけど……）"
+			"value":"(She’s serious and dependable, just like\na class president should be, right?)"
 		},
 		{
 			"key":"EP05_S1011_0019",
-			"value":"（まとめ役とか、調整役とか……\n　ん？　調整役なんてカッコいいんじゃないか？）"
+			"value":"(She’s a mediator, or a coordinator... Oh?\nCoordinator’s sounds pretty cool, right?)"
 		},
 		{
 			"key":"EP05_S1011_Q1",
-			"value":"（僕らにとって、アオイさんは……）"
+			"value":"(To me, Aoi is...)"
 		},
 		{
 			"key":"EP05_S1011_Q1_A1",
-			"value":"いい意味でお母さんかな？"
+			"value":"A mom, in a good way."
 		},
 		{
 			"key":"EP05_S1011_Q1_A2",
-			"value":"委員長だよな"
+			"value":"Our class president."
 		},
 		{
 			"key":"EP05_S1011_Q1_A3",
-			"value":"調整役かなぁ？"
+			"value":"Like a coordinator?"
 		},
 		{
 			"key":"EP05_S1011_0021",
-			"value":"お母さん……"
+			"value":"A mom..."
 		},
 		{
 			"key":"EP05_S1011_0022",
-			"value":"えっ？　お、お母さん？　私が？"
+			"value":"What? Me, a mom?"
 		},
 		{
 			"key":"EP05_S1011_0023",
-			"value":"あ、いやっ！　なんというか、直感的にというか……"
+			"value":"Oh, um! Maybe I’m oversimplifying..."
 		},
 		{
 			"key":"EP05_S1011_0024",
-			"value":"おかーさんってなんだー？"
+			"value":"What’s a “mahm”?"
 		},
 		{
 			"key":"EP05_S1011_0025",
-			"value":"私も知らないわ"
+			"value":"First I’ve heard of it."
 		},
 		{
 			"key":"EP05_S1011_0026",
-			"value":"お母さんっていうのは子供を産んだ人……\nいや、そうじゃないな……"
+			"value":"A mom is...someone who gives birth to kids?\nNo, that’s not quite right..."
 		},
 		{
 			"key":"EP05_S1011_0027",
-			"value":"優しくて、みんなを守ってくれて\nいてくれるだけで安心する存在で……"
+			"value":"They’re kind, they protect everyone. Just\nhaving them around puts you at ease..."
 		},
 		{
 			"key":"EP05_S1011_0028",
-			"value":"いてくれるだけで、安心……"
+			"value":"Huh, puts you at ease..."
 		},
 		{
 			"key":"EP05_S1011_0029",
-			"value":"えっと、その、つまり！　アオイさんの優しいところ\nとか、料理してくれるところとかで、なんとなく……"
+			"value":"Um, so I’m just saying! Your kindness, the\nway you feed us, it’s like that!"
 		},
 		{
 			"key":"EP05_S1011_0030",
-			"value":"ふっ……ふふふっ……"
+			"value":"Hee-hee... Hee-hee-hee..."
 		},
 		{
 			"key":"EP05_S1011_0031",
-			"value":"アオイさん……？"
+			"value":"Aoi?"
 		},
 		{
 			"key":"EP05_S1011_0032",
-			"value":"ふふっ、ご、ごめんなさい、でも、ふふふ……"
+			"value":"Heheh, sorry, it’s just... Ahaha..."
 		},
 		{
 			"key":"EP05_S1011_0033",
-			"value":"タクマくんにそういう風に思われてるのが\nとっても、嬉しくて"
+			"value":"It makes me happy to know you think of me\nthat way, Takuma."
 		},
 		{
 			"key":"EP05_S1011_0034",
-			"value":"う、嬉しい……？\nなら、よかった……"
+			"value":"Yeah? Happy? Then that works for me..."
 		},
 		{
 			"key":"EP05_S1011_0035",
-			"value":"ふふ、私がお母さんかぁ……"
+			"value":"Heheh, Mama Aoi..."
 		},
 		{
 			"key":"EP05_S1011_0037",
-			"value":"アオイさんは\nやっぱり委員長みたいな存在かな"
+			"value":"You’re our class president through and\nthrough, Aoi."
 		},
 		{
 			"key":"EP05_S1011_0038",
-			"value":"真面目だし、駄目なところがあったら叱ってくれるし"
+			"value":"You’re serious, and you take us to task when\nwe need it."
 		},
 		{
 			"key":"EP05_S1011_0039",
-			"value":"そっか……やっぱり私\nここでもそういう感じなのね"
+			"value":"Huh... So I’m the same way over here, too?"
 		},
 		{
 			"key":"EP05_S1011_0040",
-			"value":"え？"
+			"value":"What?"
 		},
 		{
 			"key":"EP05_S1011_0041",
-			"value":"真面目ないい子ちゃん。融通の利かない堅物"
+			"value":"A good little girl. Inflexible and super\nserious."
 		},
 		{
 			"key":"EP05_S1011_0042",
-			"value":"面倒な仕事は丸投げで\nそのくせ責任は私にとらせようとする"
+			"value":"Delegating all the difficult work to myself.\nTaking all the responsibility."
 		},
 		{
 			"key":"EP05_S1011_0043",
-			"value":"そんなの……そんなの……"
+			"value":"That’s... That’s just too..."
 		},
 		{
 			"key":"EP05_S1011_0044",
-			"value":"あ、アオイさん？　どうしたの？　大丈夫？"
+			"value":"Um, Aoi? Was it something I said? You all\nright?"
 		},
 		{
 			"key":"EP05_S1011_0045",
-			"value":"あ……"
+			"value":"Ah..."
 		},
 		{
 			"key":"EP05_S1011_0046",
-			"value":"ご、ごめんなさい、なんでもないの……"
+			"value":"Sorry. It’s nothing to worry about..."
 		},
 		{
 			"key":"EP05_S1011_0047",
-			"value":"アオイ、顔が真っ青じゃない！\n大丈夫？"
+			"value":"Aoi, you’re white as a sheet! What’s wrong?!"
 		},
 		{
 			"key":"EP05_S1011_0048",
-			"value":"平気よ。大丈夫……"
+			"value":"I’m fine, really..."
 		},
 		{
 			"key":"EP05_S1011_0049",
-			"value":"（なんだか、言っちゃいけないことを言ったのかな）"
+			"value":"(I feel like I said something I shouldn’t\nhave.)"
 		},
 		{
 			"key":"EP05_S1011_0051",
-			"value":"アオイさんはみんなの調整役だね\nそれぞれの意見を上手くまとめてくれる感じ"
+			"value":"You’re everyone’s coordinator, Aoi. You help\nmesh all our different opinions together."
 		},
 		{
 			"key":"EP05_S1011_0052",
-			"value":"うーん？　それって私というより\nタクマくんのイメージじゃないかしら？"
+			"value":"Hmm. I feel like that role suits you more\nthan it suits me, don’t you think?"
 		},
 		{
 			"key":"EP05_S1011_0053",
-			"value":"え？　僕？"
+			"value":"Huh? Me?"
 		},
 		{
 			"key":"EP05_S1011_0054",
-			"value":"ええ。みんなの意見をまとめたり調整したり\n引っ張ってくれる存在"
+			"value":"Yes. Someone who pulls people together, and\ngets everyone on the same page."
 		},
 		{
 			"key":"EP05_S1011_0055",
-			"value":"調整役というより、リーダーかしら"
+			"value":"More of a leader than a coordinator, even."
 		},
 		{
 			"key":"EP05_S1011_0056",
-			"value":"えー……？　全然そんな自覚ないけど……"
+			"value":"Seriously? I don’t see that in myself at all,\nthough..."
 		},
 		{
 			"key":"EP05_S1011_0057",
-			"value":"無自覚でやれているなら、本当に素質があるのね"
+			"value":"If you’re not doing it on purpose, then it\nsuits you all the more."
 		},
 		{
 			"key":"EP05_S1011_0058",
-			"value":"私は……秘書か副官、うーん\nまぁ、サポート役がちょうどいいところだわ"
+			"value":"I’d say I’m...more of a secretary, or an\naide. A support role, maybe."
 		},
 		{
 			"key":"EP05_S1011_0059",
-			"value":"とにかく、今はできることをやるしかないわよね\n色々悩むのはその後で"
+			"value":"At any rate, I just have to do what I can for\nnow. I’ll have time to worry later."
 		},
 		{
 			"key":"EP05_S1011_0060",
-			"value":"私、作業に戻るわね\nお話聞いてくれてありがとう、タクマくん"
+			"value":"I’ll get back to work. Thanks for talking to\nme, Takuma."
 		},
 		{
 			"key":"EP05_S1011_0061",
-			"value":"（自分は何なのか、アオイさんがそういうことで\n　悩むなんて思わなかったけど……）"
+			"value":"(I had no idea Aoi was worrying about her own\nsense of identity...)"
 		},
 		{
 			"key":"EP05_S1011_0062",
-			"value":"（いや、こういう思い込みがきっと良くないんだ）"
+			"value":"(Still, I can’t stick to my preconceived\nnotions now.)"
 		},
 		{
 			"key":"EP05_S1011_0063",
-			"value":"（アオイさんは一つしか変わらない女の子\n　それを忘れないようにしなきゃ）"
+			"value":"(Aoi is just a girl one year older than me.\nI’ll have to remember that.)"
 		},
 		{
 			"key":"EP05_S1011_0064",
-			"value":"今はできることを頑張るわ\nありがとう、タクマくん"
+			"value":"I’ll work hard on the things I can do at the\nmoment. Thank you, Takuma."
 		}
 	]
 }

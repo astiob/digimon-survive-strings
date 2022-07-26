@@ -2,83 +2,83 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2701_0001",
-			"value":"お～い、タクマ～！"
+			"value":"Hey, Takuma!"
 		},
 		{
 			"key":"EP02_S2701_0002",
-			"value":"ミノル？　どうしたんだ？"
+			"value":"Minoru? What’s wrong?"
 		},
 		{
 			"key":"EP02_S2701_0003",
-			"value":"見てくれよ、これ！"
+			"value":"Check this out!"
 		},
 		{
 			"key":"EP02_S2701_0004",
-			"value":"わ～、食べ物いっぱいだ～！"
+			"value":"Look at all this food!"
 		},
 		{
 			"key":"EP02_S2701_0005",
-			"value":"この付近で食べられそうな野草とか木の実を\n結構見つけたんだ"
+			"value":"We found a lot of edible plants, fruits, and\nnuts around here."
 		},
 		{
 			"key":"EP02_S2701_0006",
-			"value":"また一つ、ミノルの才能が発揮されたな"
+			"value":"Minoru is showing his skills!"
 		},
 		{
 			"key":"EP02_S2701_Q1",
-			"value":"（ミノルは食料を見つけて嬉しそうだけど……）"
+			"value":"(Minoru’s happy we found some food, but...)"
 		},
 		{
 			"key":"EP02_S2701_Q1_A1",
-			"value":"すごいじゃないか！"
+			"value":"That’s amazing!"
 		},
 		{
 			"key":"EP02_S2701_Q1_A2",
-			"value":"人を探してたんじゃないのか？"
+			"value":"What about the people?"
 		},
 		{
 			"key":"EP02_S2701_0007",
-			"value":"すごいじゃないかミノル！\n大手柄だ！"
+			"value":"That’s amazing, Minoru!\nGreat job!"
 		},
 		{
 			"key":"EP02_S2701_0008",
-			"value":"へへっ、まぁこんくらいヨユーだけどな\n人探しのついでみたいな？"
+			"value":"It was a piece of cake!\nWere you looking for more peeps?"
 		},
 		{
 			"key":"EP02_S2701_0009",
-			"value":"最初に見つけたのは偶然だったが\nそれからは一生懸命食べ物を探していたぞ"
+			"value":"We found some food by chance at first, \nbefore focusing our efforts on finding more."
 		},
 		{
 			"key":"EP02_S2701_0010",
-			"value":"わーバカ！　言うなって！"
+			"value":"You idiot! Don’t tell them!"
 		},
 		{
 			"key":"EP02_S2701_0011",
-			"value":"ま、まぁこれで人を探すのに集中できるってもんだぜ"
+			"value":"We can concentrate on finding people now!"
 		},
 		{
 			"key":"EP02_S2701_0012",
-			"value":"他に人がいないか探しに行くんじゃなかったのか？"
+			"value":"Weren’t you looking for other people?"
 		},
 		{
 			"key":"EP02_S2701_0013",
-			"value":"腹が減ってたら、動けないだろ？"
+			"value":"You can’t move if you’re hungry, right?"
 		},
 		{
 			"key":"EP02_S2701_0014",
-			"value":"うむ、空腹は敵だ"
+			"value":"I hate being hungry."
 		},
 		{
 			"key":"EP02_S2701_0015",
-			"value":"それもそうだな\nそしたら僕もみんなの分を探してみようかな"
+			"value":"That's true. I'll try find enough food \nfor everyone too, then."
 		},
 		{
 			"key":"EP02_S2701_0016",
-			"value":"タクマは他のとこ探してこいよ\n野草はオレがみんなの分も採ってやる！"
+			"value":"Go look somewhere else, Takuma.\nI’ve got plants enough for us all."
 		},
 		{
 			"key":"EP02_S2701_0017",
-			"value":"だから、もう少しこの辺りを探してみるよ！"
+			"value":"Let’s keep looking around here!"
 		}
 	]
 }

@@ -2,235 +2,235 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1410_0001",
-			"value":"あれ、あそこにいるのはカイトとドラクモン……\n何をやってるんだろう……"
+			"value":"Hey, I see Kaito and Dracmon over there.\nI wonder what those two are up to."
 		},
 		{
 			"key":"EP06_S1410_0002",
-			"value":"なあ、そっちはどうだ？"
+			"value":"How do things look over there?"
 		},
 		{
 			"key":"EP06_S1410_0003",
-			"value":"水路から流れ着いたものはあるにはあるが\nガラクタばかりで使えそうにない……ん？"
+			"value":"Some stuff washed up in the waterway,\nbut it’s all useless junk... Wait!"
 		},
 		{
 			"key":"EP06_S1410_0004",
-			"value":"どうしたんだよ？"
+			"value":"What is it, Dracmon?"
 		},
 		{
 			"key":"EP06_S1410_0005",
-			"value":"いや、これはなかなかいい感じのものだぞ！"
+			"value":"Actually, this might be something we can use!"
 		},
 		{
 			"key":"EP06_S1410_0006",
-			"value":"本当だ、やるじゃねぇか"
+			"value":"Woah, you’re right! Nice find!"
 		},
 		{
 			"key":"EP06_S1410_0007",
-			"value":"へへっ、それほどでもあるけど"
+			"value":"It is pretty nice, if I say so myself! Hehe."
 		},
 		{
 			"key":"EP06_S1410_0008",
-			"value":"カイト……！\nドラクモンと仲直りしたんだ？"
+			"value":"So, Kaito...\nYou and Dracmon are back on good terms now?"
 		},
 		{
 			"key":"EP06_S1410_0009",
-			"value":"はぁ？"
+			"value":"Say what?"
 		},
 		{
 			"key":"EP06_S1410_0010",
-			"value":"（あ……し、しまった！）"
+			"value":"(Oh, crap!)"
 		},
 		{
 			"key":"EP06_S1410_0011",
-			"value":"（僕が変なこと言ったせいで、二人が\n　喧嘩してたのを思い出しちゃったかも）"
+			"value":"(Now they might remember all the fighting!)"
 		},
 		{
 			"key":"EP06_S1410_0012",
-			"value":"（どうしよう、何とか穏やかに\n　この場を収めないと……）"
+			"value":"(What do I do?\nI can’t let this spin out of control.)"
 		},
 		{
 			"key":"EP06_S1410_0013",
-			"value":"（素直に謝るか、別の話題で気を反らすか\n　……いっそ開き直ってみるか？）"
+			"value":"(Should I apologize, or change the topic?\nOr maybe hold my ground?)"
 		},
 		{
 			"key":"EP06_S1410_Q1",
-			"value":"（穏やかに場を収めるために……どうすればいい？）"
+			"value":"(What should I say to keep the situation calm?)"
 		},
 		{
 			"key":"EP06_S1410_Q1_A1",
-			"value":"謝っておくか……"
+			"value":"I’d better apologize."
 		},
 		{
 			"key":"EP06_S1410_Q1_A2",
-			"value":"話を逸らすしかない！"
+			"value":"Change the subject!"
 		},
 		{
 			"key":"EP06_S1410_Q1_A3",
-			"value":"ここは開き直るしかないな……"
+			"value":"Double down..."
 		},
 		{
 			"key":"EP06_S1410_0015",
-			"value":"変なこと言ってごめん"
+			"value":"Sorry for being weird."
 		},
 		{
 			"key":"EP06_S1410_0016",
-			"value":"みんなピリピリしてるから、せめて\n二人だけでも仲直りしてたらいいなって"
+			"value":"Everyone’s on edge, so I thought it’d be nice\nif at least two people weren’t fighting."
 		},
 		{
 			"key":"EP06_S1410_0017",
-			"value":"……仲直りも何も、最初から\nオレから慣れ合った気はない"
+			"value":"Being on good terms ain’t something I’m used\nto."
 		},
 		{
 			"key":"EP06_S1410_0018",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S1410_0019",
-			"value":"ドラクモンが勝手についてきて\n勝手に力になってるだけだろ"
+			"value":"I didn’t ask Dracmon to follow me around and\nfight for me!"
 		},
 		{
 			"key":"EP06_S1410_0020",
-			"value":"そんな言い方……！"
+			"value":"Don’t say that!"
 		},
 		{
 			"key":"EP06_S1410_0021",
-			"value":"そのとおりさ！\n絆ってのは気づけば勝手に結ばれてるもんさ"
+			"value":"But I mean it!\nOur “bond” was made against my will!"
 		},
 		{
 			"key":"EP06_S1410_0022",
-			"value":"……ドラクモン"
+			"value":"Are you okay, Dracmon?"
 		},
 		{
 			"key":"EP06_S1410_0023",
-			"value":"ありがとな、タクマ\n気にしないでくれ"
+			"value":"Thanks, Takuma, but I’m fine.\nDon’t worry about me."
 		},
 		{
 			"key":"EP06_S1410_0024",
-			"value":"さあカイト、お宝探しの再開だ！"
+			"value":"Alright, Kaito,\nlet’s get back to treasure-hunting!"
 		},
 		{
 			"key":"EP06_S1410_0025",
-			"value":"……精々いいもの見つけろよな"
+			"value":"You better find something good."
 		},
 		{
 			"key":"EP06_S1410_0026",
-			"value":"二人とも、どこか気まずそうだ\n……余計なこと言っちゃったな"
+			"value":"They’re not doing so well...\nMaybe I said too much."
 		},
 		{
 			"key":"EP06_S1410_0028",
-			"value":"そ、そういえばさっき、何か見つけたんだよな？"
+			"value":"So, what was it you found earlier?"
 		},
 		{
 			"key":"EP06_S1410_0029",
-			"value":"露骨に話逸らしやがって"
+			"value":"Oh come on, don’t try to change the subject."
 		},
 		{
 			"key":"EP06_S1410_0030",
-			"value":"う……ごめん"
+			"value":"Sorry..."
 		},
 		{
 			"key":"EP06_S1410_0031",
-			"value":"いい、別に続けたい話じゃねぇから\n話題逸らしに乗ってやる"
+			"value":"Whatever, it’s not like I wanted to keep that\nconversation going. I’ll play along."
 		},
 		{
 			"key":"EP06_S1410_0032",
-			"value":"見つけたのはこれだ"
+			"value":"This is what we found."
 		},
 		{
 			"key":"EP06_S1410_0033",
-			"value":"これ……コイン？\n外国のかな、見たことないデザインだ"
+			"value":"A...coin?\nMust be foreign. I’ve never seen the design.   "
 		},
 		{
 			"key":"EP06_S1410_0034",
-			"value":"もし古銭だったら\n元の世界で売れるかもしれないだろ"
+			"value":"Might be ancient.\nMaybe we can sell it in our world."
 		},
 		{
 			"key":"EP06_S1410_0035",
-			"value":"オレはなんとしてでも元の世界に帰る\nミウを連れてな"
+			"value":"I’m gonna make it back somehow or other.\nAnd bring Miu with me."
 		},
 		{
 			"key":"EP06_S1410_0036",
-			"value":"それまでも、それからも利用できるものは\nしてやるさ……拾い物でもな"
+			"value":"I’ll use anything I can to make that happen.\nWho knows what’ll come in handy, even this!"
 		},
 		{
 			"key":"EP06_S1410_0037",
-			"value":"……それでいい\n生き延びような、カイト"
+			"value":"Sounds like a plan.\nWe’ll survive this somehow."
 		},
 		{
 			"key":"EP06_S1410_0038",
-			"value":"（ドラクモン、言葉は普通だけど\n　どこかしょんぼりしている気がするな）"
+			"value":"(Dracmon is talking like normal,\nbut he seems somehow dejected.)"
 		},
 		{
 			"key":"EP06_S1410_0040",
-			"value":"（言ってしまった事実は消せない……\n　よし！　開き直ろう！）"
+			"value":"(I can’t undo what I said...\nSo I’ll stay the course!)"
 		},
 		{
 			"key":"EP06_S1410_0041",
-			"value":"仲直り、したんだよね？"
+			"value":"It looks like you’re back on good terms,\nlike the old days."
 		},
 		{
 			"key":"EP06_S1410_0042",
-			"value":"開き直るなよな\n別にそういうんじゃない"
+			"value":"Not gonna back down, huh?\nI wouldn’t put it like, though."
 		},
 		{
 			"key":"EP06_S1410_0043",
-			"value":"そうだ、俺たちは固い絆で結ばれた……"
+			"value":"Yeah, our bond was so strong before..."
 		},
 		{
 			"key":"EP06_S1410_0044",
-			"value":"……そういうんでもない"
+			"value":"That’s not what I meant, either."
 		},
 		{
 			"key":"EP06_S1410_0045",
-			"value":"オレはミウを守って元の世界に帰れれば\n信頼だの絆だの、そんなものはどうでもいい"
+			"value":"I don’t care about “trust,” or “bonds.”\nJust getting back to our world with Miu."
 		},
 		{
 			"key":"EP06_S1410_0046",
-			"value":"だがこいつが裏切って\nミウを危険な目に遭わせるなら……"
+			"value":"If this THING ever turned against me and\nput Miu in danger..."
 		},
 		{
 			"key":"EP06_S1410_0047",
-			"value":"その時は、容赦しない"
+			"value":"I would not hold back,\nlemme put it that way."
 		},
 		{
 			"key":"EP06_S1410_0048",
-			"value":"タクマ……カイトの顔、怖いよ"
+			"value":"Look at Kaito’s face, Takuma.\nIt’s scary..."
 		},
 		{
 			"key":"EP06_S1410_0049",
-			"value":"（確かに、すごく怖い顔だ\n　ドラクモンに怒鳴ってた時と同じ……）"
+			"value":"(It really is.\nJust like the time he blew up at Dracmon.)"
 		},
 		{
 			"key":"EP06_S1410_0050",
-			"value":"……まあ、お前がオレたちのことを\n心配してるのはわかった"
+			"value":"Look, I get that you’re worried about us."
 		},
 		{
 			"key":"EP06_S1410_0051",
-			"value":"味方でいるうちは、せいぜい仲良くやるさ"
+			"value":"I’ll try to be nice while we’re still allies—\nfor now.  "
 		},
 		{
 			"key":"EP06_S1410_0052",
-			"value":"行くぞ、ドラクモン\n探索の続きだ"
+			"value":"Alright, back to exploring.\nYou coming, Dracmon?"
 		},
 		{
 			"key":"EP06_S1410_0053",
-			"value":"……ああ"
+			"value":"...Right."
 		},
 		{
 			"key":"EP06_S1410_0054",
-			"value":"行っちゃった……\nあの二人、大丈夫かな"
+			"value":"There they go.\nI hope those two are okay."
 		},
 		{
 			"key":"EP06_S1410_0055",
-			"value":"……わからない"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP06_S1410_0056",
-			"value":"タクマ、あの二人は……"
+			"value":"Takuma, what do you think those two—"
 		},
 		{
 			"key":"EP06_S1410_0057",
-			"value":"今はそっとしておこうか"
+			"value":"Maybe I should just leave him alone for now."
 		}
 	]
 }

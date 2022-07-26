@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1311_0001",
-			"value":"ん……？"
+			"value":"Hm?"
 		},
 		{
 			"key":"EP11_S1311_0002",
-			"value":"教授、どうかしたんですか？"
+			"value":"What’s up, Professor?"
 		},
 		{
 			"key":"EP11_S1311_0003",
-			"value":"いや、何か落ちていたものでね……"
+			"value":"Something’s on the ground here..."
 		},
 		{
 			"key":"EP11_S1311_0004",
-			"value":"それ、なんだー？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP11_S1311_0005",
-			"value":"ふむ……よくわからないが\nもしかしたら、何かの役にたつかもしれないね"
+			"value":"Hrrrm... I’m not sure. Perhaps it will be of\nassistance, though."
 		},
 		{
 			"key":"EP11_S1311_0006",
-			"value":"タクマくん、君に預けておこう"
+			"value":"Here, Takuma, I’ll give it to you."
 		},
 		{
 			"key":"EP11_S1311_0007",
-			"value":"はい、わかりました"
+			"value":"Sure, I’ll hold onto it."
 		}
 	]
 }

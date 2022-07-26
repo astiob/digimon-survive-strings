@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0328_0001",
-			"value":"二階から声がしたけど……どこなんだ？"
+			"value":"That voice came from the second floor...but\nwhere, exactly?"
 		},
 		{
 			"key":"EP01_S0328_0002",
-			"value":"ひぃぃぃぃぃぃっ！"
+			"value":"Yeeeeeek!"
 		},
 		{
 			"key":"EP01_S0328_0003",
-			"value":"タクマ、こっち！"
+			"value":"This way, Takuma!"
 		},
 		{
 			"key":"EP01_S0328_0004",
-			"value":"ああ、間違いない。教室の中だ！"
+			"value":"Yeah, it definitely came from a classroom!"
 		},
 		{
 			"key":"EP01_S0328_0005",
-			"value":"行くぞ！"
+			"value":"Let’s go!"
 		}
 	]
 }

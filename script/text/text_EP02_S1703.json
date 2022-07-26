@@ -2,83 +2,83 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1703_0001",
-			"value":"どこにいるのかしら……\nサキさんたち……"
+			"value":"Saki... Where are you?"
 		},
 		{
 			"key":"EP02_S1703_0002",
-			"value":"アオイ……"
+			"value":"Aoi..."
 		},
 		{
 			"key":"EP02_S1703_0003",
-			"value":"（アオイさん、心配そうだ）"
+			"value":"(Aoi seems worried.)"
 		},
 		{
 			"key":"EP02_S1703_Q1",
-			"value":"（どうしよう？）"
+			"value":"(So, what should I do?)"
 		},
 		{
 			"key":"EP02_S1703_Q1_A1",
-			"value":"励ます"
+			"value":"Encourage her."
 		},
 		{
 			"key":"EP02_S1703_Q1_A2",
-			"value":"叱る"
+			"value":"Scold her."
 		},
 		{
 			"key":"EP02_S1703_0004",
-			"value":"大丈夫だよ、きっとすぐに見つかるさ！"
+			"value":"It’s okay. We’re going to find them soon!"
 		},
 		{
 			"key":"EP02_S1703_0005",
-			"value":"サキたちに会ったら真っ先に笑顔を見せよう！\nだからほら、元気出して！"
+			"value":"You need to be ready to smile for them!\nIt’s time to cheer up!"
 		},
 		{
 			"key":"EP02_S1703_0006",
-			"value":"そうよね。落ち込んだ顔で会ったら悲しませちゃう"
+			"value":"You’re right. I wouldn’t want them to see me\nthis way."
 		},
 		{
 			"key":"EP02_S1703_0007",
-			"value":"ありがとう、タクマくん"
+			"value":"Thanks, Takuma."
 		},
 		{
 			"key":"EP02_S1703_0008",
-			"value":"アオイが元気になったわー！"
+			"value":"Aoi’s feeling better!"
 		},
 		{
 			"key":"EP02_S1703_0009",
-			"value":"よかったな～！"
+			"value":"Oh, I’m so glad!"
 		},
 		{
 			"key":"EP02_S1703_0010",
-			"value":"心配してるヒマはないよ、アオイさん！"
+			"value":"There’s no time for worries, Aoi!"
 		},
 		{
 			"key":"EP02_S1703_0011",
-			"value":"そんな弱気でどうするんだ！\n見つかるものも見つからないよ！"
+			"value":"Getting down won’t help!\nWe won’t find them like that!"
 		},
 		{
 			"key":"EP02_S1703_0012",
-			"value":"ご、ごめんなさい……！"
+			"value":"I-I’m sorry...!"
 		},
 		{
 			"key":"EP02_S1703_0013",
-			"value":"そうよね、私もやれることをやらなきゃ！"
+			"value":"You’re right. I have things to do!"
 		},
 		{
 			"key":"EP02_S1703_0014",
-			"value":"私も一緒にがんばるわ！"
+			"value":"I’ll help too!"
 		},
 		{
 			"key":"EP02_S1703_0015",
-			"value":"ボクもがんばるぞ～！"
+			"value":"Me too!"
 		},
 		{
 			"key":"EP02_S1703_0016",
-			"value":"私も足跡を見てみたけど\n大きさや形はほとんど同じみたいね"
+			"value":"I looked at the footprints, but the size and\nshape are nearly identical."
 		},
 		{
 			"key":"EP02_S1703_0017",
-			"value":"違うのは、それこそ進んでいる方向くらいかしら\n見たまんまだけど……"
+			"value":"It seems like the only difference is the\ndirection they are headed in."
 		}
 	]
 }

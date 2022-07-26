@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1140_0001",
-			"value":"タクマ、ここには誰もいないみたいだよ"
+			"value":"I don’t think there’s anyone here, Takuma."
 		},
 		{
 			"key":"EP04_S1140_0002",
-			"value":"中で騒ぎが起きてから\nまだそんなに時間が経ってないから……"
+			"value":"It hasn’t been that long since trouble\nstarted inside the castle,"
 		},
 		{
 			"key":"EP04_S1140_0003",
-			"value":"ミウもさすがに、外には出てないのかもしれないな"
+			"value":"so Miu might not have made it outside."
 		},
 		{
 			"key":"EP04_S1140_0004",
-			"value":"じゃあ、中を捜したほうがいいよね"
+			"value":"Then should we stick to searching inside the\ncastle?"
 		},
 		{
 			"key":"EP04_S1140_0005",
-			"value":"うん、中に戻ろう！"
+			"value":"Yeah, let’s head back in!"
 		}
 	]
 }

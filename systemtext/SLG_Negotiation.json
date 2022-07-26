@@ -2,2931 +2,2931 @@
 	"SLG_Negotiation":[
 		{
 			"key":"EM00_C0001_Q1",
-			"value":"（なんて答えよう……？）"
+			"value":"(How should I respond...?)"
 		},
 		{
 			"key":"EM00_C0002_Q1_A1",
-			"value":"仲間になってほしい"
+			"value":"Be my friend!"
 		},
 		{
 			"key":"EM00_C0002_Q1_A2",
-			"value":"アイテムがほしい"
+			"value":"I want items!"
 		},
 		{
 			"key":"EM00_C0002_Q1_A3",
-			"value":"回復してほしい"
+			"value":"Heal me!"
 		},
 		{
 			"key":"EM00_C0002_Q1_A4",
-			"value":"手を引いて欲しい"
+			"value":"Get out of here!"
 		},
 		{
 			"key":"EM01_C0001",
-			"value":"このエリアの平和を乱す者は、絶対に許さない！"
+			"value":"I won’t forgive anyone that disturbs the\npeace in this area!"
 		},
 		{
 			"key":"EM01_C0001_Q1_A1",
-			"value":"誤解しているようだな"
+			"value":"You got it all wrong."
 		},
 		{
 			"key":"EM01_C0001_Q1_A2",
-			"value":"だったらどうする？"
+			"value":"Yeah, so?"
 		},
 		{
 			"key":"EM01_C0001_Q1_A3",
-			"value":"お前こそ悪しき存在？"
+			"value":"YOU’RE the bad guy!"
 		},
 		{
 			"key":"EM01_C0001_Q1_A4",
-			"value":"ただにらみ返す"
+			"value":"[Just stare at them.]"
 		},
 		{
 			"key":"EM01_C0002",
-			"value":"お前にとっての、正しさとはなんだ？"
+			"value":"What do you believe is “right”?"
 		},
 		{
 			"key":"EM01_C0002_Q1_A1",
-			"value":"力に決まってる"
+			"value":"Power, of course."
 		},
 		{
 			"key":"EM01_C0002_Q1_A2",
-			"value":"考えたこともない"
+			"value":"Never considered it."
 		},
 		{
 			"key":"EM01_C0002_Q1_A3",
-			"value":"答えは自分の中だけにある"
+			"value":"The answer’s in you."
 		},
 		{
 			"key":"EM01_C0002_Q1_A4",
-			"value":"優しさを貫くこと"
+			"value":"Acting with kindness."
 		},
 		{
 			"key":"EM01_C0003",
-			"value":"燃えさかる炎の向こうで泣いている子がいたら、\nお前はどうする？"
+			"value":"If you saw a raging fire heading towards\na crying child, what would you do?"
 		},
 		{
 			"key":"EM01_C0003_Q1_A1",
-			"value":"もちろん助ける"
+			"value":"Save the kid, duh!"
 		},
 		{
 			"key":"EM01_C0003_Q1_A2",
-			"value":"諦める"
+			"value":"Nothing to be done..."
 		},
 		{
 			"key":"EM01_C0003_Q1_A3",
-			"value":"状況次第だ"
+			"value":"Depends, really."
 		},
 		{
 			"key":"EM01_C0003_Q1_A4",
-			"value":"自力で頑張れと応援する"
+			"value":"Yell “save yourself!”"
 		},
 		{
 			"key":"EM01_C0004",
-			"value":"力づくでどうにかなるとでも思っているのか？"
+			"value":"Do you think you can do anything by force?"
 		},
 		{
 			"key":"EM01_C0004_Q1_A1",
-			"value":"力こそ正義だ"
+			"value":"Strength is justice."
 		},
 		{
 			"key":"EM01_C0004_Q1_A2",
-			"value":"別の方法を提案したい"
+			"value":"There are other ways."
 		},
 		{
 			"key":"EM01_C0004_Q1_A3",
-			"value":"その言葉、そっくり返そう"
+			"value":"That’s my line!"
 		},
 		{
 			"key":"EM01_C0004_Q1_A4",
-			"value":"全く思っていない"
+			"value":"Not at all."
 		},
 		{
 			"key":"EM01_C0005",
-			"value":"お前、オレをカタブツだと思ってるだろう？"
+			"value":"Do you think I’m uptight?"
 		},
 		{
 			"key":"EM01_C0005_Q1_A1",
-			"value":"芯があるヤツだと思う"
+			"value":"You seem serious."
 		},
 		{
 			"key":"EM01_C0005_Q1_A2",
-			"value":"面白みが無いヤツだな"
+			"value":"Yeah, a real bore."
 		},
 		{
 			"key":"EM01_C0005_Q1_A3",
-			"value":"カタブツすぎて笑える"
+			"value":"So much so it hurts."
 		},
 		{
 			"key":"EM01_C0005_Q1_A4",
-			"value":"沈黙を貫く"
+			"value":"[Remain silent.]"
 		},
 		{
 			"key":"EM01_C0006",
-			"value":"ニンゲンを信じていいものかどうか……"
+			"value":"Can I trust humans...?"
 		},
 		{
 			"key":"EM01_C0006_Q1_A1",
-			"value":"信じるべきだ"
+			"value":"You can and should!"
 		},
 		{
 			"key":"EM01_C0006_Q1_A2",
-			"value":"その前にお互いを知ろう"
+			"value":"Get to know us first."
 		},
 		{
 			"key":"EM01_C0006_Q1_A3",
-			"value":"裏切られるかもな"
+			"value":"They may betray you..."
 		},
 		{
 			"key":"EM01_C0006_Q1_A4",
-			"value":"無責任な事は言えない"
+			"value":"Not sure what to say."
 		},
 		{
 			"key":"EM01_C0007",
-			"value":"弱い敵と、強い敵、戦うならどちらが好ましい？"
+			"value":"Would you rather fight a weak enemy or\na strong enemy?"
 		},
 		{
 			"key":"EM01_C0007_Q1_A1",
-			"value":"弱い方が楽でいい"
+			"value":"A weak one’s easier!"
 		},
 		{
 			"key":"EM01_C0007_Q1_A2",
-			"value":"強いのと戦いたい"
+			"value":"Gimme a strong one."
 		},
 		{
 			"key":"EM01_C0007_Q1_A3",
-			"value":"どちらだろうと関係無い"
+			"value":"Does it matter?"
 		},
 		{
 			"key":"EM01_C0007_Q1_A4",
-			"value":"戦うとか野蛮だな"
+			"value":"Fighting is barbaric."
 		},
 		{
 			"key":"EM01_C0008",
-			"value":"ほう、そう来るか"
+			"value":"I see..."
 		},
 		{
 			"key":"EM01_C0009",
-			"value":"敵ではないのか……？\nこいつは一体……？"
+			"value":"You're not an enemy?\nWhat on earth...?"
 		},
 		{
 			"key":"EM01_C0010",
-			"value":"このような者がいるとは、捨てたものではないな"
+			"value":"It’s good there’s people like this around..."
 		},
 		{
 			"key":"EM01_C0011",
-			"value":"……呆れたな"
+			"value":"...I can’t believe it."
 		},
 		{
 			"key":"EM01_C0012",
-			"value":"それは本気で言っているのか？"
+			"value":"You can’t be serious..."
 		},
 		{
 			"key":"EM01_C0013",
-			"value":"問答無用！\n徹底的に叩きのめすのみ！"
+			"value":"The time for talk is over!\nI’ll smash you to bits!"
 		},
 		{
 			"key":"EM01_C0014",
-			"value":"お前の話なら、聞いてやらなくもない"
+			"value":"I guess I can hear you out."
 		},
 		{
 			"key":"EM01_C0015",
-			"value":"了解した、同行しよう"
+			"value":"Fine, I’ll go with you."
 		},
 		{
 			"key":"EM01_C0016",
-			"value":"必要ならば渡してやろう"
+			"value":"Sure, if you need it I’ll give it to you."
 		},
 		{
 			"key":"EM01_C0017",
-			"value":"これでまた戦えるはずだ"
+			"value":"This should keep you in the fight."
 		},
 		{
 			"key":"EM01_C0018",
-			"value":"ではさらばだ"
+			"value":"All right, until next time."
 		},
 		{
 			"key":"EM02_C0001",
-			"value":"何の理由があって、わたし達に戦いを挑むのかしら？"
+			"value":"Why do you wish to fight us?"
 		},
 		{
 			"key":"EM02_C0001_Q1_A1",
-			"value":"元の世界に還るためだ"
+			"value":"To return to my world."
 		},
 		{
 			"key":"EM02_C0001_Q1_A2",
-			"value":"戦い自体が好きだから"
+			"value":"I just like to fight!"
 		},
 		{
 			"key":"EM02_C0001_Q1_A3",
-			"value":"平和を取り戻すためだ"
+			"value":"For the sake of peace."
 		},
 		{
 			"key":"EM02_C0001_Q1_A4",
-			"value":"訳を説明する気は無い"
+			"value":"I won’t tell you."
 		},
 		{
 			"key":"EM02_C0002",
-			"value":"朝の澄んだ空気を吸うと、\n気持ちが引き締まると思わない？"
+			"value":"Doesn’t the tranquil morning air just get\nyour motor running?"
 		},
 		{
 			"key":"EM02_C0002_Q1_A1",
-			"value":"スッキリするな"
+			"value":"Yeah, it’s refreshing."
 		},
 		{
 			"key":"EM02_C0002_Q1_A2",
-			"value":"昼まで寝ていたい"
+			"value":"I sleep until noon..."
 		},
 		{
 			"key":"EM02_C0002_Q1_A3",
-			"value":"夜の方が好きだ"
+			"value":"I’m a night owl."
 		},
 		{
 			"key":"EM02_C0002_Q1_A4",
-			"value":"一日の始まりを感じるな"
+			"value":"Good start to the day."
 		},
 		{
 			"key":"EM02_C0003",
-			"value":"わたしには守るべきモノがあるけれど、\nお前にはそれがあるの？"
+			"value":"I have something I must protect.\nCan you say the same?"
 		},
 		{
 			"key":"EM02_C0003_Q1_A1",
-			"value":"守りたいものはある"
+			"value":"I have that, too."
 		},
 		{
 			"key":"EM02_C0003_Q1_A2",
-			"value":"これから考える"
+			"value":"Let me think about it."
 		},
 		{
 			"key":"EM02_C0003_Q1_A3",
-			"value":"それは秘密だ"
+			"value":"It’s a secret."
 		},
 		{
 			"key":"EM02_C0003_Q1_A4",
-			"value":"あるのかな……？"
+			"value":"I wonder...?"
 		},
 		{
 			"key":"EM02_C0004",
-			"value":"強い者と対峙した時は、心が躍るわね……"
+			"value":"Facing a strong opponent sure gets your heart\nracing, doesn’t it?"
 		},
 		{
 			"key":"EM02_C0004_Q1_A1",
-			"value":"そうは思わないな"
+			"value":"I’d have to disagree."
 		},
 		{
 			"key":"EM02_C0004_Q1_A2",
-			"value":"ワクワクするよ"
+			"value":"Yeah, so exciting!"
 		},
 		{
 			"key":"EM02_C0004_Q1_A3",
-			"value":"腰が引ける"
+			"value":"Gives me cold feet..."
 		},
 		{
 			"key":"EM02_C0004_Q1_A4",
-			"value":"その精神を見習いたい"
+			"value":"Wish I felt the same."
 		},
 		{
 			"key":"EM02_C0005",
-			"value":"川べりで１人、物思いに耽ることがあるけど、\n何にも代え難い大切な時間だわ"
+			"value":"I sometimes get lost in thought by the river.\nI wouldn’t give up that time for the world!"
 		},
 		{
 			"key":"EM02_C0005_Q1_A1",
-			"value":"暇そうに見えるな"
+			"value":"So much free time!"
 		},
 		{
 			"key":"EM02_C0005_Q1_A2",
-			"value":"落ちないように気をつけて"
+			"value":"Don’t think too much!"
 		},
 		{
 			"key":"EM02_C0005_Q1_A3",
-			"value":"川で騒ぐ方が好きだ"
+			"value":"I’d rather go swim."
 		},
 		{
 			"key":"EM02_C0005_Q1_A4",
-			"value":"水音を聞くと落ち着くな"
+			"value":"Water sure is calming."
 		},
 		{
 			"key":"EM02_C0006",
-			"value":"勇ましいと思われがちだけど、花を愛でるのも好きよ\n……おかしいかしら？"
+			"value":"I may seem tough, but I actually love to grow\nflowers... Is that strange?"
 		},
 		{
 			"key":"EM02_C0006_Q1_A1",
-			"value":"それはおかしい"
+			"value":"Yeah, a little bit."
 		},
 		{
 			"key":"EM02_C0006_Q1_A2",
-			"value":"恥ずかしいならやめておけ"
+			"value":"Then just stop!"
 		},
 		{
 			"key":"EM02_C0006_Q1_A3",
-			"value":"ピッタリじゃないか"
+			"value":"I think it fits!"
 		},
 		{
 			"key":"EM02_C0006_Q1_A4",
-			"value":"好きなら気にするな"
+			"value":"Do whatever you like."
 		},
 		{
 			"key":"EM02_C0007",
-			"value":"星空と青空なら、お前はどちらが好みなの？"
+			"value":"A starry sky, or a blue sky.\nWhich do you prefer?"
 		},
 		{
 			"key":"EM02_C0007_Q1_A1",
-			"value":"ロマンチックな星空かな"
+			"value":"A romantic starry sky!"
 		},
 		{
 			"key":"EM02_C0007_Q1_A2",
-			"value":"澄んだ青空だ"
+			"value":"A clear blue sky!"
 		},
 		{
 			"key":"EM02_C0007_Q1_A3",
-			"value":"えっと、えっと……"
+			"value":"Ummm..."
 		},
 		{
 			"key":"EM02_C0007_Q1_A4",
-			"value":"甲乙付けがたい良さがある"
+			"value":"It’s hard to choose."
 		},
 		{
 			"key":"EM02_C0008",
-			"value":"あら……興味深いわね"
+			"value":"My... Now that’s interesting."
 		},
 		{
 			"key":"EM02_C0009",
-			"value":"なんだろう……\nこいつから、勇気というものを感じるわ……"
+			"value":"What is this...\nI sense courage from this one..."
 		},
 		{
 			"key":"EM02_C0010",
-			"value":"ふっ、そう……なんとなく気があいそうね"
+			"value":"Heh, I see... I think we’ll get along\njust fine."
 		},
 		{
 			"key":"EM02_C0011",
-			"value":"気分を害したわ"
+			"value":"You’ve killed the mood."
 		},
 		{
 			"key":"EM02_C0012",
-			"value":"そう……お前とは気が合いそうにないわ"
+			"value":"Hmph... Looks like we don’t see eye-to-eye."
 		},
 		{
 			"key":"EM02_C0013",
-			"value":"不愉快なヤツめ！\n葬ってくれる！"
+			"value":"What a creep!\nI’ll bury you!"
 		},
 		{
 			"key":"EM02_C0014",
-			"value":"願いがあるんでしょう？\n言ってみなさい"
+			"value":"You wanted something, didn’t you?\nGo ahead, try me."
 		},
 		{
 			"key":"EM02_C0015",
-			"value":"わたしの力が必要なのね？\nいいわよ"
+			"value":"You need my strength?\nAll right."
 		},
 		{
 			"key":"EM02_C0016",
-			"value":"役に立つようなら、使いなさい"
+			"value":"Here, take it if it’ll help."
 		},
 		{
 			"key":"EM02_C0017",
-			"value":"さあ、勇気を持って立ち上がりなさい！"
+			"value":"Come now, stand and fight!"
 		},
 		{
 			"key":"EM02_C0018",
-			"value":"それなら、これで失礼するわ"
+			"value":"In that case, I’ll be seeing you."
 		},
 		{
 			"key":"EM03_C0001",
-			"value":"キサマをひねり潰してくれる！\nぐわっはははは！"
+			"value":"I’ll pulverize ya!\nGwaaahahahahaaa!"
 		},
 		{
 			"key":"EM03_C0001_Q1_A1",
-			"value":"逆にひねり潰してやる"
+			"value":"Not if I beat you!"
 		},
 		{
 			"key":"EM03_C0001_Q1_A2",
-			"value":"強そうな奴で嬉しい"
+			"value":"Nice, a tough one!"
 		},
 		{
 			"key":"EM03_C0001_Q1_A3",
-			"value":"怖いけど負けられない"
+			"value":"Scary! But I’ll win."
 		},
 		{
 			"key":"EM03_C0001_Q1_A4",
-			"value":"ここがお前の墓場だ"
+			"value":"This’ll be your grave."
 		},
 		{
 			"key":"EM03_C0002",
-			"value":"おおおおっ！　ぬおおおおっ！\nオレ以外の動いてるヤツは邪魔なんだよ！！"
+			"value":"Arrrrgh! Grraaaargh!\nAnyone else just gets in my way!"
 		},
 		{
 			"key":"EM03_C0002_Q1_A1",
-			"value":"大人しくしろ！"
+			"value":"Calm down already!"
 		},
 		{
 			"key":"EM03_C0002_Q1_A2",
-			"value":"１人じゃ生きられないぞ"
+			"value":"We can’t live alone."
 		},
 		{
 			"key":"EM03_C0002_Q1_A3",
-			"value":"無茶を言うな"
+			"value":"That’s crazy talk."
 		},
 		{
 			"key":"EM03_C0002_Q1_A4",
-			"value":"落ち着くのを待つ"
+			"value":"[Let it simmer down.]"
 		},
 		{
 			"key":"EM03_C0003",
-			"value":"ひょろっちいヤツだな、ちゃんと肉食ってんのか？"
+			"value":"Ain’t you a frail-looking thing.\nYou eating enough meat?"
 		},
 		{
 			"key":"EM03_C0003_Q1_A1",
-			"value":"あまり食べてない"
+			"value":"Not really."
 		},
 		{
 			"key":"EM03_C0003_Q1_A2",
-			"value":"肉より野菜が好きだ"
+			"value":"I prefer vegetables."
 		},
 		{
 			"key":"EM03_C0003_Q1_A3",
-			"value":"何でも食べるぞ"
+			"value":"I eat everything!"
 		},
 		{
 			"key":"EM03_C0003_Q1_A4",
-			"value":"お前は逞しくていいな"
+			"value":"You look strong."
 		},
 		{
 			"key":"EM03_C0004",
-			"value":"ここらはオレのナワバリだ！\n食いモン置いていけ！"
+			"value":"This is my turf!\nLeave some food and get outta here!"
 		},
 		{
 			"key":"EM03_C0004_Q1_A1",
-			"value":"逆にめぐんでくれ"
+			"value":"You give ME food!"
 		},
 		{
 			"key":"EM03_C0004_Q1_A2",
-			"value":"自分で狩ればいい"
+			"value":"Hunt for yourself!"
 		},
 		{
 			"key":"EM03_C0004_Q1_A3",
-			"value":"大事な食料は渡せない"
+			"value":"I need this food."
 		},
 		{
 			"key":"EM03_C0004_Q1_A4",
-			"value":"一応、考えてみる"
+			"value":"I’ll think about it."
 		},
 		{
 			"key":"EM03_C0005",
-			"value":"オレは面白いことだけやりたいんだ！\nキサマもそうだろう？"
+			"value":"I want to do nothing but fun things!\nYou too, right?"
 		},
 		{
 			"key":"EM03_C0005_Q1_A1",
-			"value":"一緒にしないでくれ"
+			"value":"I’m not like you."
 		},
 		{
 			"key":"EM03_C0005_Q1_A2",
-			"value":"よくわかってるじゃないか"
+			"value":"You know your stuff!"
 		},
 		{
 			"key":"EM03_C0005_Q1_A3",
-			"value":"つらいこともやらないと"
+			"value":"Grin and bear it."
 		},
 		{
 			"key":"EM03_C0005_Q1_A4",
-			"value":"こちらはお前以上だ"
+			"value":"Even more than you!"
 		},
 		{
 			"key":"EM03_C0006",
-			"value":"ううう……少しでもじっとしてると、\n気が狂いそうだぜ……"
+			"value":"Uurrgh... Waiting around makes me wanna\ngo crazy!"
 		},
 		{
 			"key":"EM03_C0006_Q1_A1",
-			"value":"暴れたくなるよな"
+			"value":"I know what you mean."
 		},
 		{
 			"key":"EM03_C0006_Q1_A2",
-			"value":"それはお前だけだろう"
+			"value":"Can’t say the same..."
 		},
 		{
 			"key":"EM03_C0006_Q1_A3",
-			"value":"もう少しだけ我慢してくれ"
+			"value":"Have more patience!"
 		},
 		{
 			"key":"EM03_C0006_Q1_A4",
-			"value":"呆れた目で見つめる"
+			"value":"[Stare in amazement.]"
 		},
 		{
 			"key":"EM03_C0007",
-			"value":"腹一杯食った後に昼寝すると、\n幸せな気分になれるって知ってるか？"
+			"value":"Did you know? Taking a nap after stuffing\nyour face is just the best!"
 		},
 		{
 			"key":"EM03_C0007_Q1_A1",
-			"value":"実際、最高だと思う"
+			"value":"Yeah, the best!"
 		},
 		{
 			"key":"EM03_C0007_Q1_A2",
-			"value":"胃に良くないぞ"
+			"value":"It’s bad for your gut."
 		},
 		{
 			"key":"EM03_C0007_Q1_A3",
-			"value":"満腹じゃ眠れないって"
+			"value":"Really? I can’t sleep."
 		},
 		{
 			"key":"EM03_C0007_Q1_A4",
-			"value":"教えてくれてありがとう"
+			"value":"Thanks for the lesson!"
 		},
 		{
 			"key":"EM03_C0008",
-			"value":"わははは、いいぞ！"
+			"value":"Wahahaha, good, goood!"
 		},
 		{
 			"key":"EM03_C0009",
-			"value":"ふん……悪くないではないか"
+			"value":"Hrrmph... Not bad!"
 		},
 		{
 			"key":"EM03_C0010",
-			"value":"うおおおおおおお！　そうきたか！\nわかる、わかるぞ！"
+			"value":"Graaaargh! Yeah, that’s it!\nI know just what you mean!"
 		},
 		{
 			"key":"EM03_C0011",
-			"value":"ふん……つまらんヤツだな"
+			"value":"Hmph... Yer so lame."
 		},
 		{
 			"key":"EM03_C0012",
-			"value":"むぅぅぅ……キサマの答えは面白くないぞ"
+			"value":"Nrrrgh... All of your answers are boring!"
 		},
 		{
 			"key":"EM03_C0013",
-			"value":"ぐおおおおお！\nキサマは許せんやつだ"
+			"value":"RAAAARGH!\nYou’re in trouble now!"
 		},
 		{
 			"key":"EM03_C0014",
-			"value":"で、オレに何が望みだ？\n仕方ねぇから従ってやる"
+			"value":"So, whaddaya want?\nGuess I’ll hear ya out."
 		},
 		{
 			"key":"EM03_C0015",
-			"value":"おおおっ！\nそうか、オレの力が欲しいってのか！"
+			"value":"Oohhhh!\nNeed my help, do ya?!"
 		},
 		{
 			"key":"EM03_C0016",
-			"value":"何に使うかしらねぇが、持って行け"
+			"value":"Dunno if this’ll help, but take it."
 		},
 		{
 			"key":"EM03_C0017",
-			"value":"ほらよ……気合い入れろよ！"
+			"value":"Hey now... Pull yerself together, already!"
 		},
 		{
 			"key":"EM03_C0018",
-			"value":"なんだよ、拍子抜けだな……まあいい、じゃあな"
+			"value":"Man, what a letdown... Ah well, I’m out."
 		},
 		{
 			"key":"EM04_C0001",
-			"value":"ムダな戦いは、できれば避けたいところだけど……"
+			"value":"I’d like to avoid a pointless battle,\nif possible..."
 		},
 		{
 			"key":"EM04_C0001_Q1_A1",
-			"value":"同意だけど仕方がない"
+			"value":"And yet fight we must."
 		},
 		{
 			"key":"EM04_C0001_Q1_A2",
-			"value":"ムダな戦いなどない"
+			"value":"There’s no such thing!"
 		},
 		{
 			"key":"EM04_C0001_Q1_A3",
-			"value":"覚悟を決めるんだ"
+			"value":"Get ready."
 		},
 		{
 			"key":"EM04_C0001_Q1_A4",
-			"value":"なら、撤退すればいい"
+			"value":"Then let’s retreat."
 		},
 		{
 			"key":"EM04_C0002",
-			"value":"披露した知識が間違ってると指摘されたら、どうする？"
+			"value":"What would you do if someone told you an idea\nyou believed in was incorrect?"
 		},
 		{
 			"key":"EM04_C0002_Q1_A1",
-			"value":"悔しくて歯がみする"
+			"value":"Get annoyed!"
 		},
 		{
 			"key":"EM04_C0002_Q1_A2",
-			"value":"相手にお礼を言う"
+			"value":"Thank that person."
 		},
 		{
 			"key":"EM04_C0002_Q1_A3",
-			"value":"自分の無知を恥じる"
+			"value":"I’d be embarrassed."
 		},
 		{
 			"key":"EM04_C0002_Q1_A4",
-			"value":"コレが正しいと主張する"
+			"value":"I’d claim I was right!"
 		},
 		{
 			"key":"EM04_C0003",
-			"value":"時には、理論よりも感情で動いた方がいいのだろうか？"
+			"value":"Sometimes you should act on emotion instead\nof logic, don’t you think?"
 		},
 		{
 			"key":"EM04_C0003_Q1_A1",
-			"value":"感情で動くのは危険だ"
+			"value":"That sounds dangerous."
 		},
 		{
 			"key":"EM04_C0003_Q1_A2",
-			"value":"考える前に動けばいい"
+			"value":"Leap before you look!"
 		},
 		{
 			"key":"EM04_C0003_Q1_A3",
-			"value":"自分の心に正直になろう"
+			"value":"Be true to yourself."
 		},
 		{
 			"key":"EM04_C0003_Q1_A4",
-			"value":"常に効率を重視すべきだ"
+			"value":"Efficiency is key."
 		},
 		{
 			"key":"EM04_C0004",
-			"value":"与り知らぬところで仲間が他人に迷惑をかけていたら、\nどう対処するべきだと思う？"
+			"value":"If your friend was off causing trouble,\nhow would you deal with it?"
 		},
 		{
 			"key":"EM04_C0004_Q1_A1",
-			"value":"問答無用で鉄拳制裁！"
+			"value":"With my fists!"
 		},
 		{
 			"key":"EM04_C0004_Q1_A2",
-			"value":"仲間を擁護する"
+			"value":"I’d protect my friend."
 		},
 		{
 			"key":"EM04_C0004_Q1_A3",
-			"value":"よく諭して反省させる"
+			"value":"I’d scold them!"
 		},
 		{
 			"key":"EM04_C0004_Q1_A4",
-			"value":"関係無い、知らんぷりだ"
+			"value":"Nothing to do with me."
 		},
 		{
 			"key":"EM04_C0005",
-			"value":"ただ穏やかに、静かに過ごしたいと願うのは罪だろうか"
+			"value":"Is wanting quiet time to yourself such\na crime?"
 		},
 		{
 			"key":"EM04_C0005_Q1_A1",
-			"value":"叶わないけど、いい願いだ"
+			"value":"No, but it’s not easy."
 		},
 		{
 			"key":"EM04_C0005_Q1_A2",
-			"value":"それを目指して動けばいい"
+			"value":"You should go for it!"
 		},
 		{
 			"key":"EM04_C0005_Q1_A3",
-			"value":"賑やかな方がいいだろう"
+			"value":"I prefer fun."
 		},
 		{
 			"key":"EM04_C0005_Q1_A4",
-			"value":"もちろんギルティだ"
+			"value":"Yeah, shame on you!"
 		},
 		{
 			"key":"EM04_C0006",
-			"value":"空に浮かぶ雲……どんな印象を受けるかい？"
+			"value":"How do clouds in the sky look to you?"
 		},
 		{
 			"key":"EM04_C0006_Q1_A1",
-			"value":"柔らかくて美味しそう"
+			"value":"Fluffy and tasty."
 		},
 		{
 			"key":"EM04_C0006_Q1_A2",
-			"value":"上に乗ってみたい"
+			"value":"I wanna ride one!"
 		},
 		{
 			"key":"EM04_C0006_Q1_A3",
-			"value":"常に変化して興味深い"
+			"value":"Always transforming."
 		},
 		{
 			"key":"EM04_C0006_Q1_A4",
-			"value":"想像力が膨らむな"
+			"value":"Makes you think, huh?"
 		},
 		{
 			"key":"EM04_C0007",
-			"value":"無邪気なモンスターたちを眺めていると、\n心が癒されるな……"
+			"value":"Looking at innocent monsters really puts your\nheart at ease, doesn’t it?"
 		},
 		{
 			"key":"EM04_C0007_Q1_A1",
-			"value":"こちらは落ち着かない"
+			"value":"Not for me, nope."
 		},
 		{
 			"key":"EM04_C0007_Q1_A2",
-			"value":"可愛いよな"
+			"value":"They’re so cute!"
 		},
 		{
 			"key":"EM04_C0007_Q1_A3",
-			"value":"いい奴アピールか？"
+			"value":"Love the nice guy act."
 		},
 		{
 			"key":"EM04_C0007_Q1_A4",
-			"value":"穏やかな心の持ち主だね"
+			"value":"What a gentle soul!"
 		},
 		{
 			"key":"EM04_C0008",
-			"value":"なるほど、それには賛同できる"
+			"value":"I see, it looks like we’re kindred spirits!"
 		},
 		{
 			"key":"EM04_C0009",
-			"value":"ほう……\nわかり合える余地がある、そういうことなのか？"
+			"value":"Whoa...\nIs this what it means to have common ground?"
 		},
 		{
 			"key":"EM04_C0010",
-			"value":"うむ、お前とならば、互いに理解し合えそうだ"
+			"value":"It looks like you and I can truly\nunderstand each other."
 		},
 		{
 			"key":"EM04_C0011",
-			"value":"お前とは考え方が違うようだ"
+			"value":"I guess we don’t think alike."
 		},
 		{
 			"key":"EM04_C0012",
-			"value":"あまり失望させないでくれ"
+			"value":"Don’t disappoint me."
 		},
 		{
 			"key":"EM04_C0013",
-			"value":"やはり、敵対する運命だったということか……"
+			"value":"Perhaps it’s our destiny to fight..."
 		},
 		{
 			"key":"EM04_C0014",
-			"value":"お前が私に求めるものとはなんだ？"
+			"value":"What do you want from me?"
 		},
 		{
 			"key":"EM04_C0015",
-			"value":"お前ならば、私が従うに値する"
+			"value":"You are worthy of my allegiance."
 		},
 		{
 			"key":"EM04_C0016",
-			"value":"ならばこれを託そう"
+			"value":"Then I’ll give this to you."
 		},
 		{
 			"key":"EM04_C0017",
-			"value":"この力を……お前の糧とするがいい"
+			"value":"This power... May it provide you nourishment."
 		},
 		{
 			"key":"EM04_C0018",
-			"value":"そうか……ではこれでお別れだ"
+			"value":"I see... In that case, I bid you farewell."
 		},
 		{
 			"key":"EM05_C0001",
-			"value":"下等なニンゲンよ、降伏すれば命だけは保証するが？"
+			"value":"Inferior creature, surrender and you may\nyet live!"
 		},
 		{
 			"key":"EM05_C0001_Q1_A1",
-			"value":"信じられるものか"
+			"value":"Like I’d believe that!"
 		},
 		{
 			"key":"EM05_C0001_Q1_A2",
-			"value":"人間は下等じゃない！"
+			"value":"Humans ain’t inferior!"
 		},
 		{
 			"key":"EM05_C0001_Q1_A3",
-			"value":"降伏もありかも"
+			"value":"Surrender’s an option."
 		},
 		{
 			"key":"EM05_C0001_Q1_A4",
-			"value":"そっちが降伏したら？"
+			"value":"How about YOU give up?"
 		},
 		{
 			"key":"EM05_C0002",
-			"value":"崇高なモノは他者から理解されない……\nけ、決して孤独という意味ではないぞ！"
+			"value":"Supreme beings can't be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
 		},
 		{
 			"key":"EM05_C0002_Q1_A1",
-			"value":"なるほど、ボッチか"
+			"value":"Ah... You feel alone?"
 		},
 		{
 			"key":"EM05_C0002_Q1_A2",
-			"value":"つまり孤高だな"
+			"value":"A lone wolf, huh?"
 		},
 		{
 			"key":"EM05_C0002_Q1_A3",
-			"value":"うん、こっちも同じだ"
+			"value":"I get it. Me too."
 		},
 		{
 			"key":"EM05_C0002_Q1_A4",
-			"value":"哀れみの目で見る"
+			"value":"[Look on with pity.]"
 		},
 		{
 			"key":"EM05_C0003",
-			"value":"世の中には覆すことの出来ないモノがあるが……\nそれが何か分かるか？"
+			"value":"Some things in this world cannot be\noverturned... Do you know of what I speak?"
 		},
 		{
 			"key":"EM05_C0003_Q1_A1",
-			"value":"力のことじゃないか"
+			"value":"You mean power?"
 		},
 		{
 			"key":"EM05_C0003_Q1_A2",
-			"value":"お金のことかな"
+			"value":"Yeah, money!"
 		},
 		{
 			"key":"EM05_C0003_Q1_A3",
-			"value":"才能だろう"
+			"value":"Talent, right?"
 		},
 		{
 			"key":"EM05_C0003_Q1_A4",
-			"value":"覆せないモノなどない"
+			"value":"There’s no such thing!"
 		},
 		{
 			"key":"EM05_C0004",
-			"value":"ニンゲンと共存を選ぶモンスターがいるとは、\n信じがたいことだな"
+			"value":"It’s hard to believe there are monsters out\nthere that coexist with humans..."
 		},
 		{
 			"key":"EM05_C0004_Q1_A1",
-			"value":"仲間なら当たり前だ"
+			"value":"Friends help friends!"
 		},
 		{
 			"key":"EM05_C0004_Q1_A2",
-			"value":"生き抜くための手段だ"
+			"value":"It’s a way to survive."
 		},
 		{
 			"key":"EM05_C0004_Q1_A3",
-			"value":"配下は必要だろう？"
+			"value":"We needs servants!"
 		},
 		{
 			"key":"EM05_C0004_Q1_A4",
-			"value":"利害の一致もあるしな"
+			"value":"It’s common interests."
 		},
 		{
 			"key":"EM05_C0005",
-			"value":"多少何か言われた程度で、己の立ち位置が揺らぐ\nようでは、たかが知れている"
+			"value":"Those whose positions waver from little more\nthan words do not amount to much."
 		},
 		{
 			"key":"EM05_C0005_Q1_A1",
-			"value":"すごい自信だ、尊敬する"
+			"value":"I respect your spirit!"
 		},
 		{
 			"key":"EM05_C0005_Q1_A2",
-			"value":"実は内心揺らいでないか？"
+			"value":"Hearts will waver."
 		},
 		{
 			"key":"EM05_C0005_Q1_A3",
-			"value":"揺らいだことはない"
+			"value":"Never happened to me."
 		},
 		{
 			"key":"EM05_C0005_Q1_A4",
-			"value":"たまには耳を傾けようよ"
+			"value":"Maybe try listening?"
 		},
 		{
 			"key":"EM05_C0006",
-			"value":"お前は月は好きか？\n満月を眺めると、心が満たされるが、どうだ？"
+			"value":"Do you like the moon? The sight of a full\nmoon is so heartwarming, don’t you think?"
 		},
 		{
 			"key":"EM05_C0006_Q1_A1",
-			"value":"自分と重ねているとか"
+			"value":"Reminds you of you?"
 		},
 		{
 			"key":"EM05_C0006_Q1_A2",
-			"value":"団子が食べたくなるな"
+			"value":"I wanna eat cheese."
 		},
 		{
 			"key":"EM05_C0006_Q1_A3",
-			"value":"存在感があるからな"
+			"value":"Makes me feel alive!"
 		},
 		{
 			"key":"EM05_C0006_Q1_A4",
-			"value":"明るくて便利だよな"
+			"value":"Its light is useful."
 		},
 		{
 			"key":"EM05_C0007",
-			"value":"お前に、座右の銘があるとすれば……？"
+			"value":"What would you say is your favorite\nexpression?"
 		},
 		{
 			"key":"EM05_C0007_Q1_A1",
-			"value":"一石二鳥"
+			"value":"Two birds, one stone."
 		},
 		{
 			"key":"EM05_C0007_Q1_A2",
-			"value":"弱肉強食"
+			"value":"Survival of fittest."
 		},
 		{
 			"key":"EM05_C0007_Q1_A3",
-			"value":"日進月歩"
+			"value":"Steady progress."
 		},
 		{
 			"key":"EM05_C0007_Q1_A4",
-			"value":"そんなモノはいらない"
+			"value":"Can’t say I have one."
 		},
 		{
 			"key":"EM05_C0008",
-			"value":"くくく、愉快な気分にさせてくれる"
+			"value":"Ho ho ho, your answers please me!"
 		},
 		{
 			"key":"EM05_C0009",
-			"value":"ふむ、感心したぞ……褒めてやろう"
+			"value":"Hmph, I admit I’m impressed...\nYou are deserving of praise!"
 		},
 		{
 			"key":"EM05_C0010",
-			"value":"なるほど、これがニンゲンというものか。興味深い"
+			"value":"I see, so this is how humans are? \nFascinating..."
 		},
 		{
 			"key":"EM05_C0011",
-			"value":"……お前はその程度か、よくわかった"
+			"value":"...I see, so that’s what you amount to."
 		},
 		{
 			"key":"EM05_C0012",
-			"value":"高尚な答えを求めても無意味ということか……"
+			"value":"It was pointless to expect anything of merit."
 		},
 		{
 			"key":"EM05_C0013",
-			"value":"ふん！\n所詮は下等な存在、理解できるはずもないか！"
+			"value":"Harumph! It seems I cannot understand\nsuch an inferior being after all!"
 		},
 		{
 			"key":"EM05_C0014",
-			"value":"褒美に願いの１つも聞いてやろうではないか"
+			"value":"I shall heed a single request.\nYou’ve earned it!"
 		},
 		{
 			"key":"EM05_C0015",
-			"value":"……よかろう\nただし、失望はさせるなよ"
+			"value":"...Very well.\nBut do not disappoint me, you hear?"
 		},
 		{
 			"key":"EM05_C0016",
-			"value":"そんなに欲しければ、持っていくがいい"
+			"value":"If you want it so badly, you can have it!"
 		},
 		{
 			"key":"EM05_C0017",
-			"value":"いいだろう、お前に分け与えてやる"
+			"value":"Very well, I suppose you deserve this\nhandout."
 		},
 		{
 			"key":"EM05_C0018",
-			"value":"ではさらばだ、ニンゲン"
+			"value":"Until we meet again, human."
 		},
 		{
 			"key":"EM06_C0001",
-			"value":"どんなにそっちが強くたって、負けはしないからね！"
+			"value":"I don’t care how tough you are,\nI’m not gonna lose!"
 		},
 		{
 			"key":"EM06_C0001_Q1_A1",
-			"value":"できれば戦いたくない"
+			"value":"I don’t want to fight."
 		},
 		{
 			"key":"EM06_C0001_Q1_A2",
-			"value":"僕も負けやしない"
+			"value":"I’m not gonna lose!"
 		},
 		{
 			"key":"EM06_C0001_Q1_A3",
-			"value":"元気があっていいな"
+			"value":"Nice, so energetic!"
 		},
 		{
 			"key":"EM06_C0001_Q1_A4",
-			"value":"ザコめ、蹴散らすぞ"
+			"value":"I’ll crush you, punk!"
 		},
 		{
 			"key":"EM06_C0002",
-			"value":"いつも何して遊んでるの？"
+			"value":"What do you do for fun?"
 		},
 		{
 			"key":"EM06_C0002_Q1_A1",
-			"value":"木登り"
+			"value":"Climbing trees."
 		},
 		{
 			"key":"EM06_C0002_Q1_A2",
-			"value":"かくれんぼ"
+			"value":"Hide and seek."
 		},
 		{
 			"key":"EM06_C0002_Q1_A3",
-			"value":"鬼ごっこ"
+			"value":"Tag!"
 		},
 		{
 			"key":"EM06_C0002_Q1_A4",
-			"value":"遊ぶ時間なんてない"
+			"value":"Who has time for fun?"
 		},
 		{
 			"key":"EM06_C0003",
-			"value":"ボクはいつかこのエリアのリーダーになるんだ！"
+			"value":"Someday I’m gonna run this joint!"
 		},
 		{
 			"key":"EM06_C0003_Q1_A1",
-			"value":"目標があるのはいいことだ"
+			"value":"Good to have goals."
 		},
 		{
 			"key":"EM06_C0003_Q1_A2",
-			"value":"その時は部下にして下さい"
+			"value":"Let me work for you!"
 		},
 		{
 			"key":"EM06_C0003_Q1_A3",
-			"value":"なら先に芽を摘んでおこう"
+			"value":"Not if I can help it."
 		},
 		{
 			"key":"EM06_C0003_Q1_A4",
-			"value":"なれるわけない"
+			"value":"Not a chance!"
 		},
 		{
 			"key":"EM06_C0004",
-			"value":"葉っぱは、どうして緑色なの？"
+			"value":"Why are leaves green?"
 		},
 		{
 			"key":"EM06_C0004_Q1_A1",
-			"value":"皆に安らぎを与えるため"
+			"value":"To make people calm."
 		},
 		{
 			"key":"EM06_C0004_Q1_A2",
-			"value":"茶色や赤にもなるぞ"
+			"value":"Or yellow, or red..."
 		},
 		{
 			"key":"EM06_C0004_Q1_A3",
-			"value":"葉緑素を含んでるから"
+			"value":"It’s the chlorophyll."
 		},
 		{
 			"key":"EM06_C0004_Q1_A4",
-			"value":"僕も知らない"
+			"value":"Can’t say, really."
 		},
 		{
 			"key":"EM06_C0005",
-			"value":"嘘ついたことってある？"
+			"value":"Have you ever told a lie?"
 		},
 		{
 			"key":"EM06_C0005_Q1_A1",
-			"value":"友達のために１回だけ"
+			"value":"Once, for a friend."
 		},
 		{
 			"key":"EM06_C0005_Q1_A2",
-			"value":"嘘をついたことはない"
+			"value":"Never ever."
 		},
 		{
 			"key":"EM06_C0005_Q1_A3",
-			"value":"数え切れない程ある"
+			"value":"Countless times."
 		},
 		{
 			"key":"EM06_C0005_Q1_A4",
-			"value":"答えたくないな"
+			"value":"I don’t want to say."
 		},
 		{
 			"key":"EM06_C0006",
-			"value":"いちばん大事にしてるものって何？"
+			"value":"What’s the most important thing to you?"
 		},
 		{
 			"key":"EM06_C0006_Q1_A1",
-			"value":"仲間"
+			"value":"My friends."
 		},
 		{
 			"key":"EM06_C0006_Q1_A2",
-			"value":"食べもの"
+			"value":"Food!"
 		},
 		{
 			"key":"EM06_C0006_Q1_A3",
-			"value":"健康"
+			"value":"Health."
 		},
 		{
 			"key":"EM06_C0006_Q1_A4",
-			"value":"自分"
+			"value":"Myself."
 		},
 		{
 			"key":"EM06_C0007",
-			"value":"怖いモンスターに遭うと、つい謝っちゃうんだよね\nボクは悪いことしてないのに、どうしてかな……"
+			"value":"Whenever I meet a scary monster, I just start\napologizing. Weird, right?"
 		},
 		{
 			"key":"EM06_C0007_Q1_A1",
-			"value":"君が優しいからだよ"
+			"value":"You’re a nice ‘mon."
 		},
 		{
 			"key":"EM06_C0007_Q1_A2",
-			"value":"それは本能というやつだ"
+			"value":"I guess it’s instinct?"
 		},
 		{
 			"key":"EM06_C0007_Q1_A3",
-			"value":"きっと戦いたくないんだよ"
+			"value":"You don’t wanna fight."
 		},
 		{
 			"key":"EM06_C0007_Q1_A4",
-			"value":"弱虫だからに決まってる"
+			"value":"You’re a scaredy-cat."
 		},
 		{
 			"key":"EM06_C0008",
-			"value":"お前、なかなか見所あるじゃないか……"
+			"value":"Hey, you’re something special..."
 		},
 		{
 			"key":"EM06_C0009",
-			"value":"そっかぁ、お前とは仲良くなれそうな気がするな"
+			"value":"Well now, I think you and I can get along!"
 		},
 		{
 			"key":"EM06_C0010",
-			"value":"気に入った！\n今日からボクらは大の仲良しだ！"
+			"value":"I like you! Today I made a new best friend!"
 		},
 		{
 			"key":"EM06_C0011",
-			"value":"ムカつくやつだな、お前"
+			"value":"Boy, you’re a pain..."
 		},
 		{
 			"key":"EM06_C0012",
-			"value":"お前、ボクを怒らせたいの？\nそうなんでしょ？"
+			"value":"You’re trying to make me angry, aren’t you?"
 		},
 		{
 			"key":"EM06_C0013",
-			"value":"もう怒ったぞ！\nお前なんかやっつけてやるー！"
+			"value":"Now I’m mad! Get ready for some pain!"
 		},
 		{
 			"key":"EM06_C0014",
-			"value":"それで、ボクに何かしてほしいんだよね？"
+			"value":"What’d you wanna ask me?"
 		},
 		{
 			"key":"EM06_C0015",
-			"value":"キミについていくよ！"
+			"value":"I’ll go with you!"
 		},
 		{
 			"key":"EM06_C0016",
-			"value":"これあげるね！"
+			"value":"I’ll give you this!"
 		},
 		{
 			"key":"EM06_C0017",
-			"value":"元気になってね！"
+			"value":"Feel better!"
 		},
 		{
 			"key":"EM06_C0018",
-			"value":"じゃあ、またねー"
+			"value":"Later!"
 		},
 		{
 			"key":"EM07_C0001",
-			"value":"ねえねえ、わたしって可愛いと思わない？"
+			"value":"Hey, don’t you think I’m cute?"
 		},
 		{
 			"key":"EM07_C0001_Q1_A1",
-			"value":"まあまあ可愛いと思う"
+			"value":"Yeah, pretty cute."
 		},
 		{
 			"key":"EM07_C0001_Q1_A2",
-			"value":"可愛くない"
+			"value":"Not cute at all."
 		},
 		{
 			"key":"EM07_C0001_Q1_A3",
-			"value":"そんなこと聞くな"
+			"value":"Don’t ask me!"
 		},
 		{
 			"key":"EM07_C0001_Q1_A4",
-			"value":"なんとも言えない"
+			"value":"[Say nothing.]"
 		},
 		{
 			"key":"EM07_C0002",
-			"value":"ジッとこっちを見て、どうしたの？\nわたし、あなたを怒らせちゃった……？"
+			"value":"Why are you staring at me like that?\nDid I upset you...?"
 		},
 		{
 			"key":"EM07_C0002_Q1_A1",
-			"value":"君に見とれてたんだ"
+			"value":"You’re captivating!"
 		},
 		{
 			"key":"EM07_C0002_Q1_A2",
-			"value":"違うよ、怖がらないで"
+			"value":"No, don’t be scared."
 		},
 		{
 			"key":"EM07_C0002_Q1_A3",
-			"value":"謝ってくれたら許すよ"
+			"value":"You better apologize."
 		},
 		{
 			"key":"EM07_C0002_Q1_A4",
-			"value":"そうだね。消えてくれる？"
+			"value":"Yeah, get outta here!"
 		},
 		{
 			"key":"EM07_C0003",
-			"value":"足元に気をつけて！\n小さな虫が歩いてるわ！"
+			"value":"Watch your feet!\nThere’s a little bug down there!"
 		},
 		{
 			"key":"EM07_C0003_Q1_A1",
-			"value":"虫を逃がす"
+			"value":"[Let the bug go.]"
 		},
 		{
 			"key":"EM07_C0003_Q1_A2",
-			"value":"踏まないように注意する"
+			"value":"[Don’t step on it.]"
 		},
 		{
 			"key":"EM07_C0003_Q1_A3",
-			"value":"虫を踏み潰す"
+			"value":"[Step on the bug.]"
 		},
 		{
 			"key":"EM07_C0003_Q1_A4",
-			"value":"自分には見えないと言う"
+			"value":"[You can’t see it.]"
 		},
 		{
 			"key":"EM07_C0004",
-			"value":"る～るるる～♪　らら～♪\nさあ、あなたも一緒に歌いましょう～♪"
+			"value":"La la laaa laaaaa ♪\nCome on, sing with me!"
 		},
 		{
 			"key":"EM07_C0004_Q1_A1",
-			"value":"一緒に歌う"
+			"value":"[Sing with her.]"
 		},
 		{
 			"key":"EM07_C0004_Q1_A2",
-			"value":"手拍子を打つ"
+			"value":"[Clap to the beat.]"
 		},
 		{
 			"key":"EM07_C0004_Q1_A3",
-			"value":"激しく踊る"
+			"value":"[Dance like crazy.]"
 		},
 		{
 			"key":"EM07_C0004_Q1_A4",
-			"value":"ブーイングを送る"
+			"value":"[Boo the song.]"
 		},
 		{
 			"key":"EM07_C0005",
-			"value":"１コだけ願いが叶うなら、なんてお願いする？"
+			"value":"If you could have any wish granted,\nwhat would it be?"
 		},
 		{
 			"key":"EM07_C0005_Q1_A1",
-			"value":"空を飛べるようになりたい"
+			"value":"To fly in the sky!"
 		},
 		{
 			"key":"EM07_C0005_Q1_A2",
-			"value":"皆の願いが叶いますように"
+			"value":"To make people happy!"
 		},
 		{
 			"key":"EM07_C0005_Q1_A3",
-			"value":"君を倒せるように願う"
+			"value":"To defeat you!"
 		},
 		{
 			"key":"EM07_C0005_Q1_A4",
-			"value":"無意味な質問には答えない"
+			"value":"A pointless question."
 		},
 		{
 			"key":"EM07_C0006",
-			"value":"戦うの飽きちゃった。他の遊びをしましょ？"
+			"value":"I’m sick of fighting.\nCan we play something else?"
 		},
 		{
 			"key":"EM07_C0006_Q1_A1",
-			"value":"いいね、そうしよう！"
+			"value":"Yeah, let’s do it!"
 		},
 		{
 			"key":"EM07_C0006_Q1_A2",
-			"value":"疲れたなら少し休む？"
+			"value":"Want to take a break?"
 		},
 		{
 			"key":"EM07_C0006_Q1_A3",
-			"value":"きっとまた飽きるよ……"
+			"value":"You’ll just get bored."
 		},
 		{
 			"key":"EM07_C0006_Q1_A4",
-			"value":"だめだ、戦い続けろ！"
+			"value":"No, let’s keep going!"
 		},
 		{
 			"key":"EM07_C0007",
-			"value":"キミの頭に乗っかってる赤いソレ、ステキね！"
+			"value":"I just adore that red thing on your head!"
 		},
 		{
 			"key":"EM07_C0007_Q1_A1",
-			"value":"有り難う、君も素敵だよ！"
+			"value":"You look cool, too!"
 		},
 		{
 			"key":"EM07_C0007_Q1_A2",
-			"value":"良かったら１ついる？"
+			"value":"You want one?"
 		},
 		{
 			"key":"EM07_C0007_Q1_A3",
-			"value":"カッコイイと言ってくれ"
+			"value":"I’m handsome!"
 		},
 		{
 			"key":"EM07_C0007_Q1_A4",
-			"value":"お世辞は止めてくれ"
+			"value":"Enough flattery."
 		},
 		{
 			"key":"EM07_C0008",
-			"value":"ふーん、キミって意外と面白いヤツなんだね"
+			"value":"Wow, you’re more cool than I thought\nyou’d be!"
 		},
 		{
 			"key":"EM07_C0009",
-			"value":"ふふっ！\nわたし、キミに興味があるわ！"
+			"value":"Hee hee!\nNow I’m interested in you!"
 		},
 		{
 			"key":"EM07_C0010",
-			"value":"わたし、キミのこと好きになっちゃった！"
+			"value":"I think I like you!"
 		},
 		{
 			"key":"EM07_C0011",
-			"value":"なによそれ、失礼しちゃう！"
+			"value":"Hmph, how rude!"
 		},
 		{
 			"key":"EM07_C0012",
-			"value":"もうっ、意地悪ね！\nムカムカしてきたわ"
+			"value":"Now that’s just mean!\nYou’re making me mad!"
 		},
 		{
 			"key":"EM07_C0013",
-			"value":"あんたなんて、大大大大キライー！！"
+			"value":"I haaaaaate people like you!"
 		},
 		{
 			"key":"EM07_C0014",
-			"value":"わたしが力になってあげる。何でも言って♪"
+			"value":"I’ll do whatever I can to help!\nJust name it. ♪"
 		},
 		{
 			"key":"EM07_C0015",
-			"value":"これからよろしくね！"
+			"value":"Let’s make beautiful music together!"
 		},
 		{
 			"key":"EM07_C0016",
-			"value":"大事に使ってね"
+			"value":"Enjoy using this!"
 		},
 		{
 			"key":"EM07_C0017",
-			"value":"痛いのあっちへ行け―！"
+			"value":"Go away, owwies!"
 		},
 		{
 			"key":"EM07_C0018",
-			"value":"ばいばーいっ"
+			"value":"Bye bye!"
 		},
 		{
 			"key":"EM08_C0001",
-			"value":"ところでお前ってさ、どんな食い物が好みなんだよ？"
+			"value":"Hey, what kinda food do ya like?"
 		},
 		{
 			"key":"EM08_C0001_Q1_A1",
-			"value":"お肉"
+			"value":"Love me some meat!"
 		},
 		{
 			"key":"EM08_C0001_Q1_A2",
-			"value":"野菜"
+			"value":"Veggies all the way."
 		},
 		{
 			"key":"EM08_C0001_Q1_A3",
-			"value":"果物"
+			"value":"Fruit’s my favorite!"
 		},
 		{
 			"key":"EM08_C0001_Q1_A4",
-			"value":"お前に教える必要ない"
+			"value":"Why should I tell you?"
 		},
 		{
 			"key":"EM08_C0002",
-			"value":"さーて、次はどんなイタズラを仕掛けようか"
+			"value":"Next! Whaddaya think’d be a good prank?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A1",
-			"value":"落とし穴を掘るのはどう？"
+			"value":"A pit trap?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A2",
-			"value":"誰かに水をかけてみたら？"
+			"value":"Water balloons?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A3",
-			"value":"足を引っかけるのはどう？"
+			"value":"Tripping someone?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A4",
-			"value":"イタズラは止めろ"
+			"value":"Pranks are bad!"
 		},
 		{
 			"key":"EM08_C0003_01",
-			"value":"く、苦しい……誰か、助けて……"
+			"value":"I don’t feel so good... Someone, help..."
 		},
 		{
 			"key":"EM08_C0003_02",
-			"value":"……なんてな、嘘だよ！　どうだ驚いたか！"
+			"value":"...Pffft, ha ha ha, just kidding!\nDid I getcha?!"
 		},
 		{
 			"key":"EM08_C0003_Q1_A1",
-			"value":"ああ、ビックリした！"
+			"value":"Whoa, you scared me!"
 		},
 		{
 			"key":"EM08_C0003_Q1_A2",
-			"value":"嘘でよかった。安心したよ"
+			"value":"I’m glad you’re okay."
 		},
 		{
 			"key":"EM08_C0003_Q1_A3",
-			"value":"君、演技が下手だね……"
+			"value":"What awful acting..."
 		},
 		{
 			"key":"EM08_C0003_Q1_A4",
-			"value":"つまらない事をするな！"
+			"value":"That was lame!"
 		},
 		{
 			"key":"EM08_C0004",
-			"value":"毎日タイクツだと思わねえ？"
+			"value":"Don’t you think every day’s just sooo boring?"
 		},
 		{
 			"key":"EM08_C0004_Q1_A1",
-			"value":"生きるので精一杯だ"
+			"value":"I’m too busy living."
 		},
 		{
 			"key":"EM08_C0004_Q1_A2",
-			"value":"退屈すぎてあくびが出る"
+			"value":"Makes me wanna yawn."
 		},
 		{
 			"key":"EM08_C0004_Q1_A3",
-			"value":"一緒に面白いこと探そう"
+			"value":"Let’s go do something!"
 		},
 		{
 			"key":"EM08_C0004_Q1_A4",
-			"value":"暇つぶしに戦おう"
+			"value":"Wanna fight for fun?"
 		},
 		{
 			"key":"EM08_C0005",
-			"value":"オレがお前のこと、今どう思ってるか当ててみな"
+			"value":"Go on... Try guessing what I think of ya!"
 		},
 		{
 			"key":"EM08_C0005_Q1_A1",
-			"value":"カッコイイ奴だ"
+			"value":"That I’m cool?"
 		},
 		{
 			"key":"EM08_C0005_Q1_A2",
-			"value":"チョロそうな奴だ"
+			"value":"That I’m easygoing?"
 		},
 		{
 			"key":"EM08_C0005_Q1_A3",
-			"value":"ヤバそうな奴だ"
+			"value":"That I’m trouble..."
 		},
 		{
 			"key":"EM08_C0005_Q1_A4",
-			"value":"オモシロそうな奴だ"
+			"value":"That I’m funny!"
 		},
 		{
 			"key":"EM08_C0006",
-			"value":"お前、意外と強そうだな\n戦ったら負けるかも……"
+			"value":"Boy, you’re a tough-lookin’ mug, aren’t ya?!\nI bet I’d lose if we threw down..."
 		},
 		{
 			"key":"EM08_C0006_Q1_A1",
-			"value":"もっと自分に自信を持って"
+			"value":"Have more confidence!"
 		},
 		{
 			"key":"EM08_C0006_Q1_A2",
-			"value":"いや、負けるのは僕の方だ"
+			"value":"I’d definitely lose."
 		},
 		{
 			"key":"EM08_C0006_Q1_A3",
-			"value":"引き分けになると思うな"
+			"value":"We’d probably tie."
 		},
 		{
 			"key":"EM08_C0006_Q1_A4",
-			"value":"戦わないと分からないよ"
+			"value":"Why don’t we find out?"
 		},
 		{
 			"key":"EM08_C0007",
-			"value":"優しい顔してヘラヘラ笑っても無駄だ\nニンゲンなんか信じないぞ"
+			"value":"I don’t care if you smile, or laugh, or\nwhatever! I ain’t gonna trust no human!"
 		},
 		{
 			"key":"EM08_C0007_Q1_A1",
-			"value":"信じて貰えるよう頑張る"
+			"value":"I’ll earn your trust!"
 		},
 		{
 			"key":"EM08_C0007_Q1_A2",
-			"value":"君を信じてる"
+			"value":"I trust you."
 		},
 		{
 			"key":"EM08_C0007_Q1_A3",
-			"value":"どうしたら信じる？"
+			"value":"What can I do, then?"
 		},
 		{
 			"key":"EM08_C0007_Q1_A4",
-			"value":"それならそれでいい"
+			"value":"Fine by me."
 		},
 		{
 			"key":"EM08_C0008",
-			"value":"へえ、お前とは気が合いそうな気がするな"
+			"value":"Huh.\nI get the feeling we’re on the same page."
 		},
 		{
 			"key":"EM08_C0009",
-			"value":"いいねぇ、盛り上がってきたぜ"
+			"value":"Nice, I’m all pumped up now!"
 		},
 		{
 			"key":"EM08_C0010",
-			"value":"わっはっは！\nお前、最高だな！　"
+			"value":"Wah ha ha!\nSeriously, you’re the best!　"
 		},
 		{
 			"key":"EM08_C0011",
-			"value":"あー、お前とは合わないわー！"
+			"value":"I don’t get you, man!"
 		},
 		{
 			"key":"EM08_C0012",
-			"value":"何だそれ、全然笑えねぇ！"
+			"value":"The heck?! What a lamebrain!"
 		},
 		{
 			"key":"EM08_C0013",
-			"value":"もういい！\nお前とは二度と話さない！"
+			"value":"Enough already!\nDon’t you ever talk to me again, y’hear?!"
 		},
 		{
 			"key":"EM08_C0014",
-			"value":"結局、オレにどうしてほしいんだ？\n言ってみろ"
+			"value":"So, what’s the word?\nG’wan, spit it out."
 		},
 		{
 			"key":"EM08_C0015",
-			"value":"しょうがねぇな、付き合ってやるよ"
+			"value":"Fiiine, fine, I’ll go along with you."
 		},
 		{
 			"key":"EM08_C0016",
-			"value":"ほらよ、持っていけ"
+			"value":"Yo, think fast!"
 		},
 		{
 			"key":"EM08_C0017",
-			"value":"もう怪我するんじゃねぇぞ"
+			"value":"Those scratches ain’t nothing!"
 		},
 		{
 			"key":"EM08_C0018",
-			"value":"じゃあな"
+			"value":"Peace out!"
 		},
 		{
 			"key":"EM09_C0001",
-			"value":"お互いの力を試し合う、それがこの戦いの目的だ"
+			"value":"The goal of this battle is to test each\nother’s strength."
 		},
 		{
 			"key":"EM09_C0001_Q1_A1",
-			"value":"戦い抜いて勝つ！"
+			"value":"I’ll come out on top!"
 		},
 		{
 			"key":"EM09_C0001_Q1_A2",
-			"value":"戦うことが恐い"
+			"value":"Fighting sounds scary."
 		},
 		{
 			"key":"EM09_C0001_Q1_A3",
-			"value":"こちらの力が上だ！"
+			"value":"I’m the stronger one!"
 		},
 		{
 			"key":"EM09_C0001_Q1_A4",
-			"value":"試している余裕はない"
+			"value":"Who has time for that?"
 		},
 		{
 			"key":"EM09_C0002",
-			"value":"種族を超えた絆というものは、存在するのだろうか"
+			"value":"Are there bonds stronger than the family?"
 		},
 		{
 			"key":"EM09_C0002_Q1_A1",
-			"value":"必ず存在する"
+			"value":"There must be."
 		},
 		{
 			"key":"EM09_C0002_Q1_A2",
-			"value":"自分には分からない"
+			"value":"I really can’t say."
 		},
 		{
 			"key":"EM09_C0002_Q1_A3",
-			"value":"絶対に存在しない"
+			"value":"Not a chance."
 		},
 		{
 			"key":"EM09_C0002_Q1_A4",
-			"value":"答える義理はない"
+			"value":"Why should I answer?"
 		},
 		{
 			"key":"EM09_C0003",
-			"value":"悩んで何もしないより、\nまず動いてみるべきだと思うのだ"
+			"value":"It’s better to take some sort of action than\njust sit idly by and worry."
 		},
 		{
 			"key":"EM09_C0003_Q1_A1",
-			"value":"考えずに動くと後悔するぞ"
+			"value":"Look before you leap!"
 		},
 		{
 			"key":"EM09_C0003_Q1_A2",
-			"value":"失敗したら責任取ってね"
+			"value":"Clean your own messes."
 		},
 		{
 			"key":"EM09_C0003_Q1_A3",
-			"value":"踏み出すことが大事だよね"
+			"value":"Gotta move forward."
 		},
 		{
 			"key":"EM09_C0003_Q1_A4",
-			"value":"今度からそうするよ"
+			"value":"I’ll do the same!"
 		},
 		{
 			"key":"EM09_C0004",
-			"value":"ところで、なぜお前はここへ来たのだ？"
+			"value":"By the way, why exactly are you here?"
 		},
 		{
 			"key":"EM09_C0004_Q1_A1",
-			"value":"君と出会うため"
+			"value":"To meet you."
 		},
 		{
 			"key":"EM09_C0004_Q1_A2",
-			"value":"見えない力に導かれて"
+			"value":"I was guided here."
 		},
 		{
 			"key":"EM09_C0004_Q1_A3",
-			"value":"帰る方法を探すため"
+			"value":"Trying to get home."
 		},
 		{
 			"key":"EM09_C0004_Q1_A4",
-			"value":"モンスターを倒すため"
+			"value":"To defeat monsters."
 		},
 		{
 			"key":"EM09_C0005",
-			"value":"お前は、どのようなニンゲンなのだ？"
+			"value":"What kind of human are you?"
 		},
 		{
 			"key":"EM09_C0005_Q1_A1",
-			"value":"友好的な人間かな"
+			"value":"A friendly human!"
 		},
 		{
 			"key":"EM09_C0005_Q1_A2",
-			"value":"個性的な人間だと思う"
+			"value":"My own kind of human."
 		},
 		{
 			"key":"EM09_C0005_Q1_A3",
-			"value":"臆病な人間だね……"
+			"value":"A cowardly human..."
 		},
 		{
 			"key":"EM09_C0005_Q1_A4",
-			"value":"好戦的な人間だ！"
+			"value":"I like to fight!"
 		},
 		{
 			"key":"EM09_C0006",
-			"value":"信頼関係を築くために、最も大切なことは何だと思う？"
+			"value":"What do you think is the most important thing\nfor building trust?"
 		},
 		{
 			"key":"EM09_C0006_Q1_A1",
-			"value":"相手を信じること"
+			"value":"Trusting your partner."
 		},
 		{
 			"key":"EM09_C0006_Q1_A2",
-			"value":"活発な意見交換"
+			"value":"Exchanging ideas."
 		},
 		{
 			"key":"EM09_C0006_Q1_A3",
-			"value":"自分の心を開くこと"
+			"value":"Opening up..."
 		},
 		{
 			"key":"EM09_C0006_Q1_A4",
-			"value":"拳と拳の語り合い"
+			"value":"Just slug it out!"
 		},
 		{
 			"key":"EM09_C0007",
-			"value":"私に言いたいことはあるか？\n怖がらずに、話してみるといい"
+			"value":"Is there something you’d like to say to me?\nGo on, don’t be shy."
 		},
 		{
 			"key":"EM09_C0007_Q1_A1",
-			"value":"君、すごくカッコイイね！"
+			"value":"You’re super cool!"
 		},
 		{
 			"key":"EM09_C0007_Q1_A2",
-			"value":"優しくしてくれて有り難う"
+			"value":"Thanks for being kind."
 		},
 		{
 			"key":"EM09_C0007_Q1_A3",
-			"value":"邪魔だからどこかに行って"
+			"value":"You’re in my way..."
 		},
 		{
 			"key":"EM09_C0007_Q1_A4",
-			"value":"殺さないで下さい！"
+			"value":"Don’t kill me!"
 		},
 		{
 			"key":"EM09_C0008",
-			"value":"ふむ、興味深いな……"
+			"value":"Hmph, how interesting..."
 		},
 		{
 			"key":"EM09_C0009",
-			"value":"この出会いは、まさか運命……？"
+			"value":"Could this meeting be fate...?"
 		},
 		{
 			"key":"EM09_C0010",
-			"value":"間違いない、私達は固い絆で結ばれた同志だ！"
+			"value":"There’s no question, you and I are comrades\nbound by a strong bond!"
 		},
 		{
 			"key":"EM09_C0011",
-			"value":"すまないが、同意できないな……"
+			"value":"Well, it seems we cannot come to\na consensus..."
 		},
 		{
 			"key":"EM09_C0012",
-			"value":"わかり合える相手じゃないってことか……"
+			"value":"I guess we’ll never understand each other..."
 		},
 		{
 			"key":"EM09_C0013",
-			"value":"我慢の限界だ\nもう許さん！"
+			"value":"I’ve reach the end of my rope.\nUnforgivable!"
 		},
 		{
 			"key":"EM09_C0014",
-			"value":"君の願いは何だ？\n私が叶えてあげよう"
+			"value":"What is your wish?\nI shall grant it."
 		},
 		{
 			"key":"EM09_C0015",
-			"value":"分かった。同行しよう"
+			"value":"Very well, I shall go with you."
 		},
 		{
 			"key":"EM09_C0016",
-			"value":"きっと役に立つはずだ"
+			"value":"This should be useful."
 		},
 		{
 			"key":"EM09_C0017",
-			"value":"疲れが取れただろう？"
+			"value":"Has this eased your fatigue?"
 		},
 		{
 			"key":"EM09_C0018",
-			"value":"お前に会えて良かったよ。ありがとう"
+			"value":"I’m happy to have met you. Many thanks."
 		},
 		{
 			"key":"EM10_C0001_01",
-			"value":"グウウウ"
+			"value":"*gurgle*"
 		},
 		{
 			"key":"EM10_C0001_02",
-			"value":"（モンスターは、空腹を訴えているようだ）"
+			"value":"(The monster seems to be pleading hungrily.)"
 		},
 		{
 			"key":"EM10_C0001_Q1_A1",
-			"value":"菓子を与えようとする"
+			"value":"[Give him candy.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A2",
-			"value":"水を与えようとする"
+			"value":"[Give him water.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A3",
-			"value":"果物を与えようとする"
+			"value":"[Give him fruit.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A4",
-			"value":"野菜を与えようとする"
+			"value":"[Give him vegetables.]"
 		},
 		{
 			"key":"EM10_C0002_01",
-			"value":"グワァァッ"
+			"value":"Grrrrr..."
 		},
 		{
 			"key":"EM10_C0002_02",
-			"value":"（モンスターは威嚇のポーズを見せている）"
+			"value":"(The monster has taken a threatening stance!)"
 		},
 		{
 			"key":"EM10_C0002_Q1_A1",
-			"value":"こちらも構える"
+			"value":"[Take a stance.]"
 		},
 		{
 			"key":"EM10_C0002_Q1_A2",
-			"value":"一歩後ろに下がる"
+			"value":"[Take a step back.]"
 		},
 		{
 			"key":"EM10_C0002_Q1_A3",
-			"value":"両手を広げて無害を示す"
+			"value":"[Act harmless.]"
 		},
 		{
 			"key":"EM10_C0002_Q1_A4",
-			"value":"思いっきり睨みつける"
+			"value":"[Glare at him.]"
 		},
 		{
 			"key":"EM10_C0003_01",
-			"value":"グルル……？"
+			"value":"Gawoooo...?"
 		},
 		{
 			"key":"EM10_C0003_02",
-			"value":"（モンスターは、人間を見て\n困惑しているようだ）"
+			"value":"(The monster seems perplexed by the sight of\na human.)"
 		},
 		{
 			"key":"EM10_C0003_Q1_A1",
-			"value":"挑発する"
+			"value":"Taunt him."
 		},
 		{
 			"key":"EM10_C0003_Q1_A2",
-			"value":"笑顔で交流を図る"
+			"value":"[Smile and wave.]"
 		},
 		{
 			"key":"EM10_C0003_Q1_A3",
-			"value":"ため息をついてみる"
+			"value":"Sigh at him."
 		},
 		{
 			"key":"EM10_C0003_Q1_A4",
-			"value":"偉ぶってみる"
+			"value":"Strut around."
 		},
 		{
 			"key":"EM10_C0004_01",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EM10_C0004_02",
-			"value":"（モンスターは、興味なさそうに\nそっぽを向いた）"
+			"value":"(The monster looks away, as if bored.)"
 		},
 		{
 			"key":"EM10_C0004_Q1_A1",
-			"value":"物を投げてみる"
+			"value":"[Throw something.]"
 		},
 		{
 			"key":"EM10_C0004_Q1_A2",
-			"value":"声をかけ続ける"
+			"value":"[Keep talking to him.]"
 		},
 		{
 			"key":"EM10_C0004_Q1_A3",
-			"value":"食べ物の匂いで釣る"
+			"value":"[Lure him with food.]"
 		},
 		{
 			"key":"EM10_C0004_Q1_A4",
-			"value":"泣くふりをする"
+			"value":"[Pretend to cry.]"
 		},
 		{
 			"key":"EM10_C0005_01",
-			"value":"グワァァオ！"
+			"value":"Grraaawr!"
 		},
 		{
 			"key":"EM10_C0005_02",
-			"value":"（モンスターはその場で暴れ出した）"
+			"value":"(The monster thrashes about on the spot.)"
 		},
 		{
 			"key":"EM10_C0005_Q1_A1",
-			"value":"落ちつかせようとする"
+			"value":"[Calm him down.]"
 		},
 		{
 			"key":"EM10_C0005_Q1_A2",
-			"value":"大声で威嚇する"
+			"value":"[Yell threateningly.]"
 		},
 		{
 			"key":"EM10_C0005_Q1_A3",
-			"value":"収まるのを待つ"
+			"value":"[Just wait.]"
 		},
 		{
 			"key":"EM10_C0005_Q1_A4",
-			"value":"冷めた目で眺める"
+			"value":"[Stare coldly at him.]"
 		},
 		{
 			"key":"EM10_C0006",
-			"value":"オマエ……タベテイイ……？"
+			"value":"Me...eat you...okay?"
 		},
 		{
 			"key":"EM10_C0006_Q1_A1",
-			"value":"それは困る"
+			"value":"I’m afraid not."
 		},
 		{
 			"key":"EM10_C0006_Q1_A2",
-			"value":"やってみろ"
+			"value":"Try it, if you dare."
 		},
 		{
 			"key":"EM10_C0006_Q1_A3",
-			"value":"タベテイイヨ"
+			"value":"Yes, you eat now!"
 		},
 		{
 			"key":"EM10_C0006_Q1_A4",
-			"value":"怒るぞ"
+			"value":"Don’t make me mad."
 		},
 		{
 			"key":"EM10_C0007",
-			"value":"ニンゲン……ジャマダ……！"
+			"value":"Human...no good!"
 		},
 		{
 			"key":"EM10_C0007_Q1_A1",
-			"value":"話を聞いてくれ"
+			"value":"Please listen to me."
 		},
 		{
 			"key":"EM10_C0007_Q1_A2",
-			"value":"仲良くなりたいんだ"
+			"value":"I wanna be friends!"
 		},
 		{
 			"key":"EM10_C0007_Q1_A3",
-			"value":"お前が邪魔だ"
+			"value":"You’re in my way."
 		},
 		{
 			"key":"EM10_C0007_Q1_A4",
-			"value":"邪魔でごめんなさい"
+			"value":"Sorry to bother you."
 		},
 		{
 			"key":"EM10_C0008_01",
-			"value":"グゥゥゥゥゥゥゥ……"
+			"value":"Awoooo..."
 		},
 		{
 			"key":"EM10_C0008_02",
-			"value":"（モンスターの態度が、若干だが柔らかく変化した）"
+			"value":"(The monster seems a bit calmer than before.)"
 		},
 		{
 			"key":"EM10_C0009_01",
-			"value":"グオッ、グオッ"
+			"value":"Awoo-woooo..."
 		},
 		{
 			"key":"EM10_C0009_02",
-			"value":"（モンスターは嬉しそうな声を出している）"
+			"value":"(The monster calls out happily.)"
 		},
 		{
 			"key":"EM10_C0010_01",
-			"value":"グオォーーーーッ！"
+			"value":"Awoo-woo-WOOO!"
 		},
 		{
 			"key":"EM10_C0010_02",
-			"value":"（モンスターはとても喜んでいるようだ！）"
+			"value":"(The monster seems pretty pleased!)"
 		},
 		{
 			"key":"EM10_C0011_01",
-			"value":"グギギギ……"
+			"value":"Grrrnngrrr..."
 		},
 		{
 			"key":"EM10_C0011_02",
-			"value":"（モンスターは敵意をあらわにしている）"
+			"value":"(The monster seems hostile.)"
 		},
 		{
 			"key":"EM10_C0012_01",
-			"value":"グワアアアアア！"
+			"value":"Gaaaaargh..."
 		},
 		{
 			"key":"EM10_C0012_02",
-			"value":"（モンスターが、いきり昂ぶってしまった！）"
+			"value":"(The monster is flying into a rage!)"
 		},
 		{
 			"key":"EM10_C0013_01",
-			"value":"グガァァァァァァァッ！"
+			"value":"KAAAAAAAHH!!!"
 		},
 		{
 			"key":"EM10_C0013_02",
-			"value":"（モンスターは今にも暴れそうなくらい怒っている！）"
+			"value":"(The monster seems mad enough to go crazy!)"
 		},
 		{
 			"key":"EM10_C0014_01",
-			"value":"ガウ"
+			"value":"Rar."
 		},
 		{
 			"key":"EM10_C0014_02",
-			"value":"（モンスターはこちらを認めてくれたようだ……。\n今なら話が通じるかもしれない）"
+			"value":"(The monster seems to be waiting on you...\nMaybe it would hear you out?)"
 		},
 		{
 			"key":"EM10_C0015_01",
-			"value":"グオオッ！"
+			"value":"Gwarrr!"
 		},
 		{
 			"key":"EM10_C0015_02",
-			"value":"（モンスターは一緒についてきてくれるようだ）"
+			"value":"(Looks like the monster will go with you!)"
 		},
 		{
 			"key":"EM10_C0016_01",
-			"value":"グゲ！"
+			"value":"Funnn-gah!"
 		},
 		{
 			"key":"EM10_C0016_02",
-			"value":"（モンスターは嬉しそうに何かを差し出してきた）"
+			"value":"(The monster joyfully hands something\nto you.)"
 		},
 		{
 			"key":"EM10_C0017_01",
-			"value":"ギギ……"
+			"value":"Hawoooo!"
 		},
 		{
 			"key":"EM10_C0017_02",
-			"value":"（モンスターは傷を癒してくれた）"
+			"value":"(The monster heals your wounds.)"
 		},
 		{
 			"key":"EM10_C0018_01",
-			"value":"グルルゥ……"
+			"value":"Gwooohh..."
 		},
 		{
 			"key":"EM10_C0018_02",
-			"value":"（モンスターは去っていった）"
+			"value":"(The monster leaves.)"
 		},
 		{
 			"key":"EM11_C0001_01",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EM11_C0001_02",
-			"value":"（モンスターは、こちらを警戒している）"
+			"value":"(The monster looks warily in this direction.)"
 		},
 		{
 			"key":"EM11_C0001_Q1_A1",
-			"value":"なだめようとする"
+			"value":"[Try to soothe him.]"
 		},
 		{
 			"key":"EM11_C0001_Q1_A2",
-			"value":"戦いに備えて身構える"
+			"value":"[Prepare to fight.]"
 		},
 		{
 			"key":"EM11_C0001_Q1_A3",
-			"value":"怖じ気づく"
+			"value":"[Chicken out.]"
 		},
 		{
 			"key":"EM11_C0001_Q1_A4",
-			"value":"笑顔で返す"
+			"value":"[Smile back.]"
 		},
 		{
 			"key":"EM11_C0002_01",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EM11_C0002_02",
-			"value":"（モンスターは、ただ静かに佇んでいる）"
+			"value":"(The monster just stands there.)"
 		},
 		{
 			"key":"EM11_C0002_Q1_A1",
-			"value":"大きな音を立ててみる"
+			"value":"[Make a lot of noise.]"
 		},
 		{
 			"key":"EM11_C0002_Q1_A2",
-			"value":"歌で興味を引いてみる"
+			"value":"[Sing a song.]"
 		},
 		{
 			"key":"EM11_C0002_Q1_A3",
-			"value":"ジェスチャーで気を引く"
+			"value":"[Gesture.]"
 		},
 		{
 			"key":"EM11_C0002_Q1_A4",
-			"value":"静かに待ってみる"
+			"value":"[Stand silently.]"
 		},
 		{
 			"key":"EM11_C0003_01",
-			"value":"…………！"
+			"value":"...!"
 		},
 		{
 			"key":"EM11_C0003_02",
-			"value":"（モンスターはこちらの言葉に\n興味を抱いているようだ）"
+			"value":"(The monster seems interested in what the\nhumans are saying.)"
 		},
 		{
 			"key":"EM11_C0003_Q1_A1",
-			"value":"ゆっくりと語りかける"
+			"value":"[Talk to him slowly.]"
 		},
 		{
 			"key":"EM11_C0003_Q1_A2",
-			"value":"早口でまくし立てる"
+			"value":"[Rattle on and on.]"
 		},
 		{
 			"key":"EM11_C0003_Q1_A3",
-			"value":"獣のように吠える"
+			"value":"[Howl like a beast.]"
 		},
 		{
 			"key":"EM11_C0003_Q1_A4",
-			"value":"黙ってみる"
+			"value":"[Stay quiet.]"
 		},
 		{
 			"key":"EM11_C0004_01",
-			"value":"…………？"
+			"value":"...?"
 		},
 		{
 			"key":"EM11_C0004_02",
-			"value":"（モンスターは不思議そうにこちらを見つめている）"
+			"value":"(The monster is staring in fascinated\nconfusion.)"
 		},
 		{
 			"key":"EM11_C0004_Q1_A1",
-			"value":"１歩近づいてみる"
+			"value":"[Take a step forward.]"
 		},
 		{
 			"key":"EM11_C0004_Q1_A2",
-			"value":"ジッと見つめ返す"
+			"value":"[Stare right back.]"
 		},
 		{
 			"key":"EM11_C0004_Q1_A3",
-			"value":"そっぽを向く"
+			"value":"[Look away.]"
 		},
 		{
 			"key":"EM11_C0004_Q1_A4",
-			"value":"微笑んで手を振る"
+			"value":"[Grin and wave.]"
 		},
 		{
 			"key":"EM11_C0005_01",
-			"value":"グルゥ……"
+			"value":"Narrr..."
 		},
 		{
 			"key":"EM11_C0005_02",
-			"value":"（モンスターは何かを語りかけてきている）"
+			"value":"(The monster is trying to say something.)"
 		},
 		{
 			"key":"EM11_C0005_Q1_A1",
-			"value":"分からないと答える"
+			"value":"[Show your confusion.]"
 		},
 		{
 			"key":"EM11_C0005_Q1_A2",
-			"value":"首を傾げてみる"
+			"value":"[Cock your head.]"
 		},
 		{
 			"key":"EM11_C0005_Q1_A3",
-			"value":"食べ物を差し出してみる"
+			"value":"[Give it some food.]"
 		},
 		{
 			"key":"EM11_C0005_Q1_A4",
-			"value":"グルゥ、と返してみる"
+			"value":"[Go “Nyooww” back.]"
 		},
 		{
 			"key":"EM11_C0006_01",
-			"value":"グオッ"
+			"value":"Nyooww?"
 		},
 		{
 			"key":"EM11_C0006_02",
-			"value":"（モンスターは立ち去れとばかりに首を横に振った）"
+			"value":"(The monster shakes his head as he starts\nto leave.)"
 		},
 		{
 			"key":"EM11_C0006_Q1_A1",
-			"value":"拳を振り上げてみせる"
+			"value":"[Shake your fist.]"
 		},
 		{
 			"key":"EM11_C0006_Q1_A2",
-			"value":"優しく声をかける"
+			"value":"[Speak kindly to him.]"
 		},
 		{
 			"key":"EM11_C0006_Q1_A3",
-			"value":"首を横に振る"
+			"value":"[Shake your head.]"
 		},
 		{
 			"key":"EM11_C0006_Q1_A4",
-			"value":"頷いてみせる"
+			"value":"[Nod your head.]"
 		},
 		{
 			"key":"EM11_C0007_01",
-			"value":"グゥゥゥ……"
+			"value":"Nnngrrr..."
 		},
 		{
 			"key":"EM11_C0007_02",
-			"value":"（モンスターは前傾姿勢でこちらに睨みつけてきた）"
+			"value":"(The monster bends forward, scowling at you.)"
 		},
 		{
 			"key":"EM11_C0007_Q1_A1",
-			"value":"飛び退いて警戒する"
+			"value":"[Jump aside.]"
 		},
 		{
 			"key":"EM11_C0007_Q1_A2",
-			"value":"真似るように前屈みになる"
+			"value":"[Mimic his posture.]"
 		},
 		{
 			"key":"EM11_C0007_Q1_A3",
-			"value":"盛大に拍手をする"
+			"value":"[Clap vigorously.]"
 		},
 		{
 			"key":"EM11_C0007_Q1_A4",
-			"value":"謝る仕草を見せる"
+			"value":"[Look apologetic.]"
 		},
 		{
 			"key":"EM11_C0008_01",
-			"value":"グルルルル……"
+			"value":"Nngaaahh..."
 		},
 		{
 			"key":"EM11_C0008_02",
-			"value":"（モンスターの態度が、穏やかに変化したようだ）"
+			"value":"(The monster looks a bit calmer.)"
 		},
 		{
 			"key":"EM11_C0009_01",
-			"value":"グルルルルルゥ……"
+			"value":"Gaaangaaah..."
 		},
 		{
 			"key":"EM11_C0009_02",
-			"value":"（モンスターの態度が、\nさらに穏やかに変化したようだ）"
+			"value":"(The monster seems even more relaxed.)"
 		},
 		{
 			"key":"EM11_C0010_01",
-			"value":"グルルッ"
+			"value":"Gagagaaah!"
 		},
 		{
 			"key":"EM11_C0010_02",
-			"value":"（モンスターは喜んでいるようだ！）"
+			"value":"(The monster is delighted!)"
 		},
 		{
 			"key":"EM11_C0011_01",
-			"value":"グオォォ……！"
+			"value":"Hissss!"
 		},
 		{
 			"key":"EM11_C0011_02",
-			"value":"（モンスターの警戒心が強まった）"
+			"value":"(The monster is even more on edge.)"
 		},
 		{
 			"key":"EM11_C0012_01",
-			"value":"グオオオオオ！"
+			"value":"Hissshaaaah!"
 		},
 		{
 			"key":"EM11_C0012_02",
-			"value":"（モンスターが敵意を向けてきた！）"
+			"value":"(The monster is looking hostile.)"
 		},
 		{
 			"key":"EM11_C0013_01",
-			"value":"グワァァァァァァッ！！"
+			"value":"Kakaaah!"
 		},
 		{
 			"key":"EM11_C0013_02",
-			"value":"（モンスターは今にも襲いかかってきそうなくらいに\n怒っている！）"
+			"value":"(The monster looks like it could attack\nat any moment!)"
 		},
 		{
 			"key":"EM11_C0014_01",
-			"value":"グゴ……"
+			"value":"Haoooo..."
 		},
 		{
 			"key":"EM11_C0014_02",
-			"value":"（モンスターはタクマに何かを促すような仕草をした。\n今ならお願いを聞いてもらえる気がする）"
+			"value":"(The monster seems to expect something from\nTakuma. You can ask for something now.)"
 		},
 		{
 			"key":"EM11_C0015_01",
-			"value":"グルルルッ！"
+			"value":"Gwaaargh!"
 		},
 		{
 			"key":"EM11_C0015_02",
-			"value":"（モンスターは一緒に来てくれるようだ）"
+			"value":"(The monster is ready to accompany you.)"
 		},
 		{
 			"key":"EM11_C0016_01",
-			"value":"グゴゴ……"
+			"value":"Nyaaahaaah!"
 		},
 		{
 			"key":"EM11_C0016_02",
-			"value":"（モンスターは何かをくれるようだ）"
+			"value":"(The monster tries to give you something.)"
 		},
 		{
 			"key":"EM11_C0017_01",
-			"value":"グルルルゥ"
+			"value":"Nngooooow..."
 		},
 		{
 			"key":"EM11_C0017_02",
-			"value":"（モンスターは優しく傷を癒してくれた）"
+			"value":"(The monster gently heals you.)"
 		},
 		{
 			"key":"EM11_C0018_01",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EM11_C0018_02",
-			"value":"（モンスターは無言で去っていった）"
+			"value":"(The monster leaves without a word.)"
 		},
 		{
 			"key":"EM12_C0001",
-			"value":"イエーイ！\nアチキの歌を聴きたくない？"
+			"value":"Hey now!\nGot time to hear me sing?"
 		},
 		{
 			"key":"EM12_C0001_Q1_A1",
-			"value":"歌えるのか？　凄いな"
+			"value":"You can sing? Wow!"
 		},
 		{
 			"key":"EM12_C0001_Q1_A2",
-			"value":"戦いの後で聴いてやる"
+			"value":"Sure, after we fight."
 		},
 		{
 			"key":"EM12_C0001_Q1_A3",
-			"value":"それなら一緒に歌おう"
+			"value":"If I can sing, too!"
 		},
 		{
 			"key":"EM12_C0001_Q1_A4",
-			"value":"歌より戦いだ、勝負だ"
+			"value":"I’d prefer to fight!"
 		},
 		{
 			"key":"EM12_C0002",
-			"value":"アチキってナンバーワン？"
+			"value":"What number are you?"
 		},
 		{
 			"key":"EM12_C0002_Q1_A1",
-			"value":"ナンバーワン"
+			"value":"One!"
 		},
 		{
 			"key":"EM12_C0002_Q1_A2",
-			"value":"ナンバーツー"
+			"value":"Two?"
 		},
 		{
 			"key":"EM12_C0002_Q1_A3",
-			"value":"ランク外"
+			"value":"None."
 		},
 		{
 			"key":"EM12_C0002_Q1_A4",
-			"value":"凄いことは認める"
+			"value":"You’re amazing."
 		},
 		{
 			"key":"EM12_C0003",
-			"value":"アンタかわいいわね、食べちゃいたいくらいだわ～！"
+			"value":"Well ain’t you cute! I wanna eat you up!"
 		},
 		{
 			"key":"EM12_C0003_Q1_A1",
-			"value":"褒めてくれてありがとう"
+			"value":"Thanks, appreciate it!"
 		},
 		{
 			"key":"EM12_C0003_Q1_A2",
-			"value":"かわいいとか言うな"
+			"value":"Don’t call me that."
 		},
 		{
 			"key":"EM12_C0003_Q1_A3",
-			"value":"全力でお断りだ"
+			"value":"No. Just...no."
 		},
 		{
 			"key":"EM12_C0003_Q1_A4",
-			"value":"お前もカッコイイよ"
+			"value":"What a cool ‘mon!"
 		},
 		{
 			"key":"EM12_C0004",
-			"value":"アチキにだって悩みはある……\nねっ、ねっ、当ててみて？"
+			"value":"Man, something’s bugging me real bad.\nCan you guess what it is?"
 		},
 		{
 			"key":"EM12_C0004_Q1_A1",
-			"value":"恋の悩み"
+			"value":"Love troubles?"
 		},
 		{
 			"key":"EM12_C0004_Q1_A2",
-			"value":"見た目の悩み"
+			"value":"Your looks?"
 		},
 		{
 			"key":"EM12_C0004_Q1_A3",
-			"value":"強すぎるという悩み"
+			"value":"Your crazy strength?"
 		},
 		{
 			"key":"EM12_C0004_Q1_A4",
-			"value":"悩みがないのが悩み"
+			"value":"That nothing bugs you?"
 		},
 		{
 			"key":"EM12_C0005",
-			"value":"この世界の歩き方、\nアチキが優しく手ほどきしてア・ゲ・ル"
+			"value":"I’ll teach you how to walk a mile in my\nshoes. Ya dig?"
 		},
 		{
 			"key":"EM12_C0005_Q1_A1",
-			"value":"よろしく頼む"
+			"value":"Yes, pretty please!"
 		},
 		{
 			"key":"EM12_C0005_Q1_A2",
-			"value":"胡散臭いから結構"
+			"value":"Sounds shady to me."
 		},
 		{
 			"key":"EM12_C0005_Q1_A3",
-			"value":"逆に手ほどきしてあげよう"
+			"value":"I’ll be the teacher."
 		},
 		{
 			"key":"EM12_C0005_Q1_A4",
-			"value":"遠慮しておくよ"
+			"value":"I’ll pass."
 		},
 		{
 			"key":"EM12_C0006",
-			"value":"アンタもしかしてアチキを倒せると思ってる？"
+			"value":"Hey now, you don’t think you can beat\nlil’ ole me, do ya?"
 		},
 		{
 			"key":"EM12_C0006_Q1_A1",
-			"value":"まさか、思ってないよ"
+			"value":"What? Not a chance."
 		},
 		{
 			"key":"EM12_C0006_Q1_A2",
-			"value":"ふん、余裕だね"
+			"value":"Heh, easy-peasy."
 		},
 		{
 			"key":"EM12_C0006_Q1_A3",
-			"value":"戦いよりラブ＆ピースだ"
+			"value":"Make love, not war!"
 		},
 		{
 			"key":"EM12_C0006_Q1_A4",
-			"value":"もう帰っていいかな"
+			"value":"Can I just...go now?"
 		},
 		{
 			"key":"EM12_C0007",
-			"value":"この完璧なボディの秘密、知りたいんでしょ？"
+			"value":"Wanna know the secret to this bangin’ bod?"
 		},
 		{
 			"key":"EM12_C0007_Q1_A1",
-			"value":"ぜひ教えてほしい"
+			"value":"By all means!"
 		},
 		{
 			"key":"EM12_C0007_Q1_A2",
-			"value":"完璧なつもりなのか？"
+			"value":"You call that bangin’?"
 		},
 		{
 			"key":"EM12_C0007_Q1_A3",
-			"value":"知りたくもない"
+			"value":"I don’t wanna know."
 		},
 		{
 			"key":"EM12_C0007_Q1_A4",
-			"value":"秘密のままの方が素敵だ"
+			"value":"Let’s keep it secret."
 		},
 		{
 			"key":"EM12_C0008",
-			"value":"ノリがいいわね！\nそういうの好きよ！"
+			"value":"Ain’t you a hoot!\nI think I like ya!"
 		},
 		{
 			"key":"EM12_C0009",
-			"value":"いやあねえ、ホレちゃうじゃないのよっ！"
+			"value":"Oohhh baby, I’m stuck on you!"
 		},
 		{
 			"key":"EM12_C0010",
-			"value":"ああもうっ、アンタ最高……っ！！"
+			"value":"Whoaaa, daddy-o! Now that’s what I’m talkin’\nabout!"
 		},
 		{
 			"key":"EM12_C0011",
-			"value":"ノリが悪いわね……"
+			"value":"Don’t be cruel, man!"
 		},
 		{
 			"key":"EM12_C0012",
-			"value":"キー！　あったまにくる態度ね！\nム・カ・ツ・クー！"
+			"value":"That’s it, pal!\nNow or never, knock it off!"
 		},
 		{
 			"key":"EM12_C0013",
-			"value":"もう怒ったわ！\n謝っても許してやらないんだから！！"
+			"value":"Now I’m mad... A little less conversation.\nI’ll put you in traction!"
 		},
 		{
 			"key":"EM12_C0014",
-			"value":"んもぅ、アチキ何でもしてあげちゃうっ！"
+			"value":"Just name your game, brother, I’ll show\nya the love!"
 		},
 		{
 			"key":"EM12_C0015",
-			"value":"そう来ると思ったんだから！\n任せてちょうだい！"
+			"value":"Hot dang! Let’s get in gear!"
 		},
 		{
 			"key":"EM12_C0016",
-			"value":"しょうがないわね、みんなに内緒でこれあげるわ\n２人だけのヒ・ミ・ツ"
+			"value":"Fine, fine, just don’t tell the others,\nright? They’ll hound me, dog!"
 		},
 		{
 			"key":"EM12_C0017",
-			"value":"痛いの痛いの……飛んでけオラァッ！！\nはい、もう大丈夫よ～"
+			"value":"Pain, pain, go away!\nTime to go our separate ways!"
 		},
 		{
 			"key":"EM12_C0018",
-			"value":"またいつか逢いましょっ！"
+			"value":"Until we meet again, my friend!"
 		},
 		{
 			"key":"EM13_C0001",
-			"value":"そや、あんさんはワテのこと、\nどう思ってはりますのか？"
+			"value":"Well then, would you do the honor of\nrevealing your impression of me?"
 		},
 		{
 			"key":"EM13_C0001_Q1_A1",
-			"value":"ライバルだ"
+			"value":"You’re a rival."
 		},
 		{
 			"key":"EM13_C0001_Q1_A2",
-			"value":"可愛いモンスターだ"
+			"value":"You’re a cute monster!"
 		},
 		{
 			"key":"EM13_C0001_Q1_A3",
-			"value":"普通とは違う言葉遣いだ"
+			"value":"You’re something else."
 		},
 		{
 			"key":"EM13_C0001_Q1_A4",
-			"value":"頭が良さそうだ"
+			"value":"You’re pretty smart."
 		},
 		{
 			"key":"EM13_C0002",
-			"value":"あんさん、どっから来たんや？"
+			"value":"Where’d you come from?"
 		},
 		{
 			"key":"EM13_C0002_Q1_A1",
-			"value":"別の世界から"
+			"value":"From another world."
 		},
 		{
 			"key":"EM13_C0002_Q1_A2",
-			"value":"遠いところから"
+			"value":"From far away."
 		},
 		{
 			"key":"EM13_C0002_Q1_A3",
-			"value":"教えない"
+			"value":"I won’t tell."
 		},
 		{
 			"key":"EM13_C0002_Q1_A4",
-			"value":"あっち"
+			"value":"Over there?"
 		},
 		{
 			"key":"EM13_C0003",
-			"value":"ワテもこう見えて、武勇伝ゆーもん持っとるんですわ"
+			"value":"I may not look it, but I have many tales\nof daring-do under my belt!"
 		},
 		{
 			"key":"EM13_C0003_Q1_A1",
-			"value":"憧れるよ"
+			"value":"How admirable!"
 		},
 		{
 			"key":"EM13_C0003_Q1_A2",
-			"value":"嘘つくな"
+			"value":"Stop lying."
 		},
 		{
 			"key":"EM13_C0003_Q1_A3",
-			"value":"そういうの大事だよな"
+			"value":"That sounds serious."
 		},
 		{
 			"key":"EM13_C0003_Q1_A4",
-			"value":"興味ないね"
+			"value":"Not interested."
 		},
 		{
 			"key":"EM13_C0004",
-			"value":"タダより高いモンはない、そうは思いまへんか？"
+			"value":"Nothing ever comes for free, wouldn’t you\nagree?"
 		},
 		{
 			"key":"EM13_C0004_Q1_A1",
-			"value":"貰えるもんは何でも貰う"
+			"value":"I take what I can get."
 		},
 		{
 			"key":"EM13_C0004_Q1_A2",
-			"value":"その通りだと思う"
+			"value":"Exactly!"
 		},
 		{
 			"key":"EM13_C0004_Q1_A3",
-			"value":"タダで食べ物あげようか？"
+			"value":"You got free food?"
 		},
 		{
 			"key":"EM13_C0004_Q1_A4",
-			"value":"もっと相手を信じよう"
+			"value":"Trust your partner."
 		},
 		{
 			"key":"EM13_C0005",
-			"value":"ワテは簡単に騙されへんで？"
+			"value":"I wasn’t born yesterday, you know?\nYou can’t fool me!"
 		},
 		{
 			"key":"EM13_C0005_Q1_A1",
-			"value":"ちっ、バレたか"
+			"value":"Dang, that obvious?"
 		},
 		{
 			"key":"EM13_C0005_Q1_A2",
-			"value":"まだ何も言ってない"
+			"value":"I didn’t say anything."
 		},
 		{
 			"key":"EM13_C0005_Q1_A3",
-			"value":"信じることから始めよう"
+			"value":"You have trust issues."
 		},
 		{
 			"key":"EM13_C0005_Q1_A4",
-			"value":"みんな最初はそう言うんだ"
+			"value":"Everyone says as much."
 		},
 		{
 			"key":"EM13_C0006",
-			"value":"最近はこの辺りも物騒になったもんですわ"
+			"value":"Things have gotten quite perilous around here\nlately."
 		},
 		{
 			"key":"EM13_C0006_Q1_A1",
-			"value":"お前がいるからか"
+			"value":"Because you’re here?"
 		},
 		{
 			"key":"EM13_C0006_Q1_A2",
-			"value":"我々がいるからね"
+			"value":"Because we’re here."
 		},
 		{
 			"key":"EM13_C0006_Q1_A3",
-			"value":"それは気をつけないと"
+			"value":"I’d better be careful."
 		},
 		{
 			"key":"EM13_C0006_Q1_A4",
-			"value":"平和を乱す奴は許さない"
+			"value":"Jerks better look out!"
 		},
 		{
 			"key":"EM13_C0007",
-			"value":"何の前フリもなく、\nいきなりオモロイ話しろ言われても困る思いまへんか？"
+			"value":"Isn’t it annoying when someone asks you for\na funny story out of the blue?"
 		},
 		{
 			"key":"EM13_C0007_Q1_A1",
-			"value":"分かる、だいたい滑るよね"
+			"value":"Yeah, I totally bomb."
 		},
 		{
 			"key":"EM13_C0007_Q1_A2",
-			"value":"期待には応えなきゃ"
+			"value":"Gotta at least try!"
 		},
 		{
 			"key":"EM13_C0007_Q1_A3",
-			"value":"お前の実力不足が悪い"
+			"value":"You’re just bad at it."
 		},
 		{
 			"key":"EM13_C0007_Q1_A4",
-			"value":"オモロイ話しろ"
+			"value":"Just tell a good one!"
 		},
 		{
 			"key":"EM13_C0008",
-			"value":"あんさん、話の通じる奴やな"
+			"value":"You really get me, don’t you?"
 		},
 		{
 			"key":"EM13_C0009",
-			"value":"あんさん、ひょっとして\nワテと気ぃ合うのとちがいまっか？"
+			"value":"Looks like you and me are on the same\nwavelength."
 		},
 		{
 			"key":"EM13_C0010",
-			"value":"ワテ、あんさんのこと気に入ったわ"
+			"value":"I am pleased to inform you that you have\ncurried my favor!"
 		},
 		{
 			"key":"EM13_C0011",
-			"value":"あんさん、固いやっちゃなあ"
+			"value":"You’re an obstinate one, aren’t you?"
 		},
 		{
 			"key":"EM13_C0012",
-			"value":"あんさんとは、なんやソリが合わんようやなあ"
+			"value":"I have concluded that cooperation with you\nis impossible."
 		},
 		{
 			"key":"EM13_C0013",
-			"value":"ワテとあんさんは、縁がなかったちゅーことやな"
+			"value":"You and I have no relationship to speak of."
 		},
 		{
 			"key":"EM13_C0014",
-			"value":"あんさん、ワテになんか頼みごとあるんちゃいまっか？"
+			"value":"Is there perhaps something I could do for\nyou?"
 		},
 		{
 			"key":"EM13_C0015",
-			"value":"ワテなんかでよければ、手伝わせてもらいまっせ"
+			"value":"If my abilities would be of assistance,\nallow me to make use of them."
 		},
 		{
 			"key":"EM13_C0016",
-			"value":"ほな、こんなんはどうでっしゃろ"
+			"value":"Well then, would something like this suffice?"
 		},
 		{
 			"key":"EM13_C0017",
-			"value":"お安い御用や、ホレ、もう怪我したらあかんで"
+			"value":"An easy feat. Behold, your injuries\nare healed!"
 		},
 		{
 			"key":"EM13_C0018",
-			"value":"またどっかでおーたら、よろしゅうにな"
+			"value":"Until next we meet, some time, somewhere!"
 		},
 		{
 			"key":"EM14_C0001",
-			"value":"愛が……あれば……それだけで……いい……"
+			"value":"All...you need...is love..."
 		},
 		{
 			"key":"EM14_C0001_Q1_A1",
-			"value":"愛だけじゃ物足りない"
+			"value":"Love’s not enough."
 		},
 		{
 			"key":"EM14_C0001_Q1_A2",
-			"value":"面白いことを言うね"
+			"value":"An interesting idea!"
 		},
 		{
 			"key":"EM14_C0001_Q1_A3",
-			"value":"難しい価値観だ"
+			"value":"That’s a tough sell."
 		},
 		{
 			"key":"EM14_C0001_Q1_A4",
-			"value":"愛など、とうに捨てた"
+			"value":"I’ve abandoned love."
 		},
 		{
 			"key":"EM14_C0002",
-			"value":"お互い……関わらなければ……争いは……起きない……"
+			"value":"Mutual...understanding...would\nend...conflict..."
 		},
 		{
 			"key":"EM14_C0002_Q1_A1",
-			"value":"その通りだね"
+			"value":"Right you are!"
 		},
 		{
 			"key":"EM14_C0002_Q1_A2",
-			"value":"争ったっていいと思う"
+			"value":"But I LIKE conflict!"
 		},
 		{
 			"key":"EM14_C0002_Q1_A3",
-			"value":"それだと協力しあえない"
+			"value":"That’s not enough."
 		},
 		{
 			"key":"EM14_C0002_Q1_A4",
-			"value":"臆病者だな"
+			"value":"What a coward."
 		},
 		{
 			"key":"EM14_C0003",
-			"value":"お前……仲間……だいじか……？"
+			"value":"Do you...treasure...your comrades...?"
 		},
 		{
 			"key":"EM14_C0003_Q1_A1",
-			"value":"何よりも大事だ"
+			"value":"More than anything."
 		},
 		{
 			"key":"EM14_C0003_Q1_A2",
-			"value":"命の次に大事だ"
+			"value":"After my own life."
 		},
 		{
 			"key":"EM14_C0003_Q1_A3",
-			"value":"目的が同じうちは大事だ"
+			"value":"If interests align."
 		},
 		{
 			"key":"EM14_C0003_Q1_A4",
-			"value":"当たり前のことを聞くな"
+			"value":"Don’t ask the obvious."
 		},
 		{
 			"key":"EM14_C0004",
-			"value":"この辺りから……立ち去れ……"
+			"value":"Get...away from here..."
 		},
 		{
 			"key":"EM14_C0004_Q1_A1",
-			"value":"分かったよ"
+			"value":"You got it."
 		},
 		{
 			"key":"EM14_C0004_Q1_A2",
-			"value":"従う気はない"
+			"value":"Who made you boss?"
 		},
 		{
 			"key":"EM14_C0004_Q1_A3",
-			"value":"偉そうに言うな"
+			"value":"Don’t talk so big!"
 		},
 		{
 			"key":"EM14_C0004_Q1_A4",
-			"value":"忠告ありがとう"
+			"value":"Appreciate the advice!"
 		},
 		{
 			"key":"EM14_C0005",
-			"value":"もしかして……戦いたい……のか……？"
+			"value":"Do you...wanna...fight...?"
 		},
 		{
 			"key":"EM14_C0005_Q1_A1",
-			"value":"ああ、そうだ"
+			"value":"Yes indeed!"
 		},
 		{
 			"key":"EM14_C0005_Q1_A2",
-			"value":"戦いたくない"
+			"value":"I don’t want to fight."
 		},
 		{
 			"key":"EM14_C0005_Q1_A3",
-			"value":"必要があれば戦う"
+			"value":"I’ll fight if I must."
 		},
 		{
 			"key":"EM14_C0005_Q1_A4",
-			"value":"話をしたい"
+			"value":"I just want to talk."
 		},
 		{
 			"key":"EM14_C0006",
-			"value":"花を……踏みつぶすと……悲しく……なる……"
+			"value":"Stepping on...flowers...makes me...sad..."
 		},
 		{
 			"key":"EM14_C0006_Q1_A1",
-			"value":"気にしたことなかった"
+			"value":"Never considered it."
 		},
 		{
 			"key":"EM14_C0006_Q1_A2",
-			"value":"優しいんだな"
+			"value":"What a nice ‘mon."
 		},
 		{
 			"key":"EM14_C0006_Q1_A3",
-			"value":"そんなことで悩むな"
+			"value":"Don’t worry about it."
 		},
 		{
 			"key":"EM14_C0006_Q1_A4",
-			"value":"同じ気持ちだよ"
+			"value":"I feel the same way."
 		},
 		{
 			"key":"EM14_C0007",
-			"value":"守る……ためなら……\n暴力も……仕方ないと……思うか……？"
+			"value":"Would you...use violence...to protect\nothers...?"
 		},
 		{
 			"key":"EM14_C0007_Q1_A1",
-			"value":"暴力はいけない"
+			"value":"Violence is bad!"
 		},
 		{
 			"key":"EM14_C0007_Q1_A2",
-			"value":"仕方ない時もある"
+			"value":"Sometimes you have to."
 		},
 		{
 			"key":"EM14_C0007_Q1_A3",
-			"value":"手っ取り早い手段だ"
+			"value":"If it’s fastest."
 		},
 		{
 			"key":"EM14_C0007_Q1_A4",
-			"value":"別の方法を考えたい"
+			"value":"Try something else."
 		},
 		{
 			"key":"EM14_C0008",
-			"value":"……お前……いいな"
+			"value":"...I...like you."
 		},
 		{
 			"key":"EM14_C0009",
-			"value":"……お前……気に入った"
+			"value":"...I...really like you."
 		},
 		{
 			"key":"EM14_C0010",
-			"value":"……お前……大好きだ"
+			"value":"...I...really, really like you."
 		},
 		{
 			"key":"EM14_C0011",
-			"value":"……お前……むかつくな"
+			"value":"...You’re...annoying."
 		},
 		{
 			"key":"EM14_C0012",
-			"value":"……お前……嫌いだな"
+			"value":"...You’re...awful."
 		},
 		{
 			"key":"EM14_C0013",
-			"value":"……お前……最低の奴だな"
+			"value":"...You’re...the worst there is."
 		},
 		{
 			"key":"EM14_C0014",
-			"value":"……何か……頼みごとでも……あるのか"
+			"value":"Is there...something...you wanted?"
 		},
 		{
 			"key":"EM14_C0015",
-			"value":"いいだろう……ついていって……やる……"
+			"value":"Okay...I’ll go...with you..."
 		},
 		{
 			"key":"EM14_C0016",
-			"value":"わかった……これ……やる……"
+			"value":"Okay...here...take this..."
 		},
 		{
 			"key":"EM14_C0017",
-			"value":"身体……だいじに……しろ……"
+			"value":"Okay...there...all better..."
 		},
 		{
 			"key":"EM14_C0018",
-			"value":"……じゃあな"
+			"value":"...Bye."
 		},
 		{
 			"key":"EM15_C0001",
-			"value":"取り引きしないか？\nアイテムをくれたらワザと負けてやるよ"
+			"value":"Let’s make a deal:\nThrow the fight and I’ll give you an item!"
 		},
 		{
 			"key":"EM15_C0001_Q1_A1",
-			"value":"信用できないヤツめ"
+			"value":"I don’t believe you."
 		},
 		{
 			"key":"EM15_C0001_Q1_A2",
-			"value":"とても悩ましい提案だ"
+			"value":"That sounds dodgy."
 		},
 		{
 			"key":"EM15_C0001_Q1_A3",
-			"value":"お前など、倒すのみ"
+			"value":"I’ll just beat you up."
 		},
 		{
 			"key":"EM15_C0001_Q1_A4",
-			"value":"面白い提案だね"
+			"value":"Interesting proposal!"
 		},
 		{
 			"key":"EM15_C0002",
-			"value":"オマエは、自分のような弱いモンスターには\n強気になるんだな"
+			"value":"You sure like to puff out your chest around\na weak monster like myself."
 		},
 		{
 			"key":"EM15_C0002_Q1_A1",
-			"value":"弱いなんてうそつきだね"
+			"value":"Liar. You’re not weak."
 		},
 		{
 			"key":"EM15_C0002_Q1_A2",
-			"value":"強弱は関係ないよ"
+			"value":"Strength’s irrelevant."
 		},
 		{
 			"key":"EM15_C0002_Q1_A3",
-			"value":"失礼なヤツだな"
+			"value":"How rude!"
 		},
 		{
 			"key":"EM15_C0002_Q1_A4",
-			"value":"あ、ごめん"
+			"value":"Oh. My bad."
 		},
 		{
 			"key":"EM15_C0003",
-			"value":"騙す方と騙される方……オマエはどちらが悪いと思う？"
+			"value":"Who do you think is worse? The deceiver,\nor the deceived?"
 		},
 		{
 			"key":"EM15_C0003_Q1_A1",
-			"value":"騙す方に決まっている"
+			"value":"The deceiver, duh!"
 		},
 		{
 			"key":"EM15_C0003_Q1_A2",
-			"value":"場合によるかもしれない"
+			"value":"It depends, I guess."
 		},
 		{
 			"key":"EM15_C0003_Q1_A3",
-			"value":"騙されるのは間抜けかな"
+			"value":"Only dupes get duped!"
 		},
 		{
 			"key":"EM15_C0003_Q1_A4",
-			"value":"どちらにもなりたくない"
+			"value":"I don’t like either."
 		},
 		{
 			"key":"EM15_C0004",
-			"value":"平和を愛する自分に戦いを仕掛けるとは、\nニンゲンとは残酷なんだな"
+			"value":"Trying to pick a fight with a peace-lover\nlike me... You humans sure are cruel."
 		},
 		{
 			"key":"EM15_C0004_Q1_A1",
-			"value":"襲いかかったのはそっちだ"
+			"value":"You attacked me!"
 		},
 		{
 			"key":"EM15_C0004_Q1_A2",
-			"value":"今すぐ戦いをやめよう"
+			"value":"So let’s call it off."
 		},
 		{
 			"key":"EM15_C0004_Q1_A3",
-			"value":"平和は好きだよ"
+			"value":"I love peace, myself."
 		},
 		{
 			"key":"EM15_C0004_Q1_A4",
-			"value":"口では何とでも言えるな"
+			"value":"You’ll say anything..."
 		},
 		{
 			"key":"EM15_C0005",
-			"value":"周りを仲間だと思っているのは、\nオマエ１人かもしれないよ？"
+			"value":"You may think of those around you as friends, \nbut perhaps you're actually alone?"
 		},
 		{
 			"key":"EM15_C0005_Q1_A1",
-			"value":"そんなことはない！"
+			"value":"That’s not true!"
 		},
 		{
 			"key":"EM15_C0005_Q1_A2",
-			"value":"それでも構わないさ"
+			"value":"I wouldn’t mind."
 		},
 		{
 			"key":"EM15_C0005_Q1_A3",
-			"value":"君には仲間がいるか？"
+			"value":"Do you have friends?"
 		},
 		{
 			"key":"EM15_C0005_Q1_A4",
-			"value":"翻弄しようとしても無駄だ"
+			"value":"Don’t mess with me!"
 		},
 		{
 			"key":"EM15_C0006",
-			"value":"オマエには隠し事があるんだろう？\n思い切って正直に言ってみたらどうだ"
+			"value":"I bet you’ve got some secrets, huh?\nGo on, tell me one! I dare you!"
 		},
 		{
 			"key":"EM15_C0006_Q1_A1",
-			"value":"君が先に教えてくれるか？"
+			"value":"You first..."
 		},
 		{
 			"key":"EM15_C0006_Q1_A2",
-			"value":"隠し事……どれかな？"
+			"value":"Secrets? I wonder..."
 		},
 		{
 			"key":"EM15_C0006_Q1_A3",
-			"value":"隠していることなんてない"
+			"value":"I’ve nothing to hide."
 		},
 		{
 			"key":"EM15_C0006_Q1_A4",
-			"value":"君に話す気はない"
+			"value":"I’m not telling you."
 		},
 		{
 			"key":"EM15_C0007",
-			"value":"正しいことと正しくないこと、\nそれは何で決まると思う？"
+			"value":"What do you think decides what’s right\nor wrong?"
 		},
 		{
 			"key":"EM15_C0007_Q1_A1",
-			"value":"自分の信念で決める"
+			"value":"Your own beliefs."
 		},
 		{
 			"key":"EM15_C0007_Q1_A2",
-			"value":"事実が示してくれる"
+			"value":"Reality itself."
 		},
 		{
 			"key":"EM15_C0007_Q1_A3",
-			"value":"好みかもしれない"
+			"value":"Your preferences?"
 		},
 		{
 			"key":"EM15_C0007_Q1_A4",
-			"value":"多数決？"
+			"value":"Majority rule?"
 		},
 		{
 			"key":"EM15_C0008",
-			"value":"ふーん、まあいいか\n少しは楽しめたし"
+			"value":"Heh, all right, I admit it.\nI had a little fun."
 		},
 		{
 			"key":"EM15_C0009",
-			"value":"オマエにはかなり興味が沸いたよ"
+			"value":"Now you’ve got my motor running!"
 		},
 		{
 			"key":"EM15_C0010",
-			"value":"ひひひひ\nこーゆー出会いがあるから、戦いはやめられないな"
+			"value":"Heeee hee hee! It’s encounters like this\nthat make me keep fighting."
 		},
 		{
 			"key":"EM15_C0011",
-			"value":"チッ、無粋なヤツだぜ。失望したな"
+			"value":"Man, what a bore you turned out to be. Shame."
 		},
 		{
 			"key":"EM15_C0012",
-			"value":"オマエは……受け入れられない嫌いなタイプだ"
+			"value":"You’re the type I just can’t take,\ny’know that?"
 		},
 		{
 			"key":"EM15_C0013",
-			"value":"許せないヤツ！\n徹底抗戦だな！"
+			"value":"Unacceptable!\nI’ll never give in to you, not ever!"
 		},
 		{
 			"key":"EM15_C0014",
-			"value":"で、どうして欲しいのか言ってみたらどうだ？"
+			"value":"So what do you want? Go on, I can tell..."
 		},
 		{
 			"key":"EM15_C0015",
-			"value":"選択眼はあるようだ\n望みを叶えてやるよ"
+			"value":"You’ve got a good eye!\nI’ll make your wish come true."
 		},
 		{
 			"key":"EM15_C0016",
-			"value":"これが欲しいのか\nまぁくれてやってもいいか"
+			"value":"You want this, do you?\nFair enough, it’s all yours."
 		},
 		{
 			"key":"EM15_C0017",
-			"value":"しょうがないヤツだな\n今回だけだよ"
+			"value":"Seriously, though?\nFine, but just this once."
 		},
 		{
 			"key":"EM15_C0018",
-			"value":"ふん、じゃあな"
+			"value":"Heh. Later gator."
 		},
 		{
 			"key":"EM00_C0002",
-			"value":"話ができる雰囲気じゃないな"
+			"value":"Doesn’t seem to be in the mood to talk..."
 		},
 		{
 			"key":"EM00_C0003",
-			"value":"あ～、惜しかったな\nどっかに行っちゃった\n"
+			"value":"Shoot, almost had them! Now they’re off in\nthe wind somewhere."
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1170_0001",
-			"value":"ん～、この辺りはさっきと変わらないなー"
+			"value":"Hmm... This place doesn’t seem any different\nthan before."
 		},
 		{
 			"key":"EP02_S1170_0002",
-			"value":"そうか\nそれじゃあ他のところも見てみようか"
+			"value":"Okay, then let’s look around somewhere else."
 		},
 		{
 			"key":"EP02_S1170_0003",
-			"value":"おう！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP02_S1170_0004",
-			"value":"他のところも見てみよう！"
+			"value":"Let’s keep searching!"
 		}
 	]
 }

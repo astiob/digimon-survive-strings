@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0012_0001",
-			"value":"（そっか、昨日はあのまま寝ちゃったんだ……）"
+			"value":"(They just went to sleep like this\nyesterday...)"
 		},
 		{
 			"key":"EP02_S0012_0002",
-			"value":"（みんなは……\n　まだ寝ているみたいだな……）"
+			"value":"(But they’re all...still asleep it seems...)"
 		},
 		{
 			"key":"EP02_S0012_0003",
-			"value":"（昨日の事でみんな疲れ切っていたもんな）"
+			"value":"(Yesterday must have been really tiring.)"
 		},
 		{
 			"key":"EP02_S0012_0004",
-			"value":"（少し外の空気を吸いにいくか）"
+			"value":"(Let me get some air.)"
 		}
 	]
 }

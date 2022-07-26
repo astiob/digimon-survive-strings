@@ -2,183 +2,183 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0550_0001",
-			"value":"サキ、浮かない顔だね"
+			"value":"You’re looking kind of grim, Saki."
 		},
 		{
 			"key":"EP10_S0550_0002",
-			"value":"タクマ……私、怖くて"
+			"value":"Takuma... I’m scared."
 		},
 		{
 			"key":"EP10_S0550_0003",
-			"value":"これから、もっと危険になるんでしょ？\n怪我したり、死んだりするかも……"
+			"value":"Things are only going to get more dangerous,\naren’t they? I could get hurt, or even die."
 		},
 		{
 			"key":"EP10_S0550_0004",
-			"value":"大丈夫だよ！\nボクたちがみんなを守るもん"
+			"value":"Don’t worry! We’ll protect everyone!"
 		},
 		{
 			"key":"EP10_S0550_0005",
-			"value":"危険があるのは確かだけど\n私たちがいるのも忘れないで"
+			"value":"I know things are dangerous here, but don’t\nforget about us!"
 		},
 		{
 			"key":"EP10_S0550_0006",
-			"value":"アグモン、フローラモン……"
+			"value":"Agumon, Floramon..."
 		},
 		{
 			"key":"EP10_S0550_0007",
-			"value":"ありがと\n二人のことは信じてるよ"
+			"value":"Thank you. I believe in you both."
 		},
 		{
 			"key":"EP10_S0550_0008",
-			"value":"ただ、私\n弱気になっちゃった自分がイヤだな、って"
+			"value":"But I still can’t get over my own weakness."
 		},
 		{
 			"key":"EP10_S0550_0009",
-			"value":"（サキは前よりずっと真剣に\n　どうすべきか、どうしたいか考えてるみたいだ）"
+			"value":"(Saki seems to be considering her next course\nof action way more seriously than usual.)"
 		},
 		{
 			"key":"EP10_S0550_0010",
-			"value":"（だからこそ考えすぎちゃって\n　不安になることがあるんだろうな）"
+			"value":"(That’s why she’s overthinking, and getting\nherself all worked up.)"
 		},
 		{
 			"key":"EP10_S0550_0011",
-			"value":"（それでも僕は今のサキを応援したい\n　サキの今の考え方を肯定してあげたいな）"
+			"value":"(Still, I wanna support what she’s trying to\ndo—encourage the way she’s thinking now.)"
 		},
 		{
 			"key":"EP10_S0550_Q1",
-			"value":"（サキを励ますには）"
+			"value":"(How can I encourage Saki?)"
 		},
 		{
 			"key":"EP10_S0550_Q1_A1",
-			"value":"アグモンたちを信じよう"
+			"value":"We can trust them."
 		},
 		{
 			"key":"EP10_S0550_Q1_A2",
-			"value":"安心させよう"
+			"value":"Don’t worry!"
 		},
 		{
 			"key":"EP10_S0550_Q1_A3",
-			"value":"弱気でもいいと思う"
+			"value":"Okay to be weak."
 		},
 		{
 			"key":"EP10_S0550_0012",
-			"value":"大丈夫だよ、アグモンたちが必ず守ってくれる\n信じようよ"
+			"value":"Don’t worry, Agumon and the others will\nprotect us for sure. Let’s trust them."
 		},
 		{
 			"key":"EP10_S0550_0013",
-			"value":"うん……そうだよね"
+			"value":"Yeah... Yeah, you're right."
 		},
 		{
 			"key":"EP10_S0550_0014",
-			"value":"ねえ、フローラモン\n前と違って弱気な私でも、守ってくれる？"
+			"value":"Hey, Floramon. You’ll still protect me, even\nif I’m not as brave as before?"
 		},
 		{
 			"key":"EP10_S0550_0015",
-			"value":"こんな臆病な私\nフローラモンは嫌いになったりしない？"
+			"value":"Do you think that makes me a coward? Do you\nhate me for it?"
 		},
 		{
 			"key":"EP10_S0550_0016",
-			"value":"臆病でいいと思う\n普通だよ、へーきへーき"
+			"value":"It doesn’t bother me. I think it’s normal to\nbe scared."
 		},
 		{
 			"key":"EP10_S0550_0017",
-			"value":"弱いからって、自分自身を認められないなんて\nそんな人生、悲しくない？"
+			"value":"And you shouldn’t hate yourself just because\nyou’re not as strong as you want to be."
 		},
 		{
 			"key":"EP10_S0550_0018",
-			"value":"だからね、嫌いになんてならないよ……"
+			"value":"I don’t think any less of you for it."
 		},
 		{
 			"key":"EP10_S0550_0019",
-			"value":"サキ、だいすき！"
+			"value":"You’re my friend, Saki!"
 		},
 		{
 			"key":"EP10_S0550_0020",
-			"value":"フローラモン……"
+			"value":"Oh, Floramon..."
 		},
 		{
 			"key":"EP10_S0550_0021",
-			"value":"安心してよ、サキ\n危険はあるけど、きっと大丈夫だよ"
+			"value":"Don’t worry, Saki! I know it’s dangerous, but\nthings will all work out."
 		},
 		{
 			"key":"EP10_S0550_0022",
-			"value":"どういう根拠で？"
+			"value":"How do you know that?"
 		},
 		{
 			"key":"EP10_S0550_0023",
-			"value":"根拠はないけど……大丈夫って思わないと\n大丈夫にならないよ"
+			"value":"I don’t know any proof or anything... Just,\nwe have to think that way to make it happen."
 		},
 		{
 			"key":"EP10_S0550_0024",
-			"value":"何それ……"
+			"value":"But that’s hardly..."
 		},
 		{
 			"key":"EP10_S0550_0025",
-			"value":"あー、もー、違う違う！"
+			"value":"Ahhh, no, this is all wrong!"
 		},
 		{
 			"key":"EP10_S0550_0026",
-			"value":"こういうネガティブなことばっかり言うの\n私っぽくない！"
+			"value":"Spouting all these negative things isn’t my\nstyle at all!"
 		},
 		{
 			"key":"EP10_S0550_0027",
-			"value":"ネガティブでもいいと思う\n普通だよ、へーきへーき"
+			"value":"It doesn’t bother me. I think it’s normal to\nfeel negative sometimes."
 		},
 		{
 			"key":"EP10_S0550_0028",
-			"value":"そういう弱い自分を認めて\n初めて前に進めるのよ"
+			"value":"When you acknowledge your own weakness,\nthat’s when you can really move forward."
 		},
 		{
 			"key":"EP10_S0550_0029",
-			"value":"そういうものなのかな\nふぅん……"
+			"value":"Huh... So that’s how it works?"
 		},
 		{
 			"key":"EP10_S0550_0030",
-			"value":"自分をイヤになることなんてないよ\n弱気なのは悪いことじゃない"
+			"value":"It’s not something to put yourself down over.\nWeakness isn’t a bad thing."
 		},
 		{
 			"key":"EP10_S0550_0031",
-			"value":"そうよ、それって前よりずっと\n現実が見えてるってことだわ"
+			"value":"Yeah, that just means you see things more\nrealistically than before."
 		},
 		{
 			"key":"EP10_S0550_0032",
-			"value":"そうかなぁ"
+			"value":"Huh, you think so?"
 		},
 		{
 			"key":"EP10_S0550_0033",
-			"value":"ええ、前のサキはイヤなことを\n見ないようにしてた気がするの"
+			"value":"Yeah. I feel like you tried to avoid seeing\nthe tough stuff before."
 		},
 		{
 			"key":"EP10_S0550_0034",
-			"value":"でも今のサキは、きちんと全部見た上で\n不安になったり、心配したりしてるわ"
+			"value":"But now you’re taking in everything—that’s\nwhat makes you anxious and worried."
 		},
 		{
 			"key":"EP10_S0550_0035",
-			"value":"次は弱気になった自分を認める時間\n怖がってる自分もちゃんと見てあげて"
+			"value":"Next, take a good, hard look at how you’re\nscared of being able to see your weakness."
 		},
 		{
 			"key":"EP10_S0550_0036",
-			"value":"うん、フローラモンの言うとおりだよ"
+			"value":"Yeah, Floramon’s right."
 		},
 		{
 			"key":"EP10_S0550_0037",
-			"value":"弱気になってる自分を受け止めたら\nきっと次に何をすればいいか見えるはずだよ"
+			"value":"If you accept your own weakness, I’m sure\nyou’ll know how to handle it next time."
 		},
 		{
 			"key":"EP10_S0550_0038",
-			"value":"そっか……うん\nなんか元気出てきた"
+			"value":"Yeah... Yeah, you’re right. I feel better\nnow, somehow."
 		},
 		{
 			"key":"EP10_S0550_0039",
-			"value":"私は私でいいんだよね"
+			"value":"There’s nothing wrong with being me."
 		},
 		{
 			"key":"EP10_S0550_0040",
-			"value":"うん、きっとね"
+			"value":"Yep, not a thing."
 		},
 		{
 			"key":"EP10_S0550_0041",
-			"value":"これからどうなるんだろ\n今までよりもっと危険になっていくんだろうな"
+			"value":"I wonder what’s coming our way? It’s gonna\nget even dicier from here on out, I bet."
 		}
 	]
 }

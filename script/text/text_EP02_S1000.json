@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1000_0001",
-			"value":"うわっ！？　なんだ！？"
+			"value":"Yikes! What was that?"
 		},
 		{
 			"key":"EP02_S1000_0002",
-			"value":"声……？\nいや、歌……？"
+			"value":"A voice? No, more like a song..."
 		},
 		{
 			"key":"EP02_S1000_0003",
-			"value":"それに……\nこのピアノの音は……？"
+			"value":"And is that...a piano I hear?"
 		},
 		{
 			"key":"EP02_S1000_0004",
-			"value":"（まさか……本当に幽霊が出たのか？）"
+			"value":"(Have we really found a ghost?)"
 		},
 		{
 			"key":"EP02_S1000_0005",
-			"value":"タクマー？　どうした？"
+			"value":"Something wrong, Takuma?"
 		},
 		{
 			"key":"EP02_S1000_0006",
-			"value":"あ……い、いや、何でもないよ\n行こうか"
+			"value":"No. It’s nothing.\nLet’s go."
 		}
 	]
 }

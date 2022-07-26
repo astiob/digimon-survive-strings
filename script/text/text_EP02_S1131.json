@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1131_0001",
-			"value":"あれ？　タクマ、こんなのがあったよ？"
+			"value":"I found a thing, Takuma..."
 		},
 		{
 			"key":"EP02_S1131_0002",
-			"value":"ん？　これは……なんだろう？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP02_S1131_0003",
-			"value":"う～ん……なんだかわかんないけど\n役に立ちそうなきがする……"
+			"value":"I have no idea. But I think it could be\nuseful..."
 		},
 		{
 			"key":"EP02_S1131_0004",
-			"value":"とりあえず持っておこう！"
+			"value":"I’ll hang on to it then!"
 		},
 		{
 			"key":"EP02_S1131_0005",
-			"value":"大丈夫か？　何に使うかもわからないのに……"
+			"value":"Really? You don’t know what it’s for..."
 		},
 		{
 			"key":"EP02_S1131_0006",
-			"value":"危ないものじゃなさそーだし\nヘーキヘーキ"
+			"value":"It doesn’t look dangerous.\nI’m sure it’ll be fine."
 		},
 		{
 			"key":"EP02_S1131_0007",
-			"value":"まぁ、そういうことなら……"
+			"value":"If you say so..."
 		}
 	]
 }

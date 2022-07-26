@@ -2,251 +2,251 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4023_0001",
-			"value":"タクマさん急いで！\n早くみんなを助けないと！"
+			"value":"Hurry, Takuma! We gotta save them all, right\naway!"
 		},
 		{
 			"key":"EP09_S4023_0002",
-			"value":"焦るなよ、ミウ\n自分の身を守りながら進め"
+			"value":"Don’t rush this, Miu. You gotta proceed with\ncaution."
 		},
 		{
 			"key":"EP09_S4023_0003",
-			"value":"わ、わかってるよ！\nでも、早くしないと、みんなが……"
+			"value":"I know that! But if we don’t hurry, they’ll\nall...!"
 		},
 		{
 			"key":"EP09_S4023_0004",
-			"value":"（カイトの言うとおりだ、ミウは明らかに焦ってる\n　少し落ち着かせないと）"
+			"value":"(Kaito’s right, Miu is clearly panicking. We\nhave to calm her down a bit.)"
 		},
 		{
 			"key":"EP09_S4023_0005",
-			"value":"（いやでも、本当に急がないといけない状況だし\n　ミウの勢いを邪魔することはないのかな）"
+			"value":"(But well, we really do have to hurry here.\nI don’t want to hamper Miu’s momentum.)"
 		},
 		{
 			"key":"EP09_S4023_Q1",
-			"value":"（僕はどう対応しよう……）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP09_S4023_Q1_A1",
-			"value":"まずは落ち着くように促そう"
+			"value":"Suggest a breather."
 		},
 		{
 			"key":"EP09_S4023_Q1_A2",
-			"value":"ミウの言う通りだ、急ごう！"
+			"value":"Hurry on ahead!"
 		},
 		{
 			"key":"EP09_S4023_0006",
-			"value":"まずは深呼吸だ"
+			"value":"Take a deep breath."
 		},
 		{
 			"key":"EP09_S4023_0007",
-			"value":"ミウ、ストップ\nまずは深呼吸だ"
+			"value":"Stop, Miu. Take a deep breath first."
 		},
 		{
 			"key":"EP09_S4023_0008",
-			"value":"そんなことしてる場合じゃ……！"
+			"value":"Now’s not the time for—"
 		},
 		{
 			"key":"EP09_S4023_0009",
-			"value":"いいから\nはい吸ってー、吐いてー"
+			"value":"All right, now. Breathe in... Breathe out..."
 		},
 		{
 			"key":"EP09_S4023_0010",
-			"value":"すー……は～……"
+			"value":"B-breathe in... Breathe out..."
 		},
 		{
 			"key":"EP09_S4023_0011",
-			"value":"どう？　落ち着いた？"
+			"value":"So? Calmed down a little?"
 		},
 		{
 			"key":"EP09_S4023_0012",
-			"value":"う、うん……ごめんなさい、タクマさん\nウチ、焦っちゃって……"
+			"value":"Um, yeah... Sorry, Takuma. I kinda freaked\nout there."
 		},
 		{
 			"key":"EP09_S4023_0013",
-			"value":"ううん、焦る気持ちはわかるよ\nでも、慌てて動いてミウまで怪我したら大変だから"
+			"value":"Hey, I totally get it. It’s just, if you\npanic and get hurt too, we’d all hate that."
 		},
 		{
 			"key":"EP09_S4023_0014",
-			"value":"うん、ウチ冷静にいくよ！"
+			"value":"Okay, I’ll keep my cool!"
 		},
 		{
 			"key":"EP09_S4023_0015",
-			"value":"タクマ、ミウの扱い上手いじゃない"
+			"value":"You know just how to handle her, Takuma."
 		},
 		{
 			"key":"EP09_S4023_0016",
-			"value":"ちょっとー！　ウチを子供扱いしないでよー！"
+			"value":"Hey! Don’t treat me like a kid!"
 		},
 		{
 			"key":"EP09_S4023_0017",
-			"value":"あはは、さぁ行こう"
+			"value":"Ahaha! Come on, let’s head out."
 		},
 		{
 			"key":"EP09_S4023_0018",
-			"value":"急ごう！"
+			"value":"Hurry on ahead!"
 		},
 		{
 			"key":"EP09_S4023_0019",
-			"value":"あぁ、わかった。急ごう！"
+			"value":"Yeah, you’re right. Let’s hurry!"
 		},
 		{
 			"key":"EP09_S4023_0020",
-			"value":"ミウ、急がなきゃだけど\n焦っちゃダメだからね？"
+			"value":"We’d better hustle, Miu, but don’t get ahead\nof yourself, okay?"
 		},
 		{
 			"key":"EP09_S4023_0021",
-			"value":"うん、わかってる\n敵がいるかもしれないもんね"
+			"value":"Yeah, I know. The enemy could be anywhere."
 		},
 		{
 			"key":"EP09_S4023_0022",
-			"value":"落ち着いて、急ごうね！"
+			"value":"We have to hurry, but we gotta be smart about\nit."
 		},
 		{
 			"key":"EP09_S4023_0023",
-			"value":"行くよ、シャコモン！"
+			"value":"Come on, Syakomon!"
 		},
 		{
 			"key":"EP09_S4023_0024",
-			"value":"ええ、行きましょう！"
+			"value":"Yeah, here we go!"
 		},
 		{
 			"key":"EP09_S4023_0025",
-			"value":"早くみんなを助けないと！\n急ごう！"
+			"value":"Hurry up! We’ve gotta save everyone!"
 		},
 		{
 			"key":"EP09_S4023_0026",
-			"value":"うっ、ぐすっ……\n助け、られなかった……"
+			"value":"*sniff*... We couldn’t save them..."
 		},
 		{
 			"key":"EP09_S4023_0027",
-			"value":"ミウ、思い詰めないで\nミウのせいじゃないわよ"
+			"value":"It’s not your fault, Miu. Don’t beat yourself\nup over it."
 		},
 		{
 			"key":"EP09_S4023_0028",
-			"value":"うん……泣いてるヒマないもんね\nしっかりしなきゃ"
+			"value":"I know... There’s no time to cry. I have to\nkeep it together."
 		},
 		{
 			"key":"EP09_S4023_0029",
-			"value":"うう、でもやっぱり、どうしても\n涙が出ちゃうよ……"
+			"value":"I know, but... *sniff* I can’t help but cry\nanyway..."
 		},
 		{
 			"key":"EP09_S4023_0030",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP09_S4023_0031",
-			"value":"（カイト、ミウを心配そうに見てる……\n　励まし方がわからないのかもしれない）"
+			"value":"(Kaito looks worried about her... Maybe he\ndoesn’t know how to make her feel better.)"
 		},
 		{
 			"key":"EP09_S4023_0032",
-			"value":"タクマ、出番だぜ\nうちのカイトはどうも口下手でな"
+			"value":"This is all you, Takuma. Kaito’s bad at this\nsorta talk."
 		},
 		{
 			"key":"EP09_S4023_0033",
-			"value":"……うるせぇ"
+			"value":"...Quiet."
 		},
 		{
 			"key":"EP09_S4023_0034",
-			"value":"（出番……って言われてもなぁ\n　泣いてる女の子にかける言葉……うーん）"
+			"value":"(All me, he says... What do you say to\na crying girl, though?)"
 		},
 		{
 			"key":"EP09_S4023_Q2",
-			"value":"（どうにかしてミウを励まさないと……なんて言おう）"
+			"value":"(I gotta cheer her up. Tell her we have\nto...)"
 		},
 		{
 			"key":"EP09_S4023_Q2_A1",
-			"value":"助けが必要な子はまだいるよ"
+			"value":"Save others out there."
 		},
 		{
 			"key":"EP09_S4023_Q2_A2",
-			"value":"消えたあの子の為にも頑張ろう"
+			"value":"Work for the fallen."
 		},
 		{
 			"key":"EP09_S4023_0035",
-			"value":"助けが必要な子はまだいるよ"
+			"value":"Save others out there."
 		},
 		{
 			"key":"EP09_S4023_0036",
-			"value":"ミウ、悲しい気持ちはわかるよ\nでもここで立ち止まっちゃ駄目だ"
+			"value":"You have every right to grieve, Miu. But we\ncan’t get tripped up here."
 		},
 		{
 			"key":"EP09_S4023_0037",
-			"value":"まだたくさんの怪我した子たちが\nミウの助けを待ってるんだ"
+			"value":"There’s still lots of creatures hurt out\nthere. They’re waiting for your help."
 		},
 		{
 			"key":"EP09_S4023_0038",
-			"value":"ぐすっ……うん、そうだよね\nお兄ちゃんにも同じこと言われたもんね"
+			"value":"*hic*... Yeah, you’re right. Kaito told me\nthe same thing."
 		},
 		{
 			"key":"EP09_S4023_0039",
-			"value":"ありがとう、タクマさん\nウチ女王様だもん、しっかりしなきゃ！"
+			"value":"Thanks, Takuma. I’m the queen, I’ve gotta\nkeep my cool!"
 		},
 		{
 			"key":"EP09_S4023_0040",
-			"value":"ウチ、やるよ\nタクマさん、シャコモン、行こう！"
+			"value":"I can do this. Takuma, Syakomon. Let’s go!"
 		},
 		{
 			"key":"EP09_S4023_0041",
-			"value":"ええ！"
+			"value":"Roger!"
 		},
 		{
 			"key":"EP09_S4023_0042",
-			"value":"消えたあの子の為にも頑張ろう"
+			"value":"Work for the fallen."
 		},
 		{
 			"key":"EP09_S4023_0043",
-			"value":"ミウ、泣かないで\n他の子たちも探さないと"
+			"value":"Don’t cry, Miu. We have to look for the other\nlittle ones out there."
 		},
 		{
 			"key":"EP09_S4023_0044",
-			"value":"消えたあの子の為にも頑張ろう"
+			"value":"Work for the fallen."
 		},
 		{
 			"key":"EP09_S4023_0045",
-			"value":"消えた……う、うぅ……"
+			"value":"The fallen ones... *sniff*..."
 		},
 		{
 			"key":"EP09_S4023_0046",
-			"value":"うわぁぁぁん！\nウチのせいだぁぁ……！"
+			"value":"WAAAAAAH! It’s all my faaault...!"
 		},
 		{
 			"key":"EP09_S4023_0047",
-			"value":"タクマ！　思い出させるようなこと言わないで！"
+			"value":"Takuma! Don’t say stuff that makes her think\nabout it more!"
 		},
 		{
 			"key":"EP09_S4023_0048",
-			"value":"（しまった。言い方が悪かったか）"
+			"value":"(Shoot. Bad choice of words.)"
 		},
 		{
 			"key":"EP09_S4023_0049",
-			"value":"み、ミウのせいじゃないよ！\n大丈夫、他の子たちは助けられる！"
+			"value":"I, I’m not saying it’s your fault! Don’t\nworry, we’ll save the others!"
 		},
 		{
 			"key":"EP09_S4023_0050",
-			"value":"ぐすっ、ぐすっ……そ、そう、だよね\n絶対、助けなきゃ……"
+			"value":"*sob* *sniff*... Yeah, you’re right. We’ll\nsave them for sure..."
 		},
 		{
 			"key":"EP09_S4023_0051",
-			"value":"手を動かせ\nそうしたら考えなくて済む"
+			"value":"Just keep moving. That’ll get your mind off\nof things."
 		},
 		{
 			"key":"EP09_S4023_0052",
-			"value":"わ、わかった"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP09_S4023_0053",
-			"value":"（ふぅ、よかった。落ち着いてくれた）"
+			"value":"(Whew, okay. That seemed to calm her down.)"
 		},
 		{
 			"key":"EP09_S4023_0054",
-			"value":"タクマさん、ウチ少しでも多くの子たちを助けたい！\nだから、頑張るね！"
+			"value":"I want to save as many as we can, Takuma. I’m\ngonna kick it up a notch!"
 		},
 		{
 			"key":"EP09_S4023_0055",
-			"value":"ああ、頼んだぞミウ"
+			"value":"Great. It’s all you, Miu."
 		},
 		{
 			"key":"EP09_S4023_0056",
-			"value":"ウチ、もうちょっとこの辺探してみる\nタクマさんは他のとこ見てきて"
+			"value":"I’m gonna look around here a bit longer. You\nshould check somewhere else, Takuma."
 		}
 	]
 }

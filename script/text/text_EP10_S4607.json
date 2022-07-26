@@ -2,251 +2,251 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S4607_0001",
-			"value":"ぐっ……う、うう、うわあああ！？"
+			"value":"Ugh... Ah, UWAHHH!"
 		},
 		{
 			"key":"EP10_S4607_0002",
-			"value":"タクマ！　教授がいるよ！"
+			"value":"Takuma! The professor’s here!"
 		},
 		{
 			"key":"EP10_S4607_0003",
-			"value":"幻を見せられているのか！？"
+			"value":"Is he seeing some sort of illusion?!"
 		},
 		{
 			"key":"EP10_S4607_0004",
-			"value":"違う、違う、私は……見捨ててなど……！\n私は！！"
+			"value":"No, no I...I didn’t... I didn’t abandon\nher...!"
 		},
 		{
 			"key":"EP10_S4607_0005",
-			"value":"教授！\nしっかりしてください、教授！！"
+			"value":"Professor! Come on, snap out of it,\nProfessor!"
 		},
 		{
 			"key":"EP10_S4607_0006",
-			"value":"……！！"
+			"value":"Hah!"
 		},
 		{
 			"key":"EP10_S4607_0007",
-			"value":"はぁっ、はぁっ、はぁっ……！"
+			"value":"*huff* *huff* *huff*...!"
 		},
 		{
 			"key":"EP10_S4607_0008",
-			"value":"教授、すごい汗だぞ\n大丈夫？"
+			"value":"You’re drenched in sweat, Professor. Are you\nokay?"
 		},
 		{
 			"key":"EP10_S4607_0009",
-			"value":"大丈夫……大丈夫だ\nすまない、取り乱した"
+			"value":"I’m...I’m all right. I just lost my head for\na moment there."
 		},
 		{
 			"key":"EP10_S4607_0010",
-			"value":"幻を見ていた\nいや、幻というには作為的な内容だった"
+			"value":"I saw an illusion... Although the subject of\nsaid illusion seemed quite deliberate."
 		},
 		{
 			"key":"EP10_S4607_0011",
-			"value":"あれは幻ではない……\n意図して創り出されたものだ"
+			"value":"Instead of an illusion, I’d say it was\nsomething crafted with intention."
 		},
 		{
 			"key":"EP10_S4607_0012",
-			"value":"苦しめ、弱らせることが目的なのか？\n心を追い詰め、しかし壊さないようにしている？"
+			"value":"Perhaps to harm me, or weaken me? Drive me\ninto a corner, without breaking me?"
 		},
 		{
 			"key":"EP10_S4607_0013",
-			"value":"子供たちだけでなく私にも見せようとしたのは……\nその理由は……"
+			"value":"To think that I would be shown such a thing\nas well... What could the reason be?"
 		},
 		{
 			"key":"EP10_S4607_0014",
-			"value":"（教授……冷静だけど、どこか弱々しいな\n　疲れ切っているみたいだ）"
+			"value":"(The professor...seems composed, but a bit\nfrail, too. He must be exhausted.)"
 		},
 		{
 			"key":"EP10_S4607_0015",
-			"value":"（落ち着こうとして考えを巡らせているのかな\n　それとも考えることで自分を追い詰めている……？）"
+			"value":"(Is he pondering this to calm himself down?\nOr is all this thinking making things worse?)"
 		},
 		{
 			"key":"EP10_S4607_0016",
-			"value":"（どうしよう……止めた方がいいのかな）"
+			"value":"(Hmm... Maybe I should stop him?)"
 		},
 		{
 			"key":"EP10_S4607_Q1",
-			"value":"（考え込む教授に対して、僕は……）"
+			"value":"(What should I do for him...)"
 		},
 		{
 			"key":"EP10_S4607_Q1_A1",
-			"value":"考えを聞き出そう"
+			"value":"Hear him out."
 		},
 		{
 			"key":"EP10_S4607_Q1_A2",
-			"value":"今は見守ろう"
+			"value":"Watch and wait."
 		},
 		{
 			"key":"EP10_S4607_Q1_A3",
-			"value":"休むように言おう"
+			"value":"Tell him to chill."
 		},
 		{
 			"key":"EP10_S4607_0017",
-			"value":"教授にも幻が見えたのが\nそんなに変なことなんですか？"
+			"value":"Was the illusion you saw that strange,\nProfessor?"
 		},
 		{
 			"key":"EP10_S4607_0018",
-			"value":"ただ単に、図書館に入った者全員に\n見える幻だったってことなんじゃ……"
+			"value":"It wasn’t the one we were all shown in the\nlibrary, was it?"
 		},
 		{
 			"key":"EP10_S4607_0019",
-			"value":"その可能性はある\nだが、気になることもある"
+			"value":"It may have been, but something about it\nbothered me."
 		},
 		{
 			"key":"EP10_S4607_0020",
-			"value":"私は子供ではないし\nケモノガミも連れていない"
+			"value":"I’m not one of you children. I don’t have\na Kemonogami with me."
 		},
 		{
 			"key":"EP10_S4607_0021",
-			"value":"敵にとっては要らない、邪魔なだけの\n存在だと思っていたんだが……"
+			"value":"The enemy shouldn’t care about me; if\nanything, I should just be a nuisance..."
 		},
 		{
 			"key":"EP10_S4607_0022",
-			"value":"だったら、私を図書館に入れず\n分断した時に排除すればいい"
+			"value":"So when they kept me out of the library, they\nshould’ve just removed me from the equation."
 		},
 		{
 			"key":"EP10_S4607_0023",
-			"value":"排除……って"
+			"value":"Removed you...?"
 		},
 		{
 			"key":"EP10_S4607_0024",
-			"value":"つまり、殺せばいいということだ"
+			"value":"Put bluntly, they should have killed me."
 		},
 		{
 			"key":"EP10_S4607_0025",
-			"value":"だが、敵はそうはしなかった"
+			"value":"And yet the enemy did no such thing."
 		},
 		{
 			"key":"EP10_S4607_0026",
-			"value":"つまり、私も生け贄足りえるのか？\nそれとももっと別の理由が……？"
+			"value":"Does that mean they see me as a potential\nsacrifice? Or is there some other reason...?"
 		},
 		{
 			"key":"EP10_S4607_0027",
-			"value":"教授……"
+			"value":"Professor..."
 		},
 		{
 			"key":"EP10_S4607_0028",
-			"value":"（教授なりに落ち着こうとしているのかもしれない\n　今は少し、見守ろう）"
+			"value":"(He must be trying to calm himself down, in\nhis own way. I’ll wait and see.)"
 		},
 		{
 			"key":"EP10_S4607_0029",
-			"value":"私は敵にとっては要らない、邪魔なだけの\n存在だと思っていた……"
+			"value":"The enemy shouldn’t care about me. If\nanything, I should just be a nuisance..."
 		},
 		{
 			"key":"EP10_S4607_0030",
-			"value":"だがそれなら、私を図書館に入れず\n分断した時に排除すればいい"
+			"value":"But then they could’ve just killed me when\nthey kept me from entering the library..."
 		},
 		{
 			"key":"EP10_S4607_0031",
-			"value":"だが、敵はそうはしなかった"
+			"value":"And yet the enemy did no such thing."
 		},
 		{
 			"key":"EP10_S4607_0032",
-			"value":"つまり、私も生け贄足りえるのか？\nそれとももっと別の理由が……？"
+			"value":"Does that mean they see me as a potential\nsacrifice? Or is there some other reason...?"
 		},
 		{
 			"key":"EP10_S4607_0033",
-			"value":"教授……"
+			"value":"Professor..."
 		},
 		{
 			"key":"EP10_S4607_0034",
-			"value":"教授、休みましょう\n頭を動かしたら余計に疲れが溜まります"
+			"value":"Take a breather, Professor. You’ll just tire\nyourself out thinking about it nonstop."
 		},
 		{
 			"key":"EP10_S4607_0035",
-			"value":"あ、ああ……すまない"
+			"value":"Ah, right you are... Pardon my outburst."
 		},
 		{
 			"key":"EP10_S4607_0036",
-			"value":"タクマくんの一言で大分落ち着いたよ\n大人が子供に頼って、情けない限りだが"
+			"value":"Your words have put me at ease, Takuma. As an\nadult, I feel a bit ashamed to rely on you."
 		},
 		{
 			"key":"EP10_S4607_0037",
-			"value":"そんなことありません\n誰だって動転します"
+			"value":"C’mon, don’t say that. We all lose our heads\nfrom time to time."
 		},
 		{
 			"key":"EP10_S4607_0038",
-			"value":"君だって幻を見せられたのだろうに\nタクマくんは強いな"
+			"value":"You saw your own illusion, didn’t you? You’re\na strong kid, Takuma."
 		},
 		{
 			"key":"EP10_S4607_0039",
-			"value":"タクマくん\n君には既に、少し話しているが"
+			"value":"Takuma. I know I’ve mentioned it before..."
 		},
 		{
 			"key":"EP10_S4607_0040",
-			"value":"ミユキが私の姉であること\nハルが昔の私の姿をしていること"
+			"value":"About Miyuki being my sister, and Haru taking\non my appearance in my youth."
 		},
 		{
 			"key":"EP10_S4607_0041",
-			"value":"私は今まで、それらが元の世界に戻るために\n必要のない情報だと……"
+			"value":"I had deemed this information unnecessary for\nreturning to our world..."
 		},
 		{
 			"key":"EP10_S4607_0042",
-			"value":"むしろみんなに余計な気苦労を\nかけるだけだと思い込み、言葉を濁してきた"
+			"value":"Rather, I felt it too burdensome of a truth\nfor you all, and thus avoided the subject."
 		},
 		{
 			"key":"EP10_S4607_0043",
-			"value":"（……ジジモンが言うには、ミユキに声を届けても\n　それは対症療法、その場しのぎでしかない）"
+			"value":"(Jijimon said it himself... That calling out\nto Miyuki is a stopgap measure at best.)"
 		},
 		{
 			"key":"EP10_S4607_0044",
-			"value":"（いずれミユキを倒さねばならない……\n　それが本当なら）"
+			"value":"(Sooner or later, we’ll have to defeat her.\nIf that’s true...)"
 		},
 		{
 			"key":"EP10_S4607_0045",
-			"value":"（教授とミユキが姉弟だという情報は\n　確かにみんなへ迷いを生ませるだろうな）"
+			"value":"(Then the knowledge that they’re siblings\nwould cause everyone to hesitate.)"
 		},
 		{
 			"key":"EP10_S4607_0046",
-			"value":"だが、その思い込みは間違っているかもしれない"
+			"value":"Still, my assumption may have been misguided."
 		},
 		{
 			"key":"EP10_S4607_0047",
-			"value":"レナモンの憎悪も、レナモンが主についたことも\n恐らく私の過去と関わりがある"
+			"value":"Renamon’s hatred, and the alliance with the\nMaster, may be related to my past."
 		},
 		{
 			"key":"EP10_S4607_0048",
-			"value":"すべてを救うカギがミユキであるならば\n私の事情も、もう無関係でいられるはずがなかったんだ"
+			"value":"If Miyuki is the key to saving everything,\nthen my circumstances are of no consequence."
 		},
 		{
 			"key":"EP10_S4607_0049",
-			"value":"だから、無事にこの図書館を脱出できたら\n全てをみんなに打ち明けようと思う"
+			"value":"That’s why if we get out of this library\nsafely, I want to tell everyone everything."
 		},
 		{
 			"key":"EP10_S4607_0050",
-			"value":"私について、私の姉について\n最初から、全てを"
+			"value":"About me, my sister... Everything, from the\nvery beginning."
 		},
 		{
 			"key":"EP10_S4607_0051",
-			"value":"教授……思い出せたんですね"
+			"value":"Professor... You’ve remembered, then?"
 		},
 		{
 			"key":"EP10_S4607_0052",
-			"value":"ああ、そうだ"
+			"value":"Yes, indeed I have."
 		},
 		{
 			"key":"EP10_S4607_0053",
-			"value":"今まで黙っていてくれてありがとう\nそして、すまなかった"
+			"value":"You have my thanks for keeping mum up to now.\nI’m sorry for putting you in that position."
 		},
 		{
 			"key":"EP10_S4607_0054",
-			"value":"まずは全員で拠点まで、無事に戻ろう"
+			"value":"But first, we must get everyone back to base\nin one piece."
 		},
 		{
 			"key":"EP10_S4607_0055",
-			"value":"わかりました"
+			"value":"All right."
 		},
 		{
 			"key":"EP10_S4607_0056",
-			"value":"もうみんなの居所はわかっています\n後は全員で脱出するだけです！"
+			"value":"We know where everyone is. All we have to do\nnow is escape together!"
 		},
 		{
 			"key":"EP10_S4607_0057",
-			"value":"そのためにも捜索を手伝ってください\nまだ見つかっていない人がいるんです"
+			"value":"We still don’t know where everyone is. Let me\nhelp you track them down."
 		},
 		{
 			"key":"EP10_S4607_0058",
-			"value":"ああ、わかった\n全力を尽くそう"
+			"value":"Yes, by all means. Let’s give it everything\nwe’ve got."
 		}
 	]
 }

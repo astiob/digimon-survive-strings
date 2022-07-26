@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0904_0001",
-			"value":"ミノル……？\nいない、のか……？"
+			"value":"Minoru? You here...?"
 		},
 		{
 			"key":"EP01_S0904_0002",
-			"value":"ファルコモンもいないよ……\nさらわれちゃったのかな……？"
+			"value":"I don’t see him, or Falcomon... Were they\nkidnapped too?"
 		},
 		{
 			"key":"EP01_S0904_0003",
-			"value":"まさか、アオイさんをさらったのと同じヤツか……？"
+			"value":"You don’t think the same thing that took Aoi\ngot them, too?"
 		},
 		{
 			"key":"EP01_S0904_0004",
-			"value":"多分……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP01_S0904_0005",
-			"value":"くそっ！　二人一緒なら大丈夫って油断してた！"
+			"value":"Damn, I was careless! I thought they’d be\nokay if they stuck together!"
 		},
 		{
 			"key":"EP01_S0904_0006",
-			"value":"（足跡は、食堂の真ん中で不自然に途絶えてる\n　ここでさらわれたのか……？）"
+			"value":"(Their tracks stop suddenly in the middle of\nthe cafeteria... Were they taken from here?)"
 		},
 		{
 			"key":"EP01_S0904_0007",
-			"value":"（争ったような跡もない\n　まるで、一瞬のうちに連れ去られたみたいな……）"
+			"value":"(I don’t see any sign of a struggle. It’s\nlike they were snatched up in an instant...)"
 		},
 		{
 			"key":"EP01_S0904_0008",
-			"value":"敵は、いったいなんなんだ……\nどうすればいいんだ……"
+			"value":"What’s with this enemy...? What can we do\nagainst it?"
 		},
 		{
 			"key":"EP01_S0904_0009",
-			"value":"タクマ！　しっかりして！"
+			"value":"Don’t be sad, Takuma!"
 		},
 		{
 			"key":"EP01_S0904_0010",
-			"value":"大丈夫！　ボク、もっと気をつける！\nだから急いでみんな助けよう！"
+			"value":"It’s okay, I’ll keep my eyes peeled wide\nopen! So c’mon, let’s go and save everyone!"
 		},
 		{
 			"key":"EP01_S0904_0011",
-			"value":"アグモン……"
+			"value":"Agumon..."
 		},
 		{
 			"key":"EP01_S0904_0012",
-			"value":"そうだな……助け出そう！"
+			"value":"You’re right... We’ll save them!"
 		}
 	]
 }

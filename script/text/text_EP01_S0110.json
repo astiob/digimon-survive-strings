@@ -2,235 +2,235 @@
     "scenario_text": [
         {
             "key": "EP01_S0110_0101",
-            "value": "（課外キャンプ、かぁ……）"
+            "value": "(So this is camp, huh?)"
         },
         {
             "key": "EP01_S0110_0002",
-            "value": "（キャンプと言っても、テントを張るとかじゃなくて\n　山奥の使われなくなった学校を再利用した施設だ）"
+            "value": "(I say “camp,” but we’re holed up in an\nabandoned school in the mountains here.)"
         },
         {
             "key": "EP01_S0110_0003",
-            "value": "（学校が休みなのに学校に来ているってのも\n　おかしな感覚だよな……）"
+            "value": "(Leave it to us to spend our school break\ngoing to another school...)"
         },
         {
             "key": "EP01_S0110_0004",
-            "value": "（しかも、いつも通ってる学校とは違う、\n　全然知らない学校にだ）"
+            "value": "(Not that this school is anything like the\none we usually go to.)"
         },
         {
             "key": "EP01_S0110_0102",
-            "value": "（しかも、いつも通ってる学校とは違う、\n　全然知らない学校にだ）"
+            "value": "(Not that this school is anything like the\none we usually go to.)"
         },
         {
             "key": "EP01_S0110_0103",
-            "value": "よぉタクマ！　今日は<color=#B41919>史跡</color>巡りだっけ？\nあんま面白くなさそうだよなー"
+            "value": "‘Sup, Takuma! Today we’re checking out that\ncrusty old <color=#B41919>landmark</color>? Sounds laaame..."
         },
         {
             "key": "EP01_S0110_0104",
-            "value": "ミノル……まぁ、そう言うなよ\n僕も同感だけど"
+            "value": "Come on, don’t say that, Minoru!\nNot like I disagree, but still."
         },
         {
             "key": "EP01_S0110_0105",
-            "value": "こら、二人とも。そんなこと言っては駄目よ\n遊びに来たんじゃない、って言われたでしょう？"
+            "value": "Hey, you two, don’t talk like that! I told\nyou we weren’t here for fun and games."
         },
         {
             "key": "EP01_S0110_0106",
-            "value": "はーい、アオイさんごめんなさーい"
+            "value": "Yeah, yeah, sooo sorry, your Highness."
         },
         {
             "key": "EP01_S0110_0107",
-            "value": "も～、またそうやってふざけて……"
+            "value": "*sigh* Again with that kind of talk..."
         },
         {
             "key": "EP01_S0110_0008",
-            "value": "（この、調子のいいヤツがミノル、\n　生真面目な女の子がアオイさん）"
+            "value": "(That knucklehead over there is Minoru,\nand the girl lecturing him is Aoi.)"
         },
         {
             "key": "EP01_S0110_0109",
-            "value": "（ミノルとは元々、学校で話をする程じゃなかったし、\n　アオイさんはおとなしいけど、違う学校の上級生だ）"
+            "value": "(I didn’t talk to him much at school. Aoi’s\ncool, she came here from a different school.)"
         },
         {
             "key": "EP01_S0110_0010",
-            "value": "（だから、仲良くなったのはこのキャンプで\n　主にミノルが積極的に話しかけてたからだけど）"
+            "value": "(We got to know each other more here at camp,\nand that’s mostly thanks to Minoru.)"
         },
         {
             "key": "EP01_S0110_0011",
-            "value": "（僕たちはこの三人で固まって、\n　課外学習を回るようになったんだ）"
+            "value": "(The three of us ended up doing our\nextracurricular activities together.)"
         },
         {
             "key": "EP01_S0110_Q1",
-            "value": "（まずはどうしようかな？）"
+            "value": "(Maybe I should break things up here...)"
         },
         {
             "key": "EP01_S0110_Q1_A1",
-            "value": "ひとまず様子を窺うか"
+            "value": "I’ll check things out."
         },
         {
             "key": "EP01_S0110_Q1_A2",
-            "value": "アオイさんにコースを聞こうかな"
+            "value": "Ask Aoi about our plan."
         },
         {
             "key": "EP01_S0110_0112",
-            "value": "ミノルは大丈夫かな？"
+            "value": "Is Minoru all right?"
         },
         {
             "key": "EP01_S0110_0012",
-            "value": "ほら、ちゃんと今日のコースのおさらいをしないと\nまた迷子になっちゃいますよ？"
+            "value": "You’d better review today’s course, or you’ll\nend up getting lost again."
         },
         {
             "key": "EP01_S0110_0013",
-            "value": "迷子って、アオイさんさ～！\nオレ、もう子供じゃないんだぜ？"
+            "value": "Why you treating me like a little kid here?!\nI ain’t gonna go crying to mama, you know!"
         },
         {
             "key": "EP01_S0110_0014",
-            "value": "（ほら、こうして上級生相手に気軽に話し掛けて\n　まあ、アオイさんもアオイさんで怒んないしな）"
+            "value": "(Well to her, he must look like a kid. Still,\nAoi’s pretty patient with that mouth of his.)"
         },
         {
             "key": "EP01_S0110_0113",
-            "value": "（ほら、こうして上級生相手に気軽に話し掛けて\n　まあ、アオイさんもアオイさんで怒んないしな）"
+            "value": "(Well to her, he must look like a kid. Still,\nAoi’s pretty patient with that mouth of his.)"
         },
         {
             "key": "EP01_S0110_0015",
-            "value": "（おとなしいし、可愛いし……\n　だからつい僕も、先輩って事を忘れてしまう）"
+            "value": "(Calm, gentle and cute to boot... Even\nI forget about the age difference sometimes.)"
         },
         {
             "key": "EP01_S0110_0016",
-            "value": "（しかも下級生相手にも優しく丁寧だし……\n　ある意味じゃミノルと噛み合ってるって事か）"
+            "value": "(She doesn’t get annoyed by the younger kids,\nwhich makes her a perfect match for Minoru.)"
         },
         {
             "key": "EP01_S0110_0114",
-            "value": "アオイさんにコースを聞いてみよう"
+            "value": "I’ll ask Aoi about the course."
         },
         {
             "key": "EP01_S0110_0115",
-            "value": "アオイさん、今日ってどういうコースになるんだっけ？\nまず桜並木だよね？"
+            "value": "What’s today’s route, Aoi? We’re starting at\nthe cherry blossom trees, right?"
         },
         {
             "key": "EP01_S0110_0017",
-            "value": "……今日はそれと、ここ、それにここもかしら\nミノルくんはキャンプの趣旨、ちゃんとわかってます？"
+            "value": "...Today we’re going here, and then I think\nover here. And do you know why, Minoru?"
         },
         {
             "key": "EP01_S0110_0018",
-            "value": "ああ、この土地に伝わる伝承とか土着信仰とか？\n何か独自な物があって面白いんだってね～"
+            "value": "Something about local legends or religion,\nright? They say there’s some weird stuff!"
         },
         {
             "key": "EP01_S0110_0019",
-            "value": "まー、オレにはそこまで面白くはないけどな！\nいいんですよ、野山でのびのび羽を伸ばせればさあ！"
+            "value": "Not that it matters to me! I’m just here for\nfun in the sun!"
         },
         {
             "key": "EP01_S0110_0020",
-            "value": "も～……！　タクマくんだけが頼りよ？\nミノルくんの舵を取って下さいね？"
+            "value": "*sigh* You’re the only one I can rely on,\nTakuma. Keep an eye on him, would you?"
         },
         {
             "key": "EP01_S0110_0021",
-            "value": "いや、僕もミノルの保護者ってわけじゃないし"
+            "value": "I’m not Minoru’s babysitter over here..."
         },
         {
             "key": "EP01_S0110_0022",
-            "value": "あーっ！"
+            "value": "Oh, WOW!"
         },
         {
             "key": "EP01_S0110_0023",
-            "value": "ん、どうしたんだ？"
+            "value": "Huh? What is it?"
         },
         {
             "key": "EP01_S0110_0200",
-            "value": "（ミノルが携帯を見て何かに気付いたみたいだ）"
+            "value": "(Looks like Minoru’s noticed something on his\nphone.)"
         },
         {
             "key": "EP01_S0110_0024",
-            "value": "ほら、まただよ！\nまた落石事故のニュース！"
+            "value": "Check it out! There's another story about a rockslide!"
         },
         {
             "key": "EP01_S0110_0025",
-            "value": "ああ、ここのところ連日よね……\n大丈夫かしら？　大きな地震の前触れだと恐いわね……"
+            "value": "That’s several days in a row, now. I hope it\ndoesn’t mean an earthquake’s coming..."
         },
         {
             "key": "EP01_S0110_0026",
-            "value": "いやそれもだけどさあ、ちゃんと見てよ\nこれ、今日見学に行くところの近所だよ？"
+            "value": "Not just that, but look here. Isn’t this\nclose to where we’re supposed to go today?"
         },
         {
             "key": "EP01_S0110_0027",
-            "value": "あら、本当だわ……？\n今日の予定は大丈夫なのかしら？"
+            "value": "Wait, really? I wonder if our plans for the\nday are still on?"
         },
         {
             "key": "EP01_S0110_0028",
-            "value": "（他の参加者たちも、そのニュースの情報を\n　誰かが回したのか少しザワついている）"
+            "value": "(You can feel the tension in the air around\nhere. Someone must have shared the news.)"
         },
         {
             "key": "EP01_S0110_0029",
-            "value": "はい！　皆さん落ち着いて！\n大丈夫です、大丈夫ですから！"
+            "value": "All right, everyone, CALM DOWN!\nEverything’s going to be JUST FINE!"
         },
         {
             "key": "EP01_S0110_0030",
-            "value": "何か問題がある際には先生から\nちゃんと指示がありますから！　落ち着いて下さい！"
+            "value": "All the teachers have CLEAR INSTRUCTIONS for\ndealing with ANY emergency!"
         },
         {
             "key": "EP01_S0110_0031",
-            "value": "ホラ、アレ見てよ\nシュウジさんさー"
+            "value": "Ho boy, there goes Shuuji again."
         },
         {
             "key": "EP01_S0110_0032",
-            "value": "本人の声が一番デカいし\n全然落ち着いてないもんなー"
+            "value": "His voice is the loudest of all. He’s the one\nwho needs to take a chill pill."
         },
         {
             "key": "EP01_S0110_0033",
-            "value": "ちょっと、悪いでしょ？\nそんな言い方しちゃ……"
+            "value": "Come on now, don’t talk about him like that."
         },
         {
             "key": "EP01_S0110_0034",
-            "value": "でも、逆に冷静になれるよ\nあの人の態度見てると"
+            "value": "Well, I guess seeing someone that freaked out\nmakes you feel calmer by comparison, right?"
         },
         {
             "key": "EP01_S0110_0035",
-            "value": "それは、少しはわかるけど"
+            "value": "...You might have a point."
         },
         {
             "key": "EP01_S0110_0116",
-            "value": "（シュウジさんはアオイさんの学校のOBで、\n　ここには引率の手伝いで来ている）"
+            "value": "(Shuuji is an alumnus of Aoi’s school, so he\ncame to help chaperone.)"
         },
         {
             "key": "EP01_S0110_0117",
-            "value": "（初めて会ったのは昨日だけど、気負いすぎているのか\n　空回りしている印象だ……）"
+            "value": "(We just met yesterday, but I get the feeling\nhis “enthusiasm” hurts more than it helps...)"
         },
         {
             "key": "EP01_S0110_0044",
-            "value": "安全確保に関しては先生方や保護者の皆さんで、\nちゃんとやってくれている筈だし、大丈夫だから！"
+            "value": "The teachers and chaperones are ensuring our\nsafety, so there is NOTHING to WORRY ABOUT!"
         },
         {
             "key": "EP01_S0110_0045",
-            "value": "本日の目的地の<color=#B41919>史跡</color>へ、さあ向かいましょう！"
+            "value": "Fear not, fellow students! Our destination is\nthis historic <color=#B41919>landmark</color>. OFF WE GO!"
         },
         {
             "key": "EP01_S0110_0049",
-            "value": "あ～あ、まーだやってるよ\nシュウジさんもマジメ過ぎるんだよねぇ……"
+            "value": "There he goes, at it again! That Shuuji is\ntoo straight-laced for his own good..."
         },
         {
             "key": "EP01_S0110_0050",
-            "value": "２つも年上の高校生に\n失礼なこと言わないの"
+            "value": "Is that any way to talk about someone two\nyears older than you?"
         },
         {
             "key": "EP01_S0110_0051",
-            "value": "は～い、アオイさん"
+            "value": "Right you are, my little Aoi!"
         },
         {
             "key": "EP01_S0110_0052",
-            "value": "ミノルくんは私が上級生ってことも\n忘れてはいないかしら？"
+            "value": "And do I have to remind you, Minoru, that I’m\nactually in a grade above yours?"
         },
         {
             "key": "EP01_S0110_0053",
-            "value": "アオイさんも、\nオレが下級生ってこと忘れてない？"
+            "value": "I mean, shouldn’t you act like it then,\nor something?"
         },
         {
             "key": "EP01_S0110_0054",
-            "value": "もっとさー、こう……コラー！　ってさ\n上級生風吹かせて叱ったりしてみようぜ？"
+            "value": "You should be more of a nag, like...\n“I told you to knock that off!”"
         },
         {
             "key": "EP01_S0110_0055",
-            "value": "そんなの、私にできるわけがないでしょう？\nさあ、私たちも行きましょうね、タクマくんも"
+            "value": "Does that sound like something I would say?\nLet’s go before we’re left behind. Takuma?"
         },
         {
             "key": "EP01_S0110_0056",
-            "value": "そーだな\n行こうぜ、タクマ"
+            "value": "Yeah, c’mon, Takuma! Let’s hit it!"
         }
     ]
 }

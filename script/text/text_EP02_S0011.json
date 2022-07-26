@@ -2,143 +2,143 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0011_0005",
-			"value":"タクマ"
+			"value":"Takuma?"
 		},
 		{
 			"key":"EP02_S0011_0006",
-			"value":"うわぁっ！？"
+			"value":"Whoa!!!"
 		},
 		{
 			"key":"EP02_S0011_0007",
-			"value":"って、アグモンか……\nおどかさないでくれよ……"
+			"value":"Oh, it’s just Agumon...\nDon’t sneak up on me like that!"
 		},
 		{
 			"key":"EP02_S0011_0008",
-			"value":"タクマが起きたの見えたからついてきたんだ！"
+			"value":"I saw you get up and followed you!"
 		},
 		{
 			"key":"EP02_S0011_0009",
-			"value":"タクマはなにしてたんだ？"
+			"value":"What were you up to?"
 		},
 		{
 			"key":"EP02_S0011_0010",
-			"value":"何ってことはないけど……\nただ、昨日は大変な一日だったなって思ってたんだ"
+			"value":"Nothing special. It’s just that yesterday was\npretty intense."
 		},
 		{
 			"key":"EP02_S0011_0011",
-			"value":"僕たちは課外キャンプに来ただけなのに\nいきなり岩みたいなバケモノに襲われて"
+			"value":"We just wanted to go camping and this rock\ncreature attacked us."
 		},
 		{
 			"key":"EP02_S0011_0012",
-			"value":"ゴツモンだ！"
+			"value":"Gotsumon!"
 		},
 		{
 			"key":"EP02_S0011_0013",
-			"value":"そう、ゴツモンに襲われて、なんとか逃げたと思ったら\n校舎はデカい蜘蛛のバケモノのアジトになってて"
+			"value":"Yeah, Gotsumon attacked. We got away, \nbut this school was a spider creature’s lair!"
 		},
 		{
 			"key":"EP02_S0011_0014",
-			"value":"ドクグモンだな！"
+			"value":"Dokugumon!"
 		},
 		{
 			"key":"EP02_S0011_0015",
-			"value":"次から次へとワケのわからないことばかりで\n頭がついていかなかったよ"
+			"value":"It was all so confusing!\nI couldn’t keep up with it all."
 		},
 		{
 			"key":"EP02_S0011_0016",
-			"value":"そ～お？　タクマはがんばってたと思うぞ？"
+			"value":"Really? I thought you did great!"
 		},
 		{
 			"key":"EP02_S0011_0017",
-			"value":"必死だっただけだよ。さらわれた仲間を助けられたのは\nハルの協力があったからだし"
+			"value":"It was touch and go. It was Haru who helped\nme save everyone who was captured."
 		},
 		{
 			"key":"EP02_S0011_0018",
-			"value":"ふふふ。みんなビックリしてたな\nオバケじゃなかったのに"
+			"value":"Heheheh. It must have been a shock, even\nthough they weren’t monsters."
 		},
 		{
 			"key":"EP02_S0011_0019",
-			"value":"あれはしょうがないだろ\n二人と会った時は僕だって驚いたよ"
+			"value":"What could we do? Heck, I was surprised when\nI met you two."
 		},
 		{
 			"key":"EP02_S0011_0020",
-			"value":"昨日は結局疲れてすぐ寝ちゃったけど\n考えなきゃいけないことはたくさんあるよな"
+			"value":"We were exhausted yesterday, but there’s\na lot to think about."
 		},
 		{
 			"key":"EP02_S0011_0021",
-			"value":"考えなきゃいけないこと、ってなんだ？"
+			"value":"Think about? Like what?"
 		},
 		{
 			"key":"EP02_S0011_Q1",
-			"value":"（いま考えるべきことは……）"
+			"value":"(Right now, we should think about...)"
 		},
 		{
 			"key":"EP02_S0011_Q1_A1",
-			"value":"みんなの安全を確保しなきゃ"
+			"value":"Keeping everyone safe."
 		},
 		{
 			"key":"EP02_S0011_Q1_A2",
-			"value":"次の戦いに備えるべきだ！"
+			"value":"The next fight!"
 		},
 		{
 			"key":"EP02_S0011_Q1_A3",
-			"value":"今の状況を把握しなきゃ"
+			"value":"What’s happening here."
 		},
 		{
 			"key":"EP02_S0011_0022",
-			"value":"まずはみんなの安全を確保しなきゃいけないよな\nドクグモンみたいな相手がいつ出てくるかわからないし"
+			"value":"Let’s start with how to protect ourselves.\nOthers like Dokugumon could attack again."
 		},
 		{
 			"key":"EP02_S0011_0023",
-			"value":"そうだな。ああいうアブナイやつは他にもいるぞ"
+			"value":"Yeah. And there are other dangerous ones."
 		},
 		{
 			"key":"EP02_S0011_0024",
-			"value":"とにかく安心して休める場所が必要なんだ\nこの校舎を拠点にできればいいんだけど……"
+			"value":"We need somewhere to rest quietly.\nThe school would have been perfect but..."
 		},
 		{
 			"key":"EP02_S0011_0025",
-			"value":"ドクグモンみたいなヤツが他にもいるなら\n自分の身を守る方法を考えなきゃいけないよな"
+			"value":"If Dokugumon is not the only one, we need to\nfigure out some protection."
 		},
 		{
 			"key":"EP02_S0011_0026",
-			"value":"戦うならボクにまかせて！"
+			"value":"Leave the fighting to me!"
 		},
 		{
 			"key":"EP02_S0011_0027",
-			"value":"ありがとう、アグモン\n僕自身も強くなる方法を考えてみるよ"
+			"value":"Thanks, Agumon! I’ll also think about how to\nmake myself stronger."
 		},
 		{
 			"key":"EP02_S0011_0028",
-			"value":"今なにが起きてるのか、僕たちはどうなってるのか\nそれをちゃんと知らないと助からないと思うんだ"
+			"value":"Unless we know what’s happening, we won’t be\nany help to anyone."
 		},
 		{
 			"key":"EP02_S0011_0029",
-			"value":"そうだな。でも、どうすればいいんだ？"
+			"value":"Right, but what are we supposed to do?"
 		},
 		{
 			"key":"EP02_S0011_0030",
-			"value":"そこなんだよなー。僕一人じゃ方法も思いつかないから\nみんなにも協力してほしいんだけど……"
+			"value":"Exactly. I can’t think of anything myself,\nbut if we all put our heads together..."
 		},
 		{
 			"key":"EP02_S0011_0031",
-			"value":"あとは、救助を待つ間ここで生活することを考えると\n食料とかお風呂とか寝る場所とか……"
+			"value":"We also need to figure out food and shelter\nwhile we wait for the professor..."
 		},
 		{
 			"key":"EP02_S0011_0032",
-			"value":"う～ん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP02_S0011_0033",
-			"value":"タクマ～？　だいじょぶか？"
+			"value":"Takuma? You okay?"
 		},
 		{
 			"key":"EP02_S0011_0034",
-			"value":"はぁ……やっぱり僕一人で考えててもしょうがないな\nみんなにも相談しよう"
+			"value":"*sigh* I’m not coming up with anything.\nLet’s ask everyone."
 		},
 		{
 			"key":"EP02_S0011_0035",
-			"value":"お～う！　そうしよ～！"
+			"value":"You got it! Let’s do that!"
 		}
 	]
 }

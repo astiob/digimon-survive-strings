@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1824_0001",
-			"value":"あ、タクマ、シュウジとロップモンがいるぞ！"
+			"value":"Oh, look, Takuma, it’s Shuuji and Lopmon!"
 		},
 		{
 			"key":"EP05_S1824_0002",
-			"value":"本当だ。こんな所で何やってるんだろう？"
+			"value":"You’re right. What’re they doing in a place\nlike this?"
 		},
 		{
 			"key":"EP05_S1824_0003",
-			"value":"おい、一回もできないとはどういうことだ！\n腕立ても満足にできないのか！？"
+			"value":"Hey, you can’t even do a single push-up?!\nYou think I’d be satisfied with that?!"
 		},
 		{
 			"key":"EP05_S1824_0004",
-			"value":"だ、だって……これ、難しい……"
+			"value":"B-but it’s hard..."
 		},
 		{
 			"key":"EP05_S1824_0005",
-			"value":"言い訳するな！"
+			"value":"No excuses!"
 		},
 		{
 			"key":"EP05_S1824_0006",
-			"value":"ひゃんっ！"
+			"value":"Eek!"
 		},
 		{
 			"key":"EP05_S1824_0007",
-			"value":"僕の特訓を受けると言ったからには\n口答えは許さん！"
+			"value":"You said you’d accept my training, so no\nbacktalk!"
 		},
 		{
 			"key":"EP05_S1824_0008",
-			"value":"腕立てはもういい！　次はスクワットだ！\nさっさとやれ！"
+			"value":"Enough push-ups! We’re moving on to squats!\nGet to it!"
 		},
 		{
 			"key":"EP05_S1824_0009",
-			"value":"シュウジさん、特訓って本気だったんですね"
+			"value":"Serious about that special training, huh\nShuuji?"
 		},
 		{
 			"key":"EP05_S1824_0010",
-			"value":"タクマか。もちろん本気だとも"
+			"value":"Oh, Takuma. Of course I’m serious."
 		},
 		{
 			"key":"EP05_S1824_0011",
-			"value":"これでコイツが強くなれば\nみんなも僕を認めるはず……"
+			"value":"If I make him stronger, then everyone will\nhave to recognize me..."
 		},
 		{
 			"key":"EP05_S1824_0012",
-			"value":"（こんなことでケモノが強くなるとは思えない\n　コイツらは普通の生き物とは違うんだし）"
+			"value":"(I can’t imagine this would make a monster\nstronger. They’re not like normal creatures.)"
 		},
 		{
 			"key":"EP05_S1824_0013",
-			"value":"（そもそも、こんなのただ痛めつけてるだけで\n　イジメと変わらないじゃないか）"
+			"value":"(This sort of thing would only hurt them.\nIt’s basically the same as bullying them.)"
 		},
 		{
 			"key":"EP05_S1824_0014",
-			"value":"（でもはっきり言って伝わるかな\n　何かいい言い方はないかな……）"
+			"value":"(But I wonder if I can get that concept\nacross to him? Must be a way...)"
 		},
 		{
 			"key":"EP05_S1824_Q1",
-			"value":"（シュウジさんに何て言おう？）"
+			"value":"(What should I tell Shuuji?)"
 		},
 		{
 			"key":"EP05_S1824_Q1_A1",
-			"value":"これで強くなると思いますか？"
+			"value":"Will this work?"
 		},
 		{
 			"key":"EP05_S1824_Q1_A2",
-			"value":"こんなの特訓じゃない"
+			"value":"This isn’t training."
 		},
 		{
 			"key":"EP05_S1824_Q1_A3",
-			"value":"少し休憩しませんか？"
+			"value":"How about a break?"
 		},
 		{
 			"key":"EP05_S1824_0016",
-			"value":"シュウジさん、こんなやり方で強くなると\n本当にそう思いますか？"
+			"value":"Shuuji, do you really think this kind of\ntraining will make him stronger?"
 		},
 		{
 			"key":"EP05_S1824_0017",
-			"value":"僕が間違ってると言いたいのか？"
+			"value":"You saying my way of doing things is wrong?"
 		},
 		{
 			"key":"EP05_S1824_0018",
-			"value":"だって、見てくださいよロップモンを\nこんな小さい手足を鍛えてどうなるっていうんです"
+			"value":"I mean, just look at Lopmon. What’s the point\nin training such small limbs?"
 		},
 		{
 			"key":"EP05_S1824_0019",
-			"value":"確かに……ちっ、使えないヤツめ！"
+			"value":"That’s true... Damn, how useless can you get!"
 		},
 		{
 			"key":"EP05_S1824_0020",
-			"value":"ご、ごめん……"
+			"value":"I, I'm sorry..."
 		},
 		{
 			"key":"EP05_S1824_0021",
-			"value":"そうじゃなくて！　コイツらは進化して強くなる\nんですから、筋トレくらいで変わるわけ……"
+			"value":"No, that’s not it! These guys get stronger by\nDigivolving, so muscle training won’t make a—"
 		},
 		{
 			"key":"EP05_S1824_0022",
-			"value":"そんなのわからないだろう！"
+			"value":"Says who?!"
 		},
 		{
 			"key":"EP05_S1824_0023",
-			"value":"うっ……"
+			"value":"Urk..."
 		},
 		{
 			"key":"EP05_S1824_0024",
-			"value":"失礼。だがこれは根性を鍛えてやってるんだ\nコイツの甘ったれな性格をな"
+			"value":"Sorry, but this is all to train his spirit,\nand that spoiled attitude of his."
 		},
 		{
 			"key":"EP05_S1824_0025",
-			"value":"口出ししないでもらおう"
+			"value":"Please don’t interfere."
 		},
 		{
 			"key":"EP05_S1824_0027",
-			"value":"こんなの特訓じゃない\nただのイジメじゃないですか"
+			"value":"This isn’t training. You’re basically\nbullying the poor guy."
 		},
 		{
 			"key":"EP05_S1824_0028",
-			"value":"こんなやり方間違ってます"
+			"value":"This is the wrong way to do things."
 		},
 		{
 			"key":"EP05_S1824_0029",
-			"value":"ほう……ではどうするのが正解なんだ？"
+			"value":"Is that right...? Then what’s the right way?"
 		},
 		{
 			"key":"EP05_S1824_0030",
-			"value":"それは……いやでも、このやり方が違うのは\n確かだと……"
+			"value":"Well... I mean, it’s obvious that this isn’t—"
 		},
 		{
 			"key":"EP05_S1824_0031",
-			"value":"代案もなしに否定しないでくれよ"
+			"value":"Don’t criticize if you don’t have any\nalternatives to offer."
 		},
 		{
 			"key":"EP05_S1824_0032",
-			"value":"タクマが正しいという証拠は？\nこれだってやってみなきゃわからないじゃないか"
+			"value":"What proof to you have that you’re so right?\nWe can’t say if this’ll work unless we try."
 		},
 		{
 			"key":"EP05_S1824_0033",
-			"value":"口出ししないでくれ\n特訓の邪魔だ"
+			"value":"Please stay out of this. You’re interrupting\nmy training."
 		},
 		{
 			"key":"EP05_S1824_0035",
-			"value":"シュウジさん、少し休憩しませんか？"
+			"value":"How about taking a break, Shuuji?"
 		},
 		{
 			"key":"EP05_S1824_0036",
-			"value":"まだだ、コイツはまだやれる！"
+			"value":"Not yet, he still has some fight in him!"
 		},
 		{
 			"key":"EP05_S1824_0037",
-			"value":"ロップモンじゃなくて、シュウジさんです\n激しい指導で疲れたんじゃないですか？"
+			"value":"I’m talking about you, not Lopmon. It must be\nexhausting supervising such strict training."
 		},
 		{
 			"key":"EP05_S1824_0038",
-			"value":"む……あ、ああ、そうだね\n声を出し続けて喉が乾いてきたところだった"
+			"value":"Oh... Um, yeah, I guess you’re right. My\nthroat’s gotten parched from yelling so much."
 		},
 		{
 			"key":"EP05_S1824_0039",
-			"value":"よく気づいてくれた、タクマ\nありがとう"
+			"value":"I appreciate your consideration, Takuma."
 		},
 		{
 			"key":"EP05_S1824_0040",
-			"value":"ロップモン、大丈夫か？"
+			"value":"You okay, Lopmon?! Are you okay?"
 		},
 		{
 			"key":"EP05_S1824_0041",
-			"value":"う、うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP05_S1824_0042",
-			"value":"（これで少しはロップモンを休ませることが\n　できるけど、こんなの一時しのぎだよな）"
+			"value":"(This should give Lopmon a chance to rest,\nbut it’s only a temporary fix.)"
 		},
 		{
 			"key":"EP05_S1824_0043",
-			"value":"（どうにかしなきゃとは思うけど\n　……何も思いつかない）"
+			"value":"(I have to do something but...exactly what,\nI don’t know.)"
 		},
 		{
 			"key":"EP05_S1824_0044",
-			"value":"さぁ特訓の続きだ！　さっさと動けノロマ！"
+			"value":"Right, back to training! Get the lead out,\nslowpoke!"
 		},
 		{
 			"key":"EP05_S1824_0045",
-			"value":"こんなの違うよ！　ロップモンがかわいそう！"
+			"value":"This isn’t right! Poor Lopmon!"
 		},
 		{
 			"key":"EP05_S1824_0046",
-			"value":"じゃあ何が正しいんだろう？"
+			"value":"But then what’s the right thing to do here?"
 		},
 		{
 			"key":"EP05_S1824_0047",
-			"value":"それは、わかんないけど……"
+			"value":"I don’t know, it’s just..."
 		},
 		{
 			"key":"EP05_S1824_0048",
-			"value":"そうなんだよなぁ。どうすればいいのか\n全然わかんないよ……"
+			"value":"That’s the problem, isn’t it. I have no idea\nwhat to do..."
 		},
 		{
 			"key":"EP05_S1824_0049",
-			"value":"（シュウジさんの無茶な特訓が続いてる\n　シュウジさんは僕の言葉も聞いてくれない）"
+			"value":"(Shuuji’s reckless training continues. He\nwon’t listen to a word I say.)"
 		}
 	]
 }

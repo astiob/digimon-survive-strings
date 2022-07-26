@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0309_0001",
-			"value":"ここは……最初にいたところか？"
+			"value":"This is...where we started?"
 		},
 		{
 			"key":"EP05_S0309_0002",
-			"value":"戻された……\nつまり、僕は間違えたってことか……"
+			"value":"We’ve gone in a circle... That means I messed\nup somewhere."
 		},
 		{
 			"key":"EP05_S0309_0003",
-			"value":"くっ、諦めないぞ\n次は絶対に正解してやる！"
+			"value":"Dammit, I’m not throwing in the towel yet.\nI’ll find the right path for sure!"
 		}
 	]
 }

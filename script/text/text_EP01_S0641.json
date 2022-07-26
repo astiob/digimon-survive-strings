@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0641_0001",
-			"value":"この描かれてるのがケモノガミ？\nホントに色んな姿をしてるんだな……"
+			"value":"So these are all drawings of Kemonogami?\nThey come in all shapes and sizes, huh?"
 		},
 		{
 			"key":"EP01_S0641_0002",
-			"value":"そもそも……どうしてケモノガミは\nそんなに数がいるのかしら……？"
+			"value":"Hey. Why do you think there are there so many\nKemonogami in the first place?"
 		},
 		{
 			"key":"EP01_S0641_0003",
-			"value":"何か、心当たりはあるんですか？"
+			"value":"Do you have a hunch, sir?"
 		},
 		{
 			"key":"EP01_S0641_0004",
-			"value":"うむ\n複数の説や可能性がある"
+			"value":"Indeed. There are several possible\nexplanations for all this."
 		},
 		{
 			"key":"EP01_S0641_0005",
-			"value":"例えばこの地域の特異な地形、今の頻発事故もだが\n山中での足場の弱さ、急斜面の多さ、森林の多さ……"
+			"value":"The unique terrain could explain the frequent\nincidents. Weak footholds, steep slopes..."
 		},
 		{
 			"key":"EP01_S0641_0006",
-			"value":"また、特殊な磁場によっての方向感覚の狂いに\n動植物層の異常繁殖などが確認されておる"
+			"value":"Magnetic fields mess with sense of direction,\nand overgrowth in flora and fauna."
 		},
 		{
 			"key":"EP01_S0641_0007",
-			"value":"ああ、確かに……\nここの彼岸花もそうですよね……？"
+			"value":"Ahh... Like the red spider lilies, then?"
 		},
 		{
 			"key":"EP01_S0641_0008",
-			"value":"私はこの地域の鉱物資源の何かに\n人を迷わせる何かがあったのではないかとも考えている"
+			"value":"I believe there’s something in the minerals\naround here that makes people lose their way."
 		},
 		{
 			"key":"EP01_S0641_0009",
-			"value":"ケモノガミ信仰も、まさにその影響で\n奇形化した生き物ではないのか、ともね……"
+			"value":"Creatures of the Kemonogami faith may have\nbeen altered somehow by this substance..."
 		},
 		{
 			"key":"EP01_S0641_0010",
-			"value":"なるほど……理にはかなっています"
+			"value":"I see... That would make sense."
 		}
 	]
 }

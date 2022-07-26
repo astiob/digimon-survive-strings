@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2000_0001",
-			"value":"ふぅ……これで探せるところは全部見たな"
+			"value":"We’ve looked everywhere we can."
 		},
 		{
 			"key":"EP02_S2000_0002",
-			"value":"ショクリョウはあったのか？"
+			"value":"Was there food?"
 		},
 		{
 			"key":"EP02_S2000_0003",
-			"value":"うーん、ミノルのおかげで少しは見つかったけど\n正直なところ、もう少し欲しいんだよな"
+			"value":"Yes. Minoru found some for us but, to be\nhonest, we’ll need more."
 		},
 		{
 			"key":"EP02_S2000_0004",
-			"value":"でも、もう他に探せるところなんて……"
+			"value":"Where else can we look?"
 		},
 		{
 			"key":"EP02_S2000_0005",
-			"value":"みんなーー！　こっち来て！\n体育館！"
+			"value":"Guys! Over here! In the gym!"
 		},
 		{
 			"key":"EP02_S2000_0006",
-			"value":"うわっ！　なんだ！？　アオイさん！？"
+			"value":"Yikes! What was that? Aoi?"
 		},
 		{
 			"key":"EP02_S2000_0007",
-			"value":"この中から聞こえたよ！"
+			"value":"It came from inside!"
 		},
 		{
 			"key":"EP02_S2000_0008",
-			"value":"何かあったのかもしれない！"
+			"value":"Maybe she found something!"
 		},
 		{
 			"key":"EP02_S2000_0009",
-			"value":"すぐ行こう！"
+			"value":"Let’s go!"
 		},
 		{
 			"key":"EP02_S2000_0010",
-			"value":"いや、アオイさんの声が届いてない人もいるはずだ\nみんなにも声をかけて行ってみよう！"
+			"value":"No, wait! Not everyone might have heard that.\nLet’s go tell the others first."
 		},
 		{
 			"key":"EP02_S2000_0011",
-			"value":"わかった！"
+			"value":"Okay!"
 		}
 	]
 }

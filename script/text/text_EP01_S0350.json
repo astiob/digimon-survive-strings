@@ -2,107 +2,107 @@
     "scenario_text": [
         {
             "key": "EP01_S0350_0001",
-            "value": "なんだよ、あれ……\nなんなんだよ、ちくしょう……"
+            "value": "What the hell... What the hell, man..."
         },
         {
             "key": "EP01_S0350_0002",
-            "value": "キュゥゥ……"
+            "value": "Kewww..."
         },
         {
             "key": "EP01_S0350_0003",
-            "value": "リョウ、どうした？　何かあったのか？"
+            "value": "What’s wrong, Ryo? Did something happen?"
         },
         {
             "key": "EP01_S0350_0004",
-            "value": "なんだか怖がってるみたいだな～？"
+            "value": "He seems pretty scared, doesn’t he?"
         },
         {
             "key": "EP01_S0350_0005",
-            "value": "う、うぅ……"
+            "value": "Unnngh..."
         },
         {
             "key": "EP01_S0350_0006",
-            "value": "ゆ、幽霊だ……\n幽霊が出やがった……"
+            "value": "A ghost... I saw a freaking ghost..."
         },
         {
             "key": "EP01_S0350_Q1",
-            "value": "（幽霊って、僕がさっき階段の近くで見たあれかな？）"
+            "value": "(A ghost? Does he mean that thing we saw by\nthe stairs a little while ago?)"
         },
         {
             "key": "EP01_S0350_Q1_A1",
-            "value": "男の子の幽霊だったな"
+            "value": "Was it a boy ghost?"
         },
         {
             "key": "EP01_S0350_Q1_A2",
-            "value": "女の子に見えたかも"
+            "value": "Must be a girl ghost."
         },
         {
             "key": "EP01_S0350_0007",
-            "value": "ああ、僕も見た\nでも、まだ幽霊かどうかわからないだろ？"
+            "value": "Yeah, I saw it too. Still, we don’t know if\nit’s really a ghost yet."
         },
         {
             "key": "EP01_S0350_0008",
-            "value": "あんなの幽霊に決まってんだろ……\nあんな、生きてる感じのしねえ女なんて……"
+            "value": "Of course that thing’s a friggin’ ghost.\nThat girl wasn’t among the living..."
         },
         {
             "key": "EP01_S0350_0009",
-            "value": "え？　女？　僕が見たのは男の子だったけど……"
+            "value": "Huh? A girl? But the one I saw was a boy..."
         },
         {
             "key": "EP01_S0350_0010",
-            "value": "う、ウソだろ……？　バケモノだけじゃなく\n幽霊もわんさかいやがるのかよぉ……"
+            "value": "You’re kidding me... We gotta deal with a\nbuncha spooks on top of that monster?!"
         },
         {
             "key": "EP01_S0350_0011",
-            "value": "確かにいたな。女の子みたいだったけど……"
+            "value": "Yeah, I saw it, too. I think it was a girl..."
         },
         {
             "key": "EP01_S0350_0012",
-            "value": "そ、そいつだ！　気配もなくボーっと突っ立ってた！\nあんなのが生きてる人間なワケねえ！"
+            "value": "Yeah, that’s the one! She just popped out out\nof nowhere! No living human can do that!"
         },
         {
             "key": "EP01_S0350_0013",
-            "value": "うぅ、ちくしょう……なんでこんな目に\nオレはもうここから動かねえぞ……"
+            "value": "What’d I do to deserve this, dammit? That’s\nit, I’m not moving from this spot..."
         },
         {
             "key": "EP01_S0350_0014",
-            "value": "ひぃぃぃ～～～っ！？"
+            "value": "Yeeeeeek!"
         },
         {
             "key": "EP01_S0350_0015",
-            "value": "う、うぅ～ん……"
+            "value": "Aaahhh-hunnNNNngh..."
         },
         {
             "key": "EP01_S0350_0016",
-            "value": "キュッ！　キュゥキュゥ！"
+            "value": "Kew! Kewkew!"
         },
         {
             "key": "EP01_S0350_0017",
-            "value": "なんの音だ～？　キレイだな～"
+            "value": "What’s that sound? It’s kinda nice!"
         },
         {
             "key": "EP01_S0350_0018",
-            "value": "ピアノの音だ！　音楽室からか？"
+            "value": "It’s a piano! Is it coming from the music\nroom?"
         },
         {
             "key": "EP01_S0350_0019",
-            "value": "確かめに行きたいけど……リョウ、気絶しちゃったな\n置いていっても大丈夫かな？"
+            "value": "I wanna go check it out, but...Ryo’s gone and\npassed out. Is it okay to leave him here?"
         },
         {
             "key": "EP01_S0350_0020",
-            "value": "キュゥッ！"
+            "value": "Kewww!"
         },
         {
             "key": "EP01_S0350_0021",
-            "value": "リョウのことはクネモンが見ててくれるって"
+            "value": "Kunemon says he’ll look after him."
         },
         {
             "key": "EP01_S0350_0022",
-            "value": "なら任せよう\nアグモン、<color=#B41919>音楽室</color>に行ってみよう！"
+            "value": "Cool, he’s all yours, then. Let’s go to the\n<color=#B41919>music room</color>, Agumon!"
         },
         {
             "key": "EP01_S0350_0023",
-            "value": "おう！"
+            "value": "Yeah!"
         }
     ]
 }

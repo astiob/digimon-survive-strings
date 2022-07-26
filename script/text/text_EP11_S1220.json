@@ -2,107 +2,107 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S1220_0001",
-			"value":"なんか……気が滅入る場所ですね"
+			"value":"This place is pretty...depressing, huh."
 		},
 		{
 			"key":"EP11_S1220_0002",
-			"value":"そうだな、サキくん"
+			"value":"You said, it Saki."
 		},
 		{
 			"key":"EP11_S1220_0003",
-			"value":"教授は怖くないの？"
+			"value":"Aren’t you scared, Professor?"
 		},
 		{
 			"key":"EP11_S1220_0004",
-			"value":"怖い……というか、緊張はしているよ\n私にはやるべきことがあるからね……"
+			"value":"I’d say I’m more...nervous than scared.\nThere’s something I must do, after all..."
 		},
 		{
 			"key":"EP11_S1220_0005",
-			"value":"そう……私は、なんか怖いみたい……\nさっきから歯がガチガチ鳴るの"
+			"value":"Yeah... Me, I’m scared... My teeth have been\nchattering for a while now."
 		},
 		{
 			"key":"EP11_S1220_0006",
-			"value":"サキくん……"
+			"value":"Saki..."
 		},
 		{
 			"key":"EP11_S1220_Q1",
-			"value":"サキと教授になんて声をかけよう？"
+			"value":"What should I say to Saki and the Professor?"
 		},
 		{
 			"key":"EP11_S1220_Q1_A1",
-			"value":"体を動かせば大丈夫！"
+			"value":"Just get it in gear!"
 		},
 		{
 			"key":"EP11_S1220_Q1_A2",
-			"value":"いつものサキらしくないよ"
+			"value":"This isn’t like you."
 		},
 		{
 			"key":"EP11_S1220_Q1_A3",
-			"value":"弱音を吐くな！"
+			"value":"Stop whining!"
 		},
 		{
 			"key":"EP11_S1220_0007",
-			"value":"サキ、体を動かせば大丈夫だよ！"
+			"value":"Just get your butt in gear, Saki!"
 		},
 		{
 			"key":"EP11_S1220_0008",
-			"value":"もー、これだから男の子は……\nそんなんで怖くなくなるわけないでしょ？"
+			"value":"Spoken like a typical guy... You think that’s\nenough to help me conquer my fear?"
 		},
 		{
 			"key":"EP11_S1220_0009",
-			"value":"まあまあ、タクマくんの言う事も一理ある\n体を動かせば代謝が活発になって脳の機能も……"
+			"value":"Well, Takuma’s words have merit. Moving\nactivates your metabolism, then your brain—"
 		},
 		{
 			"key":"EP11_S1220_0010",
-			"value":"もーっ！　私が言ってるのは\nそういうことじゃないの！"
+			"value":"Come oooooon, that’s not the part I’m talking\nabout!"
 		},
 		{
 			"key":"EP11_S1220_0011",
-			"value":"いつものサキらしくないよ"
+			"value":"This isn’t like you, Saki."
 		},
 		{
 			"key":"EP11_S1220_0012",
-			"value":"そう、だよね……よしっ！\nいつもの私……いつもの私でいくっ！"
+			"value":"Yeah, you’re right... Okay!\nBack to normal... I’ll go back to normal!"
 		},
 		{
 			"key":"EP11_S1220_0013",
-			"value":"いいぞ、サキくん。それは自己暗示といって\nこのような状況では、とても効果がある"
+			"value":"Good one, Saki. Self-suggestion is very\neffective in situations such as this."
 		},
 		{
 			"key":"EP11_S1220_0014",
-			"value":"教授が言うとなんでも授業みたいになるよね……\nでも、なんか気が楽になってきた"
+			"value":"You would say that, wouldn’t you, Professor.\nStill, I admit I do feel better."
 		},
 		{
 			"key":"EP11_S1220_0015",
-			"value":"サキ、弱音を吐くなよ！\nこれから戦闘になるかもしれないんだから"
+			"value":"Stop whining, Saki! A battle could break out\nany minute here."
 		},
 		{
 			"key":"EP11_S1220_0016",
-			"value":"えっ！？　うん……ごめん、タクマ"
+			"value":"Huh?! Oh, uh...sorry, Takuma. You’re right."
 		},
 		{
 			"key":"EP11_S1220_0017",
-			"value":"まあまあ、タクマくん……みんな緊張してるんだから\nサキくんがこうなるのも仕方がない"
+			"value":"Now, now, Takuma... Everyone’s on edge, and\nSaki can’t help how she feels."
 		},
 		{
 			"key":"EP11_S1220_0018",
-			"value":"おや……あれは……"
+			"value":"Oh... Is that...?"
 		},
 		{
 			"key":"EP11_S1220_0019",
-			"value":"どうしました？　教授？"
+			"value":"What is it, Professor?"
 		},
 		{
 			"key":"EP11_S1220_0020",
-			"value":"この奥に、さら通路らしきものがあるようだ"
+			"value":"I think I see a path up ahead."
 		},
 		{
 			"key":"EP11_S1220_0021",
-			"value":"本当ですか？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP11_S1220_0022",
-			"value":"ああ、こっちだ\nついてきてくれ"
+			"value":"Yes, over here. Come, follow me."
 		}
 	]
 }

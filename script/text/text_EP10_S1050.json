@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S1050_0001",
-			"value":"教授、本当にこっちであってるんですか？"
+			"value":"Professor, you’re sure this is the way?"
 		},
 		{
 			"key":"EP10_S1050_0002",
-			"value":"うむ、間違いないはずだ"
+			"value":"Oh, yes. This certainly looks right to me."
 		},
 		{
 			"key":"EP10_S1050_0003",
-			"value":"はず、って……"
+			"value":"But you’re not sure?"
 		},
 		{
 			"key":"EP10_S1050_0004",
-			"value":"まだ建物は見えないが、方角は合っている\nもうすぐだ"
+			"value":"Well, the building isn’t in sight, but this\nis the right direction. It shouldn’t be far."
 		},
 		{
 			"key":"EP10_S1050_0005",
-			"value":"まさか、建物ごと消えたってことはないよね？"
+			"value":"It couldn’t have just disappeared or\nsomething, right?"
 		},
 		{
 			"key":"EP10_S1050_0006",
-			"value":"そんな、お兄ちゃん……！"
+			"value":"Oh no, Kaito could be in danger!"
 		},
 		{
 			"key":"EP10_S1050_0007",
-			"value":"む……っ？　あれは！！"
+			"value":"Hm?! Oh my..."
 		},
 		{
 			"key":"EP10_S1050_0008",
-			"value":"図書館が見えました！？"
+			"value":"What is it? Can you see the library?!"
 		},
 		{
 			"key":"EP10_S1050_0009",
-			"value":"いや……別の厄介なものを\n見つけてしまったようだ"
+			"value":"No. It’s seems we’ve found something else.\nSomething quite dangerous in its own way."
 		},
 		{
 			"key":"EP10_S1050_0010",
-			"value":"見つけた……というよりは\nむしろ、見つかったと言うべきか"
+			"value":"Or it found us, to be precise."
 		},
 		{
 			"key":"EP10_S1050_0011",
-			"value":"ずいぶんと遅かったな\n仲間の危機だというのに、薄情なやつらだ"
+			"value":"Took you long enough. Pretty cold of you,\nconsidering your friend’s in trouble."
 		},
 		{
 			"key":"EP10_S1050_0012",
-			"value":"レナモン！！"
+			"value":"Renamon!"
 		},
 		{
 			"key":"EP10_S1050_0013",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S1050_0014",
-			"value":"（レナモン……凄まじい目で教授のことを見てる\n　これは、怒りか？）"
+			"value":"(Renamon... He’s glaring at the professor in\nanger?)"
 		},
 		{
 			"key":"EP10_S1050_0015",
-			"value":"ここに来たのは私たちに接触するためか？\nそれとも図書館目当てか……ミユキくんのためか？"
+			"value":"Did you come all this way to see us? Or are\nyou visiting the library for her. For Miyuki?"
 		},
 		{
 			"key":"EP10_S1050_0016",
-			"value":"黙れ……\nお前にミユキの名を語る資格などあるものか……！"
+			"value":"Silence! You don’t have the right to speak\nthat name!"
 		},
 		{
 			"key":"EP10_S1050_0017",
-			"value":"やはり君は、私のことを恨んでいるのか……"
+			"value":"As I suspected, you bear animosity towards\nme..."
 		},
 		{
 			"key":"EP10_S1050_0018",
-			"value":"恨む？　どういうことだ？"
+			"value":"Animosity? What for?"
 		},
 		{
 			"key":"EP10_S1050_0019",
-			"value":"答えを返す義理はない\nお前らには黙って生け贄になってもらう"
+			"value":"I have no obligation to answer that question.\nYou will all become the Master’s sacrifices."
 		},
 		{
 			"key":"EP10_S1050_0020",
-			"value":"生け贄！？　巫女以外にも生け贄が必要なの？"
+			"value":"Sacrifices?! So the maiden’s not enough,\nthen?"
 		},
 		{
 			"key":"EP10_S1050_0021",
-			"value":"以前、アルケニモンが言っていたな\nニンゲンのコドモは巫女ほど重要ではないが……"
+			"value":"Arukenimon said it before. Human children\naren’t as valuable as the maiden, but..."
 		},
 		{
 			"key":"EP10_S1050_0022",
-			"value":"十分に、使い道があるって！\nでも、そうはさせないわ！"
+			"value":"They’re good for something! But we won’t let\nyou have your way!"
 		},
 		{
 			"key":"EP10_S1050_0023",
-			"value":"何をするつもりかはわかんないけど\nイケニエなんて、ゼッタイにダメだ！"
+			"value":"I dunno what you’re planning, but you ain’t\ngetting any sacrifices from us, no way!"
 		},
 		{
 			"key":"EP10_S1050_0024",
-			"value":"フン……使い道すらない獣たちがよく吠える"
+			"value":"Hmph... The smallest wretches always snarl\nthe loudest."
 		},
 		{
 			"key":"EP10_S1050_0025",
-			"value":"なんだと！？"
+			"value":"How dare you!"
 		},
 		{
 			"key":"EP10_S1050_0026",
-			"value":"レナモン、どうしてだ！？\nお前はミユキを助けようとしていたじゃないか！"
+			"value":"What is this, Renamon?! Didn’t you want to\nsave Miyuki?!"
 		},
 		{
 			"key":"EP10_S1050_0027",
-			"value":"僕たちは同じ目的のはずだ！\nだったら一緒に……！"
+			"value":"We’re on the same side here! That’s why we\nshould—"
 		},
 		{
 			"key":"EP10_S1050_0028",
-			"value":"従わないつもりか？　なら、それでいい\n力ずくで従わせるだけだ！"
+			"value":"Don’t feel like obeying? Fine by me. I’ll\ndrag you back kicking and screaming, then!"
 		},
 		{
 			"key":"EP10_S1050_0029",
-			"value":"……レナモン！"
+			"value":"Renamon!"
 		}
 	]
 }

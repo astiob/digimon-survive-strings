@@ -2,211 +2,211 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0327_0001",
-			"value":"あ、サキ！　やっと会えた！"
+			"value":"Ah, Saki! I finally found you!"
 		},
 		{
 			"key":"EP05_S0327_0002",
-			"value":"捜してたのよ、でも見つかってよかった！"
+			"value":"I was looking all over for you, thank\ngoodness!"
 		},
 		{
 			"key":"EP05_S0327_0003",
-			"value":"わわ、フローラモンが二人！？"
+			"value":"Hold up, there’s two Floramon?!"
 		},
 		{
 			"key":"EP05_S0327_0004",
-			"value":"気をつけて、コイツはニセモノよ！"
+			"value":"Careful now, that one’s a fake!"
 		},
 		{
 			"key":"EP05_S0327_0005",
-			"value":"違うわサキ！　私はホンモノよ、信じて！"
+			"value":"She’s lying, Saki! I’m the real one, you’ve\ngotta believe me!"
 		},
 		{
 			"key":"EP05_S0327_0006",
-			"value":"ぜ、全然わかんないよ～！\nどっちが本物なの～！？"
+			"value":"Oh jeez, I can’t tell the difference! Which\nis the real one?!"
 		},
 		{
 			"key":"EP05_S0327_0007",
-			"value":"タクマくん、わかる……？"
+			"value":"Can you tell, Takuma?"
 		},
 		{
 			"key":"EP05_S0327_0008",
-			"value":"う～ん、そうだなぁ……"
+			"value":"Hmm, let’s see..."
 		},
 		{
 			"key":"EP05_S0327_0009",
-			"value":"（アオイさんの時もそうだったけど\n　話してみれば見分けることはできるはずだ）"
+			"value":"(Just like with Aoi, maybe talking to them\nwill help her figure it out.)"
 		},
 		{
 			"key":"EP05_S0327_Q1",
-			"value":"（本物のフローラモンは……）"
+			"value":"(The real Floramon would...)"
 		},
 		{
 			"key":"EP05_S0327_Q1_A1",
-			"value":"隠しごとを許してくれるな"
+			"value":"Forgive secrets."
 		},
 		{
 			"key":"EP05_S0327_Q1_A2",
-			"value":"サキを身勝手だなんて思わないな"
+			"value":"Go along with Saki."
 		},
 		{
 			"key":"EP05_S0327_Q1_A3",
-			"value":"アオイさんとの友情を知ってるな"
+			"value":"Know her friendships."
 		},
 		{
 			"key":"EP05_S0327_Q1_A4",
-			"value":"わからないな……"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP05_S0327_0011",
-			"value":"偽物はサキの隠しごとを責めてきた\n本物のフローラモンならそんなことしないよ！"
+			"value":"The fake Floramon scolded you for having\nsecrets. The real one wouldn’t do that!"
 		},
 		{
 			"key":"EP05_S0327_0012",
-			"value":"あ、そうだよね！\nそれなら……"
+			"value":"Yeah, you’re right! In that case..."
 		},
 		{
 			"key":"EP05_S0327_0013",
-			"value":"ねぇフローラモン、仲間に隠しごとって\n良くないと思う？"
+			"value":"Hey, Floramon. Do you think friends shouldn’t\nhide secrets from each other?"
 		},
 		{
 			"key":"EP05_S0327_0014",
-			"value":"んー、言えないことの一つや二つ\nあってもいいじゃない？"
+			"value":"Hmm, everyone has a thing or two they can’t\ntalk about, don’t they?"
 		},
 		{
 			"key":"EP05_S0327_0015",
-			"value":"ダメよサキ、隠しごとなんてしてたら\n本当の仲間じゃないわ"
+			"value":"Come on, Saki, you can’t call them real\nfriends if you hide stuff from them!"
 		},
 		{
 			"key":"EP05_S0327_0016",
-			"value":"なるほど～、よーくわかったよ"
+			"value":"Well, well, that clears it up."
 		},
 		{
 			"key":"EP05_S0327_0018",
-			"value":"本物のフローラモンなら、サキのこと身勝手だなんて\n思わない。それを確かめてみたらどうだ？"
+			"value":"The real Floramon wouldn’t think of Saki as\nselfish. Why not test that out?"
 		},
 		{
 			"key":"EP05_S0327_0019",
-			"value":"あ、なるほど！　それでいこう！"
+			"value":"Oh, you’re right! Let’s go with that!"
 		},
 		{
 			"key":"EP05_S0327_0020",
-			"value":"ねぇフローラモン、私もうこんなとこ\n飽きちゃったし、そろそろ帰るね！"
+			"value":"Hey, Floramon. I’m bored of this already.\nLet’s go home!"
 		},
 		{
 			"key":"EP05_S0327_0021",
-			"value":"ちょ、ちょっと待って！　そんな勝手なことダメよ！\nまだみんなが残ってるのよ！？"
+			"value":"Hold on a minute! That’s too selfish!\nEveryone else is still here, you know!"
 		},
 		{
 			"key":"EP05_S0327_0022",
-			"value":"あらあらサキ、下手な演技ね？　みんなに内緒で\n活躍する気かしら？　私にも手伝わせて！"
+			"value":"Come on, Saki, you can’t fool me! You’re\ntrying to help out in secret? I’ll join you!"
 		},
 		{
 			"key":"EP05_S0327_0023",
-			"value":"うん、フローラモンなら\nわかってくれるって思ってたよ"
+			"value":"Yeah, I figured the real Floramon would see\nthrough me."
 		},
 		{
 			"key":"EP05_S0327_0025",
-			"value":"本物ならアオイさんと仲がいいことを\n知ってるんじゃないか？"
+			"value":"The real one knows how close you are to Aoi,\nright?"
 		},
 		{
 			"key":"EP05_S0327_0026",
-			"value":"あ、そうね！　寝る時の音楽室でも\nいつもそばにいるもの！"
+			"value":"Oh, that’s true! We’re always hanging out\ntogether before we sleep in the music room."
 		},
 		{
 			"key":"EP05_S0327_0027",
-			"value":"わかった！　それなら……"
+			"value":"Got it! In that case..."
 		},
 		{
 			"key":"EP05_S0327_0028",
-			"value":"ねぇフローラモン、私とアオイちゃんって\nやっぱり性格合わないよね～？"
+			"value":"Hey, Floramon. Me and Aoi are like oil and\nwater, don’t you think?"
 		},
 		{
 			"key":"EP05_S0327_0029",
-			"value":"そうね～、お互いに違いすぎるもの\n仲良くなんてなれそうにないわね"
+			"value":"Yeah, you guys are just too different. I bet\nyou two will never be friends."
 		},
 		{
 			"key":"EP05_S0327_0030",
-			"value":"何言ってるのよ？　ここ最近毎晩、寝る前にず～っと\nおしゃべりしてるじゃない。仲良しにしか見えないわ"
+			"value":"What’re you saying? You two chat for ages\nbefore you sleep. Like two peas in a pod."
 		},
 		{
 			"key":"EP05_S0327_0031",
-			"value":"えへへ、やっぱりフローラモンはわかってるね"
+			"value":"Eheheh, that’s Floramon for you. You know us\nthrough and through."
 		},
 		{
 			"key":"EP05_S0327_0033",
-			"value":"ごめん、わからない……"
+			"value":"Sorry, I really don’t know."
 		},
 		{
 			"key":"EP05_S0327_0034",
-			"value":"うぅ～、そっか……\nじゃあ運任せしかないか"
+			"value":"Hmm, I see... Then I’ll just leave it up to\nchance."
 		},
 		{
 			"key":"EP05_S0327_Q2",
-			"value":"（本物のフローラモンは……）"
+			"value":"(The real Floramon is...)"
 		},
 		{
 			"key":"EP05_S0327_Q2_A1",
-			"value":"右だ！"
+			"value":"On the right!"
 		},
 		{
 			"key":"EP05_S0327_Q2_A2",
-			"value":"左だ！"
+			"value":"On the left!"
 		},
 		{
 			"key":"EP05_S0327_0036",
-			"value":"ひひっ、バカなヤツめ……"
+			"value":"Hee hee, what an idiot..."
 		},
 		{
 			"key":"EP05_S0327_0037",
-			"value":"え、やだ！　ガスが、濃くなって……"
+			"value":"Oh no! The gas is getting thicker..."
 		},
 		{
 			"key":"EP05_S0327_0038",
-			"value":"（あ、マズい……意識が、遠くなって……）"
+			"value":"(This is bad. My consciousness is fading...)"
 		},
 		{
 			"key":"EP05_S0327_0040",
-			"value":"こっち！"
+			"value":"This one!"
 		},
 		{
 			"key":"EP05_S0327_0041",
-			"value":"正解よ！　よくできたわね、サキ！"
+			"value":"When you’re right, you’re right! Good one,\nSaki!"
 		},
 		{
 			"key":"EP05_S0327_0042",
-			"value":"ちっ……"
+			"value":"Hmph..."
 		},
 		{
 			"key":"EP05_S0327_0043",
-			"value":"正体を見せたな、シードラモン！"
+			"value":"So that’s your true face, Seadramon!"
 		},
 		{
 			"key":"EP05_S0327_0044",
-			"value":"くそっ、こうなったら実力行使だ！"
+			"value":"Damn, if it’s come to this, I’ll have to use\nforce!"
 		},
 		{
 			"key":"EP05_S0327_0045",
-			"value":"こっちもやるぞ、アグモン！"
+			"value":"We’re up to bat, Agumon!"
 		},
 		{
 			"key":"EP05_S0327_0046",
-			"value":"おう！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP05_S0327_0047",
-			"value":"私たちも！"
+			"value":"We’re going, too!"
 		},
 		{
 			"key":"EP05_S0327_0048",
-			"value":"もちろんよ、アオイ！"
+			"value":"You bet, Aoi!"
 		},
 		{
 			"key":"EP05_S0327_0049",
-			"value":"私を騙した恨み、ぶつけてやるんだから！"
+			"value":"I’ll throw the pain of being tricked right\nback in your face!"
 		},
 		{
 			"key":"EP05_S0327_0050",
-			"value":"私も手伝うわ、サキ！"
+			"value":"I’ll help you out, Saki!"
 		}
 	]
 }

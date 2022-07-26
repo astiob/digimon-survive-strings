@@ -2,143 +2,143 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9108_0001",
-			"value":"っかぁ～、ここにも何もナシかぁ～"
+			"value":"Dammit, nothing here, either!"
 		},
 		{
 			"key":"EP10_S9108_0002",
-			"value":"うん……けど、地道に探すしかないよ"
+			"value":"Yeah... But all we can do is keep on looking."
 		},
 		{
 			"key":"EP10_S9108_0003",
-			"value":"わかってるけどさぁ……\nこりゃしんどいぜ……"
+			"value":"I know, I know... Man, am I beat."
 		},
 		{
 			"key":"EP10_S9108_0004",
-			"value":"（確かに、これだけ探してハズレ続きだと\n　やる気も出ないよな）"
+			"value":"(Looking so much with nothing to show for it\nwould dampen anyone’s spirits.)"
 		},
 		{
 			"key":"EP10_S9108_0005",
-			"value":"（何かやる気を出せることってあるかな？\n　使命感、食べ物、あとは……）"
+			"value":"(What can get him motivated again? A sense of\nduty? Food? Or maybe...)"
 		},
 		{
 			"key":"EP10_S9108_Q1",
-			"value":"（僕はミノルに何を言えばいいかな？）"
+			"value":"(What should I do...?)"
 		},
 		{
 			"key":"EP10_S9108_Q1_A1",
-			"value":"励まそう"
+			"value":"It’s for the world."
 		},
 		{
 			"key":"EP10_S9108_Q1_A2",
-			"value":"晩ご飯のおかずでもあげるか"
+			"value":"Want some food?"
 		},
 		{
 			"key":"EP10_S9108_Q1_A3",
-			"value":"やる気を出させよう"
+			"value":"I’ve got a secret...."
 		},
 		{
 			"key":"EP10_S9108_0006",
-			"value":"世界を救う為だ\n頑張ろうよ"
+			"value":"We’re trying to save the world. We have to do\nour best here."
 		},
 		{
 			"key":"EP10_S9108_0007",
-			"value":"う～ん、そう言われてもなぁ……"
+			"value":"I mean, I get that, it’s just..."
 		},
 		{
 			"key":"EP10_S9108_0008",
-			"value":"わかった。ここで頑張ってくれたら\n今日の晩ご飯のおかず、僕の分をあげるよ"
+			"value":"I know. How about I give you my dinner\ntonight if you kick it up a notch?"
 		},
 		{
 			"key":"EP10_S9108_0009",
-			"value":"えっ、マジで！？\nヤベえそれマジでテンションあがる！"
+			"value":"Yo, you serious?! Hell yeah, now I’m raring\nto go here!"
 		},
 		{
 			"key":"EP10_S9108_0010",
-			"value":"え、本当にそんなのでいいの？"
+			"value":"Uh, is that really all it took?"
 		},
 		{
 			"key":"EP10_S9108_0011",
-			"value":"あ、さてはお前、アオイさんの飯の美味さ\n知らねえな～？"
+			"value":"Man, you don’t have a clue how tasty Aoi’s\nmeals can get, do you?"
 		},
 		{
 			"key":"EP10_S9108_0012",
-			"value":"もうマジで、あれ食えなくなったら生きていけない\nっつーレベルの美味さなんだぜ～？"
+			"value":"Like, I’ll die if I never get a chance to eat\nher cooking again."
 		},
 		{
 			"key":"EP10_S9108_0013",
-			"value":"そのおかずを多く食えるんなら\n探索なんていくらでもやってやるぜー！"
+			"value":"If I can get my hands on more of the stuff,\nI’ll search the whole damn forest!"
 		},
 		{
 			"key":"EP10_S9108_0014",
-			"value":"（しまった……早まったことしたかも……）"
+			"value":"(Oops... Maybe I was too hasty...)"
 		},
 		{
 			"key":"EP10_S9108_0015",
-			"value":"いいかミノル、ここだけの話なんだけど……"
+			"value":"Hey Minoru, I’ve got a secret for you."
 		},
 		{
 			"key":"EP10_S9108_0016",
-			"value":"んぉ？　なんだよ……"
+			"value":"A secret? Well spill it."
 		},
 		{
 			"key":"EP10_S9108_0017",
-			"value":"女子が寝てる音楽室\nあそこの床下に行けるルートがあってな"
+			"value":"You know the music room where the girls\nsleep? There’s a way there in the crawlspace."
 		},
 		{
 			"key":"EP10_S9108_0018",
-			"value":"おっと、どう行けるかはミノルの頑張り次第だ\nさぁ探索を続けよう！"
+			"value":"I’ll tell you where it is if you work hard\nenough. So come on, let’s keep looking!"
 		},
 		{
 			"key":"EP10_S9108_0019",
-			"value":"お前……それでオレがやる気出すって思ったの？"
+			"value":"Yo... You thought that would get me going?"
 		},
 		{
 			"key":"EP10_S9108_0020",
-			"value":"（あ……ミノルはこういうの駄目だったか？）"
+			"value":"(Oops... Was I off the mark with him?)"
 		},
 		{
 			"key":"EP10_S9108_0021",
-			"value":"そんなこと聞かされたらやるっきゃないだろ！\nさぁいくぞタクマ！　ミユキを救う為に！"
+			"value":"Well right you were, my man! Let’s get\ncracking, Takuma! For Miyuki’s sake!"
 		},
 		{
 			"key":"EP10_S9108_0022",
-			"value":"あ、うん……そうだな……"
+			"value":"Uh, right... For her sake..."
 		},
 		{
 			"key":"EP10_S9108_0023",
-			"value":"けどさー、実際問題こんだけ探して\n見つかんねえんじゃ、何か見落としてんじゃねーの？"
+			"value":"Still, if we’ve looked this much and haven’t\nfound anything, ain’t we missing something?"
 		},
 		{
 			"key":"EP10_S9108_0024",
-			"value":"それは僕も考えたけど……その見落としが何か\nっていうのがわかんないしな……"
+			"value":"I thought the same... Still, I don’t know\nwhat that thing could be."
 		},
 		{
 			"key":"EP10_S9108_0025",
-			"value":"だよなー、結局地道に探し続けるしかないかー"
+			"value":"Right. Guess we gotta keep looking..."
 		},
 		{
 			"key":"EP10_S9108_0026",
-			"value":"それにオレらは、ハルっぽいやつも\n探さなきゃだしなー"
+			"value":"We also gotta find that guy who looked like\nHaru."
 		},
 		{
 			"key":"EP10_S9108_0027",
-			"value":"祠探しだけじゃなく、ハルとの追いかけっこまでとは\nさすがのミノルさんもヘトヘトですよ、っと"
+			"value":"So on top of looking for the shrine, we gotta\nfind Haru? Man, no rest for the wicked."
 		},
 		{
 			"key":"EP10_S9108_0028",
-			"value":"少し休むか？"
+			"value":"Do you want to take a break?"
 		},
 		{
 			"key":"EP10_S9108_0029",
-			"value":"んー……いや、大丈夫だ！"
+			"value":"Mmm.... Naw, I’m good!"
 		},
 		{
 			"key":"EP10_S9108_0030",
-			"value":"もしあのハルが本物なら\nさっさと合流してやんねえとだしな！"
+			"value":"If that’s the real Haru, we gotta meet up\nwith him ASAP!"
 		},
 		{
 			"key":"EP10_S9108_0031",
-			"value":"さてさて、もうひと踏ん張りいきますか～"
+			"value":"Right, let’s keep up the pace for a bit\nlonger, shall we?!"
 		}
 	]
 }

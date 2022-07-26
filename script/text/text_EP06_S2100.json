@@ -2,95 +2,95 @@
     "scenario_text": [
         {
             "key": "EP06_S2100_0001",
-            "value": "ミノル、あそこ！"
+            "value": "Minoru! Over there!"
         },
         {
             "key": "EP06_S2100_0002",
-            "value": "いた……ファルコモン！"
+            "value": "There he is... Falcomon!"
         },
         {
             "key": "EP06_S2100_0003",
-            "value": "……今更、何の用だ"
+            "value": "What do you want now?"
         },
         {
             "key": "EP06_S2100_0004",
-            "value": "お前に謝らないといけない\nだから来た……"
+            "value": "I came to apologize to you, man."
         },
         {
             "key": "EP06_S2100_0005",
-            "value": "教授から聞いたんだ\n不安定な心が悪い進化に繋がるって"
+            "value": "The professor told us how unstable hearts can\nhave a negative impact on your evolution."
         },
         {
             "key": "EP06_S2100_0006",
-            "value": "オレが不安に思ってたとおりに\nお前が襲ってくるなら、それはオレのせいなんだ"
+            "value": "So if you ever attacked me like I feared,\nthen that’d just be my fault."
         },
         {
             "key": "EP06_S2100_0007",
-            "value": "お前は何にも悪くない！\nだから……"
+            "value": "You ain’t done a damn thing wrong, so..."
         },
         {
             "key": "EP06_S2100_0008",
-            "value": "…………"
+            "value": "..."
         },
         {
             "key": "EP06_S2100_0009",
-            "value": "やはりお前は自分の都合ばかりだな"
+            "value": "You truly act for your own convenience."
         },
         {
             "key": "EP06_S2100_0010",
-            "value": "う……"
+            "value": "Urgh..."
         },
         {
             "key": "EP06_S2100_0011",
-            "value": "ごめん\nオレ、何にも言えねぇ"
+            "value": "Sorry. I can’t make any excuses."
         },
         {
             "key": "EP06_S2100_0012",
-            "value": "でも……それでもオレ\nお前が悪い奴になるなんて嫌なんだよ！"
+            "value": "Still... I hate the idea of you turning bad\nbecause of me!  "
         },
         {
             "key": "EP06_S2100_0013",
-            "value": "ファルコモン……今の言葉は勢いだけじゃない\nミノルの本心だ"
+            "value": "Falcomon... He’s not saying this in the spur\nof the moment. It’s how he really feels."
         },
         {
             "key": "EP06_S2100_0014",
-            "value": "だから許してあげてくれないか？"
+            "value": "Can’t you find it in your heart to forgive\nhim?  "
         },
         {
             "key": "EP06_S2100_0015",
-            "value": "…………"
+            "value": "..."
         },
         {
             "key": "EP06_S2100_0016",
-            "value": "……戻れないんだ、俺は"
+            "value": "...I cannot return."
         },
         {
             "key": "EP06_S2100_0017",
-            "value": "どういう意味？"
+            "value": "What do you mean by that?"
         },
         {
             "key": "EP06_S2100_0018",
-            "value": "さてな"
+            "value": "Farewell."
         },
         {
             "key": "EP06_S2100_0019",
-            "value": "あっ……\n待ってくれよ、ファルコモン！"
+            "value": "Ah... Hold up, Falcomon!"
         },
         {
             "key": "EP06_S2100_0020",
-            "value": "（ファルコモン……戻らないじゃなくて\n　戻れないって言ったよな？）"
+            "value": "(He didn’t say he “won’t” return...he said he\ncan’t.)"
         },
         {
             "key": "EP06_S2100_0021",
-            "value": "（一体どういう意味なんだ？）"
+            "value": "(What did he mean by that?)"
         },
         {
             "key": "EP06_S2100_0022",
-            "value": "タクマ、オレ……\nファルコモンと話をしたいんだ"
+            "value": "Takuma... I wanna talk to Falcomon."
         },
         {
             "key": "EP06_S2100_0023",
-            "value": "うん、もう一度<color=#B41919>ファルコモンに話しかけて</color>みよう"
+            "value": "Sure, let’s try <color=#B41919>talking to Falcomon</color> again."
         }
     ]
 }

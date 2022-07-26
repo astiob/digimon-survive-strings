@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0329_0001",
-			"value":"……あれ！？\nここって……"
+			"value":"Huh?! This is...?"
 		},
 		{
 			"key":"EP05_S0329_0002",
-			"value":"最初にいたところに戻されたみたいだ\n多分、本物を見分けられなかったから……"
+			"value":"Looks like we’re back at the start. Guess\nthat means we picked the wrong path..."
 		},
 		{
 			"key":"EP05_S0329_0003",
-			"value":"そんな……\n私が、フローラモンを間違えるなんて……"
+			"value":"Aw no... Then I picked the wrong Floramon..."
 		},
 		{
 			"key":"EP05_S0329_0004",
-			"value":"大丈夫！　もう一回挑戦しよう！"
+			"value":"Don’t worry! We just have to try again!"
 		},
 		{
 			"key":"EP05_S0329_0005",
-			"value":"そ、そうだよね\n今度こそフローラモンを取り返すよ！"
+			"value":"Yes, yes you’re right. I’ll get Floramon back\nthis time!"
 		}
 	]
 }

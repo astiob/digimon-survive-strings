@@ -2,179 +2,179 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7302_0001",
-			"value":"ああ、タクマか\nどうだ？　アオイの手がかりは見つかったか？"
+			"value":"Oh, hey Takuma. How’s your search going? Find\nany clues?"
 		},
 		{
 			"key":"EP11_S7302_0002",
-			"value":"ううん、残念だけどまだ何も……"
+			"value":"No, I haven’t had any luck yet."
 		},
 		{
 			"key":"EP11_S7302_0003",
-			"value":"そうか……こっちもだ"
+			"value":"Yeah, I haven’t found anything either."
 		},
 		{
 			"key":"EP11_S7302_0004",
-			"value":"はあ……あの時、あいつを無理やりにでも\n引き留めてれば……"
+			"value":"*sigh* If only I’d stopped her..."
 		},
 		{
 			"key":"EP11_S7302_0005",
-			"value":"え……？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP11_S7302_0006",
-			"value":"アオイが、ハルを追いかけて図書館まで\n１人で行っちまったせいで、こんなことになったんだ"
+			"value":"None of this would’ve happened if I hadn’t\nlet Aoi go chasing after Haru on her own."
 		},
 		{
 			"key":"EP11_S7302_0007",
-			"value":"おいカイト、過ぎちまったことを\nあーだこーだ言っても仕方ねえだろ"
+			"value":"Well, it’s no use blaming yourself now.\nWhat’s done is done."
 		},
 		{
 			"key":"EP11_S7302_0008",
-			"value":"んなこと、わかってんだよ\nけどよ……"
+			"value":"I know that, okay? It’s just..."
 		},
 		{
 			"key":"EP11_S7302_0009",
-			"value":"あの時、オレが一番アオイのそばにいた\nアオイがどれほど悩んでるかも聞いてた"
+			"value":"I was right there with her. I knew how upset\nshe was."
 		},
 		{
 			"key":"EP11_S7302_0010",
-			"value":"なのにオレは、自分の考えをアオイに押し付けて\nあげく、結局アオイを１人にしちまったんだ"
+			"value":"But I put my own thoughts first and wound up\ndriving her away."
 		},
 		{
 			"key":"EP11_S7302_0011",
-			"value":"オレが、もっとアオイの話を聞いてやれば……\nアオイを１人にしなけりゃ、こんなことには……"
+			"value":"If only I’d listened to her... If only\nI hadn’t left her alone... It’s all my fault!"
 		},
 		{
 			"key":"EP11_S7302_0012",
-			"value":"（そうか……カイトは\n　実は誰より、アオイさんのことで責任を感じてたんだ）"
+			"value":"(Sounds like Kaito actually feels more\nresponsible for this than anyone.)"
 		},
 		{
 			"key":"EP11_S7302_0013",
-			"value":"（だけど、そんなことを言いだしたらきりがないのは\n　カイト自身もわかってるはず）"
+			"value":"(But I’m sure he already knows bringing this\nup won’t get us anywhere.)"
 		},
 		{
 			"key":"EP11_S7302_0014",
-			"value":"（カイトが自分を責めて、後悔してたって\n　もしアオイさんが知ったら……）"
+			"value":"(Honestly, I don’t think Aoi would be happy\nto see Kaito beating himself up about this.)"
 		},
 		{
 			"key":"EP11_S7302_0015",
-			"value":"（それにこのままじゃ、ミウを助けようと\n　してた時みたいに、カイトが暴走しちゃうかもだし……）"
+			"value":"(And I’m worried that Kaito might lose it,\nlike when he was desperate to save Miu.)"
 		},
 		{
 			"key":"EP11_S7302_0016",
-			"value":"（カイトの気持ちが軽くなるよう励ましたいけど\n　どう言えば、いいだろう……？）"
+			"value":"(I want to try to make him feel better, but\nwhat can I say?)"
 		},
 		{
 			"key":"EP11_S7302_Q1",
-			"value":"（カイトを励ますにはどうすればいい？）"
+			"value":"(How can I encourage Kaito?)"
 		},
 		{
 			"key":"EP11_S7302_Q1_A1",
-			"value":"アオイさんは喜ばないと諭そう"
+			"value":"What would Aoi think?"
 		},
 		{
 			"key":"EP11_S7302_Q1_A2",
-			"value":"言い出したらきりがないと言おう"
+			"value":"This gets us nowhere."
 		},
 		{
 			"key":"EP11_S7302_0017",
-			"value":"アオイさんは喜ばないと諭す"
+			"value":"What would Aoi think?"
 		},
 		{
 			"key":"EP11_S7302_0018",
-			"value":"カイトの気持ちはわかる\n僕がカイトの立場なら、やっぱり後悔したと思う"
+			"value":"Look, Kaito, I know how you must be feeling.\nI’m sure I’d blame myself in your shoes too."
 		},
 		{
 			"key":"EP11_S7302_0019",
-			"value":"けど、自分のことでカイトが苦しんでるって\nアオイさんが知ったら……"
+			"value":"But what would Aoi think if she found out you\nwere torturing yourself because of her?"
 		},
 		{
 			"key":"EP11_S7302_0020",
-			"value":"そんなの、アオイさんだって嬉しくないと思うんだ！"
+			"value":"I don’t think she’d want that at all!"
 		},
 		{
 			"key":"EP11_S7302_0021",
-			"value":"そ、それは……"
+			"value":"Well..."
 		},
 		{
 			"key":"EP11_S7302_0022",
-			"value":"いや……本当、お前の言う通りだよ\nだって……オレ、アオイに似たようなこと言ったし"
+			"value":"No, really, you’re right. Actually, I said\nsomething similar to Aoi myself."
 		},
 		{
 			"key":"EP11_S7302_0023",
-			"value":"はは、情けねえな……\nアオイに偉そうなこと言った癖に……"
+			"value":"Haha, I guess it serves me right. Talking\ndown to Aoi like that..."
 		},
 		{
 			"key":"EP11_S7302_0024",
-			"value":"誰だって、自分のことになると\n冷静にはなれないものだから、しょうがないよ"
+			"value":"Hey, don’t beat yourself up too much. It’s\nalways easier to give advice than to take it."
 		},
 		{
 			"key":"EP11_S7302_0025",
-			"value":"言い出したらきりがないと言う"
+			"value":"This gets us nowhere."
 		},
 		{
 			"key":"EP11_S7302_0026",
-			"value":"レナモンにも言ったけど、誰が悪いとか\n誰に責任があるとか……"
+			"value":"I said this to Renamon, but we’ll never get\nanywhere if we focus on who’s to blame."
 		},
 		{
 			"key":"EP11_S7302_0027",
-			"value":"そんなのは、言い出したらきりがないよ"
+			"value":"Once we start pointing fingers, there’ll be\nno end to it."
 		},
 		{
 			"key":"EP11_S7302_0028",
-			"value":"それは、わかってる。けどよ……"
+			"value":"I mean, I know that. You’re right, but..."
 		},
 		{
 			"key":"EP11_S7302_0029",
-			"value":"いや……そうやってうだうだ言ってても\n仕方ねえってことなんだよな"
+			"value":"No, whining like that’s not gonna do any\ngood."
 		},
 		{
 			"key":"EP11_S7302_0030",
-			"value":"ともかくよ、早くアオイを捜してやろうぜ？\n全てはそっからだろ！"
+			"value":"Anyway, the important thing is we find Aoi,\nright? Everything else comes after that."
 		},
 		{
 			"key":"EP11_S7302_0031",
-			"value":"ああ、そうだな\nこんなところで、立ち止まってる場合じゃねえ"
+			"value":"Yeah, good point. We can’t afford to be\nwasting time standing around here!"
 		},
 		{
 			"key":"EP11_S7302_0032",
-			"value":"タクマ、オレとドラクモンは\nもうしばらく、アオイ捜しを続けるぜ"
+			"value":"Takuma, I’m going to keep looking around with\nDracmon."
 		},
 		{
 			"key":"EP11_S7302_0033",
-			"value":"ああ、わかった\nでも、あんまり遠くまでは行かないでくれよ？"
+			"value":"Got it. Just don’t go too far, okay?"
 		},
 		{
 			"key":"EP11_S7302_0034",
-			"value":"それからカイトは、時々やりすぎるところがあるから\nあんまり無茶は……"
+			"value":"And Kaito, you can go a little overboard\nsometimes. Try not to push yourself—"
 		},
 		{
 			"key":"EP11_S7302_0035",
-			"value":"ははっ……なんだよそれ\nアオイみてーなこと言うなって"
+			"value":"Haha, what’s that? Your Aoi impression? It\nsucks."
 		},
 		{
 			"key":"EP11_S7302_0036",
-			"value":"あははー、たしかにアオイみたいな\n言いかたしてたねー"
+			"value":"Ahaha, yeah, that did sound like something\nAoi would say."
 		},
 		{
 			"key":"EP11_S7302_0037",
-			"value":"そ、そう……？\n僕はただ、心配しただけなんだけど"
+			"value":"You think so? I just said it because I was\nworried."
 		},
 		{
 			"key":"EP11_S7302_0038",
-			"value":"わかってるよ\nみんなに心配かけるようなことはしねーって"
+			"value":"Sure, I get it. And I won’t do anything\nthat’d make you guys worry about me."
 		},
 		{
 			"key":"EP11_S7302_0039",
-			"value":"じゃあ、行ってくる……！"
+			"value":"Now come on, let’s go!"
 		},
 		{
 			"key":"EP11_S7302_0040",
-			"value":"そう心配しなくても\nみんなに心配かけるようなことはしねーって"
+			"value":"Hey, man, relax. I won’t do anything that’d\nmake you guys worry about me."
 		},
 		{
 			"key":"EP11_S7302_0041",
-			"value":"とにかく、もうしばらくアオイを捜してみるから……！"
+			"value":"I’ll just keep looking for Aoi a little\nlonger."
 		}
 	]
 }

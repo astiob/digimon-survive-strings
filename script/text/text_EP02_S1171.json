@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1171_0001",
-			"value":"キュゥ、キュゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP02_S1171_0002",
-			"value":"（クネモンも頑張ってくれてるけど\n　特に手掛かりは見つかってなさそうだ）"
+			"value":"(Kunemon is doing its best, but it doesn’t\nseem to have found anything.)"
 		},
 		{
 			"key":"EP02_S1171_0003",
-			"value":"（ひとまずここはリョウとクネモンに任せて\n　僕は他のところも見てみよう）"
+			"value":"(I should let Ryo and Kunemon handle this\narea while I search elsewhere.)"
 		},
 		{
 			"key":"EP02_S1171_0004",
-			"value":"（クネモンは頑張ってくれてる\n　僕も頑張って捜そう！）"
+			"value":"(Kunemon’s searching as best as it can.\nI should be doing the same thing!)"
 		}
 	]
 }

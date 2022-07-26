@@ -2,547 +2,547 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0020_0013",
-			"value":"ふぁ～あ……"
+			"value":"*yawn*"
 		},
 		{
 			"key":"EP02_S0020_0001",
-			"value":"……おはよう、ミノル"
+			"value":"...Morning, Minoru."
 		},
 		{
 			"key":"EP02_S0020_0002",
-			"value":"……ああ、おはよう、タクマ"
+			"value":"Back at you, Takuma."
 		},
 		{
 			"key":"EP02_S0020_0003",
-			"value":"……やっぱ、夢じゃなかったんだな"
+			"value":"So it wasn’t a dream, huh?"
 		},
 		{
 			"key":"EP02_S0020_0004",
-			"value":"……そうだな"
+			"value":"Looks like it."
 		},
 		{
 			"key":"EP02_S0020_0005",
-			"value":"（一晩経っても、悪夢は醒めていなかったか……）"
+			"value":"(I figured I’d wake up by now...)"
 		},
 		{
 			"key":"EP02_S0020_0006",
-			"value":"あんなコトがあってよく眠れたよな、オレたち"
+			"value":"We slept like babies after everything\nyesterday."
 		},
 		{
 			"key":"EP02_S0020_0007",
-			"value":"まあ……昨日は色々あったしな"
+			"value":"Tell me about it. What a day!"
 		},
 		{
 			"key":"EP02_S0020_0008",
-			"value":"……はぁ。すげーな。朝日の中で改めて見ると\nホントに廃墟だぜ、この学校"
+			"value":"Man, looking around again in the daylight,\nthis place’s definitely seen better days."
 		},
 		{
 			"key":"EP02_S0020_0009",
-			"value":"あんなバケモノと戦ったんだよな、僕たち"
+			"value":"We fought against monsters yesterday!"
 		},
 		{
 			"key":"EP02_S0020_0010",
-			"value":"ボクもだよ！"
+			"value":"Tell me about it!"
 		},
 		{
 			"key":"EP02_S0020_0011",
-			"value":"俺もな！"
+			"value":"Indeed!"
 		},
 		{
 			"key":"EP02_S0020_0012",
-			"value":"ああ……ホント、夢じゃないんだ……"
+			"value":"...This is real."
 		},
 		{
 			"key":"EP02_S0020_0014",
-			"value":"おはよう、タクマくん、ミノルくん"
+			"value":"Good morning, Takuma. Minoru."
 		},
 		{
 			"key":"EP02_S0020_0015",
-			"value":"あ、アオイさん。はよー"
+			"value":"Hey Aoi. Mornin’!"
 		},
 		{
 			"key":"EP02_S0020_0016",
-			"value":"おはよう、アオイさん\n昨日はよく眠れた？"
+			"value":"Good morning, Aoi.\nDid you sleep well?"
 		},
 		{
 			"key":"EP02_S0020_0017",
-			"value":"ええ。まだ少し疲れているけれど\n頭はスッキリしたわ"
+			"value":"I did. Still a little tired, but my head has\nfinally cleared."
 		},
 		{
 			"key":"EP02_S0020_0018",
-			"value":"そっか。なら良かった"
+			"value":"That’s good to hear."
 		},
 		{
 			"key":"EP02_S0020_0019",
-			"value":"……おう"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP02_S0020_0020",
-			"value":"お、リョウ先輩！　お寝坊ですね～"
+			"value":"Hey, Ryo, you sleepyhead!"
 		},
 		{
 			"key":"EP02_S0020_0021",
-			"value":"う、うっせーよ……あんな状況で寝れっか"
+			"value":"Shaddup. How’m I s’posed to sleep?"
 		},
 		{
 			"key":"EP02_S0020_0022",
-			"value":"お前らはぐーすか寝やがって……\nおかしいんじゃねえのか？"
+			"value":"You were all out like lights.\nHow could you even sleep after all this?"
 		},
 		{
 			"key":"EP02_S0020_0023",
-			"value":"まぁ、リョウ先輩はずーっと教室にいたり\n気絶したりして休んでましたからねー"
+			"value":"Well, you were in the classroom that whole\ntime and kept fainting..."
 		},
 		{
 			"key":"EP02_S0020_0024",
-			"value":"なんだと！"
+			"value":"Say that again!"
 		},
 		{
 			"key":"EP02_S0020_0025",
-			"value":"とりあえずみんな起きてきたようだし……\nこれからどうするか、相談したいんだけど……"
+			"value":"Now that everyone’s awake, we should put our\nheads together and think about the next step."
 		},
 		{
 			"key":"EP02_S0020_0026",
-			"value":"とにかく昨日は色々あり過ぎで、あのまま\nみんな疲れ果ててバタンキューだったもんな"
+			"value":"Yeah, with everything that went on yesterday\nwe were too tired to do anything but sleep."
 		},
 		{
 			"key":"EP02_S0020_0027",
-			"value":"つーか、\n何でタクマが仕切ってるんだよ！"
+			"value":"Hey, wait! Who died and made you the boss,\nTakuma?!"
 		},
 		{
 			"key":"EP02_S0020_0028",
-			"value":"そーだそーだ！"
+			"value":"Yeah, what he said!"
 		},
 		{
 			"key":"EP02_S0020_0029",
-			"value":"いや、なんでアグモンがそっちに回るんだよ！"
+			"value":"Why’re you taking his side, Agumon?!"
 		},
 		{
 			"key":"EP02_S0020_0030",
-			"value":"そういうのは年長者でやんねーとな\nアオイ先輩、リョウ先輩どうぞ！"
+			"value":"This sort of thing is better left to the\nolder kids. Aoi, Ryo, you’re up!"
 		},
 		{
 			"key":"EP02_S0020_0031",
-			"value":"こ、こんな時だけ先輩って呼ばないでよ……"
+			"value":"You treat me with respect now, of all times?"
 		},
 		{
 			"key":"EP02_S0020_0032",
-			"value":"う、う～ん……私は……"
+			"value":"I mean... To be honest, I..."
 		},
 		{
 			"key":"EP02_S0020_0033",
-			"value":"どうするもこうするもどうにもなんねーだろ！"
+			"value":"It ain’t gonna make any difference, is it?!"
 		},
 		{
 			"key":"EP02_S0020_0034",
-			"value":"（あぁ、リョウは相変わらず不機嫌なままだな……）"
+			"value":"(That’s Ryo for you...)"
 		},
 		{
 			"key":"EP02_S0020_0035",
-			"value":"（昨晩の事でバツが悪いんだろうけど……）"
+			"value":"(I guess last night’s events didn’t help...)"
 		},
 		{
 			"key":"EP02_S0020_0036",
-			"value":"とにかくオレはおめーらの引率なんて\nする気もねーし、器じゃねー。知らねーよ……"
+			"value":"I ain’t got the time or the inclination to\nlead you losers around."
 		},
 		{
 			"key":"EP02_S0020_0037",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S0020_0038",
-			"value":"うん。まあ、そうだよねー"
+			"value":"Yeah, that sounds about right."
 		},
 		{
 			"key":"EP02_S0020_0039",
-			"value":"じゃ、アオイさんは？"
+			"value":"Guess that leaves you, Aoi."
 		},
 		{
 			"key":"EP02_S0020_0040",
-			"value":"う～ん……ゴメンなさい、\n私も頼りにされるほどしっかりはしてないわ……"
+			"value":"I’m afraid I also lack what it takes to be\na leader."
 		},
 		{
 			"key":"EP02_S0020_0041",
-			"value":"まじめなのに？"
+			"value":"But...but you’re so serious!"
 		},
 		{
 			"key":"EP02_S0020_0042",
-			"value":"それとこれとは別でしょ？"
+			"value":"What does that have to do with anything?"
 		},
 		{
 			"key":"EP02_S0020_0043",
-			"value":"そんなコトないって！\nアオイは優しいしまじめだし頼りになるって！"
+			"value":"But Aoi! You’re not just serious, you’re also\nnice! You’d be a great leader!"
 		},
 		{
 			"key":"EP02_S0020_0044",
-			"value":"だから買いかぶりよ……\n私、今だって、不安で不安で……"
+			"value":"You overestimate me.\nEven now I’m full of anxiety..."
 		},
 		{
 			"key":"EP02_S0020_0045",
-			"value":"そもそも……今、私達はどうなってるの？\n子供だけで一晩迷ってて、帰ってこないのよ？"
+			"value":"Seriously, what is going on? Think about it:\na group of children went missing overnight..."
 		},
 		{
 			"key":"EP02_S0020_0046",
-			"value":"きっと、大騒ぎになってる筈だわ？\nなのに……"
+			"value":"You would expect this to cause a major\nuproar, and yet..."
 		},
 		{
 			"key":"EP02_S0020_0047",
-			"value":"そうかー。確かに、\nヘリの一台でも飛んでておかしくないよな"
+			"value":"Ohhh, I get what you’re saying. You’d expect\nthem to send out a helicopter or something."
 		},
 		{
 			"key":"EP02_S0020_0048",
-			"value":"朝になっても、救援に来てくれる様子もないなんて\nいったい、何が起きてるのかしら……？"
+			"value":"It’s already morning, but there’s no sign of\na search party. This is just too strange..."
 		},
 		{
 			"key":"EP02_S0020_0049",
-			"value":"そりゃあ山で遭難ならともかく、\n今居るの校舎だしな"
+			"value":"We’re not stuck on some mountain or\nsomething. We’re in a school!"
 		},
 		{
 			"key":"EP02_S0020_0050",
-			"value":"むしろここに人がいない方が不自然だろ……\n行方不明なのはオレたち以外の全人類じゃねーのか？"
+			"value":"Ain’t it weird there’s nobody else around\nthough? Everyone else has disappeared."
 		},
 		{
 			"key":"EP02_S0020_0051",
-			"value":"そ、そんな不安を煽るような事……"
+			"value":"You’re not making me feel any better..."
 		},
 		{
 			"key":"EP02_S0020_0052",
-			"value":"だってそうだろ！？\n見てみろ、スマホも繋がらねえ！"
+			"value":"I’m just telling it like it is, right?! Look,\neven our phones are out of service!"
 		},
 		{
 			"key":"EP02_S0020_0053",
-			"value":"どうなってる！？\n人類はもうおしまいなんじゃねーのか！？"
+			"value":"What the heck?! Did the world just end or\nsomething?!"
 		},
 		{
 			"key":"EP02_S0020_0054",
-			"value":"そうでなきゃ、\nオレたちがオシマイって話だろ……！？"
+			"value":"If that ain’t the case, then stick a fork in\nus, ‘cause we’re done!"
 		},
 		{
 			"key":"EP02_S0020_0055",
-			"value":"確かに。行方不明のガキなんて構ってられない\nすっげー天変地異が起きてる……とか？"
+			"value":"You think some disaster occurred? It’d\nexplain why they ain’t looking for lost kids."
 		},
 		{
 			"key":"EP02_S0020_0056",
-			"value":"や、ヤメてよ……"
+			"value":"Stop it, I’m begging you..."
 		},
 		{
 			"key":"EP02_S0020_0057",
-			"value":"いや、だってこの校舎見てみなよ\nオレたちが気絶してる一瞬でコレだぜ？"
+			"value":"I’m just saying, look around! We weren’t out\nthat long, and the school’s all messed up."
 		},
 		{
 			"key":"EP02_S0020_0058",
-			"value":"周囲の景色まで変わってるんだ\nこれって何なんだ？　異常事態だぜ？"
+			"value":"The whole landscape changed, too. Stuff like\nthis doesn’t exactly happen every day!"
 		},
 		{
 			"key":"EP02_S0020_0059",
-			"value":"パラレルワールドに飲み込まれたか\nそれか、タイムスリップでもしたのかな？"
+			"value":"Maybe we ended up in some parallel world?\nOr, like, traveled through time?"
 		},
 		{
 			"key":"EP02_S0020_0060",
-			"value":"謎の超兵器が作動したとか？\nそれで一瞬で校舎が朽ちて地形が変わったとか？"
+			"value":"Or maybe someone fired off some superweapon?\nThat could explain the school and everything."
 		},
 		{
 			"key":"EP02_S0020_0061",
-			"value":"いーや、違うよな？　このボロボロさって、\n地震とか爆撃じゃなくて古びた感じだぜ？"
+			"value":"Wait, that can’t be it. This place looks more\n“run down” than “blown up,” you know?"
 		},
 		{
 			"key":"EP02_S0020_0062",
-			"value":"なあ、一体……何が起こってるんだろうな！？\nすっげーワクワクしねーか？"
+			"value":"Man, this is all so COOL!!!\nDon’t ya think?!"
 		},
 		{
 			"key":"EP02_S0020_0063",
-			"value":"……しないわ。とても不安よ"
+			"value":"...Were you listening at all?"
 		},
 		{
 			"key":"EP02_S0020_0064",
-			"value":"バカかおめー"
+			"value":"Is your brain broken or something?"
 		},
 		{
 			"key":"EP02_S0020_0065",
-			"value":"（……ちょっとリョウに賛成だ）"
+			"value":"(I’m actually agreeing with Ryo...)"
 		},
 		{
 			"key":"EP02_S0020_0066",
-			"value":"それに……昨晩の怪物は何なの？"
+			"value":"And what were those creatures last night?"
 		},
 		{
 			"key":"EP02_S0020_0067",
-			"value":"何なのって言うなら……\n言っちゃ何だけどファルコモンたちもだぜ？"
+			"value":"I hate to say it, but...they kinda reminded\nme of these little guys, don'tcha think?"
 		},
 		{
 			"key":"EP02_S0020_0068",
-			"value":"む、俺もか？"
+			"value":"Of us?!"
 		},
 		{
 			"key":"EP02_S0020_0069",
-			"value":"とにかく今わかっている事は、人の姿が消えて\n課外キャンプの旧校舎がボロボロになって……"
+			"value":"All we can say for sure is that everyone’s\ngone, and the school building’s in ruins..."
 		},
 		{
 			"key":"EP02_S0020_0070",
-			"value":"そしてその周辺の地形も、\n何故か見覚えのない形にすっかり様変わりして……"
+			"value":"The area around here’s completely different\nfor some reason..."
 		},
 		{
 			"key":"EP02_S0020_0071",
-			"value":"そんでもって、立ち込める例の霧で、\n状況がまるでわからない"
+			"value":"And the fog all around here makes it\nimpossible to figure out what’s going on."
 		},
 		{
 			"key":"EP02_S0020_0072",
-			"value":"その霧も、何だか触れると危ないって話だ"
+			"value":"The fog is apparently too dangerous to touch."
 		},
 		{
 			"key":"EP02_S0020_0073",
-			"value":"話っていうかホントに危ないんだよ！"
+			"value":"Not “apparently”! It’s really dangerous!"
 		},
 		{
 			"key":"EP02_S0020_0074",
-			"value":"らしいな。そして何より、\nここには得体の知れない怪物がうじゃうじゃいる"
+			"value":"So you say. And to top it all off, all those\nweird things are crawling around out there."
 		},
 		{
 			"key":"EP02_S0020_0075",
-			"value":"得体の知れない怪物なんかじゃないぞ！"
+			"value":"Who’s a weird thing?!"
 		},
 		{
 			"key":"EP02_S0020_0076",
-			"value":"じゃあ何なんだよ？"
+			"value":"Well then what are you, exactly?"
 		},
 		{
 			"key":"EP02_S0020_0077",
-			"value":"ボクたちはボクたち、あいつらはあいつらだよ！"
+			"value":"We’re us, and they’re them!"
 		},
 		{
 			"key":"EP02_S0020_0078",
-			"value":"だから、それをちゃんと説明してくれよ！"
+			"value":"That doesn’t explain anything!"
 		},
 		{
 			"key":"EP02_S0020_0079",
-			"value":"説明できるようなボクじゃないからね！"
+			"value":"That’s right, I can’t explain anything!"
 		},
 		{
 			"key":"EP02_S0020_0080",
-			"value":"そんなの胸を張って堂々と言うなよ！"
+			"value":"Then why are you talking so confidently?!"
 		},
 		{
 			"key":"EP02_S0020_0081",
-			"value":"てコトで、一番賢そうなファルコモンの出番だぜ"
+			"value":"Falcomon, what do you think?"
 		},
 		{
 			"key":"EP02_S0020_0082",
-			"value":"うむ、俺か"
+			"value":"Me?"
 		},
 		{
 			"key":"EP02_S0020_0083",
-			"value":"そうね\nお願い、私やアグモンじゃ無理かも"
+			"value":"Seriously, we’re not getting anywhere\nover here..."
 		},
 		{
 			"key":"EP02_S0020_0084",
-			"value":"心得た。さて……どうしたものかな\n我々もまた、我々の存在に疑問を持った事がない"
+			"value":"Very well. Let’s see... I can say that we\nhave no doubts about our own existence."
 		},
 		{
 			"key":"EP02_S0020_0085",
-			"value":"ただ、君たちニンゲンの世界と\n我々の世界が別物なのは確かだろう……"
+			"value":"Still, it’s clear that our world is separate\nfrom the world of you humans..."
 		},
 		{
 			"key":"EP02_S0020_0086",
-			"value":"や、やっぱりパラレルワールドなんだ！？"
+			"value":"So this really is a parallel world?!"
 		},
 		{
 			"key":"EP02_S0020_0087",
-			"value":"その言葉の意味は俺にもわからない……"
+			"value":"I’m not sure what you mean..."
 		},
 		{
 			"key":"EP02_S0020_0088",
-			"value":"確かに常軌を逸した状況だとは思うわ……\nでも、異世界かどうかはまだわからないわ？"
+			"value":"I admit that our situation is weird, but we\ncan’t be sure that this is a different world."
 		},
 		{
 			"key":"EP02_S0020_0089",
-			"value":"だったら、こうして人の手による建物が\nどうしてあるの？"
+			"value":"If this is a different world, then where did\nthis human building come from?"
 		},
 		{
 			"key":"EP02_S0020_0090",
-			"value":"それは……う～ん……\n人間だけじゃなく建物ごと迷い込んだ？"
+			"value":"Well that’s...hmm...\nMaybe the building got transported, too?"
 		},
 		{
 			"key":"EP02_S0020_0091",
-			"value":"だったら、こんなボロボロの校舎じゃなくて\n私達のいた校舎じゃない？"
+			"value":"Then wouldn’t the school be in the same\ncondition, instead of falling apart?"
 		},
 		{
 			"key":"EP02_S0020_0092",
-			"value":"構造は課外キャンプの校舎と似てるけど……\nやっぱりここの校舎は別物のように思うわ"
+			"value":"It looks like the building where we set up\ncamp, but I think this one is different."
 		},
 		{
 			"key":"EP02_S0020_0093",
-			"value":"それに関しては俺もわからない\n野山や木々、岩、海、川……"
+			"value":"This is a mystery to me, too. The hills and\ntrees, the rocks, ocean and rivers..."
 		},
 		{
 			"key":"EP02_S0020_0094",
-			"value":"それら自然界にある物以外の『建物』の存在は\nある日突然、現れたと聞く"
+			"value":"Unlike these natural formations, the building\njust suddenly appeared one day. So I heard."
 		},
 		{
 			"key":"EP02_S0020_0095",
-			"value":"誰が、どうやって？"
+			"value":"Heard? From who? And how?"
 		},
 		{
 			"key":"EP02_S0020_0096",
-			"value":"さあ……？　神と呼ばれる存在\nあるいはそれに近しい力を持つ同胞……なのか"
+			"value":"I’m not sure. Perhaps it was some divine\nbeing, or one of my brethren with such power."
 		},
 		{
 			"key":"EP02_S0020_0097",
-			"value":"正しい事など何もわからないし\n何より、この世界の住民は様々な力や姿を持つ"
+			"value":"I cannot say for sure. The residents of this\nworld possess various powers and forms."
 		},
 		{
 			"key":"EP02_S0020_0098",
-			"value":"凄まじい力を持つもの、弱くか細いもの、\n何でも器用にこなすもの、何もできないもの……"
+			"value":"Entities of terrible strength; some weak and\nfrail; capable beings; helpless creatures..."
 		},
 		{
 			"key":"EP02_S0020_0099",
-			"value":"つまり、お前たちのお仲間が\n作った可能性すらあるのか？"
+			"value":"So you’re saying one of your kind could have\nmade this?"
 		},
 		{
 			"key":"EP02_S0020_0100",
-			"value":"……手先が器用なやつが人間の建物を真似て作ったとか\n何か凄い力で人間界の建物をこっちに持ってきたとか？"
+			"value":"One could’ve built it to resemble a human\nbuilding, or transported it from our world."
 		},
 		{
 			"key":"EP02_S0020_0101",
-			"value":"わからない。ただ俺の知ってる事を並べるなら\n我々の世界の住民は、一様ではない"
+			"value":"I do not know. All I can say is that there is\nmuch variation among those who live here."
 		},
 		{
 			"key":"EP02_S0020_0102",
-			"value":"言葉を交わし、意思疎通もできる温和なものから、\n話も通じない狂暴なものまでいる"
+			"value":"Some are capable of speech and compromise;\nothers are frenzied and incapable of either."
 		},
 		{
 			"key":"EP02_S0020_0103",
-			"value":"そして……ニンゲンという存在もまた、\n我々の中ではお伽噺のように伝わっていた"
+			"value":"What’s more... Humans are considered nothing\nmore than fairy tales among our kind."
 		},
 		{
 			"key":"EP02_S0020_0104",
-			"value":"いや、実際に接触したのはこれが初めてだ\nただ……"
+			"value":"In truth, you’re the first I’ve ever met.\nAnd yet, it has been said..."
 		},
 		{
 			"key":"EP02_S0020_0105",
-			"value":"どこからか、ニンゲンのコドモと呼ばれる存在が現れ\n我々に力をもたらせてくれる……という話だ"
+			"value":"That actual human children would appear,\ncapable of drawing out our true power..."
 		},
 		{
 			"key":"EP02_S0020_0106",
-			"value":"ん……それって……"
+			"value":"Oh. That sounds like..."
 		},
 		{
 			"key":"EP02_S0020_0107",
-			"value":"（教授から聞いた、\n　ケモノガミ様の話『神隠し』の真逆みたいだ）"
+			"value":"(Yeah, the story of the Kemonogami. Could\nthis be the truth behind those stories?)"
 		},
 		{
 			"key":"EP02_S0020_0108",
-			"value":"先のドクグモンとの闘いでアグモンが見せたような\nより強い姿に変化する者もいる、との事……"
+			"value":"That might explain the transformation of\nAgumon as he fought Dokugumon."
 		},
 		{
 			"key":"EP02_S0020_0109",
-			"value":"何で急に姿が変わって、\nそれで強くなったりするんだ？"
+			"value":"Why did Agumon suddenly change shape and\npower up like that?"
 		},
 		{
 			"key":"EP02_S0020_0110",
-			"value":"えーっと、わかんない！"
+			"value":"Beats me!"
 		},
 		{
 			"key":"EP02_S0020_0111",
-			"value":"う～ん……外部の影響、人間との接触なんかが\n媒介となって急激な変化が起こっているのかしら？"
+			"value":"Hmm... Maybe an external force—contact with\nhumans—triggered a sudden mutation?"
 		},
 		{
 			"key":"EP02_S0020_0112",
-			"value":"優位的な選択変化……すなわち進化、ね\n本能的にそれを一代で行えるなんて凄いわね"
+			"value":"Selective mutation...a sort of instant,\ninstinctive evolution. It’s amazing!"
 		},
 		{
 			"key":"EP02_S0020_0113",
-			"value":"エヘン！　凄いんだ！\n意味はわかってないけど！"
+			"value":"Heh heh! Yeah, I’m amazing!\nI guess?"
 		},
 		{
 			"key":"EP02_S0020_0114",
-			"value":"うむ……俺たちにとってはそれが当たり前の事で\n疑問に感じたこともないからな……"
+			"value":"Hmm... This is only natural for us. It’s\nnever struck me as anything special."
 		},
 		{
 			"key":"EP02_S0020_0115",
-			"value":"勿論、進化はそれだけに限らないし\nニンゲンのコドモが、必ずしも力をもたらす訳でもない"
+			"value":"Of course, there may be more to our evolution\nand we don’t know how children are involved."
 		},
 		{
 			"key":"EP02_S0020_0116",
-			"value":"ある者はそれによって世界が破壊されると言うし\nある者はそれによって世界が救われるとも言う"
+			"value":"Some of our kind would use such power to\ndestroy the world, others to save it."
 		},
 		{
 			"key":"EP02_S0020_0117",
-			"value":"ある者はニンゲンのコドモを……\nいや、この話はよそう……"
+			"value":"Others would take human children and—\nah, perhaps we should avoid such subjects..."
 		},
 		{
 			"key":"EP02_S0020_0118",
-			"value":"とりあえず俺の知る、俺たちの存在に関しては\n説明できるのはこれくらいだ"
+			"value":"For now, this is all I can tell you about our\nexistence."
 		},
 		{
 			"key":"EP02_S0020_0119",
-			"value":"ミノルの望むような\n明確な答えも出せず、面目ない……"
+			"value":"I am ashamed I could not provide you with the\nclear answer you wanted, Minoru."
 		},
 		{
 			"key":"EP02_S0020_0120",
-			"value":"いや、今はそれだけわかれば十分だよ"
+			"value":"Naw, man, that was more than enough!"
 		},
 		{
 			"key":"EP02_S0020_0121",
-			"value":"十分？　何もわからないも同然じゃねーか！"
+			"value":"Enough?\nWe still have no clue what’s going on!"
 		},
 		{
 			"key":"EP02_S0020_0122",
-			"value":"要は、何も知らないくせに何でもアリって\nそんなデタラメの何を信じろってんだ……"
+			"value":"It’s like saying we don’t know anything, so\nanything’s possible! What a load of crap."
 		},
 		{
 			"key":"EP02_S0020_0123",
-			"value":"あの先輩の言うコトは\n気にしなくていいぜ、ファルコモン"
+			"value":"Don’t listen to comments from the peanut\ngallery, Falcomon."
 		},
 		{
 			"key":"EP02_S0020_0124",
-			"value":"ミノルが言うならそうさせてもらおう"
+			"value":"If you say so, Minoru."
 		},
 		{
 			"key":"EP02_S0020_0125",
-			"value":"でも、確かにどうしたものかしら……\nはぁ……"
+			"value":"And yet, what really happened?\n*sigh*"
 		},
 		{
 			"key":"EP02_S0020_0126",
-			"value":"うん？　あぁ、ハルたちも起きたみたいだ"
+			"value":"Hey, Haru and the others are awake."
 		},
 		{
 			"key":"EP02_S0020_0127",
-			"value":"わ、わぁっ！！"
+			"value":"WHOA!!!"
 		},
 		{
 			"key":"EP02_S0020_0128",
-			"value":"ホラみろよ、アイツまだあの子たちにビビってる"
+			"value":"Lookit that chicken, he’s still scared of her!"
 		},
 		{
 			"key":"EP02_S0020_0129",
-			"value":"アイツって言うなよ、仮にも先輩だぞ"
+			"value":"Come on, now. He’s still technically older."
 		},
 		{
 			"key":"EP02_S0020_0130",
-			"value":"仮にも、ってよっぽどひでーな！\nははっ"
+			"value":"Pfff, “technically”? That’s harsh, Takuma!\nHa ha ha!"
 		},
 		{
 			"key":"EP02_S0020_0131",
-			"value":"チッ……\nうっせーな……"
+			"value":"Tch...\nJust shut up already."
 		},
 		{
 			"key":"EP02_S0020_0132",
-			"value":"あ、逃げてった"
+			"value":"Whoops, there he goes."
 		},
 		{
 			"key":"EP02_S0020_0133",
-			"value":"ハルたちも何か知ってるかもしれないし\n一度校舎に戻って、二人と一緒にどうするか決めよう"
+			"value":"Haru and Miyuki might know something.\nLet’s head back and decide what to do next."
 		},
 		{
 			"key":"EP02_S0020_0134",
-			"value":"それでいいかな？　ファルコモン"
+			"value":"Is that okay with you, Falcomon?"
 		},
 		{
 			"key":"EP02_S0020_0135",
-			"value":"うむ。承知した"
+			"value":"Yes. Understood."
 		},
 		{
 			"key":"EP02_S0020_0136",
-			"value":"話の続きは\nコウシャとやらの中でしよう"
+			"value":"I believe we should continue our talk inside\nthe school building, wouldn’t you say?"
 		}
 	]
 }

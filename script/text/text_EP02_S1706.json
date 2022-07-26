@@ -2,91 +2,91 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1706_0001",
-			"value":"んだよアイツら……せっかく森から出たと思ったら\nまた森に入っていきやがって……"
+			"value":"What’s up with them? We just left the forest\nand they’re heading back in?"
 		},
 		{
 			"key":"EP02_S1706_0002",
-			"value":"また襲われるかもしれねーだろ……\n死んだらどーすんだ……くそっ"
+			"value":"There might be another attack...\nWhat if they die? Dammit..."
 		},
 		{
 			"key":"EP02_S1706_0003",
-			"value":"キュゥ、キュゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP02_S1706_0004",
-			"value":"（リョウのやつ、何してるのかと思ったら\n　こんなとこで縮こまってたのか）"
+			"value":"(I was wondering what Ryo was up to, but he\njust seems to be really scared.)"
 		},
 		{
 			"key":"EP02_S1706_Q1",
-			"value":"（どうしよう？）"
+			"value":"(So, what should I do?)"
 		},
 		{
 			"key":"EP02_S1706_Q1_A1",
-			"value":"声をかけてみる"
+			"value":"Talk to him."
 		},
 		{
 			"key":"EP02_S1706_Q1_A2",
-			"value":"放っておこう"
+			"value":"Leave him alone."
 		},
 		{
 			"key":"EP02_S1706_0005",
-			"value":"リョウ、一緒に手伝ってくれないか？"
+			"value":"Ryo? Can you give me a hand?"
 		},
 		{
 			"key":"EP02_S1706_0006",
-			"value":"オレに何ができるってんだよ……\n足手まといになるくらいなら、ここにいる……"
+			"value":"I’m useless... If you need me to be in the\nway, I’m here..."
 		},
 		{
 			"key":"EP02_S1706_0007",
-			"value":"一人でいたら危ないよ\nほら、一緒に行こう"
+			"value":"It’s dangerous to be alone.\nC’mon. Come with me."
 		},
 		{
 			"key":"EP02_S1706_0008",
-			"value":"リョウも来いよ～"
+			"value":"C’mon, Ryo!"
 		},
 		{
 			"key":"EP02_S1706_0009",
-			"value":"キュゥッ！　キュッ！"
+			"value":"Kewww!!! Kew!"
 		},
 		{
 			"key":"EP02_S1706_0010",
-			"value":"うるせーな……放っとけよ"
+			"value":"Shut up! Leave me alone."
 		},
 		{
 			"key":"EP02_S1706_0011",
-			"value":"（仕方ない。落ち着いた頃にまた声をかけるか）"
+			"value":"(Oh well. I’ll wait until he calms down.)"
 		},
 		{
 			"key":"EP02_S1706_0012",
-			"value":"（いや、それより今はサキたちを捜さないと\n　リョウならクネモンがいるから平気だろ）"
+			"value":"(We have to look for Saki and the others.\nRyo will be fine with Kunemon.)"
 		},
 		{
 			"key":"EP02_S1706_0013",
-			"value":"キュキュゥ……"
+			"value":"Kewkew..."
 		},
 		{
 			"key":"EP02_S1706_0014",
-			"value":"ひっ！？　なっ、なんだよ！\n寄るんじゃねーよ！　気持ちわりーんだよ！"
+			"value":"What the heck? Stay away from me!\nYou’re weirding me out!"
 		},
 		{
 			"key":"EP02_S1706_0015",
-			"value":"キュゥ……"
+			"value":"Kewww..."
 		},
 		{
 			"key":"EP02_S1706_0016",
-			"value":"なんなんだよ、どいつもこいつも……\nなんでこんなことに……"
+			"value":"What is it with everyone?\nWhy is this happening?"
 		},
 		{
 			"key":"EP02_S1706_0017",
-			"value":"リョウ、大丈夫かな……？"
+			"value":"You okay, Ryo?"
 		},
 		{
 			"key":"EP02_S1706_0018",
-			"value":"うぅ……帰りたい\nママ……"
+			"value":"I... I just want to go home...\nMommy..."
 		},
 		{
 			"key":"EP02_S1706_0019",
-			"value":"（リョウはまだ塞ぎこんでいる\n　今はそっとしておこう）"
+			"value":"(Ryo is feeling bad again.\nI’ll leave him alone for a bit.)"
 		}
 	]
 }

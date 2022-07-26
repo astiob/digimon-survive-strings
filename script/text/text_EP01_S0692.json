@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0692_0001",
-			"value":"このあたりの雰囲気……"
+			"value":"This area..."
 		},
 		{
 			"key":"EP01_S0692_0002",
-			"value":"気味が悪いっていうか\n少しおかしいわね"
+			"value":"I have a bad feeling about it.\nSomething’s not right."
 		},
 		{
 			"key":"EP01_S0692_0003",
-			"value":"おかしい、ってどういうこと？"
+			"value":"Not right, how?"
 		},
 		{
 			"key":"EP01_S0692_0004",
-			"value":"うーん……ごめんなさい。上手く言えないわ"
+			"value":"Um... I’m sorry, I can’t quite put it into\nwords."
 		},
 		{
 			"key":"EP01_S0692_0005",
-			"value":"一面の花……綺麗なはずなんだけど、\nそれよりも気味の悪さの方が先に立つわね……"
+			"value":"Take the flowers...they should be pretty, but\nthey give me the creeps more than anything."
 		},
 		{
 			"key":"EP01_S0692_0006",
-			"value":"（アオイさん……ボーっと一面の彼岸花を見つめてる）"
+			"value":"(Aoi... She’s just staring blankly at the\nsea of spider lilies.)"
 		},
 		{
 			"key":"EP01_S0692_0007",
-			"value":"（今はそっとしておこう）"
+			"value":"(Maybe I should just leave her alone for\nnow.)"
 		}
 	]
 }

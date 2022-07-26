@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0010_0001",
-			"value":"ハァ、ハァ、ハァ"
+			"value":"*huff* *huff* *puff*"
 		},
 		{
 			"key":"EP01_S0010_0002",
-			"value":"こっ、こわいよおぉ！"
+			"value":"I’m scared..."
 		},
 		{
 			"key":"EP01_S0010_0003",
-			"value":"大丈夫、心配しないで\nさあ、こっちよ"
+			"value":"Don’t worry, we’re okay!\nCome on, over here..."
 		},
 		{
 			"key":"EP01_S0010_0004",
-			"value":"きゃっ！"
+			"value":"Yeep!"
 		},
 		{
 			"key":"EP01_S0010_0005",
-			"value":"わっ、わあっ！\nもうこっちまで来たよ！"
+			"value":"Oh no!\nThey made it over here already!"
 		},
 		{
 			"key":"EP01_S0010_0006",
-			"value":"そこを離れるんだ！"
+			"value":"Get away from there!"
 		},
 		{
 			"key":"EP01_S0010_0007",
-			"value":"その子たちに手は出させないっ！"
+			"value":"I won’t let you lay a hand on them!"
 		},
 		{
 			"key":"EP01_S0010_0008",
-			"value":"あなたたちっ！"
+			"value":"You guys...!"
 		},
 		{
 			"key":"EP01_S0010_0009",
-			"value":"こわいよう……"
+			"value":"I’m so scared..."
 		}
 	]
 }

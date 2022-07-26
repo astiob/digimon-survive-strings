@@ -2,635 +2,635 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S9001_0001",
-			"value":"タクマくん……本当にタクマくんなの！？"
+			"value":"Takuma... Is that really you, Takuma?!"
 		},
 		{
 			"key":"EP09_S9001_0002",
-			"value":"おお、無事だったのか！"
+			"value":"Oh! You’re safe!"
 		},
 		{
 			"key":"EP09_S9001_0003",
-			"value":"ウチ……正直ダメかと思ってたよ"
+			"value":"...Honestly, I thought you were kaput."
 		},
 		{
 			"key":"EP09_S9001_0004",
-			"value":"ただいま～"
+			"value":"Hidey ho, guys!"
 		},
 		{
 			"key":"EP09_S9001_0005",
-			"value":"心配かけたみたいだね"
+			"value":"It looks like I caused you guys some grief."
 		},
 		{
 			"key":"EP09_S9001_0006",
-			"value":"みたいだね、じゃねーよ！\n一体今までどこをほっつき歩いてたんだ？"
+			"value":"“Looks like,” he says! Where the heck’ve you\nbeen hiding this whole time?!"
 		},
 		{
 			"key":"EP09_S9001_0007",
-			"value":"おいおいカイト、そんな言い方ねーだろ\nせっかく戻ってきたのによ"
+			"value":"Whoa now, Kaito, slow your roll. That ain’t\nany way to greet him after he just got back."
 		},
 		{
 			"key":"EP09_S9001_0008",
-			"value":"まあまあ\nいいじゃん、無事だったんだから"
+			"value":"Now, now, the important thing is that he’s\nsafe and sound, right?"
 		},
 		{
 			"key":"EP09_S9001_0009",
-			"value":"うむ、喜ばしいことだ"
+			"value":"Indeed, this is a joyous occasion."
 		},
 		{
 			"key":"EP09_S9001_0010",
-			"value":"そういうわけにはいかないわ\nねえ、タクマくん……"
+			"value":"That won’t do. Right, Takuma?"
 		},
 		{
 			"key":"EP09_S9001_0011",
-			"value":"あなた、廃工場で私たちと別れてから\nこの十日間、一体どこで何をしていたの？"
+			"value":"What happened to you in the ten days after\nyou got separated from us in the factory?"
 		},
 		{
 			"key":"EP09_S9001_0012",
-			"value":"（十日！？　こっちでは\n　そんなにも時間が経ってたっていうのか？）"
+			"value":"(Ten days?! Does time move that quickly\nhere?!)"
 		},
 		{
 			"key":"EP09_S9001_0013",
-			"value":"答えて……できるだけ詳しく"
+			"value":"Please tell us...in as much detail as\npossible."
 		},
 		{
 			"key":"EP09_S9001_0014",
-			"value":"アオイさん、厳しすぎるよ～"
+			"value":"Give him a break, Aoi..."
 		},
 		{
 			"key":"EP09_S9001_0015",
-			"value":"でも、私たちが生き延びるためには\n必要なことでしょう"
+			"value":"But that info may be the difference between\nlife and death for us, you know?"
 		},
 		{
 			"key":"EP09_S9001_0016",
-			"value":"アオイさん……なんだか変わったね"
+			"value":"Aoi... You’ve changed, somehow."
 		},
 		{
 			"key":"EP09_S9001_0017",
-			"value":"そうかしら？"
+			"value":"Is that so?"
 		},
 		{
 			"key":"EP09_S9001_0018",
-			"value":"君が不在の間、語り切れないほど色々あったんだ"
+			"value":"So many things happened while you were gone."
 		},
 		{
 			"key":"EP09_S9001_0019",
-			"value":"見てわかる通り、霧もどんどん濃くなっている\nここがいつまでも無事だとも思えない"
+			"value":"As you can see, the fog’s gotten worse.\nI doubt it’ll be safe here much longer."
 		},
 		{
 			"key":"EP09_S9001_0020",
-			"value":"だから、一刻も早く脱出しないと……"
+			"value":"That’s why we have to get out of here as\nsoon as possible..."
 		},
 		{
 			"key":"EP09_S9001_0021",
-			"value":"そのためには少しでも情報が欲しいんだ\n協力してくれないか？"
+			"value":"So we need any information we can get our\nhands on. Can you help us?"
 		},
 		{
 			"key":"EP09_S9001_0022",
-			"value":"わかった、話すよ\n実は……"
+			"value":"Sure, I’ll talk.\nThe truth is..."
 		},
 		{
 			"key":"EP09_S9001_0023",
-			"value":"……元の世界に戻っていたってわけ？"
+			"value":"...You went back to our world?"
 		},
 		{
 			"key":"EP09_S9001_0024",
-			"value":"ああ。でも、僕が向こうにいたのは\nほんの数時間だけだったんだ"
+			"value":"Yeah. But I was only over there for a few\nhours."
 		},
 		{
 			"key":"EP09_S9001_0025",
-			"value":"だから、驚いたんだよ\nこちらでは十日も経過してただなんて"
+			"value":"That’s why I was surprised to hear over\na week had passed on this side."
 		},
 		{
 			"key":"EP09_S9001_0026",
-			"value":"常世と現世では時の流れが違う、か\nまるで浦島太郎だな"
+			"value":"Time flows differently in this world and the\nother one. Like the tale of Urashima Taro!"
 		},
 		{
 			"key":"EP09_S9001_0027",
-			"value":"……みんなが無事なうちに戻ってこられてよかったよ"
+			"value":"...I’m happy to see everyone got back safely."
 		},
 		{
 			"key":"EP09_S9001_0028",
-			"value":"違いない\nもっとも……無事とは言い難いのだがね"
+			"value":"Indeed. Although...to call us “safe” now\nis a bit of a stretch."
 		},
 		{
 			"key":"EP09_S9001_0029",
-			"value":"ねぇねぇ、一つ気になるんだけどさ"
+			"value":"Hey, one thing’s bothering me."
 		},
 		{
 			"key":"EP09_S9001_0030",
-			"value":"元の世界に戻れたならどうして\nもう一度、この世界に帰ってこようと思ったの？"
+			"value":"If you were able to get back to our world,\nwhy’d you come back here?"
 		},
 		{
 			"key":"EP09_S9001_0031",
-			"value":"……元の世界でピエモンが暴れていたのを\n僕たちは見たんだ"
+			"value":"...We saw Piedmon going on a rampage through\nthe other world."
 		},
 		{
 			"key":"EP09_S9001_0032",
-			"value":"なっ！？"
+			"value":"What?!"
 		},
 		{
 			"key":"EP09_S9001_0033",
-			"value":"……もう、この世界だけの話じゃ\nなくなっているってことね"
+			"value":"...So the situation is no longer limited\nto this world, is it?"
 		},
 		{
 			"key":"EP09_S9001_0034",
-			"value":"ああ。このままじゃ元の世界も危ない"
+			"value":"Yeah. At this rate, our world’s gonna be in\ndanger, too."
 		},
 		{
 			"key":"EP09_S9001_0035",
-			"value":"霧に包まれたこっちの世界が\n元の世界に悪影響を及ぼしてしまう"
+			"value":"This fog-covered world is corrupting the\nworld we came from."
 		},
 		{
 			"key":"EP09_S9001_0036",
-			"value":"だから、僕は戻ってきたんだ"
+			"value":"That’s why I came back."
 		},
 		{
 			"key":"EP09_S9001_0037",
-			"value":"みんなを助けるために、世界を救う……なんて\nできるかわからないけど……"
+			"value":"I don’t know if I can save everyone, much\nless the whole world, but..."
 		},
 		{
 			"key":"EP09_S9001_0038",
-			"value":"それでも知ってしまった以上\n見て見ぬふりはやっぱり僕には出来ない"
+			"value":"I couldn’t just sit by and act like nothing’s\nhappening."
 		},
 		{
 			"key":"EP09_S9001_0039",
-			"value":"タクマぁ、お前って奴は！"
+			"value":"That’s Takuma for you. My man!"
 		},
 		{
 			"key":"EP09_S9001_0040",
-			"value":"タクマくん……！"
+			"value":"Takuma...!"
 		},
 		{
 			"key":"EP09_S9001_0041",
-			"value":"さっすがタクマ、男らしいね！"
+			"value":"What a guy..."
 		},
 		{
 			"key":"EP09_S9001_0042",
-			"value":"で、勢いだけで戻ってきたってわけか？"
+			"value":"So, you just came back here on your own?"
 		},
 		{
 			"key":"EP09_S9001_0043",
-			"value":"お兄ちゃん！！"
+			"value":"Kaito!"
 		},
 		{
 			"key":"EP09_S9001_0044",
-			"value":"違う！　算段はあった\nあったんだけど……"
+			"value":"Not quite! It took a lot to get back here,\nand..."
 		},
 		{
 			"key":"EP09_S9001_0045",
-			"value":"でも、重要な鍵を握っているミユキと\nはぐれてしまって……"
+			"value":"I got separated from Miyuki.\nShe holds the key to it all..."
 		},
 		{
 			"key":"EP09_S9001_0046",
-			"value":"ミユキだと！？"
+			"value":"Miyuki?!"
 		},
 		{
 			"key":"EP09_S9001_0047",
-			"value":"ミユキさんが鍵を握っているって……何？"
+			"value":"Miyuki holds the key? What do you mean?"
 		},
 		{
 			"key":"EP09_S9001_0048",
-			"value":"ミユキはもうダメだろ、期待しないほうがいい"
+			"value":"Miyuki’s already done for.\nI wouldn’t count on her if I were you."
 		},
 		{
 			"key":"EP09_S9001_0049",
-			"value":"そんな簡単に言わないで！　仲間じゃん！！\nもっと詳しい話を聞かないと"
+			"value":"Don’t say that! We’re friends!!!\nWe have to hear the details!"
 		},
 		{
 			"key":"EP09_S9001_0050",
-			"value":"ミウは黙ってろ！\nオレはお前のためを思って……"
+			"value":"Quiet, Miu!\nI’m saying this for your sake...!"
 		},
 		{
 			"key":"EP09_S9001_0051",
-			"value":"ウチのためなんかじゃない！\nお兄ちゃんは……"
+			"value":"You’re not doing this for me!\nKaito, you—"
 		},
 		{
 			"key":"EP09_S9001_0052",
-			"value":"二人とも、いい加減にしとけや\n今はじゃれあってる場合じゃねぇだろ"
+			"value":"Knock it off, you two. Now’s not the time to\nbe butting heads."
 		},
 		{
 			"key":"EP09_S9001_0053",
-			"value":"（リョウが喧嘩をいさめた……言い方は荒いけど\n　なんだろう、冷静に周りを見てる感じだ）"
+			"value":"(Ryo stopped the fight... His mouth’s as\nnasty as ever, but he’s keeping a cool head.)"
 		},
 		{
 			"key":"EP09_S9001_0054",
-			"value":"まずはタクマの話を聞こうぜ\nミユキが重要な鍵って何だよ？"
+			"value":"First, let’s heard what Takuma has to say.\nWhat’s this about Miyuki being the key?"
 		},
 		{
 			"key":"EP09_S9001_0055",
-			"value":"あ、うん……"
+			"value":"Right, okay."
 		},
 		{
 			"key":"EP09_S9001_0056",
-			"value":"元の世界に戻るには\nミユキが知っている歌が必要なんだ"
+			"value":"A song that Miyuki knows is needed to return\nto our world."
 		},
 		{
 			"key":"EP09_S9001_0057",
-			"value":"仕組みはわからないけど\n彼女の歌が二つの世界を繋げるらしい"
+			"value":"I don’t know how she does it, but it seems\nlike her song connects both worlds."
 		},
 		{
 			"key":"EP09_S9001_0058",
-			"value":"……じゃあ、やっぱり\nミユキさんを取り戻さなきゃダメじゃん！"
+			"value":"...All the more reason for us to get Miyuki\nback, then!"
 		},
 		{
 			"key":"EP09_S9001_0059",
-			"value":"できると思ってるのか！？"
+			"value":"You think you can do it?!"
 		},
 		{
 			"key":"EP09_S9001_0060",
-			"value":"必要ならやらないといけないでしょ！"
+			"value":"If we have to, we have to!"
 		},
 		{
 			"key":"EP09_S9001_0061",
-			"value":"なんでわからねえんだ！\nオレはお前を危険な目にあわせたくねぇから……"
+			"value":"Why don’t you get it?!\nI don’t want to put you in danger..."
 		},
 		{
 			"key":"EP09_S9001_0062",
-			"value":"もー！　ミウもお兄ちゃんもやめてってば！"
+			"value":"Aw come ooon, you guys! Enough already!"
 		},
 		{
 			"key":"EP09_S9001_0063",
-			"value":"……そこまでにしよう"
+			"value":"...Let’s leave it there for now."
 		},
 		{
 			"key":"EP09_S9001_0064",
-			"value":"カイトの気持ちはよくわかる\nでも、タクマが話してくれた情報は貴重だ"
+			"value":"I understand how you feel, Kaito.\nBut Takuma gave us some valuable info."
 		},
 		{
 			"key":"EP09_S9001_0065",
-			"value":"そうは言うがなぁ……！"
+			"value":"Even so...!"
 		},
 		{
 			"key":"EP09_S9001_0066",
-			"value":"……カイト"
+			"value":"...Kaito."
 		},
 		{
 			"key":"EP09_S9001_0067",
-			"value":"僕たちの目的は、一日でも長く生き延びることかい？\n違う、生還することだ。……可能な限り全員で"
+			"value":"Is our goal to survive another day? Or is it\nto return home...all of us, if possible?"
 		},
 		{
 			"key":"EP09_S9001_0068",
-			"value":"もちろん現状では、ミユキちゃんの奪還は\n極めて困難だということはみんな、理解しているよ"
+			"value":"Of course, everyone understands how difficult\nit would be to rescue Miyuki at this point."
 		},
 		{
 			"key":"EP09_S9001_0069",
-			"value":"しかし、それしか道がないのであれば\n僕らには選択の余地は無いんだ。わかってくれるね"
+			"value":"But if that’s the only path we can take,\nbeggars can’t be choosers."
 		},
 		{
 			"key":"EP09_S9001_0070",
-			"value":"……ああ"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP09_S9001_0071",
-			"value":"（シュウジさん、以前より頼もしくなってるな）"
+			"value":"(Shuuji’s gotten more reliable than before.)"
 		},
 		{
 			"key":"EP09_S9001_0072",
-			"value":"さて教授、ミユキちゃんと接触したいんです\nできれば……ですけど"
+			"value":"Now Professor, I want to make contact with\nMiyuki, if possible..."
 		},
 		{
 			"key":"EP09_S9001_0073",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP09_S9001_0074",
-			"value":"ミユキは、今どうしているんですか？"
+			"value":"What’s Miyuki doing now?"
 		},
 		{
 			"key":"EP09_S9001_0075",
-			"value":"……その話は、また後にしよう"
+			"value":"...Let’s talk about that later."
 		},
 		{
 			"key":"EP09_S9001_0076",
-			"value":"教授の考えを聞かせてください"
+			"value":"Please, tell me your thoughts, Professor."
 		},
 		{
 			"key":"EP09_S9001_0077",
-			"value":"（シュウジさんも……誰も、ミユキの現状については\n　話してくれない、いや話したくないみたいだ）"
+			"value":"(Nobody’s telling me what’s going on with\nMiyuki... It’s like they don’t want to.)"
 		},
 		{
 			"key":"EP09_S9001_0078",
-			"value":"（……どうなっているんだろう）"
+			"value":"(...What’s going on?)"
 		},
 		{
 			"key":"EP09_S9001_0079",
-			"value":"取り戻したいのならば、『あれ』の本質が\n何であるのかを知る必要があるだろう"
+			"value":"If you want to get her back, we’ll have to\nlearn what “that” really is."
 		},
 		{
 			"key":"EP09_S9001_0080",
-			"value":"祠……伝承……史跡……\nどんな小さなものでもいい"
+			"value":" The shrine...the legends...the landmark...\nany little thing can help."
 		},
 		{
 			"key":"EP09_S9001_0081",
-			"value":"どこかに『あれ』についての\n手がかりが、少しでもあればよいのだが……"
+			"value":"If we could just get some clue as to what\n“that” is..."
 		},
 		{
 			"key":"EP09_S9001_0082",
-			"value":"探すのであれば、僕も手伝います"
+			"value":"If you’re going to look, I’ll help you."
 		},
 		{
 			"key":"EP09_S9001_0083",
-			"value":"もちろん、オレたちも手伝うぜ\n元の世界に帰りたい気持ちは、みんな一緒だからな"
+			"value":"Of course, I’ll help too! All of us feel the\nsame way about getting back to our world."
 		},
 		{
 			"key":"EP09_S9001_0084",
-			"value":"みんな、くれぐれもケンカはしちゃダメだ\nまた仲間割れにつけ込まれでもしたら、大変だからね"
+			"value":"Enough with all the fighting, everyone. That\ncould be disastrous at this stage."
 		},
 		{
 			"key":"EP09_S9001_0085",
-			"value":"（なんだかみんな、雰囲気が変わったな……\n　たった十日でここまで変わるものなのか）"
+			"value":"(Everyone’s acting differently... Can people\nchange so much in just ten days?)"
 		},
 		{
 			"key":"EP09_S9001_0086",
-			"value":"（中でも、アオイさん、シュウジさん、リョウの\n　変わり様はすごい。頼もしさが一段と増した感じだ）"
+			"value":"(Aoi, Shuuji, and Ryo have changed a lot.\nThey’re all much more reliable than before.)"
 		},
 		{
 			"key":"EP09_S9001_Q1",
-			"value":"（特に一番変わったのは……）"
+			"value":"(But the one who’s changed the most is...)"
 		},
 		{
 			"key":"EP09_S9001_Q1_A1",
-			"value":"シュウジさんだ"
+			"value":"Shuuji."
 		},
 		{
 			"key":"EP09_S9001_Q1_A2",
-			"value":"アオイさんかな"
+			"value":"Aoi."
 		},
 		{
 			"key":"EP09_S9001_Q1_A3",
-			"value":"リョウだな"
+			"value":"Ryo."
 		},
 		{
 			"key":"EP09_S9001_0087",
-			"value":"シュウジさんだ"
+			"value":"Shuuji."
 		},
 		{
 			"key":"EP09_S9001_0088",
-			"value":"シュウジさん、なんだか変わりましたね"
+			"value":"You’ve changed somehow, Shuuji."
 		},
 		{
 			"key":"EP09_S9001_0089",
-			"value":"そ、そうかい？"
+			"value":"Huh? Me?"
 		},
 		{
 			"key":"EP09_S9001_0090",
-			"value":"ええ、なんだか頼りがいが増したというか……"
+			"value":"Yeah, I’d say you’re more reliable now."
 		},
 		{
 			"key":"EP09_S9001_0091",
-			"value":"最近はあんまリーダーリーダー言わなく\nなりましたよね～"
+			"value":"He’s stopped all that leader this, leader\nthat stuff lately, too."
 		},
 		{
 			"key":"EP09_S9001_0092",
-			"value":"そうなんですか？"
+			"value":"Oh yeah?"
 		},
 		{
 			"key":"EP09_S9001_0093",
-			"value":"もうリーダーはいいのか？"
+			"value":"You don’t wanna be leader anymore?"
 		},
 		{
 			"key":"EP09_S9001_0094",
-			"value":"いや、そういう訳じゃないんだけど……"
+			"value":"No, that’s not the reason..."
 		},
 		{
 			"key":"EP09_S9001_0095",
-			"value":"なんというか……今は自分なりのリーダーとしての\n在り方を模索しているところ、かな"
+			"value":"It’s just... I’m trying to figure out what\nkind of leader I should be."
 		},
 		{
 			"key":"EP09_S9001_0096",
-			"value":"リーダーとしての、在り方……"
+			"value":"What kind of leader..."
 		},
 		{
 			"key":"EP09_S9001_0097",
-			"value":"みんなを鼓舞したり引っ張っていく役割は\n今はアオイ君がやってくれている"
+			"value":"Aoi’s the one encouraging everyone and\nholding things together these days."
 		},
 		{
 			"key":"EP09_S9001_0098",
-			"value":"僕は、彼女とみんなとの調整とか\n実際に行動する際の助言とか、そんな役回りかな"
+			"value":"Should I coordinate between her and the\ngroup? Or help out when we’re on the move?"
 		},
 		{
 			"key":"EP09_S9001_0099",
-			"value":"えっと……リーダーにはもう、未練はない、と？"
+			"value":"Uh, are you saying you’ve lost interest in\nbeing a leader, then?"
 		},
 		{
 			"key":"EP09_S9001_0100",
-			"value":"いやいや、勿論リーダーシップはとっていきたい\nとは思っているよ"
+			"value":"Oh no, of course I still have my eye on\na leadership role."
 		},
 		{
 			"key":"EP09_S9001_0101",
-			"value":"でもね、僕には僕らしくできるリーダーが\nあるんじゃないかな、とそう考え始めているんだ"
+			"value":"Still, I started thinking that there must be\na style of leadership that suits me best."
 		},
 		{
 			"key":"EP09_S9001_0102",
-			"value":"その一環として、ここ最近は\n教授に師事させてもらってるんだ"
+			"value":"As part of that thought process, I’ve been\nshadowing the professor."
 		},
 		{
 			"key":"EP09_S9001_0103",
-			"value":"教授にですか？"
+			"value":"The professor?"
 		},
 		{
 			"key":"EP09_S9001_0104",
-			"value":"あの人の理知的で落ち着いた雰囲気は\n僕に合っている気がしてね"
+			"value":"I get the impression his calm and\nintellectual outlook would work for me."
 		},
 		{
 			"key":"EP09_S9001_0105",
-			"value":"彼のような先達でありたい、と思っているよ"
+			"value":"I want to be someone you can look up to, just\nlike him."
 		},
 		{
 			"key":"EP09_S9001_0106",
-			"value":"最近のシュウジね、すっごく楽しそうなんだよ"
+			"value":"Shuuji’s been real happy lately!"
 		},
 		{
 			"key":"EP09_S9001_0107",
-			"value":"そうだったんですね"
+			"value":"I can see that."
 		},
 		{
 			"key":"EP09_S9001_0108",
-			"value":"まぁ、今は僕のことよりもミユキちゃんのことだね"
+			"value":"Well, Miyuki’s situation is more urgent than\nmine, at any rate."
 		},
 		{
 			"key":"EP09_S9001_0109",
-			"value":"彼女が鍵、か……\n教授なら何か知らないだろうか……"
+			"value":"She’s the key, he says... I bet the professor\nknows something."
 		},
 		{
 			"key":"EP09_S9001_0110",
-			"value":"アオイさんかな"
+			"value":"Aoi."
 		},
 		{
 			"key":"EP09_S9001_0111",
-			"value":"アオイさん、変わったね\nなんだかリーダーが板についてきた感じだよ"
+			"value":"You’ve changed, Aoi. Like you’re used to\nbeing a leader now."
 		},
 		{
 			"key":"EP09_S9001_0112",
-			"value":"えぇ？　そ、そうかしら……"
+			"value":"Huh? Oh, um, I guess so..."
 		},
 		{
 			"key":"EP09_S9001_0113",
-			"value":"あのね、アオイさんがリーダーになってから\nご飯がすっごく美味しいの！"
+			"value":"Y’know, the food’s been INCREDIBLE since\nAoi’s taken charge!"
 		},
 		{
 			"key":"EP09_S9001_0114",
-			"value":"ご、ご飯？"
+			"value":"The...food?"
 		},
 		{
 			"key":"EP09_S9001_0115",
-			"value":"毎日美味しいもの作ってくれて\nもうみんなのお母さんって感じ！"
+			"value":"She’s like everyone’s mom, making amazing\nmeals every day!"
 		},
 		{
 			"key":"EP09_S9001_0116",
-			"value":"お母さんってのは同意だな"
+			"value":"You got that right."
 		},
 		{
 			"key":"EP09_S9001_0117",
-			"value":"ミウが手伝いをサボろうとすると\nちゃんと叱ってくれるんだよ"
+			"value":"The way she nags Miu when she slacks off is\ngrade-A mother hen material."
 		},
 		{
 			"key":"EP09_S9001_0118",
-			"value":"お兄ちゃんだって自分勝手なことして\nよく叱られてるじゃん！"
+			"value":"You don’t get off any easier when you go on\nan ego trip, Kaito!"
 		},
 		{
 			"key":"EP09_S9001_0119",
-			"value":"お、オレはミウのためを思って行動してるだけで……！"
+			"value":"Huh? I only do what I do for your sake, Miu,\nyou know tha—"
 		},
 		{
 			"key":"EP09_S9001_0120",
-			"value":"はいはい、二人ともそこまで\n今は喧嘩している場合じゃないでしょう？"
+			"value":"All right, that’s enough of that. Now’s not\nthe time to be fighting, now is it?"
 		},
 		{
 			"key":"EP09_S9001_0121",
-			"value":"は、はぁい……"
+			"value":"No ma’am..."
 		},
 		{
 			"key":"EP09_S9001_0122",
-			"value":"すまん……"
+			"value":"Sorry..."
 		},
 		{
 			"key":"EP09_S9001_0123",
-			"value":"あはは……お母さん、か\n確かにな……"
+			"value":"Ahaha... Yep, I can see it..."
 		},
 		{
 			"key":"EP09_S9001_0124",
-			"value":"リョウだな"
+			"value":"Ryo."
 		},
 		{
 			"key":"EP09_S9001_0125",
-			"value":"リョウ、なんだか変わったよな\n冷静というか、客観的というか……"
+			"value":"You’ve changed, Ryo. You’re calmer, more\nobjective, even..."
 		},
 		{
 			"key":"EP09_S9001_0126",
-			"value":"は？　なんだよ急に\n冷めてるって言いたいのかよ？"
+			"value":"Say what? You trying to say I’ve lost my\nedge?"
 		},
 		{
 			"key":"EP09_S9001_0127",
-			"value":"ち、違う違う！　そうじゃなくて\nみんなとのやり取りを見て、落ち着いてきたな、って"
+			"value":"No, not at all! I just thought you’re more\nrelaxed when it comes to talking to everyone."
 		},
 		{
 			"key":"EP09_S9001_0128",
-			"value":"あー、それわかる\nリョウってば一番現実的に物事見てる感じなのよねー"
+			"value":"Oh. Yeah, I can see that. Ryo’s the most\npragmatic one of all of us."
 		},
 		{
 			"key":"EP09_S9001_0129",
-			"value":"そうそう、それだ！"
+			"value":"Yeah, that’s it!"
 		},
 		{
 			"key":"EP09_S9001_0130",
-			"value":"口は悪いけど言うことは正論だからさ\n意見が食い違った時に一言言って冷静にさせるんだよ"
+			"value":"He’s blunt as ever, but always fair. He can\ncalm things down in an instant when we fight."
 		},
 		{
 			"key":"EP09_S9001_0131",
-			"value":"何て言うのかなー、横から茶々入れて\n会議を落ち着かせる、みたいな？"
+			"value":"Like, it’s hard to stay mad when a dog’s\nbarking in your ear, y’know?"
 		},
 		{
 			"key":"EP09_S9001_0132",
-			"value":"茶々入れる、ってそれ褒めてねえだろ……"
+			"value":"Don’t tell me that was supposed to be\na compliment..."
 		},
 		{
 			"key":"EP09_S9001_0133",
-			"value":"まぁ、オレはアオイみてーな信頼も\nシュウジみてーな頭もねえからよ"
+			"value":"Well, I don’t got Shuuji’s brains, or Aoi’s\nheart, now do I?"
 		},
 		{
 			"key":"EP09_S9001_0134",
-			"value":"みんなの話聞いて適当にツッコミ入れたり\n脱線した話を戻したり、やれることやってただけだよ"
+			"value":"If I can use my mouth to get discussions back\non track, then that’s what I’ll do."
 		},
 		{
 			"key":"EP09_S9001_0135",
-			"value":"でもね、おかげでアオイちゃんとシュウジさんの\n負担は間違いなく減ってると思うんだ"
+			"value":"You say it so casually, but you’ve taken some\nof the weight off of Aoi and Shuuji for sure."
 		},
 		{
 			"key":"EP09_S9001_0136",
-			"value":"シュウジさんなんか、最近は教授にべったりで\nもうすっかり弟子みたいになってるもん"
+			"value":"Shuuji sticks to the prof like glue these\ndays. He’s practically the dude’s apprentice."
 		},
 		{
 			"key":"EP09_S9001_0137",
-			"value":"もちろん、私たちだってリョウのおかげで\n元の世界に帰るって目標を見失わないでいられるしね"
+			"value":"Of course, Ryo here keeps our eyes on the\nprize of getting back to our world."
 		},
 		{
 			"key":"EP09_S9001_0138",
-			"value":"リョウ……そうだったのか"
+			"value":"Ryo... You’ve been doing all that?"
 		},
 		{
 			"key":"EP09_S9001_0139",
-			"value":"お、オレのことはどうだっていいだろ……"
+			"value":"Enough about me already, man..."
 		},
 		{
 			"key":"EP09_S9001_0140",
-			"value":"それより今は\nミユキをどうするかが問題なんじゃねえのか？"
+			"value":"We need to talk about what to do about\nMiyuki, right?"
 		},
 		{
 			"key":"EP09_S9001_0141",
-			"value":"あんな状態のミユキをどうにかするなんて\n方法も何も思いつかねえけどよ……"
+			"value":"I can’t think of anything to do for her in\na situation like this, but still..."
 		},
 		{
 			"key":"EP09_S9001_0142",
-			"value":"（みんなはミユキについて話したがらない\n　けど、今はそれを訊く空気じゃないよな……）"
+			"value":"(No one wants to talk about Miyuki. Maybe\nnow’s not the time to ask about it...)"
 		},
 		{
 			"key":"EP09_S9001_0143",
-			"value":"みんな、ちょっと休憩にしない？"
+			"value":"Why don’t we take a break, everyone?"
 		},
 		{
 			"key":"EP09_S9001_0144",
-			"value":"タクマくんも戻ってきたことだし\nお昼ご飯はちょっと豪華にするから"
+			"value":"Takuma’s just gotten back, after all. I’ll\nwhip up an extra-fancy lunch today, okay?"
 		},
 		{
 			"key":"EP09_S9001_0145",
-			"value":"あ、じゃあ私も手伝うー！"
+			"value":"Oh, then I’ll help too!"
 		},
 		{
 			"key":"EP09_S9001_0146",
-			"value":"ありがとう、サキさん\nお願いね"
+			"value":"Thanks Saki, I appreciate it."
 		},
 		{
 			"key":"EP09_S9001_0147",
-			"value":"みんなは準備ができるまで待っててね"
+			"value":"Well then, you all wait here until it’s\nready!"
 		},
 		{
 			"key":"EP09_S9001_0148",
-			"value":"……ねえ、タクマくん"
+			"value":"...Hey, Takuma."
 		},
 		{
 			"key":"EP09_S9001_0149",
-			"value":"どうかした？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP09_S9001_0150",
-			"value":"その……ミユキちゃんのことなんだけど……"
+			"value":"Um... About Miyuki..."
 		},
 		{
 			"key":"EP09_S9001_0151",
-			"value":"アオイさんは、ミユキがどうなっているのか\n知っているんだね"
+			"value":"Do you know what happened to her, Aoi?"
 		},
 		{
 			"key":"EP09_S9001_0152",
-			"value":"ええ、でも……"
+			"value":"Yes, but..."
 		},
 		{
 			"key":"EP09_S9001_0153",
-			"value":"ひとまず、ゆっくり休んでからにしましょう\nそれから……"
+			"value":"You should just rest for now.\nAfter that..."
 		},
 		{
 			"key":"EP09_S9001_0154",
-			"value":"また会えて良かったわ\n戻ってきてくれて本当にありがとう"
+			"value":"I’m really glad I got to see you again.\nThank you for coming back."
 		}
 	]
 }

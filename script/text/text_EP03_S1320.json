@@ -2,307 +2,307 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1320_0001",
-			"value":"ああタクマ、こっち来なさいよ\n一人でうだうだ考えてても何も出てこないし"
+			"value":"Oh, Takuma, come here, would you? I could use\nsomeone else’s opinion."
 		},
 		{
 			"key":"EP03_S1320_0002",
-			"value":"ちょっと～、私もいるでしょ～？"
+			"value":"Hey, what about me?"
 		},
 		{
 			"key":"EP03_S1320_0003",
-			"value":"あぁ、ごめんごめん"
+			"value":"Oh, right, sorry!"
 		},
 		{
 			"key":"EP03_S1320_0004",
-			"value":"でも、なんかフローラモンとしゃべってると\n自分としゃべってる感じがして、変な感じなのよね"
+			"value":"It’s funny, though. Talking with you feels\nlike talking to myself, Floramon. It’s weird."
 		},
 		{
 			"key":"EP03_S1320_0005",
-			"value":"うふふ、何それ～？"
+			"value":"Ah, heheh, what’s that supposed to mean?"
 		},
 		{
 			"key":"EP03_S1320_0006",
-			"value":"いいけど、僕で良いの？"
+			"value":"I don’t mind joining you, but are you sure\nyou don’t want someone else?"
 		},
 		{
 			"key":"EP03_S1320_0007",
-			"value":"誰でもいいの、この際"
+			"value":"I’d take anyone at this point."
 		},
 		{
 			"key":"EP03_S1320_0008",
-			"value":"ははは……"
+			"value":"Hahaha..."
 		},
 		{
 			"key":"EP03_S1320_0009",
-			"value":"……私、見ておわかりの通り\n寂しがり屋なのよ"
+			"value":"Maybe you can tell, but I get lonely pretty\neasily."
 		},
 		{
 			"key":"EP03_S1320_0010",
-			"value":"女の子には多いよね、そういうの"
+			"value":"I feel like a lot of girls are like that."
 		},
 		{
 			"key":"EP03_S1320_0011",
-			"value":"ボクも一人は寂しいな～\nボクも女の子？"
+			"value":"I get lonely easily too. Does that mean I’m\na girl?"
 		},
 		{
 			"key":"EP03_S1320_0012",
-			"value":"いや、アグモンは女の子って感じじゃないな……"
+			"value":"No, you don’t seem much like a girl to me,\nAgumon."
 		},
 		{
 			"key":"EP03_S1320_0013",
-			"value":"（女の子って……アオイさんは一人で本を読むのが\n　好きって言ってたけど、寂しくないのかな）"
+			"value":"(Still, Aoi told me she likes reading by\nherself, so maybe she doesn’t get lonely?)"
 		},
 		{
 			"key":"EP03_S1320_0014",
-			"value":"（寂しいといえば、ミユキたちも姉弟二人っきり\n　今までどうやってこの世界で暮らしていたんだろう）"
+			"value":"(Huh, speaking of lonely: how did Haru and\nMiyuki survive here all alone for so long?)"
 		},
 		{
 			"key":"EP03_S1320_0015",
-			"value":"こうして、ちょっと様子は変わったけど\n見慣れた形の校舎の食堂にいると"
+			"value":"It’s weird, because even if it’s a little\ndifferent, sitting here in the cafeteria,"
 		},
 		{
 			"key":"EP03_S1320_0016",
-			"value":"今、僕たちに起きてる事が\nただの悪い夢のようだよ"
+			"value":"eating lunch like this... It makes me feel\nlike it’s all been a bad dream."
 		},
 		{
 			"key":"EP03_S1320_0017",
-			"value":"悪い夢、ね\nホント、夢だったらよかったんだけど"
+			"value":"Wouldn’t that be nice?"
 		},
 		{
 			"key":"EP03_S1320_0018",
-			"value":"そしたら、教授だって……"
+			"value":"Then the professor wouldn’t have..."
 		},
 		{
 			"key":"EP03_S1320_0019",
-			"value":"（サキ、やっぱりまだ教授のこと落ち込んでたんだな\n　色々聞くのはやめた方がいいかな）"
+			"value":"(Seems like Saki is still upset about the\nprofessor. Maybe I’d better leave her alone.)"
 		},
 		{
 			"key":"EP03_S1320_0020",
-			"value":"ねぇ、なんか話してよ"
+			"value":"Hey, talk to me about something, would you?"
 		},
 		{
 			"key":"EP03_S1320_0021",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP03_S1320_0022",
-			"value":"話してた方が……気がまぎれるし"
+			"value":"That’ll help...get my mind off things."
 		},
 		{
 			"key":"EP03_S1320_0023",
-			"value":"そ、そっか。それなら……"
+			"value":"Oh. Oh, okay, uh..."
 		},
 		{
 			"key":"EP03_S1320_0024",
-			"value":"（本人が望んでるなら、そうしようかな）"
+			"value":"(I guess if she wants to talk, we should.)"
 		},
 		{
 			"key":"EP03_S1320_0025",
-			"value":"そうだなぁ……"
+			"value":"Right..."
 		},
 		{
 			"key":"EP03_S1320_Q1",
-			"value":"（サキに何て聞こう？）"
+			"value":"(What should I ask Saki?)"
 		},
 		{
 			"key":"EP03_S1320_Q1_A1",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1320_Q1_A2",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1320_Q1_A3",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S1320_Q1_A4",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1320_0026",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1320_0027",
-			"value":"実際……今僕たちの身に\n何が起こっているんだろうな？"
+			"value":"So, what do you think’s actually going on\nright now?"
 		},
 		{
 			"key":"EP03_S1320_0028",
-			"value":"そんなの私にわかるわけないじゃん"
+			"value":"How should I know?"
 		},
 		{
 			"key":"EP03_S1320_0029",
-			"value":"……それもそうだな"
+			"value":"Yeah, I hear you on that one."
 		},
 		{
 			"key":"EP03_S1320_0030",
-			"value":"世の中なるようにしかならないし\nなった時にどうするか、なのよね何事も"
+			"value":"Whatever happens is gonna happen. What\nmatters is how we act when it happens, right?"
 		},
 		{
 			"key":"EP03_S1320_0031",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1320_0032",
-			"value":"じゃあ、僕たちはこれから\nどう行動したら良いのかな……？"
+			"value":"So, what do you think our next move should\nbe?"
 		},
 		{
 			"key":"EP03_S1320_0033",
-			"value":"だから、それがわかんないの、パス\nアオイちゃんやタクマに任せたからね！"
+			"value":"I really don’t know. Pass. I’ll leave the\nthinking to you and Aoi."
 		},
 		{
 			"key":"EP03_S1320_0034",
-			"value":"僕に任されてもなぁ……"
+			"value":"Me? Why me?"
 		},
 		{
 			"key":"EP03_S1320_0035",
-			"value":"だって何だかんだでさ\nタクマの判断に委ねるコト、多いじゃない？"
+			"value":"What do you mean? Don’t you usually make the\nfinal call?"
 		},
 		{
 			"key":"EP03_S1320_0036",
-			"value":"……そうかなぁ？\nそうかも"
+			"value":"Uh...do I? Maybe you’re right."
 		},
 		{
 			"key":"EP03_S1320_0037",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S1320_0038",
-			"value":"それじゃあ、今の状況に\n何か思うことはある？"
+			"value":"So, how does all this make you feel?"
 		},
 		{
 			"key":"EP03_S1320_0039",
-			"value":"何かもなにも、ワケわかんなすぎて\nパンクしそう"
+			"value":"I don’t know. So much crazy stuff has\nhappened, I feel like I’m about to explode."
 		},
 		{
 			"key":"EP03_S1320_0040",
-			"value":"正直、今起きてるコトって\n私のキャパシティ超えてる事態なのよねー"
+			"value":"To be honest, this is all way too much for me\nto deal with."
 		},
 		{
 			"key":"EP03_S1320_0041",
-			"value":"だから、どう反応して良いかわかんない……\n何も考えないようにするのが一番だもの"
+			"value":"I’m really not sure how to react. The best\nI can do is just not think about it at all."
 		},
 		{
 			"key":"EP03_S1320_0042",
-			"value":"哀しい事があったら泣きたいし\n怖い事があったら叫ぶ……それくらい"
+			"value":"If I’m sad, I’ll cry. If I’m scared, I’ll\nscream. That’s good enough for me."
 		},
 		{
 			"key":"EP03_S1320_0043",
-			"value":"う～ん……まあ……"
+			"value":"Uh...sure."
 		},
 		{
 			"key":"EP03_S1320_0044",
-			"value":"（サキの心境も、わからなくはない……）"
+			"value":"(I can certainly understand how Saki feels.)"
 		},
 		{
 			"key":"EP03_S1320_0045",
-			"value":"（みんな、そうなんだ\n　僕だってそうだ）"
+			"value":"(We’re all basically in the same boat. Myself\nincluded.)"
 		},
 		{
 			"key":"EP03_S1320_0046",
-			"value":"（深刻に考えれば、恐怖で一歩も動けなくなる\n　だから、なるべく希望を持って前向きに行かないと）"
+			"value":"(If I let myself dwell on things, I’d be\nfrozen with terror. So I hold on to hope.)"
 		},
 		{
 			"key":"EP03_S1320_0047",
-			"value":"（それができないと、きっと僕も\n　リョウみたいになっちゃうんだろうな……）"
+			"value":"(I need to keep pushing forward. Otherwise,\nI might end up like Ryo...)"
 		},
 		{
 			"key":"EP03_S1320_0048",
-			"value":"ん～、何か一人で考え込んでる？"
+			"value":"Um...did I lose you?"
 		},
 		{
 			"key":"EP03_S1320_0049",
-			"value":"あ、ゴメン……\nつい、色々ね"
+			"value":"Oh, sorry... There’s a lot on my mind."
 		},
 		{
 			"key":"EP03_S1320_0050",
-			"value":"わかるわ……実際、私も\n油断したら、ため息ばかり出ちゃうし……"
+			"value":"I get it. Honestly, if I weren’t careful,\nI think I’d go to pieces."
 		},
 		{
 			"key":"EP03_S1320_0051",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1320_0052",
-			"value":"あのね。今の状況に関しては\n私だってよくわかんないけど……"
+			"value":"Look, I don’t really know about our current\nsituation, but..."
 		},
 		{
 			"key":"EP03_S1320_0053",
-			"value":"でも、思うにね、最初に会った時にミウちゃんの言ってた\nタタリってやつ？"
+			"value":"Here’s my take. Remember what Miu said about\nthe curse when we first met?"
 		},
 		{
 			"key":"EP03_S1320_0054",
-			"value":"うん？"
+			"value":"Yeah?"
 		},
 		{
 			"key":"EP03_S1320_0055",
-			"value":"アレ、きっと本当だったのよ……"
+			"value":"I think that was true."
 		},
 		{
 			"key":"EP03_S1320_0056",
-			"value":"そ、そうかな……？"
+			"value":"You, uh, think so...?"
 		},
 		{
 			"key":"EP03_S1320_0057",
-			"value":"（そうなの……！？）"
+			"value":"(Could that really be true?!)"
 		},
 		{
 			"key":"EP03_S1320_0200",
-			"value":"見たこともないイキモノはいるし\n変な文字化けメールは届くし……呪われてんのよ"
+			"value":"Creatures we’ve never seen before, strange,\njumbled messages. Sounds like a curse to me."
 		},
 		{
 			"key":"EP03_S1320_0201",
-			"value":"あ……それサキにも届いてたのか\n確かに、ちょっと怖いよな"
+			"value":"Oh... You got one of those messages too, huh?\nThey are kinda creepy, aren’t they?"
 		},
 		{
 			"key":"EP03_S1320_0202",
-			"value":"ま、みんながいるだけマシだわ\nもし一人だったら……泣いちゃうかも"
+			"value":"At least everyone’s here. If it were just me,\nwell...I tear up just thinking about it."
 		},
 		{
 			"key":"EP03_S1320_Q2",
-			"value":"（他に何か聞きたいことはあるかな？）"
+			"value":"(Was there anything else I wanted to ask?)"
 		},
 		{
 			"key":"EP03_S1320_Q2_A1",
-			"value":"聞きたいことはもうない"
+			"value":"That’s all."
 		},
 		{
 			"key":"EP03_S1320_Q2_A2",
-			"value":"まだあると思う"
+			"value":"There’s more."
 		},
 		{
 			"key":"EP03_S1320_0058",
-			"value":"うん、色々聞かせてくれてありがとう\n参考になったよ"
+			"value":"Well, thanks for sharing your thoughts.\nIt was helpful."
 		},
 		{
 			"key":"EP03_S1320_0059",
-			"value":"そ。私も、ちょっと気がまぎれたかも"
+			"value":"Good. It helped take my mind off things, too."
 		},
 		{
 			"key":"EP03_S1320_0060",
-			"value":"ありがとね……タクマ"
+			"value":"Thanks, Takuma."
 		},
 		{
 			"key":"EP03_S1320_0061",
-			"value":"それじゃあ、僕は行くよ"
+			"value":"All right, I’d better get going."
 		},
 		{
 			"key":"EP03_S1320_0062",
-			"value":"はいはい。がんばってね～"
+			"value":"Sure thing. Good luck!"
 		},
 		{
 			"key":"EP03_S1320_0063",
-			"value":"しっかりみんなの話聞くのよ～"
+			"value":"Make sure you take the time to talk to\neveryone!"
 		},
 		{
 			"key":"EP03_S1320_0064",
-			"value":"お～う。またな～"
+			"value":"Will do! See you later!"
 		},
 		{
 			"key":"EP03_S1320_0065",
-			"value":"他のみんなのところに行かないの？\nまだ私としゃべる？"
+			"value":"Aren’t you going to talk to the others?\nOr was there something else?"
 		}
 	]
 }

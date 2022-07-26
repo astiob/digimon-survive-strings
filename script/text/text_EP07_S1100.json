@@ -2,151 +2,151 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1100_0001",
-			"value":"そういや、二人には\nちゃんとした形で礼を言ってなかったな"
+			"value":"Hey, I haven’t thanked you two properly yet."
 		},
 		{
 			"key":"EP07_S1100_0002",
-			"value":"ん？　何のこと？"
+			"value":"Huh? For what?"
 		},
 		{
 			"key":"EP07_S1100_0003",
-			"value":"何って、ほら～……"
+			"value":"Whaddya mean, “For what?”  "
 		},
 		{
 			"key":"EP07_S1100_0004",
-			"value":"俺たちの仲裁をしてくれただろう\nミノルと一緒に駆け回って……"
+			"value":"You helped us work things out! Me and Minoru\nwere running around like crazy..."
 		},
 		{
 			"key":"EP07_S1100_0005",
-			"value":"ああ、そのことか\n別にいいのに"
+			"value":"Oh, that. No need to thank us."
 		},
 		{
 			"key":"EP07_S1100_0006",
-			"value":"でも、その、なんだ\nファルコモンが筋を通せってうるさいからさぁ"
+			"value":"But, like... It’s so annoying when Falcomon\ntells me to be “reasonable.”"
 		},
 		{
 			"key":"EP07_S1100_0007",
-			"value":"だから……サンキューな"
+			"value":"...we wanted to say thanks."
 		},
 		{
 			"key":"EP07_S1100_0008",
-			"value":"（ミノル、照れくさそうだけど\n　真剣な気持ちで言ってくれてるんだろうな）"
+			"value":"(Minoru’s really embarrassed. I can tell he’s\nspeaking from the heart.)"
 		},
 		{
 			"key":"EP07_S1100_0009",
-			"value":"（僕も照れくさいから、茶化してやろうかな？\n　真剣な言葉には真剣に返すべきだとは思うけど……）"
+			"value":"(I’m starting to feel embarrassed, too...\nI could poke fun at him, or stay serious.)"
 		},
 		{
 			"key":"EP07_S1100_Q1",
-			"value":"（ミノルの感謝にどう応えればいい？）"
+			"value":"(How should I respond to Minoru’s gratitude?)"
 		},
 		{
 			"key":"EP07_S1100_Q1_A1",
-			"value":"まったまた～"
+			"value":"Classic Minoru move!"
 		},
 		{
 			"key":"EP07_S1100_Q1_A2",
-			"value":"そういうのいいから"
+			"value":"Don’t mention it."
 		},
 		{
 			"key":"EP07_S1100_Q1_A3",
-			"value":"どういたしまして"
+			"value":"You’re welcome."
 		},
 		{
 			"key":"EP07_S1100_0010",
-			"value":"まったまた～"
+			"value":"Classic Minoru move!"
 		},
 		{
 			"key":"EP07_S1100_0011",
-			"value":"まったまた～、やめてくれよ\nミノルが真面目なお礼するなんて、こそばゆいよ"
+			"value":"There you go again! I swear, it’s so dang\nawkward when you get all serious!"
 		},
 		{
 			"key":"EP07_S1100_0012",
-			"value":"なっ、お前\n人がせっかく真剣に言ってるってのに！"
+			"value":"Jeeze, Takuma, I was just trying to open up\na little!"
 		},
 		{
 			"key":"EP07_S1100_0013",
-			"value":"日頃の行いだろう\nいじけるなら態度を改めろ"
+			"value":"It’s not very nice of you to reject him like\nthat."
 		},
 		{
 			"key":"EP07_S1100_0014",
-			"value":"ちぇー、もういいでーす\n真面目に言ったオレがバカでしたー"
+			"value":"I guess I’m the stupid one for trying to be\nsincere then! Ugh!"
 		},
 		{
 			"key":"EP07_S1100_0015",
-			"value":"（いじけちゃったかな？\n　軽い冗談のつもりだったんだけど……）"
+			"value":"(Was I rejecting him? I only meant to joke\naround a little...)"
 		},
 		{
 			"key":"EP07_S1100_0016",
-			"value":"そういうのいいから"
+			"value":"Don’t mention it."
 		},
 		{
 			"key":"EP07_S1100_0017",
-			"value":"そういうのいいから\n仲間として当たり前だし……"
+			"value":"You don’t need to thank me. I did what any\nfriend would do."
 		},
 		{
 			"key":"EP07_S1100_0018",
-			"value":"何よりミノルが真面目な顔して\nお礼言うなんて、らしくないよ"
+			"value":"It’s mainly just strange to see you acting\nall serious and thanking me."
 		},
 		{
 			"key":"EP07_S1100_0019",
-			"value":"ひっでーな\nま、そのとおりだけどさ"
+			"value":"Way to make me feel weird about it. Can’t\nreally fault your logic, though..."
 		},
 		{
 			"key":"EP07_S1100_0020",
-			"value":"認めるな、日頃から折々の礼や謝罪を\nきちんとしていないということだろう"
+			"value":"In other words, you normally don’t show\nenough consideration for those around you."
 		},
 		{
 			"key":"EP07_S1100_0021",
-			"value":"お前はもう少し他人に対して\n細やかな感謝を口にするべきで……"
+			"value":"You should try being a little more grateful\nand appreciative of other people."
 		},
 		{
 			"key":"EP07_S1100_0022",
-			"value":"なんだよ、ガミガミうるせーなー\nタクマたちには伝わったんだからいいだろー"
+			"value":"What’s with you two? I just wanted to let\nTakuma know how I felt."
 		},
 		{
 			"key":"EP07_S1100_0023",
-			"value":"も～、二人とも\nまたケンカになっちゃうよ"
+			"value":"Don’t tell me you two are going get into\nanother fight..."
 		},
 		{
 			"key":"EP07_S1100_0024",
-			"value":"（喧嘩するほど仲がいいってやつかな？）"
+			"value":"(They’re more like an old married couple\nbickering at this point...)"
 		},
 		{
 			"key":"EP07_S1100_0025",
-			"value":"どういたしまして"
+			"value":"You’re welcome."
 		},
 		{
 			"key":"EP07_S1100_0026",
-			"value":"どういたしまして\nでも、別に僕たちは何もしてないよ"
+			"value":"You’re welcome.\nBut there’s nothing to thank us for."
 		},
 		{
 			"key":"EP07_S1100_0027",
-			"value":"ミノルとファルコモンは、お互いのこと\n大事にしてるからな"
+			"value":"Minoru and Falcomon, you take such good care\nof each other."
 		},
 		{
 			"key":"EP07_S1100_0028",
-			"value":"仲直りできたのは、二人が\nそうしようとしたからだぞ！"
+			"value":"You were the ones who decided to put in the\nwork to patch things up!"
 		},
 		{
 			"key":"EP07_S1100_0029",
-			"value":"お前たち……"
+			"value":"Oh, you two..."
 		},
 		{
 			"key":"EP07_S1100_0030",
-			"value":"それでもきっかけ作ってくれたのは\nお前たちなんだしさ"
+			"value":"We never could have done it if it wasn’t for\nyou!"
 		},
 		{
 			"key":"EP07_S1100_0031",
-			"value":"お礼くらい受け取っといてくれって\nな？"
+			"value":"So at least let me say thank you, all right?"
 		},
 		{
 			"key":"EP07_S1100_0032",
-			"value":"おうよ！　えへへっ"
+			"value":"Any time! Heheh!"
 		},
 		{
 			"key":"EP07_S1100_0033",
-			"value":"ぼちぼち朝飯だよな？\n今日のご飯は何かな～っと"
+			"value":"It’s almost time for breakfast, right?\nI wonder what’s on the menu!"
 		}
 	]
 }

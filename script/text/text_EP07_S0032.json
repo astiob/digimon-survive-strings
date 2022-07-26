@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0032_0001",
-			"value":"なんだ？\nノイズがたくさんあるけど……"
+			"value":"What’s this? There’s a lot of noise..."
 		},
 		{
 			"key":"EP07_S0032_0002",
-			"value":"こ、これは……"
+			"value":"This... This is..."
 		},
 		{
 			"key":"EP07_S0032_0003",
-			"value":"ファルコモン？\n何かわかるのか？"
+			"value":"Falcomon? Do you know what’s happening?"
 		},
 		{
 			"key":"EP07_S0032_0004",
-			"value":"この気配は、我々の同種の亡骸だ"
+			"value":"This indicates a corpse. One of us."
 		},
 		{
 			"key":"EP07_S0032_0005",
-			"value":"亡骸……って\nし、死体ってことか！？"
+			"value":"A corpse? You mean a dead body?"
 		},
 		{
 			"key":"EP07_S0032_0006",
-			"value":"ええ、もう消えかけてるけど"
+			"value":"Yes, but it is fading."
 		},
 		{
 			"key":"EP07_S0032_0007",
-			"value":"キュ、キュゥゥ……"
+			"value":"Kew, kew..."
 		},
 		{
 			"key":"EP07_S0032_0008",
-			"value":"大丈夫だクネモン、心配すんな\n死体は襲いかかってこねえよ"
+			"value":"Don’t worry, Kunemon.\nDead bodies won’t attack."
 		},
 		{
 			"key":"EP07_S0032_0009",
-			"value":"襲いかかって、こねえよな……？"
+			"value":"They won’t, right?"
 		},
 		{
 			"key":"EP07_S0032_0010",
-			"value":"ひどい……\n一体誰がこんなことしたのかしら"
+			"value":"How awful!\nWho would dare do something so terrible?!"
 		},
 		{
 			"key":"EP07_S0032_0011",
-			"value":"……罠ではないみたいだけど\nより慎重に進む必要がありそうだね"
+			"value":"It wasn’t a trap, but we might want to\nexercise more caution from now on."
 		}
 	]
 }

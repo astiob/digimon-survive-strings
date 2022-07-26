@@ -2,19 +2,19 @@
     "scenario_text": [
         {
             "key": "EP01_S0366_0001",
-            "value": "うわ、なんだ！\nぎゃあああああああ！"
+            "value": "Whoa, what the—GYAAAAAAHHH!!!"
         },
         {
             "key": "EP01_S0366_0002",
-            "value": "今のミノルの悲鳴か！？"
+            "value": "Was that Minoru screaming?!"
         },
         {
             "key": "EP01_S0366_0003",
-            "value": "<color=#B41919>食堂<color=#B41919>の方から聞こえたよ！"
+            "value": "It came from the <color=#B41919>cafeteria<color=#B41919>!"
         },
         {
             "key": "EP01_S0366_0004",
-            "value": "わかった！　行こう！"
+            "value": "Okay, let’s head over there!"
         }
     ]
 }

@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1125_0001",
-			"value":"さっき見つかったところに戻るには\nこの奥へ進めばよかったんだよな"
+			"value":"I’m pretty sure this is the way we went\nbefore we got noticed."
 		},
 		{
 			"key":"EP04_S1125_0002",
-			"value":"うん。ボクちゃんと覚えてるよ\nこの奥を進めばいいんだよ！"
+			"value":"It is! I remember just where to go. We need\nto keep heading straight!"
 		},
 		{
 			"key":"EP04_S1125_0003",
-			"value":"だよな……\nそれじゃ、このまま進もう"
+			"value":"That’s what I thought. Let’s go."
 		}
 	]
 }

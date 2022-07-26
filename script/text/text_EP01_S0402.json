@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0402_0001",
-			"value":"うっ、んん……"
+			"value":"Unnngh..."
 		},
 		{
 			"key":"EP01_S0402_0002",
-			"value":"ラブラモン、怪我の具合は……"
+			"value":"How are your injuries, Labramon?"
 		},
 		{
 			"key":"EP01_S0402_0003",
-			"value":"へ、平気だってば……痛っ！\nくっ、うぅ……"
+			"value":"I said I’m FINE—OW! Owowow..."
 		},
 		{
 			"key":"EP01_S0402_0004",
-			"value":"ご、ごめん！　しゃべらないで！\nそのまま、安静にしててね"
+			"value":"Oh, sorry! Don’t speak, okay?! Just stay\nright there."
 		},
 		{
 			"key":"EP01_S0402_0005",
-			"value":"（痛いだろうに、必死に堪えて……\n　気丈なんだな、ラブラモンは）"
+			"value":"(It looks like it’s taking her all to bear\nthe pain... You sure are brave, Labramon.)"
 		},
 		{
 			"key":"EP01_S0402_0006",
-			"value":"（これ以上無理はさせられない\n　早く手当てしてあげよう！）"
+			"value":"(I can’t let her push herself any further.\nWe’ve gotta heal her!)"
 		},
 		{
 			"key":"EP01_S0402_0007",
-			"value":"（ラブラモンは気丈に耐えてる\n　早く手当てしてあげよう！）"
+			"value":"(Labramon is putting on a brave face. We’ve\ngotta heal her!)"
 		}
 	]
 }

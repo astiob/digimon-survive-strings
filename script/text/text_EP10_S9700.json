@@ -2,147 +2,147 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9700_0001",
-			"value":"こっちはダメだ、何にもないぜ"
+			"value":"Well, it’s not over this way. There’s nothing\nhere."
 		},
 		{
 			"key":"EP10_S9700_0002",
-			"value":"そっか。この辺りなのは\n間違いないと思うんだけど……"
+			"value":"Got it. I feel like it has to be somewhere\nnearby, though."
 		},
 		{
 			"key":"EP10_S9700_0003",
-			"value":"少ないとはいえ霧もあるしよ\n早く見つけねえとまた眷属が出てきちまうぜ……"
+			"value":"There’s some fog here too, if only a little.\nBetter find it before the Kenzoku show up..."
 		},
 		{
 			"key":"EP10_S9700_0004",
-			"value":"（ミノル、ちょっと焦ってるな\n　いつ眷属に襲われるかわからないし、無理もない）"
+			"value":"(Minoru’s a little panicked. Makes sense. We\ncould get attacked by the Kenzoku anytime.)"
 		},
 		{
 			"key":"EP10_S9700_0005",
-			"value":"（そういえば、飲み物持ってたな\n　分けてあげたら元気出るかな？）"
+			"value":"(Oh yeah, I brought a drink with me. Should\nI give him some to cheer him up?)"
 		},
 		{
 			"key":"EP10_S9700_0006",
-			"value":"（普通に渡しても面白くないし、ちょっとからかって\n　みようか？　……いや、そんな場合じゃないよな）"
+			"value":"(Maybe I could make it a little interesting?\nTease him a bit, or⁠—no, now’s not the time.)"
 		},
 		{
 			"key":"EP10_S9700_Q1",
-			"value":"（僕はミノルにどうしよう？）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP10_S9700_Q1_A1",
-			"value":"飲み物を渡そう"
+			"value":"Hand over the drink."
 		},
 		{
 			"key":"EP10_S9700_Q1_A2",
-			"value":"ミノルをからかおう"
+			"value":"Tease Minoru."
 		},
 		{
 			"key":"EP10_S9700_Q1_A3",
-			"value":"何もしなくていいな"
+			"value":"Do nothing."
 		},
 		{
 			"key":"EP10_S9700_0007",
-			"value":"ミノル、一息入れないか？\nほら、僕の水飲んでいいよ"
+			"value":"Hey man, you thirsty? Here, have some of my\ndrink."
 		},
 		{
 			"key":"EP10_S9700_0008",
-			"value":"お、マジ？　サンキュー！"
+			"value":"Oh word? Thanks a lot!"
 		},
 		{
 			"key":"EP10_S9700_0009",
-			"value":"っぷはぁ！　うめぇ……"
+			"value":"Ahh! That hit the spot..."
 		},
 		{
 			"key":"EP10_S9700_0010",
-			"value":"あんがとな、タクマ\nなんかオレ、焦ってたわ"
+			"value":"Thanks a mil, friendo. My throat was bone\ndry. I must’ve been real nervous."
 		},
 		{
 			"key":"EP10_S9700_0011",
-			"value":"うん、落ち着いたみたいでよかったよ"
+			"value":"Sure, glad to see you’ve calmed down a bit."
 		},
 		{
 			"key":"EP10_S9700_0012",
-			"value":"そんじゃ、もういっちょ探しますかね～"
+			"value":"Right, let’s get back to the search!"
 		},
 		{
 			"key":"EP10_S9700_0013",
-			"value":"ミノル、ここに僕の水があるんだけど……"
+			"value":"Hey, Minoru, I’ve got some water here..."
 		},
 		{
 			"key":"EP10_S9700_0014",
-			"value":"お？　なに、くれんの？"
+			"value":"Oh! You giving me a sip?"
 		},
 		{
 			"key":"EP10_S9700_0015",
-			"value":"ごくっ！　ごくっ！　ごくっ……！"
+			"value":"*Gulp* *gulp* *gulp*..."
 		},
 		{
 			"key":"EP10_S9700_0016",
-			"value":"あぁぁぁぁぁっ！\nなに一人で一気飲みしてんだよ！"
+			"value":"AHHH! What’s the deal, drinking it all by\nyourself?!"
 		},
 		{
 			"key":"EP10_S9700_0017",
-			"value":"ぷはぁ、誰もあげるなんて言ってないぞ？"
+			"value":"Well... I never said I was gonna give you\nsome, did I?"
 		},
 		{
 			"key":"EP10_S9700_0018",
-			"value":"えぇ～？　そりゃないだろタクマ～"
+			"value":"Oh, you CAN’T be serious, Takuma."
 		},
 		{
 			"key":"EP10_S9700_0019",
-			"value":"お前たち、遊んでいる場合じゃないだろう\n真面目に探せ"
+			"value":"This is no time for goofing off, you two!\nTake the search seriously."
 		},
 		{
 			"key":"EP10_S9700_0020",
-			"value":"お、おお、悪い……"
+			"value":"Yeah, sorry man..."
 		},
 		{
 			"key":"EP10_S9700_0021",
-			"value":"……タクマのせいで怒られたじゃねえか"
+			"value":"...Now look, you got us in trouble."
 		},
 		{
 			"key":"EP10_S9700_0022",
-			"value":"ごめんごめん、僕の水あげるから……"
+			"value":"My bad, my bad. Here, there’s some left..."
 		},
 		{
 			"key":"EP10_S9700_0023",
-			"value":"（まぁ、警戒してるとも言えるか\n　わざわざ集中を途切れさせることもないよな）"
+			"value":"(Well, we’re supposed to be on alert.\nI shouldn’t break his concentration.)"
 		},
 		{
 			"key":"EP10_S9700_0024",
-			"value":"（何かあればファルコモンが守ってくれるだろうし\n　ここはミノルを見守ろう）"
+			"value":"(Falcomon’ll protect us if something happens.\nI’ll just keep an eye on Minoru.)"
 		},
 		{
 			"key":"EP10_S9700_0025",
-			"value":"しっかし全然見当たらねえなぁ"
+			"value":"Man, I can’t find a damn thing."
 		},
 		{
 			"key":"EP10_S9700_0026",
-			"value":"手がかりのひとつくらいありゃいいんだけど……"
+			"value":"If only we had some sort of clue."
 		},
 		{
 			"key":"EP10_S9700_0027",
-			"value":"文句を言わずに探すぞ\n次はあっちを見てみよう"
+			"value":"Our time is better spent searching than\ncomplaining. Let’s check over there next."
 		},
 		{
 			"key":"EP10_S9700_0028",
-			"value":"……だな"
+			"value":"Right."
 		},
 		{
 			"key":"EP10_S9700_0029",
-			"value":"じゃ、オレたちはもう少しこの辺を\n探してみるよ"
+			"value":"We’ll keep looking around in this area."
 		},
 		{
 			"key":"EP10_S9700_0030",
-			"value":"タクマ、まだ何も見つからないけど\nオレはもう少しこの辺を探してみる"
+			"value":"Still haven’t found anything, Takuma, but\nI’ll keep looking around here."
 		},
 		{
 			"key":"EP10_S9700_0031",
-			"value":"だからタクマは他の場所を頼むな"
+			"value":"You should probably try somewhere else."
 		},
 		{
 			"key":"EP10_S9700_0032",
-			"value":"悪い、まだ何も見つかってねえわ\nタクマは他のとこ探してみてくれ"
+			"value":"Sorry, I’m still coming up empty. You look\nsomewhere else, Takuma."
 		}
 	]
 }

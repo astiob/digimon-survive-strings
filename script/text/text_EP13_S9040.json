@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9040_0001",
-			"value":"……シッ！　タクマ、静かに！"
+			"value":"Shh! Takuma, quiet!"
 		},
 		{
 			"key":"EP13_S9040_0002",
-			"value":"どうした？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP13_S9040_0003",
-			"value":"何かいるぞ……\n近づいてくる……"
+			"value":"There’s something nearby...and it’s getting\ncloser."
 		},
 		{
 			"key":"EP13_S9040_0004",
-			"value":"っ！　出たっ！"
+			"value":"Oh! There it is!"
 		}
 	]
 }

@@ -2,219 +2,219 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2422_0001",
-			"value":"ミユキ、ハル\nまだ遊んでたんだな"
+			"value":"You two are still playing games,\nI see."
 		},
 		{
 			"key":"EP03_S2422_0002",
-			"value":"うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP03_S2422_0003",
-			"value":"えーっと……そうだ、僕は今\nみんなに色々聞いてるところなんだけど"
+			"value":"Well, uh... Look, I’ve been going around and\nasking for everyone’s opinion on things."
 		},
 		{
 			"key":"EP03_S2422_0004",
-			"value":"ハルやミユキにも聞いていいかな？"
+			"value":"Can I talk to you guys, too?"
 		},
 		{
 			"key":"EP03_S2422_0005",
-			"value":"……何を？"
+			"value":"About...what?"
 		},
 		{
 			"key":"EP03_S2422_0006",
-			"value":"今のままじゃ、みんなバラバラだもんな"
+			"value":"Right now, none of us are on the same page."
 		},
 		{
 			"key":"EP03_S2422_0007",
-			"value":"だから、今自分たちの身に何が起きてるか\nそれぞれの考え方を聞いてみたいし……"
+			"value":"So I wanted to get everyone’s take on what’s\nhappened to us, see how they’re feeling,"
 		},
 		{
 			"key":"EP03_S2422_0008",
-			"value":"これからどう行動すべきか、今の心境とか\n今の状況をどう思ってるかとか……"
+			"value":"ask what they think our next move should be,\nand hear what they make of our situation."
 		},
 		{
 			"key":"EP03_S2422_0009",
-			"value":"わかんない"
+			"value":"I dunno."
 		},
 		{
 			"key":"EP03_S2422_0010",
-			"value":"はは……そうだよねえ"
+			"value":"Haha... Yeah, that’s what I figured."
 		},
 		{
 			"key":"EP03_S2422_0011",
-			"value":"でも、みんなそれぞれ、事態の受け止め方は違うんだ"
+			"value":"But everyone has a different way of looking\nat this stuff."
 		},
 		{
 			"key":"EP03_S2422_0012",
-			"value":"考え方だって、みんなバラバラだ……\nこれからどうするかも……"
+			"value":"We all have our own ideas about what to do\nnext."
 		},
 		{
 			"key":"EP03_S2422_0013",
-			"value":"だから、みんなの考え方を聞いて\nそれぞれのいいところを選べば上手くいくかも……"
+			"value":"So I’m trying to get everyone’s opinion, and\nthen make an informed decision."
 		},
 		{
 			"key":"EP03_S2422_0014",
-			"value":"だからいいかな？　もちろん……\nわからなければ、わからないでいいから"
+			"value":"I hope you don’t mind if I ask you, too. You\ndon’t have to answer me if you don’t know."
 		},
 		{
 			"key":"EP03_S2422_0015",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP03_S2422_Q1",
-			"value":"（さて、何から聞こうか……）"
+			"value":"(Now, where should I start?)"
 		},
 		{
 			"key":"EP03_S2422_Q1_A1",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S2422_Q1_A2",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S2422_Q1_A3",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S2422_Q1_A4",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S2422_0016",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S2422_0017",
-			"value":"実際……今僕たちの身に\n何が起こっているんだろうな？"
+			"value":"So, what do you think’s actually going on\nright now?"
 		},
 		{
 			"key":"EP03_S2422_0018",
-			"value":"私は……"
+			"value":"I..."
 		},
 		{
 			"key":"EP03_S2422_0019",
-			"value":"えっ？"
+			"value":"Yes?"
 		},
 		{
 			"key":"EP03_S2422_0020",
-			"value":"わからない"
+			"value":"I don’t know."
 		},
 		{
 			"key":"EP03_S2422_0021",
-			"value":"あ、ははは……そうだねぇ、うん"
+			"value":"Ha... Hahaha. Yeah, that’s what I figured."
 		},
 		{
 			"key":"EP03_S2422_0022",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S2422_0023",
-			"value":"じゃあ、僕たちはこれから\nどう行動したら良いのかな……？"
+			"value":"So, what do you think our next move should\nbe?"
 		},
 		{
 			"key":"EP03_S2422_0024",
-			"value":"それって……よくわからないよ\nごめんなさい……"
+			"value":"I don’t really know. Sorry..."
 		},
 		{
 			"key":"EP03_S2422_0025",
-			"value":"うん、まぁそうだよね"
+			"value":"Yeah, that sounds about right."
 		},
 		{
 			"key":"EP03_S2422_0026",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S2422_0027",
-			"value":"今の心境……あぁ、えーっと\n今、どう思ってる？"
+			"value":"Emotionally... Er, uh...anything bothering\nyou right now?"
 		},
 		{
 			"key":"EP03_S2422_0028",
-			"value":"……？？？\nええっと……"
+			"value":"Uh...?"
 		},
 		{
 			"key":"EP03_S2422_0029",
-			"value":"ごめん、よくわからないって"
+			"value":"Sorry, she says she’s confused."
 		},
 		{
 			"key":"EP03_S2422_0030",
-			"value":"そっか……"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP03_S2422_0031",
-			"value":"（まぁ、実際僕もなんて言えばいいかわからないしな）"
+			"value":"(To be honest, I’m not sure how I’d put my\nfeelings into words right now either.)"
 		},
 		{
 			"key":"EP03_S2422_0037",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S2422_0038",
-			"value":"……じょう……きょう？"
+			"value":"Situ...ation?"
 		},
 		{
 			"key":"EP03_S2422_0039",
-			"value":"あ、ごめん。言葉が難しかったか\n無理もないよね、はは……"
+			"value":"Sorry. I guess that was a big word, huh?\nHaha..."
 		},
 		{
 			"key":"EP03_S2422_0040",
-			"value":"えっと、つまり……僕たちは今\nどうなってるのかな、みたいな……"
+			"value":"Uh, basically, what do you make of the\nposition we’re in right now?"
 		},
 		{
 			"key":"EP03_S2422_0041",
-			"value":"校舎にいるよ"
+			"value":"We’re in the school."
 		},
 		{
 			"key":"EP03_S2422_0042",
-			"value":"いるよ……"
+			"value":"School..."
 		},
 		{
 			"key":"EP03_S2422_0043",
-			"value":"うん……そうだよね"
+			"value":"Yeah... Yeah, we are."
 		},
 		{
 			"key":"EP03_S2422_Q2",
-			"value":"（他に何か聞きたいことはあるかな？）"
+			"value":"(Was there anything else I wanted to ask?)"
 		},
 		{
 			"key":"EP03_S2422_Q2_A1",
-			"value":"聞きたいことはもうない"
+			"value":"That’s all."
 		},
 		{
 			"key":"EP03_S2422_Q2_A2",
-			"value":"まだあると思う"
+			"value":"There’s more."
 		},
 		{
 			"key":"EP03_S2422_0047",
-			"value":"ごめん、わからないばっかりで……"
+			"value":"Sorry to just keep saying we don’t know..."
 		},
 		{
 			"key":"EP03_S2422_0048",
-			"value":"お姉ちゃんもぼくも\n何がどうなってるのか……"
+			"value":"My sister and I really don’t get what’s going\non."
 		},
 		{
 			"key":"EP03_S2422_0049",
-			"value":"そう、なんにもわかんないんだ……"
+			"value":"We just...don’t know."
 		},
 		{
 			"key":"EP03_S2422_0050",
-			"value":"そうか……そうだよな\nハルに難しいコト聞いて悪かった"
+			"value":"Yeah, well, I don’t blame you. Sorry about to\nask all those tough questions, Haru."
 		},
 		{
 			"key":"EP03_S2422_0051",
-			"value":"あ、あとミユキにもな"
+			"value":"Oh, and you too, Miyuki."
 		},
 		{
 			"key":"EP03_S2422_0052",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP03_S2422_0053",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP03_S2422_0054",
-			"value":"（二人はまだ遊び続けてる\n　こんな状況で、怖くないのかな……？）"
+			"value":"(They’re still playing games. How are they\nnot more scared about what’s going on?)"
 		}
 	]
 }

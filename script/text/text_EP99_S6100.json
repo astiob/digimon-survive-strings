@@ -2,183 +2,183 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S6100_0001",
-			"value":"あれ……リョウ？\nもしかしてひとり？"
+			"value":"Huh? Ryo? You out here by yourself?"
 		},
 		{
 			"key":"EP99_S6100_0002",
-			"value":"お、おう\nなんだ、タクマか……"
+			"value":"You got it. Just you, huh, Takuma?"
 		},
 		{
 			"key":"EP99_S6100_0003",
-			"value":"（……困ったな\nリョウとどんな話をしたらいいのか……）"
+			"value":"(Man... I don’t even know what to say to\nRyo...)"
 		},
 		{
 			"key":"EP99_S6100_0004",
-			"value":"（僕はミノルと違って\nリョウとは上手く話せないんだよな……）"
+			"value":"(Unlike Minoru, I have a hard time talking\nwith him...)"
 		},
 		{
 			"key":"EP99_S6100_0005",
-			"value":"あ……え～っと……\nお邪魔しました……じゃあ"
+			"value":"Oh, uh...sorry to bother you, then. So long!"
 		},
 		{
 			"key":"EP99_S6100_0006",
-			"value":"あ、ちょっと待てよ\n待てってば、おい！！"
+			"value":"Just a second now! Where do you think you’re\ngoing?!"
 		},
 		{
 			"key":"EP99_S6100_0007",
-			"value":"ちょうどさ、オマエに話があったんだよ\nだから少しいいだろぉ？"
+			"value":"I’ve been meaning to talk with you anyway, so\njust chill out, would you?"
 		},
 		{
 			"key":"EP99_S6100_0008",
-			"value":"お金なら持ってないんだけど……"
+			"value":"Uh, I don’t have any money, so if that’s what\nthis is about..."
 		},
 		{
 			"key":"EP99_S6100_0009",
-			"value":"ちっげーよ、バカッ！\nこんなトコでカツアゲしてどうすんだよ！"
+			"value":"Ugh, not even close, you idiot! It wouldn’t\neven be worth shaking you down out here!"
 		},
 		{
 			"key":"EP99_S6100_0010",
-			"value":"そうじゃなくて、えっと……だ\nその……な、まあ、アレだアレ"
+			"value":"This is about...well, uh, you know!"
 		},
 		{
 			"key":"EP99_S6100_0011",
-			"value":"（リョウが口ごもりはじめたぞ……\nなんだろう、もしかして……）"
+			"value":"(Sounds like Ryo is having a hard time\nspelling this out. Wait! I think I get it.)"
 		},
 		{
 			"key":"EP99_S6100_0012",
-			"value":"おしっこしたいのなら\n僕に構わず行っていいんだけど……"
+			"value":"If you want to use the bathroom, go right\nahead. Don’t let me stop you."
 		},
 		{
 			"key":"EP99_S6100_0013",
-			"value":"だーかーらー！　ちげぇって言ってんだろ！\nだーもう！！　オレが言いたいのはだ！"
+			"value":"Oh, come on! That’s not it at all! What is\nwrong with you?! Don’t you get it?"
 		},
 		{
 			"key":"EP99_S6100_0014",
-			"value":"その……ありがとよ……ってことだよ"
+			"value":"I wanted to say...thanks."
 		},
 		{
 			"key":"EP99_S6100_0015",
-			"value":"……えっ？"
+			"value":"What?"
 		},
 		{
 			"key":"EP99_S6100_Q1",
-			"value":"リョウの言葉って……！？"
+			"value":"How should I react?"
 		},
 		{
 			"key":"EP99_S6100_Q1_A1",
-			"value":"え、今なんて……？"
+			"value":"What did you just say?"
 		},
 		{
 			"key":"EP99_S6100_Q1_A2",
-			"value":"ありがとう……って？"
+			"value":"You’re...thanking me?"
 		},
 		{
 			"key":"EP99_S6100_Q1_A3",
-			"value":"これぞまさに晴天の霹靂だ"
+			"value":"A bolt from the blue!"
 		},
 		{
 			"key":"EP99_S6100_0016",
-			"value":"え、今なんて……言ったの？"
+			"value":"What did you just say?"
 		},
 		{
 			"key":"EP99_S6100_0017",
-			"value":"……聞こえなかったのかよ\nじゃあいい"
+			"value":"Did you not hear me? Well, then forget it."
 		},
 		{
 			"key":"EP99_S6100_0018",
-			"value":"いや、聞こえたけど……！\n聞き間違いじゃないかって……！"
+			"value":"No, I mean, I heard you, but... Did you\nseriously just say thanks?!"
 		},
 		{
 			"key":"EP99_S6100_0019",
-			"value":"（だってリョウが『ありがとう』なんて\n絶対に言うはずがないもの……！）"
+			"value":"(I didn’t think that word was in his\nvocabulary!)"
 		},
 		{
 			"key":"EP99_S6100_0020",
-			"value":"ちっ……まあいい\nとにかくそういうことだから"
+			"value":"Tch... Whatever. You heard me."
 		},
 		{
 			"key":"EP99_S6100_0021",
-			"value":"ただオレは……\nけじめを付けたかっただけだからな"
+			"value":"Just wanted to say that, okay?"
 		},
 		{
 			"key":"EP99_S6100_0022",
-			"value":"ありがとう……って言った？"
+			"value":"You’re...thanking me?"
 		},
 		{
 			"key":"EP99_S6100_0023",
-			"value":"……おう"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP99_S6100_0024",
-			"value":"え？　リョウが？\nありがとうって！？"
+			"value":"Seriously? You? You’re thanking me?"
 		},
 		{
 			"key":"EP99_S6100_0025",
-			"value":"なんか俺、すげえ\nイヤなヤツみてえじゃねぇか"
+			"value":"What? You act like I’m a huge jerk or\nsomething!"
 		},
 		{
 			"key":"EP99_S6100_0026",
-			"value":"いや！　そういう意味じゃないけど\nいったいどうして……！？"
+			"value":"Oh no! It’s not that. I just can’t see why."
 		},
 		{
 			"key":"EP99_S6100_0027",
-			"value":"あーうん……それはだな……"
+			"value":"Well, uh, it’s ‘cause..."
 		},
 		{
 			"key":"EP99_S6100_0028",
-			"value":"あの時にオレを助けてくれただろ？"
+			"value":"It’s ‘cause you saved my life, okay?"
 		},
 		{
 			"key":"EP99_S6100_0029",
-			"value":"……その礼だけは言っておきたかったんだよ"
+			"value":"I just wanted to thank you for that."
 		},
 		{
 			"key":"EP99_S6100_0030",
-			"value":"これぞまさに晴天の霹靂……！"
+			"value":"Talk about a bolt from the blue!"
 		},
 		{
 			"key":"EP99_S6100_0031",
-			"value":"あ、いまなんつった？\nせ、せいて……んん？"
+			"value":"What bolt? What are you talking about?"
 		},
 		{
 			"key":"EP99_S6100_0032",
-			"value":"晴天の霹靂だよ\n『思いがけない事』という意味で……"
+			"value":"Don’t you know that expression? It’s like a\nlightning bolt out of a clear sky. A shock."
 		},
 		{
 			"key":"EP99_S6100_0033",
-			"value":"あぁ！？　そりゃどういう事だよ！"
+			"value":"Huh?! Wait, what’s so shocking?!"
 		},
 		{
 			"key":"EP99_S6100_0034",
-			"value":"だってリョウが『ありがとう』だよ？\n普段はこんな言葉を言うはずがないもの"
+			"value":"I mean, you’re actually thanking me. I don’t\nthink I’ve ever heard you say that before."
 		},
 		{
 			"key":"EP99_S6100_0035",
-			"value":"明日はきっと雨だ、いや大雨だよ\nはたまた大嵐の予兆かも……！"
+			"value":"Tomorrow’s gonna be a cold day in hell. There\ncould be a blizzard. Maybe it’ll freeze over."
 		},
 		{
 			"key":"EP99_S6100_0036",
-			"value":"おいおい……俺ってそんな風に\n思われていたのかよ……！"
+			"value":"What, are you serious? You think I’m that big\nof a jerk?!"
 		},
 		{
 			"key":"EP99_S6100_0037",
-			"value":"あのな、タクマ……"
+			"value":"Look, Takuma..."
 		},
 		{
 			"key":"EP99_S6100_0038",
-			"value":"いくらオレだって命の恩人に\n適当な事はしねえよ"
+			"value":"I’m not gonna treat the guy who saved my life\nlike dirt. That’d be low, even for me."
 		},
 		{
 			"key":"EP99_S6100_0039",
-			"value":"あの時のオレはさ……\nん……やっぱやめた、なんでもねぇ"
+			"value":"When all that stuff was goin’ down, I...\nNah, never mind."
 		},
 		{
 			"key":"EP99_S6100_0040",
-			"value":"なんだよ、気になるじゃないか\n何を言おうとしていたの？"
+			"value":"Hey, what gives? Now I’m curious. What were\nyou going to say?"
 		},
 		{
 			"key":"EP99_S6100_0041",
-			"value":"うっせ！　また今度な！"
+			"value":"Just forget it! See you around, okay?"
 		}
 	]
 }

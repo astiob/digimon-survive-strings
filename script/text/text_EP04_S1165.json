@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1165_0001",
-			"value":"わっ……！"
+			"value":"Wah!"
 		},
 		{
 			"key":"EP04_S1165_0002",
-			"value":"サキ、大丈夫か？"
+			"value":"Saki, are you okay?"
 		},
 		{
 			"key":"EP04_S1165_0003",
-			"value":"ごめんごめん、何かにつまづいて\nちょっと転びそうになっただけ"
+			"value":"Yeah, sorry. I tripped over something and\nalmost fell over."
 		},
 		{
 			"key":"EP04_S1165_0004",
-			"value":"サキ、気を付けてね\nこの辺、足元がゴチャゴチャしてるし……"
+			"value":"You have to watch your step, Saki. The ground\nis all uneven here."
 		},
 		{
 			"key":"EP04_S1165_0005",
-			"value":"わかってるって"
+			"value":"I got it, already."
 		},
 		{
 			"key":"EP04_S1165_0006",
-			"value":"つまづいたのって……これか？"
+			"value":"So...is this what you tripped over?"
 		},
 		{
 			"key":"EP04_S1165_0007",
-			"value":"そうみたいだけど……"
+			"value":"Looks like it."
 		},
 		{
 			"key":"EP04_S1165_0008",
-			"value":"それ、なにかしら？"
+			"value":"What even is that thing?"
 		},
 		{
 			"key":"EP04_S1165_0009",
-			"value":"うーん、よくわかんないけど……\nタクマ、もらっとけば？"
+			"value":"I’m...not really sure, but why don’t you hold\nonto it, Takuma?"
 		},
 		{
 			"key":"EP04_S1165_0010",
-			"value":"そのうち、何かの役に立つかもよ？"
+			"value":"You never know when it might come in handy."
 		},
 		{
 			"key":"EP04_S1165_0011",
-			"value":"そうだな……そうするか"
+			"value":"That’s true. I think I will hold onto it."
 		},
 		{
 			"key":"EP04_S1165_0012",
-			"value":"同じような物が落ちてないかなーと思ったけど\nないみたいだね"
+			"value":"I checked to see if anything else like that\nthing was lying around, but no luck."
 		}
 	]
 }

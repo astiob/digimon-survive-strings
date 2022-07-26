@@ -2,267 +2,267 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1100_0001",
-			"value":"ミノル、こんな所にいたのか"
+			"value":"Oh, hey, Minoru. Didn’t expect to find you\nhere."
 		},
 		{
 			"key":"EP03_S1100_0002",
-			"value":"ん～？　元気ない？"
+			"value":"Hm? You seem down."
 		},
 		{
 			"key":"EP03_S1100_0003",
-			"value":"いや、これは落ち着いた、という状態だ\nそうだな？　ミノル"
+			"value":"I think you will find he is merely calm,\nrather than “down.” Isn’t that so, Minoru?"
 		},
 		{
 			"key":"EP03_S1100_0004",
-			"value":"おう……やっぱ、頭冷やさねーとな\nまだみんなバラバラだしよ……"
+			"value":"Yeah, I just needed to clear my head.\nEveryone is so...divided..."
 		},
 		{
 			"key":"EP03_S1100_0005",
-			"value":"そう言うオレだって\n協調性は無い方だしな……"
+			"value":"Not that I’m exactly the most cooperative\nguy, myself..."
 		},
 		{
 			"key":"EP03_S1100_0006",
-			"value":"でもミノルは誰とでも調子よく\n話を合わせられる方じゃないか？"
+			"value":"Really? But you get along with everyone,\nMinoru."
 		},
 		{
 			"key":"EP03_S1100_0007",
-			"value":"フフっ……結局さ\n性根が曲がってんだよ、オレは"
+			"value":"Ha... The truth is, I’ve got a rotten\npersonality."
 		},
 		{
 			"key":"EP03_S1100_0008",
-			"value":"調子良いってのはただの処世術だぜ\nこんなもん取り柄でも何でもねーよ"
+			"value":"I get along just to get by. It’s nothing to\nbe proud of."
 		},
 		{
 			"key":"EP03_S1100_0009",
-			"value":"口先なんて、結局バケモンどもに通じねえしな……\n何にもなんねーんだよ"
+			"value":"I can talk a good game, but that doesn’t help\nmuch with all these monsters. Not at all."
 		},
 		{
 			"key":"EP03_S1100_0010",
-			"value":"ミノル……"
+			"value":"Minoru..."
 		},
 		{
 			"key":"EP03_S1100_0011",
-			"value":"（……珍しいな、ミノルがこんなに\n　後ろ向きになってるのは）"
+			"value":"(Minoru’s not usually this negative.)"
 		},
 		{
 			"key":"EP03_S1100_0012",
-			"value":"（こういう時はミノルの話したいことを\n　話させてやるのがいいかもな）"
+			"value":"(Maybe it’ll help if I let him talk about\nwhat’s on his mind.)"
 		},
 		{
 			"key":"EP03_S1100_Q1",
-			"value":"（ミノルにどんなことを聞こうか？）"
+			"value":"(What should I ask Minoru about?)"
 		},
 		{
 			"key":"EP03_S1100_Q1_A1",
-			"value":"今の心境は？"
+			"value":"How are you feeling?"
 		},
 		{
 			"key":"EP03_S1100_Q1_A2",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1100_Q1_A3",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1100_Q1_A4",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1100_0013",
-			"value":"今の心境は？"
+			"value":"How do you feel?"
 		},
 		{
 			"key":"EP03_S1100_0014",
-			"value":"あ、言っとくけどオレ\n落ち込んでるワケじゃねーからな！"
+			"value":"Oh, don’t get the wrong idea! I’m not\ndepressed or anything!"
 		},
 		{
 			"key":"EP03_S1100_0015",
-			"value":"今だって、結構ワクワクしてんだよ\nこれから何が始まるのかなってさ……"
+			"value":"I’m actually pretty excited. Can’t wait to\nsee what happens next!"
 		},
 		{
 			"key":"EP03_S1100_0016",
-			"value":"今何が起こっている？"
+			"value":"What’s going on?"
 		},
 		{
 			"key":"EP03_S1100_0017",
-			"value":"実際……今、僕たちの身に\n何が起こっているんだろうな？"
+			"value":"So, what do you think’s actually going on\nright now?"
 		},
 		{
 			"key":"EP03_S1100_0018",
-			"value":"ん～何だろうな？\n何にしても、すげえＳＦ的状況って感じ？"
+			"value":"Uh...beats me! It kinda feels like we’re in\nsome weird kinda sci-fi story, though."
 		},
 		{
 			"key":"EP03_S1100_0019",
-			"value":"フィクションにしかないような\nありえない事態に巻き込まれてるのは確かだろ"
+			"value":"Definitely the sort of thing you’d only\nexpect to see in fiction."
 		},
 		{
 			"key":"EP03_S1100_0020",
-			"value":"だったら、クヨクヨ嘆いてもしょーがねーし\nいっそ楽しむしかないじゃん？"
+			"value":"But there’s no use crying about it, right?\nMight as well enjoy it."
 		},
 		{
 			"key":"EP03_S1100_0021",
-			"value":"普通は一生かかっても体験できねー事が\n今、オレたちの身に降り掛かってんだぜ？"
+			"value":"You could live your whole life and never see\nanything like this! And it’s happening now!"
 		},
 		{
 			"key":"EP03_S1100_0022",
-			"value":"……大した考え方だな、ミノルは"
+			"value":"You sure have an interesting way of looking\nat things."
 		},
 		{
 			"key":"EP03_S1100_0023",
-			"value":"ＳＦ？　フィクション？　ってなんだろ？"
+			"value":"Sci-fi? Fiction? What are those?"
 		},
 		{
 			"key":"EP03_S1100_0024",
-			"value":"むぅ、俺にもわからんが……ミノルの言い方からすると\n楽しいものなのだろうな"
+			"value":"Hm, I too am uncertain, but from how Minoru\nspeaks of them, they must be enjoyable."
 		},
 		{
 			"key":"EP03_S1100_0025",
-			"value":"楽しいのはいいよね～！"
+			"value":"Then I bet I’d like them!"
 		},
 		{
 			"key":"EP03_S1100_0026",
-			"value":"これからどう行動すべき？"
+			"value":"What’s our next move?"
 		},
 		{
 			"key":"EP03_S1100_0027",
-			"value":"じゃあ、僕たちはこれから\nどう行動したら良いのかな……？"
+			"value":"So, what do you think our next move should\nbe?"
 		},
 		{
 			"key":"EP03_S1100_0028",
-			"value":"決まってるだろ、探検だよ！　大冒険！\n今のオレたちにはモンスターの仲間もいるんだ！"
+			"value":"Adventure, of course! Let’s go adventuring!\nWe’ve got monster partners backing us up!"
 		},
 		{
 			"key":"EP03_S1100_0029",
-			"value":"この世界をアドベンチャーするってワケだよ！\n踏みとどまってる場合じゃねえよ、実際！"
+			"value":"We ought to get out there and explore this\nplace! There’s no point just sitting around!"
 		},
 		{
 			"key":"EP03_S1100_0030",
-			"value":"また、大きく出たな……"
+			"value":"That’s...quite the approach."
 		},
 		{
 			"key":"EP03_S1100_0031",
-			"value":"でしょ～？\nいやぁ、将来大物になるね、オレは！"
+			"value":"Right?! I’ll totally make it big some day!"
 		},
 		{
 			"key":"EP03_S1100_0032",
-			"value":"（そうやってヘラヘラ笑うミノルだけど……\n　やっぱ、声の芯は震えてる感じだ……）"
+			"value":"(Minoru’s kidding around, but I can still\nhear the trembling in his voice...)"
 		},
 		{
 			"key":"EP03_S1100_0033",
-			"value":"今の状況は？"
+			"value":"How’s our situation?"
 		},
 		{
 			"key":"EP03_S1100_0034",
-			"value":"ミノルは、今の状況をどう思ってる？\nやっぱり楽しいって感じてるのか？"
+			"value":"What do you make of our current situation,\nMinoru? This all seems like fun to you?"
 		},
 		{
 			"key":"EP03_S1100_0035",
-			"value":"そりゃあ、楽観視はしてらんないよ？\nでも、いつまでもお通夜みたいじゃしょーがねーし"
+			"value":"I’m being optimistic, it’s true. But we can’t\nact like this is some funeral all the time."
 		},
 		{
 			"key":"EP03_S1100_0036",
-			"value":"だから……せめて、こうやって\n気張ってないとな……！"
+			"value":"That’s why...I wanna be a little upbeat, you\nknow?"
 		},
 		{
 			"key":"EP03_S1100_0037",
-			"value":"（うん、ミノルは、わかった上で\n　虚勢を張って自らを鼓舞してるんだ……）"
+			"value":"(Yeah. It’s not like Minoru’s oblivious, but\nhe’s trying to stay fired up...)"
 		},
 		{
 			"key":"EP03_S1100_0038",
-			"value":"そんでこの状況な……やっぱアレだぜ。オレが思うに\nオレたち、異次元に飲み込まれちまってんだ"
+			"value":"As for our situation, here’s what I think.\nWe’ve been thrown into another dimension."
 		},
 		{
 			"key":"EP03_S1100_0039",
-			"value":"最初は未来世界かと思ったけど\nそれにしてはおかしいし……"
+			"value":"At first I thought we might be in the future,\nbut that doesn’t make any sense..."
 		},
 		{
 			"key":"EP03_S1100_0040",
-			"value":"かといって、さっきも言ってたけど\nオープンセットなわけもないしな"
+			"value":"And this isn’t some movie set, either.\nWe talked about that."
 		},
 		{
 			"key":"EP03_S1100_0041",
-			"value":"ああ……一番現実離れした答えだけど\n一番現実的なのも異次元しかないんだ"
+			"value":"It’s probably the least realistic answer, but\nit might just be the truth."
 		},
 		{
 			"key":"EP03_S1100_0042",
-			"value":"んで、そう考えるとちょっと思いつくわけよ\n異次元世界にどうやってオレたちは現れた？"
+			"value":"So think about it. If we accept that this is\nwhat happened, how did we get here?"
 		},
 		{
 			"key":"EP03_S1100_0043",
-			"value":"オレたちがこっちに来れたってことは\nこっちから元に戻る方法だってあるはずだぜ！？"
+			"value":"And since we made it here somehow, there’s\ngot to be a way back, right?!"
 		},
 		{
 			"key":"EP03_S1100_0044",
-			"value":"あぁ、なるほど。それは確かにありそうだ"
+			"value":"Yeah, you’re right. That makes a lot of\nsense."
 		},
 		{
 			"key":"EP03_S1100_0045",
-			"value":"さすがミノルだな。冷静だ"
+			"value":"Good thinking, Minoru. Very cool and level-\nheaded of you."
 		},
 		{
 			"key":"EP03_S1100_0046",
-			"value":"ミノルすご～い！"
+			"value":"Amazing, Minoru!"
 		},
 		{
 			"key":"EP03_S1100_0047",
-			"value":"だろ！？"
+			"value":"I know, right?!"
 		},
 		{
 			"key":"EP03_S1100_0200",
-			"value":"そんでこれな！　文字化けメール！\nこれがきっと、脱出の鍵になるんだよ！"
+			"value":"And then there’s this screwed-up message!\nI bet it’s the key to getting out of here!"
 		},
 		{
 			"key":"EP03_S1100_0201",
-			"value":"え、このメールが？\nうーん……それはどうだろう"
+			"value":"What, all this nonsense? I dunno... You sure\nabout that?"
 		},
 		{
 			"key":"EP03_S1100_0202",
-			"value":"いやいや、何が手がかりになるかわかんねえって\n何でもかんでも疑ってみなきゃ！"
+			"value":"Hey, I’m just saying it might be a clue or\nsomething. Gotta turn over every stone!"
 		},
 		{
 			"key":"EP03_S1100_0048",
-			"value":"だから……うん\n今はまだ、絶望するには早すぎるんだ"
+			"value":"Anyway...yeah. We shouldn’t give up just yet."
 		},
 		{
 			"key":"EP03_S1100_0049",
-			"value":"そうだな……\nやっぱ、ミノルは大したヤツだよ"
+			"value":"I guess not. You sure are something else,\nMinoru."
 		},
 		{
 			"key":"EP03_S1100_Q2",
-			"value":"（他に何か聞きたいことはあるかな？）"
+			"value":"(Was there anything else I wanted to ask?)"
 		},
 		{
 			"key":"EP03_S1100_Q2_A1",
-			"value":"聞きたいことはもうない"
+			"value":"That’s all."
 		},
 		{
 			"key":"EP03_S1100_Q2_A2",
-			"value":"まだあると思う"
+			"value":"There’s more."
 		},
 		{
 			"key":"EP03_S1100_0050",
-			"value":"とまぁ、オレの考えはこんな感じだな\n参考になったか？"
+			"value":"So, that’s what I’ve been thinking. Was it\nany help?"
 		},
 		{
 			"key":"EP03_S1100_0051",
-			"value":"うん、参考になったよ。ありがとう"
+			"value":"It was a big help, thanks."
 		},
 		{
 			"key":"EP03_S1100_0052",
-			"value":"まぁ、まとめるのはみんなの意見を聞いてからだけど"
+			"value":"Of course, we’ll need to get everyone’s\nopinion before we settle anything."
 		},
 		{
 			"key":"EP03_S1100_0053",
-			"value":"わかってるって。みんなが納得できる結論を頼むぜ！"
+			"value":"Yeah, I know. Good luck thinking up something\nthat’ll get us all on the same page!"
 		},
 		{
 			"key":"EP03_S1100_0054",
-			"value":"（みんなが納得、か。ミノルはお調子者に\n　見られがちだけど、仲間を大事にするヤツだよな）"
+			"value":"(Get us all on the same page, huh? Minoru can\nseem thoughtless, but he really does care.)"
 		},
 		{
 			"key":"EP03_S1100_0055",
-			"value":"みんなの意見聞いて、全員が納得できる結論を頼むぜ！"
+			"value":"Good luck finding a way to get us all on the\nsame page!"
 		}
 	]
 }

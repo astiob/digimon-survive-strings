@@ -2,171 +2,171 @@
     "scenario_text": [
         {
             "key": "EP07_S3108_0001",
-            "value": "タクマくん！\nこれを見てほしいの"
+            "value": "Hey, Takuma! Look at this!"
         },
         {
             "key": "EP07_S3108_0002",
-            "value": "壁に……傷痕？"
+            "value": "A mark...on the wall?"
         },
         {
             "key": "EP07_S3108_0003",
-            "value": "他の崩れ方に比べて新しい気がして\nもしかしたらピエモンがつけたのかも"
+            "value": "It seems more recent than the other damage.\nPiedmon might have left this."
         },
         {
             "key": "EP07_S3108_0004",
-            "value": "知らず知らずのうちに引っかけたとかかな"
+            "value": "He could have scraped the wall."
         },
         {
             "key": "EP07_S3108_0005",
-            "value": "それにしても、こんな小さな痕跡を\nよく見つけられたね"
+            "value": "Even still, you did a great job to find that\nlittle mark."
         },
         {
             "key": "EP07_S3108_0006",
-            "value": "あ……私、必死で\nなんでもいいから探さなきゃって"
+            "value": "Well... I have to give it my all.\nI’ll keep looking."
         },
         {
             "key": "EP07_S3108_0007",
-            "value": "（アオイさん、褒められて戸惑ってる？\n　照れてるのとも少し違うような）"
+            "value": "(Does praise confuse her? That didn’t seem\nlike an embarrassed reaction.)"
         },
         {
             "key": "EP07_S3108_0008",
-            "value": "（せっかく手がかりを見つけてくれたんだ\n　この勢いを削ぎたくないけど）"
+            "value": "(She found a great clue. I don’t want to\nchange her attitude, though.)"
         },
         {
             "key": "EP07_S3108_0009",
-            "value": "（どうしたのか、聞いてみようかな？\n　それともそっとしておくべきか……？）"
+            "value": "(Should I ask her if something’s wrong?\nOr should I leave it be?)"
         },
         {
             "key": "EP07_S3108_Q1",
-            "value": "（アオイさんに何と言おう）"
+            "value": "(What should I say to Aoi?)"
         },
         {
             "key": "EP07_S3108_Q1_A1",
-            "value": "褒められて照れてる？"
+            "value": "Did I embarrass you?"
         },
         {
             "key": "EP07_S3108_Q1_A2",
-            "value": "仕事ができて凄い"
+            "value": "You’re doing great."
         },
         {
             "key": "EP07_S3108_Q1_A3",
-            "value": "この調子でお願い"
+            "value": "Keep it up!"
         },
         {
             "key": "EP07_S3108_0010",
-            "value": "褒められて照れてる？"
+            "value": "Did I embarrass you?"
         },
         {
             "key": "EP07_S3108_0011",
-            "value": "アオイさん……褒められて照れてる？"
+            "value": "Did my compliment embarrass you, Aoi?"
         },
         {
             "key": "EP07_S3108_0012",
-            "value": "そ、そう見えたかしら？"
+            "value": "Is that what you thought?"
         },
         {
             "key": "EP07_S3108_0013",
-            "value": "ごめんなさい、こんな時なのに\n褒められて嬉しいとか言っている場合じゃないわよね"
+            "value": "I’m sorry, but I don’t think this is the best\ntime to just be happy about a compliment."
         },
         {
             "key": "EP07_S3108_0014",
-            "value": "ええ？　別にいいのに\n成果をあげて凄いじゃないか"
+            "value": "Even so, your hard work is incredible."
         },
         {
             "key": "EP07_S3108_0015",
-            "value": "タクマくん、そういうの今はいいから！\nそうじゃなくて、ええと……"
+            "value": "Forget about that for now, Takuma!\nHang on. That’s not what I mean..."
         },
         {
             "key": "EP07_S3108_0016",
-            "value": "仕事ができて凄い"
+            "value": "You’re doing great."
         },
         {
             "key": "EP07_S3108_0017",
-            "value": "きちんと成果をあげて、アオイさんは偉いね\n仕事ができるってかっこいいと思うよ"
+            "value": "It’s amazing to see your results.\nYou’re doing a great job!"
         },
         {
             "key": "EP07_S3108_0018",
-            "value": "そんなんじゃない！！"
+            "value": "What are you talking about?"
         },
         {
             "key": "EP07_S3108_0019",
-            "value": "えっ？　アオイさん？"
+            "value": "Wait, Aoi?"
         },
         {
             "key": "EP07_S3108_0020",
-            "value": "私がもっとしっかりしてれば、こんな状況に\nそもそも陥らなかったかもしれないわ"
+            "value": "If I had done a great job, we wouldn’t be in\nthis situation to begin with."
         },
         {
             "key": "EP07_S3108_0021",
-            "value": "そんな風に思いつめなくても……"
+            "value": "It’s not your fault..."
         },
         {
             "key": "EP07_S3108_0022",
-            "value": "あ……ご、ごめんなさい\nそれこそ今言うことじゃないわよね……"
+            "value": "No... I’m sorry. Now’s not the time for this."
         },
         {
             "key": "EP07_S3108_0023",
-            "value": "この調子でお願い"
+            "value": "Keep it up!"
         },
         {
             "key": "EP07_S3108_0024",
-            "value": "ありがとう、アオイさん\nこの調子でお願いするよ"
+            "value": "Thanks, Aoi! Keep it up!"
         },
         {
             "key": "EP07_S3108_0025",
-            "value": "こうやって少しずつでも何か見つけられれば\nきっとミユキもピエモンも見つけられるよね"
+            "value": "Keep spotting these clues, and we’ll\ndefinitely find Miyuki and Piedmon."
         },
         {
             "key": "EP07_S3108_0026",
-            "value": "ええ、そうね！\n役に立てたならよかった……！"
+            "value": "You’re right! I’m glad I’m helping!"
         },
         {
             "key": "EP07_S3108_0027",
-            "value": "……あっ、ご、ごめんなさい\n喜んでる場合じゃないわよね"
+            "value": "But... I’m sorry.\nNow’s not the time to be happy."
         },
         {
             "key": "EP07_S3108_0028",
-            "value": "と、とにかく……この傷痕\n北に向かっているように見えない？"
+            "value": "Anyway...does this mark make it look like\nthey’re heading north?"
         },
         {
             "key": "EP07_S3108_0029",
-            "value": "北か……たしかに建物が見えるけど"
+            "value": "To the north? I can see a building there."
         },
         {
             "key": "EP07_S3108_0030",
-            "value": "でもあそこに繋がる道なんて\n今のところ見当たらないよね"
+            "value": "But we haven’t found a way to get there yet."
         },
         {
             "key": "EP07_S3108_0031",
-            "value": "今度はそれを探しましょう\n急ぐから、待ってて！"
+            "value": "Let’s look for one. I’ll be quick. Wait here!"
         },
         {
             "key": "EP07_S3108_0032",
-            "value": "あ、アオイさん……"
+            "value": "Aoi..."
         },
         {
             "key": "EP07_S3108_0033",
-            "value": "今は張り切ったままにさせてあげて\nきっと、怖くて立ち止まれないのよ"
+            "value": "Let her stay focused. I’m sure the fear is\nkeeping her moving like that."
         },
         {
             "key": "EP07_S3108_0034",
-            "value": "そっか、わかったよ"
+            "value": "All right, yeah. I see what you mean."
         },
         {
             "key": "EP07_S3108_0035",
-            "value": "（怖さが原動力になってる内はいいけど……\n　いつか爆発しないかな、心配だ）"
+            "value": "(It’s fine as long as the fear pushes her on.\nBut I’m worried she’ll explode.)"
         },
         {
             "key": "EP07_S3108_0036",
-            "value": "年上なのに引っ張ってもらってごめんね\n役に立てるよう、頑張るから"
+            "value": "I shouldn’t have rushed ahead like that.\nI want to be helpful."
         },
         {
             "key": "EP07_S3108_0037",
-            "value": "（そういえば、そろそろ教授の具合も\n　よくなったかな？）"
+            "value": "(Oh yeah, I wonder if the professor’s feeling\nany better?)"
         },
         {
             "key": "EP07_S3108_0038",
-            "value": "（<color=#B41919>様子</color>を見に行ってみよう）"
+            "value": "(I should go <color=#B41919>check on him</color>.)"
         }
     ]
 }

@@ -2,155 +2,155 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S7090_0001",
-			"value":"……ん？　あれは！！"
+			"value":"Hm? Is that..."
 		},
 		{
 			"key":"EP10_S7090_0002",
-			"value":"ミウ！\nこんなところにいたのか！"
+			"value":"Miu! What are you doing here?"
 		},
 		{
 			"key":"EP10_S7090_0003",
-			"value":"タクマさん……！　やっと来てくれたぁ！\nウチ、さっきから１人で怖くて……！"
+			"value":"Takuma! You finally came! I’ve been so scared\nby myself..."
 		},
 		{
 			"key":"EP10_S7090_0004",
-			"value":"ご、ごめん"
+			"value":"Sorry."
 		},
 		{
 			"key":"EP10_S7090_0005",
-			"value":"タクマさん……\nごめんなさい、ウチ、腰が抜けてて立てない……"
+			"value":"Takuma... I’m sorry, I can’t stand up..."
 		},
 		{
 			"key":"EP10_S7090_0006",
-			"value":"大丈夫かー？"
+			"value":"Are you okay?"
 		},
 		{
 			"key":"EP10_S7090_0007",
-			"value":"あまり無理しないで、少し休もう"
+			"value":"Don’t push yourself. We can rest if you need\n to."
 		},
 		{
 			"key":"EP10_S7090_0008",
-			"value":"ううん、こんなところで道草は食ってらんないの……\n早くアオイさんを捜さなきゃ……！"
+			"value":"No, we can’t afford to stop now. We have to\nfind Aoi right away!"
 		},
 		{
 			"key":"EP10_S7090_0009",
-			"value":"ウチ、もう誰にもひどい目にあってほしくない……！"
+			"value":"I don’t want anyone else to suffer!"
 		},
 		{
 			"key":"EP10_S7090_0010",
-			"value":"う……ん"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP10_S7090_0011",
-			"value":"タクマ……？"
+			"value":"Takuma?"
 		},
 		{
 			"key":"EP10_S7090_0012",
-			"value":"（何か、おかしいな……）"
+			"value":"(Something seems off about this.)"
 		},
 		{
 			"key":"EP10_S7090_0013",
-			"value":"（違和感がある\n　うまく言葉にできないけど、何か引っかかる……）"
+			"value":"(But something about this just doesn’t seem\n right. Why can’t I put my finger on it?)"
 		},
 		{
 			"key":"EP10_S7090_0014",
-			"value":"（違和感は、ミウに話しかけた時から……？\n　いや、ミウを見かけた時から……）"
+			"value":"(Was it when I started talking to her...? No,\nthe moment I saw her?)"
 		},
 		{
 			"key":"EP10_S7090_0015",
-			"value":"（そもそも、ミウはいつからここにいたんだ？）"
+			"value":"(When did she get here in the first place?)"
 		},
 		{
 			"key":"EP10_S7090_0016",
-			"value":"（それに、シャコモンはどこに……？）"
+			"value":"(And where’s Syakomon, anyway?!)"
 		},
 		{
 			"key":"EP10_S7090_Q1",
-			"value":"（僕が感じる違和感は……）"
+			"value":"(What I want to know is...)"
 		},
 		{
 			"key":"EP10_S7090_Q1_A1",
-			"value":"ミウはいつからいたんだ？"
+			"value":"When did she get here?"
 		},
 		{
 			"key":"EP10_S7090_Q1_A2",
-			"value":"シャコモンはどこにいったんだ？"
+			"value":"Where did Syakomon go?"
 		},
 		{
 			"key":"EP10_S7090_0017",
-			"value":"なあ……ミウはいつからそこにいたんだ？"
+			"value":"So, how long have you been here, exactly?"
 		},
 		{
 			"key":"EP10_S7090_0018",
-			"value":"シュウジさんとリョウに出くわした直後には\nここにミウはいなかった"
+			"value":"Because nobody was here after that weird\nstuff that happened with Shuuji and Ryo."
 		},
 		{
 			"key":"EP10_S7090_0019",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S7090_0020",
-			"value":"ミウは最初からここにいたのか？"
+			"value":"Have you been here the whole time?"
 		},
 		{
 			"key":"EP10_S7090_0021",
-			"value":"………………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S7090_0022",
-			"value":"ミウ？"
+			"value":"Miu?"
 		},
 		{
 			"key":"EP10_S7090_0023",
-			"value":"シャコモンは、どこにいったんだ？"
+			"value":"Where did Syakomon go?"
 		},
 		{
 			"key":"EP10_S7090_0024",
-			"value":"シャコモン……？\nさあ……ウチ、わかんないよ"
+			"value":"Syakomon...? Search me... How’m I supposed to\nknow?"
 		},
 		{
 			"key":"EP10_S7090_0025",
-			"value":"わかんないって……\nずっと一緒にいたはずだろ？"
+			"value":"How are you... You two are always together,\naren’t you?"
 		},
 		{
 			"key":"EP10_S7090_0026",
-			"value":"タクマさんは、ウチよりも\nシャコモンが心配なの！？"
+			"value":"Are you more worried about Syakomon than me?!"
 		},
 		{
 			"key":"EP10_S7090_0027",
-			"value":"そ、そうじゃないけど……"
+			"value":"No, that’s not it..."
 		},
 		{
 			"key":"EP10_S7090_0028",
-			"value":"ねえ……いいから早くおんぶしてよ\nウチ、立ち上がれないよ"
+			"value":"Hey, hurry and gimme a piggyback, will you?\nI can hardly stand up here."
 		},
 		{
 			"key":"EP10_S7090_0029",
-			"value":"あ、ああ……わかったよ\nほら、僕の背中に……"
+			"value":"Uh, sure... Here, climb on."
 		},
 		{
 			"key":"EP10_S7090_0030",
-			"value":"（何だ……背筋がぞくぞくする……\n　おかしい……！）"
+			"value":"(That’s weird... I can feel the hairs on the\nback of my neck stand up. This isn’t right!)"
 		},
 		{
 			"key":"EP10_S7090_0031",
-			"value":"タクマ……ミウ、なんか変だよ！"
+			"value":"Takuma... Miu’s acting weird!"
 		},
 		{
 			"key":"EP10_S7090_0032",
-			"value":"なんで……なんでででででで\nそんなこと、言うのおおおおお！？"
+			"value":"Wha... Whyyyy would youuu sayyy thaaat?!"
 		},
 		{
 			"key":"EP10_S7090_0033",
-			"value":"お前……ミウじゃないな！？\n正体を現せ！！"
+			"value":"You... You’re not Miu! Show yourself!"
 		},
 		{
 			"key":"EP10_S7090_0034",
-			"value":"ウ、ウウ……オオオオオオオオ！！"
+			"value":"Graaaaaaaaawr!"
 		},
 		{
 			"key":"EP10_S7090_0035",
-			"value":"タクマ！　敵だよ！！"
+			"value":"Takuma, it’s the enemy!"
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S0170_0001",
-			"value":"タクマ！　あそこになにかある！"
+			"value":"Hey, Takuma! I see something over there!"
 		},
 		{
 			"key":"EP11_S0170_0002",
-			"value":"（アグモンの指差した方に\n何かユラユラとしたものが見えるな）"
+			"value":"(Something’s swaying over in the direction\nAgumon’s pointing.)"
 		},
 		{
 			"key":"EP11_S0170_0003",
-			"value":"タクマ、あれ……カシャってするやつ！\nそれで何かわかるんじゃない？"
+			"value":"Takuma, use that...clicky-shooty thingy!\nMaybe we’ll be able to learn something?"
 		},
 		{
 			"key":"EP11_S0170_0004",
-			"value":"ん、カメラのこと？\nよし、カメラを使ってみよう！"
+			"value":"Uh, you mean that camera I’m guessing.\nSure, let’s give it a shot!"
 		}
 	]
 }

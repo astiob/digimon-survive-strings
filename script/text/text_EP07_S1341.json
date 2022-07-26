@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1341_0001",
-			"value":"あれ？\n教授、何か見つけたのかな？"
+			"value":"Oh, did you find something, Professor?"
 		},
 		{
 			"key":"EP07_S1341_0002",
-			"value":"壁の方をちらちら見てるね"
+			"value":"He’s looking at the wall."
 		},
 		{
 			"key":"EP07_S1341_0003",
-			"value":"（壁の向こう……北の方角には\n　建物の屋根が見える）"
+			"value":"(I can see the roof of a building to the\nnorth, past the wall.)"
 		},
 		{
 			"key":"EP07_S1341_0004",
-			"value":"（あそこに行く道は、今のところ\n　見つかっていないな）"
+			"value":"(We haven’t yet found a way there yet,\nthough.)"
 		},
 		{
 			"key":"EP07_S1341_0005",
-			"value":"教授、何か見つけたのかも\n話を聞いてみようよ！"
+			"value":"Maybe the professor found something. Let’s\ntalk to him and find out!"
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0403_0001",
-			"value":"ラブラモンは大丈夫と言うが\nあの怪我で平気なはずはない"
+			"value":"Labramon says she is fine, but her injury\nindicates otherwise."
 		},
 		{
 			"key":"EP01_S0403_0002",
-			"value":"いつまでも耐えられるものではない\n早く手当てしてやってくれ！"
+			"value":"She cannot hold out forever. We must give her\ntreatment at once!"
 		},
 		{
 			"key":"EP01_S0403_0003",
-			"value":"ああ、わかってる"
+			"value":"Yeah, I know."
 		},
 		{
 			"key":"EP01_S0403_0004",
-			"value":"早く手当てしてやってくれ"
+			"value":"We must give her treatment at once!"
 		}
 	]
 }

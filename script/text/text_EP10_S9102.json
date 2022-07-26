@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S9102_0001",
-			"value":"ちっ、やっぱり出やがったか"
+			"value":"Shit, they showed up after all..."
 		},
 		{
 			"key":"EP10_S9102_0002",
-			"value":"ふぅ、なんとか倒せた……"
+			"value":"Whew, we beat them somehow!"
 		},
 		{
 			"key":"EP10_S9102_0003",
-			"value":"おい、大丈夫かタクマ！？"
+			"value":"So, you all right, Takuma?!"
 		},
 		{
 			"key":"EP10_S9102_0004",
-			"value":"あ、ああ、ありがとうみんな"
+			"value":"Yeah. Thanks, guys."
 		},
 		{
 			"key":"EP10_S9102_0005",
-			"value":"シュウジさん、今のはいったい……"
+			"value":"What was that, Shuuji?"
 		},
 		{
 			"key":"EP10_S9102_0006",
-			"value":"いや、わからない……\n僕も正直、驚いている"
+			"value":"  I couldn’t say... I was shocked myself."
 		},
 		{
 			"key":"EP10_S9102_0007",
-			"value":"最初校舎に現れた時は単純に攻めてばかりだったけど\nこんな手まで使えたのね……"
+			"value":"She just attacked us when she first appeared\nat the school. Didn’t use tactics like that."
 		},
 		{
 			"key":"EP10_S9102_0008",
-			"value":"ふん、大方こっちの結束が強いと見て\n搦め手に頼りだしたんだろ"
+			"value":"Hmph, it’s like they saw how well we banded\ntogether, and aimed for a chink in our armor."
 		},
 		{
 			"key":"EP10_S9102_0009",
-			"value":"おい、馬鹿にはできねえぞ\nもっと見分けのつかねえ偽物が出てきたら……"
+			"value":"Yo, we can’t make light of this! If a better\nfake shows up next time, we’re in trouble..."
 		},
 		{
 			"key":"EP10_S9102_0010",
-			"value":"ま、マズいな……"
+			"value":"Yeah, that’d be bad..."
 		},
 		{
 			"key":"EP10_S9102_0011",
-			"value":"これはより気を引き締めて探索した方がいいね\nみんな、一層注意して――"
+			"value":"More importantly, we’d better regroup and\nresume the search. Stay on guard, everyone."
 		},
 		{
 			"key":"EP10_S9102_0012",
-			"value":"待って、シュウジさん。霧も濃くなってきてるし\nみんな一緒の方がいいんじゃないかしら"
+			"value":"Hold on, Shuuji. The fog is thickening. We\nbetter stick together."
 		},
 		{
 			"key":"EP10_S9102_0013",
-			"value":"それは、その通りだが……"
+			"value":"Yes, I guess you’re right, it’s just..."
 		},
 		{
 			"key":"EP10_S9102_0014",
-			"value":"固まってたら、祠を見つける前に\nこの一帯が霧に覆われちゃわね？"
+			"value":"If we stick together, the fog’ll grab us all\nbefore we even find the shrine."
 		},
 		{
 			"key":"EP10_S9102_0015",
-			"value":"でも、バラバラのところを襲われたら\n探索どころじゃないわ"
+			"value":"But if they attack us while we’re separated,\nsearching will be the least of our problems."
 		},
 		{
 			"key":"EP10_S9102_0016",
-			"value":"（祠の探索を優先するか、安全を優先するか\n　どうすればいいんだ……？）"
+			"value":"(Should we prioritize our safety? Or the\nsearch for the shrine?)"
 		},
 		{
 			"key":"EP10_S9102_Q1",
-			"value":"（僕はどう判断すればいい？）"
+			"value":"(What makes more sense?)"
 		},
 		{
 			"key":"EP10_S9102_Q1_A1",
-			"value":"みんな一緒にいよう"
+			"value":"Let’s stick together."
 		},
 		{
 			"key":"EP10_S9102_Q1_A2",
-			"value":"探索を優先しよう"
+			"value":"Searching comes first."
 		},
 		{
 			"key":"EP10_S9102_Q1_A3",
-			"value":"二人一組ならどうかな？"
+			"value":"Try the buddy system?"
 		},
 		{
 			"key":"EP10_S9102_0017",
-			"value":"みんな一緒にいよう\n身の安全には代えられないよ"
+			"value":"Let’s stick together. Nothing comes before\nour safety."
 		},
 		{
 			"key":"EP10_S9102_0018",
-			"value":"いや……しかし、眷属がいるということは\n敵に先を越されるということもあるぞ？"
+			"value":"But... If the Kenzoku are here, doesn’t that\nmean the enemy’s beat us to the punch?"
 		},
 		{
 			"key":"EP10_S9102_0019",
-			"value":"そうだよ！　ちょっとくらい危なくたって\n急いで見つけりゃいいじゃん！"
+			"value":"Yeah! We gotta hurry up, even if that means\ntaking a few risks!"
 		},
 		{
 			"key":"EP10_S9102_0020",
-			"value":"駄目よ！\n無理をして誰かがいなくなったらどうするの！？"
+			"value":"No way! What’s the point in forcing things if\nit ends with all of us vanishing?!"
 		},
 		{
 			"key":"EP10_S9102_0021",
-			"value":"ねぇ、二人一組なら大丈夫じゃない？"
+			"value":"Hey, won’t we be safe if we pair up?"
 		},
 		{
 			"key":"EP10_S9102_0022",
-			"value":"あ、それだよ！"
+			"value":"Oh, that’s a good idea!"
 		},
 		{
 			"key":"EP10_S9102_0023",
-			"value":"探索を優先しよう\n今は多少の危険より祠の発見が先だ"
+			"value":"The search comes first. A little danger isn’t\nas important as finding the shrine."
 		},
 		{
 			"key":"EP10_S9102_0024",
-			"value":"そうだね。無理に戦闘はせず\nできるだけ逃げるようにすれば、なんとか……"
+			"value":"He’s right. If we avoid pointless fights and\nrun when we can, it should work out..."
 		},
 		{
 			"key":"EP10_S9102_0025",
-			"value":"で、でもっ！"
+			"value":"B-but still..."
 		},
 		{
 			"key":"EP10_S9102_0026",
-			"value":"オレは反対だ\nミウを危険にさらすようなマネはできねえ"
+			"value":"I’m against it. I ain’t putting Miu in any\nmore danger than I gotta."
 		},
 		{
 			"key":"EP10_S9102_0027",
-			"value":"オレも誰かといた方がいいと思うぜ\n一人の時に襲われたら、ヤバいだろ……"
+			"value":"It’s better to stick with someone else.\nImagine if someone gets attacked flying solo."
 		},
 		{
 			"key":"EP10_S9102_0028",
-			"value":"けどよー、モタモタしてたら\n相手に先越されちまうぜ？"
+			"value":"But if we waste time here, the enemy’s gonna\nbeat us to the punch, right?"
 		},
 		{
 			"key":"EP10_S9102_0029",
-			"value":"ねぇ、二人一組なら大丈夫じゃない？"
+			"value":"Hey, won’t we be safe if we pair up?"
 		},
 		{
 			"key":"EP10_S9102_0030",
-			"value":"あ、それだよ！"
+			"value":"Oh, that’s a good idea!"
 		},
 		{
 			"key":"EP10_S9102_0031",
-			"value":"二人一組なら、どうかな？"
+			"value":"Why don’t we try the buddy system?"
 		},
 		{
 			"key":"EP10_S9102_0032",
-			"value":"あ～確かに！　誰か一緒なら\n協力できるもんね！"
+			"value":"Ohh that’s a good idea! We can work together\nif we stick with someone else!"
 		},
 		{
 			"key":"EP10_S9102_0033",
-			"value":"うんうん、いいじゃんそれ！"
+			"value":"Yeah, that’ll work!"
 		},
 		{
 			"key":"EP10_S9102_0034",
-			"value":"ふむ……それなら、大丈夫かな"
+			"value":"Hmm... Yeah, that should be fine."
 		},
 		{
 			"key":"EP10_S9102_0035",
-			"value":"そうね、私も異論はないわ"
+			"value":"Right, no objections here."
 		},
 		{
 			"key":"EP10_S9102_0036",
-			"value":"それじゃあ分け方は……"
+			"value":"In that case, how do we split up?"
 		},
 		{
 			"key":"EP10_S9102_0037",
-			"value":"そんなもん適当でいいだろ\nオレはミウと行くぜ"
+			"value":"Whatever works, right? I’ll go with Miu."
 		},
 		{
 			"key":"EP10_S9102_0038",
-			"value":"ちょっと！　勝手に決めないでよ、も～"
+			"value":"Hold up! Don’t decide on your own!"
 		},
 		{
 			"key":"EP10_S9102_0039",
-			"value":"じゃあ私はアオイちゃんとね！"
+			"value":"Then I’ll go with Aoi!"
 		},
 		{
 			"key":"EP10_S9102_0040",
-			"value":"ええ、よろしくね、サキさん"
+			"value":"Okay, let’s do this, Saki."
 		},
 		{
 			"key":"EP10_S9102_0041",
-			"value":"ふむ……では、僕はリョウとかな"
+			"value":"Hmm... Then Ryo and I will pair up."
 		},
 		{
 			"key":"EP10_S9102_0042",
-			"value":"なんだっていいよ"
+			"value":"Works for me."
 		},
 		{
 			"key":"EP10_S9102_0043",
-			"value":"んじゃ、タクマはオレとだな！\n余りモン同士、仲良くいこーぜ！"
+			"value":"That means it’s you and me in the picked last\npair, Takuma! What a dream team!"
 		},
 		{
 			"key":"EP10_S9102_0044",
-			"value":"余りモンって言うなよ……"
+			"value":"You dream about getting picked last?"
 		}
 	]
 }

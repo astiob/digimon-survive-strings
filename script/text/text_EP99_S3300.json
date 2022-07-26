@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S3300_0001",
-			"value":"またココに来てしまった……"
+			"value":"Here I am again."
 		},
 		{
 			"key":"EP99_S3300_0002",
-			"value":"期待だけが膨らんじゃうな……\n……アオイに会えるんじゃないかって"
+			"value":"I just can’t help but get my hopes up,\nimagining that maybe I’ll run into Aoi."
 		},
 		{
 			"key":"EP99_S3300_0003",
-			"value":"タクマくん……\nやっぱりここにいたんだ"
+			"value":"I thought I’d find you here, Takuma."
 		},
 		{
 			"key":"EP99_S3300_0004",
-			"value":"アオイ……！"
+			"value":"Aoi!"
 		},
 		{
 			"key":"EP99_S3300_0005",
-			"value":"（またここで二人きりに……！\nでも、彼女はなんだか……）"
+			"value":"(We’re alone here again! Only, something\nseems off...)"
 		},
 		{
 			"key":"EP99_S3300_0006",
-			"value":"あれ？　どうしたの？"
+			"value":"What is it? What’s wrong?"
 		},
 		{
 			"key":"EP99_S3300_0007",
-			"value":"いつもと様子が変だよ\n落ち込んでいるみたいだけど……"
+			"value":"You look like something’s bothering you."
 		},
 		{
 			"key":"EP99_S3300_0008",
-			"value":"あのね……私ってやっぱり\n皆のお荷物なのかな……"
+			"value":"Takuma...do you think I’m a burden on the\nothers?"
 		},
 		{
 			"key":"EP99_S3300_0009",
-			"value":"い、いきなりどうしたの？"
+			"value":"What? Why would you think that?"
 		},
 		{
 			"key":"EP99_S3300_0010",
-			"value":"なんだか変だよ、アオイ\nどうしてそんな事を思っちゃうの？"
+			"value":"This isn’t like you, Aoi. What’s gotten into\nyou?"
 		},
 		{
 			"key":"EP99_S3300_0011",
-			"value":"お願い、タクマくんの\n正直なところを私に教えて"
+			"value":"Please, Takuma, be honest with me."
 		},
 		{
 			"key":"EP99_S3300_0012",
-			"value":"私ってお荷物なのかな"
+			"value":"Am I a burden on the others?"
 		},
 		{
 			"key":"EP99_S3300_0013",
-			"value":"（これは責任重大だぞ……！\nどう返事をすればいいんだろうか……）"
+			"value":"(This sounds really important! What should\nI say to Aoi?)"
 		},
 		{
 			"key":"EP99_S3300_Q1",
-			"value":"彼女になんて返事すればいいか……"
+			"value":"How should I answer?"
 		},
 		{
 			"key":"EP99_S3300_Q1_A1",
-			"value":"いったい何があったの？"
+			"value":"What happened?"
 		},
 		{
 			"key":"EP99_S3300_Q1_A2",
-			"value":"悪口を誰に言われた？"
+			"value":"Were you insulted?"
 		},
 		{
 			"key":"EP99_S3300_Q1_A3",
-			"value":"……ダイエットしてみる？"
+			"value":"Try a diet!"
 		},
 		{
 			"key":"EP99_S3300_0014",
-			"value":"あのさ……\nいったい何があったの？"
+			"value":"Look, why don’t you tell me what happened?"
 		},
 		{
 			"key":"EP99_S3300_0015",
-			"value":"別に何も……\nねえ、さっきの質問に――"
+			"value":"Nothing happened. Could you please just\nanswer my question?"
 		},
 		{
 			"key":"EP99_S3300_0016",
-			"value":"そんなはずはないよ\n何かなければそんな事聞かないはずだろ？"
+			"value":"I don’t believe it. If nothing happened, why\nwould you ask about this?"
 		},
 		{
 			"key":"EP99_S3300_0017",
-			"value":"僕でよければ相談に乗るよ\nだから何でも打ち明けて欲しいんだ"
+			"value":"I mean, I’d be happy to give you my advice.\nSeriously, you can tell me anything."
 		},
 		{
 			"key":"EP99_S3300_0018",
-			"value":"タクマくん……！"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP99_S3300_0019",
-			"value":"悪口でも誰かに\n言われたの？"
+			"value":"Did someone insult you or something?"
 		},
 		{
 			"key":"EP99_S3300_0020",
-			"value":"え？　ど、どうして……！？"
+			"value":"What? Wh-why would you think that?!"
 		},
 		{
 			"key":"EP99_S3300_0021",
-			"value":"だって、こんな質問は\n誰かに意地悪でもされなきゃ聞かないだろ？"
+			"value":"Well, why else would you be asking me\nsomething like this?"
 		},
 		{
 			"key":"EP99_S3300_0022",
-			"value":"ううん、そういうんじゃないの！\nただね……えっと……"
+			"value":"Oh no, it wasn’t like that! It was just...\nUh..."
 		},
 		{
 			"key":"EP99_S3300_0023",
-			"value":"ううう～……！"
+			"value":"*sob*!"
 		},
 		{
 			"key":"EP99_S3300_0024",
-			"value":"アオイ……よしよし\nもう泣かなくても大丈夫だから"
+			"value":"Aoi... Hey, it’s okay. No need to cry."
 		},
 		{
 			"key":"EP99_S3300_0025",
-			"value":"僕はアオイの味方だよ\n必ず力になってあげる"
+			"value":"I’m on your side, all right? I’m here to\nhelp."
 		},
 		{
 			"key":"EP99_S3300_0026",
-			"value":"あ、や……ごめんなさい\n……違うの"
+			"value":"No, it’s not that, I just... I’m sorry..."
 		},
 		{
 			"key":"EP99_S3300_0027",
-			"value":"嬉しくって……つい涙が……"
+			"value":"I felt so happy, I couldn’t help it."
 		},
 		{
 			"key":"EP99_S3300_0028",
-			"value":"……ダイエットをしてみる？"
+			"value":"You should try a diet!"
 		},
 		{
 			"key":"EP99_S3300_0029",
-			"value":"……え？　ダイエット？\nそれってどういう事……？"
+			"value":"What? A diet? What are you talking about?"
 		},
 		{
 			"key":"EP99_S3300_0030",
-			"value":"（しまった……！　アオイを和ませるための\n渾身のネタが滑ってる……！）"
+			"value":"(Oh no! I was so sure that joke would make\nher feel better, but she doesn’t get it...)"
 		},
 		{
 			"key":"EP99_S3300_0031",
-			"value":"あ、いや……ほら、さ\nアオイが荷物って言ったからさ"
+			"value":"Oh, you know, because you were asking about\nbeing a burden?"
 		},
 		{
 			"key":"EP99_S3300_0032",
-			"value":"……？？"
+			"value":"What?!"
 		},
 		{
 			"key":"EP99_S3300_0033",
-			"value":"荷物って重いだろ？\nだから荷物と体重をかけてダイエットかなって……"
+			"value":"A burden is heavy, right? So I was saying you\nshould go on a diet..."
 		},
 		{
 			"key":"EP99_S3300_0034",
-			"value":"（……は！　しまった……！！\n滑ったギャグの解説なんて最悪な手を……！）"
+			"value":"(Ugh, this is awful! It’s never funny when\nyou have to explain a joke...)"
 		},
 		{
 			"key":"EP99_S3300_0035",
-			"value":"ぷっ！　うふふふふ……！"
+			"value":"Hah! Hahahaha!"
 		},
 		{
 			"key":"EP99_S3300_0036",
-			"value":"あ、アオイ……！？"
+			"value":"Um, Aoi?"
 		},
 		{
 			"key":"EP99_S3300_0037",
-			"value":"ごめんなさい\nついおかしくなって……"
+			"value":"I’m sorry, it’s just so funny..."
 		},
 		{
 			"key":"EP99_S3300_0038",
-			"value":"タクマくんって意外にこういう\n冗談を言うんだね……ふふふふふ"
+			"value":"I never took you as the type to joke around\nlike that, Takuma. Hee hee!"
 		},
 		{
 			"key":"EP99_S3300_0039",
-			"value":"あーおかしかった……！"
+			"value":"You...thought that was funny?"
 		},
 		{
 			"key":"EP99_S3300_0040",
-			"value":"実はね……\nちょっと悩んでいたの"
+			"value":"To tell you the truth, lately I’ve been\nstarting to worry."
 		},
 		{
 			"key":"EP99_S3300_0041",
-			"value":"私は皆の足手まといじゃ\nないかなって……"
+			"value":"I’ve been wondering if maybe I’ve been\nholding everyone else back."
 		},
 		{
 			"key":"EP99_S3300_0042",
-			"value":"そうやって、時々心が重くなると\nひとりになるために、よくここに来るの"
+			"value":"And when I start to feel down about that sort\nof thing, I like to come here to be alone."
 		},
 		{
 			"key":"EP99_S3300_0043",
-			"value":"でも最近は違う……かな"
+			"value":"But I guess recently that’s changed."
 		},
 		{
 			"key":"EP99_S3300_0044",
-			"value":"なんだかここはタクマくんと\nお話するための場所になったみたい……"
+			"value":"Now it’s more like this is where I come when\nI want to talk with you."
 		}
 	]
 }

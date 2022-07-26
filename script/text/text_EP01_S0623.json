@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0623_0002",
-			"value":"君たちもリョウ君たちを見ていたのなら\n止めてくれればよかったのに"
+			"value":"You know, you could have stopped them from\ngoing in the first place."
 		},
 		{
 			"key":"EP01_S0623_0003",
-			"value":"あ、いやぁ、止めようとはしたんですけど\n聞く耳持たない感じだったから……"
+			"value":"Uh, well we kind of tried. They weren’t in\nany mood to listen, so..."
 		},
 		{
 			"key":"EP01_S0623_0004",
-			"value":"うっ。そ、そうか"
+			"value":"Ah, I see."
 		},
 		{
 			"key":"EP01_S0623_0005",
-			"value":"ま、まぁ、過ぎたことは仕方ない\n今度は僕も一緒に説得するから、安心したまえ！"
+			"value":"Um, well, nothing to be done about it. I’ll\nhelp persuade them next time, no worries!"
 		},
 		{
 			"key":"EP01_S0623_0006",
-			"value":"（安心、できるかなぁ？）"
+			"value":"(Are some worries okay?)"
 		},
 		{
 			"key":"EP01_S0623_0007",
-			"value":"まったく、どうしてみんな勝手なことばかり……"
+			"value":"Sheesh, why is everyone just doing whatever\nthey want to?"
 		}
 	]
 }

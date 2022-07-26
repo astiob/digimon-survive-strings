@@ -2,219 +2,219 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0170_0025",
-			"value":"（これが……）"
+			"value":"(This is...)"
 		},
 		{
 			"key":"EP01_S0170_0200",
-			"value":"（カイトがほとんど足を踏み入れない場所だって……\n　凄く立派だけど、何か不気味な雰囲気がする）"
+			"value":"(Kaito said people never come here, but it’s\nbreathtaking. It’s also kinda eerie...)"
 		},
 		{
 			"key":"EP01_S0170_0027",
-			"value":"こんな森の中に神社なんてさ\n参拝客とかって来るのかなあ……？"
+			"value":"How could anyone expect visitors to come to\na shrine all the way out here?"
 		},
 		{
 			"key":"EP01_S0170_0100",
-			"value":"まさか\nむしろ、絶対に近づくなって強く言われてるぜ"
+			"value":"They didn’t. In fact, they made sure to warn\nanyone about getting too close."
 		},
 		{
 			"key":"EP01_S0170_0019",
-			"value":"おかしいわね……サキさんたちの姿\nどこにもないわ……？"
+			"value":"That’s strange...\nI don’t see the others anywhere."
 		},
 		{
 			"key":"EP01_S0170_0021",
-			"value":"さっき、人影は見えたんだけどなあ\nどーこ行ったんだろ"
+			"value":"I could’ve sworn I saw someone just now.\nNow where could they be?"
 		},
 		{
 			"key":"EP01_S0170_0022",
-			"value":"ちょっとこの辺り、\nみんなで捜してみようか"
+			"value":"We should all look around and see what we can\nfind."
 		},
 		{
 			"key":"EP01_S0170_0010",
-			"value":"見た目は……普通の神社っぽいけど"
+			"value":"This shrine... Nothing looks out of place\nhere."
 		},
 		{
 			"key":"EP01_S0170_0028",
-			"value":"なんか、すごい雰囲気のある神社だな……\n変な模様があちこちにあるぜ"
+			"value":"Check out this place... There are crazy\npatterns all over."
 		},
 		{
 			"key":"EP01_S0170_0029",
-			"value":"（ミノルのやつ、熱心にスマホで神社を撮っている……\n　興味があるのかな？）"
+			"value":"(Minoru’s snapping tons of photos on his\nphone. Huh, didn’t know he was into that.)"
 		},
 		{
 			"key":"EP01_S0170_0011",
-			"value":"やっぱアレだぜ、きっとおっかねえ邪神像でも\n中に祀ってあるんだぜ……！？"
+			"value":"I bet they’ve got some freaky demon statue\nstowed away in there or something!"
 		},
 		{
 			"key":"EP01_S0170_0012",
-			"value":"邪神かどうかはわからないけど……\n何か祀ってあるのは普通じゃないわね"
+			"value":"I don’t know about that... But whatever they\nworship here isn’t normal, that’s for sure."
 		},
 		{
 			"key":"EP01_S0170_0013",
-			"value":"何だろう……動物？　鳥？\nそれか……爬虫類……？"
+			"value":"What’s this, some sort of animal? A bird?\nWait...a reptile?"
 		},
 		{
 			"key":"EP01_S0170_0014",
-			"value":"ちょっと判別がつかないけど\n色んな動物の模様が、あちこちに見えるわ"
+			"value":"There are patterns of various animals all\nover...but I don’t recognize any of them."
 		},
 		{
 			"key":"EP01_S0170_0101",
-			"value":"おぉ、なんだこれ？　狛犬？　いや犬か？\n確かに見たことねーもんばっかだ！　すげー！"
+			"value":"Ooo, what’s this! A lion? A dog? Wait, a\nlion-dog?! Man, I just eat this stuff UP!"
 		},
 		{
 			"key":"EP01_S0170_0102",
-			"value":"こら、ミノル君！\n今は写真なんか撮っている場合じゃないだろう！"
+			"value":"Dammit, Minoru! Now’s not the time to be\ntaking pictures!"
 		},
 		{
 			"key":"EP01_S0170_0103",
-			"value":"えー？　でもさー"
+			"value":"What? Maaan..."
 		},
 		{
 			"key":"EP01_S0170_0104",
-			"value":"（シュウジさんの言う通り、今はサキたちを捜さないと）"
+			"value":"(Shuuji’s right, we have to look for Saki and\nthe others.)"
 		},
 		{
 			"key":"EP01_S0170_0105",
-			"value":"（でもこんな奇妙な場所だし、ミノルが写真を撮りたく\n　なるのもわかる……）"
+			"value":"(Still, this place is so weird, I’m not\nsurprised Minoru wanted a few mementos...)"
 		},
 		{
 			"key":"EP01_S0170_Q1",
-			"value":"（ミノルがはしゃいでいる……）"
+			"value":"(Minoru sure is enjoying himself...)"
 		},
 		{
 			"key":"EP01_S0170_Q1_A1",
-			"value":"やめておこうと注意する"
+			"value":"Enough photos."
 		},
 		{
 			"key":"EP01_S0170_Q1_A2",
-			"value":"もっと撮るように勧める"
+			"value":"Take more over here!"
 		},
 		{
 			"key":"EP01_S0170_Q1_A3",
-			"value":"好きにさせる"
+			"value":"Let him have his fun."
 		},
 		{
 			"key":"EP01_S0170_0106",
-			"value":"やめておこう"
+			"value":"Enough photos."
 		},
 		{
 			"key":"EP01_S0170_0107",
-			"value":"ミノル、撮影はやめておこうよ\nみんな真剣にサキたちを捜してるんだ"
+			"value":"Enough with the photos, Minoru. All of us\nneed to focus on the search."
 		},
 		{
 			"key":"EP01_S0170_0108",
-			"value":"そうよ。早くサキさんたちを見つけてあげなきゃ"
+			"value":"Right. Let’s find them as fast as we can."
 		},
 		{
 			"key":"EP01_S0170_0109",
-			"value":"こんな場所で……きっと不安だろうし"
+			"value":"I’m sure this place is making them uneasy."
 		},
 		{
 			"key":"EP01_S0170_0110",
-			"value":"わ、わかったよ……"
+			"value":"All right, already..."
 		},
 		{
 			"key":"EP01_S0170_0111",
-			"value":"こっちにもあるぞ"
+			"value":"Take more over here!"
 		},
 		{
 			"key":"EP01_S0170_0112",
-			"value":"あ、なぁミノル！　こっちにも変なのがあるぞ！"
+			"value":"Hey, Minoru! Take more pics over here!"
 		},
 		{
 			"key":"EP01_S0170_0113",
-			"value":"え、どれどれ！？"
+			"value":"Oh! You gonna model for me, buddy?"
 		},
 		{
 			"key":"EP01_S0170_0114",
-			"value":"あ、タクマくんまで！\nもうっ！"
+			"value":"Not you too, Takuma!"
 		},
 		{
 			"key":"EP01_S0170_0115",
-			"value":"放っとけ\nオレたちだけでも捜そう"
+			"value":"Leave them. We’ll look on our own if we have\nto."
 		},
 		{
 			"key":"EP01_S0170_0116",
-			"value":"必要かもしれない"
+			"value":"We may need them."
 		},
 		{
 			"key":"EP01_S0170_0117",
-			"value":"いや、写真を撮ることも必要かもしれない"
+			"value":"Actually, we may need the pictures later."
 		},
 		{
 			"key":"EP01_S0170_0118",
-			"value":"どういうこと？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP01_S0170_0119",
-			"value":"撮影しながら周りを見ていれば何かに気づくかもだし、\n見落としたものがあったら見返すことができるだろ？"
+			"value":"If we take pics of the area we might notice\nsomething we would’ve overlooked otherwise."
 		},
 		{
 			"key":"EP01_S0170_0120",
-			"value":"な、なるほど。そういうことなら、まぁ……"
+			"value":"Oh, I see. We, well if that’s the reason,\nI guess it’s okay..."
 		},
 		{
 			"key":"EP01_S0170_0121",
-			"value":"ほら、さっさと行くぞ\n早く見つけてやんねえと"
+			"value":"Come on, already. We have to find them, and\nfast."
 		},
 		{
 			"key":"EP01_S0170_0122",
-			"value":"ああ、ごめん\nそれじゃ行こう"
+			"value":"Right, sorry. Okay, let’s go."
 		},
 		{
 			"key":"EP01_S0170_0015",
-			"value":"凄いな……\n本当に獣を祀った神社なんてあるんだ……"
+			"value":"Wow... This shrine really does worship\nbeasts..."
 		},
 		{
 			"key":"EP01_S0170_0016",
-			"value":"変わった御神体なんてそりゃあ日本中にあるけどさ\nタコを祀ったのとか、曲がった巨木とか……"
+			"value":"There are places like this all over Japan.\nSome worship octopuses, or weird-ass trees..."
 		},
 		{
 			"key":"EP01_S0170_0017",
-			"value":"あと、わりとポピュラーなので\nエッチな形のを祀ったヤツとかさ！"
+			"value":"The ones that worship the lewd stuff are the\nbest!"
 		},
 		{
 			"key":"EP01_S0170_0018",
-			"value":"そういう話はヤメないか！\n女の子もいるんだぞ！"
+			"value":"Hey, watch that talk! There’s a lady present!"
 		},
 		{
 			"key":"EP01_S0170_0030",
-			"value":"もう、ミノルくんってば……"
+			"value":"Minoru..."
 		},
 		{
 			"key":"EP01_S0170_0031",
-			"value":"それにしても、ここって……\n今回の課外学習の伝承にまつわる場所なのかしら？"
+			"value":"I wonder... Is this the place passed down in\nthe legends we were supposed to visit today?"
 		},
 		{
 			"key":"EP01_S0170_0032",
-			"value":"伝承？　さあどうだろうな……"
+			"value":"Legends? Who knows..."
 		},
 		{
 			"key":"EP01_S0170_0033",
-			"value":"さっき話した通り、ここには足を踏み入れるなって\n言われてるし、あまり詳しいことは知らない"
+			"value":"As I said, I was told not to set foot in\nhere. I don’t know much about it."
 		},
 		{
 			"key":"EP01_S0170_0034",
-			"value":"ただ、地元では\nここじゃ神隠しが起きるなんて話もあるぜ"
+			"value":"But the locals say people get spirited away\nup in here."
 		},
 		{
 			"key":"EP01_S0170_0035",
-			"value":"そうなの……\n怖い話ね……"
+			"value":"I see. That’s...certainly frightening..."
 		},
 		{
 			"key":"EP01_S0170_0036",
-			"value":"なんだ今の音！？\n聞いたことの無い音だったぞ！"
+			"value":"What was that sound? I’ve never heard\nanything like it!"
 		},
 		{
 			"key":"EP01_S0170_0123",
-			"value":"風で木か何かが軋んだ音だろ\nそんなことより早く捜すぞ！"
+			"value":"Just trees creaking in the wind or something.\nWho cares, let’s go, let’s go!"
 		},
 		{
 			"key":"EP01_S0170_0024",
-			"value":"み、みんな、あまり離れないように……"
+			"value":"Um, hey guys, don’t stray too far, okay?"
 		},
 		{
 			"key":"EP01_S0170_0039",
-			"value":"（また吹雪が起きるとも限らないし\n　サキたちの手がかりを探してみよう）"
+			"value":"(The blizzard might not be the only thing we\nhave to worry about. Let’s look for clues.)"
 		}
 	]
 }

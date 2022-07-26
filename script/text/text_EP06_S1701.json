@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1701_0001",
-			"value":"お、こりゃなんだ……？\nなんか変なモン見つけたぞ！"
+			"value":"Oh, what’s this? I found something weird!"
 		},
 		{
 			"key":"EP06_S1701_0002",
-			"value":"何を見つけたの？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP06_S1701_0003",
-			"value":"キュゥッ！　キュゥイッ！"
+			"value":"Kew! Kew!"
 		},
 		{
 			"key":"EP06_S1701_0004",
-			"value":"役立つもんらしい\nつっても、何に使うもんなんだ……？"
+			"value":"Kunemon says it’s useful.\nNot sure how, though..."
 		},
 		{
 			"key":"EP06_S1701_0005",
-			"value":"まぁいいか\nタクマ、お前が持ってろよ"
+			"value":"Whatever.\nHere. You take it, Takuma."
 		},
 		{
 			"key":"EP06_S1701_0006",
-			"value":"あ、うん、わかった"
+			"value":"Uh, okay."
 		},
 		{
 			"key":"EP06_S1701_0007",
-			"value":"お前に言われなきゃ気づかなかったぜ\nでかした"
+			"value":"I wouldn’t have noticed without you.\nNice one."
 		},
 		{
 			"key":"EP06_S1701_0008",
-			"value":"キュ～"
+			"value":"Kewww..."
 		}
 	]
 }

@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1810_0001",
-			"value":"タクマ……\nなんか、怪しい感じがするよ"
+			"value":"Takuma, I’m getting kind of an odd feeling\nfrom this place."
 		},
 		{
 			"key":"EP07_S1810_0002",
-			"value":"そうかな？　パッと見た感じ\n変わったところは、ないみたいだけど……"
+			"value":"Really?\nIt doesn’t seem all that strange to me."
 		},
 		{
 			"key":"EP07_S1810_0003",
-			"value":"んー……でも、ちょっと注意して\n調べてみた方がいいんじゃないかなぁ"
+			"value":"Still, I guess it wouldn’t hurt to be\ncareful."
 		},
 		{
 			"key":"EP07_S1810_0004",
-			"value":"他の方法で調べたらわかるかもしれない\n何かいい方法はないかな……"
+			"value":"Maybe if we had some other way to investigate\nwe could find out more. Hmm..."
 		},
 		{
 			"key":"EP07_S1810_0005",
-			"value":"そうだ、カメラを使ってみようかな？"
+			"value":"Hey, let me try using my camera."
 		},
 		{
 			"key":"EP07_S1810_0006",
-			"value":"なんかこの辺り変な感じがするよ\nよく調べてみて！"
+			"value":"There’s something strange going on.\nLook carefully!"
 		}
 	]
 }

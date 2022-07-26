@@ -2,263 +2,263 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S0030_0001",
-			"value":"どうにか……勝てたみたいだ"
+			"value":"Looks like we managed to win."
 		},
 		{
 			"key":"EP06_S0030_0002",
-			"value":"そうだな、でも敵の様子が変だった\nそんな気がするのは俺だけか？"
+			"value":"Yeah. Although is it just me, or were those\nmonsters acting weird?"
 		},
 		{
 			"key":"EP06_S0030_0003",
-			"value":"いや、明らかに違ってた\n……もしかして、相手とグルだったとか？"
+			"value":"No, it definitely wasn’t just you... You guys\nweren’t working with them, were you?"
 		},
 		{
 			"key":"EP06_S0030_0004",
-			"value":"違う！　断じてそんなことはない！！"
+			"value":"How many times do I have to tell you? No!\nAbsolutely not!"
 		},
 		{
 			"key":"EP06_S0030_0005",
-			"value":"俺たちは固い絆で結ばれ、運命を共にする\n同士だってこと忘れちまってるのか？"
+			"value":"Have you forgotten? We share a tight bond\nwith you humans. Our fates are linked."
 		},
 		{
 			"key":"EP06_S0030_0006",
-			"value":"ああ‥…でも、その運命の同士ってのは‥…"
+			"value":"Yeah, well, the way I see it, that bond still\nonly takes you so far."
 		},
 		{
 			"key":"EP06_S0030_0007",
-			"value":"シュウジのロップモンだってリョウのクネモンだって\n同じだったんだろ……？"
+			"value":"Just look at Shuuji and Lopmon, or Ryo and\nKunemon. They were just like us."
 		},
 		{
 			"key":"EP06_S0030_0008",
-			"value":"じゃあ、なんであいつらはあんな形で\n死んじまったのか説明してみろよ、ファルコモン！！"
+			"value":"So why did they have to die the way that they\ndid, huh? Answer me that, Falcomon!"
 		},
 		{
 			"key":"EP06_S0030_0009",
-			"value":"……何が彼らをあんな風にさせてしまったのか、\n彼らの運命がどうして狂ってしまったのか"
+			"value":"I don’t know why things turned out that way\nor what threw their fates into such disarray."
 		},
 		{
 			"key":"EP06_S0030_0010",
-			"value":"俺には……なぜなのかわからない"
+			"value":"I don’t have the answers for everything,\nas much as I wish I did."
 		},
 		{
 			"key":"EP06_S0030_0011",
-			"value":"ほれみろ！　お前たちだっていつそうなるか\nわからないってことじゃんか！！"
+			"value":"Exactly! So who’s to say you guys won’t\ndo the same thing to us eventually, too?!"
 		},
 		{
 			"key":"EP06_S0030_0012",
-			"value":"本当にお前たちは、オレたちの味方なのかよ……\n下手したらオレたちを襲いかねないって……！？"
+			"value":"How do we know you’re on our side? That you\nwon’t attack us if we make one wrong move?"
 		},
 		{
 			"key":"EP06_S0030_0013",
-			"value":"つまり、ミノルは俺たちを疑ってるってことなのか？"
+			"value":"So, you’re saying you don’t trust us?\nIs that it, Minoru?"
 		},
 		{
 			"key":"EP06_S0030_0014",
-			"value":"違うよ、ボクはタクマを傷つけたりしない\n絶対にしないよ！！"
+			"value":"You’ve got it all wrong! I would never do\nanything to hurt Takuma! Never!"
 		},
 		{
 			"key":"EP06_S0030_0015",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0016",
-			"value":"おいアグモン\n本当にそんなことないと言い切れるのか？"
+			"value":"How can you be so sure about that, Agumon?\nYou don’t know what the future holds."
 		},
 		{
 			"key":"EP06_S0030_0017",
-			"value":"ねえアオイ、私を信じて……！"
+			"value":"Aoi, you know I won’t hurt you, right?"
 		},
 		{
 			"key":"EP06_S0030_0018",
-			"value":"もちろんよ、私はラブラモンを信じる\nでも……"
+			"value":"Of course, Labramon. I trust you. But..."
 		},
 		{
 			"key":"EP06_S0030_0019",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0020",
-			"value":"……別にオレも本心で言ったわけじゃない\n大げさなんだよ、ファルコモンは！"
+			"value":"It’s not like I really meant what I said.\nYou’re being dramatic, Falcomon!"
 		},
 		{
 			"key":"EP06_S0030_0021",
-			"value":"ふん……どうだかな"
+			"value":"Hmph. Am I now?"
 		},
 		{
 			"key":"EP06_S0030_0022",
-			"value":"どうするんだよ、ミノル\nお前はこれでいいのか？"
+			"value":"What are you going to do, Minoru? Are we good\nfor now?"
 		},
 		{
 			"key":"EP06_S0030_0023",
-			"value":"……いいんだよ。ファルコモンのやつ、\nただの冗談にマジになるなんてさ……"
+			"value":"...Yeah, we’re good. Falcomon’s the one who\ndoesn’t know how to take a joke."
 		},
 		{
 			"key":"EP06_S0030_0024",
-			"value":"おーいみんな、こんなところにいたのか"
+			"value":"Oh, there you all are! I’ve been looking for\nyou kids."
 		},
 		{
 			"key":"EP06_S0030_0025",
-			"value":"あ、教授、どうでしたか？"
+			"value":"Oh, Professor. How did your search go?"
 		},
 		{
 			"key":"EP06_S0030_0026",
-			"value":"商店街を抜けた先まで行ってみたんだが、\nそこにも朽ち果てた街が見えた"
+			"value":"I went past the shopping district, but all\nI could see were more ruins after that."
 		},
 		{
 			"key":"EP06_S0030_0027",
-			"value":"敵地とばかりに警戒したのだが、\n元いた島とこちらで、特段変わりはない様子だ"
+			"value":"I was very careful to avoid enemies. It’s\npretty much the same as our island, though."
 		},
 		{
 			"key":"EP06_S0030_0028",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0029",
-			"value":"むしろ、森に何かが動く気配は少なく\n感じるのだが、どうだ？"
+			"value":"Something seems to be happening in the\nforest, though. What’s your call?"
 		},
 		{
 			"key":"EP06_S0030_0030",
-			"value":"そうですね、そっちの方に行ってみる価値は\nありそうですね"
+			"value":"In that case, let’s go there. It sounds like\nit might be worth checking out."
 		},
 		{
 			"key":"EP06_S0030_0031",
-			"value":"（さっきファルコモンが行ってしまった方角と一緒だ\n後を追いかけるなら、ちょうどいい）"
+			"value":"(That’s also the direction where Falcomon\nheaded off to, so all the more reason to go.)"
 		},
 		{
 			"key":"EP06_S0030_0032",
-			"value":"じゃ、みんな、出発しよう……ん？"
+			"value":"All right, everyone, let’s get... Hmm?"
 		},
 		{
 			"key":"EP06_S0030_0033",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0034",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0035",
-			"value":"タクマ、まだこの様子だと厳しいと思うぜ"
+			"value":"Takuma, it’s kind of hard to leave the way\nthings are right now."
 		},
 		{
 			"key":"EP06_S0030_0036",
-			"value":"そうかぁ……"
+			"value":"That’s true, I guess."
 		},
 		{
 			"key":"EP06_S0030_0037",
-			"value":"おや？　ファルコモンはどうしたのかな？"
+			"value":"Huh? Where’s Falcomon?"
 		},
 		{
 			"key":"EP06_S0030_0038",
-			"value":"それが……"
+			"value":"Well, about that..."
 		},
 		{
 			"key":"EP06_S0030_0039",
-			"value":"あいつ……どっか行っちまったんだよ"
+			"value":"He...took off somewhere. I don’t know where."
 		},
 		{
 			"key":"EP06_S0030_0040",
-			"value":"そうか……まあ、だいたい察しはついている\nあんなことに遭遇したのなら無理もない"
+			"value":"I see. I think I know what happened. After\nsuch an ordeal, it’s hardly surprising."
 		},
 		{
 			"key":"EP06_S0030_0041",
-			"value":"（教授は、シュウジやロップモンの名は出さなかった\nでも、この場にいる僕たちには明白だった）"
+			"value":"(The Professor didn’t mention Shuuji or\nLopmon, but it’s clear he meant them.)"
 		},
 		{
 			"key":"EP06_S0030_0042",
-			"value":"しかしだね……私はずっと考えていた"
+			"value":"Having said that, I’ve been thinking about\nsomething for a while now."
 		},
 		{
 			"key":"EP06_S0030_0043",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0044",
-			"value":"古より伝わる話の中で、厄災を退き、\n使役者を守るといわれる獣神伝承と……"
+			"value":"Specifically, the Kemonogami who were said to\nward off disaster and protect their masters."
 		},
 		{
 			"key":"EP06_S0030_0045",
-			"value":"君たちが今一緒にいる\nこのモンスターたちとの関係を"
+			"value":"They share an awful lot with the monsters\naccompanying you all."
 		},
 		{
 			"key":"EP06_S0030_0046",
-			"value":"獣神……ですか？"
+			"value":"They do?"
 		},
 		{
 			"key":"EP06_S0030_0047",
-			"value":"ああ、間違いない\nまさに、彼らこそが獣神だ"
+			"value":"Yes. So much so, in fact, that I’d go so far\nas to say these monsters are the Kemonogami."
 		},
 		{
 			"key":"EP06_S0030_0048",
-			"value":"なぜなら彼らに守られていたからこそ、\n襲いかかる敵に打ち勝ち、ここまで来られたのだから"
+			"value":"After all, it’s because of their protection\nthat you all have made it this far."
 		},
 		{
 			"key":"EP06_S0030_0049",
-			"value":"……じゃあ、なんであんな風に？"
+			"value":"Then why did Lopmon turn out how he did?"
 		},
 		{
 			"key":"EP06_S0030_0050",
-			"value":"それは記述によると\n『使役する者の心を反映する』とある"
+			"value":"The records say that the Kemonogami reflect\ntheir master’s hearts."
 		},
 		{
 			"key":"EP06_S0030_0051",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0052",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0053",
-			"value":"つまり、ロップモンの変化は\nシュウジ君の心の現れであったと思われる"
+			"value":"That is to say, Lopmon’s transformation was\nlikely a manifestation of Shuuji’s own heart."
 		},
 		{
 			"key":"EP06_S0030_0054",
-			"value":"心の……現れ……"
+			"value":"That’s how Shuuji felt inside...?"
 		},
 		{
 			"key":"EP06_S0030_0055",
-			"value":"獣神の使い方を誤れば、その咎は自分自身に\n跳ね返ることになる"
+			"value":"Should a Kemonogami be mishandled, their\nmaster will ultimately pay the price."
 		},
 		{
 			"key":"EP06_S0030_0056",
-			"value":"すなわち、それは人間の心のあり方が\n肝要なのだろう、すべてにおいて"
+			"value":"In essence, the state of a human’s heart is\ncrucial in the growth of a Kemonogami."
 		},
 		{
 			"key":"EP06_S0030_0057",
-			"value":"（そうか……やっぱり今の僕たちには\nアグモンやみんなが、互いに必要なのか……！？）"
+			"value":"(Meaning that we need Agumon and the other\nmonsters just as much as they need us?!)"
 		},
 		{
 			"key":"EP06_S0030_0058",
-			"value":"では獣神の祠に僕たちがそろっていたことに\nなにか意味があったんでしょうか？"
+			"value":"So what you’re saying is there was a reason\nwhy all of us were gathered at the shrine?"
 		},
 		{
 			"key":"EP06_S0030_0059",
-			"value":"ああ、おそらくな"
+			"value":"Most likely, yes."
 		},
 		{
 			"key":"EP06_S0030_0060",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0061",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S0030_0062",
-			"value":"（あれ？　教授、ミユキやハルの方ちょこちょこ\n見てる気がするんだけど……気のせいか）"
+			"value":"(Huh? Am I imagining things or does he keep\nlooking at Miyuki and Haru...? Maybe not.)"
 		},
 		{
 			"key":"EP06_S0030_0063",
-			"value":"よかった……\nウチのせいじゃなかったんだ"
+			"value":"That’s a relief. I’m glad this wasn’t just\nall my fault."
 		},
 		{
 			"key":"EP06_S0030_0064",
-			"value":"うん、ミウちゃんのせいじゃないよ"
+			"value":"Yeah, Miu. You didn’t cause this."
 		},
 		{
 			"key":"EP06_S0030_0065",
-			"value":"この状態でバラバラになったら敵の思う壺だ\nみんな、ファルコモンを探しに行こう！"
+			"value":"If we split up like this, we’ll just give the\nenemy what they want. So let’s find Falcomon!"
 		}
 	]
 }

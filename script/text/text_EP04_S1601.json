@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1601_0001",
-			"value":"うーん、これはイマイチかな～\nこっちはどうかな～"
+			"value":"Hmm, this one’s no good. What about this one?"
 		},
 		{
 			"key":"EP04_S1601_0002",
-			"value":"んんー？\nなんか、あそこに……"
+			"value":"Oh! Over there..."
 		},
 		{
 			"key":"EP04_S1601_0003",
-			"value":"おおー！　これはいいかもー！"
+			"value":"Yes! I think that could be it!"
 		},
 		{
 			"key":"EP04_S1601_0004",
-			"value":"これなら、タクマ達よろこぶかなー？"
+			"value":"I bet Takuma and the others will love this."
 		},
 		{
 			"key":"EP04_S1601_0005",
-			"value":"もうちょっと向こうのほうまで\n探しに行ってみるぞー"
+			"value":"Now I think I’ll head a little farther out."
 		},
 		{
 			"key":"EP04_S1601_0006",
-			"value":"う～ん、ここには\nいないようだな……"
+			"value":"Hmm, no sign of Agumon here..."
 		},
 		{
 			"key":"EP04_S1601_0007",
-			"value":"アグモンのやつ、\nどこに行っちゃったんだろ？"
+			"value":"Where could he have wandered off to?"
 		}
 	]
 }

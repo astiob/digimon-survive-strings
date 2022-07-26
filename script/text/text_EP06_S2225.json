@@ -2,47 +2,47 @@
     "scenario_text": [
         {
             "key": "EP06_S2225_0001",
-            "value": "いた！　ファル――"
+            "value": "There he is! Hey, Falco—"
         },
         {
             "key": "EP06_S2225_0002",
-            "value": "近づくな！"
+            "value": "Stay away!"
         },
         {
             "key": "EP06_S2225_0003",
-            "value": "う……"
+            "value": "Urgh..."
         },
         {
             "key": "EP06_S2225_0004",
-            "value": "いいか！\nそれ以上、絶対に近づくなよ！"
+            "value": "You must not come any closer! Do you hear\nme?!"
         },
         {
             "key": "EP06_S2225_0005",
-            "value": "……行っちゃった"
+            "value": "...He ran off."
         },
         {
             "key": "EP06_S2225_0006",
-            "value": "あいつ、喋ってるとボロが出るからって\nそもそも喋らないことにしやがったな！"
+            "value": "That jerk, he won’t even talk! It’s like he\nthinks he’ll blab the moment he does!"
         },
         {
             "key": "EP06_S2225_0007",
-            "value": "タクマ、アグモン！\n次にファルコモンに会ったら協力してくれ！"
+            "value": "Takuma, Agumon! You gotta help me out next\ntime we run into him!"
         },
         {
             "key": "EP06_S2225_0008",
-            "value": "次こそ絶対に逃がさねぇ……\n囲い込んで捕まえるんだ！"
+            "value": "Ain’t no way I’ll let him run again... We’ll\nsurround him, then we’ll grab him!"
         },
         {
             "key": "EP06_S2225_0009",
-            "value": "わかった、ミノルはファルコモンの注意を引いてくれ\n僕とアグモンが後ろに回り込むね"
+            "value": "Okay then, you grab his attention, then me\nand Agumon will circle behind him."
         },
         {
             "key": "EP06_S2225_0010",
-            "value": "こっそり近づけばいいんだな？\nわかったぞ！"
+            "value": "So we should just roll up all sneaky-like!\nRoger that!"
         },
         {
             "key": "EP06_S2225_0011",
-            "value": "早く<color=#B41919>ファルコモン</color>を探そうぜ！\nそう遠くには行ってないはずだ"
+            "value": "Let’s hurry and find <color=#B41919>Falcomon</color>! He can’t have\ngone too far."
         }
     ]
 }

@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S7143_0001",
-			"value":"…………ん？"
+			"value":"Hm?"
 		},
 		{
 			"key":"EP10_S7143_0002",
-			"value":"カイト、どうかしたのか？"
+			"value":"What is it, Kaito?"
 		},
 		{
 			"key":"EP10_S7143_0003",
-			"value":"おい。アオイはどうした？\nどこにいる？"
+			"value":"Hey, what happened to Aoi? Where’d she go?"
 		},
 		{
 			"key":"EP10_S7143_0004",
-			"value":"アオイさん？　アオイさんならそこに……"
+			"value":"Aoi? I mean, she’s right over..."
 		},
 		{
 			"key":"EP10_S7143_0005",
-			"value":"…………いない！\nどこへ行ったんだ！？"
+			"value":"What?! She’s gone!"
 		},
 		{
 			"key":"EP10_S7143_0006",
-			"value":"う、嘘！？\nずっとそばにいたのに！！"
+			"value":"Wha’? You’re kidding! She was standing right\nthere the whole time!"
 		},
 		{
 			"key":"EP10_S7143_0007",
-			"value":"う、ウチも気づかなかった……！"
+			"value":"I didn’t notice her leave either!"
 		},
 		{
 			"key":"EP10_S7143_0008",
-			"value":"戦いにおびえて、部屋のどこかに\n隠れてるのかもしれない！"
+			"value":"Maybe the battle freaked her out, and she’s\nhiding somewhere in the room!"
 		},
 		{
 			"key":"EP10_S7143_0009",
-			"value":"みんなで捜してみよう！"
+			"value":"Everyone take a look!"
 		},
 		{
 			"key":"EP10_S7143_0010",
-			"value":"つっても、そんな広さはねえだろ？\nどこに隠れんだよ！"
+			"value":"This place ain’t that big though, is it?\nWhere’s she gonna hide in the first place?!"
 		},
 		{
 			"key":"EP10_S7143_0011",
-			"value":"そもそも消えたのは戦いの最中か！？\nだとしたら、敵に捕らえられた可能性も……"
+			"value":"Then logic dictates that she absconded during\nthe battle! Or the enemy may have captured her?"
 		},
 		{
 			"key":"EP10_S7143_0012",
-			"value":"いや……眷属どもはキッチリ倒したはずだ"
+			"value":"I don’t think so... We took out all them\nKenzoku in the last fight."
 		},
 		{
 			"key":"EP10_S7143_0013",
-			"value":"じゃあ……戦いが終わってからってこと？\nでもどうして……"
+			"value":"Then...she ran off after the battle? But why\nwould she...?"
 		},
 		{
 			"key":"EP10_S7143_0014",
-			"value":"（アオイさんは、眷属たちが現れた時\n　サキのことを思い出してたみたいだった……）"
+			"value":"(Aoi seemed to be thinking about Saki when\nthe Kenzoku showed up...)"
 		},
 		{
 			"key":"EP10_S7143_0015",
-			"value":"（まさか、そのせいでまた混乱して……？）"
+			"value":"(Did that make her all confused again?)"
 		},
 		{
 			"key":"EP10_S7143_0016",
-			"value":"タクマ！　この部屋の中には\nどこにもいないみたいだよ！"
+			"value":"Takuma! Looks like there’s nothing in this\nroom!"
 		},
 		{
 			"key":"EP10_S7143_0017",
-			"value":"クッ……！"
+			"value":"Damn it!"
 		},
 		{
 			"key":"EP10_S7143_0018",
-			"value":"あいつが相当追い詰められてるのは\n分かり切ってたことなのに……！"
+			"value":"(Anyone could tell how close she was to\nsnapping, and yet...)"
 		},
 		{
 			"key":"EP10_S7143_0019",
-			"value":"ああ……なんてことなの……！\nアオイがいなくなったことに、気づけないなんて……！"
+			"value":"Oh no... How could this happen?! Even\nI didn’t notice her disappear..."
 		},
 		{
 			"key":"EP10_S7143_0020",
-			"value":"これは、まずいことになったかもしれんな……"
+			"value":"I’m afraid this could be very bad."
 		},
 		{
 			"key":"EP10_S7143_0021",
-			"value":"私のせいだ……\n私が、あんな幻を見せたから……"
+			"value":"It’s my fault. This is all because I gave her\n that vision."
 		},
 		{
 			"key":"EP10_S7143_0022",
-			"value":"レナモン！！\nお前、いったいアオイに何を見せたんだ！！"
+			"value":"Renamon, what exactly did you show Aoi?"
 		},
 		{
 			"key":"EP10_S7143_0023",
-			"value":"わからない、ただ……\n私の見せる幻は、見る者の心に影響される"
+			"value":"I...don’t know. The contents of the vision\n are based on what’s in the viewer’s heart."
 		},
 		{
 			"key":"EP10_S7143_0024",
-			"value":"つまり、彼女の心に一番重くのしかかってる\nトラウマや心配事……とか"
+			"value":"Whatever deep-seated issue or fear looms\n largest in Aoi’s mind would’ve come to life."
 		},
 		{
 			"key":"EP10_S7143_0025",
-			"value":"アオイさんのトラウマや心配事なんて……\nひとつしかない"
+			"value":"Where Aoi is concerned...only one specific\ntrauma comes to mind."
 		},
 		{
 			"key":"EP10_S7143_0026",
-			"value":"ああ。サキのことだ！\nあいつはきっと、サキの幻に囚われてるんだ！"
+			"value":"Yeah, it must’ve been about Saki! She’s still\ncaught up in a vision of her!"
 		},
 		{
 			"key":"EP10_S7143_0027",
-			"value":"みんな、急いでアオイさんを捜そう！"
+			"value":"Guys, we’ve gotta hurry up and find her!"
 		},
 		{
 			"key":"EP10_S7143_0028",
-			"value":"（じゃないと……すごく嫌な予感がする！\n　このままじゃきっと良くないことが起きる……！）"
+			"value":"(If we don’t...I have a bad feeling. Like\nsomething really awful’s gonna happen...)"
 		},
 		{
 			"key":"EP10_S7143_0029",
-			"value":"（アオイさん……頼むから、正気でいて……！！）"
+			"value":"(Aoi...please, return to your senses!)"
 		}
 	]
 }

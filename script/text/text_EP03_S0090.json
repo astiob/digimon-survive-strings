@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S0090_0001",
-			"value":"だ～れか～！\nだ～れかお助け～！"
+			"value":"Help! Somebody help, please!"
 		},
 		{
 			"key":"EP03_S0090_0002",
-			"value":"あら？　ねぇ、何か声がするわ！"
+			"value":"Huh? I thought I heard a voice just now!"
 		},
 		{
 			"key":"EP03_S0090_0003",
-			"value":"え？　まさか、またさっきのアルケニモンが！？"
+			"value":"You don’t think it’s that Arukenimon again,\ndo you?"
 		},
 		{
 			"key":"EP03_S0090_0004",
-			"value":"いや、助けを求める声だった\nこの辺りから聞こえたが……"
+			"value":"No, they were calling for help. I thought\nI heard it coming from around here..."
 		},
 		{
 			"key":"EP03_S0090_0005",
-			"value":"助けを求めてんなら助けてやろうぜ！"
+			"value":"Well, if it’s help they’re after, it’s help\nthey’ll get!"
 		},
 		{
 			"key":"EP03_S0090_0006",
-			"value":"待ちたまえ！　どんな相手かもわからないんだぞ！\n恩をあだで返されたらどうする！？"
+			"value":"Wait! You don’t even know who it is! What if\nthey want to take advantage of us?"
 		},
 		{
 			"key":"EP03_S0090_0007",
-			"value":"そんなこと言わないで、助けてあげようよ……"
+			"value":"Aw, don’t be like that. We should help them."
 		},
 		{
 			"key":"EP03_S0090_0008",
-			"value":"うるさい！　お前が口出しするな！"
+			"value":"Shut up! Nobody asked you!"
 		},
 		{
 			"key":"EP03_S0090_0009",
-			"value":"助かりたかったら襲うな、とか条件つけてやったら？"
+			"value":"What if we made them agree not to attack us\nin exchange for our help?"
 		},
 		{
 			"key":"EP03_S0090_0010",
-			"value":"だったらもっと要求してやりましょうよ！\n食べ物よこせ！　とかどう？"
+			"value":"Yeah, but don’t stop there! We could tell\nthem to give us all their food, too!"
 		},
 		{
 			"key":"EP03_S0090_0011",
-			"value":"それじゃ追いはぎじゃないの……"
+			"value":"That might as well be robbery."
 		},
 		{
 			"key":"EP03_S0090_0012",
-			"value":"あ、見つけた！"
+			"value":"Hey, I found him!"
 		},
 		{
 			"key":"EP03_S0090_0013",
-			"value":"お助け～！"
+			"value":"Help!"
 		},
 		{
 			"key":"EP03_S0090_0014",
-			"value":"テントモンだ！　悪いやつじゃないよ！"
+			"value":"It’s Tentomon! No need to worry about him!"
 		},
 		{
 			"key":"EP03_S0090_0015",
-			"value":"蜘蛛の巣に絡め取られてるね、かわいそうに"
+			"value":"The poor thing’s caught in a spiderweb."
 		},
 		{
 			"key":"EP03_S0090_Q1",
-			"value":"（あの子をどうしよう……？）"
+			"value":"(So, what do we do about this kid?)"
 		},
 		{
 			"key":"EP03_S0090_Q1_A1",
-			"value":"もちろん助けよう"
+			"value":"We help, of course."
 		},
 		{
 			"key":"EP03_S0090_Q1_A2",
-			"value":"放っておこう"
+			"value":"Let’s leave him be."
 		},
 		{
 			"key":"EP03_S0090_Q1_A3",
-			"value":"助けるにしても条件次第だ"
+			"value":"Depends on what we get."
 		},
 		{
 			"key":"EP03_S0090_0016",
-			"value":"助ける"
+			"value":"Help."
 		},
 		{
 			"key":"EP03_S0090_0017",
-			"value":"まずは助けてやろう\nアグモン、この糸を切れそうか？"
+			"value":"We should get him out of there. Agumon, think\nyou can cut through those threads?"
 		},
 		{
 			"key":"EP03_S0090_0018",
-			"value":"まかせて～！"
+			"value":"No problem!"
 		},
 		{
 			"key":"EP03_S0090_0019",
-			"value":"助けない"
+			"value":"Don’t help."
 		},
 		{
 			"key":"EP03_S0090_0020",
-			"value":"助ける義理はないよ\n放っておこう"
+			"value":"I don’t see any reason to help. Let’s just\ngo."
 		},
 		{
 			"key":"EP03_S0090_0021",
-			"value":"待って。悪い子じゃないなら\n何か情報を聞けないかしら？"
+			"value":"Wait, if he’s not going to attack us, we\ncould ask for information."
 		},
 		{
 			"key":"EP03_S0090_0022",
-			"value":"話を聞けるなら、助ける価値はあるんじゃない？"
+			"value":"Isn’t that a good reason to help?"
 		},
 		{
 			"key":"EP03_S0090_0023",
-			"value":"それもそうか……アグモン、頼む"
+			"value":"I guess... Agumon, get him out of there."
 		},
 		{
 			"key":"EP03_S0090_0024",
-			"value":"まかせて～！"
+			"value":"You got it!"
 		},
 		{
 			"key":"EP03_S0090_0025",
-			"value":"条件次第"
+			"value":"Help conditionally."
 		},
 		{
 			"key":"EP03_S0090_0026",
-			"value":"条件次第かな\n食べ物でもいいけど、何か持ってるのかな……"
+			"value":"We should try to get something out of this.\nFood would be good. I wonder what he has."
 		},
 		{
 			"key":"EP03_S0090_0027",
-			"value":"それなら、ミウの目撃情報がないか聞けないか？"
+			"value":"Maybe we could ask if he knows what happened\nto Miu."
 		},
 		{
 			"key":"EP03_S0090_0028",
-			"value":"なるほど、わかった\nアグモン、お願い"
+			"value":"Oh, good idea. Agumon, can you get him out of\nthere?"
 		},
 		{
 			"key":"EP03_S0090_0029",
-			"value":"まかせて～！"
+			"value":"You got it!"
 		},
 		{
 			"key":"EP03_S0090_0030",
-			"value":"は～助かった～\nいやぁ、どうもおおきに"
+			"value":"Oh, I’m saved! Thank you so much for helping\nme."
 		},
 		{
 			"key":"EP03_S0090_0031",
-			"value":"うん……？　珍しいコトもあるもんやなぁ\nまたニンゲンのコドモでっせ……！"
+			"value":"Hm...? Well, would you look at that. More\nhuman children! How unusual."
 		},
 		{
 			"key":"EP03_S0090_0032",
-			"value":"また……って、キミ\nほかにもニンゲンのコドモを見かけたの！？"
+			"value":"More? Wait, you mean you’ve seen others?!"
 		},
 		{
 			"key":"EP03_S0090_0033",
-			"value":"はいな。あんさんの後ろにいるヤツより\nえろう小ちゃかったでっせ！"
+			"value":"Right you are. And a lot smaller than the one\nbehind you!"
 		},
 		{
 			"key":"EP03_S0090_0034",
-			"value":"それって、ひょっとしてミウ！？\nその子って、一人で歩いてたの！？"
+			"value":"Could that have been Miu?! Was she walking\naround by herself?"
 		},
 		{
 			"key":"EP03_S0090_0035",
-			"value":"いやそれが……あの怖～いアルケニモンに\n捕まってましてな"
+			"value":"Well, she’d been captured by that terrifying\nArukenimon, you see."
 		},
 		{
 			"key":"EP03_S0090_0036",
-			"value":"えらいかわいそうでしたから、隙を見てちょちょいっと\n助けたったんです"
+			"value":"I couldn’t help but take pity on the girl, so\nI rescued her at the first opportunity."
 		},
 		{
 			"key":"EP03_S0090_0037",
-			"value":"そしたらアルケニモンにバレまして\nワテ捕まってしまったんですわ。あっはっは"
+			"value":"Unfortunately, I was then discovered by\nArukenimon and taken prisoner myself, haha."
 		},
 		{
 			"key":"EP03_S0090_0038",
-			"value":"それでミウは！？\nその子はどうなったんだ！？"
+			"value":"But what about Miu? What happened to the\ngirl?!"
 		},
 		{
 			"key":"EP03_S0090_0039",
-			"value":"え？　あぁ、ちゃんと逃げはりましたよ\n途中まで一緒でしたから間違いありません"
+			"value":"The girl? Why, she ran away. I was right\nbehind her, so there’s no doubt about that."
 		},
 		{
 			"key":"EP03_S0090_0040",
-			"value":"なんかアレでっせ\nキラキラしたトコへ行きましてん"
+			"value":"She was headed to that shiny place, you see."
 		},
 		{
 			"key":"EP03_S0090_0041",
-			"value":"そうか……教えてくれてありがとう\nそれと、ミウを助けてくれたことも、ありがとう"
+			"value":"Okay, great. Thanks for telling me. And for\nrescuing Miu in the first place."
 		},
 		{
 			"key":"EP03_S0090_0042",
-			"value":"いえいえ、これくらいお安い御用ですわ！"
+			"value":"Oh, my. Don’t even mention it!"
 		},
 		{
 			"key":"EP03_S0090_0043",
-			"value":"キラキラしたトコ……って？"
+			"value":"So, where exactly is this...shiny place?"
 		},
 		{
 			"key":"EP03_S0090_0044",
-			"value":"ワテもアレや、何ちゅうたらええんやろ……\n上の方からバーッと眺めたらええんちゃいますか"
+			"value":"I’m...not sure how to describe it. Why not\nclimb up somewhere and see for yourselves?"
 		},
 		{
 			"key":"EP03_S0090_0045",
-			"value":"あ、それなら電波塔の上から\n見ればわかるんじゃない！？"
+			"value":"Hey, you think we’d be able to see it from\nthe top of that tower?"
 		},
 		{
 			"key":"EP03_S0090_0046",
-			"value":"そうだな。それなら、早く登ってみよう"
+			"value":"Good thinking. Let’s go up and find out."
 		}
 	]
 }

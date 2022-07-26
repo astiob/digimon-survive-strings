@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2050_0001",
-			"value":"あれ……あそこにいるのはハル？\n一人歩きして……なにをしているんだ？"
+			"value":"Huh? Is that Haru? What’s he doing walking\naround all by himself?"
 		},
 		{
 			"key":"EP06_S2050_0002",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S2050_0003",
-			"value":"（ハルは今の僕たちを、どう思っているんだろう？\nいや、相棒のいないハルに聞くのは……）"
+			"value":"(How does he feel about things? Wait, I can’t\nask him. He doesn’t have a partner, huh?)"
 		},
 		{
 			"key":"EP06_S2050_0004",
-			"value":"（あ、ハル……行っちゃった\nどこへ行くんだろう……？）"
+			"value":"(Oh, crap, he took off. Where’s he going?)"
 		},
 		{
 			"key":"EP06_S2050_0005",
-			"value":"（ん？　……教授……？\nきょろきょろしているみたいだけど……）"
+			"value":"(Hmm? Is that the Professor? Why’s he trying\nto be all sneaky?)"
 		},
 		{
 			"key":"EP06_S2050_0006",
-			"value":"（もしかして……ハルの後を追っているのか？\nどうしてそんなことを……）"
+			"value":"(Wait, is he following Haru? Why would he\never do something like that?)"
 		},
 		{
 			"key":"EP06_S2050_0007",
-			"value":"タクマー！　ファルコモンが見つかったよー！！\nあっちの団地にいた！"
+			"value":"Takuma, I found Falcomon! He’s in those\napartments over there!"
 		},
 		{
 			"key":"EP06_S2050_0008",
-			"value":"よし、じゃあ行ってみよう\nアグモン、やっぱりお前は頼りになる相棒だよ！"
+			"value":"Great, nice work, Agumon! You’re always so\nhelpful! Now let’s go find him!"
 		},
 		{
 			"key":"EP06_S2050_0009",
-			"value":"ありがとう、タクマ\n……ファルコモンはこっちだよ！"
+			"value":"Aww, thanks, Takuma! Falcomon’s this way!"
 		},
 		{
 			"key":"EP06_S2050_0010",
-			"value":"（あれ、教授は……いつの間にかいなくなってる\nでも今は、ファルコモンのことを優先しなきゃ）"
+			"value":"(Huh? The Professor’s gone. I’m curious about\nwhat’s going on, but Falcomon comes first.)"
 		}
 	]
 }

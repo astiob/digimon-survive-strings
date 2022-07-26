@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1210_0001",
-			"value":"ああ、ロップモン\nひとりなの？"
+			"value":"Hey, Lopmon. You’re on your own?"
 		},
 		{
 			"key":"EP04_S1210_0002",
-			"value":"あっちに行ってろって\nシュウジが……"
+			"value":"Shuuji told me to get lost."
 		},
 		{
 			"key":"EP04_S1210_0003",
-			"value":"そうか。ロップモンも大変だな……"
+			"value":"Oh. Sounds like you’ve got things pretty\nrough too."
 		},
 		{
 			"key":"EP04_S1210_0004",
-			"value":"ボク……シュウジの\nジャマになってばっかりみたい……"
+			"value":"I... I only ever seem to get in Shuuji’s way."
 		},
 		{
 			"key":"EP04_S1210_0005",
-			"value":"（シュウジさん、まだロップモンのことが\n　受け入れられないみたいだもんな……）"
+			"value":"(Yeah, it seems like Shuuji still hasn’t\nreally accepted Lopmon.)"
 		},
 		{
 			"key":"EP04_S1210_0006",
-			"value":"早くシュウジさんが\n心を開いてくれるといいんだけどな"
+			"value":"I hope Shuuji starts to open up to you soon."
 		},
 		{
 			"key":"EP04_S1210_0007",
-			"value":"うん。タクマとアグモンみたいになれるように\nボクも……がんばるね"
+			"value":"Me too. I’ll...keep trying to find a way to\nmake it so we get along like you and Agumon."
 		},
 		{
 			"key":"EP04_S1210_0008",
-			"value":"うん。僕も応援するよ"
+			"value":"Sounds good. I’ll be rooting for you."
 		},
 		{
 			"key":"EP04_S1210_0009",
-			"value":"そういえば、アグモンがどっか行ったきり\n戻ってこないんだけど……"
+			"value":"Oh, but that reminds me. Agumon went off\nsomewhere earlier and he hasn’t come back."
 		},
 		{
 			"key":"EP04_S1210_0010",
-			"value":"どこに行ったか知らないか？"
+			"value":"Do you know where he went?"
 		},
 		{
 			"key":"EP04_S1210_0011",
-			"value":"アグモンなら、神社のほうに行ったかな？"
+			"value":"I’m pretty sure Agumon was headed for the\n shrine."
 		},
 		{
 			"key":"EP04_S1210_0012",
-			"value":"神社？\nどうしてそんな所に？"
+			"value":"The shrine? Why would he go there?"
 		},
 		{
 			"key":"EP04_S1210_0013",
-			"value":"わかんないや"
+			"value":"I’m not sure."
 		},
 		{
 			"key":"EP04_S1210_0014",
-			"value":"（さっき廊下で話した時に\n　ぶつぶつ言ってたことと、関係あるのかな……？）"
+			"value":"(I wonder if it’s got something to do with\nwhat he was muttering to himself about.)"
 		},
 		{
 			"key":"EP04_S1210_0015",
-			"value":"アグモンなら、神社のほうに行くのが\n見えたよ？"
+			"value":"If you’re looking for Agumon, I saw him\nheading for the shrine."
 		}
 	]
 }

@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1018_0001",
-			"value":"こっちに何かいる気がしてさ\n確かめようと思って来たんだ！"
+			"value":"I sensed something over here, so I thought\nI’d go see what it was!"
 		},
 		{
 			"key":"EP03_S1018_0002",
-			"value":"そうだったのか……勝手にいなくならないでくれよ"
+			"value":"So that’s what happened. You should’ve said\nsomething."
 		},
 		{
 			"key":"EP03_S1018_0003",
-			"value":"ごめんごめん、でも危ない感じじゃなかったから"
+			"value":"Sorry! It’s just, it didn’t seem dangerous."
 		},
 		{
 			"key":"EP03_S1018_0004",
-			"value":"とにかく調べてみるか"
+			"value":"Right, well, let’s see what it is."
 		},
 		{
 			"key":"EP03_S1018_0005",
-			"value":"危ない感じじゃないから大丈夫だよ"
+			"value":"Don’t worry. I don’t think it’s any kind of\nthreat."
 		}
 	]
 }

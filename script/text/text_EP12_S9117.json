@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9117_0001",
-			"value":"さすがに外には出てない……かな？"
+			"value":"Hmm...I doubt we’ll find the ghost outside."
 		},
 		{
 			"key":"EP12_S9117_0002",
-			"value":"ユーレイは外に出ないのか？"
+			"value":"Ghosts don’t go outside places?"
 		},
 		{
 			"key":"EP12_S9117_0003",
-			"value":"うーん……そうとも限らないよな"
+			"value":"Well... I guess they could."
 		},
 		{
 			"key":"EP12_S9117_0004",
-			"value":"よし、とりあえず目に付くところを\n調べてみよう！"
+			"value":"Let’s take a look around just to be sure!"
 		},
 		{
 			"key":"EP12_S9117_0005",
-			"value":"お～う！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP12_S9117_0006",
-			"value":"どこにいるのかな～？"
+			"value":"Where could that ghost be?"
 		}
 	]
 }

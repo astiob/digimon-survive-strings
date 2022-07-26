@@ -2,243 +2,243 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S7030_0001",
-			"value":"ねえ、タクマさん……"
+			"value":"Um, Takuma..."
 		},
 		{
 			"key":"EP12_S7030_0002",
-			"value":"ん、どうしたの？"
+			"value":"Yeah? What is it?"
 		},
 		{
 			"key":"EP12_S7030_0003",
-			"value":"あのね……ウチら本当に\n元の世界に帰れると思う？"
+			"value":"Well...do you really think we’re going to\nmake it back home?"
 		},
 		{
 			"key":"EP12_S7030_0004",
-			"value":"それは……"
+			"value":"Uh…"
 		},
 		{
 			"key":"EP12_S7030_0005",
-			"value":"（ここでミウを不安にさせるわけにはいかないよな）"
+			"value":"(I shouldn’t say anything that’s going to\nupset Miu.)"
 		},
 		{
 			"key":"EP12_S7030_0006",
-			"value":"（きっと帰れるよって言いたい……\n　戻ったら、遊園地に行こうって言ってあげたい）"
+			"value":"(I’d like to tell her I’m sure we will, and\npromise to go to an amusement park together,)"
 		},
 		{
 			"key":"EP12_S7030_0007",
-			"value":"（だけど、そんな保証なんてないのにって\n　逆に不安にさせちゃったら……）"
+			"value":"(but I’ve got nothing to back that up, so\nsaying that might make her more worried.)"
 		},
 		{
 			"key":"EP12_S7030_0008",
-			"value":"（冗談で不安を取り除いたほうがいいかな\n　例えば、コインで占ってみようか……とか）"
+			"value":"(Maybe if I make light of it, that would\nhelp. Like I could suggest we flip a coin.)"
 		},
 		{
 			"key":"EP12_S7030_0009",
-			"value":"（いっそのこと、無理だよって言えば\n　そんなことないって気持ちになるかな……？）"
+			"value":"(Or I could try telling her there’s no way\nwe’ll make it, and get her to deny that.)"
 		},
 		{
 			"key":"EP12_S7030_Q1",
-			"value":"（ミウに、なんて答えよう？）"
+			"value":"(What should I say to Miu?)"
 		},
 		{
 			"key":"EP12_S7030_Q1_A1",
-			"value":"コインで占ってみようか"
+			"value":"Let’s flip a coin."
 		},
 		{
 			"key":"EP12_S7030_Q1_A2",
-			"value":"帰ったら遊園地に行こう"
+			"value":"We’ll go to a park!"
 		},
 		{
 			"key":"EP12_S7030_Q1_A3",
-			"value":"たぶん、無理だと思う"
+			"value":"There’s no way."
 		},
 		{
 			"key":"EP12_S7030_0010",
-			"value":"コインで占ってみようか"
+			"value":"Let’s flip a coin."
 		},
 		{
 			"key":"EP12_S7030_0011",
-			"value":"どうかな……そんなに心配だったら\nコインでも投げて占ってみようか？"
+			"value":"I don’t know, but if you’re that worried\nabout it, we could try flipping a coin."
 		},
 		{
 			"key":"EP12_S7030_0012",
-			"value":"ええー！　なにそれ！\nウチ、まじめに聞いてるのに！"
+			"value":"Flipping a coin?! What is wrong with you?!\nI’m serious about this!"
 		},
 		{
 			"key":"EP12_S7030_0013",
-			"value":"タクマさんがそんな意地悪言うなんて\n思わなかった！"
+			"value":"I can’t believe you’d make fun of me like\nthat!"
 		},
 		{
 			"key":"EP12_S7030_0014",
-			"value":"意地悪のつもりじゃなかったんだけど……ごめん"
+			"value":"No... I’m sorry, I didn’t mean to make fun of\nyou."
 		},
 		{
 			"key":"EP12_S7030_0015",
-			"value":"もうっ、それで良くない結果が出たら\nどうするの！"
+			"value":"What if this doesn’t work out, and none of us\ncan go home? What then?"
 		},
 		{
 			"key":"EP12_S7030_0016",
-			"value":"えっと……そうならないように\n頑張る……かな？"
+			"value":"Uh... I guess we’ll just have to try and make\nsure that doesn’t happen?"
 		},
 		{
 			"key":"EP12_S7030_0017",
-			"value":"あ……\nそ、そっか……"
+			"value":"Yeah... I guess you’re right..."
 		},
 		{
 			"key":"EP12_S7030_0018",
-			"value":"帰ったら遊園地に行こう"
+			"value":"We’ll go to a park!"
 		},
 		{
 			"key":"EP12_S7030_0019",
-			"value":"絶対に帰れる……とは言えないけど……\nでも、きっと大丈夫だって僕は信じてる"
+			"value":"Look, I can’t promise you that we’ll make it,\nbut I do believe that things will be okay."
 		},
 		{
 			"key":"EP12_S7030_0020",
-			"value":"だからさ、ちゃんと元の世界に帰れたら\nその時は……本物の遊園地にでも行こうな"
+			"value":"So how about this... When we do make it back,\nlet’s go to an amusement park. A real one."
 		},
 		{
 			"key":"EP12_S7030_0021",
-			"value":"それって、ウチとタクマさんと\nお兄ちゃんの３人でってこと……！？"
+			"value":"You mean, you, me, and my brother?"
 		},
 		{
 			"key":"EP12_S7030_0022",
-			"value":"ああ。もちろん、ミノルやアオイさんも\n一緒でいいならみんなも誘ってさ"
+			"value":"Right, and if you’re okay with it, we could\ninvite Minoru, Aoi, and everyone else too."
 		},
 		{
 			"key":"EP12_S7030_0023",
-			"value":"うん……いいね……！\n遊園地……約束だよ"
+			"value":"Yeah...that sounds nice! We’ll all go to an\namusement park. It’s a promise!"
 		},
 		{
 			"key":"EP12_S7030_0024",
-			"value":"絶対……絶対だからね！"
+			"value":"And you’d better keep it! No matter what!"
 		},
 		{
 			"key":"EP12_S7030_0025",
-			"value":"うん。僕とミウの、約束な……！"
+			"value":"I will. I promise, Miu."
 		},
 		{
 			"key":"EP12_S7030_0026",
-			"value":"たぶん、無理だと思う"
+			"value":"There’s no way."
 		},
 		{
 			"key":"EP12_S7030_0027",
-			"value":"たぶん、無理だろうな"
+			"value":"No. There’s no way."
 		},
 		{
 			"key":"EP12_S7030_0028",
-			"value":"っ……なんでそんなこと言うの！？"
+			"value":"What? Wh-why would you say that?!"
 		},
 		{
 			"key":"EP12_S7030_0029",
-			"value":"タクマさんなら、絶対帰れるって\n言ってくれると思ってたのに！"
+			"value":"I...I was so sure you’d say we’d make it no\nmatter what."
 		},
 		{
 			"key":"EP12_S7030_0030",
-			"value":"ウチ、そう信じてたから……！"
+			"value":"I was convinced of it!"
 		},
 		{
 			"key":"EP12_S7030_0031",
-			"value":"じゃあ、大丈夫だよ"
+			"value":"Then everything’s fine."
 		},
 		{
 			"key":"EP12_S7030_0032",
-			"value":"え……？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP12_S7030_0033",
-			"value":"だって、ミウは\n本当は『絶対帰れる』って信じてるんだろ？"
+			"value":"Because that means you’re really convinced\nwe’ll make it back, right?"
 		},
 		{
 			"key":"EP12_S7030_0034",
-			"value":"なら、きっと大丈夫だよ"
+			"value":"Which means everything’s fine."
 		},
 		{
 			"key":"EP12_S7030_0035",
-			"value":"……もしかしてタクマさん、わざと嘘ついた？\nひどいよー！"
+			"value":"So, you lied to me just now? Takuma, how\ncould you?!"
 		},
 		{
 			"key":"EP12_S7030_0036",
-			"value":"はは……ごめん"
+			"value":"Haha, sorry!"
 		},
 		{
 			"key":"EP12_S7030_0037",
-			"value":"（だけど……本当言うと、どっかでは\n　やっぱりダメなんじゃないかって……）"
+			"value":"(But really, somewhere deep down, I can’t\nhelp but wonder if we’re not all doomed.)"
 		},
 		{
 			"key":"EP12_S7030_0038",
-			"value":"（不安があるのも……事実なんだよな）"
+			"value":"(That much is true.)"
 		},
 		{
 			"key":"EP12_S7030_0039",
-			"value":"とにかく、今の僕らにできることは\nまずアオイさんを捜し出すこと"
+			"value":"Anyway, right now our number one priority is\nto find Aoi."
 		},
 		{
 			"key":"EP12_S7030_0040",
-			"value":"それから、ミユキを主から助け出すこと\nこの２つだよ"
+			"value":"After that, it’ll be rescuing Miyuki. Those\nare what we should be focused on."
 		},
 		{
 			"key":"EP12_S7030_0041",
-			"value":"後のことは、それから考えよう"
+			"value":"Everything else we can deal with later."
 		},
 		{
 			"key":"EP12_S7030_0042",
-			"value":"うん。そうだよね……\nまずはアオイさんを捜さないとはじまらないもんね"
+			"value":"Yeah, you’re right. We can’t do anything if\nwe don’t find Aoi."
 		},
 		{
 			"key":"EP12_S7030_0043",
-			"value":"なんか……\nタクマさんとアオイさんって、ちょっと似てるね"
+			"value":"You know, you and Aoi are kind of similar."
 		},
 		{
 			"key":"EP12_S7030_0044",
-			"value":"えっ、そ、そうかな……？"
+			"value":"Really? You think so?"
 		},
 		{
 			"key":"EP12_S7030_0045",
-			"value":"アオイさんもね、ウチがわけわかんなくなって\n泣きそうになってた時とか……"
+			"value":"Yeah, well, whenever I started to feel like\nthis was all too much and wanted to cry,"
 		},
 		{
 			"key":"EP12_S7030_0046",
-			"value":"まずは、今すぐごはんを食べて寝ること\n後のことは、後で考えましょう……って"
+			"value":"Aoi would tell me the same sort of thing.\nLike I should focus on eating, go to sleep,"
 		},
 		{
 			"key":"EP12_S7030_0047",
-			"value":"なにをすればいいか、ウチに優しく\n教えたりしてくれたんだ……"
+			"value":"and save all the worrying for later. She was\nalways so nice about telling me what to do."
 		},
 		{
 			"key":"EP12_S7030_0048",
-			"value":"アオイさん……僕らがどんなにパニックになっても\n生活をちゃんと整えようとしてくれてたもんね"
+			"value":"Yeah, Aoi always tried to get us to take care\nof ourselves, no matter how panicked we got."
 		},
 		{
 			"key":"EP12_S7030_0049",
-			"value":"アオイさんだって、絶対怖いこと\nいっぱいだったと思うのに……"
+			"value":"Mm-hm, even though she had to have been\nreally scared too."
 		},
 		{
 			"key":"EP12_S7030_0050",
-			"value":"いつもウチたちのことを気にかけて\n世話してくれた……"
+			"value":"She was always looking out for us, taking\ncare of us..."
 		},
 		{
 			"key":"EP12_S7030_0051",
-			"value":"アオイさんは、本当のお姉ちゃんみたいで……\nずっと優しかったんだ……"
+			"value":"It felt like she was my real big sister, she\nwas so nice."
 		},
 		{
 			"key":"EP12_S7030_0052",
-			"value":"お兄ちゃんやミノルさんは、アオイさんが\n色んなことを我慢して溜め込んでたのかも……って"
+			"value":"Kaito and Minoru said she must’ve been hiding\nhow she really felt..."
 		},
 		{
 			"key":"EP12_S7030_0053",
-			"value":"そう言ってたけど、ウチたちに優しくしてくれたのは\nきっと嘘じゃないよね？　アオイさんの本心だよね？"
+			"value":"...but I don’t think her kindness was a lie.\nI think she meant it when she was nice to us."
 		},
 		{
 			"key":"EP12_S7030_0054",
-			"value":"ああ。それは……それだけは間違いないって\n僕も思ってるよ"
+			"value":"You’re right. I think that much is true.\nThat’s how I feel too."
 		},
 		{
 			"key":"EP12_S7030_0055",
-			"value":"そうだよね……ウチも、そう信じる！"
+			"value":"Yeah, that’s gotta be it!"
 		},
 		{
 			"key":"EP12_S7030_0056",
-			"value":"アオイさん、色んなことを我慢してたのかもだけど……\n優しくしてくれたのは本心だったって……ウチ、信じる"
+			"value":"Aoi may have hidden things from us, but\nI don’t think her kindness was a lie."
 		}
 	]
 }

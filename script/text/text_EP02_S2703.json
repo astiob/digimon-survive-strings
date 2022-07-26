@@ -2,147 +2,147 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2703_0001",
-			"value":"チッ……やっぱ圏外かよ\n助けを呼べねーかと思ったんだけど"
+			"value":"Damn. Out of range, just like I thought.\nWe could’ve called for help."
 		},
 		{
 			"key":"EP02_S2703_0002",
-			"value":"電波のアンテナが全く立たねーよ……"
+			"value":"I don’t see any cell towers..."
 		},
 		{
 			"key":"EP02_S2703_0003",
-			"value":"キュキュゥ……"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S2703_0004",
-			"value":"お前の方はどうだ？"
+			"value":"And your phone?"
 		},
 		{
 			"key":"EP02_S2703_0005",
-			"value":"ダメだね……僕の方も圏外だよ"
+			"value":"It’s no good. No signal."
 		},
 		{
 			"key":"EP02_S2703_0200",
-			"value":"そうか……メールは届いてたから\nどうにかなるかと思ってたのによ"
+			"value":"That right... I figured there might be\na chance, given the message I got."
 		},
 		{
 			"key":"EP02_S2703_0201",
-			"value":"えっ！？　メール届くの？"
+			"value":"What?! You got a message?!"
 		},
 		{
 			"key":"EP02_S2703_0202",
-			"value":"あ、いや……文字化けしてて全然読めねえし\nこっちからはずっと圏外で送れねえから……"
+			"value":"I mean, but...it’s a bunch of gibberish. And\nI’m out of range, so I can’t send jack."
 		},
 		{
 			"key":"EP02_S2703_0203",
-			"value":"くそっ、どうすりゃいいんだよ……"
+			"value":"Dammit, what’re we supposed to do, here?"
 		},
 		{
 			"key":"EP02_S2703_0204",
-			"value":"なんの話だー？"
+			"value":"What’s he talking about?"
 		},
 		{
 			"key":"EP02_S2703_0205",
-			"value":"携帯に連絡が来てたみたいなんだけど\n全然読めなくて、困ったなって話だよ"
+			"value":"He got a message on his phone, but it’s\nindecipherable. He’s just a bit frustrated."
 		},
 		{
 			"key":"EP02_S2703_0008",
-			"value":"へー！　見せて見せてー！"
+			"value":"Wow! Show me!"
 		},
 		{
 			"key":"EP02_S2703_0009",
-			"value":"あぁこら！　アグモンは触っちゃダメだ！\n乱暴にしたら壊れちゃうから！"
+			"value":"It’s not for you, Agumon!\nIt’ll break if you toss it around!"
 		},
 		{
 			"key":"EP02_S2703_0010",
-			"value":"それよかよ……\n携帯の電池が全然減ってねーんだけど……"
+			"value":"Hang on...\nMy phone hasn’t lost power..."
 		},
 		{
 			"key":"EP02_S2703_0011",
-			"value":"え？\nあれ、本当だ。僕のも減ってない"
+			"value":"What? You’re right.\nI’m still at full charge, too."
 		},
 		{
 			"key":"EP02_S2703_0012",
-			"value":"でも、携帯の電池なんてよく気づいたな"
+			"value":"Good job noticing that the power levels\nhaven’t changed..."
 		},
 		{
 			"key":"EP02_S2703_0013",
-			"value":"助けを呼ぼうとしてたに決まってんだろ\nお前らと違ってオレは冷静なんだよ"
+			"value":"Of course I was trying to call for help.\nI’ve been much calmer than all of you."
 		},
 		{
 			"key":"EP02_S2703_Q1",
-			"value":"（リョウはずっと電話をかけ続けていたのか）"
+			"value":"(Ryo’s been using his phone the whole time.)"
 		},
 		{
 			"key":"EP02_S2703_Q1_A1",
-			"value":"誰に電話してたんだ？"
+			"value":"Who were you calling?"
 		},
 		{
 			"key":"EP02_S2703_Q1_A2",
-			"value":"それで、電話が繋がらないことに気付けたのかな"
+			"value":"Phones don’t work."
 		},
 		{
 			"key":"EP02_S2703_0014",
-			"value":"誰に電話してたんだ？"
+			"value":"Who’re you calling?"
 		},
 		{
 			"key":"EP02_S2703_0015",
-			"value":"あぁ？　誰だっていいだろ"
+			"value":"What? Does it matter?"
 		},
 		{
 			"key":"EP02_S2703_0016",
-			"value":"いや、僕も試しにかけてみようかなって"
+			"value":"Fine. I’ll try calling, too."
 		},
 		{
 			"key":"EP02_S2703_0017",
-			"value":"ん……保護者だよ、オレの\nいつもは、この時間なら出るはずなのに……"
+			"value":"Um, it's my parents. They usually answer if I \ncall around this time..."
 		},
 		{
 			"key":"EP02_S2703_0018",
-			"value":"キュゥ……"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S2703_0019",
-			"value":"あ……そうだったのか"
+			"value":"Oh..."
 		},
 		{
 			"key":"EP02_S2703_0020",
-			"value":"気づいてくれて助かったよ\nありがとう、リョウ"
+			"value":"Thanks for noticing.\nWell done, Ryo."
 		},
 		{
 			"key":"EP02_S2703_0021",
-			"value":"はぁ？　話聞いてたか？\n外に連絡できねーって言ってんだぞ"
+			"value":"What? Weren't you listening?\nI said we can’t call out."
 		},
 		{
 			"key":"EP02_S2703_0022",
-			"value":"でも、ここは電波の届かないところだって\nことがわかった。それは何かの役に立つかもしれない"
+			"value":"So now we know there’s no signal here.\nThat might be useful information."
 		},
 		{
 			"key":"EP02_S2703_0023",
-			"value":"ありがとなー、リョウ！"
+			"value":"Thanks, Ryo!"
 		},
 		{
 			"key":"EP02_S2703_0024",
-			"value":"ケッ、何言ってんだ\n絶望的な状況に変わりねーじゃねーか"
+			"value":"What’re you thanking me for?\nWe’re still screwed, right?"
 		},
 		{
 			"key":"EP02_S2703_0025",
-			"value":"まぁ……役に立ったんなら\n……どーいたしまして、だ"
+			"value":"Whatever...\nYou’re welcome, I guess."
 		},
 		{
 			"key":"EP02_S2703_0026",
-			"value":"キュキュゥ！"
+			"value":"...!"
 		},
 		{
 			"key":"EP02_S2703_0027",
-			"value":"つっても、外に連絡できねーんじゃ\nどうしようもねーんだけどな……"
+			"value":"We still can’t reach anyone.\nThis is hopeless..."
 		},
 		{
 			"key":"EP02_S2703_0028",
-			"value":"救助も呼べないのかよ……\nオレたちどうなっちまうんだ……"
+			"value":"We can’t call the professor?\nWhat’ll happen to us?"
 		},
 		{
 			"key":"EP02_S2703_0029",
-			"value":"何でここは圏外なんだよ……"
+			"value":"Why aren’t we getting a signal here?"
 		}
 	]
 }

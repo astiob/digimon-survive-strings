@@ -2,275 +2,275 @@
     "scenario_text": [
         {
             "key": "EP08_S0051_0001",
-            "value": "タクマさん……！\nあれ……！"
+            "value": "Takuma! Look!"
         },
         {
             "key": "EP08_S0051_0002",
-            "value": "ほんとに、ミノルたち以外の\nニンゲンがいた……！"
+            "value": "Wow, it really is a human I’ve never seen\nbefore!"
         },
         {
             "key": "EP08_S0051_0003",
-            "value": "ああ……！\nこれで今度こそ、ハッキリした！"
+            "value": "It sure is! Now there’s no doubt about it!"
         },
         {
             "key": "EP08_S0051_0004",
-            "value": "ここは、間違いなく元の世界だ！"
+            "value": "We’re definitely back in our world!"
         },
         {
             "key": "EP08_S0051_0005",
-            "value": "そ、そうですね……\nでも……"
+            "value": "That’s true, but, uh..."
         },
         {
             "key": "EP08_S0051_0006",
-            "value": "ん～？　ミユキ、どうかした？"
+            "value": "Hm? Miyuki? Is something wrong?"
         },
         {
             "key": "EP08_S0051_0007",
-            "value": "あ、ううん……なんでもないの\nちょっと、気になることがあっただけ……っ"
+            "value": "Oh, no... It’s nothing. Just...something’s\nbothering me, that’s all."
         },
         {
             "key": "EP08_S0051_0008",
-            "value": "（気になること……？\n　あんな心配そうな顔するほど気になることって……）"
+            "value": "(I don’t know. She looks pretty upset. What\ncould be bothering her that much?)"
         },
         {
             "key": "EP08_S0051_0009",
-            "value": "ミユキ、大丈夫―？"
+            "value": "Miyuki, are you feeling okay?"
         },
         {
             "key": "EP08_S0051_0010",
-            "value": "う、うん……"
+            "value": "Yeah..."
         },
         {
             "key": "EP08_S0051_0011",
-            "value": "（あっ……！　もしかしてアグモンのこと！？\n　アグモンが見つかったら、騒ぎになるから……？）"
+            "value": "(Oh, is it Agumon she’s worried about? Is she\nafraid of what might happen if he’s seen?)"
         },
         {
             "key": "EP08_S0051_0012",
-            "value": "（それとも、ミノルたちやみんなが\n　こっちに戻ってるかどうかってことかな？）"
+            "value": "(Or maybe she’s anxious about whether Minoru\nand the others made it here okay?)"
         },
         {
             "key": "EP08_S0051_0013",
-            "value": "（いや、それよりなにより\n　ハルのことが心配なのかも……）"
+            "value": "(Then again, she could be concerned about\nHaru.)"
         },
         {
             "key": "EP08_S0051_Q1",
-            "value": "（もしかして、ミユキが気にしてるのは……）"
+            "value": "(What could be bothering Miyuki?)"
         },
         {
             "key": "EP08_S0051_Q1_A1",
-            "value": "ハルが心配？"
+            "value": "...Haru?"
         },
         {
             "key": "EP08_S0051_Q1_A2",
-            "value": "アグモンが気になる？"
+            "value": "...Agumon?"
         },
         {
             "key": "EP08_S0051_Q1_A3",
-            "value": "みんなのことを気にしてる？"
+            "value": "...the others?"
         },
         {
             "key": "EP08_S0051_0014",
-            "value": "ハルが心配？"
+            "value": "...Haru?"
         },
         {
             "key": "EP08_S0051_0015",
-            "value": "ハルのこと……かな？\n離れてたら、心配だよね"
+            "value": "I’m sure you must be worried about your\nbrother now that you’ve been separated."
         },
         {
             "key": "EP08_S0051_0016",
-            "value": "え……と、はい……\nそれはもちろん心配だけど……"
+            "value": "Oh, uh...yeah. I’m concerned about him too."
         },
         {
             "key": "EP08_S0051_0017",
-            "value": "（あれ……？\n　もしかしてハルのことじゃなかったのかな？）"
+            "value": "(Huh? Was Haru not what was bothering her?)"
         },
         {
             "key": "EP08_S0051_0018",
-            "value": "アグモンが気になる？"
+            "value": "...Agumon?"
         },
         {
             "key": "EP08_S0051_0019",
-            "value": "アグモンのことだよね？"
+            "value": "You’re worried about causing a scene, aren’t\nyou?"
         },
         {
             "key": "EP08_S0051_0020",
-            "value": "こっちの世界で、アグモンを連れてると\nどうしても目立っちゃうから……"
+            "value": "After all, walking around with Agumon in this\nworld is sure to attract attention."
         },
         {
             "key": "EP08_S0051_0021",
-            "value": "そうなのかー？"
+            "value": "Oh, is that it?"
         },
         {
             "key": "EP08_S0051_0022",
-            "value": "う、うん……\nアグモンのことも、気になるけど……"
+            "value": "Uh, yeah...I’m worried about Agumon too."
         },
         {
             "key": "EP08_S0051_0023",
-            "value": "（あれ……もしかして、気になるのは\n　アグモンのことだけじゃないのか……？）"
+            "value": "(Huh? Was that not all that was bothering\nher?)"
         },
         {
             "key": "EP08_S0051_0024",
-            "value": "みんなのことを気にしてる？"
+            "value": "...the others?"
         },
         {
             "key": "EP08_S0051_0025",
-            "value": "みんなも、こっちの世界に戻れてるんじゃないかって\n気になってる……？"
+            "value": "Are you worried about whether or not they’re\nhere too?"
         },
         {
             "key": "EP08_S0051_0026",
-            "value": "え……？"
+            "value": "Hm?"
         },
         {
             "key": "EP08_S0051_0027",
-            "value": "僕も、気にはなってるんだ"
+            "value": "Because that’s been on my mind as well."
         },
         {
             "key": "EP08_S0051_0028",
-            "value": "だけど、あの時音楽室にいたのは\n僕たち３人だけだったから"
+            "value": "But the three of us were the only ones in the\nmusic room, so..."
         },
         {
             "key": "EP08_S0051_0029",
-            "value": "みんなもこっちに戻ってるかもしれないって\n期待するのは、やっぱり都合が良すぎるかな……？"
+            "value": "It’s probably too much to hope that they all\nmade it back to this world too."
         },
         {
             "key": "EP08_S0051_0030",
-            "value": "私……ごめんなさい"
+            "value": "I... I’m sorry."
         },
         {
             "key": "EP08_S0051_0031",
-            "value": "あっ、ごめん！　ミユキのせいだって\n言いたいわけじゃないんだ……！"
+            "value": "Oh, no! I didn’t mean to imply that it was\nyour fault or anything."
         },
         {
             "key": "EP08_S0051_0032",
-            "value": "そうだよ！\nミユキは悪くないよー！"
+            "value": "That’s right! It’s not your fault at all!"
         },
         {
             "key": "EP08_S0051_0033",
-            "value": "ち、違うの……！\n私、別のこと考えちゃって……"
+            "value": "No, no! Sorry, I was just thinking about\nsomething else."
         },
         {
             "key": "EP08_S0051_0034",
-            "value": "もちろん、他のみんなのことも\n心配なんだけど……っ"
+            "value": "Although I am worried about the others too."
         },
         {
             "key": "EP08_S0051_0035",
-            "value": "（あ……そっか\n　きっとミユキはハルのことを心配してるんだ）"
+            "value": "(Oh, I get it. Miyuki must be worried about\nHaru.)"
         },
         {
             "key": "EP08_S0051_0036",
-            "value": "（当たり前だよな）"
+            "value": "(That makes sense.)"
         },
         {
             "key": "EP08_S0051_0037",
-            "value": "今って、いつ……なんだろう……？"
+            "value": "So...when is it right now?"
         },
         {
             "key": "EP08_S0051_0038",
-            "value": "え……？"
+            "value": "Hm?"
         },
         {
             "key": "EP08_S0051_0039",
-            "value": "あっ、いえ……私、ずっとぼんやりしてたから\n時間の感覚もわからなくって……"
+            "value": "Oh, you know, I’ve been out of it for\na while, and I’ve lost all track of time."
         },
         {
             "key": "EP08_S0051_0040",
-            "value": "ちょっと……気になって……"
+            "value": "It’s...kind of been bothering me."
         },
         {
             "key": "EP08_S0051_0041",
-            "value": "確か、僕たちがあっちの世界に行ってから\n１週間くらいは経ってるはずだけど……"
+            "value": "I’m pretty sure it’s been about a week since\nwe first arrived in that other world."
         },
         {
             "key": "EP08_S0051_0042",
-            "value": "（ってことは、こっちでは僕たちが\n　何日も行方不明になってるってことで）"
+            "value": "(Meaning we’ve been missing for several days\nnow.)"
         },
         {
             "key": "EP08_S0051_0043",
-            "value": "（騒ぎになってるはずだよな……？）"
+            "value": "(I’m sure that’s caused a big stir.)"
         },
         {
             "key": "EP08_S0051_0044",
-            "value": "（これは……マズイかも\n　ミノルたちが戻ってないのに）"
+            "value": "(This...could be bad, especially since Minoru\nand the others still aren’t back yet.)"
         },
         {
             "key": "EP08_S0051_0045",
-            "value": "（今までどこに行ってたとか、みんながまだ\n　あっちの世界にいるってことを説明できない……！）"
+            "value": "(I’ll never be able to explain what happened\nwith the others still in that other world.)"
         },
         {
             "key": "EP08_S0051_0046",
-            "value": "（どうしよう……）"
+            "value": "(What am I going to do?)"
         },
         {
             "key": "EP08_S0051_0047",
-            "value": "あっ、あの……タクマさん！\nちょっと、マズイかも……です！"
+            "value": "Um...Takuma? We...might have a problem!"
         },
         {
             "key": "EP08_S0051_0048",
-            "value": "（今度はなんだ？）"
+            "value": "(What now?)"
         },
         {
             "key": "EP08_S0051_0049",
-            "value": "あっちの人たちが、アグモンのほうを\nちらちら見てる気が……"
+            "value": "Those people over there... They keep looking\nin Agumon’s direction."
         },
         {
             "key": "EP08_S0051_0050",
-            "value": "って、そうだった！\nアグモン、急いで隠れて！"
+            "value": "Oh, right! Agumon, you need to hide, quick!"
         },
         {
             "key": "EP08_S0051_0051",
-            "value": "えっ？　えっ？\nタクマ、どうしてなんだ？？"
+            "value": "Huh? But why, Takuma?"
         },
         {
             "key": "EP08_S0051_0052",
-            "value": "言ったろ？\nこっちの世界じゃアグモンはすごく珍しいんだ"
+            "value": "Remember how we talked about there not being\nanything like you in this world?"
         },
         {
             "key": "EP08_S0051_0053",
-            "value": "もし見つかったら、大変なことになる……！"
+            "value": "If they find you, things could get real bad!"
         },
         {
             "key": "EP08_S0051_0054",
-            "value": "でも～……！"
+            "value": "But do I really have to hide?"
         },
         {
             "key": "EP08_S0051_0055",
-            "value": "少しの間……僕とミユキがあの人たちに\n話を聞くまでの間だけだから、隠れてて……！"
+            "value": "Just for a little while! Stay out of sight\nwhile Miyuki and I go talk to them, okay?"
         },
         {
             "key": "EP08_S0051_0056",
-            "value": "ん～……わかったよぉ～……"
+            "value": "Oh, all right. If you say so..."
         },
         {
             "key": "EP08_S0051_0057",
-            "value": "少しの間だけだからね～！"
+            "value": "But it better not be for long!"
         },
         {
             "key": "EP08_S0051_0058",
-            "value": "ふぅ……ひとまず、見つかる前に\n何とかなったかな"
+            "value": "Phew... I think we actually managed to take\ncare of that before anybody noticed."
         },
         {
             "key": "EP08_S0051_0059",
-            "value": "ふふ……そうだね"
+            "value": "Heheh, I think so too."
         },
         {
             "key": "EP08_S0051_0060",
-            "value": "それで、あの人たちに話を聞くって言ってたけど\n何を聞くの？"
+            "value": "But you said you wanted to go talk with those\npeople, right? What do you want to find out?"
         },
         {
             "key": "EP08_S0051_0061",
-            "value": "まずは、こっちの世界で僕たちのことが\nどうなってるかを確認したい"
+            "value": "First of all, I want to know what people in\nthis world think of our disappearance."
         },
         {
             "key": "EP08_S0051_0062",
-            "value": "僕たちやミユキが、何日も行方不明になってたんだ\n絶対に騒ぎになってると思うんだけど……"
+            "value": "We’ve been missing for days, and that’s sure\nto have caused some sort of commotion."
         },
         {
             "key": "EP08_S0051_0063",
-            "value": "そ……そうだよね"
+            "value": "Yeah..."
         },
         {
             "key": "EP08_S0051_0064",
-            "value": "とにかく、<color=#B41919>あの人たち</color>に話を聞いてみよう"
+            "value": "Anyway, let’s see what <color=#B41919>they</color> have to say\nabout it."
         }
     ]
 }

@@ -2,227 +2,227 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1900_0001",
-			"value":"教授……\nこんなところにいたんですか"
+			"value":"Professor, I didn’t realize you were here."
 		},
 		{
 			"key":"EP06_S1900_0002",
-			"value":"タクマくんか、みんなの様子はどうかな？"
+			"value":"Oh, is that you, Takuma? How’s everybody\nholding up?"
 		},
 		{
 			"key":"EP06_S1900_0003",
-			"value":"えっと……"
+			"value":"Uhh..."
 		},
 		{
 			"key":"EP06_S1900_0004",
-			"value":"（正直、いい状態とはいえないけど……\n　教授にそのまま伝えていいのかな）"
+			"value":"(Honestly, we’re not doing great...\nBut should I really say that?)"
 		},
 		{
 			"key":"EP06_S1900_0005",
-			"value":"（教授は自分だって大変な目に遭ったのに\n　僕らを休ませようと代わりに頑張ってくれてる）"
+			"value":"(The professor’s been through a lot,\nyet he’s working hard so we can rest more.)"
 		},
 		{
 			"key":"EP06_S1900_0006",
-			"value":"（正直に話して、これ以上の心配をかけるのは\n　よくないかもしれない）"
+			"value":"(Might not be a good idea to stress him out\nwith the honest truth.)"
 		},
 		{
 			"key":"EP06_S1900_0007",
-			"value":"（かといって嘘をついても\n　後でバレるだろうし……うーん）"
+			"value":"(Then again,\nbeing dishonest might cause trouble later.)"
 		},
 		{
 			"key":"EP06_S1900_Q1",
-			"value":"（教授の質問にどう答えよう？）"
+			"value":"(How should I respond to the professor?)"
 		},
 		{
 			"key":"EP06_S1900_Q1_A1",
-			"value":"元気とは言えません"
+			"value":"Not great."
 		},
 		{
 			"key":"EP06_S1900_Q1_A2",
-			"value":"みんな苛立っています"
+			"value":"Everyone’s on edge."
 		},
 		{
 			"key":"EP06_S1900_Q1_A3",
-			"value":"多分、大丈夫ですよ"
+			"value":"We’ll be fine."
 		},
 		{
 			"key":"EP06_S1900_0009",
-			"value":"あまり元気とは言えません\nみんな疲れ切っています"
+			"value":"Well, I wouldn’t say we’re great.\nEveryone’s totally exhausted."
 		},
 		{
 			"key":"EP06_S1900_0010",
-			"value":"そうだろうな\n君は大丈夫なのか"
+			"value":"I figured as much.\nBut how are you?"
 		},
 		{
 			"key":"EP06_S1900_0011",
-			"value":"えっ、僕ですか？"
+			"value":"Me?"
 		},
 		{
 			"key":"EP06_S1900_0012",
-			"value":"他のみんなと同じ経験をしているんだから\n疲れていて然るべきだろう"
+			"value":"After everything that happened I thought\nyou’d be as exhausted as the others."
 		},
 		{
 			"key":"EP06_S1900_0013",
-			"value":"確かに、言われてみれば……"
+			"value":"I see what you mean..."
 		},
 		{
 			"key":"EP06_S1900_0014",
-			"value":"でも、大丈夫です\n他のみんなも心配だし"
+			"value":"But I feel fine.\nI’m just worried about the others."
 		},
 		{
 			"key":"EP06_S1900_0015",
-			"value":"君がいいなら止めないが、無理はするなよ"
+			"value":"I won’t stop you if you’re okay,\nbut don’t push yourself too hard."
 		},
 		{
 			"key":"EP06_S1900_0017",
-			"value":"みんなとても苛立ってます\n喧嘩もしているし"
+			"value":"Everyone’s really agitated.\nPeople are fighting."
 		},
 		{
 			"key":"EP06_S1900_0018",
-			"value":"疲れと不安、恐怖\n刺々しくなるのも当たり前だろう"
+			"value":"The exhaustion, the stress, the fear...\nNo wonder everyone’s on edge."
 		},
 		{
 			"key":"EP06_S1900_0019",
-			"value":"君は大丈夫なのか？\n不安や恐怖を抱いてはいないか？"
+			"value":"But you’re okay?\nWhere’s your exhaustion and fear?"
 		},
 		{
 			"key":"EP06_S1900_0020",
-			"value":"少しはありますけど\nみんなほどじゃないです"
+			"value":"I feel some,\nbut not as bad as the others."
 		},
 		{
 			"key":"EP06_S1900_0021",
-			"value":"そうか……君は心が強いのかもしれないな\n或いは自分をきちんと持っているのか"
+			"value":"I see. You might be stronger of heart.\nOr, you’re going through the same as them."
 		},
 		{
 			"key":"EP06_S1900_0022",
-			"value":"だが、無理をしてはいけない\n心のダメージは、身体と違って見えにくいのだから"
+			"value":"Don’t push yourself too hard.\nMental hurt is harder to see than physical."
 		},
 		{
 			"key":"EP06_S1900_0024",
-			"value":"た、多分、大丈夫ですよ\n心配しなくても……"
+			"value":"I...think I’m okay.\nDon’t worry."
 		},
 		{
 			"key":"EP06_S1900_0025",
-			"value":"なるほど、みんな疲れているようだね"
+			"value":"I see. Everyone seems very tired."
 		},
 		{
 			"key":"EP06_S1900_0026",
-			"value":"う……どうしてわかったんですか"
+			"value":"Yeah, but...how’d you know?"
 		},
 		{
 			"key":"EP06_S1900_0027",
-			"value":"年の功、とだけ言っておくよ"
+			"value":"Let’s say it comes with age."
 		},
 		{
 			"key":"EP06_S1900_0028",
-			"value":"私を心配して誤魔化してくれたのだろうが\n気遣いはいらないよ"
+			"value":"There’s no need to lie to prevent me\nfrom getting worried."
 		},
 		{
 			"key":"EP06_S1900_0029",
-			"value":"私は大人だ、齢を重ねた分\n君たちを守る義務と、そのための知識がある"
+			"value":"I’m an adult, and my age means I must\nuse my experience to protect you."
 		},
 		{
 			"key":"EP06_S1900_0030",
-			"value":"変に遠慮をされる方がよくない結果に繋がる\nもっと頼ってくれればいい"
+			"value":"Trying to hold yourself back won’t help.\nPlease rely on me as you need to."
 		},
 		{
 			"key":"EP06_S1900_0031",
-			"value":"タクマくんはすでに実感していると思うが\nケモノガミは己の心のあり方次第でその姿を変える"
+			"value":"As I think you’ve noticed, the Kemonogami\nchange based on your inner state."
 		},
 		{
 			"key":"EP06_S1900_0032",
-			"value":"はい、そのようですね"
+			"value":"Yeah, that seems to be true."
 		},
 		{
 			"key":"EP06_S1900_0033",
-			"value":"だから、みな強い気持ちでいて欲しい\n……しかし、これがなかなか難しい"
+			"value":"That’s why I want everyone to be strong.\nHowever, I realize that may be a tall order."
 		},
 		{
 			"key":"EP06_S1900_0034",
-			"value":"……そうですね"
+			"value":"To say the least..."
 		},
 		{
 			"key":"EP06_S1900_0035",
-			"value":"だが、己の心に忠実でさえあれば、\n必ず難局は乗り越えられる"
+			"value":"Nonetheless, as long as you remain true to\nyourselves, you will overcome this ordeal."
 		},
 		{
 			"key":"EP06_S1900_0036",
-			"value":"私はそう信じている"
+			"value":"That’s what I believe, at least."
 		},
 		{
 			"key":"EP06_S1900_0037",
-			"value":"……はい"
+			"value":"I hope you’re right..."
 		},
 		{
 			"key":"EP06_S1900_0038",
-			"value":"それにしても、ケモノガミと君たちの関係は不思議だ\nまるで、それぞれ一つのつがい……"
+			"value":"Still your connection with the Kemonogami is\nmysterious. Each is like it’s own pairing..."
 		},
 		{
 			"key":"EP06_S1900_0039",
-			"value":"いや、これは正しくない……そうだ\nそれぞれが呼応しているかのような感じだ"
+			"value":"No, that’s not right. More like, they’re each\nresonating uniquely with their partner."
 		},
 		{
 			"key":"EP06_S1900_0040",
-			"value":"呼応している……か"
+			"value":"Huh. I hadn’t thought about it like that..."
 		},
 		{
 			"key":"EP06_S1900_0041",
-			"value":"私は前途ある若者が倒れるのは見たくない\nもう同じ後悔はしたくないんだよ"
+			"value":"I don’t want to see another young person lose\ntheir future. I don’t want that regret."
 		},
 		{
 			"key":"EP06_S1900_0042",
-			"value":"……シュウジくんがあんなことになってしまったのは\n大人である、私の責任だ"
+			"value":"What happened to Shuuji was my fault. I’m\nthe adult. I should’ve done more."
 		},
 		{
 			"key":"EP06_S1900_0043",
-			"value":"そんな……！　教授のせいってわけじゃ……"
+			"value":"What? Professor, you can’t blame yourself for\nwhat—"
 		},
 		{
 			"key":"EP06_S1900_0044",
-			"value":"いや、シュウジくんの変化に気がついてやれなかった\nそれだけで、充分責任は重い"
+			"value":"No, I failed to notice Shuuji changing. That\nalone was a grave mistake on my part."
 		},
 		{
 			"key":"EP06_S1900_0045",
-			"value":"私はもっと、シュウジくんと話をすべきだった\nそうすれば彼の悩みに近づけたかもしれない"
+			"value":"I should’ve talked to him more. I might’ve\nfigured out what was bothering him inside."
 		},
 		{
 			"key":"EP06_S1900_0046",
-			"value":"ロップモンもあのような姿に\n変わることはなかっただろう"
+			"value":"Lopmon had never transformed in that manner\nbefore, either."
 		},
 		{
 			"key":"EP06_S1900_0047",
-			"value":"あのような……って\nどういうことですか？"
+			"value":"Manner? In what manner? What are you talking\nabout, Professor?"
 		},
 		{
 			"key":"EP06_S1900_0048",
-			"value":"彼らケモノガミは、君たちの心の在り様を映して\n姿を変えるのではないか……私はそう考えている"
+			"value":"The Kemonogami reflect our inner state and\nchange accordingly... I believe so, at least."
 		},
 		{
 			"key":"EP06_S1900_0049",
-			"value":"だからロップモンもシュウジくんの\n迷いを映し、ウェンディモンへと姿を変えた"
+			"value":"That’s why Lopmon reflected Shuuji’s\nconfusion and transformed into Wendigomon."
 		},
 		{
 			"key":"EP06_S1900_0050",
-			"value":"だが、そうした仮説を思いついていながら\n私はシュウジくんに対し何も手を打てなかった"
+			"value":"But even with my theory I was unable to do\nanything to help poor Shuuji."
 		},
 		{
 			"key":"EP06_S1900_0051",
-			"value":"……その責任は、いずれ取るべきだと思う"
+			"value":"And at the end of the day, that is something\nI must take responsibility for."
 		},
 		{
 			"key":"EP06_S1900_0052",
-			"value":"教授……"
+			"value":"Professor..."
 		},
 		{
 			"key":"EP06_S1900_0053",
-			"value":"……さて、私は他の場所を見て回るとしよう\n他にも確かめておきたいところがあるからね"
+			"value":"On that note, I think I’m going to look\nelsewhere to confirm some other things."
 		},
 		{
 			"key":"EP06_S1900_0054",
-			"value":"わかりました……お気をつけて"
+			"value":"Okay. Be careful, Professor."
 		},
 		{
 			"key":"EP06_S1900_0055",
-			"value":"（教授は辺りの探索をしてくれている……\n　今は他のみんなの様子を見ておこう）"
+			"value":"(The professor is exploring for us.\nI should go check on everyone.)"
 		}
 	]
 }

@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1158_0001",
-			"value":"誰もいないなー"
+			"value":"There’s nobody here..."
 		},
 		{
 			"key":"EP02_S1158_0002",
-			"value":"そうか\nもう少し捜したら、他のところも見てみよう"
+			"value":"I guess not. I’ll look around a bit more,\nthen let’s head somewhere else."
 		},
 		{
 			"key":"EP02_S1158_0003",
-			"value":"おう！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP02_S1158_0004",
-			"value":"頑張って捜すぞ～！"
+			"value":"We can’t leave any stone unturned!"
 		}
 	]
 }

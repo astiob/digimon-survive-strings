@@ -2,211 +2,211 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1209_0001",
-			"value":"うーん……\nこの辺りにもいないみたいだな……"
+			"value":"Hmm...\nThey’re not around here."
 		},
 		{
 			"key":"EP02_S1209_0002",
-			"value":"教授たちはいったいどこに行ったんだろうな"
+			"value":"Where did they all go?"
 		},
 		{
 			"key":"EP02_S1209_0003",
-			"value":"タクマは何か見つけたか？"
+			"value":"Did you find something, Takuma?"
 		},
 		{
 			"key":"EP02_S1209_0004",
-			"value":"いや、特には"
+			"value":"No, not really..."
 		},
 		{
 			"key":"EP02_S1209_0005",
-			"value":"そっか……\nオレはもう少し奥の方を捜してみるよ"
+			"value":"Okay...\nI’ll keep looking around back there."
 		},
 		{
 			"key":"EP02_S1209_0006",
-			"value":"私はもう一度校舎の周りを見てみようかしら……\nもしかしたら入れ違いになってるかもしれないし"
+			"value":"Let me take a look around the school again.\nWe might have just missed them."
 		},
 		{
 			"key":"EP02_S1209_0007",
-			"value":"それに、ミユキちゃんとハルくんの様子も\n気になるから"
+			"value":"I’m also worried about Miyuki and Haru."
 		},
 		{
 			"key":"EP02_S1209_0008",
-			"value":"オレはお前の後ろをついて行く……"
+			"value":"I’ll follow you..."
 		},
 		{
 			"key":"EP02_S1209_0009",
-			"value":"電波もつながらない状況で\nはぐれたらやべーからな……"
+			"value":"With no signal, we need to stick together!"
 		},
 		{
 			"key":"EP02_S1209_0010",
-			"value":"だから、早く先に行けよな！"
+			"value":"Get going, then!"
 		},
 		{
 			"key":"EP02_S1209_0011",
-			"value":"（みんな頑張ってる……\n　なのに、これだけ捜しても見つからないなんて）"
+			"value":"(Everyone’s looking so hard...\nWhy haven’t we found them yet?)"
 		},
 		{
 			"key":"EP02_S1209_Q1",
-			"value":"（一体、みんなは……？）"
+			"value":"(Those guys, are they...)"
 		},
 		{
 			"key":"EP02_S1209_Q1_A1",
-			"value":"無事なのか心配だ……"
+			"value":"Safe? I’m worried..."
 		},
 		{
 			"key":"EP02_S1209_Q1_A2",
-			"value":"本当にここにいるのかな"
+			"value":"Really around here?"
 		},
 		{
 			"key":"EP02_S1209_Q1_A3",
-			"value":"お腹、空いてるだろうな"
+			"value":"Hungry, you think?"
 		},
 		{
 			"key":"EP02_S1209_0012",
-			"value":"みんな、無事なのかな"
+			"value":"Are they all okay?"
 		},
 		{
 			"key":"EP02_S1209_0013",
-			"value":"そうよね……あのドクグモンみたいな凶暴なものに\n出くわしていることもあるでしょうし……"
+			"value":"I know, right? They might have run into that\nDokugumon thing..."
 		},
 		{
 			"key":"EP02_S1209_0014",
-			"value":"心配だ～……"
+			"value":"I’m worried..."
 		},
 		{
 			"key":"EP02_S1209_0015",
-			"value":"普通に死ぬだろ"
+			"value":"They’d die if that happened."
 		},
 		{
 			"key":"EP02_S1209_0016",
-			"value":"ちょっとリョウくん！"
+			"value":"Stop it, Ryo!"
 		},
 		{
 			"key":"EP02_S1209_0017",
-			"value":"オレらは運が良かっただけだろ\n現実見ろよ……"
+			"value":"We’ve just been lucky.\nLook around you..."
 		},
 		{
 			"key":"EP02_S1209_0018",
-			"value":"そうかも、しれないけどっ……"
+			"value":"That may be true, but..."
 		},
 		{
 			"key":"EP02_S1209_0019",
-			"value":"みんな、本当にここにいるのかな"
+			"value":"Are they really here somewhere?"
 		},
 		{
 			"key":"EP02_S1209_0020",
-			"value":"おいおい……今さらそこ疑うのかよ"
+			"value":"Hey. Don’t give up on them now."
 		},
 		{
 			"key":"EP02_S1209_0021",
-			"value":"だって、これだけ捜しても見つからないんだし……"
+			"value":"But we’ve looked and looked..."
 		},
 		{
 			"key":"EP02_S1209_0022",
-			"value":"教授の帽子を見たでしょう？\nあれだけがこの世界に来たなんてことあるかしら？"
+			"value":"You saw the professor’s hat, right?\nYou think only his hat made it here?"
 		},
 		{
 			"key":"EP02_S1209_0023",
-			"value":"うーん、ないとは言い切れないと思うけどな"
+			"value":"That wouldn’t be impossible, but..."
 		},
 		{
 			"key":"EP02_S1209_0024",
-			"value":"う～ん……わかんなくなっちゃった"
+			"value":"I’m all confused now."
 		},
 		{
 			"key":"EP02_S1209_0025",
-			"value":"しっかりしてくれよタクマ！\nお前がブレちまったら収集つかないだろ！"
+			"value":"Keep it together, Takuma.\nWe’re all counting on you!"
 		},
 		{
 			"key":"EP02_S1209_0026",
-			"value":"今はとにかくアイツらの行方を捜そうぜ！"
+			"value":"For now, let’s focus on looking for them!"
 		},
 		{
 			"key":"EP02_S1209_0027",
-			"value":"ご、ごめん……そうだよな"
+			"value":"Yeah, you’re right. Sorry..."
 		},
 		{
 			"key":"EP02_S1209_0028",
-			"value":"みんな、お腹空いてるだろうな"
+			"value":"They must be hungry."
 		},
 		{
 			"key":"EP02_S1209_0029",
-			"value":"いま気にすることかよ……"
+			"value":"You just realized that now?"
 		},
 		{
 			"key":"EP02_S1209_0030",
-			"value":"はは、でもそれ大事だよな"
+			"value":"Yeah, but that’s important too."
 		},
 		{
 			"key":"EP02_S1209_0031",
-			"value":"腹減ってると、冷静じゃいられなくなるんだ\nサバイバルでそうなったらマジでヤバい"
+			"value":"Hunger makes you irrational.\nAnd it makes it hard to survive!"
 		},
 		{
 			"key":"EP02_S1209_0032",
-			"value":"お腹が空いたら、悲しくなるな～……"
+			"value":"And you’re sad when you’re hungry..."
 		},
 		{
 			"key":"EP02_S1209_0033",
-			"value":"だから、早く見つけてやって\n食べ物いっぱい食わしてやろうぜ！"
+			"value":"That’s why we need to find them!\nWe’ve got to get them some food!"
 		},
 		{
 			"key":"EP02_S1209_0034",
-			"value":"ああ！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP02_S1209_0035",
-			"value":"ん……どうしたんだ？\nラブラモン"
+			"value":"Huh? Labramon?\nYou okay?"
 		},
 		{
 			"key":"EP02_S1209_0036",
-			"value":"この辺りに獣の匂いがするのよ……\nただ、正確な位置まではつかめないわ"
+			"value":"There’s a scent here...\nBut I can’t tell where, exactly."
 		},
 		{
 			"key":"EP02_S1209_0037",
-			"value":"敵が潜んでいるっていうの！？"
+			"value":"Is something hiding out there?"
 		},
 		{
 			"key":"EP02_S1209_0038",
-			"value":"まだ敵か味方かはわからないわ……"
+			"value":"I’m not sure whether it’s friend or foe..."
 		},
 		{
 			"key":"EP02_S1209_0039",
-			"value":"でもこの匂いの主……かなり強い……"
+			"value":"But it’s a strong scent..."
 		},
 		{
 			"key":"EP02_S1209_0040",
-			"value":"この辺りに何かいた痕跡があるな"
+			"value":"There are traces of something around here."
 		},
 		{
 			"key":"EP02_S1209_0041",
-			"value":"痕跡……？\nそんなのどこにもねーぞ！"
+			"value":"Traces?\nBut nowhere else?"
 		},
 		{
 			"key":"EP02_S1209_0042",
-			"value":"カメラで見ると何か映り込むかも！\nタクマ見てみてくれよ！"
+			"value":"Something might show up on camera!\nTake a look, Takuma!"
 		},
 		{
 			"key":"EP02_S1209_0043",
-			"value":"うわああ！"
+			"value":"Whoa!"
 		},
 		{
 			"key":"EP02_S1209_0044",
-			"value":"なんだこれ～！？"
+			"value":"What is this?!"
 		},
 		{
 			"key":"EP02_S1209_0045",
-			"value":"すごい数の獣の足跡だ！\n教授が危ない！"
+			"value":"The footprints of a bunch of creatures!\nThe professor’s in danger!"
 		},
 		{
 			"key":"EP02_S1209_0046",
-			"value":"痕跡はこの奥に向かっているようだな"
+			"value":"They’re heading away from us..."
 		},
 		{
 			"key":"EP02_S1209_0047",
-			"value":"祠の方だ！"
+			"value":"To the shrine!"
 		},
 		{
 			"key":"EP02_S1209_0048",
-			"value":"（また危険なヤツが出てくるのか？\n　教授、無事だといいけど……）"
+			"value":"(Is something dangerous coming?\nI hope the professor is safe...)"
 		}
 	]
 }

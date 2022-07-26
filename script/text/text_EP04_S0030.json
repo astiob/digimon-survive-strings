@@ -2,699 +2,699 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0030_0001",
-			"value":"うわあ……ホントに遊園地だ\nあちこち、ガタは来てるようだけど……"
+			"value":"Whoa... This really is an amusement park.\nEven if it does look a bit run down."
 		},
 		{
 			"key":"EP04_S0030_0002",
-			"value":"ボロボロの校舎と比べたら\nぜんぜん綺麗なものよね"
+			"value":"Compared to the state the school’s in, this\nplace is practically brand new."
 		},
 		{
 			"key":"EP04_S0030_0003",
-			"value":"ロープウェイを見た時も驚いたけれど\nなんだか不思議な感じがするわね"
+			"value":"Seeing that cable car was surprising enough,\nbut something about this place is just weird."
 		},
 		{
 			"key":"EP04_S0030_0004",
-			"value":"なんだろう……ちょっと恐いわよね"
+			"value":"It’s kind of creepy, honestly."
 		},
 		{
 			"key":"EP04_S0030_0005",
-			"value":"えっ、どうしてどうして？"
+			"value":"Huh? Why’s that?"
 		},
 		{
 			"key":"EP04_S0030_0006",
-			"value":"ゆーえんちって、コワイところなの？"
+			"value":"Are amusement parks normally scary?"
 		},
 		{
 			"key":"EP04_S0030_0007",
-			"value":"いや、遊園地そのものが\n怖いわけじゃないんだよ。ただ……"
+			"value":"No, it’s not the amusement park itself that’s\ncreepy, it’s more like..."
 		},
 		{
 			"key":"EP04_S0030_0008",
-			"value":"こうやって見ると\nちょっと不気味っていうか……な？"
+			"value":"It’s weird seeing it like this, I guess?"
 		},
 		{
 			"key":"EP04_S0030_0009",
-			"value":"まあね。子供の笑い声もない無人の遊園地なんて\nそりゃ、こ……恐いに決まってるよ"
+			"value":"For sure. An empty amusement park gone\ntotally silent... That’s definitely spooky."
 		},
 		{
 			"key":"EP04_S0030_0010",
-			"value":"無理はしなくて良いんだぞ\nここはオレが様子を……"
+			"value":"I can look around on my own if you’d rather\nnot go in."
 		},
 		{
 			"key":"EP04_S0030_0011",
-			"value":"いいや、オレが一番に入るね！\nそーれっ！"
+			"value":"Oh no, I’m gonna be the first one inside!\nHere goes nothing!"
 		},
 		{
 			"key":"EP04_S0030_0012",
-			"value":"お、おい！　ミノル！"
+			"value":"Wait! Minoru!"
 		},
 		{
 			"key":"EP04_S0030_0013",
-			"value":"ふぅ"
+			"value":"Whew!"
 		},
 		{
 			"key":"EP04_S0030_0014",
-			"value":"へへへ、良かったな、\nチケット代は払わなくて良いみたいだ"
+			"value":"Haha, can you believe this? We get in for\nfree. Who needs a season pass now?"
 		},
 		{
 			"key":"EP04_S0030_0015",
-			"value":"まったく……慎重に行動すべきだと言うのに……"
+			"value":"Unbelievable. Did we not establish that we\nshould proceed with caution?"
 		},
 		{
 			"key":"EP04_S0030_0016",
-			"value":"な、なんだよー\nこれくらいどってことないだろー？"
+			"value":"Oh, come on. That was nothing!"
 		},
 		{
 			"key":"EP04_S0030_0017",
-			"value":"（軽口を叩いてるけど、\n　足は震えてるな、ミノルのやつ……）"
+			"value":"(Minoru’s trying to play it cool, but I can\nsee the way his legs are shaking.)"
 		},
 		{
 			"key":"EP04_S0030_0018",
-			"value":"（まあ、見なかった事にしてやろう）"
+			"value":"(I’ll just pretend I didn’t notice.)"
 		},
 		{
 			"key":"EP04_S0030_0019",
-			"value":"それで……これから\nどうしたらいいかしら？"
+			"value":"So, what do we do now?"
 		},
 		{
 			"key":"EP04_S0030_0020",
-			"value":"あらアオイ、目的は\nミウを捜すこと……でしょ？"
+			"value":"What do you mean, Aoi? Didn’t we come here to\nlook for Miu?"
 		},
 		{
 			"key":"EP04_S0030_0021",
-			"value":"ええ、それはもちろんそうだけど\nこの中のどこにいるかも、見当がつかないから"
+			"value":"Yes, that much is clear, but she could be\nanywhere in this entire park."
 		},
 		{
 			"key":"EP04_S0030_0022",
-			"value":"んなもん、片っ端から捜すしかねーだろ"
+			"value":"So we just gotta search the place from corner\nto corner."
 		},
 		{
 			"key":"EP04_S0030_0023",
-			"value":"違いねーけど\nちっと、効率が悪くねーか？"
+			"value":"Sure, but doesn’t that seem a little less\nthan efficient?"
 		},
 		{
 			"key":"EP04_S0030_0024",
-			"value":"とにかく中は広そうだし\n手分けして捜そうか？"
+			"value":"This place is pretty big. Why don’t we split\nup?"
 		},
 		{
 			"key":"EP04_S0030_0025",
-			"value":"さんせー！\nボクは、タクマと一緒に捜すぞ"
+			"value":"Good idea! I’ll go with you, Takuma!"
 		},
 		{
 			"key":"EP04_S0030_0026",
-			"value":"じゃ、じゃあ、ボクもシュウジと……"
+			"value":"Then, uh, I’ll go with Shuuji."
 		},
 		{
 			"key":"EP04_S0030_0027",
-			"value":"いや、バラけてはまた何があるかわからない\n戦いになった時も、戦力は分散させない方がいい"
+			"value":"No, we don’t know what might happen. We won’t\nwant to be separated if there’s a fight."
 		},
 		{
 			"key":"EP04_S0030_0028",
-			"value":"そうか、そうだね"
+			"value":"Yeah. You’ve got a point."
 		},
 		{
 			"key":"EP04_S0030_0029",
-			"value":"とにかく全員一丸となって動こう\n僕は……誰が欠けてもイヤだ"
+			"value":"We should all just stick together. I don’t\nwant anyone going missing."
 		},
 		{
 			"key":"EP04_S0030_0030",
-			"value":"（シュウジさん……朝はすっかり気落ちしてて\n　どうなるかと思ったけど）"
+			"value":"(With Shuuji as upset as he was this morning,\nI wasn’t sure what to expect,)"
 		},
 		{
 			"key":"EP04_S0030_0031",
-			"value":"（こっちに来てから\n　表情がしっかりしてきてるみたいだ）"
+			"value":"(but he’s seemed a lot more confident since\nwe got here.)"
 		},
 		{
 			"key":"EP04_S0030_0032",
-			"value":"（やっぱり、シュウジさんがしっかりしてると\n　少し安心できるな）"
+			"value":"(It really is reassuring when Shuuji is able\nto keep it together.)"
 		},
 		{
 			"key":"EP04_S0030_0033",
-			"value":"必ず……僕たちみんなで\n一緒に元の世界に帰るんだ、いいね！"
+			"value":"We are all going back to our world together.\nYou got that?"
 		},
 		{
 			"key":"EP04_S0030_0034",
-			"value":"は～い、わかりました～！\n……で、良いんでしょ？"
+			"value":"Yeah, Shuuji, I’m pretty sure we’ve all got\nthat."
 		},
 		{
 			"key":"EP04_S0030_0035",
-			"value":"チッ……まどろっこしいけど\n全員で固まっとかねーと、危ないしな"
+			"value":"Hmph... This is gonna take forever, but\nI guess there is safety in numbers."
 		},
 		{
 			"key":"EP04_S0030_0036",
-			"value":"シュウジさん、すっかり\n引率の先生みたいね……ふふっ"
+			"value":"Hee hee. Shuuji’s acting just like\na chaperone."
 		},
 		{
 			"key":"EP04_S0030_0037",
-			"value":"やれやれ……\n余計なマネしなきゃいいけどな"
+			"value":"Like we need one. I wish he’d cut the crap\nalready."
 		},
 		{
 			"key":"EP04_S0030_0038",
-			"value":"よし、それじゃあ中に……"
+			"value":"All right, let’s head in..."
 		},
 		{
 			"key":"EP04_S0030_0039",
-			"value":"（ん……？　この足音は……？）"
+			"value":"(Hrm? Are those...footsteps?)"
 		},
 		{
 			"key":"EP04_S0030_0040",
-			"value":"こら、オマエたち！"
+			"value":"You there, halt!"
 		},
 		{
 			"key":"EP04_S0030_0041",
-			"value":"えっ？\nう、うわぁ！？"
+			"value":"Huh? What the—?!"
 		},
 		{
 			"key":"EP04_S0030_0042",
-			"value":"侵入者め！"
+			"value":"Intruders!"
 		},
 		{
 			"key":"EP04_S0030_0043",
-			"value":"ここから先へは、通さないんだから！"
+			"value":"Not one more step!"
 		},
 		{
 			"key":"EP04_S0030_0044",
-			"value":"な、なんだ……！？　新しいバケモノ！？"
+			"value":"Wh-what now?! More monsters?!"
 		},
 		{
 			"key":"EP04_S0030_0045",
-			"value":"の、割には……\nなんていうか、ちっこいっていうか"
+			"value":"Although...these ones are a little on the\nsmall side."
 		},
 		{
 			"key":"EP04_S0030_0046",
-			"value":"か、かわいい……"
+			"value":"They’re so cute!"
 		},
 		{
 			"key":"EP04_S0030_0047",
-			"value":"あ、アオイ！？"
+			"value":"Um, Aoi?"
 		},
 		{
 			"key":"EP04_S0030_0048",
-			"value":"あっ！　ち、違うのよ！　違うの！\n今のはちょっと、うっかり言っちゃっただけで……！"
+			"value":"Oh! No! I didn’t mean to say anything, that\njust...slipped out!"
 		},
 		{
 			"key":"EP04_S0030_0049",
-			"value":"（アオイさんが思わず言っちゃうのは\n　わからなくもないけど……）"
+			"value":"(I can see why that would be her initial\nreaction, but...)"
 		},
 		{
 			"key":"EP04_S0030_0050",
-			"value":"（でも、こいつらいったい……？）"
+			"value":"(What are these things?)"
 		},
 		{
 			"key":"EP04_S0030_0051",
-			"value":"で、なんなんだ、てめぇらは\n邪魔するつもりなら、容赦はしねーぞ"
+			"value":"All right, what’s goin’ on here? ‘Cause if\nyou wanna stop me, you’re in for a fight!"
 		},
 		{
 			"key":"EP04_S0030_0052",
-			"value":"オマエたちはワルモノだな！"
+			"value":"Clearly you’re up to no good! That means\nwe’re enemies!"
 		},
 		{
 			"key":"EP04_S0030_0053",
-			"value":"女王様の命令で、排除する！"
+			"value":"You are to be eliminated, by order of Her\nMajesty, the queen!"
 		},
 		{
 			"key":"EP04_S0030_0054",
-			"value":"ここから出て行って！"
+			"value":"Leave this place at once!"
 		},
 		{
 			"key":"EP04_S0030_0055",
-			"value":"悪者とか、女王様とか……何の話？"
+			"value":"Uh, what’re they talking about? How can they\nbe so sure we’re enemies? Who’s this queen?"
 		},
 		{
 			"key":"EP04_S0030_0056",
-			"value":"全然わかんないよー？"
+			"value":"Who knows?"
 		},
 		{
 			"key":"EP04_S0030_0057",
-			"value":"しらばっくれても、ダメだからな！"
+			"value":"It’s no use trying to play dumb! You can’t\nfool us!"
 		},
 		{
 			"key":"EP04_S0030_0058",
-			"value":"待ってよ！\nボクたちは悪者なんかじゃないよ～！"
+			"value":"But wait! We’re not your enemies!"
 		},
 		{
 			"key":"EP04_S0030_0059",
-			"value":"だってオマエたちはコドモをさらう\n悪いモンスターって聞いてるよ！"
+			"value":"Oh yeah? Well, we heard you’re bad monsters\nwho kidnap children!"
 		},
 		{
 			"key":"EP04_S0030_0060",
-			"value":"悪いモンスターを、ここに入れるわけには\nいかないのよ！"
+			"value":"And there’s no bad monsters allowed in here!"
 		},
 		{
 			"key":"EP04_S0030_0061",
-			"value":"人さらいは、すぐに出てけー！"
+			"value":"Out with the kidnappers!"
 		},
 		{
 			"key":"EP04_S0030_0062",
-			"value":"ボクたちは、そんなことしないよー！"
+			"value":"We’re not kidnappers!"
 		},
 		{
 			"key":"EP04_S0030_0063",
-			"value":"いったい、何がどうなって\n僕らが子供をさらうって話になってるんだ……？？？"
+			"value":"Wait, how is this suddenly about whether or\nnot we’re kidnappers?"
 		},
 		{
 			"key":"EP04_S0030_0064",
-			"value":"オレたちは、アルケニモンってヤツに\nさらわれた子を捜してここに来たんだ"
+			"value":"We’re looking for a girl who was kidnapped by\na monster called Arukenimon."
 		},
 		{
 			"key":"EP04_S0030_0065",
-			"value":"ミウっていうんだ\n見なかったか？"
+			"value":"Her name is Miu. Have you seen her?"
 		},
 		{
 			"key":"EP04_S0030_0066",
-			"value":"アルケニモン！？\nあのド悪党のことね！"
+			"value":"Arukenimon? You mean that evil villain?!"
 		},
 		{
 			"key":"EP04_S0030_0067",
-			"value":"はっ！　まさかここに来たのも\nアルケニモンの命令で……！？"
+			"value":"Aha! You must be here on her orders!"
 		},
 		{
 			"key":"EP04_S0030_0068",
-			"value":"ついに正体をあらわしたな！"
+			"value":"Now the truth comes out!"
 		},
 		{
 			"key":"EP04_S0030_0069",
-			"value":"あんたたちはアイツの手下なのか！\nやっちまえー！"
+			"value":"You are servants of Arukenimon?! Well, we’ll\nshow you!"
 		},
 		{
 			"key":"EP04_S0030_0070",
-			"value":"いや、そうじゃなくて！\nダメだ、話が噛み合わないぞ……！"
+			"value":"No, you’ve got it all wrong! Gah, this isn’t\ngoing anywhere."
 		},
 		{
 			"key":"EP04_S0030_0071",
-			"value":"そもそも、そんなに大勢のニンゲンのコドモを\nさらって連れ歩いてるじゃないか、お前！"
+			"value":"Don’t deny it! We can see all the kidnapped\nchildren you’re walking around with!"
 		},
 		{
 			"key":"EP04_S0030_0072",
-			"value":"さらってないよ～！"
+			"value":"We didn’t kidnap them!"
 		},
 		{
 			"key":"EP04_S0030_0073",
-			"value":"いやオレ、さらわれてねーし！\nこいつらはオレたちの仲間だし！"
+			"value":"Hey man, I wasn’t kidnapped by anyone! These\nare our partners!"
 		},
 		{
 			"key":"EP04_S0030_0074",
-			"value":"いかにも。彼らは決して\n怪しい者でも、危害を加える者でもない"
+			"value":"Indeed. These are trustworthy creatures who\nmean you no harm."
 		},
 		{
 			"key":"EP04_S0030_0075",
-			"value":"ホント？　えっ、どういう事？\n女王様から聞いた話と違うじゃない"
+			"value":"Really? But then, what’s going on? That’s not\nwhat we heard from the queen."
 		},
 		{
 			"key":"EP04_S0030_0076",
-			"value":"どうする？\nどうしよ……"
+			"value":"Oh, what should we do? What should we do?!"
 		},
 		{
 			"key":"EP04_S0030_0077",
-			"value":"んむむむ……しょうがないから\nさ、さくせんカイギする！"
+			"value":"Hmmm, this calls for...a council of war!"
 		},
 		{
 			"key":"EP04_S0030_0078",
-			"value":"（何かザワザワしはじめたぞ……\n　こいつらも、悪い連中じゃなさそうだけど……）"
+			"value":"(Now they’re arguing about something. They\ndon’t seem like they’re all that bad.)"
 		},
 		{
 			"key":"EP04_S0030_0079",
-			"value":"なんか始まったみたいだけど……\nオレたちも、どうする？"
+			"value":"Looks like they’re up to something.\nSo what’s our plan here?"
 		},
 		{
 			"key":"EP04_S0030_0080",
-			"value":"とにかく、話を聞いてくれないかな"
+			"value":"Maybe we should just hear them out."
 		},
 		{
 			"key":"EP04_S0030_0081",
-			"value":"うるさい、うるさーい！\nあんな小さいコドモをさらってるくせにー！"
+			"value":"Uh-uh! No way! Just look at those two little\nchildren they’ve taken!"
 		},
 		{
 			"key":"EP04_S0030_0082",
-			"value":"そーだ！　そーだ！\nあっちの２人なんて、おびえて固まってるよ！"
+			"value":"Yeah, that’s right! They’re both frozen with\nfear!"
 		},
 		{
 			"key":"EP04_S0030_0083",
-			"value":"え……？　ぼくたちのこと？"
+			"value":"Huh? You mean...us?"
 		},
 		{
 			"key":"EP04_S0030_0084",
-			"value":"こと……？"
+			"value":"Us...?"
 		},
 		{
 			"key":"EP04_S0030_0085",
-			"value":"って、あれはおびえて固まってるんじゃなくて\nあの２人のデフォルトなの！"
+			"value":"Yeah, they’re not frozen with fear. Those two\nare just like that."
 		},
 		{
 			"key":"EP04_S0030_0086",
-			"value":"どうしたら、ボクたちが\nコドモをさらってないって、信じてくれるの？"
+			"value":"How do we convince you we haven’t kidnapped\nanyone?"
 		},
 		{
 			"key":"EP04_S0030_0087",
-			"value":"それを信じたら、女王様が\nウソつきってことになっちゃうじゃない！"
+			"value":"But if you really haven’t, that would make\nour queen a liar!"
 		},
 		{
 			"key":"EP04_S0030_0088",
-			"value":"じゃあ、嘘ついてんじゃねーの？"
+			"value":"What makes you so sure she’s not?"
 		},
 		{
 			"key":"EP04_S0030_0089",
-			"value":"ええい、聡明で無敵の魔法つかいの女王様が、\nウソなんておっしゃるモノか！"
+			"value":"Silence! Our wise and invincible sorceress of\na queen would not speak lies!"
 		},
 		{
 			"key":"EP04_S0030_0090",
-			"value":"あっ、またお前、女王様に気に入られようと思って\n心にもない事言って！"
+			"value":"Oh, you’re just trying to get on her good\nside again! You don’t really think that!"
 		},
 		{
 			"key":"EP04_S0030_0091",
-			"value":"だ、だって気に入られないと\n石にされちゃうし……"
+			"value":"But...if we don’t stay on her good side,\nshe’ll turn us all to stone!"
 		},
 		{
 			"key":"EP04_S0030_0092",
-			"value":"あわわ、今のはナイショね！"
+			"value":"Oh, whoops! Forget I said that!"
 		},
 		{
 			"key":"EP04_S0030_0093",
-			"value":"石にされるって……\nもしかして、脅されてるんじゃ……？"
+			"value":"She’ll turn you to stone? You mean you’re\nbeing threatened?"
 		},
 		{
 			"key":"EP04_S0030_0094",
-			"value":"なにそれ！\nだとしたら、女王様のほうが悪者じゃん！"
+			"value":"Yeah, that’s messed up. Sounds to me like\nyour queen’s the real villain."
 		},
 		{
 			"key":"EP04_S0030_0095",
-			"value":"石にされちゃうなんて、こわ～い！"
+			"value":"You said it! Getting turned to stone sounds\nscary!"
 		},
 		{
 			"key":"EP04_S0030_0096",
-			"value":"待てよ、そいつ、相手を石にするような\n力を持っているのか？！"
+			"value":"Hold on, so this queen really has the power\nto turn things into stone?"
 		},
 		{
 			"key":"EP04_S0030_0097",
-			"value":"そ、そうよ……仲間の一人が石ころになった所を\n女王様の御力で元にもどしたの！"
+			"value":"That’s right! She used her powers to restore\nher friend who’d been turned into a rock!"
 		},
 		{
 			"key":"EP04_S0030_0098",
-			"value":"石にするも、戻すも自由自在……\n奇跡の力の持ち主なの！"
+			"value":"She has the miraculous power to turn living\nthings to stone or bring them back to life!"
 		},
 		{
 			"key":"EP04_S0030_0099",
-			"value":"ここにも、そんな厄介な\nバケモノがいるなんて……"
+			"value":"So even here, there’s a monster with that\nkind of power..."
 		},
 		{
 			"key":"EP04_S0030_0100",
-			"value":"とにかく、その女王様に会わせてくれ"
+			"value":"I don’t care about any of that. Please, could\nyou take us to see this queen?"
 		},
 		{
 			"key":"EP04_S0030_0101",
-			"value":"いやよ！　お前たちに侵入されては\nわたしたちがどうなるかわかんないから～！"
+			"value":"Absolutely not! Who knows what might become\nof us if we allowed you to trespass here?"
 		},
 		{
 			"key":"EP04_S0030_0102",
-			"value":"じゃあ、オレたちが女王様を説得するなり、\n何だったら倒してやるからここを通せ！"
+			"value":"Look, we’ll either talk some sense into her\nor beat her up for you. Now let us through!"
 		},
 		{
 			"key":"EP04_S0030_0103",
-			"value":"それで良いだろう？"
+			"value":"That solves all your problems, right?"
 		},
 		{
 			"key":"EP04_S0030_0104",
-			"value":"エッ！？\nそ、そんなコト……"
+			"value":"What?! No, that’s... That’s not possible!"
 		},
 		{
 			"key":"EP04_S0030_0105",
-			"value":"どうしよう？　いい機会かも？"
+			"value":"What do you think? Could this be our chance?"
 		},
 		{
 			"key":"EP04_S0030_0106",
-			"value":"ま、待ってよ、こいつらなんかに\n女王様がやられるものか！"
+			"value":"Don’t get carried away! The queen’s not so\nweak she’d fall to the likes of them!"
 		},
 		{
 			"key":"EP04_S0030_0107",
-			"value":"そうだ！　そうだ！\nそれに女王様は言っていた！"
+			"value":"Right! There’s no way! Besides, remember what\nthe queen told us!"
 		},
 		{
 			"key":"EP04_S0030_0108",
-			"value":"おっきなニンゲンはワルモノだって！"
+			"value":"Big humans are all bad!"
 		},
 		{
 			"key":"EP04_S0030_0109",
-			"value":"こいつらは、おっきなニンゲンだから\nワルモノってことね！"
+			"value":"And these are all big humans, so all of them\nmust be bad!"
 		},
 		{
 			"key":"EP04_S0030_0110",
-			"value":"意義なーし！"
+			"value":"Yeah, no objections from me!"
 		},
 		{
 			"key":"EP04_S0030_0111",
-			"value":"おっきな人間……？\nそれって、どういう意味だ？"
+			"value":"Big humans? What’s that supposed to mean?"
 		},
 		{
 			"key":"EP04_S0030_0112",
-			"value":"体の大きさ……のことじゃないわよね？"
+			"value":"It can’t just be about size, right?"
 		},
 		{
 			"key":"EP04_S0030_0113",
-			"value":"大人のことを言ってるのかな？"
+			"value":"Right, you think they mean adults?"
 		},
 		{
 			"key":"EP04_S0030_0114",
-			"value":"いや、僕らは大人とは言えないと思うが……"
+			"value":"No, I’d hardly call us adults."
 		},
 		{
 			"key":"EP04_S0030_0115",
-			"value":"あーもう、ますますわかんねー！"
+			"value":"Man, this just gets more and more confusing!"
 		},
 		{
 			"key":"EP04_S0030_0116",
-			"value":"くそっ……そんなこと、どうでもいいだろ！"
+			"value":"Damn it! I don’t care about any of this!"
 		},
 		{
 			"key":"EP04_S0030_0117",
-			"value":"おい、いいから早く\nオレたちを、通してくれ！"
+			"value":"Come on, let us through already!"
 		},
 		{
 			"key":"EP04_S0030_0118",
-			"value":"フン！　とにかく！\nここを通りたいなら力ずくできなさい！"
+			"value":"Hmph! If you want to get in, you’ll have to\ngo through us!"
 		},
 		{
 			"key":"EP04_S0030_0119",
-			"value":"チッ……そういうことなら\nもっと早くやっときゃよかったぜ"
+			"value":"Man, if that’s how it’s gonna be, I wish\nyou’d said so from the start."
 		},
 		{
 			"key":"EP04_S0030_0120",
-			"value":"ふんっ、俺とカイトの得意技だからな"
+			"value":"Yeah, that’s kind of our strong suit."
 		},
 		{
 			"key":"EP04_S0030_0121",
-			"value":"いや、でも……"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP04_S0030_0122",
-			"value":"れ、冷静に話し合いましょ？"
+			"value":"C-can’t we just talk this out?"
 		},
 		{
 			"key":"EP04_S0030_0123",
-			"value":"そうよ！\n何でもかんでも戦えばいいってものじゃないわ！"
+			"value":"That’s right! Not every problem’s meant to be\nsolved by force!"
 		},
 		{
 			"key":"EP04_S0030_0124",
-			"value":"そんなこといって、だまそーとしてるでしょ！？"
+			"value":"You’re just trying to trick us, aren’t you?!"
 		},
 		{
 			"key":"EP04_S0030_0125",
-			"value":"なんかこう、ケモノ同士で\nいい感じに話つけてくれたりとか、できないの？"
+			"value":"You know, I don’t see why we can’t have the\nmonsters talk this out themselves."
 		},
 		{
 			"key":"EP04_S0030_0126",
-			"value":"できればそうしたいものだが"
+			"value":"That would be ideal."
 		},
 		{
 			"key":"EP04_S0030_0127",
-			"value":"タクマ、どうしたらいーと思う？"
+			"value":"What do you think we should do, Takuma?"
 		},
 		{
 			"key":"EP04_S0030_0128",
-			"value":"（どうしたらって……）"
+			"value":"(I’m really not sure.)"
 		},
 		{
 			"key":"EP04_S0030_0129",
-			"value":"（一番いいのは、争わずに何とかすることだけど\n　あっちが襲ってきたら、戦うしかないし）"
+			"value":"(Obviously it’d be best to avoid a fight, but\nif they attack us, we’ll have no choice.)"
 		},
 		{
 			"key":"EP04_S0030_0130",
-			"value":"（アグモンがうまいこと\n　話して説得してくれたらいい気もするけど……）"
+			"value":"(It’d be nice if Agumon could find a way to\nconvince them, though.)"
 		},
 		{
 			"key":"EP04_S0030_Q1",
-			"value":"（ここは、なんて言うべき……？）"
+			"value":"(What should I say?)"
 		},
 		{
 			"key":"EP04_S0030_Q1_A1",
-			"value":"争う気はない"
+			"value":"We don’t want a fight."
 		},
 		{
 			"key":"EP04_S0030_Q1_A2",
-			"value":"やるなら手加減しない"
+			"value":"You asked for this!"
 		},
 		{
 			"key":"EP04_S0030_Q1_A3",
-			"value":"アグモンに任せる"
+			"value":"Agumon, work this out."
 		},
 		{
 			"key":"EP04_S0030_0135",
-			"value":"争う気はない"
+			"value":"We don’t want a fight."
 		},
 		{
 			"key":"EP04_S0030_0136",
-			"value":"やめようよ\n僕たちは君らと争う気なんてないんだ"
+			"value":"Forget it. We don’t want to fight you."
 		},
 		{
 			"key":"EP04_S0030_0137",
-			"value":"こないと言うならこっちから行くわよ！\nとりゃ～！！"
+			"value":"If you won’t strike the first blow, then\nI will! Hiyaah!"
 		},
 		{
 			"key":"EP04_S0030_0138",
-			"value":"わ、わぁ～っ！　ヤメようよ～！\nイテテテテ！！"
+			"value":"Argh! Stop it! Ow!!!"
 		},
 		{
 			"key":"EP04_S0030_0139",
-			"value":"おいっ！　いい加減にしろよ！"
+			"value":"Hey! Enough already!"
 		},
 		{
 			"key":"EP04_S0030_0140",
-			"value":"お仕置きが必要みてーだな"
+			"value":"Looks like you could use a lesson."
 		},
 		{
 			"key":"EP04_S0030_0141",
-			"value":"や、やるのか！？\nやっぱりワルモノだ～～～！！"
+			"value":"Oh? Now you want to fight? I knew we couldn’t\ntrust you!"
 		},
 		{
 			"key":"EP04_S0030_0142",
-			"value":"やるなら手加減しない"
+			"value":"You asked for this!"
 		},
 		{
 			"key":"EP04_S0030_0143",
-			"value":"悪いけど、そっちがその気なら\nこっちも手加減なしで行くぞ！"
+			"value":"Sorry, but if that’s how you’re gonna be,\nwe’re not holding back. You asked for this!"
 		},
 		{
 			"key":"EP04_S0030_0144",
-			"value":"ボク、タクマのために頑張るぞ！"
+			"value":"I’ll give ‘em all I got for you, Takuma!"
 		},
 		{
 			"key":"EP04_S0030_0145",
-			"value":"必要とあらば、俺も全力でお相手させていただこう"
+			"value":"If necessary, you have my full support as\nwell."
 		},
 		{
 			"key":"EP04_S0030_0146",
-			"value":"こうなったら、仕方ないわね\nアオイの無事にはかえられないもの"
+			"value":"Sounds like we’ve got no choice. I need to\nkeep Aoi safe!"
 		},
 		{
 			"key":"EP04_S0030_0147",
-			"value":"よ、よってたかってヒキョウよ！\nやっぱりワルモノじゃない！"
+			"value":"Ganging up on us, are you? I knew you\ncouldn’t be trusted!"
 		},
 		{
 			"key":"EP04_S0030_0148",
-			"value":"アグモンに任せる"
+			"value":"Agumon, work this out."
 		},
 		{
 			"key":"EP04_S0030_0149",
-			"value":"僕らが説得しても、らちが明かない\nアグモン、うまく話してみてくれないか？"
+			"value":"I don’t see much hope of convincing them\nmyself. Agumon, can you handle this?"
 		},
 		{
 			"key":"EP04_S0030_0150",
-			"value":"ボクにできるかな～"
+			"value":"Um, I’m not sure, but I’ll try!"
 		},
 		{
 			"key":"EP04_S0030_0151",
-			"value":"私も手伝ってあげる～！"
+			"value":"And I’ll help."
 		},
 		{
 			"key":"EP04_S0030_0152",
-			"value":"えっとね、ボクたちはタクマたちを\nさらってないし、アルケニモンの仲間でもないよ"
+			"value":"So, we haven’t kidnapped Takuma or his\nfriends, and we don’t work for Arukenimon."
 		},
 		{
 			"key":"EP04_S0030_0153",
-			"value":"そんな話、信用できるかー！"
+			"value":"And you expect us to believe that?!"
 		},
 		{
 			"key":"EP04_S0030_0154",
-			"value":"だってほんとのことだもん\n昨日だって、アルケニモンと戦ったんだよ～"
+			"value":"Well, it’s true. We were fighting Arukenimon\njust yesterday."
 		},
 		{
 			"key":"EP04_S0030_0155",
-			"value":"えっ！？　あの悪いやつと！！？"
+			"value":"What? THE Arukenimon?!"
 		},
 		{
 			"key":"EP04_S0030_0156",
-			"value":"うん！　アルケニモンは逃げたけど\nアルケニモンの仲間は、たおしたぞ！"
+			"value":"That’s right! She got away, but we did beat\nup one of her underlings!"
 		},
 		{
 			"key":"EP04_S0030_0157",
-			"value":"みんなで、がっつーんとね！"
+			"value":"We all worked together to take him down!"
 		},
 		{
 			"key":"EP04_S0030_0158",
-			"value":"あんなに悪いやつの仲間を\n倒しちゃうくらい強いなんて……"
+			"value":"Well, if you’re strong enough to beat someone\nlike that..."
 		},
 		{
 			"key":"EP04_S0030_0159",
-			"value":"お前らも、やっぱり\nワルモノに違いないんだー！！"
+			"value":"That makes you a real threat!"
 		},
 		{
 			"key":"EP04_S0030_0160",
-			"value":"あーくそ！\nもうこれ以上待てるか！　強行突破だ！"
+			"value":"Damn it, I don’t have time for this!\nI’m bustin’ my way in!"
 		},
 		{
 			"key":"EP04_S0030_0161",
-			"value":"し、仕方ない……\n全員で突破しよう！"
+			"value":"I... I guess that’s our only option. Come on,\neverybody, we’re fighting our way in!"
 		},
 		{
 			"key":"EP04_S0030_0162",
-			"value":"あわっ、あわわわわ……！"
+			"value":"Oh no! No, no, no!"
 		},
 		{
 			"key":"EP04_S0030_0163",
-			"value":"どどど、どうするの～！？\nあんないっぺんに来られたら～……"
+			"value":"Wh-wh-what are we gonna do? We can’t take\nthem all at once!"
 		},
 		{
 			"key":"EP04_S0030_0164",
-			"value":"こうなったら、女王様に報告よ～！\n覚えてなさい！！"
+			"value":"We’ll have to report this to the queen!\nDon’t think you can get away with this!"
 		},
 		{
 			"key":"EP04_S0030_0165",
-			"value":"に、逃げてった……"
+			"value":"Well, so much for them."
 		},
 		{
 			"key":"EP04_S0030_0166",
-			"value":"何だったんだ……"
+			"value":"What was that all about?"
 		},
 		{
 			"key":"EP04_S0030_0167",
-			"value":"わかんないけど……"
+			"value":"Beats me."
 		},
 		{
 			"key":"EP04_S0030_0168",
-			"value":"いいんじゃない？\n結果的に戦わずにすんだわけだし"
+			"value":"Who cares? Besides, I’m glad we didn’t have\nto fight them after all."
 		},
 		{
 			"key":"EP04_S0030_0169",
-			"value":"そうね、あの子たち相手に戦うのは\nちょっと気が引けるもの"
+			"value":"Me too. I would’ve felt bad if we really had\nto take them on."
 		},
 		{
 			"key":"EP04_S0030_0170",
-			"value":"まあな……"
+			"value":"Yeah, I hear you."
 		},
 		{
 			"key":"EP04_S0030_0171",
-			"value":"だが、ほっといていいのか？\nあいつら女王様ってのに報告に行ったんだろ？"
+			"value":"But should we just let them go? They said\nthey were gonna report to their queen."
 		},
 		{
 			"key":"EP04_S0030_0172",
-			"value":"確かに、気にならないわけじゃないけど……"
+			"value":"Yeah, that does bother me, but still..."
 		},
 		{
 			"key":"EP04_S0030_0173",
-			"value":"あんな変なやつらにかまってる場合じゃねえ\nとっとと、中に入ってミウを捜すぞ"
+			"value":"We don’t have time to be worrying about those\nweirdos! Let’s get in there and find Miu!"
 		},
 		{
 			"key":"EP04_S0030_0174",
-			"value":"わかった、そうしよう……！"
+			"value":"Right, let’s go!"
 		}
 	]
 }

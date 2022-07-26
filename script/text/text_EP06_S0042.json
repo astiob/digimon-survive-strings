@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S0042_0001",
-			"value":"ファルコモン、頼む"
+			"value":"All right, Falcomon, show me what you can do."
 		},
 		{
 			"key":"EP06_S0042_0002",
-			"value":"俺たちの力を恐れていながら\nしっかり利用はするんだな"
+			"value":"So you’re afraid of our power, but then you\nwanna use it for your own protection, huh?"
 		},
 		{
 			"key":"EP06_S0042_0003",
-			"value":"な……お前！"
+			"value":"Grr... Shut up!"
 		},
 		{
 			"key":"EP06_S0042_0004",
-			"value":"もめてる場合じゃないでしょ！？\n集中しないと、やられちゃうってば！"
+			"value":"This isn’t the time for bickering!\nStay focused or you might end up dead!  "
 		},
 		{
 			"key":"EP06_S0042_0005",
-			"value":"……仕方ない"
+			"value":"Let’s just get this over with."
 		}
 	]
 }

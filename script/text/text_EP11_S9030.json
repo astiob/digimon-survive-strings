@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9030_0001",
-			"value":"それじゃあ、現時点での結果を聞かせて？"
+			"value":"Let’s see, should we review our findings up\nto now?"
 		},
 		{
 			"key":"EP11_S9030_0002",
-			"value":"祠も手がかりも、何も見つけられてない……"
+			"value":"We haven’t found the shrine, or any clue to\nits location..."
 		},
 		{
 			"key":"EP11_S9030_0003",
-			"value":"念のため外も見ておいたが\nからっきしだったよ"
+			"value":"We checked the entire outside area too, just\nin case."
 		},
 		{
 			"key":"EP11_S9030_0004",
-			"value":"水中も何もなし\n綺麗で居心地はよかったけどね"
+			"value":"A few nice and comfy-looking spots in the\nwater, but nothing related to our goal."
 		},
 		{
 			"key":"EP11_S9030_0005",
-			"value":"ありがとう。みんなご苦労様"
+			"value":"Thanks for your hard work, everyone."
 		},
 		{
 			"key":"EP11_S9030_0006",
-			"value":"それじゃあ、やっぱり地下水道の\n南側が怪しいということね"
+			"value":"Then the southern part of the waterway really\nis suspicious, as we thought."
 		},
 		{
 			"key":"EP11_S9030_0007",
-			"value":"このままお外でのんびり\nってワケにはいかないか～"
+			"value":"We can’t just hang around outside, no sir."
 		},
 		{
 			"key":"EP11_S9030_0008",
-			"value":"まぁ、どうせ校舎まで戻る道すがらだ\n少し寄り道する、くらいの気持ちでいこう"
+			"value":"Well, we’re on route to the school, as it\nwere. Let’s treat this as a slight diversion."
 		},
 		{
 			"key":"EP11_S9030_0009",
-			"value":"いいっスね～\n寄り道感覚で世界を救っちゃいますか！"
+			"value":"I like it! A little detour to save the world!"
 		},
 		{
 			"key":"EP11_S9030_0010",
-			"value":"まったくミノルは……"
+			"value":"I worry about you on occasion, my boy..."
 		},
 		{
 			"key":"EP11_S9030_0011",
-			"value":"ふふ、それじゃあ帰る途中で\nみんなで祠に寄り道しましょうか"
+			"value":"Hehe, then let’s swing over to the shrine on\nour way home."
 		},
 		{
 			"key":"EP11_S9030_0012",
-			"value":"あ、少し奥に行ったところで敵の気配が\nあるそうだから、気は抜きすぎないこと。いいわね？"
+			"value":"Oh, and enemies were sensed farther inside,\nso don’t let your guard down, okay?"
 		},
 		{
 			"key":"EP11_S9030_0013",
-			"value":"は～い！"
+			"value":"Right!"
 		}
 	]
 }

@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4180_0001",
-			"value":"タクマ……カイトは見つかったの？"
+			"value":"Takuma... Have you found Kaito?"
 		},
 		{
 			"key":"EP11_S4180_0002",
-			"value":"だめだ。どこにもいない……"
+			"value":"Nope, I haven’t seen him anywhere."
 		},
 		{
 			"key":"EP11_S4180_0003",
-			"value":"そう。まだ見つからないか……"
+			"value":"I see. Nowhere to be found, huh..."
 		},
 		{
 			"key":"EP11_S4180_0004",
-			"value":"もう……何、暗い顔しないの\nサキらしくないよ"
+			"value":"Come on, chin up, Saki!\nIt’s not like you to get so down."
 		},
 		{
 			"key":"EP11_S4180_0005",
-			"value":"……アタシ、思うの\nカイトは案外、遠くには行ってない気がするって"
+			"value":"...Besides, I get the feeling Kaito isn’t all\nthat far away."
 		},
 		{
 			"key":"EP11_S4180_0006",
-			"value":"今頃、帰って来る途中なんじゃないのかな\nまだ、近くの森にいるとか……"
+			"value":"He’s probably on his way back as we speak.\nLike in the forest, maybe?"
 		}
 	]
 }

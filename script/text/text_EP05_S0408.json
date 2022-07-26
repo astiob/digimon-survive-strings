@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0408_0001",
-			"value":"タクマ～！　見て見て～！"
+			"value":"Takumaaa! Lookie, lookie!"
 		},
 		{
 			"key":"EP05_S0408_0002",
-			"value":"アグモン？　どうしたんだ？"
+			"value":"Agumon? What’s wrong?"
 		},
 		{
 			"key":"EP05_S0408_0003",
-			"value":"これ見て！　そこで拾った！"
+			"value":"I found this over there!"
 		},
 		{
 			"key":"EP05_S0408_0004",
-			"value":"これって……ハンカチ？"
+			"value":"This is...a handkerchief?"
 		},
 		{
 			"key":"EP05_S0408_0005",
-			"value":"あー！　タクマ、それ！\n私が失くしたハンカチ！"
+			"value":"Oh hey, that’s my hanky, Takuma! I thought\nI’d lost it!"
 		},
 		{
 			"key":"EP05_S0408_0006",
-			"value":"そこでアグモンが拾ったんだ"
+			"value":"Agumon picked it up over there."
 		},
 		{
 			"key":"EP05_S0408_0007",
-			"value":"なんでこんなとこに！？"
+			"value":"What’s it doing in a place like this?!"
 		},
 		{
 			"key":"EP05_S0408_0008",
-			"value":"まぁでも、見つけてくれてありがと、タクマ"
+			"value":"Ah, but the important thing is you found it,\nright? Thanks, Takuma."
 		}
 	]
 }

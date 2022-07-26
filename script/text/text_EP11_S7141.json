@@ -2,95 +2,95 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7141_0001",
-			"value":"たいした敵ではなくてよかった"
+			"value":"That wasn’t that tough."
 		},
 		{
 			"key":"EP11_S7141_0002",
-			"value":"やれやれ……\nこっちは戦ってる場合じゃねーってのに"
+			"value":"Jeez... This isn’t the time for us to be\nfighting, you know."
 		},
 		{
 			"key":"EP11_S7141_0003",
-			"value":"けど……これで、ますます\nのんびりしてらんねーって気合が入ったな"
+			"value":"Still, that’s got me more fired up about this\nsearch than ever."
 		},
 		{
 			"key":"EP11_S7141_0004",
-			"value":"え……？"
+			"value":"Why’s that?"
 		},
 		{
 			"key":"EP11_S7141_0005",
-			"value":"だってよ、アオイさんだって\n危ない目に遭ってるかもしれないだろ？"
+			"value":"Because you never know, Aoi might be in\ndanger right now."
 		},
 		{
 			"key":"EP11_S7141_0006",
-			"value":"いくらラブラモンがついてるったって\n二人っきりじゃ不安もあるだろうしさ！"
+			"value":"I know she’s got Labramon with her, but I’m\nstill worried about them being on their own."
 		},
 		{
 			"key":"EP11_S7141_0007",
-			"value":"（ミノルは、本当にかっこよくなったな……）"
+			"value":"(Minoru really has come a long way.)"
 		},
 		{
 			"key":"EP11_S7141_0008",
-			"value":"（よし、ここはミノルの気合をさらに\n　後押しできるように、何か言っておこう）"
+			"value":"(I feel like the thing to do now is say\nsomething to get him even more fired up.)"
 		},
 		{
 			"key":"EP11_S7141_0009",
-			"value":"（スーパーヒーロー……なんて言ったら\n　大げさだと思われるかな？）"
+			"value":"(If I called him a superhero...would that\nsound too corny?)"
 		},
 		{
 			"key":"EP11_S7141_0010",
-			"value":"（ここは普通に、お互い頑張ろうって\n　言っておこうか……？）"
+			"value":"(Maybe I should stick with something more\nnormal about how we should both keep at it.)"
 		},
 		{
 			"key":"EP11_S7141_Q1",
-			"value":"（ミノルに何て言おう？）"
+			"value":"(What should I say to Minoru?)"
 		},
 		{
 			"key":"EP11_S7141_Q1_A1",
-			"value":"期待してるぞ、スーパーヒーロー！"
+			"value":"Go get ‘em, Superhero!"
 		},
 		{
 			"key":"EP11_S7141_Q1_A2",
-			"value":"お互い頑張ろうな"
+			"value":"Let’s both keep at it!"
 		},
 		{
 			"key":"EP11_S7141_0011",
-			"value":"期待してるぞ、スーパーヒーロー！"
+			"value":"Go get ‘em, Superhero!"
 		},
 		{
 			"key":"EP11_S7141_0012",
-			"value":"期待してるぞ、スーパーヒーロー！"
+			"value":"Go get ‘em, Superhero!"
 		},
 		{
 			"key":"EP11_S7141_0013",
-			"value":"……ははっ！\n期待に応えてやるから……よ～く見とけよ！"
+			"value":"Haha! Leave it to me! Minoru to the rescue!"
 		},
 		{
 			"key":"EP11_S7141_0014",
-			"value":"うおぉぉぉぉっし！\nテンションあがってきたー！"
+			"value":"Let’s gooo! Man, I could not be more psyched\nfor this!"
 		},
 		{
 			"key":"EP11_S7141_0015",
-			"value":"ふ……仕方のないやつだ\n油断だけはしてくれるなよ"
+			"value":"Heh... Some things never change. Just don’t\nlet your guard down, Minoru."
 		},
 		{
 			"key":"EP11_S7141_0016",
-			"value":"お互い頑張ろうな"
+			"value":"Let’s both keep at it!"
 		},
 		{
 			"key":"EP11_S7141_0017",
-			"value":"お互い……アオイさんが見つかるように\n全力を尽くして頑張ろう！"
+			"value":"Right, let’s both keep at this with all we’ve\ngot. Never give up until we find Aoi!"
 		},
 		{
 			"key":"EP11_S7141_0018",
-			"value":"ああ、もちろんだぜ！"
+			"value":"Yeah, you said it!"
 		},
 		{
 			"key":"EP11_S7141_0019",
-			"value":"それじゃタクマ、オレたちは\nこのまま地下水道に向かってみるよ"
+			"value":"All right, Takuma, we’re gonna go check out\nthe underground waterway."
 		},
 		{
 			"key":"EP11_S7141_0020",
-			"value":"わかった！　また敵に遭遇するかもしれないし\n気を付けて……！"
+			"value":"Got it! And you never know when you might get\nattacked again, so watch out!"
 		}
 	]
 }

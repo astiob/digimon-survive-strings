@@ -2,115 +2,115 @@
     "scenario_text": [
         {
             "key": "EP01_S0322_0001",
-            "value": "うぅぅ……あ、アオイは……\n私が……守らないと……"
+            "value": "Urrrgh... A, Aoi... Have to...protect...\nAoi..."
         },
         {
             "key": "EP01_S0322_0002",
-            "value": "ラブラモンの怪我は思ったより酷いようだ……\n急いで手当をしなければ……"
+            "value": "It appears Labramon’s wound is worse than we\nrealized. We must treat her at once..."
         },
         {
             "key": "EP01_S0322_0003",
-            "value": "早く救急箱を持ってきた方がいいぜ\nラブラモン、かなり苦しそうなんだ……"
+            "value": "They’d better bring back that first-aid kit\nsoon. Labramon’s looking pretty rough..."
         },
         {
             "key": "EP01_S0322_0004",
-            "value": "それになんかこの建物、変な雰囲気がする……\n壁とかがやたらベタベタするんだよ……"
+            "value": "Plus this building’s giving me the creeps...\nThe walls look kinda, I dunno...sticky?"
         },
         {
             "key": "EP01_S0322_0005",
-            "value": "ベタベタするようなものは何も見えないんだけど……\nタクマはそういう感じはしないか？"
+            "value": "I don’t see anything around here that’d make\nthings get all gooey, do you, Takuma?"
         },
         {
             "key": "EP01_S0322_0006",
-            "value": "（ミノルが言うように壁には何もないな\n　カメラで撮れば何かわかるか……？）"
+            "value": "(He’s right, there’s nothing on the walls.\nMaybe that’ll change if I use my camera...?)"
         },
         {
             "key": "EP01_S0322_0007",
-            "value": "キシキシキシ……"
+            "value": "Shee-hee-hee-hee..."
         },
         {
             "key": "EP01_S0322_0008",
-            "value": "ん？　タクマ、今何か言った？"
+            "value": "Hmm? You say something, man?"
         },
         {
             "key": "EP01_S0322_0009",
-            "value": "え？　何も言ってないけど"
+            "value": "Me? No, I didn’t say anything."
         },
         {
             "key": "EP01_S0322_0010",
-            "value": "そっか。気のせいかなぁ……"
+            "value": "Huh, guess I was imagining things..."
         },
         {
             "key": "EP01_S0322_0200",
-            "value": "ラブラモンはオレとファルコモンで見てるから\nタクマはアオイさんと一緒に行ってくれ！"
+            "value": "Me and Falcomon’ll look after things here.\nYou and Aoi go on together!"
         },
         {
             "key": "EP01_S0322_0201",
-            "value": "お、救急箱見つけたんだな！"
+            "value": "Oh, you found a first-aid kit!"
         },
         {
             "key": "EP01_S0322_0202",
-            "value": "よくやった！\nさぁ、早くラブラモンを手当てしてやろう！"
+            "value": "Good going! C’mon, let’s take care of\nLabramon right away!"
         },
         {
             "key": "EP01_S0322_0203",
-            "value": "ああ！"
+            "value": "Yeah!"
         },
         {
             "key": "EP01_S0322_0204",
-            "value": "早くラブラモンを<color=#B41919>手当て</color>してやろうぜ！"
+            "value": "Hurry up and <color=#B41919>help Labramon</color>, chop chop!"
         },
         {
             "key": "EP01_S0322_0101",
-            "value": "ラブラモンはオレとファルコモンで見てるから\nタクマはアオイさんと一緒に行ってくれ！"
+            "value": "Me and Falcomon’ll look after things here.\nYou and Aoi go on together!"
         },
         {
             "key": "EP01_S0322_0011",
-            "value": "急いだ方がいいぜ"
+            "value": "You’d better hustle!"
         },
         {
             "key": "EP01_S0322_0012",
-            "value": "ここは俺たちに任せて先に行け！"
+            "value": "Leave things here to us!"
         },
         {
             "key": "EP01_S0322_0013",
-            "value": "（よし、この辺りをカメラで……！）"
+            "value": "(Okay, I’ll check this spot with my camera!)"
         },
         {
             "key": "EP01_S0322_0014",
-            "value": "ま、待てって！　タクマ！"
+            "value": "Ah, hey! Hold on, Takuma!"
         },
         {
             "key": "EP01_S0322_0015",
-            "value": "話をしたオレが悪かったけど\n今は救急箱を早く持ってきてくれ！"
+            "value": "I know I’m the one that brought it up, but\nyou should focus on the first-aid kit now!"
         },
         {
             "key": "EP01_S0322_0016",
-            "value": "ラブラモンが治ってから、やってみようよ～"
+            "value": "Let’s try it AFTER we’ve helped Labramon!"
         },
         {
             "key": "EP01_S0322_0017",
-            "value": "あぁ、そうだな……"
+            "value": "Yeah, you’re right."
         },
         {
             "key": "EP01_S0322_0018",
-            "value": "すまないミノル！\n急いで取ってくる！"
+            "value": "Good call, Minoru. I’ll bring it back in\na jiffy!"
         },
         {
             "key": "EP01_S0322_0103",
-            "value": "お、救急箱見つけたんだな！"
+            "value": "Oh, you found a first-aid kit!"
         },
         {
             "key": "EP01_S0322_0104",
-            "value": "よくやった！\nさぁ、早くラブラモンを手当てしてやろう！"
+            "value": "Good going! C’mon, let’s take care of\nLabramon right away!"
         },
         {
             "key": "EP01_S0322_0105",
-            "value": "ああ！"
+            "value": "Yeah!"
         },
         {
             "key": "EP01_S0322_0102",
-            "value": "早くラブラモンを<color=#B41919>手当て</color>してやろう！"
+            "value": "Hurry up and <color=#B41919>help Labramon</color>, chop chop!"
         }
     ]
 }

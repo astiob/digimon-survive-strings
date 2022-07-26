@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1707_0001",
-			"value":"あれ？　なんだこれ？"
+			"value":"Hey! What is this?"
 		},
 		{
 			"key":"EP02_S1707_0002",
-			"value":"どれどれー？"
+			"value":"Where?"
 		},
 		{
 			"key":"EP02_S1707_0003",
-			"value":"あー、これ役に立つものだ"
+			"value":"This might be helpful!"
 		},
 		{
 			"key":"EP02_S1707_0004",
-			"value":"そっか。じゃあありがたく貰っておこうかな"
+			"value":"Then let’s take it with us!"
 		}
 	]
 }

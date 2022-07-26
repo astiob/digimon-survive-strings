@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1203_0001",
-			"value":"タクマー、なんにもないなー"
+			"value":"Takuma, nothing's here."
 		},
 		{
 			"key":"EP02_S1203_0002",
-			"value":"そうだなぁ……\n他のとこも見てみるか"
+			"value":"Well, let me think.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1203_0003",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP02_S1203_0004",
-			"value":"ここには何もないし\n他のとこを見てみるか"
+			"value":"There’s nothing here.\nI’ll check somewhere else."
 		},
 		{
 			"key":"EP02_S1203_0201",
-			"value":"リョウってば\nどうしてあんなヒドイこと言うのかなー……"
+			"value":"Why does Ryo always say such awful things?"
 		},
 		{
 			"key":"EP02_S1203_0202",
-			"value":"リョウは不安なんだよ\nだから、何かを信じるのが怖いのかもしれない"
+			"value":"Because he’s scared. He probably doesn’t know\nwho or what to trust."
 		},
 		{
 			"key":"EP02_S1203_0203",
-			"value":"タクマは不安じゃないのか？"
+			"value":"And you’re not scared, Takuma?"
 		},
 		{
 			"key":"EP02_S1203_0204",
-			"value":"うーん、不安ではあるけど\nアグモンたちのことは信じてるよ"
+			"value":"Well, I wouldn’t say that, but I do trust you\nand the others."
 		},
 		{
 			"key":"EP02_S1203_0205",
-			"value":"アグモンたちに頼らないと\n自分の身も守れそうにないしさ"
+			"value":"After all, we wouldn’t be able to protect\nourselves without your help."
 		},
 		{
 			"key":"EP02_S1203_0206",
-			"value":"そっか……\nでも、タクマに頼りにされるのは嬉しいぞ！"
+			"value":"I guess not... But you know, I’m glad you\nrely on me, Takuma."
 		},
 		{
 			"key":"EP02_S1203_0207",
-			"value":"うん、頼りにしてる\n頑張って食料を探そうな"
+			"value":"Honestly, I don’t know what I’d do without\nyou. Now let’s go find that food!"
 		},
 		{
 			"key":"EP02_S1203_0208",
-			"value":"お～う！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP02_S1203_0209",
-			"value":"タクマの為なら、ボク頑張るぞ！"
+			"value":"I’d do anything for you, Takuma!"
 		}
 	]
 }

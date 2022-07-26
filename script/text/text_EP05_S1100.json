@@ -2,207 +2,207 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1100_0001",
-			"value":"ミノルは、\nケモノガミと人身御供のこと、どう思う？"
+			"value":"Hey Minoru, what do you think about the\nKemonogami and human sacrifices?"
 		},
 		{
 			"key":"EP05_S1100_0002",
-			"value":"気味悪い話だって思うぜ？\n今のオレたちの状況にそっくりだし……"
+			"value":"Well that’s an awkward topic, isn’t it?\nIt’s the exact situation we’re all in..."
 		},
 		{
 			"key":"EP05_S1100_0003",
-			"value":"もしかしてさ、いなくなった子供たちって、\n要するにこっちの世界に来たんじゃねーかな？"
+			"value":"Long story short, maybe all those\ndisappearing kids ended up in this world?"
 		},
 		{
 			"key":"EP05_S1100_0004",
-			"value":"僕たちみたいにってこと？"
+			"value":"You mean like we did?"
 		},
 		{
 			"key":"EP05_S1100_0005",
-			"value":"ああ。どんなに捜しても見つからないって、\nそういうことじゃないかって思うんだよな……"
+			"value":"Yeah. They couldn’t find them anywhere, so it\nsounds about right to me."
 		},
 		{
 			"key":"EP05_S1100_0006",
-			"value":"ありえる話だね……"
+			"value":"It’s possible..."
 		},
 		{
 			"key":"EP05_S1100_0007",
-			"value":"ふむ……まだ何とも言えないが\nそうだとしたら腑に落ちる話ではあるな"
+			"value":"Hmm... I cannot say anything for certain as\nof yet, but the logic certainly lines up."
 		},
 		{
 			"key":"EP05_S1100_0008",
-			"value":"そうなの？　う～ん、よくわかんない……"
+			"value":"You think so? I don’t get it..."
 		},
 		{
 			"key":"EP05_S1100_0009",
-			"value":"ま、オレの考え過ぎかもしれないけど\nまだ帰れないって決まったわけじゃないし"
+			"value":"Then again, I might just be overthinking it.\nWe still might find a way back, after all."
 		},
 		{
 			"key":"EP05_S1100_0010",
-			"value":"（今頃、僕たちの世界では\n　僕たちを捜しているんだろうか）"
+			"value":"(I wonder if they’re looking for us back in\nour world?)"
 		},
 		{
 			"key":"EP05_S1100_0011",
-			"value":"（……考えてみれば自分たちのことばかりで\n　僕たちの世界のことを考えてなかった）"
+			"value":"(...Actually, we’ve been so focused on this\nworld, we haven’t thought about ours.)"
 		},
 		{
 			"key":"EP05_S1100_0012",
-			"value":"（色んな人が僕たちを捜して\n　マスコミでも報道されて……）"
+			"value":"(A bunch of people might be looking for us,\nwith media coverage and everything...)"
 		},
 		{
 			"key":"EP05_S1100_0013",
-			"value":"（大騒ぎになってるだろうな……\n　父さん、母さん、今頃どうしてるだろう？）"
+			"value":"(I bet everyone’s losing it back home...\nWhat’re Mom and Dad doing now, I wonder?)"
 		},
 		{
 			"key":"EP05_S1100_0014",
-			"value":"（それとも、全然騒ぎになってなかったりして\n　……そうだとしたら、怖いな）"
+			"value":"(Then again, there might not be any panic at\nall. That’d actually be scarier, I think.)"
 		},
 		{
 			"key":"EP05_S1100_0015",
-			"value":"なぁ、ミノル"
+			"value":"You know, Minoru..."
 		},
 		{
 			"key":"EP05_S1100_Q1",
-			"value":"（僕たちの世界では……）"
+			"value":"(Back in our world, I wonder if...)"
 		},
 		{
 			"key":"EP05_S1100_Q1_A1",
-			"value":"テレビで大騒ぎになってるかな？"
+			"value":"They’re going nuts?"
 		},
 		{
 			"key":"EP05_S1100_Q1_A2",
-			"value":"家族が心配してるだろうな"
+			"value":"They’re worried?"
 		},
 		{
 			"key":"EP05_S1100_Q1_A3",
-			"value":"騒ぎになってないのかな？"
+			"value":"No one noticed?"
 		},
 		{
 			"key":"EP05_S1100_0017",
-			"value":"今頃、大騒ぎになってるかな？\nテレビとかでニュースになったりして"
+			"value":"Do you think they’re going nuts back there?\nLike stories on the news or something?"
 		},
 		{
 			"key":"EP05_S1100_0018",
-			"value":"マジで？　それヤベーじゃん！\nワクワクしてくんな！"
+			"value":"You think? That’d be a hoot! I’m getting\nchills just thinking about it!"
 		},
 		{
 			"key":"EP05_S1100_0019",
-			"value":"え、ワクワク？"
+			"value":"Chills?"
 		},
 		{
 			"key":"EP05_S1100_0020",
-			"value":"ワクワクだろ！　テレビに出んだぜ？\n有名人になっちゃうな～"
+			"value":"Yeah! If we’re on TV, that means we’re famous\non the small screen!"
 		},
 		{
 			"key":"EP05_S1100_0021",
-			"value":"テレビ、とは何だ？　嬉しいものなのか？"
+			"value":"What is this \"tee-vee\" you speak of? Is this\nscreen such a marker of good fortune?"
 		},
 		{
 			"key":"EP05_S1100_0022",
-			"value":"そうなんだよ！　有名になって\nみんなの人気者になっちまうんだよ！"
+			"value":"You bet it is! First you get the fame, then\nyou get the dames!"
 		},
 		{
 			"key":"EP05_S1100_0023",
-			"value":"いや～、まいっちゃうな～"
+			"value":"I can just see it now..."
 		},
 		{
 			"key":"EP05_S1100_0024",
-			"value":"そんな呑気な……"
+			"value":"That’s all you can think about..."
 		},
 		{
 			"key":"EP05_S1100_0025",
-			"value":"……わかってる。そういうのも\n今のままじゃ意味ないもんな"
+			"value":"I know, I know, there’s no point in getting\nexcited about it in this world."
 		},
 		{
 			"key":"EP05_S1100_0027",
-			"value":"今頃、僕たちの家族が心配してるだろうな"
+			"value":"Do you think our parents are worried?"
 		},
 		{
 			"key":"EP05_S1100_0028",
-			"value":"ん……あー、まぁそうかもな\n心配……してるかもな"
+			"value":"Hmm... Could be, now that you mention it.\n...Yeah, could be."
 		},
 		{
 			"key":"EP05_S1100_0029",
-			"value":"なんだよ、歯切れ悪いな\n心配されてないって思うのか？"
+			"value":"What, cat got your tongue or something? It’s\nlike you thought no one would worry about us."
 		},
 		{
 			"key":"EP05_S1100_0030",
-			"value":"いや、心配はしてる、とは思う\nでも……同じくらい心配されてないかも、とも思う"
+			"value":"No, no, I think they are, just... Not all of\nthem are gonna worry the same, I’d say."
 		},
 		{
 			"key":"EP05_S1100_0031",
-			"value":"うちの母ちゃん、めっちゃ仕事人間でさ\n忙しくて、オレの心配どころじゃないかも"
+			"value":"My mom’s kind of a workaholic, y’know? Maybe\nshe can’t fit worrying into her schedule."
 		},
 		{
 			"key":"EP05_S1100_0032",
-			"value":"……お父さんは？"
+			"value":"And what about your dad?"
 		},
 		{
 			"key":"EP05_S1100_0033",
-			"value":"離婚して、別れて暮らしてる\n長いこと会ってない"
+			"value":"They’re divorced, and he lives somewhere\nelse. Haven’t seen him in a while now."
 		},
 		{
 			"key":"EP05_S1100_0034",
-			"value":"ごめん……"
+			"value":"Sorry, man..."
 		},
 		{
 			"key":"EP05_S1100_0035",
-			"value":"あぁ悪い。別にいいんだ、どっちでも\nオレ、母ちゃんのことが嫌いとかじゃないしさ"
+			"value":"Ahh it’s cool either way. It’s not like\nI resent my mom or anything."
 		},
 		{
 			"key":"EP05_S1100_0036",
-			"value":"うん、嫌いじゃない……会いたいよ"
+			"value":"Naw, not a bit... I’d like to see her."
 		},
 		{
 			"key":"EP05_S1100_0038",
-			"value":"ひょっとして、全然騒ぎになってなかったりして……"
+			"value":"You think no one even noticed we’re gone?"
 		},
 		{
 			"key":"EP05_S1100_0039",
-			"value":"え？　いやいや、それはないだろ～"
+			"value":"Huh? Aw come on, there’s no way, man."
 		},
 		{
 			"key":"EP05_S1100_0040",
-			"value":"わからないじゃないか\n向こうのことなんて、僕たちにはわからないし"
+			"value":"How can you tell? We don’t know a thing about\nwhat’s going on over there."
 		},
 		{
 			"key":"EP05_S1100_0041",
-			"value":"嫌な想像も、しちゃうだろ……"
+			"value":"Can’t help but imagine bad things, you know?"
 		},
 		{
 			"key":"EP05_S1100_0042",
-			"value":"タクマ……元気出して？"
+			"value":"Takuma, my man... Cheer up, would ya?"
 		},
 		{
 			"key":"EP05_S1100_0043",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP05_S1100_0044",
-			"value":"わからないならさ、早くわかるようにしようぜ"
+			"value":"If we don’t know what’s going on, then let’s\nfigure things out as soon as we can."
 		},
 		{
 			"key":"EP05_S1100_0045",
-			"value":"オレたちの世界に帰って\nどうなってるか確かめるんだよ"
+			"value":"We’ll get back to our world and see for\nourselves."
 		},
 		{
 			"key":"EP05_S1100_0046",
-			"value":"ミノル……ごめん、そうだよな"
+			"value":"Minoru... Thanks, man, you’re right."
 		},
 		{
 			"key":"EP05_S1100_0047",
-			"value":"……早く帰りたいな"
+			"value":"I hope we can go home soon..."
 		},
 		{
 			"key":"EP05_S1100_0048",
-			"value":"うん。必ず、帰ろう"
+			"value":"Yeah. We’ll make it back for sure."
 		},
 		{
 			"key":"EP05_S1100_0049",
-			"value":"……ん、あれ？　靴下が片っぽ、ない？"
+			"value":"...Wait, what? Where’d my other sock go?"
 		},
 		{
 			"key":"EP05_S1100_0050",
-			"value":"早く帰りたいよな……"
+			"value":"Man, I wanna go hooome..."
 		}
 	]
 }

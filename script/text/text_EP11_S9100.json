@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9100_0001",
-			"value":"あれ、教授にレナモン？\n二人きりなんて珍しいですね"
+			"value":"Oh, Professor, Renamon? It’s rare to see the\ntwo of you by yourselves."
 		},
 		{
 			"key":"EP11_S9100_0002",
-			"value":"あぁ、彼に思い出話を語っていたのさ\n昔の、私と姉さんのね"
+			"value":"Yes, we were just reminiscing about the past.\nAbout my sister and me."
 		},
 		{
 			"key":"EP11_S9100_0003",
-			"value":"思い出話……？"
+			"value":"Reminiscing, huh?"
 		},
 		{
 			"key":"EP11_S9100_0004",
-			"value":"こちらに来る前のミユキのことを\n聞かせてもらっていた"
+			"value":"I wanted to know about what Miyuki was like\nbefore she came here."
 		},
 		{
 			"key":"EP11_S9100_0005",
-			"value":"私の知らないあの子の様子を聞けて\nとても面白い"
+			"value":"Hearing a version of her I’ve never seen was\npretty interesting."
 		},
 		{
 			"key":"EP11_S9100_0006",
-			"value":"あぁ、そういうことか"
+			"value":"Yeah, I’d imagine so."
 		},
 		{
 			"key":"EP11_S9100_0007",
-			"value":"僕にも聞かせてもらっていいですか？\nミユキのこともだけど、昔の教授も気になります"
+			"value":"Think I could hear about it, too? I’m curious\nabout Miyuki. About your past too, Professor."
 		},
 		{
 			"key":"EP11_S9100_0008",
-			"value":"い、いやぁ、私のことなど\n面白いものでもないが……"
+			"value":"Ah, ahem, I fear my past is nothing to pique\none’s interest..."
 		},
 		{
 			"key":"EP11_S9100_0009",
-			"value":"そうだね……ミユキは、姉さんは昔から歌をうたうのが\n好きでね。私も一緒に歌ったことがあるのだが"
+			"value":"But Miyuki, well... She loved to sing back in\nthe day. I would join her on occasion."
 		},
 		{
 			"key":"EP11_S9100_0010",
-			"value":"最初に姉さんと歌った時、隣にいた姉さんの顔が\nなぜか強張っていってね"
+			"value":"The first time I sang with my sister, her\nface stiffened for some reason."
 		},
 		{
 			"key":"EP11_S9100_0011",
-			"value":"ゆっくりと私に振り返り、こう言ったんだ"
+			"value":"Turning slowly to face me, Miyuki said,"
 		},
 		{
 			"key":"EP11_S9100_0012",
-			"value":"『アキハル、あなたの歌、とても独創的ね』"
+			"value":"“That’s a pretty unique singing voice you’ve\ngot there, Akiharu.”"
 		},
 		{
 			"key":"EP11_S9100_0013",
-			"value":"そ、それって……"
+			"value":"No, you don’t mean..."
 		},
 		{
 			"key":"EP11_S9100_0014",
-			"value":"後で知ったんだが、私は酷く歌が下手だったんだよ\n姉さんはやんわりとそれを教えてくれたらしい"
+			"value":"I found out later that my voice could make\nmilk curdle. She broke it to me gently."
 		},
 		{
 			"key":"EP11_S9100_0015",
-			"value":"ぷっ、くく……アキハル、お前……\nくふふ……"
+			"value":"Pfft, heheh... Akiharu, you... Hahaha!"
 		},
 		{
 			"key":"EP11_S9100_0016",
-			"value":"気づいてからはもう恥ずかしくて恥ずかしくて\nでも、歌をうたう姉さんと一緒にいたい……"
+			"value":"I was terribly embarrassed, but even so,\nI wanted to stay by my sister’s side."
 		},
 		{
 			"key":"EP11_S9100_0017",
-			"value":"そこで、私はピアノを練習したわけだ"
+			"value":"And so I began practicing the piano."
 		},
 		{
 			"key":"EP11_S9100_0018",
-			"value":"それ以来、姉さんの歌に合わせて\n私がピアノを演奏するようになったのだよ"
+			"value":"From then on, I would accompany my sister’s\nsong with a piano performance."
 		},
 		{
 			"key":"EP11_S9100_0019",
-			"value":"……あー、どうだったかな？"
+			"value":"...Well then, was that to your satisfaction?"
 		},
 		{
 			"key":"EP11_S9100_0020",
-			"value":"（すごくいい話だった\n　姉弟の仲の良さが伝わってきた）"
+			"value":"(What an amazing story. I could feel the\nstrength of their brother and sister bond.)"
 		},
 		{
 			"key":"EP11_S9100_0021",
-			"value":"（教授はなんでもできる人だと思ってたけど\n　意外な弱点もあるんだな……）"
+			"value":"(I thought the professor could do anything.\nTo think he had a weakness like that...)"
 		},
 		{
 			"key":"EP11_S9100_0022",
-			"value":"（けど、レナモンが腹を押さえて笑ってるのは\n　ツッコんだ方がいいんだろうか）"
+			"value":"(And seeing Renamon clutch his belly from\nlaughter is an even stranger sight.)"
 		},
 		{
 			"key":"EP11_S9100_Q1",
-			"value":"（えっと、何て言えばいいんだろう？）"
+			"value":"(Uh, what do I say here?)"
 		},
 		{
 			"key":"EP11_S9100_Q1_A1",
-			"value":"いいお話でした"
+			"value":"What a great story."
 		},
 		{
 			"key":"EP11_S9100_Q1_A2",
-			"value":"歌、下手だったんですか！"
+			"value":"You were awful?"
 		},
 		{
 			"key":"EP11_S9100_Q1_A3",
-			"value":"レナモンは楽しめた？"
+			"value":"Enjoy that, Renamon?"
 		},
 		{
 			"key":"EP11_S9100_0023",
-			"value":"いいお話でした"
+			"value":"What a great story."
 		},
 		{
 			"key":"EP11_S9100_0024",
-			"value":"すごくいいお話でした\n教授たちは仲の良い姉弟だったんですね"
+			"value":"I think that was a great story! I could tell\nhow close you two were."
 		},
 		{
 			"key":"EP11_S9100_0025",
-			"value":"はは、まぁ私は姉さんに甘えてばかりだったけどね"
+			"value":"Haha, well it was mostly Miyuki doting on me."
 		},
 		{
 			"key":"EP11_S9100_0026",
-			"value":"今にして思えば、姉さんは気配り上手で優しくて\nいつでも姉として、私を守ってくれていたんだね"
+			"value":"Thinking back on it now, Miyuki was such\na considerate sister, always protecting me..."
 		},
 		{
 			"key":"EP11_S9100_0027",
-			"value":"歌下手だったんですね"
+			"value":"You were awful?"
 		},
 		{
 			"key":"EP11_S9100_0028",
-			"value":"教授、歌下手だったんですね"
+			"value":"You must have been really awful, Professor."
 		},
 		{
 			"key":"EP11_S9100_0029",
-			"value":"ぷふっ……！　くくくっ……"
+			"value":"Pfft! Heheheh...!"
 		},
 		{
 			"key":"EP11_S9100_0030",
-			"value":"あ、あの話の感想がそれかい……\nまぁ、いいがね"
+			"value":"So that is your takeaway from my story...\nWell, I suppose I cannot fault you."
 		},
 		{
 			"key":"EP11_S9100_0031",
-			"value":"あ、いえっ！　馬鹿にしてるわけじゃなく\n何でもできそうなのに、意外だなって……"
+			"value":"Oh no! I just meant that I’ve always thought\nyou were good at everything."
 		},
 		{
 			"key":"EP11_S9100_0032",
-			"value":"いやいや、私にもできないことばかりだよ\n年をとるごとに思い知らされる"
+			"value":"Oh not at all, my boy. I only learn more of\nmy shortcomings with age."
 		},
 		{
 			"key":"EP11_S9100_0033",
-			"value":"本当に何でもできる人とはね、タクマくん\n君たちのような未来ある若者のことだよ"
+			"value":"If anyone is capable here, it is you and your\nfriends, Takuma. You all hold such potential."
 		},
 		{
 			"key":"EP11_S9100_0034",
-			"value":"は、はぁ……"
+			"value":"You think so...?"
 		},
 		{
 			"key":"EP11_S9100_0035",
-			"value":"レナモンは楽しめた？"
+			"value":"Enjoy that, Renamon?"
 		},
 		{
 			"key":"EP11_S9100_0036",
-			"value":"レナモンは……楽しめたかな？"
+			"value":"Are you...enjoying yourself, Renamon?"
 		},
 		{
 			"key":"EP11_S9100_0037",
-			"value":"ふふっ、ああ、最高だ"
+			"value":"Heheh, yes, that was the best."
 		},
 		{
 			"key":"EP11_S9100_0038",
-			"value":"ミユキの素晴らしさとアキハルの滑稽さ\n両方を楽しめた。くふふ……"
+			"value":"Miyuki is as amazing as Akiharu is comical.\nHow could I not? Eheheh..."
 		},
 		{
 			"key":"EP11_S9100_0039",
-			"value":"お前に化けている間、妙に演奏の技術が高くなったが\nそんな理由だったとはな……ふっ、ふふふ"
+			"value":"I’d gotten strangely skillful at the piano in\nthis form. So that’s the reason... Heheheh."
 		},
 		{
 			"key":"EP11_S9100_0040",
-			"value":"はぁ……好きなだけ笑うといい"
+			"value":"Harumph... Well, laugh it up, I suppose."
 		},
 		{
 			"key":"EP11_S9100_0041",
-			"value":"アキハル、もっと聞かせてくれ\nお前の笑い話もなかなか楽しい……ぷぷっ"
+			"value":"Tell me more, Akiharu. Your stories really\ncrack me up... Heheh!"
 		},
 		{
 			"key":"EP11_S9100_0042",
-			"value":"それが人に頼む態度かね……\nまぁ、楽しんでくれているなら結構だが"
+			"value":"Now is that any way to ask a person that?\nWell, I suppose if it makes you happy."
 		},
 		{
 			"key":"EP11_S9100_0043",
-			"value":"（教授はまたレナモンに思い出話を聞かせ始めた\n　邪魔しちゃ悪いから、僕はそろそろ行こう）"
+			"value":"(The professor and Renamon are starting up\nagain. I’d better leave them to it.)"
 		},
 		{
 			"key":"EP11_S9100_0044",
-			"value":"（レナモンは教授の話を楽しそうに聞いてる\n　教授も楽しそうだ。なんだか、いい雰囲気だな）"
+			"value":"(Both of them are enjoying the professor’s\nstory time. They both look so happy.)"
 		}
 	]
 }

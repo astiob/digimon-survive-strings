@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0426_0001",
-			"value":"ん……なんだか誰かいる感じ……"
+			"value":"Hmm... I think someone’s here..."
 		},
 		{
 			"key":"EP01_S0426_0002",
-			"value":"え、そうなのか？\n捜してみるか……"
+			"value":"What, really? Let’s take a look..."
 		},
 		{
 			"key":"EP01_S0426_0003",
-			"value":"この辺に誰かいるよ"
+			"value":"There’s someone around here."
 		}
 	]
 }

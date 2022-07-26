@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2218_0001",
-			"value":"ミウ？\n何を見ているの？"
+			"value":"Miu? What’re you looking at?"
 		},
 		{
 			"key":"EP06_S2218_0002",
-			"value":"ウチお腹空いてきててさー\nお店の中にお菓子とか落ちてないかなって"
+			"value":"My tumbly was getting grumbly, so I thought\nthere might be some sweets around the shop."
 		},
 		{
 			"key":"EP06_S2218_0003",
-			"value":"もしあったら半分こね、シャコモン！"
+			"value":"Remember, Syakomon, we go halfsies on\nanything we find!"
 		},
 		{
 			"key":"EP06_S2218_0004",
-			"value":"仕方ないわね……"
+			"value":"If I gotta, I gotta..."
 		},
 		{
 			"key":"EP06_S2218_0005",
-			"value":"（僕にも分けてほしい）"
+			"value":"(Guess I can’t talk them into thirdsies...)"
 		},
 		{
 			"key":"EP06_S2218_0006",
-			"value":"何か見つけたら報告するわ"
+			"value":"We’ll be sure to report if we find anything!"
 		},
 		{
 			"key":"EP06_S2218_0007",
-			"value":"お菓子があったら報告の前に\n食べちゃうけどね！"
+			"value":"Can’t promise we won’t eat any sweets we find\nfirst, though!"
 		}
 	]
 }

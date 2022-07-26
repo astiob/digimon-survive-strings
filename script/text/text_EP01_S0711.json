@@ -2,307 +2,307 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0711_0001",
-			"value":"ここに、体育館への抜け穴があるのね？"
+			"value":"There should be a secret passage to the gym\nin here, right?"
 		},
 		{
 			"key":"EP01_S0711_0002",
-			"value":"ああ、そう言ってたけど……"
+			"value":"Yeah, that’s what they said..."
 		},
 		{
 			"key":"EP01_S0711_0003",
-			"value":"あ、あった！　本当にあったぞ、抜け穴！"
+			"value":"Oh, here it is! There really was a passage!"
 		},
 		{
 			"key":"EP01_S0711_0004",
-			"value":"やったねタクマ！"
+			"value":"We did it, Takuma!"
 		},
 		{
 			"key":"EP01_S0711_0005",
-			"value":"タクマ、そっちはどうだ！？\n抜け穴ってのはあったか！？"
+			"value":"Hey Takuma, any luck over there? Did you find\nanything?!"
 		},
 		{
 			"key":"EP01_S0711_0006",
-			"value":"ひぃっ、ひぃっ……！\nだ、だからオレ一人置いてく気かよぉ！"
+			"value":"Yeee-heeep! Don’t leave me by myself, you\nfriggin’ jerks!"
 		},
 		{
 			"key":"EP01_S0711_0007",
-			"value":"なんだよリョウ、一人でずっと教室にいたくせに\n今度はオレらと一緒がいいのか～？"
+			"value":"You’re the one that holed up in the classroom\nby yourself, man. Feel like joining us?"
 		},
 		{
 			"key":"EP01_S0711_0008",
-			"value":"う、うっせぇ！　なんか蜘蛛の巣が増えてきて……\nじょ、状況が変わったんだよ！"
+			"value":"Ah, shut up! There’s just more spiderwebs\naround, and...th, things change, all right?!"
 		},
 		{
 			"key":"EP01_S0711_0009",
-			"value":"キュゥ、キュゥン……"
+			"value":"Kewww, kewwwn..."
 		},
 		{
 			"key":"EP01_S0711_0010",
-			"value":"二人とももう少し落ち着け\nクネモンだってこんなに冷静なんだぞ"
+			"value":"You two get a hold of yourselves. Even\nKunemon is showing more composure than you."
 		},
 		{
 			"key":"EP01_S0711_0011",
-			"value":"クネモンは、これ冷静なのか？"
+			"value":"...Is that what composure looks like?"
 		},
 		{
 			"key":"EP01_S0711_0012",
-			"value":"ミノル、リョウ！　見てくれ！\nこれでアオイさんを助けに行ける！"
+			"value":"Minoru! Ryo! Look at this! Now we can go save\nAoi!"
 		},
 		{
 			"key":"EP01_S0711_0013",
-			"value":"タクマ、そっちはどうだ！？\n抜け穴ってのはあったか！？"
+			"value":"Hey Takuma, any luck over there? Did you find\nanything?!"
 		},
 		{
 			"key":"EP01_S0711_0014",
-			"value":"ミノル！　見てくれ！\nこれでアオイさんを助けに行ける！"
+			"value":"Check it out, Minoru! Now we can go save Aoi!"
 		},
 		{
 			"key":"EP01_S0711_0015",
-			"value":"やったな！　早く行こうぜ！"
+			"value":"Good going, man! Let’s get a move on!"
 		},
 		{
 			"key":"EP01_S0711_0016",
-			"value":"ふむ、反撃開始というわけか"
+			"value":"Hmph, so it is finally our time to strike?"
 		},
 		{
 			"key":"EP01_S0711_0017",
-			"value":"お～う、やるぞー！"
+			"value":"Awriiiight, let’s do it!"
 		},
 		{
 			"key":"EP01_S0711_0018",
-			"value":"ひぃっ、ひぃっ……！\nだ、だからオレ一人置いてく気かよぉ！"
+			"value":"Yeee-heeep! Don’t leave me by myself, you\nfriggin’ jerks!"
 		},
 		{
 			"key":"EP01_S0711_0019",
-			"value":"何よアンタ！　アオイを捜しもしないで\nずっと教室にいたくせに！"
+			"value":"Are you for real?! After staying in the\nclassroom without helping us search at all?"
 		},
 		{
 			"key":"EP01_S0711_0020",
-			"value":"ひぃっ！　う、うっせぇ！　蜘蛛の巣が増えて……\nじょ、状況が変わったんだよ！"
+			"value":"Ulp! Sh, shut up! There’s just more cobwebs\naround, and...th, things change, all right?!"
 		},
 		{
 			"key":"EP01_S0711_0021",
-			"value":"リョウ！　見てくれ！\nこれでアオイさんを助けに行ける！"
+			"value":"Hey Ryo, look what I found! Now we can go\nsave Aoi!"
 		},
 		{
 			"key":"EP01_S0711_0022",
-			"value":"あぁ？　知るかよ！\nとにかくオレも連れてけ！"
+			"value":"Save Aoi?! Who cares about that! Just don’t\nleave me behind, okay?!"
 		},
 		{
 			"key":"EP01_S0711_0023",
-			"value":"キュッ、キュゥ！"
+			"value":"Kew, kewww!"
 		},
 		{
 			"key":"EP01_S0711_0024",
-			"value":"クネモンもやる気いっぱいだな！"
+			"value":"Kunemon’s ready to go!"
 		},
 		{
 			"key":"EP01_S0711_0025",
-			"value":"でも、天井裏より蜘蛛の巣がびっしり張られてる……\n下手したら絡まって身動きができなくなるぞ"
+			"value":"Man, there’s a ton more webs down there... If\nwe’re not careful we could get stuck in them."
 		},
 		{
 			"key":"EP01_S0711_0026",
-			"value":"えぇ～？　あのベタベタはヤだな～"
+			"value":"Awww, MORE sticky stuff?! Enough alreadyyy!"
 		},
 		{
 			"key":"EP01_S0711_0027",
-			"value":"そんなの気にしないで通っちゃえばいいじゃない！"
+			"value":"Who cares, let’s just plow on through!"
 		},
 		{
 			"key":"EP01_S0711_0028",
-			"value":"うーん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP01_S0711_0029",
-			"value":"ここ敵も通ってんだよな？　他と違って破れそうだぜ？\n確か蜘蛛の巣を壊す方法があったような……"
+			"value":"The enemy uses this too, right? Maybe we\ncould bust through? Gotta be some way..."
 		},
 		{
 			"key":"EP01_S0711_0030",
-			"value":"酢……お酢だ。昔、ママがやってた"
+			"value":"...Vinegar. Just like my mom used to do it."
 		},
 		{
 			"key":"EP01_S0711_0031",
-			"value":"おぉ、そうだそうだ！　やるなぁリョウ！"
+			"value":"Ohhh, that’s right! My man!"
 		},
 		{
 			"key":"EP01_S0711_0032",
-			"value":"キュゥ！　キュキュゥ！"
+			"value":"Kew! Kew!"
 		},
 		{
 			"key":"EP01_S0711_0033",
-			"value":"クネモンも褒めているようだぞ"
+			"value":"Kunemon offers his own compliments."
 		},
 		{
 			"key":"EP01_S0711_0034",
-			"value":"ケッ……うるせえよ"
+			"value":"Hmph... Shut yer face."
 		},
 		{
 			"key":"EP01_S0711_0035",
-			"value":"ここ敵も通ってんだよな？　他と違って破れそうだぜ？\n確か蜘蛛の巣を壊す方法があったような……"
+			"value":"The enemy uses this too, right? Maybe we\ncould bust through? Gotta be some way..."
 		},
 		{
 			"key":"EP01_S0711_0036",
-			"value":"おすだー！"
+			"value":"Vinegaaar!"
 		},
 		{
 			"key":"EP01_S0711_0037",
-			"value":"そうそう、お酢\nリョウが教えてくれたんだよな"
+			"value":"Oh yeah, the vinegar. Ryo taught us about it."
 		},
 		{
 			"key":"EP01_S0711_0038",
-			"value":"おぉ、そうだそうだ！　やるなぁリョウ！"
+			"value":"Ohhh, that’s right! My man!"
 		},
 		{
 			"key":"EP01_S0711_0039",
-			"value":"キュゥ！　キュキュゥ！"
+			"value":"Kew! Kew!"
 		},
 		{
 			"key":"EP01_S0711_0040",
-			"value":"クネモンも褒めているようだぞ"
+			"value":"Kunemon offers his own compliments."
 		},
 		{
 			"key":"EP01_S0711_0041",
-			"value":"ケッ……うるせえよ"
+			"value":"Hmph... Shut yer face."
 		},
 		{
 			"key":"EP01_S0711_0042",
-			"value":"そういえば、小学校の時の課外授業で\n確かお酢が効くとか言ってたはずだぜ"
+			"value":"I think I heard something like that in an\nafter-school class I had as a kid."
 		},
 		{
 			"key":"EP01_S0711_0043",
-			"value":"そうなのか？　よく覚えてたな"
+			"value":"Oh yeah? You’ve got a good memory."
 		},
 		{
 			"key":"EP01_S0711_0044",
-			"value":"流石だな、ミノル。頼もしいぞ"
+			"value":"That’s Minoru for you. Reliable in a pinch."
 		},
 		{
 			"key":"EP01_S0711_0045",
-			"value":"へへ～ん、まぁな！"
+			"value":"Heh heh, aw shucks!"
 		},
 		{
 			"key":"EP01_S0711_0046",
-			"value":"そういえば、小学校の時の課外授業で\n確かお酢が効くとか言ってたはずだぜ"
+			"value":"In an after-school class I had as a kid,\nI think I heard that vinegar is effective."
 		},
 		{
 			"key":"EP01_S0711_0047",
-			"value":"流石だな、ミノル。頼もしいぞ"
+			"value":"That’s Minoru for you. Reliable in a pinch."
 		},
 		{
 			"key":"EP01_S0711_0048",
-			"value":"そういえば、リョウもお酢が効くって\n言ってたな……"
+			"value":"Oh yeah, Ryo pretty much pretty much said the\nsame thing, if I remember correctly..."
 		},
 		{
 			"key":"EP01_S0711_0049",
-			"value":"そうだったのか……\nうん、アイツも助けてやらねえとな"
+			"value":"Is that right... We’d better bail that guy\nout too, y’know?"
 		},
 		{
 			"key":"EP01_S0711_0050",
-			"value":"酢……お酢だ。昔、ママがやってた"
+			"value":"...Vinegar. Just like my mom used to do it."
 		},
 		{
 			"key":"EP01_S0711_0051",
-			"value":"そうなのか？\n助かるよ、ありがとうリョウ！"
+			"value":"Oh yeah? That’s a big help! Thanks, Ryo!"
 		},
 		{
 			"key":"EP01_S0711_0052",
-			"value":"キュキュッ！　キュゥ！"
+			"value":"Kewkew! Kewww!"
 		},
 		{
 			"key":"EP01_S0711_0053",
-			"value":"クネモンも、すごい！　って言ってるよ～"
+			"value":"Kunemon says “That’s amazing!”"
 		},
 		{
 			"key":"EP01_S0711_0054",
-			"value":"ケッ……うるせえよ"
+			"value":"Hmph... Shut yer face."
 		},
 		{
 			"key":"EP01_S0711_0055",
-			"value":"あ、そうか。ここもお酢を使えば\n蜘蛛の巣を剥がせるんじゃないか？"
+			"value":"Oh yeah, we can melt spiderwebs with vinegar,\ncan’t we?"
 		},
 		{
 			"key":"EP01_S0711_0056",
-			"value":"そうそう、べたべたにはおす！\nリョウが教えてくれたんだよね！"
+			"value":"Right, vinegar for sticky stuff! That’s what\nRyo told us, isn’t it?"
 		},
 		{
 			"key":"EP01_S0711_0057",
-			"value":"だから……いちいち騒ぐなって"
+			"value":"...What’d I tell ya about getting worked up\nover nothing?"
 		},
 		{
 			"key":"EP01_S0711_0058",
-			"value":"いいじゃないか。リョウのおかげなのは本当なんだし"
+			"value":"Oh come on, this is all you, man! We’re just\nbeing grateful."
 		},
 		{
 			"key":"EP01_S0711_0059",
-			"value":"キュキュッ！　キュゥ！"
+			"value":"Kewkew! Kewww!"
 		},
 		{
 			"key":"EP01_S0711_0060",
-			"value":"クネモンも、すごい！　って言ってるよ～"
+			"value":"Kunemon says “That’s amazing!”"
 		},
 		{
 			"key":"EP01_S0711_0061",
-			"value":"ケッ……うるせえよ"
+			"value":"Hmph... Shut yer face."
 		},
 		{
 			"key":"EP01_S0711_0062",
-			"value":"よし、じゃあそれで行こう！"
+			"value":"Okay, let’s do this!"
 		},
 		{
 			"key":"EP01_S0711_0063",
-			"value":"ここを抜けると、きっとバケモノと戦いになる\nみんな、覚悟はいいか？"
+			"value":"Once we go through here, we’ll have to fight\na monster. Is everybody ready?"
 		},
 		{
 			"key":"EP01_S0711_0064",
-			"value":"もちろんだタクマ！"
+			"value":"Of course, Takuma!"
 		},
 		{
 			"key":"EP01_S0711_0065",
-			"value":"あったりまえだぜ！"
+			"value":"Heh, does a bear poop in the woods?"
 		},
 		{
 			"key":"EP01_S0711_0066",
-			"value":"いざ、決戦だ！"
+			"value":"Onward, to battle!"
 		},
 		{
 			"key":"EP01_S0711_0067",
-			"value":"お、おい、オレも行くからな！\nこんなとこで一人にすんじゃねえぞ！？"
+			"value":"Hey, I’m going too! You ain’t gonna leave me\nhere by my lonesome, are ya?!"
 		},
 		{
 			"key":"EP01_S0711_0068",
-			"value":"キュゥイッ！"
+			"value":"Kewwwy!"
 		},
 		{
 			"key":"EP01_S0711_0069",
-			"value":"あったりまえだぜ！"
+			"value":"Heh, does a bear poop in the woods?"
 		},
 		{
 			"key":"EP01_S0711_0070",
-			"value":"雪辱を果たす時だ！"
+			"value":"The time has come to vindicate our honor!"
 		},
 		{
 			"key":"EP01_S0711_0071",
-			"value":"や、やっぱりオレはここで待ってるよ\nどうせ足手まといになりそうだし……"
+			"value":"I’ll, uh, wait here. I’d just get in the way\nanyhow..."
 		},
 		{
 			"key":"EP01_S0711_0072",
-			"value":"キュゥ……"
+			"value":"Kewww..."
 		},
 		{
 			"key":"EP01_S0711_0073",
-			"value":"急がなきゃ！　待っててアオイ！"
+			"value":"Hold on, Aoi, we’re coming!"
 		},
 		{
 			"key":"EP01_S0711_0074",
-			"value":"あ、ラブラモン！　先に行ったら危ないって！"
+			"value":"Ah, don’t run on ahead, Labramon! It’s too\ndangerous!"
 		},
 		{
 			"key":"EP01_S0711_0075",
-			"value":"僕たちも行こう！"
+			"value":"We’ll all go together!"
 		},
 		{
 			"key":"EP01_S0711_0076",
-			"value":"おう！"
+			"value":"Yeah!"
 		}
 	]
 }

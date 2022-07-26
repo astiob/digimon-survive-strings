@@ -2,23 +2,23 @@
     "scenario_text": [
         {
             "key": "EP01_S0501_0001",
-            "value": "な……なんだあいつ？\n生き物、なのか……？"
+            "value": "Wha...what the heck is that? Some kind of...\ncreature?"
         },
         {
             "key": "EP01_S0501_0002",
-            "value": "さっきの岩みたいなヤツとは違うみたいだけど……\nコイツも襲いかかってきたりしないだろうな……"
+            "value": "Doesn’t seem like that rock thing from\nbefore... Hope it’s a bit friendlier."
         },
         {
             "key": "EP01_S0501_0003",
-            "value": "あれ……消えた？\nまさか、物陰から襲うつもりか？"
+            "value": "Oh... It’s gone? Don’t tell me it plans to\nattack from the shadows somewhere?"
         },
         {
             "key": "EP01_S0501_0004",
-            "value": "別のところを<color=#B41919>カメラ</color>で見てみよう"
+            "value": "I’ll survey other spots with my <color=#B41919>camera</color>."
         },
         {
             "key": "EP01_S0501_0005",
-            "value": "別のところをカメラで見てみよう"
+            "value": "I’ll survey other spots with my camera."
         }
     ]
 }

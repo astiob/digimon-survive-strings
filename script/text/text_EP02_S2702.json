@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2702_0001",
-			"value":"そういえば電気ってつかないのかな？\nこの部屋、少し薄暗いからさ……"
+			"value":"What’s the power situation? It’s getting\na little dark in here..."
 		},
 		{
 			"key":"EP02_S2702_0002",
-			"value":"ん？　デンキ……？"
+			"value":"The power?"
 		},
 		{
 			"key":"EP02_S2702_0003",
-			"value":"ほら、この天井にあるやつ"
+			"value":"There are lights in the ceiling, right?"
 		},
 		{
 			"key":"EP02_S2702_0004",
-			"value":"ああ、上のこれのこと？\n……それは壊れてるみたいだな"
+			"value":"Those things up there?\nThey look broken to me."
 		},
 		{
 			"key":"EP02_S2702_0005",
-			"value":"そっか……まぁこんなボロボロの校舎に\n電気が通っているはずないもんな"
+			"value":"I see. Well, you wouldn’t expect there to be\npower in this wreck of a school."
 		},
 		{
 			"key":"EP02_S2702_0006",
-			"value":"灯りが必要になったら\n携帯のライトを使うしかないか"
+			"value":"If we need light, we can use the flashlights\nin our cellphones."
 		}
 	]
 }

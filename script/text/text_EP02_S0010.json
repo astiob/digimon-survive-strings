@@ -2,331 +2,331 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0010_0001",
-			"value":"はあ、はあ、はあ……"
+			"value":"*huff* *huff* *huff*..."
 		},
 		{
 			"key":"EP02_S0010_0002",
-			"value":"一体、何がどうなってるの！？\nもう、何時間も歩いてるのに……！"
+			"value":"What the heck’s going on?!\nWe’ve been walking for hours..."
 		},
 		{
 			"key":"EP02_S0010_0003",
-			"value":"あの、教授……まさかとは思いますが、\n僕たちはひょっとして……"
+			"value":"Um, Professor?\nI hate to say it, but are we lost?"
 		},
 		{
 			"key":"EP02_S0010_0101",
-			"value":"うむ。その『まさか』かもしれないな\nこの神社には何度も来てる筈なのに……"
+			"value":"I’m afraid you might be right. It’s strange.\nI’ve been to this shrine countless times..."
 		},
 		{
 			"key":"EP02_S0010_0102",
-			"value":"行けども行けども、見た覚えのない木立に……\nこの植物相はどうしたことだ？"
+			"value":"Yet I’ve never seen these trees before.\nWhatever might this strange flora be...?"
 		},
 		{
 			"key":"EP02_S0010_0006",
-			"value":"なんか、そこら中モヤがかかってるし……\n進んでも進んでも同じトコ回ってる感じ……？"
+			"value":"Just look at all this mist. Do you think it’s\nmaking us go around in circles?"
 		},
 		{
 			"key":"EP02_S0010_0007",
-			"value":"そんな、子供の足でも小一時間かからない\n小さい山の中ですよ！？　まさか、こんな所で……"
+			"value":"No way. Even a child could get across this\narea in an hour! Don’t tell me..."
 		},
 		{
 			"key":"EP02_S0010_0008",
-			"value":"私たち遭難しちゃったの！？\nうそ～～～～"
+			"value":"Are we, like...stuck here somehow?\nLike for real?!"
 		},
 		{
 			"key":"EP02_S0010_0009",
-			"value":"うむ。普通ならば考えられない話だ\nだが我々はつい先程まで、気を失っていたからな"
+			"value":"Indeed. A normally impossible conjecture, but\nwe have lost consciousness."
 		},
 		{
 			"key":"EP02_S0010_0103",
-			"value":"確かに、こんなところで遭難などあり得ない\nあり得ない事が起きたなら、原因も必ずある"
+			"value":"Getting stuck is certainly odd. If it has\noccurred, there must be a reason."
 		},
 		{
 			"key":"EP02_S0010_0011",
-			"value":"じゃあ一体、何が……？"
+			"value":"A reason? Like what?"
 		},
 		{
 			"key":"EP02_S0010_0012",
-			"value":"これはあくまで推測だが……例えば、\n我々が何らかの有毒ガスを吸ったとしたなら？"
+			"value":"This is just a theory, but perhaps we inhaled\nsome sort of noxious gas?"
 		},
 		{
 			"key":"EP02_S0010_0013",
-			"value":"えっ！？　やだ怖い！"
+			"value":"No way! Now you’re freaking me out..."
 		},
 		{
 			"key":"EP02_S0010_0014",
-			"value":"それが原因で方向感覚が狂う事も十分にあり得るし\n遭難の一因であっても不思議ではないだろう"
+			"value":"It would explain a loss of directional sense,\nand would certainly explain why we’re stuck."
 		},
 		{
 			"key":"EP02_S0010_0015",
-			"value":"私が気付いた時は……季節外れの彼岸花の咲き乱れる\n木立の中に一人、立っていた……"
+			"value":"When I awoke, I was standing alone in a grove\nof trees surrounded by red spider lilies..."
 		},
 		{
 			"key":"EP02_S0010_0016",
-			"value":"そこで君たちの声を聞いて、駆けつけたのだが……\n私と会うまでの記憶を君たちは持っているかね？"
+			"value":"That’s when I heard you, and rushed over.\nDo you all remember anything before we met?"
 		},
 		{
 			"key":"EP02_S0010_0017",
-			"value":"た、確かにちょっと、記憶も曖昧ですし、\n周囲は妙な霧に包まれてますが……でも、どうして？"
+			"value":"Hmm, my memories are definitely fuzzy...\nand there’s this weird fog. What’s going on?"
 		},
 		{
 			"key":"EP02_S0010_0018",
-			"value":"さて……その原因を探り、ヒントを掴み、検証し、\n論証を重ねて解を得るのもまた、学究の一つかな"
+			"value":"Well. You all came to do some research, yes?\nI believe looking for this “reason” counts."
 		},
 		{
 			"key":"EP02_S0010_0019",
-			"value":"引率の先生じゃないんだからさぁ……\n今はお勉強はいいよ、お家に帰りた～い！"
+			"value":"You’re not even part of our study group!\nOhhh I’ve had it, I just wanna go home!"
 		},
 		{
 			"key":"EP02_S0010_0020",
-			"value":"帰還できてもキャンプの宿泊所だし\n自宅はまだずっと先だろう"
+			"value":"We still have to get back to the camp grounds\nfirst. Home is even farther away than that."
 		},
 		{
 			"key":"EP02_S0010_0021",
-			"value":"屁理屈言わないで！\nもうやだ～！　足が棒になっちゃったよ～！"
+			"value":"Now ain’t the time for splitting hairs!\nMaaan, my legs are stiff as a board already!"
 		},
 		{
 			"key":"EP02_S0010_0022",
-			"value":"今はそんな弱音を吐いている場合じゃないだろう！\n帰りたいなら自分の足で歩くしかないんだ！"
+			"value":"And I say now’s no time to start whining!\nThose legs are your only way out of here!"
 		},
 		{
 			"key":"EP02_S0010_0023",
-			"value":"そんなの当たり前だし、\n別におぶってくれなんて言ってないから！"
+			"value":"Thanks for the lesson, Captain Obvious. It’s\nnot like I asked you to carry me or anything!"
 		},
 		{
 			"key":"EP02_S0010_0024",
-			"value":"まあまあ、無駄な争いは体力を消耗するだけだからね\n何だったらサキくんは私がおぶっても構わない"
+			"value":"Now, now, this is a waste of energy.\nHere, Saki, I’ll carry you if you’d like."
 		},
 		{
 			"key":"EP02_S0010_0025",
-			"value":"い、いいですよ、そんなの～"
+			"value":"I...I’ll pass, thanks."
 		},
 		{
 			"key":"EP02_S0010_0201",
-			"value":"当たり前だ。教授に気を遣わせるようなことを\n言うんじゃない"
+			"value":"That’s right you will. You shouldn’t be\nsaying things that upset the professor."
 		},
 		{
 			"key":"EP02_S0010_0026",
-			"value":"教授も、彼女をそんな甘やかさないで下さい"
+			"value":"For that matter, Professor, you shouldn't coddle her."
 		},
 		{
 			"key":"EP02_S0010_0027",
-			"value":"君も年長者なら、頭ごなしに叱るのではなく\n彼女を導いてやってはどうかね"
+			"value":"And I suggest you lead by example, instead\nof simply chiding her without ears to listen."
 		},
 		{
 			"key":"EP02_S0010_0028",
-			"value":"とにかく、今ここにいるのは我々３人だけなんだ\nお互いで助け合わないとな"
+			"value":"At any rate, it’s only the three of us here.\nWe have no one to rely on but each other."
 		},
 		{
 			"key":"EP02_S0010_0029",
-			"value":"そ、それはそうですけど……"
+			"value":"Yeah, I guess that’s true..."
 		},
 		{
 			"key":"EP02_S0010_0030",
-			"value":"はぁ……アオイちゃんたちどうしてるんだろ？\nさっきまで一緒だったミウちゃんって子も……"
+			"value":"Hey... Where did Aoi and the others go?!\nThat Miu kid was with them, too—"
 		},
 		{
 			"key":"EP02_S0010_0031",
-			"value":"えっ、何、今の……？"
+			"value":"Wait, did you hear that?"
 		},
 		{
 			"key":"EP02_S0010_0032",
-			"value":"この辺りならさすがに熊じゃないでしょうし\n猿か猪でもいるんですかね……？"
+			"value":"There shouldn’t be any bears in this region.\nIt could’ve been a monkey...or maybe a boar?"
 		},
 		{
 			"key":"EP02_S0010_0033",
-			"value":"どうだろう、警戒は怠らないようにしないとね"
+			"value":"At any rate, best to remain vigilant."
 		},
 		{
 			"key":"EP02_S0010_0072",
-			"value":"ロップモン、こっちよ！"
+			"value":"Over here, Lopmon!"
 		},
 		{
 			"key":"EP02_S0010_0073",
-			"value":"う、うん！"
+			"value":"Ah, yeah, okay!"
 		},
 		{
 			"key":"EP02_S0010_0034",
-			"value":"な、何これ！？"
+			"value":"What the—?!"
 		},
 		{
 			"key":"EP02_S0010_0035",
-			"value":"こ、これって……い、生き物！？"
+			"value":"Is...is that an animal?!"
 		},
 		{
 			"key":"EP02_S0010_0036",
-			"value":"な、な……、何だと……！？"
+			"value":"What in the world?!"
 		},
 		{
 			"key":"EP02_S0010_0074",
-			"value":"あ、あなたたちって……"
+			"value":"You guys are..."
 		},
 		{
 			"key":"EP02_S0010_0075",
-			"value":"えっ……？"
+			"value":"Huh...?"
 		},
 		{
 			"key":"EP02_S0010_0037",
-			"value":"きょ、教授っ……！？\nこ、こんな生き物……いるんですか！？"
+			"value":"Uh, Professor!\nHave you ever heard of a creature like this?!"
 		},
 		{
 			"key":"EP02_S0010_0076",
-			"value":"キミは……？"
+			"value":"You’re...?"
 		},
 		{
 			"key":"EP02_S0010_0077",
-			"value":"な、なんだ……？"
+			"value":"Wh-what is it...?"
 		},
 		{
 			"key":"EP02_S0010_0038",
-			"value":"そ、そんな、そんな……ま、まさか……"
+			"value":"I...I can’t believe my eyes..."
 		},
 		{
 			"key":"EP02_S0010_0039",
-			"value":"あ、これってもしかして、伝承にあった例のその、\nケモノガミ……ってヤツ？　うそぉ！？"
+			"value":"Wait. Don’t tell me. This isn’t one of those\nlegendary “Kemonogami” things, is it?!"
 		},
 		{
 			"key":"EP02_S0010_0040",
-			"value":"まさか？　実在したんですか！？\nそんな……ありえない！"
+			"value":"A Kemonogami?! That’s impossible!\nThose things can’t really exist!"
 		},
 		{
 			"key":"EP02_S0010_0041",
-			"value":"ありえないって、今目の前にいるじゃない！？\nねえ、教授！！"
+			"value":"This thing looking right at us says\ndifferent! Right, Professor?"
 		},
 		{
 			"key":"EP02_S0010_0042",
-			"value":"そ、そんな……そんな……ホントに……"
+			"value":"Unbelievable... They really..."
 		},
 		{
 			"key":"EP02_S0010_0043",
-			"value":"わぁ……何かもう、教授ぷるぷる震えてる……"
+			"value":"Uhh... I think we broke him..."
 		},
 		{
 			"key":"EP02_S0010_0044",
-			"value":"そ、そりゃあ……僕だって驚いてるのに\nずっとケモノガミを研究してきた教授ならば……"
+			"value":"Can you blame him? I mean I’m shocked myself,\nbut he’s been researching them for years..."
 		},
 		{
 			"key":"EP02_S0010_0045",
-			"value":"あ、あのね……？　もしもーし、\nケモノガミさーん？"
+			"value":"Ummm, like, hello? Mr. Kemonogami?"
 		},
 		{
 			"key":"EP02_S0010_0046",
-			"value":"こらっ、不用意に近づくんじゃない！"
+			"value":"Hey! Don’t approach it so carelessly!"
 		},
 		{
 			"key":"EP02_S0010_0047",
-			"value":"だって、神様ならもしかしたら\n言葉も通じるかなって……"
+			"value":"I just thought it might understand words,\nthat’s all..."
 		},
 		{
 			"key":"EP02_S0010_0048",
-			"value":"きゃっ！！"
+			"value":"Yeeep!"
 		},
 		{
 			"key":"EP02_S0010_0049",
-			"value":"わ、わあっ！？　な、何だ！？"
+			"value":"Whoa! What the—?!"
 		},
 		{
 			"key":"EP02_S0010_0078",
-			"value":"うわぁあ！！"
+			"value":"Uwaaah!"
 		},
 		{
 			"key":"EP02_S0010_0104",
-			"value":"ま、まずい……\n危険なヤツかもしれない！"
+			"value":"Oh no... \nI think they might be dangerous!"
 		},
 		{
 			"key":"EP02_S0010_0051",
-			"value":"わ、わあぁっ、こっち来たっ！\nヤだっ、アッチ行ってっ……！"
+			"value":"Eek, it’s coming over here!\nShoo! Shoo!!!"
 		},
 		{
 			"key":"EP02_S0010_0105",
-			"value":"私たち、コイツに追われてたの！\n凶暴な奴よ！！"
+			"value":"We’re being chased by them!\nThey’re freaking scary!!!"
 		},
 		{
 			"key":"EP02_S0010_0052",
-			"value":"きゃ、きゃあぁあああああ！"
+			"value":"YEEEEEEEEEEEEEEEEEEP!!!"
 		},
 		{
 			"key":"EP02_S0010_0053",
-			"value":"ハッ！　い、いかん……！\nサキくん、危ない！"
+			"value":"Oh, oh no!\nLook out, Saki!"
 		},
 		{
 			"key":"EP02_S0010_0054",
-			"value":"ぐわぁあっ……！"
+			"value":"GAAAUGH!"
 		},
 		{
 			"key":"EP02_S0010_0055",
-			"value":"きゃあっ！？\nきょ、教授……！？"
+			"value":"Yikes!\nProfessor?!"
 		},
 		{
 			"key":"EP02_S0010_0056",
-			"value":"そ、そんな……教授っ！"
+			"value":"Oh no... Professor!"
 		},
 		{
 			"key":"EP02_S0010_0057",
-			"value":"う、ウソでしょ！？　私をかばって……！？"
+			"value":"He... He protected me!"
 		},
 		{
 			"key":"EP02_S0010_0058",
-			"value":"きゃああっ！？\nいっぱい来たあ～！"
+			"value":"Eek!\nNow there’s a bunch of them!"
 		},
 		{
 			"key":"EP02_S0010_0059",
-			"value":"は、早く教授を助けないと……！\nか、怪物どもが教授に群がって……！"
+			"value":"We have to save the professor...\nThe monsters are swarming him!"
 		},
 		{
 			"key":"EP02_S0010_0060",
-			"value":"く、来るんじゃないっ！\nわ、私に構わず、君たちは早く逃げなさい！"
+			"value":"S-stay away! Don’t worry about me, just\nrun away!"
 		},
 		{
 			"key":"EP02_S0010_0061",
-			"value":"で、でも……！"
+			"value":"But—!"
 		},
 		{
 			"key":"EP02_S0010_0080",
-			"value":"このままじゃ危ないよ！"
+			"value":"We’re in trouble if we stick around here!"
 		},
 		{
 			"key":"EP02_S0010_0106",
-			"value":"お願いだ、シュウジくん……さあ！"
+			"value":"Shuuji...go on, now!"
 		},
 		{
 			"key":"EP02_S0010_0107",
-			"value":"教授っ……\nクゥッ……！"
+			"value":"Professor...\nDammit!"
 		},
 		{
 			"key":"EP02_S0010_0081",
-			"value":"シュウジ……？\nね、ねえ……早く逃げなきゃ！"
+			"value":"Hey... Come on, Shuuji.\nWe’ve gotta get outta here!"
 		},
 		{
 			"key":"EP02_S0010_0108",
-			"value":"行くぞ、サキ君！"
+			"value":"Let’s go, Saki!"
 		},
 		{
 			"key":"EP02_S0010_0065",
-			"value":"えっ！？"
+			"value":"Huh?!"
 		},
 		{
 			"key":"EP02_S0010_0066",
-			"value":"いいから、逃げるんだ、さあ！"
+			"value":"Come on, just run!"
 		},
 		{
 			"key":"EP02_S0010_0067",
-			"value":"そ、そんな……！"
+			"value":"Professor! No!!!"
 		},
 		{
 			"key":"EP02_S0010_0068",
-			"value":"それでいい……\n大人の私が子供たちを守れないでどうする……"
+			"value":"It’s fine...\nIt’s up to us adults to protect the future."
 		},
 		{
 			"key":"EP02_S0010_0069",
-			"value":"シュウジくん……あとは頼んだぞ……"
+			"value":"The rest is in your hands, Shuuji."
 		},
 		{
 			"key":"EP02_S0010_0070",
-			"value":"ま、待ってよシュウジさん！\n教授を置いていくなんて、私っ……！"
+			"value":"Wait, Shuuji!\nWe can’t just leave him—"
 		},
 		{
 			"key":"EP02_S0010_0071",
-			"value":"教授の思いを無駄にするんじゃないっ！\n逃げるぞっ……！！"
+			"value":"We can’t let his sacrifice be in vain!\nLet’s get out of here!"
 		}
 	]
 }

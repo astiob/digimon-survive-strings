@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9178_0001",
-			"value":"な、何か……聞こえる……"
+			"value":"I... I hear something..."
 		},
 		{
 			"key":"EP12_S9178_0002",
-			"value":"助けてって言ってる\n助けてあげなきゃ！"
+			"value":"He’s asking for help! We should go save him!"
 		},
 		{
 			"key":"EP12_S9178_0003",
-			"value":"（あの祠の人が助けを求めてる……？\n　そ、それなら、接触した方がいいのか……？）"
+			"value":"(Is it that boy asking for help? And if it\nis, should we really get involved?)"
 		},
 		{
 			"key":"EP12_S9178_0004",
-			"value":"（うぅっ、さすがに不気味すぎる！\n　これはやめた方がいいかも……！）"
+			"value":"(Ugh, it’s just too creepy! Maybe we’d better\nnot respond...)"
 		},
 		{
 			"key":"EP12_S9178_0005",
-			"value":"ま、待ったアグモン！\nこれは、えっと……罠かもしれない"
+			"value":"Agumon, wait! This, uh... This could be\na trap!"
 		},
 		{
 			"key":"EP12_S9178_0006",
-			"value":"罠？"
+			"value":"A trap?"
 		},
 		{
 			"key":"EP12_S9178_0007",
-			"value":"おびき寄せたところを捕まえて\nあの世に引きずり込むのかも……"
+			"value":"Yeah, like he’s trying to draw us out and\nthen drag us down to Hell..."
 		},
 		{
 			"key":"EP12_S9178_0008",
-			"value":"ん～？　アノヨってなに～？"
+			"value":"Huh? What’s Hell?"
 		},
 		{
 			"key":"EP12_S9178_0009",
-			"value":"と、とにかく離れよう！"
+			"value":"Never mind that! Just keep your distance!"
 		},
 		{
 			"key":"EP12_S9178_0010",
-			"value":"（とっさにでまかせを言っちゃったけど\n　なんとなく、近づかない方がいい気がするな……）"
+			"value":"(I panicked, so that was all I could think\nof, but I feel like we should stay away.)"
 		}
 	]
 }

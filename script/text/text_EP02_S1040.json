@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1040_0001",
-			"value":"ビックリした！\nハルじゃないか！"
+			"value":"Hang on!\nIt’s Haru!"
 		},
 		{
 			"key":"EP02_S1040_0002",
-			"value":"てっきり、\n何かモンスターでも潜んでるかと……"
+			"value":"Thank goodness.\nI thought it was a monster..."
 		},
 		{
 			"key":"EP02_S1040_0101",
-			"value":"何してるんだ～？"
+			"value":"What’re you doing?!"
 		},
 		{
 			"key":"EP02_S1040_0005",
-			"value":"うん……パトロールをしてて……"
+			"value":"We were...out on patrol..."
 		},
 		{
 			"key":"EP02_S1040_Q1",
-			"value":"（なるほど、二人きりだからミユキを守ってたのか）"
+			"value":"(They’re alone so he’s watching Miyuki.)"
 		},
 		{
 			"key":"EP02_S1040_Q1_A1",
-			"value":"心配させちゃダメだぞ？"
+			"value":"You made us worried!"
 		},
 		{
 			"key":"EP02_S1040_Q1_A2",
-			"value":"感心だな"
+			"value":"That’s impressive."
 		},
 		{
 			"key":"EP02_S1040_Q1_A3",
-			"value":"あれ？　でもさっきまで……"
+			"value":"Huh? I could have sworn..."
 		},
 		{
 			"key":"EP02_S1040_0006",
-			"value":"熱心なのはいいけど\nお姉さんを心配させちゃダメだぞ？"
+			"value":"I respect your enthusiasm, but don’t worry\nyour sister, okay?"
 		},
 		{
 			"key":"EP02_S1040_0102",
-			"value":"……そんなの、言われなくても当然だよ"
+			"value":"I don’t need you to tell me that."
 		},
 		{
 			"key":"EP02_S1040_0103",
-			"value":"はは、感心だな\nお姉ちゃんを悪いやつから守ってるんだな"
+			"value":"Ha ha, I’m impressed.\nProtecting your sis from the bad guys, huh?"
 		},
 		{
 			"key":"EP02_S1040_0104",
-			"value":"……うん"
+			"value":"...Yeah."
 		},
 		{
 			"key":"EP02_S1040_0105",
-			"value":"さっきまでミユキと一緒にいたのにな"
+			"value":"You were just with Miyuki, right?"
 		},
 		{
 			"key":"EP02_S1040_0106",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S1040_0107",
-			"value":"（はぐれたのかな？）"
+			"value":"(Did they get separated or something?)"
 		},
 		{
 			"key":"EP02_S1040_0007",
-			"value":"……ハル？"
+			"value":"...Haru?"
 		},
 		{
 			"key":"EP02_S1040_0008",
-			"value":"あ、お姉ちゃん……"
+			"value":"Oh, hey sis..."
 		},
 		{
 			"key":"EP02_S1040_0009",
-			"value":"……よかった\nここにいたのね"
+			"value":"So you were here.\nThank goodness..."
 		},
 		{
 			"key":"EP02_S1040_0010",
-			"value":"うん。……そっか、\nちょっと離れすぎてたね……"
+			"value":"Yeah... Oh I see, I didn’t realize how far\nI’d gone..."
 		},
 		{
 			"key":"EP02_S1040_0011",
-			"value":"心配かけて、ゴメンなさい……"
+			"value":"You must’ve been worried. I’m sorry..."
 		},
 		{
 			"key":"EP02_S1040_0012",
-			"value":"ううん、いいの……"
+			"value":"No, it’s okay..."
 		},
 		{
 			"key":"EP02_S1040_0013",
-			"value":"タクマ……さん"
+			"value":"...Takuma."
 		},
 		{
 			"key":"EP02_S1040_0014",
-			"value":"え？　あ、はい！"
+			"value":"Huh? Oh, uh yes?"
 		},
 		{
 			"key":"EP02_S1040_0015",
-			"value":"みつけてくれて……ありがとう……"
+			"value":"Thank you...for finding him..."
 		},
 		{
 			"key":"EP02_S1040_0016",
-			"value":"これ……お礼……"
+			"value":"Here...take this..."
 		},
 		{
 			"key":"EP02_S1040_0017",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP02_S1040_0018",
-			"value":"さっき……拾ったの……\n私には使いみちもないし……"
+			"value":"I...picked this up...and I can’t use it..."
 		},
 		{
 			"key":"EP02_S1040_0019",
-			"value":"ええっと……あ、ありがとう"
+			"value":"Um...well, thanks."
 		},
 		{
 			"key":"EP02_S1040_0201",
-			"value":"……………"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S1040_0202",
-			"value":"ミユキがしっかり喋った……？"
+			"value":"Was that...a full sentence from Miyuki?"
 		},
 		{
 			"key":"EP02_S1040_0108",
-			"value":"（ハルとミユキは校舎に戻ったみたいだ\n　僕らも探索に戻ろう）"
+			"value":"(Haru and Miyuki went back to the school.\nWe should start searching again.)"
 		}
 	]
 }

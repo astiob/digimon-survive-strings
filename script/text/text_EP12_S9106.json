@@ -2,163 +2,163 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9106_0001",
-			"value":"あれ、カイト？\nこんなとこで何してるの？"
+			"value":"Kaito? What are you doing?"
 		},
 		{
 			"key":"EP12_S9106_0002",
-			"value":"おう、今日はあんま動かなかったろ？\nだからちょっと特訓でも、ってな"
+			"value":"You know how we didn’t fight much today?\nI thought I’d make up for that by training."
 		},
 		{
 			"key":"EP12_S9106_0003",
-			"value":"俺も付き合わされてるってワケだ\nはー、シンド"
+			"value":"And he’s got me going along with it. Talk\nabout a pain in the neck."
 		},
 		{
 			"key":"EP12_S9106_0004",
-			"value":"愚痴ってねえで、もういっちょいくぞ\nお前とじゃねえと張り合いねえんだよ"
+			"value":"Hey, quit complaining and let’s go again.\nI can’t get into this if I’m not facin’ you."
 		},
 		{
 			"key":"EP12_S9106_0005",
-			"value":"やれやれ……そう言われるのは悪くねえな"
+			"value":"Oh, all right. I guess I can’t say no when\nyou put it like that."
 		},
 		{
 			"key":"EP12_S9106_0006",
-			"value":"もうちょっとで最後だろうからよ\n気ぃ引き締めていかねえとな"
+			"value":"We’re coming up on the end of all this, you\nknow. We gotta be ready."
 		},
 		{
 			"key":"EP12_S9106_0007",
-			"value":"カイト……"
+			"value":"Kaito..."
 		},
 		{
 			"key":"EP12_S9106_0008",
-			"value":"（カイトって、こういうとこやっぱり真面目だよな\n　見た目とか喋り方で誤解しちゃうけど）"
+			"value":"(You might not think it to look at him, or to\nhear him talk, but Kaito’s a good guy.)"
 		},
 		{
 			"key":"EP12_S9106_0009",
-			"value":"（せっかくだし、僕も特訓に付き合おうか\n　あ、でも、僕じゃカイトの邪魔になっちゃうかな）"
+			"value":"(And he’s got a point. Maybe I should join\nhim. Oh, but I’d hate to get in his way.)"
 		},
 		{
 			"key":"EP12_S9106_Q1",
-			"value":"（カイトにどう対応しよう？）"
+			"value":"(How should I handle this guy?)"
 		},
 		{
 			"key":"EP12_S9106_Q1_A1",
-			"value":"カイトを褒める"
+			"value":"Compliment Kaito."
 		},
 		{
 			"key":"EP12_S9106_Q1_A2",
-			"value":"邪魔をしないでおく"
+			"value":"Stay out of the way."
 		},
 		{
 			"key":"EP12_S9106_Q1_A3",
-			"value":"一緒に特訓する"
+			"value":"Train with Kaito."
 		},
 		{
 			"key":"EP12_S9106_0010",
-			"value":"カイトを褒める"
+			"value":"Compliment Kaito."
 		},
 		{
 			"key":"EP12_S9106_0011",
-			"value":"やっぱりカイトって真面目だよね"
+			"value":"You know, you’re a good guy, Kaito."
 		},
 		{
 			"key":"EP12_S9106_0012",
-			"value":"な、なんだよ急に？"
+			"value":"Huh? What’s gotten into you all of a sudden?"
 		},
 		{
 			"key":"EP12_S9106_0013",
-			"value":"いや、初めて会った頃は、不良っぽくて荒っぽくて\nちょっと怖かったりしてたんだけど"
+			"value":"I was just thinking how nervous I was when\nI met you, because you seemed so rough."
 		},
 		{
 			"key":"EP12_S9106_0014",
-			"value":"ミウのことはもちろん、みんなのことも守ろうとして\nくれるし、危ないことも真っ先にやろうとするし"
+			"value":"But seeing how you protect not only Miu, but\nall of us, how you jump into danger..."
 		},
 		{
 			"key":"EP12_S9106_0015",
-			"value":"一緒にいるうちに\nカイトの良さがどんどん見えてきたからさ"
+			"value":"The more time we’ve spent together, the more\nI’ve been able to realize how nice you are."
 		},
 		{
 			"key":"EP12_S9106_0016",
-			"value":"や、やめろ……いきなり褒められると\nなんか、むずがゆいんだよ"
+			"value":"Aw, cut it out, would you? Hearin’ stuff like\nthat makes me feel like I’m gettin’ a rash."
 		},
 		{
 			"key":"EP12_S9106_0017",
-			"value":"いいぞ～タクマ、もっと言ってやれ\nコイツ自分のこと過小評価しすぎなんだよな～"
+			"value":"No, keep going, Takuma! Kaito never gives\nhimself enough credit."
 		},
 		{
 			"key":"EP12_S9106_0018",
-			"value":"見た目とか喋り方とか、もうちょっと柔らかくしたら？\nせっかくいい奴なのに、誤解されるのはもったいないよ"
+			"value":"You should try softening up your speech or\nyour looks. Then you wouldn’t put people off."
 		},
 		{
 			"key":"EP12_S9106_0019",
-			"value":"う、うるせえよ\n別に他人に好かれたいとは思ってねえ"
+			"value":"Hey, shut up! It’s not like I’m tryin’ to get\npeople to like me."
 		},
 		{
 			"key":"EP12_S9106_0020",
-			"value":"も、もういいだろ\n邪魔すんなら行けよ"
+			"value":"Anyway, enough of this. If you’re just gonna\nannoy me, you can go somewhere else."
 		},
 		{
 			"key":"EP12_S9106_0021",
-			"value":"（ちょっと言い過ぎちゃったかな？\n　まぁ、珍しく照れたカイトを見られたからいいか）"
+			"value":"(Maybe I went a little too far. It was worth\nit to see Kaito so flustered, though.)"
 		},
 		{
 			"key":"EP12_S9106_0022",
-			"value":"邪魔をしないでおく"
+			"value":"Stay out of the way."
 		},
 		{
 			"key":"EP12_S9106_0023",
-			"value":"それなら、僕は行くよ\n特訓がんばって"
+			"value":"All right, well, I’ll leave you to it. Good\nluck with the training!"
 		},
 		{
 			"key":"EP12_S9106_0024",
-			"value":"なんだ、一緒にやってかねえのか？"
+			"value":"What, you’re not going to join in?"
 		},
 		{
 			"key":"EP12_S9106_0025",
-			"value":"うーん、僕だとカイトの邪魔になりそうだし\n遠慮するよ"
+			"value":"Nah, I feel like I’d only slow you down.\nI think I’d better pass."
 		},
 		{
 			"key":"EP12_S9106_0026",
-			"value":"邪魔なんてことはねえが……\nまぁ、無理に付き合わせはしねえよ"
+			"value":"Hey, you don’t gotta worry about slowin’ me\ndown, but I’m not gonna force you."
 		},
 		{
 			"key":"EP12_S9106_0027",
-			"value":"それじゃ、頑張って\n夕食までには戻ってきてね"
+			"value":"Okay, well, keep it up! Just make sure you’re\nback in time for dinner."
 		},
 		{
 			"key":"EP12_S9106_0028",
-			"value":"わかったわかった\nじゃ、後でな"
+			"value":"Yeah, got it. See you later!"
 		},
 		{
 			"key":"EP12_S9106_0029",
-			"value":"一緒に特訓する"
+			"value":"Train with Kaito."
 		},
 		{
 			"key":"EP12_S9106_0030",
-			"value":"せっかくだし、僕も一緒に\n特訓していいかな？"
+			"value":"You know, that’s a good point. You mind if\nI join you?"
 		},
 		{
 			"key":"EP12_S9106_0031",
-			"value":"お、いいぜ\nタクマ相手ならいい運動になりそうだ"
+			"value":"Sure, no problem. Training with you oughta be\na good workout."
 		},
 		{
 			"key":"EP12_S9106_0032",
-			"value":"はは、お手柔らかにね"
+			"value":"Haha, go easy on me, okay?"
 		},
 		{
 			"key":"EP12_S9106_0033",
-			"value":"ボクもやる～！"
+			"value":"I’m gonna train too!"
 		},
 		{
 			"key":"EP12_S9106_0034",
-			"value":"ならチーム戦でもするか\nやってやろうぜドラクモン"
+			"value":"We can make it a team match, then. You ready\nfor this, Dracmon?"
 		},
 		{
 			"key":"EP12_S9106_0035",
-			"value":"おうよ！　俺たちの連携、見せつけてやるか！"
+			"value":"You bet I am! Let’s show ‘em what real\nteamwork looks like!"
 		},
 		{
 			"key":"EP12_S9106_0036",
-			"value":"ふぅ、いい汗かいたぜ\n少し涼んだら戻るから、気にしなくていいぞ"
+			"value":"Phew, that was a real workout. I’ll head back\nafter I take a quick break. You go on ahead."
 		}
 	]
 }

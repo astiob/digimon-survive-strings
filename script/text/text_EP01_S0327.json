@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0327_0001",
-			"value":"（救急箱を持って早くラブラモンのところへ行こう！）"
+			"value":"(I’d better bring that first-aid kit back to\nLabramon as soon as I can!)"
 		},
 		{
 			"key":"EP01_S0327_0002",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP01_S0327_0003",
-			"value":"どうしたの、タクマ？"
+			"value":"What’s up, Takuma?"
 		},
 		{
 			"key":"EP01_S0327_0004",
-			"value":"な、なんでもないよ……\n早く探そうか……"
+			"value":"Ah, it’s nothing. Come on, we have to keep\nlooking!"
 		}
 	]
 }

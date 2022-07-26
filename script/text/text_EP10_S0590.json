@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0590_0001",
-			"value":"ねえ、タクマ\n聞きたいことがあるんだ"
+			"value":"Hey, Takuma. There’s something I’ve been\nmeaning to ask you for a while now."
 		},
 		{
 			"key":"EP10_S0590_0002",
-			"value":"あのさ……タクマが一番大事に\nしてることってなあに？"
+			"value":"What would you say is the most important\nthing to you?"
 		},
 		{
 			"key":"EP10_S0590_0003",
-			"value":"急に変なこと聞くなぁ"
+			"value":"Don’t ask me such weird stuff out of the\nblue, man."
 		},
 		{
 			"key":"EP10_S0590_0004",
-			"value":"ちょっと気になって"
+			"value":"I just wondered, is all."
 		},
 		{
 			"key":"EP10_S0590_0005",
-			"value":"（アグモン、真剣な様子だけど\n　何が知りたいんだろう？）"
+			"value":"(Agumon has a serious look on his face. What\nis he trying to get at?)"
 		},
 		{
 			"key":"EP10_S0590_0006",
-			"value":"（大事なものは色々ある\n　仲間、平和、自分の命だってそうだ）"
+			"value":"(Lots of things are important to me—friends,\npeace, my life.)"
 		},
 		{
 			"key":"EP10_S0590_0007",
-			"value":"（ここまでの歩みの中で、一番\n　大事にしてきたものは……何だろう）"
+			"value":"(But the most important thing to me up to\nnow? Hmm...)"
 		},
 		{
 			"key":"EP10_S0590_Q1",
-			"value":"（僕が一番大事に考えていることは……）"
+			"value":"(To me, the most important thing is...)"
 		},
 		{
 			"key":"EP10_S0590_Q1_A1",
-			"value":"世界の平和かな"
+			"value":"World peace?"
 		},
 		{
 			"key":"EP10_S0590_Q1_A2",
-			"value":"仲間かな"
+			"value":"My friends?"
 		},
 		{
 			"key":"EP10_S0590_Q1_A3",
-			"value":"自分の命だ"
+			"value":"My own life?"
 		},
 		{
 			"key":"EP10_S0590_0008",
-			"value":"やっぱり、両方の世界の平和かな"
+			"value":"It’s gotta be world peace. For both worlds,\nof course."
 		},
 		{
 			"key":"EP10_S0590_0009",
-			"value":"世界にはたくさんの人やケモノがいて\n大勢が死にたくないって思ってる"
+			"value":"With all the people and monsters in these\nworlds, I doubt any of them wanna die."
 		},
 		{
 			"key":"EP10_S0590_0010",
-			"value":"できるなら、僕はそういう人たちを守りたい\n変かな、こういうの"
+			"value":"I want to protect all of them, if I can. Is\nthat a weird thing to say?"
 		},
 		{
 			"key":"EP10_S0590_0011",
-			"value":"ううん……変じゃないよ\nボクも同じ気持ち！"
+			"value":"Nope, it’s not weird at all! I feel the same\nway!"
 		},
 		{
 			"key":"EP10_S0590_0012",
-			"value":"やっぱり仲間だよ\nそりゃあ……ね"
+			"value":"I guess that’d have to be my friends, you\nknow?"
 		},
 		{
 			"key":"EP10_S0590_0013",
-			"value":"アグモンや、ここまで一緒に来た仲間みんなが\n僕はとっても大事なんだ"
+			"value":"You and all the others who’ve taken this\njourney with us are very important to me."
 		},
 		{
 			"key":"EP10_S0590_0014",
-			"value":"ボクも一番大事？"
+			"value":"So, I’m one of the most important things to\nyou?"
 		},
 		{
 			"key":"EP10_S0590_0015",
-			"value":"ああ、もちろんさ"
+			"value":"Of course you are!"
 		},
 		{
 			"key":"EP10_S0590_0016",
-			"value":"えへへ、嬉しい！"
+			"value":"Ahahaha! That’s great to hear!"
 		},
 		{
 			"key":"EP10_S0590_0017",
-			"value":"（そして……ミユキやハルも）"
+			"value":"(And...that includes Miyuki and Haru.)"
 		},
 		{
 			"key":"EP10_S0590_0018",
-			"value":"自分の命、かな……結局"
+			"value":"In the end... I treasure my life."
 		},
 		{
 			"key":"EP10_S0590_0019",
-			"value":"死ぬの、怖いもんね"
+			"value":"The idea of dying scares me."
 		},
 		{
 			"key":"EP10_S0590_0020",
-			"value":"それに、僕の命を守るってことは\nアグモンのことも守ることになるだろ？"
+			"value":"Plus, protecting my life means protecting\nyou, too. Isn’t that right, Agumon?"
 		},
 		{
 			"key":"EP10_S0590_0021",
-			"value":"ボクのことも考えてくれてるの？"
+			"value":"You’re thinking of me, too?"
 		},
 		{
 			"key":"EP10_S0590_0022",
-			"value":"それはそうだよ\n僕たちは切っても切れない関係なんだから"
+			"value":"Well yeah. Ours is a bond that’ll never\nbreak."
 		},
 		{
 			"key":"EP10_S0590_0023",
-			"value":"そっか、えへへへ～"
+			"value":"I see, hee hee..."
 		},
 		{
 			"key":"EP10_S0590_0024",
-			"value":"なんでこんなことを聞いたの？"
+			"value":"What made you ask in the first place?"
 		},
 		{
 			"key":"EP10_S0590_0025",
-			"value":"うんとね、タクマが一番守りたいものは\nボクが一番守りたいものでもあるから"
+			"value":"Well, the thing you wanna protect most is the\nthing I wanna protect most, too."
 		},
 		{
 			"key":"EP10_S0590_0026",
-			"value":"それが何なのか、確認しておきたかったんだ～"
+			"value":"I just wanted to check what that was, is all."
 		},
 		{
 			"key":"EP10_S0590_0027",
-			"value":"そっか\nありがとう、アグモン"
+			"value":"Oh, so that’s it. Thanks, Agumon."
 		},
 		{
 			"key":"EP10_S0590_0028",
-			"value":"タクマの守りたいもの、ボクも守るから\nそのために何ができるかな"
+			"value":"I’ll protect what you wanna protect, so lemme\nknow what I can do to help!"
 		}
 	]
 }

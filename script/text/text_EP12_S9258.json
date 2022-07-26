@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9258_0001",
-			"value":"うわっ！"
+			"value":"Eek!"
 		},
 		{
 			"key":"EP12_S9258_0002",
-			"value":"だ、大丈夫ですか！？"
+			"value":"Are...are you all right?!"
 		},
 		{
 			"key":"EP12_S9258_0003",
-			"value":"あ、ああ、なんとか……"
+			"value":"Yeah...I think so."
 		},
 		{
 			"key":"EP12_S9258_0004",
-			"value":"しかし、どういう意図があるのだろうね……？\n注意を惹きたい？　それとも、何かを知らせている？"
+			"value":"I just wish I knew why this was happening. To\nget our attention? Or something else?"
 		}
 	]
 }

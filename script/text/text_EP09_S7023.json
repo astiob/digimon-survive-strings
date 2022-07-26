@@ -2,147 +2,147 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S7023_0001",
-			"value":"くそっ！　これも主の手先のせいなんだろ？\nアイツら、何の目的で来たんだ？"
+			"value":"Dammit! Did the Master’s cronies do this,\ntoo? The heck’d they come here for?!"
 		},
 		{
 			"key":"EP09_S7023_0002",
-			"value":"僕も、それが気になってるんだけど……"
+			"value":"I was wondering that myself."
 		},
 		{
 			"key":"EP09_S7023_0003",
-			"value":"むっ？　まさか……"
+			"value":"Hrmm? Could this be...?"
 		},
 		{
 			"key":"EP09_S7023_0004",
-			"value":"どうしたんだ、ファルコモン？"
+			"value":"What is it, Falcomon?"
 		},
 		{
 			"key":"EP09_S7023_0005",
-			"value":"この辺りを軽く見渡してみたのだが\n倒れている連中がある箇所に集中している"
+			"value":"I scouted around the area, but all of the\nfallen are gathered in the same areas."
 		},
 		{
 			"key":"EP09_S7023_0006",
-			"value":"まるで、敵の通った足跡のようだ"
+			"value":"Almost like breadcrumbs left in the enemy’s\nwake."
 		},
 		{
 			"key":"EP09_S7023_0007",
-			"value":"それって……敵には目的地があって\n邪魔した子たちを攻撃した、ってことか？"
+			"value":"Are you saying the enemy is heading someplace\nand attacked anyone who got in their way?"
 		},
 		{
 			"key":"EP09_S7023_0008",
-			"value":"なんだよそれ……\n自分にとって邪魔なヤツらだからって、こんなこと……"
+			"value":"You’re kidding... They’d do all this just\n‘cause someone happened to cross their path?"
 		},
 		{
 			"key":"EP09_S7023_0009",
-			"value":"（ミノル、手が震えてる……\n　もしかして、怖いのか……？）"
+			"value":"(Minoru’s hands are shaking... Is he scared?)"
 		},
 		{
 			"key":"EP09_S7023_0010",
-			"value":"なんかオレ……無性に腹が立ってきた……！"
+			"value":"Somehow, I’m...super friggin’ pissed...!"
 		},
 		{
 			"key":"EP09_S7023_0011",
-			"value":"そうだな……\n俺も、同じ気持ちだ"
+			"value":"Indeed... I share your fury."
 		},
 		{
 			"key":"EP09_S7023_0012",
-			"value":"（そうか、ミノルは怖かったんじゃなくて\n　怒ってたのか）"
+			"value":"(Oh, rage was making his body quiver.)"
 		},
 		{
 			"key":"EP09_S7023_0013",
-			"value":"（僕のいない間にミノルは本当に\n　強くなったんだな）"
+			"value":"(Minoru’s gotten pretty tough in the time\nI was gone.)"
 		},
 		{
 			"key":"EP09_S7023_0014",
-			"value":"（だけど、ミノルが怒るのも無理はない\n　僕だって、こんな光景見せられたら……）"
+			"value":"(Still, I don’t blame him for feeling that\nway. Even I get upset seeing this...)"
 		},
 		{
 			"key":"EP09_S7023_0015",
-			"value":"（なんだろう……僕もミノルに\n　今の気持ちを伝えておきたい……！）"
+			"value":"(Somehow, I...want to tell Minoru how I feel\nright now!)"
 		},
 		{
 			"key":"EP09_S7023_Q1",
-			"value":"（ミノルに何て言おうか？）"
+			"value":"(What should I say to him?)"
 		},
 		{
 			"key":"EP09_S7023_Q1_A1",
-			"value":"僕らの手でみんなを救おう"
+			"value":"We’ll save them all."
 		},
 		{
 			"key":"EP09_S7023_Q1_A2",
-			"value":"主を倒せば全部終わる"
+			"value":"We’ll beat the Master."
 		},
 		{
 			"key":"EP09_S7023_0016",
-			"value":"僕らの手でみんなを救おう"
+			"value":"We’ll save them all."
 		},
 		{
 			"key":"EP09_S7023_0017",
-			"value":"ミノル……僕らの手で\n絶対にみんなを助けような！"
+			"value":"Minoru... We’ll definitely save everyone, by\nour own power!"
 		},
 		{
 			"key":"EP09_S7023_0018",
-			"value":"こっちの世界のみんなも、元の世界も……\n僕たちが、救うんだ！"
+			"value":"In this world, in our world... We’ll save\nthem all!"
 		},
 		{
 			"key":"EP09_S7023_0019",
-			"value":"オレたちの手で……"
+			"value":"By our power..."
 		},
 		{
 			"key":"EP09_S7023_0020",
-			"value":"そうだな！\nもちろん、ミユキのこともな！"
+			"value":"Yeah, you’re right! Miyuki too, of course!"
 		},
 		{
 			"key":"EP09_S7023_0021",
-			"value":"ミノル……！"
+			"value":"Minoru...!"
 		},
 		{
 			"key":"EP09_S7023_0022",
-			"value":"だって、その『みんな』ってミユキも入ってるだろ？"
+			"value":"Everyone includes Miyuki after all, right?"
 		},
 		{
 			"key":"EP09_S7023_0023",
-			"value":"もちろん！\nありがとな、ミノル！"
+			"value":"Of course! Thanks, Minoru!"
 		},
 		{
 			"key":"EP09_S7023_0024",
-			"value":"主を倒せば全部終わる"
+			"value":"We’ll beat the Master."
 		},
 		{
 			"key":"EP09_S7023_0025",
-			"value":"主さえ倒せば、こんなことは全部終わる\nだから……"
+			"value":"All of this will end if we defeat the Master.\nThat’s why..."
 		},
 		{
 			"key":"EP09_S7023_0026",
-			"value":"僕たちの手で、必ず倒そう！"
+			"value":"He’s gotta go down, by our hands!"
 		},
 		{
 			"key":"EP09_S7023_0027",
-			"value":"そうだよな……\nそれしか、ねーもんな"
+			"value":"Yeah... That’s the only way, ain’t it?"
 		},
 		{
 			"key":"EP09_S7023_0028",
-			"value":"うん、主を倒してミユキを取り返して\n全部終わりにしよーぜ"
+			"value":"We’ll beat the Master, take back Miyuki, and\nput an end to all of this."
 		},
 		{
 			"key":"EP09_S7023_0029",
-			"value":"そうと決まれば、さっさと主を探し出して\n何とかしねーと……！"
+			"value":"Now that that’s settled, we’d better find the\nMaster and do something about him!"
 		},
 		{
 			"key":"EP09_S7023_0030",
-			"value":"オレも頑張るけど\nファルコモンも頼むぜ？　頼りにしてんだからさ！"
+			"value":"I’ll do what I can. You gotta back me up,\nyeah, Falcomon? I’m counting on you!"
 		},
 		{
 			"key":"EP09_S7023_0031",
-			"value":"無論、そのつもりだ\nお前も、存分に活躍しろ！"
+			"value":"But of course, I have both your back and your\nfront!"
 		},
 		{
 			"key":"EP09_S7023_0032",
-			"value":"（ミノルは本当に頼れるヤツになったな\n　僕も頑張ろう！）"
+			"value":"(He really has become someone to rely on. I’d\nbetter follow suit!)"
 		},
 		{
 			"key":"EP09_S7023_0033",
-			"value":"いつ敵が現れるか、わかんねーからな\nここはオレらで見張っとくよ"
+			"value":"No idea when the enemy’s gonna show up. Gotta\nkeep our head in the game, here."
 		}
 	]
 }

@@ -2,59 +2,59 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0033_0001",
-			"value":"何がいるかわからない場所で出歩けるか！\nオレはここにいるぜ！"
+			"value":"Heading out for a walk where anything could\nbe lurking around? I’ll pass!"
 		},
 		{
 			"key":"EP02_S0033_Q1",
-			"value":"（どうしよう？）"
+			"value":"(So, what do we do?)"
 		},
 		{
 			"key":"EP02_S0033_Q1_A1",
-			"value":"リョウに賛成する"
+			"value":"Agree with Ryo."
 		},
 		{
 			"key":"EP02_S0033_Q1_A2",
-			"value":"リョウに賛成しない"
+			"value":"Disagree with Ryo."
 		},
 		{
 			"key":"EP02_S0033_0002",
-			"value":"そうだな、じゃあ僕は\nリョウの意見に賛成するよ"
+			"value":"I’ve got to agree with Ryo on this one."
 		},
 		{
 			"key":"EP02_S0033_0003",
-			"value":"ただし、何もしないでいたら何も良くならない\n安全なとこだけでいいから、何か探そう"
+			"value":"But nothing’ll get better unless we take\naction. Let’s at least find a safe place."
 		},
 		{
 			"key":"EP02_S0033_0004",
-			"value":"良くなる保証だって、ねえじゃねーか……"
+			"value":"There’s no guarantee anywhere else will be\nany better..."
 		},
 		{
 			"key":"EP02_S0033_0005",
-			"value":"キュゥ！"
+			"value":"...!"
 		},
 		{
 			"key":"EP02_S0033_0006",
-			"value":"クネモンも探そうって言ってるぞ"
+			"value":"Kunemon wants to look, too."
 		},
 		{
 			"key":"EP02_S0033_0007",
-			"value":"頼むよ、リョウ"
+			"value":"C’mon, Ryo..."
 		},
 		{
 			"key":"EP02_S0033_0008",
-			"value":"……わかったよ。オレが教室を探しててやるから\nお前らは他を探してこいよ"
+			"value":"Okay, okay. I’ll check the classrooms.\nYou all should look somewhere else."
 		},
 		{
 			"key":"EP02_S0033_0009",
-			"value":"うーん……やっぱり決められないな\n他のみんなの話も聞いてみないと"
+			"value":"We have to come to a decision on this,\ntogether. I want to hear from everyone."
 		},
 		{
 			"key":"EP02_S0033_0010",
-			"value":"そうかよ。精々ゆっくり考えてくれや……"
+			"value":"Really? Let’s just think this through..."
 		},
 		{
 			"key":"EP02_S0033_0011",
-			"value":"キュゥ……"
+			"value":"..."
 		}
 	]
 }

@@ -2,179 +2,179 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2103_0001",
-			"value":"おい、ちゃんと辺りを警戒しろ\n気ぃ抜くなよ"
+			"value":"Stay alert, yo. Can’t let our guards down\nhere."
 		},
 		{
 			"key":"EP06_S2103_0002",
-			"value":"仕方ないな\n運命の相手のお望みとあらばってな"
+			"value":"If that’s what my fated partner wants, then\nI guess I gotta."
 		},
 		{
 			"key":"EP06_S2103_0003",
-			"value":"運命とかどうとか、大袈裟な\nやめろよ、そういうの"
+			"value":"You’re exaggerating. Enough with all that\n“fate” crap."
 		},
 		{
 			"key":"EP06_S2103_0004",
-			"value":"……カイト、ずっと思ってたんだけど\nちょっと言葉が強すぎないか？"
+			"value":"...I’ve thought this for a while, Kaito.\nAren’t you a bit harsh with your words?"
 		},
 		{
 			"key":"EP06_S2103_0005",
-			"value":"タクマ……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP06_S2103_0006",
-			"value":"ドラクモンが怒らないのをいいことに\n言い過ぎてるように見えてさ"
+			"value":"It looks like you’re taking advantage of\nDracmon’s temper, or lack thereof."
 		},
 		{
 			"key":"EP06_S2103_0007",
-			"value":"あんまり見ていて気分がよくないよ"
+			"value":"Can’t say it sits well with me when I see it."
 		},
 		{
 			"key":"EP06_S2103_0008",
-			"value":"オレたちにはオレたちの\n空気ってもんがあるんだよ"
+			"value":"We got our own way of doing things, pal."
 		},
 		{
 			"key":"EP06_S2103_0009",
-			"value":"（そうかもしれないけど……\n　でも、ドラクモンは悲しんでた）"
+			"value":"(He may be right, but it just makes Dracmon\nsad.)"
 		},
 		{
 			"key":"EP06_S2103_0010",
-			"value":"（カイトにもっと注意すべきかな？\n　ドラクモンへの口調を優しくしてほしいって）"
+			"value":"(Should I keep going here? I could tell Kaito\nto ease up when he talks to Dracmon.)"
 		},
 		{
 			"key":"EP06_S2103_0011",
-			"value":"（それとも引いた方がいいのかな\n　二人のことは二人に任せる……？）"
+			"value":"(Or maybe I should back off? Leave this to\nthe two of them?)"
 		},
 		{
 			"key":"EP06_S2103_Q1",
-			"value":"（ドラクモンに優しくしてもらうには、どうしたらいいかな？）"
+			"value":"(How can I make Kaito be nicer to Dracmon?)"
 		},
 		{
 			"key":"EP06_S2103_Q1_A1",
-			"value":"ドラクモン自身に聞いてみるか"
+			"value":"Ask Dracmon himself."
 		},
 		{
 			"key":"EP06_S2103_Q1_A2",
-			"value":"もっと注意しないと！"
+			"value":"Keep lecturing him!"
 		},
 		{
 			"key":"EP06_S2103_Q1_A3",
-			"value":"何も言わないでおくか……"
+			"value":"Don’t say anything..."
 		},
 		{
 			"key":"EP06_S2103_0013",
-			"value":"ドラクモン、辛いなら\n自分の口でも言った方がいい"
+			"value":"Dracmon, if it hurts then you should say\nsomething."
 		},
 		{
 			"key":"EP06_S2103_0014",
-			"value":"やっぱり二人のことだから\n君自身の気持ちを伝えた方がいいと思う"
+			"value":"This is between you two, so it’d go better if\nit came from you."
 		},
 		{
 			"key":"EP06_S2103_0015",
-			"value":"俺は……俺の気持ちは……"
+			"value":"My... My feelings..."
 		},
 		{
 			"key":"EP06_S2103_0017",
-			"value":"不安だからって誰かを\n傷つけていいわけじゃない"
+			"value":"Just because you’re anxious doesn’t mean\nyou’re allowed to hurt someone."
 		},
 		{
 			"key":"EP06_S2103_0018",
-			"value":"教授も言ってたじゃないか\n不安定な気持ちでケモノたちを進化させたら……"
+			"value":"Remember what the professor said? If the\nKemonogami evolve with unstable feelings..."
 		},
 		{
 			"key":"EP06_S2103_0019",
-			"value":"それこそドラクモンが襲い掛かってくるって\n言いたいのか？"
+			"value":"Dracmon’s gonna attack me? Is that what you\nwanna say?"
 		},
 		{
 			"key":"EP06_S2103_0020",
-			"value":"そうだよ……\nそうしたらミウを守るどころじゃない"
+			"value":"Exactly... And if that happens, you won’t be\nable to protect Miu."
 		},
 		{
 			"key":"EP06_S2103_0021",
-			"value":"ふん、一理くらいはあるな"
+			"value":"Hmph, you got a point there."
 		},
 		{
 			"key":"EP06_S2103_0023",
-			"value":"（……こういう時、第三者って無力だな）"
+			"value":"(This is no place for an outsider to butt\nin.)"
 		},
 		{
 			"key":"EP06_S2103_0024",
-			"value":"（こうしてほしいっていうのは\n　あくまで僕から見た要望でしかない）"
+			"value":"(Saying what I’d like him to do would amount\nto pushing my demands on them.)"
 		},
 		{
 			"key":"EP06_S2103_0025",
-			"value":"（当人同士の問題だから、最後には\n　何にも言えることがなくなってしまう）"
+			"value":"(This is their problem, so ultimately there’s\nnothing else I can say.)"
 		},
 		{
 			"key":"EP06_S2103_0026",
-			"value":"タクマ、すまねーな\n気遣ってくれたんだろう"
+			"value":"Sorry, Takuma. I know you were just trying to\nlook out for me."
 		},
 		{
 			"key":"EP06_S2103_0027",
-			"value":"タクマのおかげで決心がついた\n俺はカイトと二人で話したい"
+			"value":"You’ve opened my eyes, man. I’m gonna talk\nwith Kaito, mano a mano."
 		},
 		{
 			"key":"EP06_S2103_0028",
-			"value":"わかったよ\n行こう、アグモン"
+			"value":"Sounds like a plan. Let’s get out of here,\nAgumon."
 		},
 		{
 			"key":"EP06_S2103_0029",
-			"value":"うん……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP06_S2103_0030",
-			"value":"……で？\n話ってなんだよ"
+			"value":"...So? What’d you wanna talk about?"
 		},
 		{
 			"key":"EP06_S2103_0031",
-			"value":"カイトは俺に甘えすぎじゃねーか？"
+			"value":"Don’t you think you’re being too soft on me?"
 		},
 		{
 			"key":"EP06_S2103_0032",
-			"value":"は？\n誰が誰に甘えてるって？"
+			"value":"‘Scuse me? Who’s being soft?"
 		},
 		{
 			"key":"EP06_S2103_0033",
-			"value":"お前のやってることはミノルと同じだ\nいや、反省しないだけもっと性質が悪いな"
+			"value":"You did the same thing Minoru did. Worse,\nactually, since you ain’t shown no remorse."
 		},
 		{
 			"key":"EP06_S2103_0034",
-			"value":"喧嘩売ってんのか"
+			"value":"You trying to pick a fight?"
 		},
 		{
 			"key":"EP06_S2103_0035",
-			"value":"ああ売ってるさ\n大安売りのお買い得だぜ"
+			"value":"You bet I am. And you’re making it easy as\npie."
 		},
 		{
 			"key":"EP06_S2103_0036",
-			"value":"いつまでも俺が運命だけに縋って\nそばにいると思ったら大間違いだ！"
+			"value":"If you think I’m sticking to you because of\nfate or whatever, you couldn’t be more wrong!"
 		},
 		{
 			"key":"EP06_S2103_0037",
-			"value":"それは裏切り宣言か？\nだったらオレも容赦はしねぇぞ"
+			"value":"You saying you’re gonna sell us down the\nriver? Don’t think you’ll get away clean."
 		},
 		{
 			"key":"EP06_S2103_0038",
-			"value":"結果的にはそーなるかね\nこれ以上ガマンする気はねーよ"
+			"value":"It might just turn out that way! I ain’t in\nno mood to take this guff another second.  "
 		},
 		{
 			"key":"EP06_S2103_0039",
-			"value":"面白れぇ\nどっからでもかかってきやがれ！"
+			"value":"Huh, fine by me. Whatever you’re gonna do,\ndo it fast, why don’t ya!"
 		},
 		{
 			"key":"EP06_S2103_0040",
-			"value":"くっ！　ドラクモン、後ろだ！"
+			"value":"Shit! Dracmon, behind you!"
 		},
 		{
 			"key":"EP06_S2103_0041",
-			"value":"言われなくたって！"
+			"value":"You don’t gotta tell me!"
 		},
 		{
 			"key":"EP06_S2103_0042",
-			"value":"仕方ねーな、一時休戦だ！\nついてこいよ！"
+			"value":"Fine, truce for now! Follow me!"
 		},
 		{
 			"key":"EP06_S2103_0043",
-			"value":"こっちの台詞だ、遅れんなよ！"
+			"value":"That’s my line, get your ass in gear!"
 		}
 	]
 }

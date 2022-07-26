@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0620_0001",
-			"value":"タクマ！　そこの草むらに何かいる！"
+			"value":"Takuma! There’s something in the grass!"
 		},
 		{
 			"key":"EP10_S0620_0002",
-			"value":"この中か？　よし、調べてみるか"
+			"value":"You mean over there? Let’s check it out."
 		},
 		{
 			"key":"EP10_S0620_0003",
-			"value":"うんっ。いくよ……\nいち、にの……"
+			"value":"Right, on three. One...two..."
 		},
 		{
 			"key":"EP10_S0620_0004",
-			"value":"さんっ！！！！"
+			"value":"Three!!!"
 		}
 	]
 }

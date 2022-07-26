@@ -2,115 +2,115 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2000_0001",
-			"value":"ここは団地か……洗濯物がそのままになってるし、\n生活している状態のまま廃墟化した感じだな"
+			"value":"This looks like an apartment complex. You can\nsee people’s laundry and everything."
 		},
 		{
 			"key":"EP06_S2000_0002",
-			"value":"……そうみたいね"
+			"value":"Yeah, I think you’re right."
 		},
 		{
 			"key":"EP06_S2000_0003",
-			"value":"敵もあんまりいなくてよかった～"
+			"value":"I’m just glad there are hardly any enemies\naround!"
 		},
 		{
 			"key":"EP06_S2000_0004",
-			"value":"そうだな\n少なくとも、敵の本拠地ってワケじゃねえみたいだ"
+			"value":"Me, too. At the very least, we can assume\nthis isn’t their main stronghold."
 		},
 		{
 			"key":"EP06_S2000_0005",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP06_S2000_0006",
-			"value":"まだずっと西かしらね……ん？　教授？"
+			"value":"Guess we have to keep going further west.\nHmm? Professor? Are you okay?"
 		},
 		{
 			"key":"EP06_S2000_0007",
-			"value":"……あ、ああ、なんでもない\n気にしないでくれ"
+			"value":"Oh, forgive me. I’m fine. Nothing for you to\nworry about."
 		},
 		{
 			"key":"EP06_S2000_0008",
-			"value":"（……団地に入ってから、教授の様子が\nにわかに変わった気がする）"
+			"value":"(Ever since we got here, the Professor has\nbeen acting really weird.)"
 		},
 		{
 			"key":"EP06_S2000_0009",
-			"value":"なあ、学校よりは人が住める雰囲気だし、\nオレたちみたいに、誰かがここにいるかもな"
+			"value":"People are more likely to live here than in\nthe school. Maybe there’s someone here?"
 		},
 		{
 			"key":"EP06_S2000_0010",
-			"value":"探してみようぜ"
+			"value":"We should look and see."
 		},
 		{
 			"key":"EP06_S2000_0011",
-			"value":"ニンゲンの気配なんて、ほとんど感じねえぞ？"
+			"value":"But I sense hardly any traces of humans\nat all."
 		},
 		{
 			"key":"EP06_S2000_0012",
-			"value":"それならそれでも、いいんじゃない？"
+			"value":"Well, even if that’s the case, it doesn’t\nhurt to check, does it?"
 		},
 		{
 			"key":"EP06_S2000_0013",
-			"value":"学校よりは食料とか衣類とかありそうだし\n腐ってなかったら使えるでしょ"
+			"value":"There’s probably more food and clothes than\nat the school. We could use some supplies."
 		},
 		{
 			"key":"EP06_S2000_0014",
-			"value":"……確かにそれは言えてるわ"
+			"value":"I...guess you have a point there."
 		},
 		{
 			"key":"EP06_S2000_0015",
-			"value":"でも、今はあまり寄り道しても……"
+			"value":"I’m not sure it’s really a good ideal to look\naround right now, though."
 		},
 		{
 			"key":"EP06_S2000_0016",
-			"value":"いや、食料がなくなったから\n補給はしないとまずいだろう"
+			"value":"But we’re out of food. If we don’t stock up,\nwe’ll be in real trouble."
 		},
 		{
 			"key":"EP06_S2000_0017",
-			"value":"それもそうだけど……"
+			"value":"Yeah, but still..."
 		},
 		{
 			"key":"EP06_S2000_0018",
-			"value":"いずれにしても、オレたち以外の人間に会えねえかな\nケモノ連中だけに頼れねえし"
+			"value":"And again, we might at least find someone.\nWe can’t rely just rely on these guys."
 		},
 		{
 			"key":"EP06_S2000_0019",
-			"value":"失礼しちゃうわね！\n頼れないなんて……！"
+			"value":"Hey! What are you trying to say about us?\nHow rude!"
 		},
 		{
 			"key":"EP06_S2000_0020",
-			"value":"じゃ、俺は団地の入り口あたりを探してみる"
+			"value":"Sounds like it’s settled. In that case, I’ll\ntake a look around the entrance."
 		},
 		{
 			"key":"EP06_S2000_0021",
-			"value":"オレはこっちの棟に行ってみる"
+			"value":"I’ll go check out this building here."
 		},
 		{
 			"key":"EP06_S2000_0022",
-			"value":"私は裏口あたりを探してみるわ"
+			"value":"I’ll see what’s around the back entrance."
 		},
 		{
 			"key":"EP06_S2000_0023",
-			"value":"じゃ、みんな、\n何かあったら大きな声で知らせろよ！"
+			"value":"Sounds good. If you guys find anything,\njust yell really loud, okay?"
 		},
 		{
 			"key":"EP06_S2000_0024",
-			"value":"いや待て、今ここでバラバラに行動したら\n危ないって……"
+			"value":"Wait, you guys. It’s too dangerous for us to\nseparate like this right now."
 		},
 		{
 			"key":"EP06_S2000_0025",
-			"value":"（……やれやれ\nみんながバラバラに行動し始めてしまった）"
+			"value":"(Ugh, too late. Everybody’s already broken\noff to do their own thing.)"
 		},
 		{
 			"key":"EP06_S2000_0026",
-			"value":"（この状況はまずい。でも、みんなの気持ちもわかる\nなんとかしなきゃ……！）"
+			"value":"(I get how everyone feels, but this isn’t\ngood. I have to do something!)"
 		},
 		{
 			"key":"EP06_S2000_0027",
-			"value":"僕たちだけでも、ファルコモンを\n探さないとな、アグモン"
+			"value":"We have to look for Falcomon even if it’s\njust the two of us, Agumon."
 		},
 		{
 			"key":"EP06_S2000_0028",
-			"value":"うん、そうだね\n……ファルコモン、どこ行っちゃったんだろう"
+			"value":"I agree. I wonder where he went?\nI hope he’s okay..."
 		}
 	]
 }

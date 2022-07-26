@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S1032_0001",
-			"value":"見えた！　ひょっとして\nアグモンは何か感じていたのか？"
+			"value":"I saw it! Do you think that’s what you guys\nsensed, Agumon?"
 		},
 		{
 			"key":"EP09_S1032_0002",
-			"value":"んー、多分そう、かな？"
+			"value":"Hmm. Maybe, I think?"
 		},
 		{
 			"key":"EP09_S1032_0003",
-			"value":"なんだ、はっきりしないな"
+			"value":"Uh, could you be any vaguer?"
 		},
 		{
 			"key":"EP09_S1032_0004",
-			"value":"ぞわぞわはもう消えちゃったし"
+			"value":"That fuzzy feeling’s already gone, though."
 		},
 		{
 			"key":"EP09_S1032_0005",
-			"value":"そうか……"
+			"value":"Ah, I got you..."
 		},
 		{
 			"key":"EP09_S1032_0006",
-			"value":"まぁ、使えそうな物がたくさん手に入ったし\nとりあえずはこれでいいか"
+			"value":"Still, we picked up a few things we can use.\nI’d call that a victory, right?"
 		}
 	]
 }

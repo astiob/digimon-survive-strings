@@ -2,87 +2,87 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1310_0001",
-			"value":"あ、まだ教室にいたんだ……\nリョウは探索に行かないのか？"
+			"value":"Still in the classroom?\nYou’re not going to look around?"
 		},
 		{
 			"key":"EP02_S1310_0002",
-			"value":"だ、誰が行くかよ……！\nまだワケわかんねーバケモノがウヨウヨいんだろ！？"
+			"value":"As if! Some messed-up monsters are skulking\naround out there, right?!"
 		},
 		{
 			"key":"EP02_S1310_0003",
-			"value":"でもいざとなったらクネモンが守ってくれるよ"
+			"value":"Sure, but Kunemon’s here to protect you."
 		},
 		{
 			"key":"EP02_S1310_0004",
-			"value":"守ってくれるわけねーだろ！"
+			"value":"You gotta be kidding me!"
 		},
 		{
 			"key":"EP02_S1310_0005",
-			"value":"おめーのワニ公と違って\nこっちの虫は意思疎通できねーんだよ！"
+			"value":"You and that alligator thing might be all\nbuddy-buddy, but I don’t get this thing!"
 		},
 		{
 			"key":"EP02_S1310_0006",
-			"value":"ボクはワニじゃないよ～！"
+			"value":"I’m not an alligator!"
 		},
 		{
 			"key":"EP02_S1310_0007",
-			"value":"キュゥ……"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S1310_0008",
-			"value":"チッ……気色悪ィ……"
+			"value":"Hmph... Disgusting..."
 		},
 		{
 			"key":"EP02_S1310_Q1",
-			"value":"（リョウが不安がっているな……）"
+			"value":"(Ryo looks pretty worried...)"
 		},
 		{
 			"key":"EP02_S1310_Q1_A1",
-			"value":"注意しておくかな……"
+			"value":"Can’t let that slide."
 		},
 		{
 			"key":"EP02_S1310_Q1_A2",
-			"value":"リョウは間違ってはいないな"
+			"value":"He’s not wrong."
 		},
 		{
 			"key":"EP02_S1310_0123",
-			"value":"あまり蔑ろにしてやるなよ……\nこいつらも仲間じゃないか"
+			"value":"Don’t be so insulting.\nHe’s in this mess too, after all."
 		},
 		{
 			"key":"EP02_S1310_0010",
-			"value":"は？　何言ってんだ？\n頭どうかしてんのか？"
+			"value":"Say what? You bump your head or something?"
 		},
 		{
 			"key":"EP02_S1310_0011",
-			"value":"コイツらはただのバケモノ\nモンスターだよ！"
+			"value":"This thing is just some freakin’ monster!"
 		},
 		{
 			"key":"EP02_S1310_0012",
-			"value":"コイツらがオレらにすりよってるのも\n何か裏があるに決まってるんだよ！"
+			"value":"I bet these things have some ulterior motive\nfor trying to follow us around!"
 		},
 		{
 			"key":"EP02_S1310_0013",
-			"value":"ち、違うよ～！"
+			"value":"Hey, we do NOT!"
 		},
 		{
 			"key":"EP02_S1310_0014",
-			"value":"……確かに、リョウのその\n何でも疑ってかかる考え……"
+			"value":"...I can’t say I completely disagree with\nthat suspicious side of yours, Ryo."
 		},
 		{
 			"key":"EP02_S1310_0015",
-			"value":"それが必ずしも間違いとは思わないよ\n慎重なのも臆病さも、危険察知には必要だし"
+			"value":"Caution and and even a healthy level of\ncowardice help keep you safe from danger."
 		},
 		{
 			"key":"EP02_S1310_0016",
-			"value":"タ、タクマぁ～！？"
+			"value":"Uh, Takuma?!"
 		},
 		{
 			"key":"EP02_S1310_0017",
-			"value":"でも、少しは信じてやろうよ\nクネモンに助けられた事もあるだろう？"
+			"value":"Still, have a little bit of faith. Kunemon’s\nalready saved you once, hasn’t he?"
 		},
 		{
 			"key":"EP02_S1310_0018",
-			"value":"……チッ\nうっせーな……"
+			"value":"...Hmph.\nA loudmouth as always."
 		}
 	]
 }

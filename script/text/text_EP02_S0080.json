@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0080_0001",
-			"value":"すごい……ホントにダムだ、これ！"
+			"value":"Wow... There really is a dam here!"
 		},
 		{
 			"key":"EP02_S0080_0002",
-			"value":"ニンゲンはこんな大きなタテモノも\n作れちゃうのか～"
+			"value":"I can’t believe humans could build something\nso big!"
 		},
 		{
 			"key":"EP02_S0080_0003",
-			"value":"でもこのダムがこっちの世界の物じゃないなら……\nどうやってこんな大きな物を、ここに運んだんだ？"
+			"value":"But if this isn’t from this world...how did\nsomething so huge end up here?"
 		},
 		{
 			"key":"EP02_S0080_0004",
-			"value":"どうだろうなー？　オレが物心ついた頃には\nこのタテモノ、ここにあったしな～"
+			"value":"Who knows? This’s been here for as long as\nI can remember."
 		},
 		{
 			"key":"EP02_S0080_0005",
-			"value":"（物心って何年前だろう？）"
+			"value":"(So like a few years?)"
 		},
 		{
 			"key":"EP02_S0080_0006",
-			"value":"（何日前とかの可能性もあるのかな\n　アグモンの様子を見てると……）"
+			"value":"(Then again, seeing Agumon’s reaction it\ncould even be a few days ago...)"
 		},
 		{
 			"key":"EP02_S0080_0101",
-			"value":"ダメ……この辺りにもいないわ"
+			"value":"There’s nothing there either."
 		},
 		{
 			"key":"EP02_S0080_0102",
-			"value":"そうすると、あとはこの中か？"
+			"value":"Then do we just go in?"
 		},
 		{
 			"key":"EP02_S0080_0103",
-			"value":"あり得るな。えっと、入り口は……"
+			"value":"It’s possible. Where’s the entrance...?"
 		},
 		{
 			"key":"EP02_S0080_0104",
-			"value":"中に入るのか？　なら気をつけろよ！"
+			"value":"Go in? We better be careful!"
 		},
 		{
 			"key":"EP02_S0080_0007",
-			"value":"このあたりはファングモンっていう\n悪くてイヤな奴が巣食っててさ……"
+			"value":"This area’s the den of a really nasty\ncreature called Fangmon."
 		},
 		{
 			"key":"EP02_S0080_0008",
-			"value":"あいつは力ずくでオレたちを従えて\n自分の子分にしようとしてるんだ！"
+			"value":"That jerk has been trying to force us into\nbeing its henchmen!"
 		},
 		{
 			"key":"EP02_S0080_0009",
-			"value":"ニンゲンのコドモもあぶないかも知れないな～\nアイツに見つかる前に何とかしないと……"
+			"value":"Those kids might be in real trouble.\nWe’d better find them before Fangmon does..."
 		},
 		{
 			"key":"EP02_S0080_0015",
-			"value":"ファングモン……\n気配を消せる手ごわい奴か……"
+			"value":"Fangmon...\nHe can hide his presence...\n"
 		},
 		{
 			"key":"EP02_S0080_0010",
-			"value":"そうは言っても……\nって、アレ？　あそこに何か……"
+			"value":"But...\nWait, what’s that over there?"
 		},
 		{
 			"key":"EP02_S0080_0011",
-			"value":"うむ、誰かいるようだ\n間違いない、サキくんにシュウジくんだ！"
+			"value":"I think I see someone...\nYes, it’s Saki and Shuuji!"
 		},
 		{
 			"key":"EP02_S0080_0012",
-			"value":"あと……何か後ろをでっかいのが追ってるぞ！？"
+			"value":"And...there’s something huge chasing them!!!"
 		},
 		{
 			"key":"EP02_S0080_0013",
-			"value":"ああ、あれだ！\n今言ったファングモンってヤツ！！"
+			"value":"Oh no, it’s Fangmon!"
 		},
 		{
 			"key":"EP02_S0080_0014",
-			"value":"アレがか！？"
+			"value":"Really?!"
 		},
 		{
 			"key":"EP02_S0080_0105",
-			"value":"大変っ！　サキさんたちが危ないわ！"
+			"value":"Oh no! They’re in danger!"
 		},
 		{
 			"key":"EP02_S0080_0106",
-			"value":"つっても、ここから急いでも間に合うかどうか……！"
+			"value":"We’ll never get there in time!"
 		},
 		{
 			"key":"EP02_S0080_Q1",
-			"value":"（どうする！？　悩んでる間も惜しい！）"
+			"value":"(What to do? No time to think!)"
 		},
 		{
 			"key":"EP02_S0080_Q1_A1",
-			"value":"ヤツの注意を逸らす！"
+			"value":"Get its attention!"
 		},
 		{
 			"key":"EP02_S0080_Q1_A2",
-			"value":"とにかく急ぐぞ！"
+			"value":"Just hurry!"
 		},
 		{
 			"key":"EP02_S0080_0107",
-			"value":"（ヤツの注意を逸らして、少しでも時間を稼ぐ！）"
+			"value":"(I’ll get its attention and buy some time!)"
 		},
 		{
 			"key":"EP02_S0080_0108",
-			"value":"おい！　そこのデカブツ！\nもう好き勝手させないぞ！"
+			"value":"Hey, fathead!\nYou’ll have to get through us!"
 		},
 		{
 			"key":"EP02_S0080_0109",
-			"value":"（よし、こっちを見てる！）"
+			"value":"(Good. It’s looking at us!)"
 		},
 		{
 			"key":"EP02_S0080_0110",
-			"value":"みんな、今のうちに急げ！"
+			"value":"Everyone, hurry!"
 		},
 		{
 			"key":"EP02_S0080_0111",
-			"value":"とにかく急ぐぞ！　少しでも早く！"
+			"value":"Just hurry! Quick!"
 		},
 		{
 			"key":"EP02_S0080_0112",
-			"value":"ええ！"
+			"value":"Okay!"
 		},
 		{
 			"key":"EP02_S0080_0113",
-			"value":"わかった！"
+			"value":"Got it!"
 		},
 		{
 			"key":"EP02_S0080_0114",
-			"value":"お、おい待てよ！\nオレを置いてくなぁっ！"
+			"value":"Hang on!\nDon’t leave me behind!"
 		}
 	]
 }

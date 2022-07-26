@@ -2,47 +2,47 @@
     "scenario_text": [
         {
             "key": "EP12_S9600_0001",
-            "value": "――っ！？\nなんだ、この音……！"
+            "value": "Wha—?! What’s that sound?!"
         },
         {
             "key": "EP12_S9600_0002",
-            "value": "な、なんか、苦しい……\n身体の芯から、揺さぶられてるみたいな……"
+            "value": "It...it hurts. It feels like...I’m being\nshaken from the inside."
         },
         {
             "key": "EP12_S9600_0003",
-            "value": "や、やべえ、立ってられねえ……！"
+            "value": "It’s too much... I can’t stay on my feet."
         },
         {
             "key": "EP12_S9600_0004",
-            "value": "この揺れ……足下からだ"
+            "value": "This shaking... It feels like it’s directly\nbeneath us."
         },
         {
             "key": "EP12_S9600_0005",
-            "value": "これって、まさか地下から……？"
+            "value": "Is it...coming from underground?"
         },
         {
             "key": "EP12_S9600_0006",
-            "value": "地下って、ひょっとして地震！？"
+            "value": "You mean like an earthquake?"
         },
         {
             "key": "EP12_S9600_0007",
-            "value": "いや……かすかだが四聖獣の力を感じる\nどこかに祠への入り口があるはずだ"
+            "value": "No, I sense traces of the Sovereign Monster’s\npower. The shrine entrance must be nearby."
         },
         {
             "key": "EP12_S9600_0008",
-            "value": "どこかに、って……\nこれ以上どこを探せば……"
+            "value": "But...we’ve already searched everywhere!\nWhere’s left to look?"
         },
         {
             "key": "EP12_S9600_0009",
-            "value": "いや、これがケモノガミ由来の現象であるならば\n見えないモノを見る方法があるはずだ"
+            "value": "Well, if this is due to the power of\na Kemonogami, we should be able to find out."
         },
         {
             "key": "EP12_S9600_0010",
-            "value": "タクマくん、君が<color=#B41919>いつも</color>使っている物だよ"
+            "value": "You can use that <color=#B41919>device</color> of yours, Takuma."
         },
         {
             "key": "EP12_S9600_0011",
-            "value": "……あっ、そうか！"
+            "value": "Oh, right!"
         }
     ]
 }

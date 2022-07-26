@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1168_0001",
-			"value":"この辺りは何も感じないなー"
+			"value":"I’m not sensing anything around here."
 		},
 		{
 			"key":"EP02_S1168_0002",
-			"value":"そうか\nじゃあ他のところを見てみようか"
+			"value":"Okay, then let’s look somewhere else."
 		},
 		{
 			"key":"EP02_S1168_0003",
-			"value":"お～う！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP02_S1168_0004",
-			"value":"他のところを見に行くぞ～！"
+			"value":"On with the search!"
 		}
 	]
 }

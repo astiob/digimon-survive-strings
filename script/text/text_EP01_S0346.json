@@ -2,27 +2,27 @@
     "scenario_text": [
         {
             "key": "EP01_S0346_0001",
-            "value": "ここは……音楽室か"
+            "value": "This is...a music room?"
         },
         {
             "key": "EP01_S0346_0002",
-            "value": "扉は……ダメだ、動かない\n蜘蛛の巣が引っかかってるみたいだな"
+            "value": "...Shoot, the door is stuck. Must be more\nspiderwebs keeping it shut."
         },
         {
             "key": "EP01_S0346_0003",
-            "value": "この糸、ボクのツメでも切れないよ～"
+            "value": "Not even my claws can cut these strings!"
         },
         {
             "key": "EP01_S0346_0004",
-            "value": "うぇぇ～、ベトベトする～"
+            "value": "Eww yuck, it’s all icky..."
         },
         {
             "key": "EP01_S0346_0005",
-            "value": "仕方ない。ひとまず<color=#B41919>他のところ</color>を捜そう"
+            "value": "Ah, well. Let’s check out <color=#B41919>other places</color> for\nnow."
         },
         {
             "key": "EP01_S0346_0006",
-            "value": "（今はまだ入れないな\n　他のところを捜そう）"
+            "value": "(We can’t get in here now. We should look\nsomewhere else.)"
         }
     ]
 }

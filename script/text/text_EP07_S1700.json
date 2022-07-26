@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S1700_0001",
-			"value":"よし、準備はこんなもんかな……"
+			"value":"There, that should do it."
 		},
 		{
 			"key":"EP07_S1700_0002",
-			"value":"キュー！　キュキュキュー！"
+			"value":"Kew! Kewkewkew!"
 		},
 		{
 			"key":"EP07_S1700_0003",
-			"value":"ん、どうしたクネモン？"
+			"value":"Kunemon? What is it?"
 		},
 		{
 			"key":"EP07_S1700_0004",
-			"value":"あ、こら！　荷物を荒らすなって\nせっかく整理したんだぞ"
+			"value":"Hey, don’t mess that stuff up! I just\nfinished packing it!"
 		},
 		{
 			"key":"EP07_S1700_0005",
-			"value":"キューゥ……"
+			"value":"Kew..."
 		},
 		{
 			"key":"EP07_S1700_0006",
-			"value":"……もしかして、腹減ってるのか？"
+			"value":"Wait, are you saying you’re hungry?"
 		},
 		{
 			"key":"EP07_S1700_0007",
-			"value":"キュキュー！"
+			"value":"Kewkew!"
 		},
 		{
 			"key":"EP07_S1700_0008",
-			"value":"ほら。こいつを食うか？\n……って、豆類とか食うのかな"
+			"value":"Here, why don’t you have some of this? Wait,\ndo you even eat beans?"
 		},
 		{
 			"key":"EP07_S1700_0009",
-			"value":"キュキュキュー！"
+			"value":"Kewkewkew!"
 		},
 		{
 			"key":"EP07_S1700_0010",
-			"value":"……おお、食った！"
+			"value":"I guess so."
 		}
 	]
 }

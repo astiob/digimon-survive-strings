@@ -2,67 +2,67 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S7041_0001",
-			"value":"ハルくーん！\nハルくん、どこ！？　返事してー！"
+			"value":"Haru! Haru where are you?! Say something!"
 		},
 		{
 			"key":"EP10_S7041_0002",
-			"value":"ハルくん、いないの……？"
+			"value":"Where could he be...?"
 		},
 		{
 			"key":"EP10_S7041_0003",
-			"value":"あれ……？　ここって……"
+			"value":"Wait... Where exactly am I?"
 		},
 		{
 			"key":"EP10_S7041_0004",
-			"value":"何、これ……建物……？\nこんなところに、こんな建物なかったはずなのに……"
+			"value":"This is...a building? I don’t remember seeing\nany sort of structure here before..."
 		},
 		{
 			"key":"EP10_S7041_0005",
-			"value":"…………！！！"
+			"value":"...Oh!"
 		},
 		{
 			"key":"EP10_S7041_0006",
-			"value":"私、この建物……知ってる"
+			"value":"I...I know this place."
 		},
 		{
 			"key":"EP10_S7041_0007",
-			"value":"ここは……図書館！\n私達の住んでた街にあったものと同じ……！"
+			"value":"This is...the library! It looks exactly the\nsame as the one in our town!"
 		},
 		{
 			"key":"EP10_S7041_0008",
-			"value":"どうして、こんなものが……！？"
+			"value":"But what’s it doing here?!"
 		},
 		{
 			"key":"EP10_S7041_0009",
-			"value":"（ハルくんは、ここに……？）"
+			"value":"Is Haru in here somewhere?"
 		},
 		{
 			"key":"EP10_S7041_0010",
-			"value":"（どうしよう……中に、入るべき……？\n　私、１人で……？）"
+			"value":"(What to do... Should I go inside? Me, all by\nmyself...?)"
 		},
 		{
 			"key":"EP10_S7041_0011",
-			"value":"ダメよ……！　こんなところで弱気になってたら\nハルくんを助けられない……！"
+			"value":"Pull yourself together! If you lose heart\nhere, you’ll never rescue him...!"
 		},
 		{
 			"key":"EP10_S7041_0012",
-			"value":"今度こそ……絶対に私が助けるのよ……！"
+			"value":"This time I’ll definitely save someone!"
 		},
 		{
 			"key":"EP10_S7041_0013",
-			"value":"あ、アオイ……待って……！"
+			"value":"Uhh, wait... Aoi, wait!"
 		},
 		{
 			"key":"EP10_S7041_0014",
-			"value":"はぁ……はぁ……！　なに、あの建物……？\n昨日までなかったはずなのに……"
+			"value":"*huff*... *huff*... What the heck is this\nplace? It wasn’t here yesterday..."
 		},
 		{
 			"key":"EP10_S7041_0015",
-			"value":"アオイもあの中に……？"
+			"value":"Is Aoi in there, too...?"
 		},
 		{
 			"key":"EP10_S7041_0016",
-			"value":"待っててアオイ、すぐに追いつくから……！"
+			"value":"Hold on, Aoi, I’m right behind you!"
 		}
 	]
 }

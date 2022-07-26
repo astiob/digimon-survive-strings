@@ -2,135 +2,135 @@
 	"scenario_text":[
 		{
 			"key":"EP99_S5600_0001",
-			"value":"あれ、シュウジ先輩？\nこんな場所で何をしているんですか？"
+			"value":"Hm? Shuuji? What are you doing out here?"
 		},
 		{
 			"key":"EP99_S5600_0002",
-			"value":"ああ、今後の進路の下見だよ。女の子たちの体力を\n考慮してベストな経路をと思ってね"
+			"value":"Oh, I was just scouting out our route. I want\nto make sure we take the easiest path."
 		},
 		{
 			"key":"EP99_S5600_0003",
-			"value":"いま、アンティラモンと\n手分けをしてるんだ"
+			"value":"Antylamon and I split things up so we can\ncover more ground."
 		},
 		{
 			"key":"EP99_S5600_0004",
-			"value":"あいつはなかなか頼もしいよ\nずいぶん楽をさせてもらっている"
+			"value":"He really is a huge help. Things would be\nmuch harder without him around."
 		},
 		{
 			"key":"EP99_S5600_0005",
-			"value":"（シュウジ先輩……\nケモノと心を通わせているんだ……！）"
+			"value":"(So... Shuuji’s getting along with his\nmonster!)"
 		},
 		{
 			"key":"EP99_S5600_0006",
-			"value":"ん？　どうしたんだ？\nニヤケているけど……僕は変な事を言ったかな"
+			"value":"Hm? Why are you grinning like that? Did I say\nsomething funny?"
 		},
 		{
 			"key":"EP99_S5600_0007",
-			"value":"シュウジ先輩、僕――"
+			"value":"Shuuji, I..."
 		},
 		{
 			"key":"EP99_S5600_Q1",
-			"value":"タクマの感激"
+			"value":"What am I most excited about?"
 		},
 		{
 			"key":"EP99_S5600_Q1_A1",
-			"value":"獣神マスターになりたい！"
+			"value":"You’re an inspiration!"
 		},
 		{
 			"key":"EP99_S5600_Q1_A2",
-			"value":"驚きっぱなしだ！"
+			"value":"You’ve really changed!"
 		},
 		{
 			"key":"EP99_S5600_Q1_A3",
-			"value":"猛烈に感動してる！"
+			"value":"This is so moving!"
 		},
 		{
 			"key":"EP99_S5600_0008",
-			"value":"シュウジ先輩みたいな\n獣神マスターになりたいです！"
+			"value":"I want to be a Kemonogami Master like you!\nYou’re a real inspiration!"
 		},
 		{
 			"key":"EP99_S5600_0009",
-			"value":"え、僕が獣神マスター……？\n待て待て、タクマ"
+			"value":"Me? A Kemonogami Master? Hold your horses,\nthere, Takuma."
 		},
 		{
 			"key":"EP99_S5600_0010",
-			"value":"僕は決してマスターなんて呼ばれる立場じゃない\nむしろそれはタクマじゃないのか？"
+			"value":"I’m no master, okay? If anything, you’re the\nreal master here."
 		},
 		{
 			"key":"EP99_S5600_0011",
-			"value":"え、僕が？"
+			"value":"Me?!"
 		},
 		{
 			"key":"EP99_S5600_0012",
-			"value":"そう。僕はただアグモンと君の触れあいを\n参考にしているだけだ"
+			"value":"Yes, you. All I’ve been doing is trying to be\nlike you and Agumon this whole time."
 		},
 		{
 			"key":"EP99_S5600_0013",
-			"value":"むしろタクマこそ獣神マスターだよ"
+			"value":"You’re the Kemonogami Master."
 		},
 		{
 			"key":"EP99_S5600_0014",
-			"value":"驚きっぱなしです！"
+			"value":"I can’t believe how much you’ve changed!\nYou’re just full of surprises!"
 		},
 		{
 			"key":"EP99_S5600_0015",
-			"value":"うわぁっ！　い、いきなり大きな声を\n出さないでくれよ"
+			"value":"Hey! Keep your voice down. Don’t scare me\nlike that."
 		},
 		{
 			"key":"EP99_S5600_0016",
-			"value":"す、すいません\nでも、なんていうか、その、あの……"
+			"value":"Right, sorry, it’s just, well..."
 		},
 		{
 			"key":"EP99_S5600_0017",
-			"value":"僕がもし女の子だったら\nシュウジ先輩に告白しています！"
+			"value":"Shuuji, if I were a girl, I think I’d be in\nlove!"
 		},
 		{
 			"key":"EP99_S5600_0018",
-			"value":"それくらい、今の先輩は\nイケてます、はい！"
+			"value":"That’s how impressive you are right now!"
 		},
 		{
 			"key":"EP99_S5600_0019",
-			"value":"ははは、それはありがたい言葉だけど\nあまり嬉しくない褒め言葉だな……"
+			"value":"Ha ha, well, I appreciate the compliment,\nthough I’m not sure I like how you put it..."
 		},
 		{
 			"key":"EP99_S5600_0020",
-			"value":"猛烈に感動しているんです！"
+			"value":"I just think this is so moving!"
 		},
 		{
 			"key":"EP99_S5600_0021",
-			"value":"え……どういうことなんだ？"
+			"value":"Huh? What’s moving?"
 		},
 		{
 			"key":"EP99_S5600_0022",
-			"value":"だって、以前はロップモンに\nキツイ態度を取っていたのに……"
+			"value":"I mean, you were so harsh on Lopmon before."
 		},
 		{
 			"key":"EP99_S5600_0023",
-			"value":"いまは全くそんな気配を感じさせない\nひとつ上の男って気がしました！！"
+			"value":"But you’d never be able to tell that now. You\nreally have become a better person."
 		},
 		{
 			"key":"EP99_S5600_0024",
-			"value":"はは……まあ、それは否定しない\nあの時は子供だったんだ"
+			"value":"Ha ha, well, I won’t deny it. I was pretty\nchildish before."
 		},
 		{
 			"key":"EP99_S5600_0025",
-			"value":"……むしろ僕の方がね"
+			"value":"I really was..."
 		},
 		{
 			"key":"EP99_S5600_0026",
-			"value":"とにかく……だ"
+			"value":"But anyway, I’m almost done here."
 		},
 		{
 			"key":"EP99_S5600_0027",
-			"value":"ここの下見が済んだら\n先に進もう、もちろん皆でね"
+			"value":"After we’ve finished scouting, we can all\nmove ahead."
 		},
 		{
 			"key":"EP99_S5600_0028",
-			"value":"（シュウジ先輩……\nもしかしたら……）"
+			"value":"(You know, Shuuji makes me think that maybe\nwe can do this.)"
 		},
 		{
 			"key":"EP99_S5600_0029",
-			"value":"（この人についていったら\n僕達は元の世界に戻れるかもしれない）"
+			"value":"(With him leading the way, maybe we really\ncan all make it home.)"
 		}
 	]
 }

@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S0183_0001",
-			"value":"（カメラで見てみると、\n空間の歪みのようなものが見えるけど……）"
+			"value":"(Looking through the camera, I can see some\nsort of tear in space...)"
 		},
 		{
 			"key":"EP11_S0183_0002",
-			"value":"（これって……もしかしたら\n世界の崩壊が招いた現象なのかも？）"
+			"value":"(Could this be the phenomenon causing this\nworld to fall apart?)"
 		},
 		{
 			"key":"EP11_S0183_0003",
-			"value":"（しかも、この歪みって中に入れるみたいだな）"
+			"value":"(It looks like we can enter the tear.)"
 		},
 		{
 			"key":"EP11_S0183_Q1",
-			"value":"どうする？"
+			"value":"What should we do?"
 		},
 		{
 			"key":"EP11_S0183_Q1_A1",
-			"value":"中に入る"
+			"value":"Go inside."
 		},
 		{
 			"key":"EP11_S0183_Q1_A2",
-			"value":"中に入らない"
+			"value":"Don’t go inside."
 		},
 		{
 			"key":"EP11_S0183_0004",
-			"value":"（体が……光に包まれて……いく……）"
+			"value":"(My body’s... It’s enveloped in light...)"
 		},
 		{
 			"key":"EP11_S0183_0005",
-			"value":"（うん、いまはやめておこう）"
+			"value":"(Hmm, let’s hold off for now.)"
 		}
 	]
 }

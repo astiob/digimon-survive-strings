@@ -2,239 +2,239 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9101_0001",
-			"value":"みんな、休憩は十分とれたかしら？"
+			"value":"Okay everyone, have you rested up enough?"
 		},
 		{
 			"key":"EP11_S9101_0002",
-			"value":"ばっちり！"
+			"value":"Absolutely!"
 		},
 		{
 			"key":"EP11_S9101_0003",
-			"value":"元気になったよ！"
+			"value":"Never felt better!"
 		},
 		{
 			"key":"EP11_S9101_0004",
-			"value":"いつでも行けるぜ！"
+			"value":"I’m ready to go anytime!"
 		},
 		{
 			"key":"EP11_S9101_0005",
-			"value":"それじゃあ出発するけど\nその前に目的のおさらいね"
+			"value":"Then we’ll head off, but before that, let’s\nreview our goals."
 		},
 		{
 			"key":"EP11_S9101_0006",
-			"value":"僕たちはこれから三つ目の祠に向かう\n次は東の祠だ"
+			"value":"We’re heading to the third shrine: the shrine\nof the east."
 		},
 		{
 			"key":"EP11_S9101_0007",
-			"value":"東ってどっち？"
+			"value":"And which way is east, exactly?"
 		},
 		{
 			"key":"EP11_S9101_0008",
-			"value":"ボク知ってる～！\nおはしを持つ方、だよ～！"
+			"value":"I know! That’s the way the sun rises!"
 		},
 		{
 			"key":"EP11_S9101_0009",
-			"value":"……おはし、って何？"
+			"value":"...And you know the direction that is?"
 		},
 		{
 			"key":"EP11_S9101_0010",
-			"value":"ん～？　わかんない……"
+			"value":"Nope!"
 		},
 		{
 			"key":"EP11_S9101_0011",
-			"value":"それは左右を見分けるやり方よ……"
+			"value":"Well that’s a big help..."
 		},
 		{
 			"key":"EP11_S9101_0012",
-			"value":"えっと、さっきいたのが北の祠だから……"
+			"value":"Well, if the last shrine was to the north..."
 		},
 		{
 			"key":"EP11_S9101_0013",
-			"value":"だいたい地下水道の辺りが怪しいってわけか"
+			"value":"Then that area near the waterway is a good\nbet. Right?"
 		},
 		{
 			"key":"EP11_S9101_0014",
-			"value":"その通り！"
+			"value":"Yes, exactly!"
 		},
 		{
 			"key":"EP11_S9101_0015",
-			"value":"そういえば、あそこの中に\nやたらと強力な気配を感じる場所があったな……"
+			"value":"Speaking of which, I did feel a strong\npresence somewhere in there..."
 		},
 		{
 			"key":"EP11_S9101_0016",
-			"value":"あぁ、そうだ。先ほどの祠で感じた\n四聖獣の気配にとても似ていた"
+			"value":"Yeah, it reminds me of the Sovereign Monsters\nI felt at the last shrine."
 		},
 		{
 			"key":"EP11_S9101_0017",
-			"value":"それはいい情報ね\nありがとう、レナモン"
+			"value":"That’s some valuable information. Thank you,\nRenamon."
 		},
 		{
 			"key":"EP11_S9101_0018",
-			"value":"というわけで、僕たちはこれから\n東の祠へ向かい……"
+			"value":"Now then, we’ll head to the eastern shrine..."
 		},
 		{
 			"key":"EP11_S9101_Q1",
-			"value":"（四聖獣に会ったら……）"
+			"value":"(We'll find the Sovereign Monster and...)"
 		},
 		{
 			"key":"EP11_S9101_Q1_A1",
-			"value":"協力してもらおう"
+			"value":"Ask for help."
 		},
 		{
 			"key":"EP11_S9101_Q1_A2",
-			"value":"戦って倒そう"
+			"value":"Fight and defeat him."
 		},
 		{
 			"key":"EP11_S9101_Q1_A3",
-			"value":"霧を晴らそう"
+			"value":"Clear away the fog."
 		},
 		{
 			"key":"EP11_S9101_0019",
-			"value":"協力してもらう"
+			"value":"Ask for help."
 		},
 		{
 			"key":"EP11_S9101_0020",
-			"value":"僕らに協力してもらう"
+			"value":"Let's ask him to help us."
 		},
 		{
 			"key":"EP11_S9101_0021",
-			"value":"そういうことだ！"
+			"value":"Yes, let’s do just that!"
 		},
 		{
 			"key":"EP11_S9101_0022",
-			"value":"今度こそ話し合いで解決できればいいんだけど……"
+			"value":"I hope we can actually talk things out this\ntime, but..."
 		},
 		{
 			"key":"EP11_S9101_0023",
-			"value":"あー、オレはもう期待すんのやめた\nどーせアイツらは試練だなんだって言いだすぜ"
+			"value":"Yeah, I’ve already given up on expecting\nanything. He’ll just wanna test us anyway."
 		},
 		{
 			"key":"EP11_S9101_0024",
-			"value":"覚悟して向かえば\nどうとでもなるさ"
+			"value":"If we head there with that in mind, it should\nall work out."
 		},
 		{
 			"key":"EP11_S9101_0025",
-			"value":"戦って倒す"
+			"value":"Fight and defeat him."
 		},
 		{
 			"key":"EP11_S9101_0026",
-			"value":"戦って、倒す"
+			"value":"We'll fight him, and defeat him."
 		},
 		{
 			"key":"EP11_S9101_0027",
-			"value":"ん……まぁ、そういう展開には\nなるでしょうけど……"
+			"value":"Hmm... Well, events will likely unfold that\nway. Still..."
 		},
 		{
 			"key":"EP11_S9101_0028",
-			"value":"いいじゃねえか。そっちの方が手っ取り早くてよ"
+			"value":"Works for me. That’ll make things quicker."
 		},
 		{
 			"key":"EP11_S9101_0029",
-			"value":"ははっ、だな！　勝てば力を得られる\nわかりやすくていいぜ！"
+			"value":"Haha, yeah, exactly! We just gotta beat him\ndown to get his power. Easy-peasy!"
 		},
 		{
 			"key":"EP11_S9101_0030",
-			"value":"あのねぇ、ウチら世界を救う為に動いてんだよ？\n不良みたいなケンカ思考やめてよねー"
+			"value":"Um, you know we’re trying to save the world\nhere, right? Not going to pick a fight."
 		},
 		{
 			"key":"EP11_S9101_0031",
-			"value":"そーよそーよ、お兄ちゃんのやばんじーん！"
+			"value":"Yeah, pump the brakes, you two!"
 		},
 		{
 			"key":"EP11_S9101_0032",
-			"value":"霧を晴らす"
+			"value":"Clear away the fog."
 		},
 		{
 			"key":"EP11_S9101_0033",
-			"value":"霧を晴らす"
+			"value":"Let's clear away the fog."
 		},
 		{
 			"key":"EP11_S9101_0034",
-			"value":"ああ、また一つ主の脅威が去るわけだね！"
+			"value":"Yes, that should remove one of the Master’s\nthreats!"
 		},
 		{
 			"key":"EP11_S9101_0035",
-			"value":"アレいいよなー。祠から出たら\nあっという間に綺麗な空！"
+			"value":"I like the sound of that. As soon as we leave\nthe shrine, it’ll be blue skies ahead!"
 		},
 		{
 			"key":"EP11_S9101_0036",
-			"value":"ねぇー！　気持ちいい光を浴びられて最高！"
+			"value":"Yeah! Soaking in the sunlight feels amazing!"
 		},
 		{
 			"key":"EP11_S9101_0037",
-			"value":"霧や眷属に怯えて暮らしている子たちに\n私たちで安心を与えてあげましょう"
+			"value":"Let’s give those kids living in fear of the\nfog and Kenzoku a sense of relief."
 		},
 		{
 			"key":"EP11_S9101_0038",
-			"value":"以上が今回の僕らの目的だ！\n質問はあるかい？"
+			"value":"Those are all of our goals! Any questions?"
 		},
 		{
 			"key":"EP11_S9101_0039",
-			"value":"目的はいいんだけどよぉ\nいい加減ちゃんとしたとこで休みてえんだが"
+			"value":"The goals are good and all that, but we\nshould take a break in a safe place."
 		},
 		{
 			"key":"EP11_S9101_0040",
-			"value":"あー、わかる\nそろそろ校舎に戻りたいよねー"
+			"value":"Yeah, I hear you. I wanna head back to the\nschool now."
 		},
 		{
 			"key":"EP11_S9101_0041",
-			"value":"そうね、方向は同じだから\n東の祠で四聖獣に会った後、一旦校舎に戻りましょう"
+			"value":"It’s in the same direction. Let’s head back\nafter we find the next Sovereign Monster."
 		},
 		{
 			"key":"EP11_S9101_0042",
-			"value":"よかったぁ、やっと屋根のあるとこで休める～"
+			"value":"Great, we can finally sleep under a roof!"
 		},
 		{
 			"key":"EP11_S9101_0043",
-			"value":"ウチお風呂入りた～い"
+			"value":"I wanna take a bath!"
 		},
 		{
 			"key":"EP11_S9101_0044",
-			"value":"ボク、アオイのご飯が食べたいな～！"
+			"value":"I wanna eat some of Aoi’s food!"
 		},
 		{
 			"key":"EP11_S9101_0045",
-			"value":"ボク、アオイのご飯好きだな～\nなんかホッとするんだよね……"
+			"value":"Oh yeah, it sure is tasty. Makes me wanna\ntake a nap..."
 		},
 		{
 			"key":"EP11_S9101_0046",
-			"value":"わかる！　オレらにとっちゃ\nもうすっかり母の味だよな！"
+			"value":"Right?! That’s our honorary mama for you!"
 		},
 		{
 			"key":"EP11_S9101_0047",
-			"value":"あ、ヤベ……想像しただけで\n腹減ってきちゃった……"
+			"value":"Ah, shoot... Just thinking about her food’s\ngot my stomach growling..."
 		},
 		{
 			"key":"EP11_S9101_0048",
-			"value":"あはは！　も～、何やってんのよミノル～！"
+			"value":"Ahaha! The heck, Minoru!"
 		},
 		{
 			"key":"EP11_S9101_0049",
-			"value":"あはは！　おっきいお腹の音～！"
+			"value":"Ahaha! I can hear it from here!"
 		},
 		{
 			"key":"EP11_S9101_0050",
-			"value":"すごいな。校舎の話題になった途端\nみんなすっかり笑顔になった"
+			"value":"Amazing. Just talking about the school\nbrought smiles to everyone’s faces."
 		},
 		{
 			"key":"EP11_S9101_0051",
-			"value":"それだけあの校舎が\n僕らに安心感を与えてくれるんだろう"
+			"value":"That just goes to show the sense of security\nthe school brings us."
 		},
 		{
 			"key":"EP11_S9101_0052",
-			"value":"今や、あの校舎は僕らのホームと言っても\n過言ではないね"
+			"value":"Saying that school is a home to us isn’t an\nexaggeration."
 		},
 		{
 			"key":"EP11_S9101_0053",
-			"value":"ですね\n早くあの場所に戻りましょう"
+			"value":"Yup. Let’s head back as soon as we can."
 		},
 		{
 			"key":"EP11_S9101_0054",
-			"value":"ああ、そうだな"
+			"value":"You’re right."
 		},
 		{
 			"key":"EP11_S9101_0055",
-			"value":"ではみんな、地下水道へ向けて出発！"
+			"value":"Okay, you guys, time to head to the waterway!"
 		}
 	]
 }

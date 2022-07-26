@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7110_0001",
-			"value":"タクマか……\nおどかすなよ、敵かと思ったぜ"
+			"value":"Oh, Takuma... Don’t scare me like that,\nI almost popped you one."
 		},
 		{
 			"key":"EP11_S7110_0002",
-			"value":"アオイはいた？"
+			"value":"Did you find Aoi?"
 		},
 		{
 			"key":"EP11_S7110_0003",
-			"value":"いや、ここにも祠の中にもいねーみたいだ"
+			"value":"Nope, she’s not around the shrine here."
 		},
 		{
 			"key":"EP11_S7110_0004",
-			"value":"これから、森のほうを探してくるつもりだ"
+			"value":"I’m gonna go check the forest next."
 		},
 		{
 			"key":"EP11_S7110_0005",
-			"value":"頼むよ\nくれぐれも気をつけて"
+			"value":"Got it. Just be careful out there, okay?"
 		},
 		{
 			"key":"EP11_S7110_0006",
-			"value":"ああ、わかってる\n何か手がかりでも見つかりゃいいんだが……"
+			"value":"Yeah, for sure.\nHopefully I can find a clue out there..."
 		}
 	]
 }

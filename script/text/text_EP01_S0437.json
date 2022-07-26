@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0437_0001",
-			"value":"なぁタクマ、リョウのやつ\nちょっと変じゃないか？"
+			"value":"Hey Takuma, that Ryo guy’s kinda weird, huh?"
 		},
 		{
 			"key":"EP01_S0437_0002",
-			"value":"変？"
+			"value":"Weird how?"
 		},
 		{
 			"key":"EP01_S0437_0003",
-			"value":"ずっと一人でしゃべってるんだ"
+			"value":"He’s been talking to himself for a while."
 		},
 		{
 			"key":"EP01_S0437_0004",
-			"value":"それは確かに変だな\n声を掛けてみるか"
+			"value":"Okay, yeah that’s weird. Maybe I should say\nsomething."
 		},
 		{
 			"key":"EP01_S0437_0005",
-			"value":"タクマ、リョウに話しかけてみて"
+			"value":"Hey Takuma, try talking to Ryo!"
 		}
 	]
 }

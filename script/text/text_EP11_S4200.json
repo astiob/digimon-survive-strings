@@ -2,55 +2,55 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S4200_0001",
-			"value":"どうだね？\nカイトくんは、見つかったか？"
+			"value":"Any luck? Finding Kaito, that is."
 		},
 		{
 			"key":"EP11_S4200_Q1",
-			"value":"教授になんと答えよう？"
+			"value":"How should I respond to the Professor?"
 		},
 		{
 			"key":"EP11_S4200_Q1_A1",
-			"value":"まだ見つかりません"
+			"value":"Nothing yet."
 		},
 		{
 			"key":"EP11_S4200_Q1_A2",
-			"value":"戻っていないみたいです"
+			"value":"He hasn’t come back."
 		},
 		{
 			"key":"EP11_S4200_Q1_A3",
-			"value":"見つかりました！"
+			"value":"I found him!"
 		},
 		{
 			"key":"EP11_S4200_0002",
-			"value":"まだ見つかりません"
+			"value":"Nothing yet, I’m afraid."
 		},
 		{
 			"key":"EP11_S4200_0003",
-			"value":"そうか……\nカイトくんが無事だといいんだが……"
+			"value":"I see... I sure hope the boy is safe..."
 		},
 		{
 			"key":"EP11_S4200_0004",
-			"value":"こっちには戻ってないみたいですね"
+			"value":"He hasn’t come back, from the looks of it."
 		},
 		{
 			"key":"EP11_S4200_0005",
-			"value":"ああ、戻っていないか\n無事でいてくれるといいんだが……"
+			"value":"Is that right? I certainly hope he’s okay..."
 		},
 		{
 			"key":"EP11_S4200_0006",
-			"value":"見つかりました！"
+			"value":"I found him!"
 		},
 		{
 			"key":"EP11_S4200_0007",
-			"value":"そうか！　見つかったのか！\nよかった……"
+			"value":"Oh! Did you, now?!\nFantastic news!"
 		},
 		{
 			"key":"EP11_S4200_0008",
-			"value":"ごめんなさい、嘘です"
+			"value":"Sorry, that was a lie."
 		},
 		{
 			"key":"EP11_S4200_0009",
-			"value":"あのな、タクマくん……\n今はふざけている場合ではないはずだが？"
+			"value":"...Um, Takuma.\nThis is no time for fun and games, you know?"
 		}
 	]
 }

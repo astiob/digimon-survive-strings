@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1821_0001",
-			"value":"うーん……なんか知らない雰囲気がある"
+			"value":"Hmm... I’m getting a weird sensation."
 		},
 		{
 			"key":"EP05_S1821_0002",
-			"value":"知らない雰囲気？　誰かいるってことか？"
+			"value":"A weird sensation? Like there’s someone here?"
 		},
 		{
 			"key":"EP05_S1821_0003",
-			"value":"うん。でも、なんだろ、悪いやつじゃなさそうだけど\nいいやつって感じでもない、ような？"
+			"value":"Yeah, but they don’t feel like a bad person.\nNot a good person either, though?"
 		},
 		{
 			"key":"EP05_S1821_0004",
-			"value":"なんだか曖昧だな……\nとにかく、気をつけておいた方がいいってことか"
+			"value":"That’s not very specific... Let’s just be\ncareful."
 		},
 		{
 			"key":"EP05_S1821_0005",
-			"value":"うん、何されるかわかんないしね"
+			"value":"Yeah, no telling what they’ll do."
 		},
 		{
 			"key":"EP05_S1821_0006",
-			"value":"どこにいるかわかんないから、注意してね！"
+			"value":"Careful, we don’t know where they are!"
 		}
 	]
 }

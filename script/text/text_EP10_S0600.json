@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0600_0001",
-			"value":"アグモン、急に立ち止まってどうした？"
+			"value":"Agumon? Why’d you stop all of a sudden?"
 		},
 		{
 			"key":"EP10_S0600_0002",
-			"value":"タクマ！　このあたりに変な気配が……"
+			"value":"Takuma! I’m sensing something strange nearby."
 		},
 		{
 			"key":"EP10_S0600_0003",
-			"value":"何かいる！？"
+			"value":"There’s something here?!"
 		},
 		{
 			"key":"EP10_S0600_0004",
-			"value":"この辺り、調べてみよう！"
+			"value":"We’d better look around!"
 		},
 		{
 			"key":"EP10_S0600_0005",
-			"value":"色んなところを調べてみよう\n何か見つかるかもしれないよ！"
+			"value":"Let’s look all over the place. Who knows what\nwe’ll find!"
 		}
 	]
 }

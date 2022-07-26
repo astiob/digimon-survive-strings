@@ -2,119 +2,119 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S7020_0001",
-			"value":"あれ、ラブラモンひとり？\nアオイさんと一緒じゃなかったんだ"
+			"value":"Oh, it’s just you, Labramon? I figured Aoi\nwould be with you."
 		},
 		{
 			"key":"EP09_S7020_0002",
-			"value":"めずらしいなー！\nいつもアオイと一緒なのに"
+			"value":"Yeah, this is rare! You’re always with her!"
 		},
 		{
 			"key":"EP09_S7020_0003",
-			"value":"前にも言わなかった？\n私だってひとりで考え事したい時くらいあるの"
+			"value":"Didn’t I mention? Even I like to think things\nover by myself from time to time."
 		},
 		{
 			"key":"EP09_S7020_0004",
-			"value":"そういえば、そんなことも言ってたっけ"
+			"value":"Oh yeah, you said that before, huh?"
 		},
 		{
 			"key":"EP09_S7020_0005",
-			"value":"それより、タクマに\n聞きたいことがあるんだけど……"
+			"value":"Anyway, I wanted to ask you something,\nTakuma..."
 		},
 		{
 			"key":"EP09_S7020_0006",
-			"value":"どうして、こっちに戻ってきたの？"
+			"value":"Why did you come back here?"
 		},
 		{
 			"key":"EP09_S7020_0007",
-			"value":"ん～？　どういうこと？"
+			"value":"Huh? Whaddaya mean?"
 		},
 		{
 			"key":"EP09_S7020_Q1",
-			"value":"（僕が戻ってきた理由は……）"
+			"value":"(I came back...)"
 		},
 		{
 			"key":"EP09_S7020_Q1_A1",
-			"value":"みんなを守りたいから"
+			"value":"To protect you all."
 		},
 		{
 			"key":"EP09_S7020_Q1_A2",
-			"value":"見て見ぬふりはできないから"
+			"value":"Couldn’t ignore all that happened."
 		},
 		{
 			"key":"EP09_S7020_Q1_A3",
-			"value":"力があるからだ"
+			"value":"I’m strong."
 		},
 		{
 			"key":"EP09_S7020_0008",
-			"value":"みんなを守りたい"
+			"value":"To protect you all."
 		},
 		{
 			"key":"EP09_S7020_0009",
-			"value":"みんなを守りたいからね\n仲間たちも、この世界も、僕らの世界も"
+			"value":"I want to protect everyone. And not just my\nfriends: This whole world, and mine, too."
 		},
 		{
 			"key":"EP09_S7020_0010",
-			"value":"……そう、よね"
+			"value":"...Yeah, I get it."
 		},
 		{
 			"key":"EP09_S7020_0011",
-			"value":"見て見ぬふりはできない"
+			"value":"Couldn’t ignore it."
 		},
 		{
 			"key":"EP09_S7020_0012",
-			"value":"みんなの前でも言ったけど\n見て見ぬふりはできないからね"
+			"value":"Like I said before, I couldn’t just sit by\nand act like nothing’s happening."
 		},
 		{
 			"key":"EP09_S7020_0013",
-			"value":"……そう、よね"
+			"value":"...Yeah, I get it."
 		},
 		{
 			"key":"EP09_S7020_0014",
-			"value":"力があるから"
+			"value":"I’m strong."
 		},
 		{
 			"key":"EP09_S7020_0015",
-			"value":"僕たちには力があるんだ\nだから、その力で解決できると思ってる"
+			"value":"Because I’m strong. I want to use this power\nto set things right."
 		},
 		{
 			"key":"EP09_S7020_0016",
-			"value":"……力、かぁ。そうよね"
+			"value":"...Power, huh? Yeah, I get it."
 		},
 		{
 			"key":"EP09_S7020_0017",
-			"value":"えっと……それだけ？"
+			"value":"Uh... Good, I guess?"
 		},
 		{
 			"key":"EP09_S7020_0018",
-			"value":"……僕、変なこと言ったかな？"
+			"value":"...Was that a weird thing to say?"
 		},
 		{
 			"key":"EP09_S7020_0019",
-			"value":"ううん、なんでもないわ！"
+			"value":"No, forget it. It’s nothing!"
 		},
 		{
 			"key":"EP09_S7020_0020",
-			"value":"アオイもみんなも、タクマが戻ってきてくれて\n良かったって心から喜んでると思うわ"
+			"value":"Aoi and everyone are so happy that you came\nback here."
 		},
 		{
 			"key":"EP09_S7020_0021",
-			"value":"なら、いいんだけど……"
+			"value":"If you say so..."
 		},
 		{
 			"key":"EP09_S7020_0022",
-			"value":"さてと……私、そろそろアオイのところに\n戻らなくっちゃ……！"
+			"value":"Now then, I’d better head back to Aoi’s side!"
 		},
 		{
 			"key":"EP09_S7020_0023",
-			"value":"変なラブラモン～"
+			"value":"Labramon’s kinda weird, huh!"
 		},
 		{
 			"key":"EP09_S7020_0024",
-			"value":"（……なんだったんだろう）"
+			"value":"(...What was that about?)"
 		},
 		{
 			"key":"EP09_S7020_0025",
-			"value":"タクマたちが戻ってきてくれて\n本当に良かったって……そう思ってるわ"
+			"value":"I’m really glad you came back, Takuma...\nReally I am."
 		}
 	]
 }

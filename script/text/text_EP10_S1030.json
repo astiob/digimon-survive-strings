@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S1030_0001",
-			"value":"食料探しって、予想以上に難しいわ……"
+			"value":"Phew... Foraging is tougher than I thought."
 		},
 		{
 			"key":"EP10_S1030_0002",
-			"value":"草でも食えればいいんだが\nその辺の雑草は苦くて食えたもんじゃねぇし"
+			"value":"I’d chow on some grass, but the weeds around\nhere are too nasty to eat."
 		},
 		{
 			"key":"EP10_S1030_0003",
-			"value":"ここは季節もグチャグチャだからな\n実のなってる木ばかりじゃねえ"
+			"value":"Who knows what season it is here? I don’t see\na single fruit on these trees."
 		},
 		{
 			"key":"EP10_S1030_0004",
-			"value":"でも彼岸花は秋の花だもの、この辺りなら\n秋らしく実のついた木だってあるかも……"
+			"value":"Red spider lilies bloom in the fall, so there\nmight be some autumn fruits around here..."
 		},
 		{
 			"key":"EP10_S1030_0005",
-			"value":"……あっ、あれっ！？"
+			"value":"Wait, what’s that?!"
 		},
 		{
 			"key":"EP10_S1030_0006",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S1030_0007",
-			"value":"ハルくん！？"
+			"value":"Haru?!"
 		},
 		{
 			"key":"EP10_S1030_0008",
-			"value":"ハル！\nお前、無事だったのか？"
+			"value":"Haru! You’re all right!"
 		},
 		{
 			"key":"EP10_S1030_0009",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP10_S1030_0010",
-			"value":"ハルくん、待って！\nどこに行くの！？"
+			"value":"Haru, wait! Where are you going?!"
 		},
 		{
 			"key":"EP10_S1030_0011",
-			"value":"森の奥に進んで行くみたいだな\nどうする？"
+			"value":"Looks like he’s headed further into the\nforest. What do you think we should do?"
 		},
 		{
 			"key":"EP10_S1030_0012",
-			"value":"追ってみましょう\n一人で森の奥に向かうなんて、危険すぎるもの"
+			"value":"Let’s go after him. It’s really dangerous to\nbe out here all alone."
 		},
 		{
 			"key":"EP10_S1030_0013",
-			"value":"みんなに知らせなくていいの？"
+			"value":"Shouldn’t we go tell the others?"
 		},
 		{
 			"key":"EP10_S1030_0014",
-			"value":"知らせたいけど……その間にハルくんを\n見失っちゃったらまずいでしょう？"
+			"value":"I want to, but...what happens if we lose\ntrack of Haru?"
 		},
 		{
 			"key":"EP10_S1030_0015",
-			"value":"仕方ねぇな……\nとっとと捕まえるぞ！"
+			"value":"Yeah, guess we’ll just have to go get him!"
 		}
 	]
 }

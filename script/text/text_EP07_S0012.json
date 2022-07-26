@@ -2,143 +2,143 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0012_0001",
-			"value":"よし――今日こそは切り込んでやる……！"
+			"value":"All right, today we’re going in!"
 		},
 		{
 			"key":"EP07_S0012_0002",
-			"value":"オレも、準備万端だぜっ！\n靴紐もバッチリ結んだし"
+			"value":"I’m all good to go too! Tied my shoelaces and\neverything!"
 		},
 		{
 			"key":"EP07_S0012_0003",
-			"value":"気合いも十分！\n……あ、そうだ"
+			"value":"I am totally pumped! Oh, but I almost forgot..."
 		},
 		{
 			"key":"EP07_S0012_0004",
-			"value":"バナナとか持ってっていいのかな？\nおやつに入る？"
+			"value":"Is it cool if I bring a banana or something?\nAre we allowed to have snacks?"
 		},
 		{
 			"key":"EP07_S0012_0005",
-			"value":"なに言ってるのよ、ガキなんだから"
+			"value":"What are you blabbering about? Don’t be such\na brat."
 		},
 		{
 			"key":"EP07_S0012_0006",
-			"value":"緊張をほぐそうと思ったんだよ"
+			"value":"I thought we could use some comic relief!"
 		},
 		{
 			"key":"EP07_S0012_0007",
-			"value":"（……遠足と勘違いしている\n雰囲気もあるが仕方ない）"
+			"value":"(It kind of feels like we’re going on a field\ntrip, but I guess that’s unavoidable.)"
 		},
 		{
 			"key":"EP07_S0012_0008",
-			"value":"（だって、学校じゃ『敵陣に乗り込むための準備』\nなんて習ってないのだから）"
+			"value":"(It’s not like they taught us in school how\nto prepare an assault on an enemy position.)"
 		},
 		{
 			"key":"EP07_S0012_0009",
-			"value":"あのさ……僕たちは何も、決戦を仕掛けに\n敵陣に乗り込むわけじゃない"
+			"value":"Remember, we’re not going in there looking\nfor a fight."
 		},
 		{
 			"key":"EP07_S0012_0010",
-			"value":"目的はあくまで、元の世界に戻るための\n情報を得ることだ"
+			"value":"All we’re after is information on how we can\nget back to our world."
 		},
 		{
 			"key":"EP07_S0012_0011",
-			"value":"でも、ガルルモンにせよ\nアルケニモンにせよ……"
+			"value":"Still, it seems pretty unlikely that\nGarurumon or Arukenimon..."
 		},
 		{
 			"key":"EP07_S0012_0012",
-			"value":"お願いしたって、教えてくれるような\n奴らじゃないのも確かだ"
+			"value":"...will tell us everything we need to know if\nwe just say please."
 		},
 		{
 			"key":"EP07_S0012_0013",
-			"value":"ああ。どうにか取り押さえて\n口を割らせるってことだな"
+			"value":"Right. We’re going to have to corner them and\nmake them talk."
 		},
 		{
 			"key":"EP07_S0012_0014",
-			"value":"……できるだけ穏便に\n話し合いで済ませられないかな"
+			"value":"Can we try and keep this as peaceful as\npossible?"
 		},
 		{
 			"key":"EP07_S0012_0015",
-			"value":"いやあ、話しの通じる相手ならいいけどさ……"
+			"value":"I mean, if they’re willing to talk\npeacefully, sure."
 		},
 		{
 			"key":"EP07_S0012_0016",
-			"value":"まずは戦って、相手の鼻っ柱を\n折ってからじゃないと無理でしょー"
+			"value":"But something tells me we’re gonna have to\ntwist their noses first."
 		},
 		{
 			"key":"EP07_S0012_0017",
-			"value":"そうかもな\nとにかく、大事なのは――"
+			"value":"It may come to that, but don’t forget the\nmost important thing."
 		},
 		{
 			"key":"EP07_S0012_Q1",
-			"value":"大事なのは？"
+			"value":"What’s the most important thing?"
 		},
 		{
 			"key":"EP07_S0012_Q1_A1",
-			"value":"絶対に無茶はしないこと"
+			"value":"Know your limits."
 		},
 		{
 			"key":"EP07_S0012_Q1_A2",
-			"value":"必ず目的を達成すること"
+			"value":"Stay focused."
 		},
 		{
 			"key":"EP07_S0012_Q1_A3",
-			"value":"覚悟を決めること"
+			"value":"Keep up your resolve."
 		},
 		{
 			"key":"EP07_S0012_0018",
-			"value":"――絶対に無茶はしないこと"
+			"value":"We all need to remember our limits."
 		},
 		{
 			"key":"EP07_S0012_0019",
-			"value":"最も大事なのは、無事にこの世界から\n脱出することだからね"
+			"value":"After all, the whole point of this is to get\neveryone home safe."
 		},
 		{
 			"key":"EP07_S0012_0020",
-			"value":"そうね\n気をつけて行きましょう"
+			"value":"You’re right. Let’s all be careful and try\nnot to overdo it."
 		},
 		{
 			"key":"EP07_S0012_0021",
-			"value":"――必ず目的を達成することだ"
+			"value":"We need to stay focused on our goal."
 		},
 		{
 			"key":"EP07_S0012_0022",
-			"value":"そのためには、勇み足はダメだ\n絶対に"
+			"value":"We can’t let ourselves get distracted or\ncarried away. No matter what."
 		},
 		{
 			"key":"EP07_S0012_0023",
-			"value":"ああ、わかってるって！"
+			"value":"Yeah, yeah, I got it already."
 		},
 		{
 			"key":"EP07_S0012_0024",
-			"value":"――覚悟を決めることだ"
+			"value":"We need to keep up our resolve."
 		},
 		{
 			"key":"EP07_S0012_0025",
-			"value":"こっちは絶対にくじけないと\n相手にわからせるんだ"
+			"value":"Our enemies need to know that we will not\nbreak, no matter what."
 		},
 		{
 			"key":"EP07_S0012_0026",
-			"value":"ああ、タクマの言う通りだ\nそうすれば、こっちに有利になるはず……！"
+			"value":"Yeah, what Takuma said. That’s sure to put us\nat an advantage."
 		},
 		{
 			"key":"EP07_S0012_0027",
-			"value":"とにかく、ジジモンの言っていた\n「この世界を統べる者」の正体もわからないし"
+			"value":"We might not know anything about the ruler of\nthis world that Jijimon told us about..."
 		},
 		{
 			"key":"EP07_S0012_0028",
-			"value":"そんな神様みたいな存在が\n本当にいるのかどうかすら……"
+			"value":"...or even if a god-like being like that\nreally exists."
 		},
 		{
 			"key":"EP07_S0012_0029",
-			"value":"でも、行くしかないんだ"
+			"value":"But we still have to go. It’s our only hope."
 		},
 		{
 			"key":"EP07_S0012_0030",
-			"value":"ええ、そうね\n進むしかないんだわ……"
+			"value":"Yes, you’re right. Our only option is to keep\nmoving forward."
 		},
 		{
 			"key":"EP07_S0012_0031",
-			"value":"ああ。もう少ししたら出発しよう\n忘れ物がないように、いいね！"
+			"value":"Exactly. We’ll be heading out soon. Make sure\nyou don’t forget anything!"
 		}
 	]
 }

@@ -2,135 +2,135 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S9114_0001",
-			"value":"あぁタクマ、良かった\n手伝ってくれ、手が足りないんだ"
+			"value":"Oh Takuma, good timing. We’re short on hands,\nhelp us out."
 		},
 		{
 			"key":"EP09_S9114_0002",
-			"value":"ここは、かなりの数の\n怪我人がいますね……"
+			"value":"There’s so many injured here..."
 		},
 		{
 			"key":"EP09_S9114_0003",
-			"value":"ああ、どうやらここにいるケモノたちは\nこの場を死守する為に奮闘したんだろう"
+			"value":"Yeah, it looks like the monsters here worked\nhard to protect this place to the end."
 		},
 		{
 			"key":"EP09_S9114_0004",
-			"value":"僕らが、もっと早く来ていれば……"
+			"value":"If only we had come sooner..."
 		},
 		{
 			"key":"EP09_S9114_0005",
-			"value":"シュウジさん……"
+			"value":"Shuuji..."
 		},
 		{
 			"key":"EP09_S9114_0006",
-			"value":"タクマ、敵の目的は何なんだろう？"
+			"value":"What could the enemy be after, you think?"
 		},
 		{
 			"key":"EP09_S9114_0007",
-			"value":"ここには人間もいないのに\n逆らう者たちを襲ってまで侵攻するなんて……"
+			"value":"They invaded despite the lack of humans here—\nattacked any who resisted..."
 		},
 		{
 			"key":"EP09_S9114_0008",
-			"value":"今までの流れから考えてもおかしくはないか？"
+			"value":"Isn’t it strange, considering how they’ve\nmoved up until now?"
 		},
 		{
 			"key":"EP09_S9114_0009",
-			"value":"（確かにおかしい気はする\n　なら敵の目的は何だって聞かれても、わからないけど）"
+			"value":"(Yeah, it is strange, isn’t it? We have no\nclue what the enemy’s goal is...)"
 		},
 		{
 			"key":"EP09_S9114_0010",
-			"value":"（実は人間だけじゃなく、ケモノたちも\n　襲う対象にしだした……とか？）"
+			"value":"(Along with humans, maybe they’ve added the\nmonsters to the list of attack targets?)"
 		},
 		{
 			"key":"EP09_S9114_0011",
-			"value":"（それより救助を急いだ方がいいのかな？）"
+			"value":"(But regardless, shouldn’t we be focusing on\nour rescue efforts?)"
 		},
 		{
 			"key":"EP09_S9114_Q1",
-			"value":"（シュウジさんになんて言おう……）"
+			"value":"(What should I say to Shuuji?)"
 		},
 		{
 			"key":"EP09_S9114_Q1_A1",
-			"value":"確かにおかしいですね"
+			"value":"This is pretty weird."
 		},
 		{
 			"key":"EP09_S9114_Q1_A2",
-			"value":"ケモノを倒すのが目的とか？"
+			"value":"They’re after the monsters."
 		},
 		{
 			"key":"EP09_S9114_Q1_A3",
-			"value":"それより救助を急ぎましょう"
+			"value":"Rescue takes priority."
 		},
 		{
 			"key":"EP09_S9114_0012",
-			"value":"確かにおかしいですね"
+			"value":"This is pretty weird."
 		},
 		{
 			"key":"EP09_S9114_0013",
-			"value":"確かにおかしいですよね\n今までこんなことなかったのに……"
+			"value":"This is all pretty weird. They never acted\nlike this before..."
 		},
 		{
 			"key":"EP09_S9114_0014",
-			"value":"主には何か目的があるのか……？\nそれに関係するものがこの先に……？"
+			"value":"Does the Master have some sort of goal? And\nis something related to that goal up ahead?"
 		},
 		{
 			"key":"EP09_S9114_0015",
-			"value":"それはいったい何だ……？\n駄目だ、まだ情報が少なすぎる……"
+			"value":"What could it be, I wonder? Shoot, we lack\nthe data to hypothesize anything..."
 		},
 		{
 			"key":"EP09_S9114_0016",
-			"value":"あ、あの、シュウジさん……\n今はまず、救助を優先しましょう"
+			"value":"Um, Shuuji, my man... Should we prioritize\nthe rescue attempt for now?"
 		},
 		{
 			"key":"EP09_S9114_0017",
-			"value":"あ、あぁそうだね！\nすまない、救助に集中しよう"
+			"value":"Ah, yes, you’re right! Sorry, let’s focus our\nefforts on that goal."
 		},
 		{
 			"key":"EP09_S9114_0018",
-			"value":"（なんだかシュウジさん\n　教授に似てきたなぁ）"
+			"value":"(Huh. The professor’s starting to rub off on\nShuuji, from the looks of it.)"
 		},
 		{
 			"key":"EP09_S9114_0019",
-			"value":"ケモノを倒すのが目的とか？"
+			"value":"They're after the monsters."
 		},
 		{
 			"key":"EP09_S9114_0020",
-			"value":"アイツらの目的が\nケモノも倒すことに変わった、とか？"
+			"value":"Do you think their goal has switched to\nattacking the monsters?"
 		},
 		{
 			"key":"EP09_S9114_0021",
-			"value":"うーん、どうだろう……\n可能性はあるんだろうが……"
+			"value":"Hmm, I wonder... I mean, it’s a possibility,\nsure, but..."
 		},
 		{
 			"key":"EP09_S9114_0022",
-			"value":"いや、駄目だ。今は情報が少なすぎて\nどうとでも考えられてしまう"
+			"value":"No, I’m afraid we lack the data we need to\ndraw any conclusions now."
 		},
 		{
 			"key":"EP09_S9114_0023",
-			"value":"わからないことを考えていても仕方ないね\n今は救助に集中しよう"
+			"value":"No point in considering things we don’t know\nabout. Let’s focus on search and rescue."
 		},
 		{
 			"key":"EP09_S9114_0024",
-			"value":"はい"
+			"value":"Right!"
 		},
 		{
 			"key":"EP09_S9114_0025",
-			"value":"それより救助を急ぎましょう"
+			"value":"Rescue takes priority."
 		},
 		{
 			"key":"EP09_S9114_0026",
-			"value":"えっと、シュウジさん……？　敵の目的も気になります\nけど、今は救助を急いだ方が……"
+			"value":"Um, Shuuji? I know you’re interested in the\nenemy’s goal, but if we don’t hurry..."
 		},
 		{
 			"key":"EP09_S9114_0027",
-			"value":"あ、そ、そうだね！\nすまない、命の方が大事だ"
+			"value":"Oh, yes! You’re right! Sorry, lives are far\nmore important than this."
 		},
 		{
 			"key":"EP09_S9114_0028",
-			"value":"今は救助に集中しよう"
+			"value":"Let’s focus on the rescue effort now."
 		},
 		{
 			"key":"EP09_S9114_0029",
-			"value":"とにかく、今は救助が最優先だ\n助けられる命は、必ず助けよう"
+			"value":"At any rate, the rescue effort takes top\npriority. Let’s save whoever we can."
 		}
 	]
 }

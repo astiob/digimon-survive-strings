@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0356_0001",
-			"value":"ねーねー、タクマー\nこれなーに？"
+			"value":"Hey, Takuma, Takuma! What’s this?"
 		},
 		{
 			"key":"EP01_S0356_0002",
-			"value":"お、これ食べられそうだ\nでかしたアグモン！"
+			"value":"Oh, looks like something to eat. Good going,\nAgumon!"
 		},
 		{
 			"key":"EP01_S0356_0003",
-			"value":"えへへ～"
+			"value":"Eheheh..."
 		},
 		{
 			"key":"EP01_S0356_0004",
-			"value":"（これ、使えそうだな\n　腐ってもいないようだし……）"
+			"value":"(We could use this. It doesn’t seem to be\nrotten...)"
 		}
 	]
 }

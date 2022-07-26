@@ -2,95 +2,95 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7303_0001",
-			"value":"ん……？\nタクマとアグモンか"
+			"value":"Hm? Takuma, Agumon, is that you?"
 		},
 		{
 			"key":"EP11_S7303_0002",
-			"value":"レナモンは、森の中を捜しててくれたんだね"
+			"value":"I see you’ve been searching the forest,\nRenamon."
 		},
 		{
 			"key":"EP11_S7303_0003",
-			"value":"どう～？　アオイたち、見つかった～？"
+			"value":"Any luck? Did you find Aoi and Labramon?"
 		},
 		{
 			"key":"EP11_S7303_0004",
-			"value":"いや……残念ながら\nこの辺りには、何の痕跡も見当たらないな"
+			"value":"No... I’m afraid I haven’t been able to find\nany trace of them."
 		},
 		{
 			"key":"EP11_S7303_0005",
-			"value":"だが、諦めるにはまだ早すぎる\nこのまま捜索を続けるつもりだ"
+			"value":"But it’s too soon to give up just yet.\nI intend to keep searching."
 		},
 		{
 			"key":"EP11_S7303_0006",
-			"value":"レナモン……ありがとな\nアオイさんを捜すのに、協力してくれて"
+			"value":"Renamon... Thank you for helping us look for\nher."
 		},
 		{
 			"key":"EP11_S7303_0007",
-			"value":"……礼を言うのは、私のほうだ\nあんな仕打ちをした私を、お前たちは受け入れてくれた"
+			"value":"No, if anything, I should be thanking you\nfor accepting me after all I did."
 		},
 		{
 			"key":"EP11_S7303_0008",
-			"value":"そして、ミユキを助けるとも言ってくれた\nその恩に報いるべく、手を貸すのは当然のことだろう"
+			"value":"You even agreed to help save Miyuki. Helping\nyou now is the least I can do."
 		},
 		{
 			"key":"EP11_S7303_0009",
-			"value":"はは……でも、やっぱりうれしいよ\nやっとレナモンが仲間になったって感じがしてさ"
+			"value":"Haha, well I’m still happy to have your help.\nIt feels like you’re finally one of us now."
 		},
 		{
 			"key":"EP11_S7303_0010",
-			"value":"うんー！　レナモンもボクたちの大事な仲間だよー！\nだからミユキのことも、絶対に助けような！"
+			"value":"Yeah! You’re one of our friends too, Renamon!\nAll the more reason for us to save Miyuki!"
 		},
 		{
 			"key":"EP11_S7303_0011",
-			"value":"けど……問題はミユキがどこにいるかだよな\nまったく見当もつかないし……"
+			"value":"The problem is where she might be. I don’t\nhave the first clue where to look for her."
 		},
 		{
 			"key":"EP11_S7303_0012",
-			"value":"その件だが……実は私はミユキの居場所を\n知っているんだ"
+			"value":"Oh, I know exactly where Miyuki is."
 		},
 		{
 			"key":"EP11_S7303_0013",
-			"value":"えっ！？　そ、それ、本当なの！？"
+			"value":"What?! Are you serious?!"
 		},
 		{
 			"key":"EP11_S7303_0014",
-			"value":"どうしてヒミツにしてたんだ！？\nみんなで話したときに、言えばよかったのにー！"
+			"value":"Then why keep it a secret?! You should’ve\njust told everyone before!"
 		},
 		{
 			"key":"EP11_S7303_0015",
-			"value":"隠そうとしたわけじゃない\nただ、あの場で言うことでもないと思った"
+			"value":"It’s not like I was trying to hide it. It\njust didn’t seem like the time to mention it."
 		},
 		{
 			"key":"EP11_S7303_0016",
-			"value":"今は……アオイを探し出し、救うことを\n何より最優先にすべきだと……そう思ったからだ"
+			"value":"I thought our top priority should be finding\nand rescuing Aoi."
 		},
 		{
 			"key":"EP11_S7303_0017",
-			"value":"それに、手先となるピエモンのような\nケモノもほとんどいないはず"
+			"value":"Besides, the Master doesn’t have many\nmonsters like Piedmon that do his bidding."
 		},
 		{
 			"key":"EP11_S7303_0018",
-			"value":"あちらから仕掛けてくるにしても\n多少、時間に猶予があるだろうからな"
+			"value":"So even if the Master intends to attack us,\nwe should have some time."
 		},
 		{
 			"key":"EP11_S7303_0019",
-			"value":"そうなのか？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP11_S7303_0020",
-			"value":"図書館の一件で、主は多くの戦力を割いた……と\nそう考えて間違いないだろう"
+			"value":"The Master lost a lot of his forces at the\nlibrary, so that much seems certain."
 		},
 		{
 			"key":"EP11_S7303_0021",
-			"value":"ともかく、アオイを見つけ\n全員がそろった時に、改めて話そうと思う"
+			"value":"Anyway, I was thinking we could talk things\nover after we find Aoi and everyone’s back."
 		},
 		{
 			"key":"EP11_S7303_0022",
-			"value":"わかった……その時を待ってるよ\nレナモンの言う通り、まずはアオイさんを見つけよう"
+			"value":"Got it. I’ll be looking forward to it. In the\nmeantime, you’re right, we need to find Aoi."
 		},
 		{
 			"key":"EP11_S7303_0023",
-			"value":"ミユキの居場所の件は、アオイが見つかり\n全員がそろってから……改めて話をさせてほしい"
+			"value":"I’ll tell you where Miyuki is after we’ve\nfound Aoi and everyone’s back together."
 		}
 	]
 }

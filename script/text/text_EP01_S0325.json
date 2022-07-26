@@ -2,67 +2,67 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0325_0001",
-			"value":"タクマ～、ここか～？"
+			"value":"You think it’s here, Takuma?"
 		},
 		{
 			"key":"EP01_S0325_0002",
-			"value":"そうそう……\nこんな棚に入ってて……"
+			"value":"Yeah, they usually put it on a shelf like\nthis..."
 		},
 		{
 			"key":"EP01_S0325_0003",
-			"value":"……ん？　これじゃないか？"
+			"value":"...Oh? Isn’t this it?"
 		},
 		{
 			"key":"EP01_S0325_0004",
-			"value":"わーい！　やった～！\nこれでラブラモン元気になるぞ！"
+			"value":"HOORAAAY! We did it! Now Labramon’ll feel\nbetter in no time!"
 		},
 		{
 			"key":"EP01_S0325_0005",
-			"value":"うん！　そうだね！"
+			"value":"Yeah, exactly!"
 		},
 		{
 			"key":"EP01_S0325_0006",
-			"value":"タクマくん……？\nあ、すごい！　見つかったの！？"
+			"value":"Takuma...? Oh wow, you found one?!"
 		},
 		{
 			"key":"EP01_S0325_0007",
-			"value":"ああ、あったよ！\nラブラモンのところに行こう！"
+			"value":"Yeah, we got it! Let’s head back to Labramon!"
 		},
 		{
 			"key":"EP01_S0325_0008",
-			"value":"ええ！"
+			"value":"Okay!"
 		},
 		{
 			"key":"EP01_S0325_0200",
-			"value":"ラブラモン、大丈夫……？"
+			"value":"Labramon, are you okay?"
 		},
 		{
 			"key":"EP01_S0325_0201",
-			"value":"だ、大丈夫よ……\n見た目ほど、酷くない、から……"
+			"value":"I, I’m okay... It’s not as bad...as it looks."
 		},
 		{
 			"key":"EP01_S0325_0202",
-			"value":"うぅっ！　痛た……"
+			"value":"Yowch!"
 		},
 		{
 			"key":"EP01_S0325_0203",
-			"value":"酷くないなんて、そんなことなさそうだけど……"
+			"value":"I dunno, it looks pretty bad..."
 		},
 		{
 			"key":"EP01_S0325_0204",
-			"value":"放っておいて治る傷じゃなさそうだわ"
+			"value":"I don’t think this will heal by itself."
 		},
 		{
 			"key":"EP01_S0325_0205",
-			"value":"タクマくん、急いで治療道具を見つけましょう"
+			"value":"We have to hurry and find something to treat\nher, Takuma!"
 		},
 		{
 			"key":"EP01_S0325_0206",
-			"value":"うん！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP01_S0325_0009",
-			"value":"キシキシキシ……"
+			"value":"Shee-hee-hee-hee..."
 		}
 	]
 }

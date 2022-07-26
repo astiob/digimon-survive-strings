@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9171_0001",
-			"value":"きゃっ！？"
+			"value":"Yeek!"
 		},
 		{
 			"key":"EP12_S9171_0002",
-			"value":"大丈夫かミウ！？"
+			"value":"Miu, you okay?"
 		},
 		{
 			"key":"EP12_S9171_0003",
-			"value":"だ、大丈夫……ちょっとビックリしただけだよ\nいちいち大声出さないでよね……"
+			"value":"I... I’m fine. I just got a little startled.\nYou don’t have to scream about it every time."
 		},
 		{
 			"key":"EP12_S9171_0004",
-			"value":"ああ、悪い。気をつけるよ"
+			"value":"Right. Sorry, I’ll try not to."
 		},
 		{
 			"key":"EP12_S9171_0005",
-			"value":"（絶対次も、カイトはミウを心配するんだろうな……）"
+			"value":"(No way is Kaito going to keep quiet next\ntime.)"
 		}
 	]
 }

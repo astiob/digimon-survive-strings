@@ -2,243 +2,243 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S0026_0001",
-			"value":"どんなもんだ、このやろー！"
+			"value":"What ARE you?"
 		},
 		{
 			"key":"EP07_S0026_0002",
-			"value":"大丈夫か、ミウ"
+			"value":"Miu, are you okay?"
 		},
 		{
 			"key":"EP07_S0026_0003",
-			"value":"う、うん\nなんとか……シャコモンのおかげ"
+			"value":"Yeah, I think so. Thanks to Syakomon."
 		},
 		{
 			"key":"EP07_S0026_0004",
-			"value":"ミウが無事でよかったわ\nさて……"
+			"value":"I’m glad. Now then..."
 		},
 		{
 			"key":"EP07_S0026_0005",
-			"value":"このままいけばあなたの負けよ\n今のうちに降参すべきじゃない？"
+			"value":"Go any further and you will lose.\nRetreat while you still can!"
 		},
 		{
 			"key":"EP07_S0026_0006",
-			"value":"僕らも死ぬわけにはいかない\nなんとかお互いが生き残れる道を模索できないか？"
+			"value":"There’s no way we’re dying! Let's choose the path\nwhere we all survive!"
 		},
 		{
 			"key":"EP07_S0026_0007",
-			"value":"今すぐ手を引けば、命までは奪わねぇ\n話くらいは聞かせてもらうがな"
+			"value":"If you stop now, we’ll spare your life.\nThat’s the deal."
 		},
 		{
 			"key":"EP07_S0026_0008",
-			"value":"ふ、ふふ……\nコドモばかりのくせに、やるじゃなぁい"
+			"value":"Hehehe... What do you children know?"
 		},
 		{
 			"key":"EP07_S0026_0009",
-			"value":"だけど残念でした\n私たちを見くびったこと、後悔しなさぁい！"
+			"value":"How unfortunate for you.\nYou will regret underestimating us!"
 		},
 		{
 			"key":"EP07_S0026_0010",
-			"value":"！！"
+			"value":"Yeah!"
 		},
 		{
 			"key":"EP07_S0026_0011",
-			"value":"ぐうっ！？"
+			"value":"Oof?!"
 		},
 		{
 			"key":"EP07_S0026_0012",
-			"value":"……あ"
+			"value":"Uh..."
 		},
 		{
 			"key":"EP07_S0026_0013",
-			"value":"教授！！"
+			"value":"Professor!"
 		},
 		{
 			"key":"EP07_S0026_0014",
-			"value":"お、お姉ちゃん……！"
+			"value":"Miyuki!"
 		},
 		{
 			"key":"EP07_S0026_0015",
-			"value":"あははははは！\n『巫女』は貰っていくわぁ！！"
+			"value":"Ahahaha! The maiden is mine!"
 		},
 		{
 			"key":"EP07_S0026_0016",
-			"value":"ま、待て！"
+			"value":"Stop!"
 		},
 		{
 			"key":"EP07_S0026_0017",
-			"value":"甘いわ！\nそう簡単に捕まるものですか！"
+			"value":"How naive you are! To think you might so\neasily capture me!"
 		},
 		{
 			"key":"EP07_S0026_0018",
-			"value":"ミユキを抱えたまま\n天井に張り付いて逃げていく……！？"
+			"value":"She’ll get away with Miyuki by walking across\nthe ceiling!"
 		},
 		{
 			"key":"EP07_S0026_0019",
-			"value":"なるほどな、突然現れたように見えたのも\nオレたちの頭の上に隠れていたからか"
+			"value":"So that’s how it appeared all of a sudden.\nIt was hiding above our heads the whole time?"
 		},
 		{
 			"key":"EP07_S0026_0020",
-			"value":"納得してる場合じゃないよ！\nどうしよう、ミユキさんが連れていかれちゃった！"
+			"value":"Never mind that right now! It took Miyuki\naway! What should we do?!"
 		},
 		{
 			"key":"EP07_S0026_0021",
-			"value":"……なんてことだ"
+			"value":"How did this happen...?"
 		},
 		{
 			"key":"EP07_S0026_0022",
-			"value":"こんなことなら、アルケニモンを徹底的に倒すべき\nだったのか？　いや、でも……"
+			"value":"So our only choice is to completely destroy\nArukenimon! Right? But..."
 		},
 		{
 			"key":"EP07_S0026_0023",
-			"value":"呆けてる場合か！\n追いかけんぞ！"
+			"value":"Stop hesitating! After it!"
 		},
 		{
 			"key":"EP07_S0026_0024",
-			"value":"……っ！"
+			"value":"What?!"
 		},
 		{
 			"key":"EP07_S0026_0025",
-			"value":"ま、待ってよ、ハル！\n一人で行っちゃ危ないよ！"
+			"value":"Hang on, Haru!\nIt’s too dangerous to go alone!"
 		},
 		{
 			"key":"EP07_S0026_0026",
-			"value":"何？　一緒にいれば安全だって\nそう言いたいの？"
+			"value":"What? You think I’ll be safer with you?"
 		},
 		{
 			"key":"EP07_S0026_0027",
-			"value":"ハル……？"
+			"value":"Haru?"
 		},
 		{
 			"key":"EP07_S0026_Q1",
-			"value":"（アルケニモンへの対応は）"
+			"value":"(How to approach Arukenimon...)"
 		},
 		{
 			"key":"EP07_S0026_Q1_A1",
-			"value":"戦おう"
+			"value":"Let’s fight."
 		},
 		{
 			"key":"EP07_S0026_Q1_A2",
-			"value":"協力を申し出てみよう"
+			"value":"Ask for cooperation."
 		},
 		{
 			"key":"EP07_S0026_Q1_A3",
-			"value":"隙を突いて逃げよう"
+			"value":"Find a way to escape."
 		},
 		{
 			"key":"EP07_S0026_0028",
-			"value":"オマエたちと一緒にいたって無駄だ"
+			"value":"Staying with all of you would be pointless."
 		},
 		{
 			"key":"EP07_S0026_0029",
-			"value":"いくら戦いに勝ったって、お姉ちゃんを\n守れないんじゃ意味がないだろ！"
+			"value":"Even if you won, it would mean nothing if we\nlost Miyuki."
 		},
 		{
 			"key":"EP07_S0026_0030",
-			"value":"タクマくんたちは死力を尽くしたんだ\nそのような八つ当たりは……"
+			"value":"Takuma and the others gave their all.\nYour anger is misplaced..."
 		},
 		{
 			"key":"EP07_S0026_0031",
-			"value":"偉そうに！\nオマエがいながら、何故守れなかった！"
+			"value":"Like you would know!\nYou were useless just now!"
 		},
 		{
 			"key":"EP07_S0026_0032",
-			"value":"……！"
+			"value":"...!"
 		},
 		{
 			"key":"EP07_S0026_0033",
-			"value":"オマエはいつだってそうだ！\nいつだって大事なものを守れやしない！"
+			"value":"It’s always the same with you! You can never\nprotect what’s really important!"
 		},
 		{
 			"key":"EP07_S0026_0034",
-			"value":"私はオマエとは違う！　ずっとミユキを守ってきた！\n今回も、これからも、ミユキは私が守るんだ！"
+			"value":"I’m not like you! I’ve protected her all this\ntime! Now and forever, I will protect Miyuki!"
 		},
 		{
 			"key":"EP07_S0026_0035",
-			"value":"……私はアイツを追いかける\n邪魔をするな！"
+			"value":"I’m going after it. Don’t interfere!"
 		},
 		{
 			"key":"EP07_S0026_0036",
-			"value":"オマエが敵に情けをかけたりするから\nお姉ちゃんが割を食ったんじゃないか！"
+			"value":"You showed mercy on the enemy!\nYou let them take her!"
 		},
 		{
 			"key":"EP07_S0026_0037",
-			"value":"……う"
+			"value":"Erm..."
 		},
 		{
 			"key":"EP07_S0026_0038",
-			"value":"アルケニモンを制御できる実力も\n倒す力も、戦う力すらないくせに！"
+			"value":"You have no way to control, defeat, or even\nfight with Arukenimon!"
 		},
 		{
 			"key":"EP07_S0026_0039",
-			"value":"全部オマエのせいだ！\nオマエのせいでミユキが危険な目に……！"
+			"value":"It’s all your fault!\nYou put Miyuki in danger!"
 		},
 		{
 			"key":"EP07_S0026_0040",
-			"value":"ちょ、ちょっと！\n言いすぎじゃない！？"
+			"value":"Hang on a second!\nThink about what you’re saying!"
 		},
 		{
 			"key":"EP07_S0026_0041",
-			"value":"……もういい\nオマエたちに関わっている時間が無駄だ！"
+			"value":"I don’t care anymore. I can’t waste any more\ntime with any of you!"
 		},
 		{
 			"key":"EP07_S0026_0042",
-			"value":"待ってよ、ハル……"
+			"value":"Haru, wait!"
 		},
 		{
 			"key":"EP07_S0026_0043",
-			"value":"うるさい！！"
+			"value":"Shut up!"
 		},
 		{
 			"key":"EP07_S0026_0044",
-			"value":"そもそもオマエが敵を前にして\nモタモタしてるから！"
+			"value":"The enemy was right in front of you, and yet\nyou hesitated!"
 		},
 		{
 			"key":"EP07_S0026_0045",
-			"value":"さっさと仕掛けてさっさと倒せば\nこんなことには……ああもう、最悪だ！"
+			"value":"If you had just done your job, none of\nthis... Dammit!"
 		},
 		{
 			"key":"EP07_S0026_0046",
-			"value":"落ち着いて、ハルくん\nみんなで追いかけましょう？"
+			"value":"Calm down, Haru. We’ll all go after her."
 		},
 		{
 			"key":"EP07_S0026_0047",
-			"value":"すぐに行けばきっと間に合うわ\n言い争っている場合じゃ……"
+			"value":"If we go now, we can make it.\nNo more arguing..."
 		},
 		{
 			"key":"EP07_S0026_0048",
-			"value":"ああ、そうだね\n愚図な奴らと一緒にいたら間に合わない"
+			"value":"You’re right, but we won’t make it with these\nslowpokes."
 		},
 		{
 			"key":"EP07_S0026_0049",
-			"value":"え？　そ、そんな酷い言い方……"
+			"value":"That’s harsh..."
 		},
 		{
 			"key":"EP07_S0026_0050",
-			"value":"私がミユキを救う\nオマエたちになど頼らない！！"
+			"value":"I’m saving Miyuki. I don’t need any of you!"
 		},
 		{
 			"key":"EP07_S0026_0051",
-			"value":"な、なんだ、ハルのやつ"
+			"value":"What is wrong with him?"
 		},
 		{
 			"key":"EP07_S0026_0052",
-			"value":"いくらミユキが危ないからって\n様子がおかしくねーか？"
+			"value":"I get that Miyuki’s in danger, but he’s\njust...unhinged."
 		},
 		{
 			"key":"EP07_S0026_0053",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S0026_0054",
-			"value":"とにかく、後を追おう\nアルケニモンをそのままにはしておけん……"
+			"value":"For now, let’s follow them. We can’t let\nArukenimon get away."
 		},
 		{
 			"key":"EP07_S0026_0055",
-			"value":"……そうですね、わかりました"
+			"value":"You’re right."
 		},
 		{
 			"key":"EP07_S0026_0056",
-			"value":"（ミユキ……無事でいてくれ）"
+			"value":"(Please be okay, Miyuki...)"
 		}
 	]
 }

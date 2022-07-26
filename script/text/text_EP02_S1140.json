@@ -2,99 +2,99 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1140_0001",
-			"value":"ここ……地下水道の入り口かな\n中には入れないみたいだけど"
+			"value":"Is this...the entrance to an underground\nwaterway? Doesn’t look like we can go in."
 		},
 		{
 			"key":"EP02_S1140_0002",
-			"value":"土砂とかで塞がってるのか？"
+			"value":"Is it blocked with sand and dirt?"
 		},
 		{
 			"key":"EP02_S1140_0003",
-			"value":"いや、鍵がかかってる\nほら"
+			"value":"No, it’s locked. See?"
 		},
 		{
 			"key":"EP02_S1140_0004",
-			"value":"ホントだ……普通に鍵だな"
+			"value":"It is... Just a regular old lock."
 		},
 		{
 			"key":"EP02_S1140_0005",
-			"value":"（でもこの紋章みたいなの\n　なんだかずいぶん目立つ模様だな）"
+			"value":"(But with this pattern...\nIt really stands out.)"
 		},
 		{
 			"key":"EP02_S1140_0006",
-			"value":"不思議なタテモノだな\nミノルは、そういうのに詳しいんだな"
+			"value":"What an odd structure. You are certainly\nwell-versed in such matters, Minoru."
 		},
 		{
 			"key":"EP02_S1140_0007",
-			"value":"へへへ……まあね"
+			"value":"Heh heh... I guess you could say that."
 		},
 		{
 			"key":"EP02_S1140_0008",
-			"value":"しかし、こうしてフツーに色んな建物があると\nここって、異世界とは違うんじゃねーかなってなるね"
+			"value":"Still, this place isn’t just some parallel\nworld, with all these buildings around."
 		},
 		{
 			"key":"EP02_S1140_0009",
-			"value":"まあ……不思議と言えば不思議だよな\nこの謎って、解ける日は来るのかな……"
+			"value":"Yeah, it’s as weird as you say.\nI wonder if we’ll ever solve the mystery..."
 		},
 		{
 			"key":"EP02_S1140_0010",
-			"value":"さーなぁ……？"
+			"value":"Who knows?"
 		},
 		{
 			"key":"EP02_S1140_0011",
-			"value":"あぁ、とりあえずこれ渡しとくわ\nさっき拾った"
+			"value":"Anyway, let me give you this.\nI picked it up back there."
 		},
 		{
 			"key":"EP02_S1140_0012",
-			"value":"いや、自分で持ってればいいじゃん……"
+			"value":"No, you should keep it."
 		},
 		{
 			"key":"EP02_S1140_0013",
-			"value":"タクマの方がしっかり管理してくれそーじゃん"
+			"value":"You would take better care of it."
 		},
 		{
 			"key":"EP02_S1140_0014",
-			"value":"そんな理由で渡されても……"
+			"value":"That’s not much of a reason..."
 		},
 		{
 			"key":"EP02_S1140_0200",
-			"value":"うひっ！？"
+			"value":"Whoa, now!"
 		},
 		{
 			"key":"EP02_S1140_0201",
-			"value":"ってなんだ、メールか……"
+			"value":"Oh, it’s just a text..."
 		},
 		{
 			"key":"EP02_S1140_0202",
-			"value":"メール！？　な、なんでメールが届くんだ！？\nっておいおい、なんだよこれ、文字化けかぁ？"
+			"value":"Wait, a text?! How the heck did that get\nthrough?! And why is it all messed up?"
 		},
 		{
 			"key":"EP02_S1140_0203",
-			"value":"ミノルにも届いたんだ、文字化けメール"
+			"value":"So you got one of those garbled messages,\ntoo..."
 		},
 		{
 			"key":"EP02_S1140_0204",
-			"value":"ってことは、タクマにも？\nこ、これって、誰かと連絡できたりは……"
+			"value":"Too? You mean you got one, too? So like, does\nthat mean we can phone home, or...?"
 		},
 		{
 			"key":"EP02_S1140_0205",
-			"value":"……ダメだった\nずっと圏外だし"
+			"value":"...Nope, no good. Can’t get a signal."
 		},
 		{
 			"key":"EP02_S1140_0206",
-			"value":"そ、そっか……"
+			"value":"Damn..."
 		},
 		{
 			"key":"EP02_S1140_0207",
-			"value":"まぁ、わかんねえことは考えても意味ねえな！\n今は気にしないどこーぜ！"
+			"value":"Welp, no use whining about it. Let’s worry\nabout that later!"
 		},
 		{
 			"key":"EP02_S1140_0015",
-			"value":"ようタクマ、また来たのか\nお前もここが気になるみたいだな"
+			"value":"‘Sup, Takuma. Back again so soon? Guess\nyou’re curious about this spot, too."
 		},
 		{
 			"key":"EP02_S1140_0016",
-			"value":"俺たちは、もう少し見物したら他を見に行く\nまた後でな"
+			"value":"Once we’ve looked around a bit more we’ll\nhead to another area. Later!"
 		}
 	]
 }

@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S1811_0001",
-			"value":"（あれ、これって……）"
+			"value":"(Oh, this is...?)"
 		},
 		{
 			"key":"EP06_S1811_0002",
-			"value":"（動物の毛みたいなのが引っかかってる……？\n　でも、カメラでしか見えないってことは）"
+			"value":"(Something like animal hair is stuck here?\nBut if I can only see it with my camera...)"
 		},
 		{
 			"key":"EP06_S1811_0003",
-			"value":"（これ……ケモノがいた痕跡だ）"
+			"value":"(Then this must belong to a Kemonogami.)"
 		},
 		{
 			"key":"EP06_S1811_0004",
-			"value":"アグモンの言ったとおりだ\n嫌な気配が残ってる"
+			"value":"You’re right, Agumon. Something doesn’t feel\nright here."
 		},
 		{
 			"key":"EP06_S1811_0005",
-			"value":"気を付けて、タクマ\nどこから襲われるかわからない"
+			"value":"Be careful, Takuma. No telling when they’ll\nattack."
 		},
 		{
 			"key":"EP06_S1811_0006",
-			"value":"（……こんなに近くに痕跡があるのに\n　すぐに襲って来なかったのはなんでだ？）"
+			"value":"(There’s traces of the thing so close, but it\nhasn’t come to attack us. Why not?) "
 		},
 		{
 			"key":"EP06_S1811_0007",
-			"value":"（ただ入れ違っただけ？\n　それとも隙を伺ってるのか……？）"
+			"value":"(Did it just happen to pass by? Or is it\nwaiting for a chance to strike?)"
 		}
 	]
 }

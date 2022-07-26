@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1610_0001",
-			"value":"あ、タクマさん。いい所に"
+			"value":"Oh, hey Takuma. Perfect timing."
 		},
 		{
 			"key":"EP05_S1610_0002",
-			"value":"何かあったのか？"
+			"value":"Why, did something happen?"
 		},
 		{
 			"key":"EP05_S1610_0003",
-			"value":"さっき、知らないモンスターを見かけたんだ\nもしかしたら……"
+			"value":"I spotted a monster I’ve never seen before."
 		},
 		{
 			"key":"EP05_S1610_0004",
-			"value":"僕たちをよく思っていないモンスターか、\n敵かもしれないってことだね？"
+			"value":"Could be a new enemy...\nOr maybe it doesn’t give a crap about us."
 		},
 		{
 			"key":"EP05_S1610_0005",
-			"value":"うん\n……あんまり危険な感じはしなかったけど"
+			"value":"Yeah...\nIt didn’t seem all that dangerous, though."
 		},
 		{
 			"key":"EP05_S1610_0006",
-			"value":"念のために探しておこう\nどこで見たの？"
+			"value":"We should look for it, just in case.\nWhere did you see it?"
 		},
 		{
 			"key":"EP05_S1610_0007",
-			"value":"……あっち"
+			"value":"...Over there."
 		},
 		{
 			"key":"EP05_S1610_0008",
-			"value":"あっちっていうと……廊下の方か"
+			"value":"Over there... You mean the hall?"
 		},
 		{
 			"key":"EP05_S1610_0009",
-			"value":"わかったよ！\n二人は隠れてて。何かあるといけないから！"
+			"value":"Okay! You two hide, there’s no telling what\nmight happen!"
 		},
 		{
 			"key":"EP05_S1610_0010",
-			"value":"知らないモンスターは廊下の方にいたよ\nもういないかもしれないけど"
+			"value":"Some monster I’ve never seen was over there.\nIt’s already gone, though."
 		}
 	]
 }

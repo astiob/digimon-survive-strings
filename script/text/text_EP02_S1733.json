@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1733_0001",
-			"value":"タクマー、これ拾ったー"
+			"value":"Takuma? I found this..."
 		},
 		{
 			"key":"EP02_S1733_0002",
-			"value":"お、すごいじゃないかアグモン"
+			"value":"That’s amazing, Agumon!"
 		},
 		{
 			"key":"EP02_S1733_0003",
-			"value":"タクマにあげるよー"
+			"value":"I’ll give it to Takuma!"
 		},
 		{
 			"key":"EP02_S1733_0004",
-			"value":"いいのか？\nありがとうな、アグモン"
+			"value":"Really? Thanks, Agumon!"
 		},
 		{
 			"key":"EP02_S1733_0005",
-			"value":"へへへ～"
+			"value":"Heheh..."
 		}
 	]
 }

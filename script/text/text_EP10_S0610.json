@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0610_0001",
-			"value":"（あれは……教授？）"
+			"value":"(That’s...the Professor?)"
 		},
 		{
 			"key":"EP10_S0610_0002",
-			"value":"………………ふむ"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP10_S0610_0003",
-			"value":"こっちか……？"
+			"value":"Maybe this way?"
 		},
 		{
 			"key":"EP10_S0610_0004",
-			"value":"（また何か調査かな\n　忙しそうだから、後で話を聞いてみるか）"
+			"value":"(Looks like he’s pretty busy investigating\nsomething. I’ll ask him about it later.)"
 		},
 		{
 			"key":"EP10_S0610_0005",
-			"value":"もし……いや\nどうするべきか……"
+			"value":"Perhaps...no. What to do, what to do..."
 		},
 		{
 			"key":"EP10_S0610_0006",
-			"value":"（教授、迷ってるみたいだけど\n　どんなことを考えているんだろう……）"
+			"value":"(He looks confused about something. What’s he\nthinking about?)"
 		}
 	]
 }

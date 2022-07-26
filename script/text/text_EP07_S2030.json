@@ -2,27 +2,27 @@
 	"scenario_text":[
 		{
 			"key":"EP07_S2030_0001",
-			"value":"ん……？\nなんだろう、この感覚……"
+			"value":"Hm? What is this strange sensation?"
 		},
 		{
 			"key":"EP07_S2030_0002",
-			"value":"どうかしたのか？"
+			"value":"Is something wrong?"
 		},
 		{
 			"key":"EP07_S2030_0003",
-			"value":"何か、嫌な感じがするわ……"
+			"value":"I’ve got a really bad feeling all of a\nsudden."
 		},
 		{
 			"key":"EP07_S2030_0004",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP07_S2030_0005",
-			"value":"（フローラモン、さっきからずっと周囲の\n気配を探っているみたいだ）"
+			"value":"(Floramon’s been scanning for signs of any\nnearby presence for a while now.)"
 		},
 		{
 			"key":"EP07_S2030_0006",
-			"value":"（集中してるから、声はかけないでおこう）"
+			"value":"(She’s probably concentrating really hard, so\nI’d better not bother her.)"
 		}
 	]
 }

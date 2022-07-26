@@ -2,375 +2,375 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9230_0001",
-			"value":"ミウ、こんな所で何してるの？"
+			"value":"What’re you doing in a place like this, Miu?"
 		},
 		{
 			"key":"EP11_S9230_0002",
-			"value":"あ、タクマさん……\nほら、ウチは準備することとかないでしょ？"
+			"value":"Oh, Takuma... Well, I don’t have anything to\nprepare, you know?"
 		},
 		{
 			"key":"EP11_S9230_0003",
-			"value":"ミウの分は、カイトがやるもんね"
+			"value":"Sure, I guess Kaito’s taking care of that."
 		},
 		{
 			"key":"EP11_S9230_0004",
-			"value":"ウチがやるって言っても\nお兄ちゃんが聞いてくれないもん"
+			"value":"I said I’d do my part, but he wasn’t having\nany of it."
 		},
 		{
 			"key":"EP11_S9230_0005",
-			"value":"それで退屈になっちゃって\nだから、ちょっと思い出してたんだ"
+			"value":"I got bored, and it made me start thinking..."
 		},
 		{
 			"key":"EP11_S9230_0006",
-			"value":"この世界で起きた、色んなことを……"
+			"value":"So much has happened in this world..."
 		},
 		{
 			"key":"EP11_S9230_0007",
-			"value":"そういえば、ミウは最初もっと\n変な子かと思ってたよ"
+			"value":"You know, at first I thought you were\na pretty weird kid."
 		},
 		{
 			"key":"EP11_S9230_0008",
-			"value":"し、仕方ないの！　ウチ、この世界に来て\nちょっと舞い上がってたんだから！"
+			"value":"W-well what do you expect?! I was just\nexcited to be in this place!"
 		},
 		{
 			"key":"EP11_S9230_0009",
-			"value":"どう接すればいいのかわからなかったけど\n意外と普通の子で安心したっけ"
+			"value":"I didn’t know how to deal with you, but it\nturns out you’re pretty normal after all."
 		},
 		{
 			"key":"EP11_S9230_0010",
-			"value":"うぅ……恥ずかしい……"
+			"value":"Hrm... That’s kinda embarrassing..."
 		},
 		{
 			"key":"EP11_S9230_0011",
-			"value":"でもさ、短い間だったのに、あんなに\n遊園地のみんなを気にかけられるなんて……"
+			"value":"Still, when I saw how you worried about all\nthe little guys at the amusement park..."
 		},
 		{
 			"key":"EP11_S9230_0012",
-			"value":"やっぱり、ミウはいい子なんだと思うよ"
+			"value":"I realized what a nice girl you are."
 		},
 		{
 			"key":"EP11_S9230_0013",
-			"value":"ウチは女王様だったから……\nみんなを心配するのは当然だもん"
+			"value":"I was their queen, after all...\nOf course I was worried about everyone."
 		},
 		{
 			"key":"EP11_S9230_0014",
-			"value":"悪い女王様じゃなかったってことだよ\nそのことは、胸を張ってもいいと思うよ？"
+			"value":"There are bad queens out there, too.\nYou should be proud, you know?"
 		},
 		{
 			"key":"EP11_S9230_0015",
-			"value":"……タクマさん、ありがと"
+			"value":"...Thanks, Takuma."
 		},
 		{
 			"key":"EP11_S9230_0016",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP11_S9230_0017",
-			"value":"褒めてくれて。お兄ちゃん以外に\n褒められたことあんまりないから……"
+			"value":"For the compliment, I mean. I don’t usually\nget any, except from Kaito..."
 		},
 		{
 			"key":"EP11_S9230_0018",
-			"value":"すっごく、自信になる"
+			"value":"I feel a lot more self-assured."
 		},
 		{
 			"key":"EP11_S9230_0019",
-			"value":"（うん、やっぱりミウはいい子だ\n　こんなに素直だと、からかってみたくもなる）"
+			"value":"(I knew Miu was a good kid. She makes me want\nto tease her when she’s this honest.)"
 		},
 		{
 			"key":"EP11_S9230_Q1",
-			"value":"（ミウに何て言おう）"
+			"value":"Miu, you..."
 		},
 		{
 			"key":"EP11_S9230_Q1_A1",
-			"value":"ミウはいい子だよ"
+			"value":"Are a good kid."
 		},
 		{
 			"key":"EP11_S9230_Q1_A2",
-			"value":"カイトに褒められるより、嬉しい？"
+			"value":"Prefer me over Kaito?"
 		},
 		{
 			"key":"EP11_S9230_0020",
-			"value":"いい子だよ"
+			"value":"You’re a good kid."
 		},
 		{
 			"key":"EP11_S9230_0021",
-			"value":"いい子だよ\nだから、これからもきっとたくさん褒められるよ"
+			"value":"You’re a good kid. I’m sure you’ll get more\ncompliments in the future."
 		},
 		{
 			"key":"EP11_S9230_0022",
-			"value":"そうかな……？"
+			"value":"Do you think so?"
 		},
 		{
 			"key":"EP11_S9230_0023",
-			"value":"うん。絶対に"
+			"value":"Yeah, definitely."
 		},
 		{
 			"key":"EP11_S9230_0024",
-			"value":"……わかった\nウチ、がんばる"
+			"value":"...Okay. Then I’ll do my best."
 		},
 		{
 			"key":"EP11_S9230_0025",
-			"value":"タクマさんが褒めてよかった\nって思えるくらい、がんばるよ！"
+			"value":"Enough to get more compliments from you!"
 		},
 		{
 			"key":"EP11_S9230_0026",
-			"value":"カイトよりうれしい？"
+			"value":"More than with Kaito?"
 		},
 		{
 			"key":"EP11_S9230_0027",
-			"value":"カイトに褒められるのと\nどっちがうれしい？"
+			"value":"Whose compliments make you happier?\nMine, or Kaito’s?"
 		},
 		{
 			"key":"EP11_S9230_0028",
-			"value":"え、ええ！？\nそんなの決められないよ！"
+			"value":"Wh-what?! How am I supposed to choose?!"
 		},
 		{
 			"key":"EP11_S9230_0029",
-			"value":"あはは、ごめんごめん\n冗談だよ"
+			"value":"Ahahaha, sorry, my bad. It was just a joke."
 		},
 		{
 			"key":"EP11_S9230_0030",
-			"value":"なんだ、びっくりした"
+			"value":"Sheesh, don’t freak me out."
 		},
 		{
 			"key":"EP11_S9230_0031",
-			"value":"……ね、タクマさん"
+			"value":"...You know what, Takuma?"
 		},
 		{
 			"key":"EP11_S9230_0032",
-			"value":"何？"
+			"value":"What?"
 		},
 		{
 			"key":"EP11_S9230_0033",
-			"value":"やっぱり、ウチはお兄ちゃんが好き\nだから、お兄ちゃんの方がうれしい……かな"
+			"value":"I love my brother, so...I guess Kaito’s\npraise makes me happier after all."
 		},
 		{
 			"key":"EP11_S9230_0034",
-			"value":"そっか\nやっぱり、二人は素敵な兄妹だね"
+			"value":"I see. You two really are a great brother and\nsister."
 		},
 		{
 			"key":"EP11_S9230_0035",
-			"value":"うん……えへへ"
+			"value":"Yeah... Hee hee."
 		},
 		{
 			"key":"EP11_S9230_0036",
-			"value":"タクマさん、ウチね"
+			"value":"Hey, Takuma."
 		},
 		{
 			"key":"EP11_S9230_0037",
-			"value":"……お兄ちゃんとレナモンって\n似てるかもしれないって思うんだ"
+			"value":"...I think Kaito and Renamon are a lot alike."
 		},
 		{
 			"key":"EP11_S9230_0038",
-			"value":"カイトとレナモンが？"
+			"value":"Kaito and Renamon?"
 		},
 		{
 			"key":"EP11_S9230_0039",
-			"value":"うん。誰かを強く思ってる所が\nそっくりだと思うの"
+			"value":"Yeah. Both of them feel strongly about\nsomeone else."
 		},
 		{
 			"key":"EP11_S9230_0040",
-			"value":"確かに、カイトならミウのために\n何十年もがんばりそうだね"
+			"value":"If it was Kaito, he’d work his butt off for\nyou for decades."
 		},
 		{
 			"key":"EP11_S9230_0041",
-			"value":"でね、誰かに強く思われるってことは\nウチとミユキさんは同じだと思うの"
+			"value":"That means Miyuki and I both have people that\ncare deeply about us."
 		},
 		{
 			"key":"EP11_S9230_0042",
-			"value":"だから、思うんだ。きっと\nウチらの声はミユキさんに届くって"
+			"value":"That’s why I’m sure our voices will reach\nher."
 		},
 		{
 			"key":"EP11_S9230_0043",
-			"value":"ミユキさんは色んな人に思われてるんだもん\nその声が、届かないはずないよ"
+			"value":"Lots of people care for Miyuki. I bet any of\ntheir voices could get through."
 		},
 		{
 			"key":"EP11_S9230_0044",
-			"value":"そうだね\nきっと、僕たちの声は届く"
+			"value":"You’re right. I’m sure she’ll hear us."
 		},
 		{
 			"key":"EP11_S9230_0045",
-			"value":"だから、タクマさんは諦めずに\n声を届けてね。きっと届くから"
+			"value":"So make sure you keep going until your voice\nreaches her, Takuma. I’m sure she’ll respond."
 		},
 		{
 			"key":"EP11_S9230_0046",
-			"value":"（ミウの言葉は元気を貰えるな\n　この子が一緒なら、何でもできそうな気になれる）"
+			"value":"(Miu’s words energize me. I feel like I can\ndo anything with someone like her around.)"
 		},
 		{
 			"key":"EP11_S9230_Q2",
-			"value":"（ミウに何て言おう）"
+			"value":"(What should I say to Miu?)"
 		},
 		{
 			"key":"EP11_S9230_Q2_A1",
-			"value":"絶対に諦めないよ"
+			"value":"I’ll never give up."
 		},
 		{
 			"key":"EP11_S9230_Q2_A2",
-			"value":"ミウも一緒だよ"
+			"value":"You’re the same, Miu."
 		},
 		{
 			"key":"EP11_S9230_0047",
-			"value":"絶対に諦めないよ"
+			"value":"I’ll never give up."
 		},
 		{
 			"key":"EP11_S9230_0048",
-			"value":"絶対に諦めないよ\n僕は、ミユキを助ける"
+			"value":"I’ll never give up. I’ll save Miyuki."
 		},
 		{
 			"key":"EP11_S9230_0049",
-			"value":"うん！　そんなタクマさんを\nウチ、応援するね！"
+			"value":"Yeah! If that’s how you feel, I can’t wait to\nhelp you!"
 		},
 		{
 			"key":"EP11_S9230_0050",
-			"value":"ミウの応援があれば何でもできるよ\nって、これはカイトみたいかな？"
+			"value":"I can do anything with you on my side. Guess\nI’m like Kaito that way, huh?"
 		},
 		{
 			"key":"EP11_S9230_0051",
-			"value":"うん、お兄ちゃんみたい！\nお兄ちゃんは一人で十分だよ！"
+			"value":"Yeah, you’re just like my brother! C’mon\nthough, one of him is enough!"
 		},
 		{
 			"key":"EP11_S9230_0052",
-			"value":"ミウも一緒だよ"
+			"value":"You’re the same, Miu."
 		},
 		{
 			"key":"EP11_S9230_0053",
-			"value":"ミウも一緒だよ。僕だけじゃない\n僕たちの声を届けるんだ"
+			"value":"You’re the same, Miu. It’s not just me. Our\nvoices will reach her."
 		},
 		{
 			"key":"EP11_S9230_0054",
-			"value":"あったりまえだよ！\nウチもミユキさん助けるからね！"
+			"value":"Of course they will! I’ll pitch in to save\nMiyuki, too!"
 		},
 		{
 			"key":"EP11_S9230_0055",
-			"value":"……ウチね、最初はミユキさんのこと\nちょっと苦手だったんだ"
+			"value":"...I honestly couldn’t stand her when we\nfirst met, you know."
 		},
 		{
 			"key":"EP11_S9230_0056",
-			"value":"そうだったの？"
+			"value":"Is that right?"
 		},
 		{
 			"key":"EP11_S9230_0057",
-			"value":"うん……しゃべってくれないし\nいつもボーっとしてたから……"
+			"value":"Yeah. She wouldn’t talk to anyone, just\nstaring into space..."
 		},
 		{
 			"key":"EP11_S9230_0058",
-			"value":"でも、ウチと同じようにミユキさんも誰かに強く\n思われてるって気づいてから、苦手なんてなくなった！"
+			"value":"But once I knew we both have people that care\nso deeply about us, things changed!"
 		},
 		{
 			"key":"EP11_S9230_0059",
-			"value":"絶対助けようね！　ミユキさんを思ってる、教授や\nレナモン……たくさんの人の為に！"
+			"value":"We’ve gotta save her! For the professor,\nRenamon...everyone who cares about her!"
 		},
 		{
 			"key":"EP11_S9230_0060",
-			"value":"ミユキさんを助けて……\nこの世界を救ったら――"
+			"value":"If we rescue Miyuki...and save this world..."
 		},
 		{
 			"key":"EP11_S9230_0061",
-			"value":"ウチ、少しだけ大人になれる気がするの"
+			"value":"I think I’ll have grown up a bit."
 		},
 		{
 			"key":"EP11_S9230_0062",
-			"value":"もうミウは立派だと思うけど"
+			"value":"I think you’re pretty great already, Miu."
 		},
 		{
 			"key":"EP11_S9230_0063",
-			"value":"ううん。ウチはまだ自分の気持ちを\nちゃんと言葉で伝えられないから"
+			"value":"No, see. I still can’t put my feelings into\nwords yet."
 		},
 		{
 			"key":"EP11_S9230_0064",
-			"value":"お兄ちゃんに、ちゃんと感謝の気持ちを\n伝えたいんだ"
+			"value":"I want to express my gratitude to Kaito\nproperly for once."
 		},
 		{
 			"key":"EP11_S9230_0065",
-			"value":"……カイトは、素敵な妹を持ったね"
+			"value":"...He’s lucky to have a sister like you."
 		},
 		{
 			"key":"EP11_S9230_0066",
-			"value":"そんなことないってば！\nウチはまだまだ子供だし……"
+			"value":"That’s not true! I’m still just a brat..."
 		},
 		{
 			"key":"EP11_S9230_0067",
-			"value":"いつか、お兄ちゃんが安心できるような\nそんな子になりたいの"
+			"value":"I wanna be the kind of kid that puts his mind\nat ease."
 		},
 		{
 			"key":"EP11_S9230_0068",
-			"value":"それでね、ウチがお兄ちゃんを助けるの\n恩返しっていうのかな？"
+			"value":"Then I’ll be able to say I paid him back for\nsaving me."
 		},
 		{
 			"key":"EP11_S9230_0069",
-			"value":"その気持ちだけで、カイトは十分に\n喜びそうだけどね"
+			"value":"I’m sure Kaito would be happy enough to hear\nyou say that."
 		},
 		{
 			"key":"EP11_S9230_0070",
-			"value":"そうかも。お兄ちゃん\nウチのことになるとほんとさぁ……"
+			"value":"You may be right. Kaito goes gaga when it\ncomes to me..."
 		},
 		{
 			"key":"EP11_S9230_0071",
-			"value":"（また始まった\n　ホント、ミウもカイトもいい兄妹だよな）"
+			"value":"(There she goes again. Man, those two really\nare a pair.)"
 		},
 		{
 			"key":"EP11_S9230_Q3",
-			"value":"（そうだな、ミウには何て言おう）"
+			"value":"(Hmm, what should I say to her?)"
 		},
 		{
 			"key":"EP11_S9230_Q3_A1",
-			"value":"カイトはいいお兄ちゃんだよね"
+			"value":"He’s a great brother."
 		},
 		{
 			"key":"EP11_S9230_Q3_A2",
-			"value":"ミウはいい妹だよ"
+			"value":"You’re a great sister."
 		},
 		{
 			"key":"EP11_S9230_0072",
-			"value":"いいお兄ちゃんだよね"
+			"value":"He’s a great brother."
 		},
 		{
 			"key":"EP11_S9230_0073",
-			"value":"いいお兄ちゃんだよね"
+			"value":"He’s a great brother."
 		},
 		{
 			"key":"EP11_S9230_0074",
-			"value":"……うん。……こういう気持ちも\n素直に言えるようになりたいな"
+			"value":"...Yeah. I wish I could tell him to his face."
 		},
 		{
 			"key":"EP11_S9230_0075",
-			"value":"なれるよ、きっと"
+			"value":"You will one day, I’m sure of it."
 		},
 		{
 			"key":"EP11_S9230_0076",
-			"value":"いい妹だよ"
+			"value":"You’re a great sister."
 		},
 		{
 			"key":"EP11_S9230_0077",
-			"value":"いい妹だよ。ミウは\nカイトが心配になるのもわかるよ"
+			"value":"You’re a great sister. I can tell how much\nyou worry about Kaito."
 		},
 		{
 			"key":"EP11_S9230_0078",
-			"value":"タクマさんまで\nお兄ちゃんを支持しないでよ！"
+			"value":"Don’t go taking Kaito’s side!"
 		},
 		{
 			"key":"EP11_S9230_0079",
-			"value":"タクマさんはウチの味方でいて！"
+			"value":"Stay on my side, okay?!"
 		},
 		{
 			"key":"EP11_S9230_0080",
-			"value":"うん。わかった\n……でも、ミウみたいな妹がいたらなぁ"
+			"value":"Yeah, I will. Still...\nIt’d be nice to have a sister like you."
 		},
 		{
 			"key":"EP11_S9230_0081",
-			"value":"もー！　お兄ちゃんは一人で十分なの！"
+			"value":"Oh man, not you too! One brother is enough!"
 		},
 		{
 			"key":"EP11_S9230_0082",
-			"value":"ほら、タクマさんは準備しないとでしょ？\n行った行った！"
+			"value":"Hey, don’t you have to get ready, Takuma?\nGo on, already!"
 		},
 		{
 			"key":"EP11_S9230_0083",
-			"value":"わかったわかった\nそれじゃあミウ、また後でね"
+			"value":"All right, all right! Well, see you later\nthen, Miu."
 		},
 		{
 			"key":"EP11_S9230_0084",
-			"value":"（ミウは大丈夫そうだ\n　僕も、がんばろう）"
+			"value":"(Looks like Miu’s doing fine. I’d better do\nmy best, too.)"
 		}
 	]
 }

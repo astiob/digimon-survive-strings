@@ -2,51 +2,51 @@
     "scenario_text": [
         {
             "key": "EP04_S1181_0001",
-            "value": "あれれれ～？"
+            "value": "Wait a minute..."
         },
         {
             "key": "EP04_S1181_0002",
-            "value": "アグモン、どうかしたのか？"
+            "value": "What’s up, Agumon?"
         },
         {
             "key": "EP04_S1181_0003",
-            "value": "この箱、最初は\nふたがあいてなかったっけ？"
+            "value": "Wasn’t the lid on this box open at first?"
         },
         {
             "key": "EP04_S1181_0004",
-            "value": "（そういわれると、そうだったような気も……）"
+            "value": "(Oh yeah, I think it was.)"
         },
         {
             "key": "EP04_S1181_0005",
-            "value": "えっ！？　今、なんか宝箱から音が……"
+            "value": "Huh?! I thought I heard something from inside\nthat treasure chest!"
         },
         {
             "key": "EP04_S1181_0006",
-            "value": "ボクも聞こえたよ！"
+            "value": "I heard it too!"
         },
         {
             "key": "EP04_S1181_0007",
-            "value": "わあああー！\nそんなの気のせいよ！"
+            "value": "No, no, no, no, no! I’m sure you just\nimagined it!"
         },
         {
             "key": "EP04_S1181_0008",
-            "value": "いやでも、確かに<color=#B41919>宝箱</color>から物音がしたはずだけど"
+            "value": "I don’t think so. I swear I heard something\n<color=#B41919>inside there</color>."
         },
         {
             "key": "EP04_S1181_0009",
-            "value": "わっ、私が小石につまづいた音だもん！"
+            "value": "No way! Th-that was just me stumbling over\na pebble!"
         },
         {
             "key": "EP04_S1181_0010",
-            "value": "そうだったかなー？"
+            "value": "Are you sure that’s what it was?"
         },
         {
             "key": "EP04_S1181_0011",
-            "value": "そうだって言ってるでしょ！　しつこいよ！\nもう早く、出て行って！"
+            "value": "Didn’t I just say so?! Now stop pestering me\nand get out of here already!"
         },
         {
             "key": "EP04_S1181_0012",
-            "value": "宝箱から物音なんてするわけないでしょ\n絶対絶対、気のせいですぅ！"
+            "value": "Treasure chests don’t make noise! It totally\nmust’ve been your imagination!"
         }
     ]
 }

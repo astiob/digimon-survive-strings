@@ -2,227 +2,227 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0052_0001",
-			"value":"なにここ……？\nこんな場所初めて！"
+			"value":"What is this place? I’ve never seen anything\nlike it before!"
 		},
 		{
 			"key":"EP04_S0052_0002",
-			"value":"とってもステキね！"
+			"value":"It’s wonderful!"
 		},
 		{
 			"key":"EP04_S0052_0003",
-			"value":"そ、そう……？\nなんだか不気味な感じだけど……"
+			"value":"You think so? It gives me the creeps, to be\nhonest."
 		},
 		{
 			"key":"EP04_S0052_0004",
-			"value":"お客さんの賑わいも\nまったく聞こえないし……"
+			"value":"Nobody’s here. There’s no sound from the\ncrowd."
 		},
 		{
 			"key":"EP04_S0052_0005",
-			"value":"でも……遊園地って\nちょっとワクワクしちゃうよね"
+			"value":"Still, it is kind of exciting to be in an\namusement park."
 		},
 		{
 			"key":"EP04_S0052_0006",
-			"value":"サキも遊園地が好きなのか？"
+			"value":"You like amusement parks too, Saki?"
 		},
 		{
 			"key":"EP04_S0052_0007",
-			"value":"好きっていうか……\n憧れの場所っていうか……"
+			"value":"More like I’ve always liked the idea of\nthem..."
 		},
 		{
 			"key":"EP04_S0052_0008",
-			"value":"憧れ？"
+			"value":"What’s that supposed to mean?"
 		},
 		{
 			"key":"EP04_S0052_0009",
-			"value":"あっ、ううん！\n何でもない！"
+			"value":"Oh, uh, never mind! Forget I said that."
 		},
 		{
 			"key":"EP04_S0052_0010",
-			"value":"それより、今のここって\nちょっとした貸し切り状態じゃない？"
+			"value":"Isn’t this wild, though? It feels like we\nhave the whole place to ourselves."
 		},
 		{
 			"key":"EP04_S0052_0011",
-			"value":"いつもと違うミステリーイベント！\n……みたいな？"
+			"value":"I can almost imagine it as a special event,\nlike a magical night of mystery or something."
 		},
 		{
 			"key":"EP04_S0052_0012",
-			"value":"こんな経験めったにないよ！？\nまあ少しボロいのはご愛嬌だけど！"
+			"value":"This is a pretty rare experience. And the\nrun-down parts only add to the charm!"
 		},
 		{
 			"key":"EP04_S0052_0013",
-			"value":"まあ、そうだけど……"
+			"value":"Yeah, I could see that..."
 		},
 		{
 			"key":"EP04_S0052_0014",
-			"value":"サキ、ちょっと無理してないか？"
+			"value":"But I’m a little worried about you, Saki. Are\nyou sure you’re not overdoing it?"
 		},
 		{
 			"key":"EP04_S0052_0015",
-			"value":"っ……ど、どうしてそう思うの？"
+			"value":"Wh-why would you think that?"
 		},
 		{
 			"key":"EP04_S0052_0016",
-			"value":"（どうしてって……峠道でもかなり体調が\n　悪そうだったから気になったんだけど……）"
+			"value":"(I mean, I’d think that would be obvious\nafter how exhausted she was earlier.)"
 		},
 		{
 			"key":"EP04_S0052_0017",
-			"value":"（テンションの上げ方が、嘘くさいって言ったら\n　怒られるかな……）"
+			"value":"(But I wonder if she’d get mad at me if\nI said her enthusiasm was a little too much.)"
 		},
 		{
 			"key":"EP04_S0052_0018",
-			"value":"（なんとなく寂しそうな表情に見える……のも\n　ハッキリ言わない方がいいのかな）"
+			"value":"(She also seems kind of wistful...though\nmaybe I shouldn’t mention that either.)"
 		},
 		{
 			"key":"EP04_S0052_0019",
-			"value":"（とすると、ここはやっぱり\n　なんとなくで、流す……？）"
+			"value":"(Does that mean the smart thing to do is to\njust say I sort of got that impression?)"
 		},
 		{
 			"key":"EP04_S0052_Q1",
-			"value":"（サキへの返事は、どうしよう……）"
+			"value":"(What should I say to Saki?)"
 		},
 		{
 			"key":"EP04_S0052_Q1_A1",
-			"value":"テンションが高すぎるから"
+			"value":"You’re too excited."
 		},
 		{
 			"key":"EP04_S0052_Q1_A2",
-			"value":"寂しそうな顔してるから"
+			"value":"You seem wistful."
 		},
 		{
 			"key":"EP04_S0052_Q1_A3",
-			"value":"なんとなく"
+			"value":"No reason."
 		},
 		{
 			"key":"EP04_S0052_0020",
-			"value":"テンション高すぎるから"
+			"value":""
 		},
 		{
 			"key":"EP04_S0052_0021",
-			"value":"テンションが高すぎるっていうか\n無理やり、はしゃごうとしてるように見えるから"
+			"value":"You seem a little overexcited is all. Like\nyou’re forcing yourself to be cheerful."
 		},
 		{
 			"key":"EP04_S0052_0022",
-			"value":"おかしかった？"
+			"value":"You think I’ve been acting weird, then?"
 		},
 		{
 			"key":"EP04_S0052_0023",
-			"value":"おかしいってわけじゃないけど……"
+			"value":"I don’t know if I’d go that far."
 		},
 		{
 			"key":"EP04_S0052_0024",
-			"value":"何か心配事があるなら、聞くよ？"
+			"value":"But if something’s bothering you, I’d be\nhappy to hear you out."
 		},
 		{
 			"key":"EP04_S0052_0025",
-			"value":"ふふ……\nタクマって、結構人たらしだよね？"
+			"value":"Heheh, you’re a real smooth operator, aren’t\nyou, Takuma?"
 		},
 		{
 			"key":"EP04_S0052_0026",
-			"value":"へっ……？\nな、なんでそんな話に……？？？"
+			"value":"Huh? Wh-what makes you say that?!"
 		},
 		{
 			"key":"EP04_S0052_0027",
-			"value":"なんでもなーい！"
+			"value":"Oh, no reason!"
 		},
 		{
 			"key":"EP04_S0052_0028",
-			"value":"タクマに心配されるようなことは\n何もないから、大丈夫だよ"
+			"value":"Anyway, don’t worry. It’s nothing you need to\nbe concerned about."
 		},
 		{
 			"key":"EP04_S0052_0029",
-			"value":"寂しそうな顔だから"
+			"value":""
 		},
 		{
 			"key":"EP04_S0052_0030",
-			"value":"さっきから、ちょっと寂しそうな顔してるし\n何か、あったのかなって……"
+			"value":"You’ve just had this wistful look in your\neyes for a while now, so I was concerned."
 		},
 		{
 			"key":"EP04_S0052_0031",
-			"value":"や……やだ～！"
+			"value":"Oh my god!"
 		},
 		{
 			"key":"EP04_S0052_0032",
-			"value":"タクマってば、そんなに私に\n見惚れちゃってたの？"
+			"value":"Takuma, have you fallen for me that badly?"
 		},
 		{
 			"key":"EP04_S0052_0033",
-			"value":"そ、そういうことじゃなくって……！"
+			"value":"No! I didn’t mean it like that..."
 		},
 		{
 			"key":"EP04_S0052_0034",
-			"value":"ふふっ、わかってるってば\n冗談だよー！"
+			"value":"Heheh, I know, I know. I was only kidding."
 		},
 		{
 			"key":"EP04_S0052_0035",
-			"value":"遊園地が久しぶりすぎて\nちょっと浮かれてるだーけ"
+			"value":"It’s just nice to be in an amusement park\nagain, that’s all."
 		},
 		{
 			"key":"EP04_S0052_0036",
-			"value":"なんとなく"
+			"value":""
 		},
 		{
 			"key":"EP04_S0052_0037",
-			"value":"なんとなく……\nそう思っただけなんだけど……"
+			"value":"Oh, no reason. I just kinda got that\nimpression."
 		},
 		{
 			"key":"EP04_S0052_0038",
-			"value":"なんとなく……ね"
+			"value":"You, uh... You did, huh?"
 		},
 		{
 			"key":"EP04_S0052_0039",
-			"value":"（まずい……よくわからないけど\n　これ以上は聞かないほうがいいのかもしれない）"
+			"value":"(Oh boy... Somehow I get the feeling\nI shouldn’t push this any further.)"
 		},
 		{
 			"key":"EP04_S0052_0040",
-			"value":"いや、やっぱりなんでもない！\nたぶん僕の勘違いだから、気にしないでよ"
+			"value":"You know what? Forget it! I’m sure I just got\nthe wrong idea. Never mind!"
 		},
 		{
 			"key":"EP04_S0052_0041",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP04_S0052_0042",
-			"value":"ほら、こっちの世界に来てから\nずっと大変なことばっかりだったろ？"
+			"value":"I mean, after everything we’ve been through\nsince we came to this world..."
 		},
 		{
 			"key":"EP04_S0052_0043",
-			"value":"だから、遊園地に来て\nちょっとテンション上がっちゃっても仕方ないよな"
+			"value":"...why wouldn’t you get excited about being\nin an amusement park?"
 		},
 		{
 			"key":"EP04_S0052_0044",
-			"value":"タクマ……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP04_S0052_0045",
-			"value":"僕も、こんな時だけど\nどこかちょっと浮かれちゃってるからさ……！"
+			"value":"You know, despite the situation we’re in, I’m\nkinda happy to be here too!"
 		},
 		{
 			"key":"EP04_S0052_0046",
-			"value":"うん……\n私もそうだと思う"
+			"value":"Yeah, I think it’s the same for me."
 		},
 		{
 			"key":"EP04_S0052_0047",
-			"value":"何も……聞かないでくれて\nありがとね……タクマ"
+			"value":"And...thanks for not pushing me for more."
 		},
 		{
 			"key":"EP04_S0052_0048",
-			"value":"ん？　今なんて？"
+			"value":"Hm? Did you say something?"
 		},
 		{
 			"key":"EP04_S0052_0049",
-			"value":"なんでもなーい！"
+			"value":"No, not a thing!"
 		},
 		{
 			"key":"EP04_S0052_0050",
-			"value":"って、はしゃいでる場合じゃなかったね\n早くミウちゃんを捜す手がかりを見つけなきゃ"
+			"value":"But what are we doing? We should be looking\nfor clues to find Miu!"
 		},
 		{
 			"key":"EP04_S0052_0051",
-			"value":"じゃないと、カイトがまた\nピリピリイライラしちゃうもんね"
+			"value":"Otherwise Kaito will definitely fly off the\nhandle again."
 		},
 		{
 			"key":"EP04_S0052_0052",
-			"value":"カイトがピリピリイライラしちゃう前に\nミウちゃんを捜す手がかりを見つけないとね"
+			"value":"We need to find some clues to point us to Miu\nbefore Kaito flies off the handle again."
 		}
 	]
 }

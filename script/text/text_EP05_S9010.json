@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S9010_0001",
-			"value":"タクマくん、私の指輪知らないかしら？"
+			"value":"Oh Takuma, have you seen my ring?"
 		},
 		{
 			"key":"EP05_S9010_0002",
-			"value":"指輪って、さっきの？\n知らないけど、何かあったの？"
+			"value":"The one you had before? Can’t say that\nI have. What happened?"
 		},
 		{
 			"key":"EP05_S9010_0003",
-			"value":"なくしてしまったみたいなの……\n私の不注意だと思うんだけど"
+			"value":"I must have lost it somewhere...\nHow careless of me."
 		},
 		{
 			"key":"EP05_S9010_0004",
-			"value":"そんなことないわ！\nきっと運が悪かっただけよ！"
+			"value":"No, you’re not careless!\nIt was just bad luck!"
 		},
 		{
 			"key":"EP05_S9010_0005",
-			"value":"……そうかしら？"
+			"value":"...You think so?"
 		},
 		{
 			"key":"EP05_S9010_0006",
-			"value":"じゃあ、僕も気にしてみるよ\n見つけたら持ってくる"
+			"value":"I’ll keep an eye out for it. If I find\nanything I’ll let you know."
 		},
 		{
 			"key":"EP05_S9010_0007",
-			"value":"ありがとう……\nダメね、こんな不注意じゃ……"
+			"value":"Thank you.\nHow could I be so thoughtless...?"
 		},
 		{
 			"key":"EP05_S9010_0008",
-			"value":"気にしないでいいわ\nこれくらい誰にだってあるんだから！"
+			"value":"Don’t fret so much!\nThis sort of thing happens to everyone!"
 		},
 		{
 			"key":"EP05_S9010_0009",
-			"value":"ありがとう、ラブラモン……"
+			"value":"Thanks, Labramon..."
 		},
 		{
 			"key":"EP05_S9010_0010",
-			"value":"忙しいのにごめんね\n私も捜してみるけど、見つけたら教えて"
+			"value":"Sorry to be a bother when you’re so busy.\nI’ll look too, but tell me if you find it."
 		}
 	]
 }

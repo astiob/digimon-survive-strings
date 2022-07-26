@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1741_0001",
-			"value":"ん？　なんだこれ？"
+			"value":"Hmm? What’s this?"
 		},
 		{
 			"key":"EP02_S1741_0002",
-			"value":"こんなところにあるなんて、怪しいな……"
+			"value":"It’s odd finding this here..."
 		},
 		{
 			"key":"EP02_S1741_0003",
-			"value":"まぁでも、使えそうな物は使わないとな"
+			"value":"But we need to make use of this stuff."
 		}
 	]
 }

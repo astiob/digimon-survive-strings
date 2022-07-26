@@ -2,99 +2,99 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S0560_0001",
-			"value":"あれ、シャコモンひとり？"
+			"value":"Hey, Syakomon. You here by yourself?"
 		},
 		{
 			"key":"EP09_S0560_0002",
-			"value":"うん、ちょっとね\nそれにしても――"
+			"value":"Yeah, just taking a moment.\n...Hey."
 		},
 		{
 			"key":"EP09_S0560_0003",
-			"value":"タクマ、戻ってきたんだね……\nでも……どうして？"
+			"value":"I was wondering... Why’d you come back,\nTakuma?"
 		},
 		{
 			"key":"EP09_S0560_0004",
-			"value":"ん～？　どういうこと？"
+			"value":"Huh? Whaddaya mean?"
 		},
 		{
 			"key":"EP09_S0560_Q1",
-			"value":"（僕が戻ってきた理由は……）"
+			"value":"(I came back...)"
 		},
 		{
 			"key":"EP09_S0560_Q1_A1",
-			"value":"みんなを守りたいからだ"
+			"value":"To protect you all."
 		},
 		{
 			"key":"EP09_S0560_Q1_A2",
-			"value":"見て見ぬふりはできないからだ"
+			"value":"Couldn’t ignore all this."
 		},
 		{
 			"key":"EP09_S0560_Q1_A3",
-			"value":"力があるからだ！"
+			"value":"I’m strong."
 		},
 		{
 			"key":"EP09_S0560_0005",
-			"value":"みんなを守りたい"
+			"value":"To protect you all."
 		},
 		{
 			"key":"EP09_S0560_0006",
-			"value":"みんなを守りたいからね\n仲間たちも、この世界も、僕らの世界も"
+			"value":"I want to protect everyone. And not just my\nfriends: This whole world, and mine, too."
 		},
 		{
 			"key":"EP09_S0560_0007",
-			"value":"……ふぅん"
+			"value":"...You don’t say?"
 		},
 		{
 			"key":"EP09_S0560_0008",
-			"value":"見て見ぬふりはできない"
+			"value":"Couldn’t ignore it."
 		},
 		{
 			"key":"EP09_S0560_0009",
-			"value":"みんなの前でも言ったけど\n見て見ぬふりはできないからね"
+			"value":"Like I said before, I couldn’t just sit by\nand act like nothing’s happening."
 		},
 		{
 			"key":"EP09_S0560_0010",
-			"value":"……ふぅん"
+			"value":"...You don’t say?"
 		},
 		{
 			"key":"EP09_S0560_0011",
-			"value":"力があるから"
+			"value":"I’m strong."
 		},
 		{
 			"key":"EP09_S0560_0012",
-			"value":"僕たちには力があるんだ\nだから、その力で解決できると思ってる"
+			"value":"Because I’m strong. I want to use this power\nto set things right."
 		},
 		{
 			"key":"EP09_S0560_0013",
-			"value":"……ふぅん"
+			"value":"...You don’t say?"
 		},
 		{
 			"key":"EP09_S0560_0014",
-			"value":"ふぅん、って\nそれだけ？"
+			"value":"But he DOES say!"
 		},
 		{
 			"key":"EP09_S0560_0015",
-			"value":"……僕、変なこと言ったかな？"
+			"value":"...Was that a weird thing to say?"
 		},
 		{
 			"key":"EP09_S0560_0016",
-			"value":"ううん、タクマはタクマらしいなって\nミウも喜んでいると思う"
+			"value":"No, I just thought that’s just like you.\nI’m sure Miu will be glad you feel that way."
 		},
 		{
 			"key":"EP09_S0560_0017",
-			"value":"それは良かった"
+			"value":"Well that’s good to hear."
 		},
 		{
 			"key":"EP09_S0560_0018",
-			"value":"じゃねー"
+			"value":"Later!"
 		},
 		{
 			"key":"EP09_S0560_0019",
-			"value":"（……なんだったんだろう）"
+			"value":"(...What was that about?)"
 		},
 		{
 			"key":"EP09_S0560_0020",
-			"value":"ん？　なぁに？　別に意味なんてないよ\nただ聞いてみたかっただけ"
+			"value":"Hmm? What? Oh, no real reason. Just felt like\nasking, is all."
 		}
 	]
 }

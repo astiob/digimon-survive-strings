@@ -2,383 +2,383 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0040_0001",
-			"value":"これで敵の基地に近づいたわけだな"
+			"value":"This is how we got close to the enemy base."
 		},
 		{
 			"key":"EP05_S0040_0002",
-			"value":"何が起こるかわかんないんだよね……\n気を引き締めなきゃ！"
+			"value":"We don’t know what’ll happen from here on\nout... Keep your eyes and ears open, guys!"
 		},
 		{
 			"key":"EP05_S0040_0003",
-			"value":"そうね。いつ戦いになるかわからないわ"
+			"value":"Right. We don’t know when a fight might\nstart."
 		},
 		{
 			"key":"EP05_S0040_0004",
-			"value":"シュウジさん、顔色が悪いみたいですけど、大丈夫ですか？"
+			"value":"You’re not looking too good, Shuuji. Are you\nokay?"
 		},
 		{
 			"key":"EP05_S0040_0005",
-			"value":"あ、ああ……なんでもないんだ"
+			"value":"Uh...yeah. Don’t worry about it."
 		},
 		{
 			"key":"EP05_S0040_0006",
-			"value":"カイト、少しいいか？"
+			"value":"Hey, Kaito, got a second?"
 		},
 		{
 			"key":"EP05_S0040_0007",
-			"value":"なんだよ？"
+			"value":"What is it?"
 		},
 		{
 			"key":"EP05_S0040_0008",
-			"value":"あの様子のシュウジをこの先まで\n連れていくのは危険じゃないか？"
+			"value":"Wouldn’t bringing Shuuji along in that state\nput him in danger?"
 		},
 		{
 			"key":"EP05_S0040_0009",
-			"value":"ここにはあの霧もないし、ここで待つか、\n引き返してもらった方がいいかもしれないぞ？"
+			"value":"There’s no fog around, so maybe he can wait\nhere. Or we could have him turn back."
 		},
 		{
 			"key":"EP05_S0040_0010",
-			"value":"どうだろうな……\nタクマはどう思う？"
+			"value":"Good question... What do you think, Takuma?"
 		},
 		{
 			"key":"EP05_S0040_0011",
-			"value":"いいかもしれないね。ミユキとハルの二人も、\nこの先に連れていくのは心配だし"
+			"value":"That might work. I’m a bit worried about\ntaking Miyuki and Haru up ahead."
 		},
 		{
 			"key":"EP05_S0040_0012",
-			"value":"何かあったら、ロップモンもいるから\n切り抜けられるはずだ"
+			"value":"Lopmon’s with them, after all. If anything\nhappens, they can handle it."
 		},
 		{
 			"key":"EP05_S0040_0013",
-			"value":"それなら、そう言ってやるか\n案外、喜ぶかもな。疲れてるようだし"
+			"value":"Then let’s give it a shot. Who knows, he\nmight even like the idea."
 		},
 		{
 			"key":"EP05_S0040_0014",
-			"value":"私は反対だわ！"
+			"value":"That’s an awful idea!"
 		},
 		{
 			"key":"EP05_S0040_0015",
-			"value":"なんでだよ"
+			"value":"What’s the problem?"
 		},
 		{
 			"key":"EP05_S0040_0016",
-			"value":"ロップモンだけに押し付けるようなものじゃない！\nそんなの危険でしょう！　あの霧もあるのよ！"
+			"value":"Don’t force all the responsibility on Lopmon!\nIt’s too risky, with the fog and all!"
 		},
 		{
 			"key":"EP05_S0040_0017",
-			"value":"私もその意見に賛成だわ\nあ、こういうのはどうかしら……"
+			"value":"I have to agree. Okay, how about this?"
 		},
 		{
 			"key":"EP05_S0040_0018",
-			"value":"私たちも残るの。そうすれば、\n何かあっても問題なく対処できるでしょう？"
+			"value":"We’ll stay behind, too. That way, if anything\nhappens we can all handle it together."
 		},
 		{
 			"key":"EP05_S0040_0019",
-			"value":"アオイさんとラブラモンも残るの？"
+			"value":"What about you, Aoi? Will you and Labramon\nstay back, too?"
 		},
 		{
 			"key":"EP05_S0040_0020",
-			"value":"あのな、敵のど真ん中に行くんだぜ？\n必要以上に戦力を分散なんて冗談じゃない"
+			"value":"We’re heading straight into enemy territory,\ny’know? I’d rather not lose more firepower."
 		},
 		{
 			"key":"EP05_S0040_0021",
-			"value":"オレもその意見に賛成だぜ！\n一人欠けるくらいならなんとかなるけどさ"
+			"value":"My thoughts exactly! We can survive without\none of you..."
 		},
 		{
 			"key":"EP05_S0040_0022",
-			"value":"二人も欠けたら、\nオレたちが不利になっちまう！"
+			"value":"But two? That’s too much of a handicap!"
 		},
 		{
 			"key":"EP05_S0040_0023",
-			"value":"ならみんなで行けばいいじゃない！"
+			"value":"Then everyone should go together!"
 		},
 		{
 			"key":"EP05_S0040_0024",
-			"value":"だが、あの状態のヤツを連れて歩くのは危険だろう"
+			"value":"But it’s dangerous to bring people along in\nsuch a state."
 		},
 		{
 			"key":"EP05_S0040_0025",
-			"value":"でも、だからって置いていくのは……"
+			"value":"That’s no reason to leave them behind,\nthough..."
 		},
 		{
 			"key":"EP05_S0040_0026",
-			"value":"ど、どうする？　ミウちゃん……"
+			"value":"What do you think we should do, Miu?"
 		},
 		{
 			"key":"EP05_S0040_0027",
-			"value":"わかんないよ……"
+			"value":"I just dunno..."
 		},
 		{
 			"key":"EP05_S0040_0028",
-			"value":"一人にすんのは、マズいんじゃねーの……？"
+			"value":"Ain’t it a bad idea to leave him on his own,\nthough...?"
 		},
 		{
 			"key":"EP05_S0040_0029",
-			"value":"このままじゃ先に進めないよー！\nタクマ、どうすればいいのかな？"
+			"value":"We’re just going around in circles at this\nrate! What’re we gonna do, Takuma?"
 		},
 		{
 			"key":"EP05_S0040_0030",
-			"value":"確かにこんな状態じゃダメだ……\nでも、どうすれば"
+			"value":"We definitely can’t leave things as they are,\nbut...hmm, I wonder."
 		},
 		{
 			"key":"EP05_S0040_0031",
-			"value":"いっそ、シュウジを切り捨てれば……\nそれによって一致団結できそうな気もするが"
+			"value":"If only we could leave Shuuji behind...\nI believe the rest of us would be in sync."
 		},
 		{
 			"key":"EP05_S0040_0032",
-			"value":"それができないから、\nこうやって迷ってるんでしょう？"
+			"value":"The fact that we can’t is the cause of all\nthis confusion, right?"
 		},
 		{
 			"key":"EP05_S0040_0033",
-			"value":"そうだが……このままでは\nいい結果にはならんぞ"
+			"value":"Indeed... Nothing good will come of this,\nwith things as they are."
 		},
 		{
 			"key":"EP05_S0040_0034",
-			"value":"それでも、みんなで決めた方がいいんでしょう……\n一人にしたら、シュウジは余計に追い込まれそうよ"
+			"value":"Still, we should decide as a group. Shuuji\nwon’t fare very well left to his own devices."
 		},
 		{
 			"key":"EP05_S0040_0035",
-			"value":"それに、ロップモンのことも心配だわ"
+			"value":"I’m also worried about Lopmon."
 		},
 		{
 			"key":"EP05_S0040_0036",
-			"value":"ロップモンは、一人だから苦しんでいるんだよ……\nちゃんとニンゲンと気持ちが繋がれば救われるのに……"
+			"value":"Lopmon is suffering all alone. If only that\nhuman would try and connect with him..."
 		},
 		{
 			"key":"EP05_S0040_0037",
-			"value":"（シュウジさんとロップモンをどうするか……\n　難しい選択だな）"
+			"value":"(Shuuji and Lopmon... It’s tough to figure\nout what to do with them.)"
 		},
 		{
 			"key":"EP05_S0040_0038",
-			"value":"（ミユキとハルと一緒に残ってもらうのが安全な気は\n　するけど、ロップモンの負担が大きいだろうし）"
+			"value":"(I’d feel better if Miyuki and Haru stayed\nback, but that’s a lot for Lopmon to handle.)"
 		},
 		{
 			"key":"EP05_S0040_0039",
-			"value":"（だからってアオイさんたちにも残ってもらうと\n　中に入る僕たちの危険が増える）"
+			"value":"(But if Aoi and Labramon stay behind, that\nputs more danger on those going in.)"
 		},
 		{
 			"key":"EP05_S0040_0040",
-			"value":"（シュウジさんだけを切り捨てるなんて論外\n　……と言いたいけど、それも選択肢の一つかなぁ）"
+			"value":"(I hate the idea of leaving Shuuji behind...\nbut I have to treat it as a real option.)"
 		},
 		{
 			"key":"EP05_S0040_Q1",
-			"value":"（僕はどう判断すればいいんだ？）"
+			"value":"(So, what should I decide?)"
 		},
 		{
 			"key":"EP05_S0040_Q1_A1",
-			"value":"ミユキとハルと残ってもらおう"
+			"value":"Miyuki and Haru stay."
 		},
 		{
 			"key":"EP05_S0040_Q1_A2",
-			"value":"シュウジさんを切り捨てるしかない"
+			"value":"Shuuji’s on his own."
 		},
 		{
 			"key":"EP05_S0040_Q1_A3",
-			"value":"アオイさんにも残ってもらおう"
+			"value":"Aoi should stay, too."
 		},
 		{
 			"key":"EP05_S0040_0042",
-			"value":"シュウジさんにはミユキとハルと一緒に\nここに残っていてもらおうか"
+			"value":"Should we have Miyuki and Haru stay here with\nShuuji, then?"
 		},
 		{
 			"key":"EP05_S0040_0043",
-			"value":"それじゃあロップモンが……！"
+			"value":"But then Lopmon will..."
 		},
 		{
 			"key":"EP05_S0040_0044",
-			"value":"わかってる。だけど、みんなの安全と\nロップモンの負担、どっちを取るかってなったら……"
+			"value":"I know, but if I have to choose between that\nproblem and everyone’s safety, then..."
 		},
 		{
 			"key":"EP05_S0040_0045",
-			"value":"ボクは、それでもいいよ……"
+			"value":"I’m okay with it..."
 		},
 		{
 			"key":"EP05_S0040_0046",
-			"value":"ふ、ふざけるな……！"
+			"value":"Are you freaking kidding me...?!"
 		},
 		{
 			"key":"EP05_S0040_0047",
-			"value":"シュウジさん！？"
+			"value":"Shuuji?!"
 		},
 		{
 			"key":"EP05_S0040_0048",
-			"value":"ぼ、僕が、あ、足手まといって、言いたいのか！？\nミユキとハルのように、お荷物だと！？"
+			"value":"Are, are you staying I’M the burden here?!\nJust dead weight, like Miyuki and Haru?!"
 		},
 		{
 			"key":"EP05_S0040_0049",
-			"value":"いや、そんなことを言ってるんじゃ……"
+			"value":"Ah, no, that’s not what I..."
 		},
 		{
 			"key":"EP05_S0040_0050",
-			"value":"言ってるようなものだ！"
+			"value":"But you are, you REALLY are!!!"
 		},
 		{
 			"key":"EP05_S0040_0052",
-			"value":"シュウジさん一人をここに残すのも、アリかもしれない"
+			"value":"I guess leaving Shuuji here on his own is an\noption to consider."
 		},
 		{
 			"key":"EP05_S0040_0053",
-			"value":"ちょ、ちょっと、タクマくん！？"
+			"value":"Takuma?!"
 		},
 		{
 			"key":"EP05_S0040_0054",
-			"value":"まぁ、それも手だな"
+			"value":"Well yeah, that’s true."
 		},
 		{
 			"key":"EP05_S0040_0055",
-			"value":"そうしたらキョーチョーセーも\n乱されないんじゃなーい？"
+			"value":"It’d get us all back on the same page, that’s\nfor sure."
 		},
 		{
 			"key":"EP05_S0040_0056",
-			"value":"そんな、二人まで！"
+			"value":"Even you two?! Come on, now!"
 		},
 		{
 			"key":"EP05_S0040_0057",
-			"value":"ふ、ふざけるな……！"
+			"value":"Are you freaking kidding me...?!"
 		},
 		{
 			"key":"EP05_S0040_0058",
-			"value":"ぼ、僕を、き、き、切り捨てていくって言うのか！\n僕は、り、リーダーなんだぞ！"
+			"value":"You, you plan on just abandoning me here? Me,\nyour LEADER?!"
 		},
 		{
 			"key":"EP05_S0040_0060",
-			"value":"アオイさんにも残ってもらって\nシュウジさんたちについててもらおうか"
+			"value":"Should we have Aoi and Labramon stay behind\nwith Shuuji, then?"
 		},
 		{
 			"key":"EP05_S0040_0061",
-			"value":"おいおいタクマ、そしたらオレたちの戦力が\n心もとないぜ！"
+			"value":"Whoa now, my man, that’d put a big dent in\nour fighting force over here!"
 		},
 		{
 			"key":"EP05_S0040_0062",
-			"value":"でも、それが一番いいかも……\nここだってホントに安全かわかんないんだし"
+			"value":"Still, that might be for the best... We dunno\nif it’ll be safe back here, after all."
 		},
 		{
 			"key":"EP05_S0040_0063",
-			"value":"いや、だからってな……"
+			"value":"But still, that’s not the—"
 		},
 		{
 			"key":"EP05_S0040_0064",
-			"value":"ふ、ふざけるな……！"
+			"value":"Are you kidding me...?!"
 		},
 		{
 			"key":"EP05_S0040_0065",
-			"value":"おわぁっ！　ビックリした"
+			"value":"Whoa! Don’t freak me out here, man."
 		},
 		{
 			"key":"EP05_S0040_0066",
-			"value":"僕を残して、アオイ君に護衛させるなんて……"
+			"value":"To leave Aoi back here to guard me..."
 		},
 		{
 			"key":"EP05_S0040_0067",
-			"value":"君たちは僕が何もできないとでも思っているのか！？"
+			"value":"That’s the same as saying I can’t do anything\non my own!"
 		},
 		{
 			"key":"EP05_S0040_0068",
-			"value":"しゅ、シュウジさん？　そういうことではなく\nみんなアナタを心配して……"
+			"value":"Um, Shuuji? That’s not it, everyone’s just\nworried about you, and—"
 		},
 		{
 			"key":"EP05_S0040_0069",
-			"value":"僕は大丈夫だ！　疲れてなんかいない！"
+			"value":"I’m fine! I’m not tired!"
 		},
 		{
 			"key":"EP05_S0040_0070",
-			"value":"君たちが行かないなら僕だけで行ってやる！"
+			"value":"If you all won’t go, then I’ll just go on my\nown!"
 		},
 		{
 			"key":"EP05_S0040_0071",
-			"value":"あ、待って、シュウジ……！"
+			"value":"Ah, Shuuji! Wait up!"
 		},
 		{
 			"key":"EP05_S0040_0072",
-			"value":"うるさいんだよ！　いちいち呼ぶな\nこの役立たず！"
+			"value":"Shut your mouth! Stop talking to me, you\nuseless thing!"
 		},
 		{
 			"key":"EP05_S0040_0073",
-			"value":"あーあ、ホントに行っちゃったよ"
+			"value":"Weeelp, there goes our fearless leader."
 		},
 		{
 			"key":"EP05_S0040_0074",
-			"value":"う、うぅ……"
+			"value":"Unnngh..."
 		},
 		{
 			"key":"EP05_S0040_0075",
-			"value":"ロップモン、どうかしたのかー？\nとっても辛そうに見えるよ？"
+			"value":"Is something wrong, Lopmon? You look so\nupset."
 		},
 		{
 			"key":"EP05_S0040_0076",
-			"value":"なんで……なんでボクだけこんな……\n嫌われているの？"
+			"value":"Why... Why am I the only one that’s so...\ndespised?"
 		},
 		{
 			"key":"EP05_S0040_0077",
-			"value":"ボクが何か悪いことしたから……？\nううん、ボクは悪いことなんてしてないよ……"
+			"value":"Did I do something wrong? No...no, I haven’t\nbeen bad at all..."
 		},
 		{
 			"key":"EP05_S0040_0078",
-			"value":"ロップモン！　大丈夫！？"
+			"value":"Lopmon?! Are you okay?!"
 		},
 		{
 			"key":"EP05_S0040_0079",
-			"value":"わ、わからない……\nでも、なんだかとっても苦しいの……"
+			"value":"I... I don’t know. I’m feeling kinda shaky..."
 		},
 		{
 			"key":"EP05_S0040_0080",
-			"value":"ごめん、ボク、シュウジの所に行くね……"
+			"value":"Sorry, I’d better go see Shuuji..."
 		},
 		{
 			"key":"EP05_S0040_0081",
-			"value":"行っちゃった……"
+			"value":"There he goes..."
 		},
 		{
 			"key":"EP05_S0040_0082",
-			"value":"とりあえずオレらも行こうぜ"
+			"value":"Guess we should head out, too."
 		},
 		{
 			"key":"EP05_S0040_0083",
-			"value":"だな"
+			"value":"You got that right."
 		},
 		{
 			"key":"EP05_S0040_0084",
-			"value":"何が起こるかわからないんだ！　警戒を怠るな！"
+			"value":"We have NO IDEA what’s waiting ahead of us!\nYou must remain VIGILANT at ALL TIMES!"
 		},
 		{
 			"key":"EP05_S0040_0085",
-			"value":"あはは、シュウジさんのマネ？\n言いそ～"
+			"value":"Ahaha, is that your Shuuji impression? You\nhit it right on the head!"
 		},
 		{
 			"key":"EP05_S0040_0086",
-			"value":"ミノルくん、サキさん\nやめなさい"
+			"value":"Knock it off, you two."
 		},
 		{
 			"key":"EP05_S0040_0087",
-			"value":"は～い"
+			"value":"Okie dokie..."
 		},
 		{
 			"key":"EP05_S0040_0088",
-			"value":"ねぇ、タクマ。なんだかボクすごく\n嫌な感じがしたんだ"
+			"value":"I have a real, real bad feeling about this,\nTakuma."
 		},
 		{
 			"key":"EP05_S0040_0089",
-			"value":"ロップモンが危ないってこと？"
+			"value":"Is Lopmon in danger somehow?"
 		},
 		{
 			"key":"EP05_S0040_0090",
-			"value":"うん……とても、真っ黒な感じがしたんだ"
+			"value":"I think so... I felt something kinda dark\nback there."
 		},
 		{
 			"key":"EP05_S0040_0091",
-			"value":"ボクらはニンゲンの心に影響を受けやすいんだ\nシュウジがあのままじゃ、何か悪いことが起きるかも"
+			"value":"Human hearts have an strong effect on us.\nWith Shuuji like this, things could get bad."
 		},
 		{
 			"key":"EP05_S0040_0092",
-			"value":"悪いこと、か……\n何もないといいんだけど"
+			"value":"Bad, huh... For once, I hope you’re wrong."
 		},
 		{
 			"key":"EP05_S0040_0093",
-			"value":"うふふぅ……"
+			"value":"Ho ho ho..."
 		},
 		{
 			"key":"EP05_S0040_0094",
-			"value":"あの坊や……\nつけ入る隙がありそうだねぇ……"
+			"value":"That boy... He seems to have a weak spot\nI can exploit..."
 		}
 	]
 }

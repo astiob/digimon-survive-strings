@@ -2,19 +2,19 @@
     "scenario_text": [
         {
             "key": "EP02_S1704_0001",
-            "value": "（足跡は<color=#B41919>祠近くの森</color>に向かってるようだ……）"
+            "value": "(The footprints are heading into the <color=#B41919>woods\nby the shrine</color>...)"
         },
         {
             "key": "EP02_S1704_0002",
-            "value": "行ってみよう"
+            "value": "Let’s go look!"
         },
         {
             "key": "EP02_S1704_0003",
-            "value": "お～う！"
+            "value": "Aye aye!"
         },
         {
             "key": "EP02_S1704_0004",
-            "value": "（<color=#B41919>祠近くの森</color>に向かう足跡を追ってみよう）"
+            "value": "(Let’s follow the footprints into the <color=#B41919>forest\n</color>.)"
         }
     ]
 }

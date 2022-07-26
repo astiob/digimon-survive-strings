@@ -2,175 +2,175 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4027_0001",
-			"value":"酷い……\nこんなのってないよ……"
+			"value":"This is terrible... I can’t believe my eyes."
 		},
 		{
 			"key":"EP09_S4027_0002",
-			"value":"サキ、しっかりして\n私たちが落ち込んでる場合じゃないわ"
+			"value":"Hold it together, Saki. This is no time for\nus to be down in the dumps."
 		},
 		{
 			"key":"EP09_S4027_0003",
-			"value":"う、うん、そうだよね\n落ち込んでる暇なんて、ない……"
+			"value":"Ah, you’ve got a point. We don’t have the\nluxury for sadness now."
 		},
 		{
 			"key":"EP09_S4027_0004",
-			"value":"でも、こんないい子たちを酷い目に遭わせて\n許せない……"
+			"value":"Still, don’t think I’ll let them get away\nwith doing this to such sweet kids."
 		},
 		{
 			"key":"EP09_S4027_0005",
-			"value":"サキ……"
+			"value":"Saki..."
 		},
 		{
 			"key":"EP09_S4027_0006",
-			"value":"（サキ、かなり悲しそうだな\n　確かに、ここの子たちはいい子ばかりだった）"
+			"value":"(Saki’s pretty beat up about this. I don’t\nblame her, she’s right about all of them.)"
 		},
 		{
 			"key":"EP09_S4027_0007",
-			"value":"（でもあまり悲しみに囚われてほしくないな\n　教授の話だと、ケモノに悪影響ってことだし）"
+			"value":"(She can’t get caught up in her pain, though.\nThe professor said it’s bad for our monsters.)"
 		},
 		{
 			"key":"EP09_S4027_Q1",
-			"value":"（どうにかして前向きにできないかな……）"
+			"value":"(How can I get her to look forward?)"
 		},
 		{
 			"key":"EP09_S4027_Q1_A1",
-			"value":"勇気づけよう"
+			"value":"Cheer her up."
 		},
 		{
 			"key":"EP09_S4027_Q1_A2",
-			"value":"アグモンに頼もう"
+			"value":"Get Agumon to help."
 		},
 		{
 			"key":"EP09_S4027_Q1_A3",
-			"value":"フローラモンに頼もう"
+			"value":"Get Floramon to help."
 		},
 		{
 			"key":"EP09_S4027_0008",
-			"value":"勇気づける"
+			"value":"Cheer her up."
 		},
 		{
 			"key":"EP09_S4027_0009",
-			"value":"サキ、気持ちはわかるけど\n今は前を向こう"
+			"value":"I feel your pain, Saki, but we have to keep\ngoing."
 		},
 		{
 			"key":"EP09_S4027_0010",
-			"value":"タクマ……"
+			"value":"Takuma..."
 		},
 		{
 			"key":"EP09_S4027_0011",
-			"value":"大丈夫。ここからは誰も死なせない\nみんなで助ければできるよ"
+			"value":"It’ll be okay. We won’t let anyone else die.\nWe can save them all if we work together."
 		},
 		{
 			"key":"EP09_S4027_0012",
-			"value":"うん……ごめんね、タクマ\n気を遣わせちゃったね"
+			"value":"You're right... Sorry to make you fuss over\nme."
 		},
 		{
 			"key":"EP09_S4027_0013",
-			"value":"落ち込んでちゃ駄目だよね\n私、もう大丈夫だよ"
+			"value":"This is no place to grieve. I’m all right\nnow, honest."
 		},
 		{
 			"key":"EP09_S4027_0014",
-			"value":"（気を遣ったわけじゃないんだけどな……\n　サキ、無理しないでくれるといいけど）"
+			"value":"(I wasn’t exactly fussing... Still, I hope\nshe doesn’t push herself too hard.)"
 		},
 		{
 			"key":"EP09_S4027_0015",
-			"value":"アグモンに頼む"
+			"value":"Get Agumon to help."
 		},
 		{
 			"key":"EP09_S4027_0016",
-			"value":"（こんな状況じゃ悲しくなるよな……\n　僕だってそうだ）"
+			"value":"(Anyone would be heartbroken at a scene like\nthis... I’m no different.)"
 		},
 		{
 			"key":"EP09_S4027_0017",
-			"value":"（サキに何て言えばいいかわからないな）"
+			"value":"(I have no idea what to say to Saki.)"
 		},
 		{
 			"key":"EP09_S4027_0018",
-			"value":"アグモン、お願いしていいかな？"
+			"value":"Can you handle this, Agumon?"
 		},
 		{
 			"key":"EP09_S4027_0019",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP09_S4027_0020",
-			"value":"サキ、元気出して\nサキが悲しいと、みんな悲しくなっちゃう"
+			"value":"Cheer up, Saki! When you’re blue, everyone\nelse gets blue, too."
 		},
 		{
 			"key":"EP09_S4027_0021",
-			"value":"アグモン……へへ、そっか\n私が落ち込んでちゃ駄目だね"
+			"value":"Agumon... Hehe, you don’t say? Guess that\nmeans I’d better keep my spirits up."
 		},
 		{
 			"key":"EP09_S4027_0022",
-			"value":"励ましてくれてありがとね\nもう大丈夫だよ"
+			"value":"Thanks for boosting my spirits. I’m okay now."
 		},
 		{
 			"key":"EP09_S4027_0023",
-			"value":"そっか！"
+			"value":"Oh, good!"
 		},
 		{
 			"key":"EP09_S4027_0024",
-			"value":"（空元気、だよな……\n　他の人から言われても、きっとサキは気を遣うな）"
+			"value":"(She’s putting on a brave face... Saki will\nstay worried no matter what anyone says.)"
 		},
 		{
 			"key":"EP09_S4027_0025",
-			"value":"フローラモンに頼む"
+			"value":"Get Floramon to help."
 		},
 		{
 			"key":"EP09_S4027_0026",
-			"value":"（フローラモンならサキのことを誰よりも\n　よくわかってるだろうな。ここは頼んでみよう）"
+			"value":"(Floramon knows Saki better than anyone.\nI’ll try asking her to help.)"
 		},
 		{
 			"key":"EP09_S4027_0027",
-			"value":"フローラモン、サキのことお願いしていいかな？"
+			"value":"Floramon, can you say something to her?"
 		},
 		{
 			"key":"EP09_S4027_0028",
-			"value":"ええ、まかせて"
+			"value":"Sure, I got this!"
 		},
 		{
 			"key":"EP09_S4027_0029",
-			"value":"サキ、つらいわよね\nこんなの見ちゃったら、悲しくなるのもわかるわ"
+			"value":"I know how hard this is for you, Saki. Just\nseeing this is enough to make anyone sad."
 		},
 		{
 			"key":"EP09_S4027_0030",
-			"value":"フローラモン……"
+			"value":"Oh, Floramon..."
 		},
 		{
 			"key":"EP09_S4027_0031",
-			"value":"悲しんでもいい、落ち込んでてもいいの\nでもね、立ち止まらないで"
+			"value":"You have every right to be sad and upset. But\nyou know, we can’t stop here."
 		},
 		{
 			"key":"EP09_S4027_0032",
-			"value":"私たちが動かないと\nもっとたくさんの子たちが消えていっちゃうわ"
+			"value":"If we don’t get things in motion, tons more\nof these little guys are gonna disappear."
 		},
 		{
 			"key":"EP09_S4027_0033",
-			"value":"だから、ね？\nちょっとだけ頑張りましょう"
+			"value":"So please? Can you try and get going, for me?"
 		},
 		{
 			"key":"EP09_S4027_0034",
-			"value":"うん……そうだね\n私たちが助けなきゃいけないよね"
+			"value":"Floramon... You’re right. We have to help all\nof them."
 		},
 		{
 			"key":"EP09_S4027_0035",
-			"value":"ありがとう、フローラモン\n私、頑張るよ"
+			"value":"Thank you so much. I’ll do what I can."
 		},
 		{
 			"key":"EP09_S4027_0036",
-			"value":"（よかった。やっぱりフローラモンは\n　サキのことよくわかってるな）"
+			"value":"(Thank goodness. I knew Floramon was the\nright one for the job.)"
 		},
 		{
 			"key":"EP09_S4027_0037",
-			"value":"他にも怪我した子がいるかもしれないよね\n探しに行こう、フローラモン"
+			"value":"There might be some others hurt out there.\nLet’s check it out, Floramon."
 		},
 		{
 			"key":"EP09_S4027_0038",
-			"value":"ええ、行きましょう"
+			"value":"Yeah, let’s do it!"
 		},
 		{
 			"key":"EP09_S4027_0039",
-			"value":"私は他にも怪我した子がいないか探すね\nタクマも他のとこ探してきて"
+			"value":"I’ll see if there’s any more injured around\nhere. You look somewhere else, Takuma."
 		}
 	]
 }

@@ -2,15 +2,15 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S1075_0001",
-			"value":"ここには誰もいないや……\nさっきみたいに誰かいると思ったのに"
+			"value":"Huh. There’s nobody here. I could have sworn\nI sensed someone, though."
 		},
 		{
 			"key":"EP10_S1075_0002",
-			"value":"なかなか、うまくいかないな……"
+			"value":"This isn’t going too well, is it?"
 		},
 		{
 			"key":"EP10_S1075_0003",
-			"value":"タクマ、元気出して！\n別の場所を捜してみよう！"
+			"value":"Cheer up, Takuma! We can just look somewhere\nelse!"
 		}
 	]
 }

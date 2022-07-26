@@ -2,315 +2,315 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1501_0001",
-			"value":"さて、当面の水と食料の心配は\nこれでなくなったワケだし……"
+			"value":"All right, now that we’ve taken care of our\nsupplies..."
 		},
 		{
 			"key":"EP02_S1501_0002",
-			"value":"そうすると、やっぱ探検できる範囲までは\n探ってみる価値はあると思うぜ？"
+			"value":"Why don’t we look around as much as we can?"
 		},
 		{
 			"key":"EP02_S1501_0003",
-			"value":"非常食ってのは携行食でもあるんだ\n数日がかりの移動や野営だってできるし……"
+			"value":"The emergency rations are ready-to-eat, so we\ncould travel around and camp out with them."
 		},
 		{
 			"key":"EP02_S1501_0004",
-			"value":"外にはまだバケモノがウヨウヨいるんだぞ？\n正気か？　テメー"
+			"value":"You forget about those monsters roaming\naround outside? Or have you finally lost it?"
 		},
 		{
 			"key":"EP02_S1501_0201",
-			"value":"それに、霧だって危ないわ"
+			"value":"And remember, that fog out there is\ndangerous."
 		},
 		{
 			"key":"EP02_S1501_0202",
-			"value":"アレはダメだ！　近づいちゃダメ！"
+			"value":"That’s right! We have to keep away from the\nfog."
 		},
 		{
 			"key":"EP02_S1501_0203",
-			"value":"でも、今は晴れてるぜ？\n綺麗なもんだ"
+			"value":"Okay, sure, but the sun’s out right now. It’s\na perfectly clear, beautiful day."
 		},
 		{
 			"key":"EP02_S1501_0204",
-			"value":"確かにあの霧はいつでもあるものではない\nむしろ時折、忘れていた頃に現れる程度のものだ"
+			"value":"True, the fog isn’t always out. It appears\nonly rarely, when you’ve nearly forgotten it."
 		},
 		{
 			"key":"EP02_S1501_0205",
-			"value":"だがなミノル、油断していたところに霧が現れて\nどうにもならなくなる、という危険だってあるぞ？"
+			"value":"Even so, Minoru, it could still roll in when\nwe least expect it and cut us off."
 		},
 		{
 			"key":"EP02_S1501_0206",
-			"value":"そ、そうか……\nうーん……"
+			"value":"Oh... Huh."
 		},
 		{
 			"key":"EP02_S1501_0005",
-			"value":"でももしかすると、\n教授やサキたちもいるかもしれないし"
+			"value":"But the professor, Saki and Shuuji might be\nout there somewhere."
 		},
 		{
 			"key":"EP02_S1501_0006",
-			"value":"いるわけねーだろ？　もしいたとしても、\nオレたちが捜す意味なんてあんのかよ"
+			"value":"Not a chance! And if they were, there’s no\npoint in us going after them."
 		},
 		{
 			"key":"EP02_S1501_0007",
-			"value":"確かに、いるかも知れないわ。でも……\n可能性だけの話で危険を冒す事に賛成できないわ"
+			"value":"They may be out there, but we can’t risk\nourselves over a mere possibility."
 		},
 		{
 			"key":"EP02_S1501_0008",
-			"value":"ねぇ"
+			"value":"Um..."
 		},
 		{
 			"key":"EP02_S1501_0009",
-			"value":"ん？　ハル？\nどうしたんだ"
+			"value":"What’s up, Haru?\nSomething wrong?"
 		},
 		{
 			"key":"EP02_S1501_0010",
-			"value":"そこの森でこんなもの見つけたんだけど……"
+			"value":"I found this in the forest..."
 		},
 		{
 			"key":"EP02_S1501_0011",
-			"value":"それって、昨日会った教授の帽子じゃない！？"
+			"value":"Isn’t that the professor’s hat?"
 		},
 		{
 			"key":"EP02_S1501_0012",
-			"value":"本当だ！\nどこかで見たことあると思ったら……"
+			"value":"It is!\nI thought it looked familiar..."
 		},
 		{
 			"key":"EP02_S1501_0013",
-			"value":"ほら！　やっぱりいたんじゃないか！"
+			"value":"I knew it! They’re here!"
 		},
 		{
 			"key":"EP02_S1501_0014",
-			"value":"そうと分かれば、みんなで捜しに行こうぜ！"
+			"value":"Then we need to go look for them!"
 		},
 		{
 			"key":"EP02_S1501_0015",
-			"value":"おいおい正気かよ……\nここにいた方が安全だろ？"
+			"value":"Are you crazy?\nWe’re gonna be safer here."
 		},
 		{
 			"key":"EP02_S1501_0016",
-			"value":"うーん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP02_S1501_0017",
-			"value":"考えてもみてくださいよ。あれから丸一日経ってるんですよ？\nオレたちはこうしてどうにかなったけど……"
+			"value":"Think about it: It’s already been a day,\nright? Things are working out for us..."
 		},
 		{
 			"key":"EP02_S1501_0018",
-			"value":"水も食料もないんじゃ……アイツら\n衰弱してるかも知れない"
+			"value":"But with no food or drink to come by, those\nguys could be in bad shape."
 		},
 		{
 			"key":"EP02_S1501_0019",
-			"value":"それも……そうね"
+			"value":"...Yes, that is true."
 		},
 		{
 			"key":"EP02_S1501_0020",
-			"value":"わかったわ……\nサキさんたちに万が一があってはいけないわ"
+			"value":"Fine. We won’t leave their fates to chance!"
 		},
 		{
 			"key":"EP02_S1501_0021",
-			"value":"お、おい！？\n死にに行く気か！？"
+			"value":"What? Hey!\nYou got a death wish?!"
 		},
 		{
 			"key":"EP02_S1501_0022",
-			"value":"死なせはしないよ！"
+			"value":"Not while we’re around!"
 		},
 		{
 			"key":"EP02_S1501_0023",
-			"value":"そう、俺たちもついてる"
+			"value":"Indeed. We’re going with her."
 		},
 		{
 			"key":"EP02_S1501_0024",
-			"value":"アオイ、もし悪いヤツが襲ってきても\n私たちがいるから大丈夫よ！"
+			"value":"If any baddie comes your way, I’ll fight ‘em\noff for you, Aoi!"
 		},
 		{
 			"key":"EP02_S1501_0025",
-			"value":"……そうね、ありがとう"
+			"value":"...Yes, I know. Thank you."
 		},
 		{
 			"key":"EP02_S1501_0026",
-			"value":"じゃあ、ミユキとハルは危険だから置いてくけど\n行くのはオレとタクマとアオイさんで……"
+			"value":"It’s too dangerous for Miyuki and Haru, so\nthey’ll stay here. Me, Takuma and Aoi will—"
 		},
 		{
 			"key":"EP02_S1501_0027",
-			"value":"ま、待てよ！？\nオレだけこのガキどもと留守番か？"
+			"value":"Now hold on, you expect me to play babysitter\nfor those brats?!"
 		},
 		{
 			"key":"EP02_S1501_0028",
-			"value":"ま、またあの蜘蛛のバケモノみたいなのが\nここを襲ってきたらどうすんだよ……！"
+			"value":"What’ll I do if another one of those spider\nmonsters attacks us?!"
 		},
 		{
 			"key":"EP02_S1501_0213",
-			"value":"こんな芋虫だけじゃどうにもならねーよ！"
+			"value":"It’s not like this stupid caterpillar’s gonna\nkeep us safe!"
 		},
 		{
 			"key":"EP02_S1501_0029",
-			"value":"芋虫じゃないよ、クネモン！"
+			"value":"Kunemon's not some stupid caterpillar!"
 		},
 		{
 			"key":"EP02_S1501_0030",
-			"value":"キュゥ……"
+			"value":"Kewww..."
 		},
 		{
 			"key":"EP02_S1501_0031",
-			"value":"それにクネモンは結構\nやれるやつなんだ！"
+			"value":"Kunemon here can handle himself!"
 		},
 		{
 			"key":"EP02_S1501_0032",
-			"value":"知らねーよ！\nクソッ……"
+			"value":"News to me!\nHmph..."
 		},
 		{
 			"key":"EP02_S1501_0033",
-			"value":"（確かにあのドクグモンのような敵が\n　また現れるかもしれないけど）"
+			"value":"(We might indeed run into something like\nDokugumon again.)"
 		},
 		{
 			"key":"EP02_S1501_0034",
-			"value":"（リョウの為だけにサキたちを\n　見捨てるようなことはできない）"
+			"value":"(We can’t abandon them all just for Ryo.)"
 		},
 		{
 			"key":"EP02_S1501_Q1",
-			"value":"（リョウに何て言おうか）"
+			"value":"(What should I say to Ryo?)"
 		},
 		{
 			"key":"EP02_S1501_Q1_A1",
-			"value":"ハルたちを守ってやれ"
+			"value":"Look after them."
 		},
 		{
 			"key":"EP02_S1501_Q1_A2",
-			"value":"好きにしろ"
+			"value":"Do what you want."
 		},
 		{
 			"key":"EP02_S1501_Q1_A3",
-			"value":"安全な場所なんてない"
+			"value":"Nowhere is safe."
 		},
 		{
 			"key":"EP02_S1501_0035",
-			"value":"サキたちが危ない目に遭ってるなら助けたいんだ\n悪いけど、僕らは捜しに行くよ"
+			"value":"If they’re in trouble, we need to help them.\nI’m sorry, but we’re going."
 		},
 		{
 			"key":"EP02_S1501_0036",
-			"value":"そうしたら、もしもここが襲われたらこの子たちを\n守れるのはリョウ、お前だけだ"
+			"value":"And if so, if the school is attacked, you’ll\nbe the only one to protect the kids."
 		},
 		{
 			"key":"EP02_S1501_0037",
-			"value":"だから！　オレには無理だっつってんだろ！"
+			"value":"I told you that’s no good!"
 		},
 		{
 			"key":"EP02_S1501_0038",
-			"value":"も、もし何かあったら……\nむしろ、お前らのそばの方が、安全じゃねーか……"
+			"value":"If something happens...\nYou’ll be safer here no matter what..."
 		},
 		{
 			"key":"EP02_S1501_0039",
-			"value":"好きにしろ、リョウ"
+			"value":"Do what you want, Ryo."
 		},
 		{
 			"key":"EP02_S1501_0040",
-			"value":"僕らだって、サキたちを助けたいから行く\nリョウだって自分の為に行動すればいいさ"
+			"value":"We’re going to help Saki and the others.\nYou can do whatever."
 		},
 		{
 			"key":"EP02_S1501_0041",
-			"value":"んなっ、なこと言ったって……"
+			"value":"What are you saying?"
 		},
 		{
 			"key":"EP02_S1501_0042",
-			"value":"そんなの……力があるやつにしかできねーよ\nオレみたいな、弱いやつには……"
+			"value":"You’d need to be strong for that.\nMe? I’m a total weakling..."
 		},
 		{
 			"key":"EP02_S1501_0043",
-			"value":"安全な場所なんてどこにもないぞ、リョウ"
+			"value":"There are no safe places, Ryo."
 		},
 		{
 			"key":"EP02_S1501_0044",
-			"value":"森には見たこともない敵がいるかもしれない\nここだってまた襲われるかもしれない"
+			"value":"There might be unknown dangers in the forest.\nYou might be attacked here, too."
 		},
 		{
 			"key":"EP02_S1501_0045",
-			"value":"生き残りたかったら、自分で考えるしかないんだ"
+			"value":"You’ll have to figure out how to survive."
 		},
 		{
 			"key":"EP02_S1501_0046",
-			"value":"う、くぅっ……\nんだよ、偉そうに……っ"
+			"value":"Ungh!\nWho made you boss?"
 		},
 		{
 			"key":"EP02_S1501_0047",
-			"value":"わ、わかったよ……\nここに居るよりゃマシだ、オレも行くよ……"
+			"value":"Fine, fine, I’ll go with you...\nBetter than sticking around here."
 		},
 		{
 			"key":"EP02_S1501_0048",
-			"value":"リョウ先輩は籠城するんじゃなかったっけ？\n残ってて良いんですよ？"
+			"value":"Weren’t you gonna hold down the fort, Ryo?\nYou can stay here, y’know."
 		},
 		{
 			"key":"EP02_S1501_0049",
-			"value":"う、うるせーな！\nいいだろ、協力してやるっつってんだ！"
+			"value":"Shut up! I’m going with you, and that’s that!"
 		},
 		{
 			"key":"EP02_S1501_0050",
-			"value":"それ、協力するって態度とは\n違うんじゃねーかなぁ？"
+			"value":"Not really sensing that cooperative spirit\nfrom you there, champ."
 		},
 		{
 			"key":"EP02_S1501_0207",
-			"value":"ミノルくん、そのくらいにしなさい\nリョウくんは先輩なのよ？"
+			"value":"Minoru, enough of that, okay? Ryo is older\nthan you. You shouldn’t talk down to him."
 		},
 		{
 			"key":"EP02_S1501_0208",
-			"value":"はーい、ごめんなさーい"
+			"value":"Right. Sorry, Mom."
 		},
 		{
 			"key":"EP02_S1501_0209",
-			"value":"ケッ……！"
+			"value":"Hmph!"
 		},
 		{
 			"key":"EP02_S1501_0051",
-			"value":"リョウはああ言ってるけど……\n外より校舎の中に隠れてる方が安全だよな？"
+			"value":"Whatever Ryo says, it would still be safer to\nhide inside the school, wouldn’t it?"
 		},
 		{
 			"key":"EP02_S1501_0052",
-			"value":"……ぼくもそう思う"
+			"value":"...I agree."
 		},
 		{
 			"key":"EP02_S1501_0053",
-			"value":"そうだな、もしもって時は\nあの食料庫の中にでも隠れてろよ？"
+			"value":"Hey, if there’s any trouble, just hide inside\nthat pantry, okay?"
 		},
 		{
 			"key":"EP02_S1501_0054",
-			"value":"大丈夫だよ\n心配いらないから……"
+			"value":"It’s fine. Don’t worry about us..."
 		},
 		{
 			"key":"EP02_S1501_0055",
-			"value":"じゃあミユキも、\nハルをしっかり見守っててね"
+			"value":"All right, then. You keep an eye on your\nbrother, okay, Miyuki?"
 		},
 		{
 			"key":"EP02_S1501_0056",
-			"value":"逆"
+			"value":"You got it backwards."
 		},
 		{
 			"key":"EP02_S1501_0057",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP02_S1501_0210",
-			"value":"あ……あぁ、むしろハルがミユキを\n守ってくれるってことか？"
+			"value":"Oh, you mean...Haru looks after you?"
 		},
 		{
 			"key":"EP02_S1501_0211",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S1501_0212",
-			"value":"（頷いてる……相変わらず言葉は足りないし\n　もう少し喋ってくれるといいんだけどな……）"
+			"value":"(She’s nodding. It’s weird how Miyuki hardly\never talks. I wish she would say more.)"
 		},
 		{
 			"key":"EP02_S1501_0058",
-			"value":"……行ってらっしゃい"
+			"value":"...Bye."
 		},
 		{
 			"key":"EP02_S1501_0059",
-			"value":"う、うん……"
+			"value":"...Yeah, uh, see you."
 		},
 		{
 			"key":"EP02_S1501_0060",
-			"value":"（ミユキ姉弟を残して行くのは\n　ちょっとだけ心配だけど……）"
+			"value":"(I’m a little worried about leaving those two\nbehind...)"
 		},
 		{
 			"key":"EP02_S1501_0061",
-			"value":"（とにかく、シュウジさんやサキを\n　はやく見つけなくちゃな……）"
+			"value":"(But for now, we’d better focus on finding\nthe others, and quick.)"
 		}
 	]
 }

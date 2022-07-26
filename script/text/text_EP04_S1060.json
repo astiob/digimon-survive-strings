@@ -2,407 +2,407 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1060_0001",
-			"value":"くそ……ざっと園内を見て回ったってのに\nそれらしい手がかりが、ひとつも見つからねえ"
+			"value":"Dammit, we’ve been through the whole park and\nnot a single clue!"
 		},
 		{
 			"key":"EP04_S1060_0002",
-			"value":"ミウのやつ、どこに行っちまったんだよ"
+			"value":"Where the hell could Miu have gone?"
 		},
 		{
 			"key":"EP04_S1060_0003",
-			"value":"他に、僕らが見て回ってないところって\nあったかな……？"
+			"value":"Is there anywhere we haven’t checked?"
 		},
 		{
 			"key":"EP04_S1060_0004",
-			"value":"全部捜したと思うよ"
+			"value":"I’m pretty sure we looked everywhere."
 		},
 		{
 			"key":"EP04_S1060_0005",
-			"value":"つってもよぉ、こんなワケわかんねー世界なんだ\nオレらが気づいてない隠し部屋とかあんじゃねーの？"
+			"value":"Don’t forget how crazy this place can be,\nthough. We mighta missed some secret room."
 		},
 		{
 			"key":"EP04_S1060_0006",
-			"value":"もしそうなら、手がかりがないと\nどうにもならないよな……"
+			"value":"Maybe, but without any clues, we may never\nfind it."
 		},
 		{
 			"key":"EP04_S1060_0007",
-			"value":"どうすりゃいいんだよ……！"
+			"value":"Man, what do we do now?!"
 		},
 		{
 			"key":"EP04_S1060_0008",
-			"value":"ん……？\nおい、何か足音がしないか？"
+			"value":"Hm? Does anyone else hear footsteps?"
 		},
 		{
 			"key":"EP04_S1060_0009",
-			"value":"え？　そんなの聞こえる？"
+			"value":"Not me. Are you sure you’re not hearing\nthings?"
 		},
 		{
 			"key":"EP04_S1060_0010",
-			"value":"確かに、聞こえるな\nこっちに近づいてくるような音が……"
+			"value":"I hear them too. Sounds like they’re headed\nthis way."
 		},
 		{
 			"key":"EP04_S1060_0011",
-			"value":"ひっ！？\nま、まさか昨日の敵……！？"
+			"value":"Yeep?! Don’t tell me it’s that thing from\nyesterday!"
 		},
 		{
 			"key":"EP04_S1060_0012",
-			"value":"そ、そんな！"
+			"value":"Oh no! Not again!"
 		},
 		{
 			"key":"EP04_S1060_0013",
-			"value":"落ち着いて、アオイ。大丈夫よ\nこれは敵の足音というよりも……"
+			"value":"Aoi, it’s okay. You don’t have to worry.\nThese footsteps sound more like—"
 		},
 		{
 			"key":"EP04_S1060_0014",
-			"value":"侵入者、はっけーーーん！"
+			"value":"Intruders! There you are!"
 		},
 		{
 			"key":"EP04_S1060_0015",
-			"value":"あっ……また、さっきの……"
+			"value":"Oh. These things again."
 		},
 		{
 			"key":"EP04_S1060_0016",
-			"value":"さっきの……"
+			"value":"Again..."
 		},
 		{
 			"key":"EP04_S1060_0017",
-			"value":"ま、また現れたのか！？"
+			"value":"How many times is this now?"
 		},
 		{
 			"key":"EP04_S1060_0018",
-			"value":"懲りないにもほどがあんだろ……"
+			"value":"Seriously, don’t they ever learn?"
 		},
 		{
 			"key":"EP04_S1060_0019",
-			"value":"さっきはよくもやってくれたな！"
+			"value":"Thought you’d get away with what you did to\nus before, huh?"
 		},
 		{
 			"key":"EP04_S1060_0020",
-			"value":"きっちり、お返しにきてやったんだからね！"
+			"value":"Well, now we’re here for some payback!"
 		},
 		{
 			"key":"EP04_S1060_0021",
-			"value":"いや、もういい加減にしてくれないかな……？"
+			"value":"Look, could you please just leave us alone?"
 		},
 		{
 			"key":"EP04_S1060_0022",
-			"value":"逃げようったって、そうはいかない！"
+			"value":"Don’t think you can escape!"
 		},
 		{
 			"key":"EP04_S1060_0023",
-			"value":"今度の今度の、今度こそ！\n女王様の命令で、排除するんだから！！！"
+			"value":"This time, of all times, we’re really going\nto eliminate you like Her Majesty ordered!"
 		},
 		{
 			"key":"EP04_S1060_0024",
-			"value":"ま、まいったなぁ……\n全然話を聞いてくれない……"
+			"value":"So much for trying to reason with them. They\nwon’t listen to anything I say."
 		},
 		{
 			"key":"EP04_S1060_0025",
-			"value":"し、仕方ない……ここは僕が説得を試みよう"
+			"value":"Then...I guess I’ll have to try."
 		},
 		{
 			"key":"EP04_S1060_0026",
-			"value":"これ以上、ここで時間を浪費するのは\n避けた方がいいだろうからな"
+			"value":"After all, I’d hate for us to have to waste\nany more of our time here."
 		},
 		{
 			"key":"EP04_S1060_0027",
-			"value":"それよりもさ、目も合わせずに\n完全無視を決め込むっていうのは？"
+			"value":"What if we just don’t make eye contact or\nengage with them at all?"
 		},
 		{
 			"key":"EP04_S1060_0028",
-			"value":"無視が一番、相手にこたえるんじゃない？"
+			"value":"I feel like that’s the best way to deal with\nthem."
 		},
 		{
 			"key":"EP04_S1060_0029",
-			"value":"無視もいいけど、もっといい手があるかもよ？"
+			"value":"We could ignore them, but I think I have\na better idea."
 		},
 		{
 			"key":"EP04_S1060_0030",
-			"value":"どんな？"
+			"value":"What’s that?"
 		},
 		{
 			"key":"EP04_S1060_0031",
-			"value":"オレたちも、実は女王の配下ですって\nウソつくんだよ！"
+			"value":"We lie and tell them we’re fellow servants of\nthe queen!"
 		},
 		{
 			"key":"EP04_S1060_0032",
-			"value":"あいつら、単純そうだから信じるんじゃね？"
+			"value":"They seem like they’d be dumb enough to buy\nit."
 		},
 		{
 			"key":"EP04_S1060_0033",
-			"value":"って、そこー！\nなにをコソコソしているのだー！？"
+			"value":"Hey! What’re you whispering about over\nthere?!"
 		},
 		{
 			"key":"EP04_S1060_0034",
-			"value":"ちょ、ちょっと作戦会議を……！"
+			"value":"Just...going over our strategy!"
 		},
 		{
 			"key":"EP04_S1060_0035",
-			"value":"いいから、早くかかってこーい！"
+			"value":"Well, enough of that! Let’s see what you got!"
 		},
 		{
 			"key":"EP04_S1060_0036",
-			"value":"タクマくん、早くなんとかしないと……！"
+			"value":"Takuma, we need to decide on something fast!"
 		},
 		{
 			"key":"EP04_S1060_0037",
-			"value":"（シュウジさんに説得を任せるか\n　それとも、サキの言うように無視するか）"
+			"value":"(We could have Shuuji try to reason with\nthem, or ignore them like Saki suggested.)"
 		},
 		{
 			"key":"EP04_S1060_0038",
-			"value":"（イチかバチか、女王の配下だって\n　嘘をついてみるか……）"
+			"value":"(Or we could risk pretending to be fellow\nservants of the queen.)"
 		},
 		{
 			"key":"EP04_S1060_Q1",
-			"value":"（ここで取るべき作戦は……！）"
+			"value":"(What’s our plan?)"
 		},
 		{
 			"key":"EP04_S1060_Q1_A1",
-			"value":"懲りずに説得する"
+			"value":"Keep trying to reason."
 		},
 		{
 			"key":"EP04_S1060_Q1_A2",
-			"value":"女王の配下と嘘をつく"
+			"value":"Pose as servants."
 		},
 		{
 			"key":"EP04_S1060_Q1_A3",
-			"value":"完全に無視する"
+			"value":"Completely ignore them."
 		},
 		{
 			"key":"EP04_S1060_0039",
-			"value":"懲りずに説得"
+			"value":""
 		},
 		{
 			"key":"EP04_S1060_0040",
-			"value":"シュウジさんが言うなら……\n説得をお願いします"
+			"value":"If you think you can reason with them,\nShuuji, go ahead and give it a shot."
 		},
 		{
 			"key":"EP04_S1060_0041",
-			"value":"さっきはダメだったけど、今回こそは\nなんとかなるかもしれませんから"
+			"value":"It may not have worked before, but maybe you\ncan get through to them this time."
 		},
 		{
 			"key":"EP04_S1060_0042",
-			"value":"ああ、やってみよう"
+			"value":"Right, leave it to me."
 		},
 		{
 			"key":"EP04_S1060_0043",
-			"value":"おい、あいつに任せて大丈夫かよ"
+			"value":"You sure that’s a good idea?"
 		},
 		{
 			"key":"EP04_S1060_0044",
-			"value":"シュウジさんは、頭がいいし本来は冷静な人だから\n大丈夫だと思うんだけど……"
+			"value":"Shuuji is smart and usually pretty level-\nheaded. It should be fine."
 		},
 		{
 			"key":"EP04_S1060_0045",
-			"value":"こほん……君たち"
+			"value":"*ahem* If I could have your attention."
 		},
 		{
 			"key":"EP04_S1060_0046",
-			"value":"な、なによ！？\nなんで近づいてくるの！？"
+			"value":"Wh-what do you want?! Why are you coming\ncloser?!"
 		},
 		{
 			"key":"EP04_S1060_0047",
-			"value":"僕は、話し合いがしたいだけだ"
+			"value":"I only want to talk."
 		},
 		{
 			"key":"EP04_S1060_0048",
-			"value":"とにかく、少し冷静になってほしい"
+			"value":"Please retain your composure."
 		},
 		{
 			"key":"EP04_S1060_0049",
-			"value":"冷静に……？\nええっと……落ち着けってことか！"
+			"value":"Retain our composure? Uh... Oh, you mean we\nshould stay calm!"
 		},
 		{
 			"key":"EP04_S1060_0050",
-			"value":"って、なに、言うこと聞きそうになってるの！"
+			"value":"Hey! Why are you listening to him?!"
 		},
 		{
 			"key":"EP04_S1060_0051",
-			"value":"さっきだって、おんなじようなこといって\n騙そうとしてきたでしょー！"
+			"value":"Last time we did that, they tried to trick\nus!"
 		},
 		{
 			"key":"EP04_S1060_0052",
-			"value":"い、いや、決してそんなことは……！"
+			"value":"D-do not worry, this is no trick!"
 		},
 		{
 			"key":"EP04_S1060_0053",
-			"value":"キケン！　キケンだぁ！\n騙される前に、逃げるぞーーー！"
+			"value":"Don’t listen! It’s too dangerous! Run away\nbefore we get tricked!"
 		},
 		{
 			"key":"EP04_S1060_0054",
-			"value":"女王の配下と嘘をつく"
+			"value":""
 		},
 		{
 			"key":"EP04_S1060_0055",
-			"value":"ミノルの言うように、僕らも女王の配下だって\n言ってみようか"
+			"value":"Let’s take Minoru’s suggestion and pretend\nwe’re fellow servants of the queen."
 		},
 		{
 			"key":"EP04_S1060_0056",
-			"value":"おっけー！\nじゃ、ここはオレが……！"
+			"value":"All right! Leave this to me!"
 		},
 		{
 			"key":"EP04_S1060_0057",
-			"value":"おーい、そんなに警戒するなって"
+			"value":"Hey, come on, guys! Don’t get so worked up."
 		},
 		{
 			"key":"EP04_S1060_0058",
-			"value":"不用意に近づく、大きなニンゲン……！\n怪しい……！　こっちに来るな！"
+			"value":"You there, large human! Don’t come any\ncloser! You’re highly suspicious!"
 		},
 		{
 			"key":"EP04_S1060_0059",
-			"value":"いや、ほんと、怪しむ必要なんてないんだよ\nだって、オレたち仲間なんだから"
+			"value":"What’s there to be suspicious of? Don’t you\nknow we’re on the same side?"
 		},
 		{
 			"key":"EP04_S1060_0060",
-			"value":"え、そうなの？"
+			"value":"Wait, we are?!"
 		},
 		{
 			"key":"EP04_S1060_0061",
-			"value":"なんで？"
+			"value":"Why?"
 		},
 		{
 			"key":"EP04_S1060_0062",
-			"value":"それはもちろん、オレたちも女王様の配下だから！"
+			"value":"Isn’t it obvious? Because we’re also servants\nof Her Majesty the Queen!"
 		},
 		{
 			"key":"EP04_S1060_0063",
-			"value":"オマエが！？"
+			"value":"You?!"
 		},
 		{
 			"key":"EP04_S1060_0064",
-			"value":"オレだけじゃないぞ\nここにいる、全員が女王様の配下なんだ！"
+			"value":"Not just me, all of us!"
 		},
 		{
 			"key":"EP04_S1060_0065",
-			"value":"えー！　じゃあ、排除しなくていいってこと？"
+			"value":"Really?! So they don’t need to be eliminated?"
 		},
 		{
 			"key":"EP04_S1060_0066",
-			"value":"女王様の配下なら……ねぇ？"
+			"value":"Not if they’re servants of the queen."
 		},
 		{
 			"key":"EP04_S1060_0067",
-			"value":"信じてくれた！？\nじゃあ、仲良くしよう！"
+			"value":"So, you believe me? That’s good! I just know\nwe can all get along."
 		},
 		{
 			"key":"EP04_S1060_0068",
-			"value":"このまま、うまくいきそうだな"
+			"value":"Hey, this is going pretty well."
 		},
 		{
 			"key":"EP04_S1060_0069",
-			"value":"ああ、ついでにミウの居所について\n何か知ってりゃいいが……"
+			"value":"By the way, if you happen to know where Miu\nis—"
 		},
 		{
 			"key":"EP04_S1060_0070",
-			"value":"って、騙されないぞーーー！"
+			"value":"Wait! You can’t fool me!"
 		},
 		{
 			"key":"EP04_S1060_0071",
-			"value":"へっ？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP04_S1060_0072",
-			"value":"なにが女王様の配下だ！"
+			"value":"You could never be one of the queen’s\nservants!"
 		},
 		{
 			"key":"EP04_S1060_0073",
-			"value":"さっきは、女王様を倒してやってもいいとか\n言ってたくせに！　このウソつきめ！"
+			"value":"You were talking about beating her up before,\nyou big liar!"
 		},
 		{
 			"key":"EP04_S1060_0074",
-			"value":"しまったバレた！"
+			"value":"Aw man, they figured it out."
 		},
 		{
 			"key":"EP04_S1060_0075",
-			"value":"チッ……さすがに、そこまで\nバカじゃねーってことだな"
+			"value":"Tch... Guess they’re not quite that stupid."
 		},
 		{
 			"key":"EP04_S1060_0076",
-			"value":"ウソをついて騙そうとしてくるなんて\nオマエらは、すっごくワルイやつだ！"
+			"value":"How dare you lie and try to trick us like\nthat! You must be terrible villains!"
 		},
 		{
 			"key":"EP04_S1060_0077",
-			"value":"絶対、ここで倒してやるー！"
+			"value":"We’ll have to put a stop to you right now!"
 		},
 		{
 			"key":"EP04_S1060_0078",
-			"value":"うわわわわっ！"
+			"value":"Yikes!"
 		},
 		{
 			"key":"EP04_S1060_0079",
-			"value":"ミノル！　下がっていろ！"
+			"value":"Minoru! Fall back!"
 		},
 		{
 			"key":"EP04_S1060_0080",
-			"value":"目をそらして完全無視"
+			"value":""
 		},
 		{
 			"key":"EP04_S1060_0081",
-			"value":"サキの案がいいんじゃないかな……！\nここは目をそらして、完全に無視しよう"
+			"value":"I think Saki has the right idea. Let’s just\nignore them completely."
 		},
 		{
 			"key":"EP04_S1060_0082",
-			"value":"わ、わかったわ\nやってみる……！"
+			"value":"Oh, all right. I’ll try."
 		},
 		{
 			"key":"EP04_S1060_0083",
-			"value":"おいっ、オマエら！\nどうしてみんなして、そっぽを向くのだ！？"
+			"value":"Hey! Why are you all looking away?!"
 		},
 		{
 			"key":"EP04_S1060_0084",
-			"value":"（無視無視……！）"
+			"value":"(Don’t respond...just don’t respond...)"
 		},
 		{
 			"key":"EP04_S1060_0085",
-			"value":"ちょっとー！　聞いてるの！？\n聞こえてないの！！？"
+			"value":"What’s wrong? Can you not hear us?! Or are\nyou just not listening?!"
 		},
 		{
 			"key":"EP04_S1060_0086",
-			"value":"（これも、無視無視！）"
+			"value":"(Gotta ignore that too. No reaction!)"
 		},
 		{
 			"key":"EP04_S1060_0087",
-			"value":"むぅ？　これはもしや、今のうちに\n攻撃しちゃえばこっちのもの……？"
+			"value":"Hey, maybe if we attack now, we can take\nthem!"
 		},
 		{
 			"key":"EP04_S1060_0088",
-			"value":"（って、全部聞こえてるけど無視無視！）"
+			"value":"(I can hear them, but I’m not going to\nengage!)"
 		},
 		{
 			"key":"EP04_S1060_0089",
-			"value":"そこだー！　どぁーーーっ！！"
+			"value":"Haha! Take that!!!"
 		},
 		{
 			"key":"EP04_S1060_0090",
-			"value":"わっ！？　いたた！"
+			"value":"Wah?! Yeow!"
 		},
 		{
 			"key":"EP04_S1060_0091",
-			"value":"あっ、こら！\nちょっと、痛いって！"
+			"value":"Hey, stop it! That stings!"
 		},
 		{
 			"key":"EP04_S1060_0092",
-			"value":"ど、どうだ……！？\nこれで観念しただろ！？"
+			"value":"How’d you like that?! You learn your lesson?!"
 		},
 		{
 			"key":"EP04_S1060_0093",
-			"value":"（こ、これも……無視で！）"
+			"value":"(I’d better ignore that too!)"
 		},
 		{
 			"key":"EP04_S1060_0094",
-			"value":"ふぐっ……うんともすんともいわないくらい\nきいてない……！？"
+			"value":"Grr... Were our attacks so weak they’re not\nworth a response?!"
 		},
 		{
 			"key":"EP04_S1060_0095",
-			"value":"なんてしぶといやつらなんだ……！"
+			"value":"These humans are tough!"
 		},
 		{
 			"key":"EP04_S1060_0096",
-			"value":"こ、ここはやっぱり……"
+			"value":"There’s only one thing to do now..."
 		},
 		{
 			"key":"EP04_S1060_0097",
-			"value":"た、退却ー！　退却だぁーーー！"
+			"value":"Retreat! Retreat!!!"
 		}
 	]
 }

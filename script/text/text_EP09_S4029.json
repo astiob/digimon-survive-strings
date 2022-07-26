@@ -2,43 +2,43 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S4029_0001",
-			"value":"あれ？　ひょっとして、そこに誰かいる？"
+			"value":"Huh? Is someone over there?"
 		},
 		{
 			"key":"EP09_S4029_0002",
-			"value":"わわっ！"
+			"value":"Yikes!"
 		},
 		{
 			"key":"EP09_S4029_0003",
-			"value":"あ、タクマ。なんか気配を感じるぞ～"
+			"value":"Ah! I sense something there, Takuma."
 		},
 		{
 			"key":"EP09_S4029_0004",
-			"value":"そうか、一応気をつけて確かめよう"
+			"value":"Yeah? Let’s check it out, but be careful."
 		},
 		{
 			"key":"EP09_S4029_0005",
-			"value":"そこだっ！"
+			"value":"There!"
 		},
 		{
 			"key":"EP09_S4029_0006",
-			"value":"きゃー！？　やめてー！\n離してー！"
+			"value":"Eeeeeek! Stop, let me gooo!"
 		},
 		{
 			"key":"EP09_S4029_0007",
-			"value":"って、あれ？\nアンタたち、ミウ様のお仲間……？"
+			"value":"I’ll—huh? Wait...aren’t you Lady Miu’s\nfriends?"
 		},
 		{
 			"key":"EP09_S4029_0008",
-			"value":"あぁ、君はあの時の子か"
+			"value":"Oh yeah, I remember you."
 		},
 		{
 			"key":"EP09_S4029_0009",
-			"value":"あぁ、よかった……\n助かったのね……"
+			"value":"Ahh, I’m safe... What a relief..."
 		},
 		{
 			"key":"EP09_S4029_0010",
-			"value":"怪我した子を集めてるんだ\n君もこっちにおいで"
+			"value":"We’re gathering up all the injured. You\nshould come, too."
 		}
 	]
 }

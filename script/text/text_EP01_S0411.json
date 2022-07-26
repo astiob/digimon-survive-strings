@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0411_0001",
-			"value":"タクマ！　救急箱を見つけてきてくれてありがとう！"
+			"value":"Thank you for finding the first-aid kit,\nTakuma!"
 		},
 		{
 			"key":"EP01_S0411_0002",
-			"value":"どういたしまして\nもうすっかり元気だね"
+			"value":"You’re welcome!\nYou’re looking way better now."
 		},
 		{
 			"key":"EP01_S0411_0003",
-			"value":"ええ！　傷もふさがったし、動いても痛くないわ！\nニンゲンの道具ってすごいのね！"
+			"value":"Yeah! My wound’s all closed up, it doesn’t\neven hurt to move! Human tools are amazing!"
 		},
 		{
 			"key":"EP01_S0411_0004",
-			"value":"（あれだけの怪我が少し消毒液を塗った程度で\n　治るのかな？　コイツらって不思議だな……）"
+			"value":"(A wound like that healed with a little\nantiseptic? These guys are strange...)"
 		},
 		{
 			"key":"EP01_S0411_0005",
-			"value":"手当てしてくれてありがとう！"
+			"value":"Thank you for taking care of me!"
 		}
 	]
 }

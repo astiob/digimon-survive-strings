@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0155_0002",
-			"value":"こんなに人がいっぱい……何があったのかしら"
+			"value":"So many people... What could have happened?"
 		},
 		{
 			"key":"EP01_S0155_0003",
-			"value":"困ったわねえ、これじゃ進めないわ"
+			"value":"Oh dear, we can’t proceed with things like\nthis."
 		},
 		{
 			"key":"EP01_S0155_0004",
-			"value":"あーあ、キャンプも中止かなぁ"
+			"value":"Yeesh, so much for exploring the great\noutdoors. Guess camp is canceled."
 		},
 		{
 			"key":"EP01_S0155_0005",
-			"value":"それはわからないけど……\n引き返した方が良いかもしれないわ"
+			"value":"I don’t know about all that... Still, perhaps\nwe should turn back for now."
 		}
 	]
 }

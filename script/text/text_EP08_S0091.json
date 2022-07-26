@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP08_S0091_0001",
-			"value":"（僕は……どうしたら……）"
+			"value":"(I just...don’t know what I should do.)"
 		},
 		{
 			"key":"EP08_S0091_0002",
-			"value":"そこにいるの、タクマか！？"
+			"value":"Takuma? Takuma, is that you?!"
 		},
 		{
 			"key":"EP08_S0091_0003",
-			"value":"えっ……！？"
+			"value":"Wha-?!"
 		},
 		{
 			"key":"EP08_S0091_0004",
-			"value":"おー、やっぱりタクマか！\n無事だったんだな！"
+			"value":"It is you! You’re okay!"
 		},
 		{
 			"key":"EP08_S0091_0005",
-			"value":"先生！"
+			"value":"Oh! Teacher!"
 		},
 		{
 			"key":"EP08_S0091_0006",
-			"value":"まったく、戻ってきたならちゃんと報告してくれ\nずいぶん捜したんだぞ"
+			"value":"Why didn’t you check in with someone? Do you\nknow how hard we’ve been looking for you?"
 		},
 		{
 			"key":"EP08_S0091_0007",
-			"value":"野次馬だか、本当に行方不明だか\nわからない学生もいて、今大変な状態なんだ"
+			"value":"Maybe you haven’t heard, but some students\nmay have gone missing. It’s terrible!"
 		},
 		{
 			"key":"EP08_S0091_0008",
-			"value":"す、すみません"
+			"value":"Uh, sorry!"
 		},
 		{
 			"key":"EP08_S0091_0009",
-			"value":"タクマは、ミノルたちと一緒に行動していたはずだな？\n他のみんなは、どうしたんだ？"
+			"value":"You were in the group with Minoru, weren’t\nyou? What happened to the others?"
 		},
 		{
 			"key":"EP08_S0091_0010",
-			"value":"（僕に聞くってことは\n　やっぱりミノルたちはこっちに戻ってないってことか）"
+			"value":"(If that’s a question that needs answering,\nthen they probably didn’t make it back.)"
 		},
 		{
 			"key":"EP08_S0091_0011",
-			"value":"（期待してたわけじゃないけど……）"
+			"value":"(Not that I had much hope they did anyway.)"
 		},
 		{
 			"key":"EP08_S0091_0012",
-			"value":"それに、その子は……？"
+			"value":"And who is this girl?"
 		},
 		{
 			"key":"EP08_S0091_0013",
-			"value":"あっ、わ、私はその……"
+			"value":"Oh, I’m, uh..."
 		},
 		{
 			"key":"EP08_S0091_0014",
-			"value":"（しまった！）"
+			"value":"(Oh no!)"
 		},
 		{
 			"key":"EP08_S0091_0015",
-			"value":"じ、実は僕、みんなとはぐれて\n道に迷っちゃいまして！"
+			"value":"Ac-actually, I got separated from the others!"
 		},
 		{
 			"key":"EP08_S0091_0016",
-			"value":"この子に案内してもらってたんですよ！\nね？"
+			"value":"I wound up completely lost, so I had this\ngirl show me the way back! Isn’t that right?"
 		},
 		{
 			"key":"EP08_S0091_0017",
-			"value":"そ、そうなんです！\n私、ここが地元なので……！"
+			"value":"Oh, yes, that’s exactly what happened! I live\nnearby so I knew the way."
 		},
 		{
 			"key":"EP08_S0091_0018",
-			"value":"そうだったのか……\nとにかく、お前だけでも無事でよかった"
+			"value":"I...see. Well, even if it’s just you, Takuma,\nI’m glad you made it back safe."
 		},
 		{
 			"key":"EP08_S0091_0019",
-			"value":"ほかの連中も、無事だといいんだが……"
+			"value":"I hope the others are okay, too."
 		},
 		{
 			"key":"EP08_S0091_0020",
-			"value":"（先生たちはきっと、他のみんなが\n　がけ崩れに巻き込まれたと思ってるんだよな）"
+			"value":"(The teachers must all be convinced that the\nothers got caught in the landslide.)"
 		},
 		{
 			"key":"EP08_S0091_0021",
-			"value":"とにかく、タクマはこのまま校舎に待機しててくれ"
+			"value":"Listen, Takuma, I want you to wait here in\nthe school for a little while, okay?"
 		},
 		{
 			"key":"EP08_S0091_0022",
-			"value":"そっちの君も、騒ぎが落ち着くまで\nしばらくここにいたほうがいい"
+			"value":"You too, miss. It’s probably best if you\nstick around until things settle down."
 		},
 		{
 			"key":"EP08_S0091_0023",
-			"value":"まったく、がけ崩れだけでも大変なのに……"
+			"value":"I can’t believe this is happening. The\nlandslide alone would have been bad enough."
 		},
 		{
 			"key":"EP08_S0091_0024",
-			"value":"がけ崩れだけでも……って\n他にも何かあったんですか？"
+			"value":"Wait, you mean something else happened\nbesides the landslide?"
 		},
 		{
 			"key":"EP08_S0091_0025",
-			"value":"がけ崩れが起きた現場の、古い神社の方で\nクマだか喋るバケモノだかが出たって……"
+			"value":"Yeah, some talking bear monster thing\napparently showed up near that old shrine."
 		},
 		{
 			"key":"EP08_S0091_0026",
-			"value":"とんでもない騒ぎになってるらしい"
+			"value":"Apparently it’s caused quite the scene."
 		},
 		{
 			"key":"EP08_S0091_0027",
-			"value":"バケモノ……？"
+			"value":"A monster?"
 		},
 		{
 			"key":"EP08_S0091_0028",
-			"value":"それって……"
+			"value":"But...how?"
 		},
 		{
 			"key":"EP08_S0091_0029",
-			"value":"あー……いや、もちろん言葉をしゃべるってのは\n何かの間違いだとは思うぞ？"
+			"value":"Oh, I’m sure it can’t actually speak. That\nhas to be some kind of mistake."
 		},
 		{
 			"key":"EP08_S0091_0030",
-			"value":"目撃した人は、よっぽど気が動転してたんだろうな"
+			"value":"The witnesses must have been scared out of\ntheir minds."
 		},
 		{
 			"key":"EP08_S0091_0031",
-			"value":"（このタイミングで、その目撃情報って\n　もしかして……）"
+			"value":"(Considering the timing of those reports,\nI wonder...)"
 		},
 		{
 			"key":"EP08_S0091_0032",
-			"value":"人の言葉を喋るバケモノって、まさか……アグモンか？"
+			"value":"A strange monster that can talk... That\ncouldn’t be Agumon, could it?"
 		},
 		{
 			"key":"EP08_S0091_0033",
-			"value":"いや、アグモンは近くの茂みに隠れてる"
+			"value":"No, no, Agumon’s hiding nearby."
 		},
 		{
 			"key":"EP08_S0091_0034",
-			"value":"（となると、考えられるのって……）"
+			"value":"(Which only leaves one other possibility.)"
 		},
 		{
 			"key":"EP08_S0091_0035",
-			"value":"タクマさん……まさか"
+			"value":"Takuma, you don’t think..."
 		},
 		{
 			"key":"EP08_S0091_0036",
-			"value":"（ミユキの顔が、一気に青ざめた……？）"
+			"value":"(Miyuki’s face just went white as a sheet.)"
 		},
 		{
 			"key":"EP08_S0091_0037",
-			"value":"（どうしよう、すごく嫌な感じがする\n　まさか、こっちの世界に来たのって……！）"
+			"value":"(Oh, this is bad. I don’t like this at all.\nCould this really be who I think it is?)"
 		},
 		{
 			"key":"EP08_S0091_0038",
-			"value":"タクマさん……\n私、なんだかイヤな予感が……"
+			"value":"Takuma... I have a bad feeling about this."
 		},
 		{
 			"key":"EP08_S0091_0039",
-			"value":"い、いや、決めつけるのはまだ早いよ"
+			"value":"Hold on, we can’t be sure of anything yet."
 		},
 		{
 			"key":"EP08_S0091_0040",
-			"value":"ミノルたちのうちの誰かが\nファルコモンたちと一緒にこっちに来てる可能性も……"
+			"value":"For all we know, it could be Minoru and\nFalcomon, or any of the others!"
 		},
 		{
 			"key":"EP08_S0091_0041",
-			"value":"でも、それなら、私たちみたいに\n他の人に見られないよう、隠すんじゃ……"
+			"value":"But if it were, don’t you think they’d know\nto avoid attracting attention, like we did?"
 		},
 		{
 			"key":"EP08_S0091_0042",
-			"value":"（ミユキの言う通りだ）"
+			"value":"(She’s right.)"
 		},
 		{
 			"key":"EP08_S0091_0043",
-			"value":"それに、こっちの世界に戻る直前\n最後の最後まで、私たちの近くにいたのは……"
+			"value":"Besides, if we really didn’t come back alone,\nthere was only one other monster nearby."
 		},
 		{
 			"key":"EP08_S0091_0044",
-			"value":"っ……それって、もしかして……"
+			"value":"Do...do you really think it’s him?"
 		},
 		{
 			"key":"EP08_S0091_0045",
-			"value":"２人とも、どうした？\n心配なことがあるなら、今のうちに先生に……"
+			"value":"What’s gotten into you two? If you’re worried\nabout something, you know you can tell me."
 		},
 		{
 			"key":"EP08_S0091_0046",
-			"value":"ミユキ！　今すぐ確かめに行こう！"
+			"value":"Miyuki! We need to be sure!"
 		},
 		{
 			"key":"EP08_S0091_0047",
-			"value":"うん！"
+			"value":"Right!"
 		},
 		{
 			"key":"EP08_S0091_0048",
-			"value":"って、おい！　２人ともどこへ行くつもりだ！？"
+			"value":"Hey! Where do you think you’re going?!"
 		},
 		{
 			"key":"EP08_S0091_0049",
-			"value":"先生、ごめんなさい！\nどうしても行かなきゃいけないんです！"
+			"value":"Sorry, but we really have to go!"
 		},
 		{
 			"key":"EP08_S0091_0050",
-			"value":"（まずは、アグモンのところに戻らなきゃ……！）"
+			"value":"(First we need to get back to where we left\nAgumon!)"
 		}
 	]
 }

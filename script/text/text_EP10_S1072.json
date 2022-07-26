@@ -2,19 +2,19 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S1072_0001",
-			"value":"ここには、誰もいないね……"
+			"value":"Doesn’t seem like anyone’s here."
 		},
 		{
 			"key":"EP10_S1072_0002",
-			"value":"ハズレ……か\n早くしなきゃならないのに……"
+			"value":"A miss. And here we are, running out of\ntime..."
 		},
 		{
 			"key":"EP10_S1072_0003",
-			"value":"大丈夫だよ、きっとみんな見つかるから"
+			"value":"It’s okay. I know we’ll find them all!"
 		},
 		{
 			"key":"EP10_S1072_0004",
-			"value":"……うん、ありがとうアグモン\nさあ、他の場所を捜してみよう"
+			"value":"You’re right. Thanks, Agumon. Now, let’s try\nsomewhere else."
 		}
 	]
 }

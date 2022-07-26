@@ -2,215 +2,215 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7160_0001",
-			"value":"ミウ、ここにいたのか"
+			"value":"Oh, there you are, Miu."
 		},
 		{
 			"key":"EP11_S7160_0002",
-			"value":"あっ、た、タクマさん……っ"
+			"value":"Wah! T-Takuma?!"
 		},
 		{
 			"key":"EP11_S7160_0003",
-			"value":"ん……？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP11_S7160_0004",
-			"value":"あれ～？\nなんでミウ、シャコモンのうしろにかくれたんだ～？"
+			"value":"That’s weird. Why’d Miu go hide behind\nSyakomon?"
 		},
 		{
 			"key":"EP11_S7160_0005",
-			"value":"さ、さあ……\n僕、なにかしたっけ……？"
+			"value":"Beats me... Did I do something to make her\nupset?"
 		},
 		{
 			"key":"EP11_S7160_0006",
-			"value":"違うのよ、ミウはタクマと\n顔を合わせづらいだけなの"
+			"value":"Oh, no, it’s nothing like that. Miu’s just\nanxious about talking to you."
 		},
 		{
 			"key":"EP11_S7160_0007",
-			"value":"ね、ミウ？"
+			"value":"Isn’t that right, Miu?"
 		},
 		{
 			"key":"EP11_S7160_0008",
-			"value":"うぅ……だって……\nタクマさん、怒ってるかもって思って……"
+			"value":"Yeah, well... I was afraid you’d be mad at\nme."
 		},
 		{
 			"key":"EP11_S7160_0009",
-			"value":"え？　僕が？　どうして？"
+			"value":"Who, me? Why would I be mad at you?"
 		},
 		{
 			"key":"EP11_S7160_0010",
-			"value":"さっきの話し合いのこと……"
+			"value":"You know, because of what I said before..."
 		},
 		{
 			"key":"EP11_S7160_0011",
-			"value":"ミウが、教授の意見に賛成したこと？"
+			"value":"You mean how you agreed with the professor?"
 		},
 		{
 			"key":"EP11_S7160_0012",
-			"value":"やっぱり、怒ってる？"
+			"value":"Yeah... You are mad about that, aren’t you?"
 		},
 		{
 			"key":"EP11_S7160_0013",
-			"value":"（そんな不安そうな顔で聞いてくるなんて……\n　僕、そんな怖い顔でもしてたかな）"
+			"value":"(She looks like she’s practically\nterrified... Do I really seem that upset?)"
 		},
 		{
 			"key":"EP11_S7160_0014",
-			"value":"（もちろん、ミウに怒ってなんかいないし\n　大丈夫だよって慰めるべきだと思うけど……）"
+			"value":"(Obviously I’m not mad at Miu, and I want to\nreassure her that everything’s fine...)"
 		},
 		{
 			"key":"EP11_S7160_0015",
-			"value":"（普通に言って、信じてくれるかな……？）"
+			"value":"(...but is she going to believe me if I just\ntell her not to worry?)"
 		},
 		{
 			"key":"EP11_S7160_0016",
-			"value":"（こういう時、カイトだったらどうするんだろう？\n　頭ポンポン……とかする感じには見えないけど……）"
+			"value":"(What would Kaito do in this situation? Pat\nher on the head? He doesn’t seem the type...)"
 		},
 		{
 			"key":"EP11_S7160_Q1",
-			"value":"（どうやってミウを慰めよう？）"
+			"value":"(How should I comfort Miu?)"
 		},
 		{
 			"key":"EP11_S7160_Q1_A1",
-			"value":"怒ってないよ、と笑顔を見せよう"
+			"value":"Smile reassuringly."
 		},
 		{
 			"key":"EP11_S7160_Q1_A2",
-			"value":"ミウに頭ポンポンしよう"
+			"value":"Pat her on the head."
 		},
 		{
 			"key":"EP11_S7160_0017",
-			"value":"怒ってないよと笑顔を見せる"
+			"value":"Smile reassuringly."
 		},
 		{
 			"key":"EP11_S7160_0018",
-			"value":"大丈夫、僕もみんなも全然怒ってないよ"
+			"value":"It’s okay, Miu. I’m not mad, and neither is\nanyone else."
 		},
 		{
 			"key":"EP11_S7160_0019",
-			"value":"ほ、本当に？"
+			"value":"You mean it?"
 		},
 		{
 			"key":"EP11_S7160_0020",
-			"value":"ああ、本当だよ"
+			"value":"Yes, I really mean it."
 		},
 		{
 			"key":"EP11_S7160_0021",
-			"value":"でも……タクマさん、無理して笑ってる……"
+			"value":"But then...why does your smile look so fake?"
 		},
 		{
 			"key":"EP11_S7160_0022",
-			"value":"（うっ……しまった、さすがに\n　わざとらしかったかも）"
+			"value":"(Urk... This is just what I was afraid might\nhappen.)"
 		},
 		{
 			"key":"EP11_S7160_0023",
-			"value":"ミウ頭をポンポンする"
+			"value":"Pat her on the head."
 		},
 		{
 			"key":"EP11_S7160_0024",
-			"value":"（ええと……まずは、少しかがんで\n　ミウに目線を合わせてから……）"
+			"value":"(Let’s see, first I should crouch down a bit\nso I can look her in the eye, then...)"
 		},
 		{
 			"key":"EP11_S7160_0025",
-			"value":"た、タクマさん……？"
+			"value":"Uh... Takuma?"
 		},
 		{
 			"key":"EP11_S7160_0026",
-			"value":"ミウが心配してるようなことはなにもないよ\nだから、怖がったりしなくていいんだよ"
+			"value":"It’s okay, Miu. I’m not mad at you. You’ve\ngot nothing to be afraid of."
 		},
 		{
 			"key":"EP11_S7160_0027",
-			"value":"わっ……？　わわっ！？\nた、たたっ、タクマさん急になにするの……！！？"
+			"value":"Wh-wh-what?! T-T-Takuma, what are you doing?!"
 		},
 		{
 			"key":"EP11_S7160_0028",
-			"value":"あら～？　ミウの顔が真っ赤になっちゃってる！\n大丈夫……？？？"
+			"value":"Huh? Miu, your face is turning bright red!\nAre you okay?!"
 		},
 		{
 			"key":"EP11_S7160_0029",
-			"value":"だ、大丈夫じゃないよ！！\nこんな……頭ポンポンとか……はずいし……！"
+			"value":"No! No, I’m not okay! I’ve never felt more\nembarrassed! Patting me on the head?!"
 		},
 		{
 			"key":"EP11_S7160_0030",
-			"value":"（しまった……馴れ馴れしかったか……！？）"
+			"value":"(Oh no... Was that maybe going too far?)"
 		},
 		{
 			"key":"EP11_S7160_0031",
-			"value":"あの……なんか、ごめん\nイヤだったよね？"
+			"value":"Um... I’m sorry. I didn’t mean to upset you."
 		},
 		{
 			"key":"EP11_S7160_0032",
-			"value":"……別に、イヤってほどじゃ……\nただちょっとびっくりしただけ！"
+			"value":"It’s...it’s not that I’m upset, exactly...\nYou just surprised me, that’s all!"
 		},
 		{
 			"key":"EP11_S7160_0033",
-			"value":"昔は、お兄ちゃんにもよくしてもらってたし……"
+			"value":"My brother used to do that all the time, you\nknow."
 		},
 		{
 			"key":"EP11_S7160_0034",
-			"value":"とにかく、僕もみんなも\nミウのことを怒ったりなんてしてないよ"
+			"value":"Well, I just wanted you to know I meant what\nI said. Nobody’s mad at you, Miu."
 		},
 		{
 			"key":"EP11_S7160_0035",
-			"value":"なら……いいけど"
+			"value":"Yeah... I hope not."
 		},
 		{
 			"key":"EP11_S7160_0036",
-			"value":"ウチだってね、本当は……\nアオイさんを見捨てるとかじゃなくて……"
+			"value":"Because really, I don’t want to abandon Aoi\nif we can help it..."
 		},
 		{
 			"key":"EP11_S7160_0037",
-			"value":"ミウったら、本当はアオイのこと\nすっごく心配してるのよ"
+			"value":"Miu’s really worried about Aoi, you know."
 		},
 		{
 			"key":"EP11_S7160_0038",
-			"value":"もう！　なんでシャコモンが言っちゃうの！"
+			"value":"Hey! Why’d you say that, Syakomon?!"
 		},
 		{
 			"key":"EP11_S7160_0039",
-			"value":"大丈夫。わかってるよ\nミウはみんなのことを考えてくれたんだよな"
+			"value":"It’s okay, I know that. You’re always\nthinking about others, Miu."
 		},
 		{
 			"key":"EP11_S7160_0040",
-			"value":"ミウは、やさしいんだなー！"
+			"value":"Yeah, you’re really nice!"
 		},
 		{
 			"key":"EP11_S7160_0041",
-			"value":"だって、やっぱり……みんなで一緒に帰りたいし……\nあとね、お兄ちゃんのことがちょっと心配だから"
+			"value":"I just... I want us all to go home together.\nAnd I’m a little worried about my brother."
 		},
 		{
 			"key":"EP11_S7160_0042",
-			"value":"カイトが？"
+			"value":"Why’s that?"
 		},
 		{
 			"key":"EP11_S7160_0043",
-			"value":"お兄ちゃん、すぐ暴走しちゃうでしょ？\nアオイさんのこと、責任感じてたみたいだし……"
+			"value":"Well, you know how he gets sometimes, and\nI think he blames himself for what happened."
 		},
 		{
 			"key":"EP11_S7160_0044",
-			"value":"（そっか……ミウはカイトが心配だから\n　わざと教授の意見に賛成したのかもしれないな……）"
+			"value":"(Now I get it. Miu sided with the professor\nbecause she was worried about Kaito.)"
 		},
 		{
 			"key":"EP11_S7160_0045",
-			"value":"大丈夫だよ\nカイトのことも、ちゃんと見てるからさ"
+			"value":"Well, don’t worry about that either. I’m\nkeeping an eye on Kaito too, you know."
 		},
 		{
 			"key":"EP11_S7160_0046",
-			"value":"そうだぞ～！\nそれに、ドラクモンもついてるから心配ないよ"
+			"value":"Right! Plus, Kaito’s got Dracmon! I’m sure\nhe’ll be fine!"
 		},
 		{
 			"key":"EP11_S7160_0047",
-			"value":"ん……タクマさんたちがそう言うなら\nちょっと安心かも……"
+			"value":"Yeah... Hearing you two say that does make me\nfeel better."
 		},
 		{
 			"key":"EP11_S7160_0048",
-			"value":"ふふっ……それじゃあ、ミウの心配事も\n解決したし、私たちもアオイを捜しに行きましょう～"
+			"value":"Heheh... Well, now that you’ve got nothing\nleft to worry about, let’s go look for Aoi!"
 		},
 		{
 			"key":"EP11_S7160_0049",
-			"value":"うん！\nウチとシャコモンは、山のほうまで行ってみるね！"
+			"value":"Right! Me and Syakomon will go check by the\nmountain!"
 		},
 		{
 			"key":"EP11_S7160_0050",
-			"value":"ウチとシャコモンは、山のほうまで行ってみるね！"
+			"value":"Me and Syakomon will go check by the\nmountain!"
 		}
 	]
 }

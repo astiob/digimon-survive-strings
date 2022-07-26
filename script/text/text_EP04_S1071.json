@@ -2,363 +2,363 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1071_0001",
-			"value":"よし……いったん、全員集合したな\nそろそろ、状況を報告しあおう"
+			"value":"All right, we’re all here. Now, let’s discuss\nour current situation."
 		},
 		{
 			"key":"EP04_S1071_0002",
-			"value":"報告もなにも……\n手がかりひとつ、見つかってねーよ！"
+			"value":"What’s there to discuss? We haven’t found\nanything! Not a single clue!"
 		},
 		{
 			"key":"EP04_S1071_0003",
-			"value":"おい、そうやってすぐに八つ当たりするのやめろ\n焦ってんのは、おめーだけじゃねーんだぞ"
+			"value":"Hey, no need to bite anyone’s head off. It’s\nnot like you’re the only one who’s upset."
 		},
 		{
 			"key":"EP04_S1071_0004",
-			"value":"くっ……すまねえ\nみんなには、手伝ってもらってるのに……"
+			"value":"Urgh... You’re right, I’m sorry. And here\nyou’re all trying to help me..."
 		},
 		{
 			"key":"EP04_S1071_0005",
-			"value":"けど……オレは……！"
+			"value":"But I just can’t stand this!"
 		},
 		{
 			"key":"EP04_S1071_0006",
-			"value":"あんまり気にするなよ"
+			"value":"Hey, don’t worry about it. We understand."
 		},
 		{
 			"key":"EP04_S1071_0007",
-			"value":"でも……これ以上はお手上げだよ\nいったい、どこをどう捜せばいいのか……"
+			"value":"Though I’m not sure what more we can do.\nWhere else are we supposed to look?"
 		},
 		{
 			"key":"EP04_S1071_0008",
-			"value":"そうだなー……とはいえ、ここでうだうだしてるのは\nあんまりよくない気がするしなー"
+			"value":"Beats me. Then again, I get the feeling we\nshouldn’t stand around here too long, either."
 		},
 		{
 			"key":"EP04_S1071_0009",
-			"value":"よくない……とは、どういう意味だ？"
+			"value":"Why not?"
 		},
 		{
 			"key":"EP04_S1071_0010",
-			"value":"いや、単なる勘なんだけどさ\nオレたちが集まってると、決まって来るじゃん？"
+			"value":"Well, it’s just a hunch, but whenever we get\ntogether like this, we also get company."
 		},
 		{
 			"key":"EP04_S1071_0011",
-			"value":"あー、アレがね"
+			"value":"Oh, yeah. I see what you mean."
 		},
 		{
 			"key":"EP04_S1071_0012",
-			"value":"ああ！　アレね！"
+			"value":"Right! How could I forget?"
 		},
 		{
 			"key":"EP04_S1071_0013",
-			"value":"えっと……どういうこと……？"
+			"value":"Wait... I don’t get it..."
 		},
 		{
 			"key":"EP04_S1071_0014",
-			"value":"だからさ、ここでわちゃわちゃ話してると\nまたまた、うるさいちびっ子たちが……"
+			"value":"I’m saying if we stand around here talking\nfor too long those pesky little things will—"
 		},
 		{
 			"key":"EP04_S1071_0015",
-			"value":"我々を、呼んだか！？"
+			"value":"Looking for us?"
 		},
 		{
 			"key":"EP04_S1071_0016",
-			"value":"って、出たーーー！\nほんとに、来たーーー！"
+			"value":"No way! They actually showed up!"
 		},
 		{
 			"key":"EP04_S1071_0017",
-			"value":"ウソっ！？\nほ、ほんとにフラグ回収になっちゃった！"
+			"value":"Seriously?! That’s like, instant\nforeshadowing!"
 		},
 		{
 			"key":"EP04_S1071_0018",
-			"value":"何を驚いてるのよ！\n呼んだのは、そっちでしょ！？"
+			"value":"Hey, don’t act so surprised! You’re the ones\nwho called us out here!"
 		},
 		{
 			"key":"EP04_S1071_0019",
-			"value":"いや呼んでないよ！"
+			"value":"We didn’t call for anyone!"
 		},
 		{
 			"key":"EP04_S1071_0020",
-			"value":"いーや！　呼んだはず！\n今度こそ、決着をつけるために！！！"
+			"value":"You most certainly did! To settle things once\nand for all!"
 		},
 		{
 			"key":"EP04_S1071_0021",
-			"value":"そう！　今度という今度の、今度こそは今度こそ！\nオマエたちを、やっつけてやる！"
+			"value":"That’s right! This time of all times, not any\nother time but this time, we’ll finish you!"
 		},
 		{
 			"key":"EP04_S1071_0022",
-			"value":"女王様の命令だからね！"
+			"value":"Because those are Her Majesty’s orders!"
 		},
 		{
 			"key":"EP04_S1071_0023",
-			"value":"タクマ、どうするの？"
+			"value":"What do we do, Takuma?"
 		},
 		{
 			"key":"EP04_S1071_0024",
-			"value":"うーん、どうしよう……"
+			"value":"Hmm, let me think..."
 		},
 		{
 			"key":"EP04_S1071_0025",
-			"value":"ごちゃごちゃうだうだ……何度も何度も……"
+			"value":"Why those stupid, blabbering, pesky little\nbrats..."
 		},
 		{
 			"key":"EP04_S1071_0026",
-			"value":"か、カイト……？"
+			"value":"K-Kaito?"
 		},
 		{
 			"key":"EP04_S1071_0027",
-			"value":"いい加減に、しやがれってんだああああッ！！！！！"
+			"value":"I’ve HAD IT with you!!!"
 		},
 		{
 			"key":"EP04_S1071_0028",
-			"value":"びゃっ！？"
+			"value":"Eep?!"
 		},
 		{
 			"key":"EP04_S1071_0029",
-			"value":"ひゅっ！？"
+			"value":"Yeep?!"
 		},
 		{
 			"key":"EP04_S1071_0030",
-			"value":"ふひっ！？"
+			"value":"Cheep?!"
 		},
 		{
 			"key":"EP04_S1071_0031",
-			"value":"カイトのやつが……マジギレした……！"
+			"value":"Looks like Kaito’s finally snapped..."
 		},
 		{
 			"key":"EP04_S1071_0032",
-			"value":"テメェら！　これ以上、オレの邪魔をするなら……！"
+			"value":"If you little twerps mess with me one more\ntime—"
 		},
 		{
 			"key":"EP04_S1071_0033",
-			"value":"だ……ダメ！　カイトくん、ダメ！\nお願い落ち着いて！"
+			"value":"Kaito, no! Stop! Please, calm down!"
 		},
 		{
 			"key":"EP04_S1071_0034",
-			"value":"うるせえ！　これ以上我慢できっか！"
+			"value":"Don’t you tell me to calm down! I am DONE\nwith this!"
 		},
 		{
 			"key":"EP04_S1071_0035",
-			"value":"だって、あの子たち怯えてるじゃない！"
+			"value":"But you’re terrifying them!"
 		},
 		{
 			"key":"EP04_S1071_0036",
-			"value":"ふ、ふぐぅ……おっきいニンゲン、怖い……"
+			"value":"*whimper* That big human is scary..."
 		},
 		{
 			"key":"EP04_S1071_0037",
-			"value":"ぐすっ……女王様ぁ……"
+			"value":"*sniff* Oh, Your Majesty..."
 		},
 		{
 			"key":"EP04_S1071_0038",
-			"value":"もうやだよぉ……"
+			"value":"I... I hate this..."
 		},
 		{
 			"key":"EP04_S1071_0039",
-			"value":"泣いてる……"
+			"value":"They’re crying..."
 		},
 		{
 			"key":"EP04_S1071_0040",
-			"value":"泣いてる……"
+			"value":"Crying..."
 		},
 		{
 			"key":"EP04_S1071_0041",
-			"value":"っ……あーもう！　くそ！\nじゃあ、どうしろってんだよ！！"
+			"value":"Okay, fine! Whatever! But what the hell are\nwe supposed to do?!"
 		},
 		{
 			"key":"EP04_S1071_0042",
-			"value":"私が話すから、カイトくんは下がってて！"
+			"value":"I’ll go talk with them. You stay here, Kaito."
 		},
 		{
 			"key":"EP04_S1071_0043",
-			"value":"んなこと、もう何度もやったろうが！\nそれでも無駄だったから……！"
+			"value":"We tried that already, and it didn’t work!"
 		},
 		{
 			"key":"EP04_S1071_0044",
-			"value":"いいから、私に任せてくださいッ！！！"
+			"value":"Just let me handle this!!!"
 		},
 		{
 			"key":"EP04_S1071_0045",
-			"value":"ぐ……っ"
+			"value":"Ergh..."
 		},
 		{
 			"key":"EP04_S1071_0046",
-			"value":"あらあら、今度はアオイちゃんが怒っちゃった"
+			"value":"Oh, great. Now Aoi’s getting mad."
 		},
 		{
 			"key":"EP04_S1071_0047",
-			"value":"カイトの自業自得だわ\nあんな大声で怒鳴ったりして……！"
+			"value":"It’s no more than Kaito deserves! Who does he\nthink he is, yelling like that?"
 		},
 		{
 			"key":"EP04_S1071_0048",
-			"value":"しかし、アオイ君、本当に大丈夫かい？"
+			"value":"But are you sure about this, Aoi?"
 		},
 		{
 			"key":"EP04_S1071_0049",
-			"value":"大丈夫です\nだって、あの子たちは……悪い子じゃないもの"
+			"value":"Of course. It’s not like they’re really that\nbad."
 		},
 		{
 			"key":"EP04_S1071_0050",
-			"value":"ね……ごめんね、怖がらせて"
+			"value":"Listen, I’m sorry we scared you like that."
 		},
 		{
 			"key":"EP04_S1071_0051",
-			"value":"っ……！"
+			"value":"..."
 		},
 		{
 			"key":"EP04_S1071_0052",
-			"value":"少しだけ、近づくけど……何もしないからね"
+			"value":"I’m just going to get a little bit closer,\nokay? I’m not going to try anything."
 		},
 		{
 			"key":"EP04_S1071_0053",
-			"value":"って……あいつ、なんでしゃがんでんだ？"
+			"value":"Hmph... Why’s she crouched down like that?"
 		},
 		{
 			"key":"EP04_S1071_0054",
-			"value":"目線を合わせてる……？"
+			"value":"To look them in the eyes?"
 		},
 		{
 			"key":"EP04_S1071_0055",
-			"value":"アオイちゃんたら、本当に小さい子に\nお話しするみたいにしてるんだわ"
+			"value":"She’s treating them like you would if you\nwere talking to a little kid."
 		},
 		{
 			"key":"EP04_S1071_0056",
-			"value":"あの子たちを、安心させようとしてるのよ"
+			"value":"She doesn’t want them to feel threatened."
 		},
 		{
 			"key":"EP04_S1071_0057",
-			"value":"小さい子って、大人から見下ろされるのを\n怖がったりするでしょ？"
+			"value":"You know how kids can get scared when adults\nlook down at them?"
 		},
 		{
 			"key":"EP04_S1071_0058",
-			"value":"なるほど……！"
+			"value":"Oh, now I get it!"
 		},
 		{
 			"key":"EP04_S1071_0059",
-			"value":"ちょっとだけ、わかるかも……"
+			"value":"Yeah, I think I know what that’s like."
 		},
 		{
 			"key":"EP04_S1071_0060",
-			"value":"僕への……あてつけか……！"
+			"value":"What, are you criticizing me?"
 		},
 		{
 			"key":"EP04_S1071_0061",
-			"value":"ボクは、タクマに見下ろされても\n全然気にしないよー？"
+			"value":"I’m never scared when you look down at me,\nTakuma."
 		},
 		{
 			"key":"EP04_S1071_0062",
-			"value":"しー！\nそれより今は、アオイちゃんの話に集中ね"
+			"value":"Shhh! Let’s focus on Aoi right now."
 		},
 		{
 			"key":"EP04_S1071_0063",
-			"value":"あなたたちの大事な遊園地に、勝手に入って\nごめんね？"
+			"value":"This place obviously means a lot to you, so\nwe’re sorry we came in without permission."
 		},
 		{
 			"key":"EP04_S1071_0064",
-			"value":"だけど、私たちは悪いことをしに来たんじゃなくて\nお友達の妹を捜しに来ただけだから……"
+			"value":"But we’re not here to do anything bad. We’re\nlooking for our friend’s little sister."
 		},
 		{
 			"key":"EP04_S1071_0065",
-			"value":"許してほしいの"
+			"value":"Does that sound okay to you?"
 		},
 		{
 			"key":"EP04_S1071_0066",
-			"value":"そう……なの？"
+			"value":"That’s...really all you’re here for?"
 		},
 		{
 			"key":"EP04_S1071_0067",
-			"value":"（すごい！\n　あいつらが、大人しく話を聞き始めたぞ！）"
+			"value":"(Whoa! They’re actually listening to what Aoi\nhas to say!)"
 		},
 		{
 			"key":"EP04_S1071_0068",
-			"value":"捜してるのはね、ミウちゃんっていう\n小さな女の子なの"
+			"value":"That’s it. We’re looking for a young human\ngirl named Miu."
 		},
 		{
 			"key":"EP04_S1071_0069",
-			"value":"小さな女の子？\nそれなら、女王様と一緒ってこと？"
+			"value":"A young human girl? You mean like the queen?"
 		},
 		{
 			"key":"EP04_S1071_0070",
-			"value":"えっ……！？"
+			"value":"What...?! "
 		},
 		{
 			"key":"EP04_S1071_0071",
-			"value":"あなたたちの女王様は、小さい女の子なの？"
+			"value":"Is your queen a young human girl?"
 		},
 		{
 			"key":"EP04_S1071_0072",
-			"value":"そうよ！　女の子よ！"
+			"value":"That’s right! She is!"
 		},
 		{
 			"key":"EP04_S1071_0073",
-			"value":"あれ？\nじゃあ、女王様なら何か知ってるかも……？"
+			"value":"Oh! So maybe the queen will know something\nabout your friend."
 		},
 		{
 			"key":"EP04_S1071_0074",
-			"value":"ほ、本当？\nだったら、教えてくれないかな？"
+			"value":"Really? Do you think she would tell us?"
 		},
 		{
 			"key":"EP04_S1071_0075",
-			"value":"それは、女王様に聞いてみないとわからない！"
+			"value":"We’d have to ask her to find out!"
 		},
 		{
 			"key":"EP04_S1071_0076",
-			"value":"じゃあ、女王様に聞きに行く？"
+			"value":"Would you mind going to ask her, then?"
 		},
 		{
 			"key":"EP04_S1071_0077",
-			"value":"そうねそうね！\n隠れ家に行って、聞いてみよー！"
+			"value":"We could do that! Let’s go to our secret\nhideout and see what she says!"
 		},
 		{
 			"key":"EP04_S1071_0078",
-			"value":"か、隠れ家って……"
+			"value":"Your...secret hideout?"
 		},
 		{
 			"key":"EP04_S1071_0079",
-			"value":"それじゃあ聞いてくるねー！"
+			"value":"Okay, we’ll go ask!"
 		},
 		{
 			"key":"EP04_S1071_0080",
-			"value":"あっ……！　行っちゃった……"
+			"value":"Wait! Oh, they ran off."
 		},
 		{
 			"key":"EP04_S1071_0081",
-			"value":"あいつら……女王様を小さい女の子って……"
+			"value":"Their queen is...a young human girl?"
 		},
 		{
 			"key":"EP04_S1071_0082",
-			"value":"え、ええ、確かにそう言ってたわ\nミウちゃんと同じ、小さな女の子だって"
+			"value":"Yes, that’s what they said. A young human\ngirl just like Miu."
 		},
 		{
 			"key":"EP04_S1071_0083",
-			"value":"嫌な予感しかしねぇ"
+			"value":"I don’t like this. Not one bit."
 		},
 		{
 			"key":"EP04_S1071_0084",
-			"value":"ん？　どういうことだ？"
+			"value":"Huh? Why not?"
 		},
 		{
 			"key":"EP04_S1071_0085",
-			"value":"おい、みんな！\nあいつらを尾行するぞ！"
+			"value":"Come on! We gotta follow those little guys!"
 		},
 		{
 			"key":"EP04_S1071_0086",
-			"value":"何のためにだ？"
+			"value":"But why?"
 		},
 		{
 			"key":"EP04_S1071_0087",
-			"value":"オレの勘が正しけりゃ、そこに……"
+			"value":"I got a feeling I know what we’ll find if we\ndo."
 		},
 		{
 			"key":"EP04_S1071_0088",
-			"value":"とにかく、見失う前に追いかけるぞ！　こっそりな！"
+			"value":"Don’t lose sight of them, okay? And don’t let\nthem catch on!"
 		},
 		{
 			"key":"EP04_S1071_0089",
-			"value":"わ、わかった……！\nみんな、カイトの言う通りにしよう！"
+			"value":"Uh, okay! Come on, let’s do what Kaito says!"
 		},
 		{
 			"key":"EP04_S1071_0090",
-			"value":"見つからないように、コッソリ\nついていけばいいんだな！"
+			"value":"We gotta follow them so they don’t catch on\nto us, right? I can do that!"
 		}
 	]
 }

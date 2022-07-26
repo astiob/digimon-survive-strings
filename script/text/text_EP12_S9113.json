@@ -2,167 +2,167 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9113_0001",
-			"value":"アオイ、こっちの材料は確認終わったわ！"
+			"value":"Finished going over my part of the\ningredients, Aoi!"
 		},
 		{
 			"key":"EP12_S9113_0002",
-			"value":"ありがとう、こっちももう少しで終わるから\nもうちょっと待っててね"
+			"value":"Thanks. I should be done with mine soon too,\nso hold on just a minute."
 		},
 		{
 			"key":"EP12_S9113_0003",
-			"value":"アオイさん、食材の確認してるの？"
+			"value":"Checking on our ingredients, Aoi?"
 		},
 		{
 			"key":"EP12_S9113_0004",
-			"value":"あら、タクマくん\nええ、残ってるもので献立を考えてたの"
+			"value":"Oh, hi Takuma. Yes, I’ve been thinking of\nwhat to make with what we still have stored."
 		},
 		{
 			"key":"EP12_S9113_0005",
-			"value":"備蓄の残りも少ないし、最後の一息だから\n今日は張り切って料理するわね"
+			"value":"There’s not much left, and since this will\nall be over soon, I want to make a feast."
 		},
 		{
 			"key":"EP12_S9113_0006",
-			"value":"そっか、それは楽しみだな\n何か手伝おうか？"
+			"value":"Sounds good to me! Need any help with\nanything?"
 		},
 		{
 			"key":"EP12_S9113_0007",
-			"value":"うーん、材料の確認はもう済むし\n料理はサキさんが手伝ってくれるから、大丈夫よ"
+			"value":"No, I’m just about done here, and Saki will\nbe helping me cook, so I’m all set."
 		},
 		{
 			"key":"EP12_S9113_0008",
-			"value":"そ、そっか……\nサキがね……"
+			"value":"Oh yeah, Saki..."
 		},
 		{
 			"key":"EP12_S9113_0009",
-			"value":"どうしたのタクマくん？\n何か心配事？"
+			"value":"What is it, Takuma? Is something wrong?"
 		},
 		{
 			"key":"EP12_S9113_0010",
-			"value":"えっと、実は……"
+			"value":"Well, you see..."
 		},
 		{
 			"key":"EP12_S9113_0011",
-			"value":"ゆ、幽霊……？"
+			"value":"A...ghost?"
 		},
 		{
 			"key":"EP12_S9113_0012",
-			"value":"うん、リョウと、それからサキも見たみたいで\nかなり、怖がってるんだ……"
+			"value":"Yeah, apparently both Ryo and Saki have seen\nit, and it left them both pretty scared."
 		},
 		{
 			"key":"EP12_S9113_0013",
-			"value":"そ、そう……幽霊、ね……\nえ、ええ、サキさんが怖がるのも、無理ないわ……"
+			"value":"Oh... Okay... A ghost... Yes, I can... I can\nsee why Saki would be scared."
 		},
 		{
 			"key":"EP12_S9113_0014",
-			"value":"（アオイさんも怖がってるな……）"
+			"value":"(Sounds like Aoi’s pretty scared too.)"
 		},
 		{
 			"key":"EP12_S9113_0015",
-			"value":"（サキと一緒にいてあげてほしいけど\n　アオイさんをこのままってのもなぁ……）"
+			"value":"(I was hoping she could stay and look after\nSaki, but maybe Aoi needs help herself.)"
 		},
 		{
 			"key":"EP12_S9113_Q1",
-			"value":"（アオイさんに何て言おうか……？）"
+			"value":"(What should I say to her?)"
 		},
 		{
 			"key":"EP12_S9113_Q1_A1",
-			"value":"幽霊が出ても大丈夫だよ"
+			"value":"You’ve got Labramon."
 		},
 		{
 			"key":"EP12_S9113_Q1_A2",
-			"value":"サキと一緒にいてあげて"
+			"value":"Stay with Saki?"
 		},
 		{
 			"key":"EP12_S9113_Q1_A3",
-			"value":"幽霊なんていないよ"
+			"value":"It’s not real."
 		},
 		{
 			"key":"EP12_S9113_0016",
-			"value":"幽霊が出ても大丈夫だよ"
+			"value":"You’ve got Labramon."
 		},
 		{
 			"key":"EP12_S9113_0017",
-			"value":"幽霊が出ても大丈夫だよ\nラブラモンが守ってくれるさ"
+			"value":"Hey, I wouldn’t worry about any ghosts if I\nwere you. I’m sure Labramon will protect you."
 		},
 		{
 			"key":"EP12_S9113_0018",
-			"value":"ええ、まかせてアオイ！"
+			"value":"Yeah, you can count on me, Aoi!"
 		},
 		{
 			"key":"EP12_S9113_0019",
-			"value":"え、ええ、そうね。ラブラモンと一緒なら\nきっと大丈夫よね……"
+			"value":"Yes...yes, you’re right. I’m sure everything\nwill be fine as long as Labramon’s with me."
 		},
 		{
 			"key":"EP12_S9113_0020",
-			"value":"でも……うぅ、もし出たら、私……"
+			"value":"But... Oh, I don’t know what I’d do if\nI actually saw a ghost..."
 		},
 		{
 			"key":"EP12_S9113_0021",
-			"value":"（うーん、励ましにはならなかったか……）"
+			"value":"(Hmm, I guess that wasn’t as encouraging as\nI’d hoped.)"
 		},
 		{
 			"key":"EP12_S9113_0022",
-			"value":"サキと一緒にいてあげて"
+			"value":"Stay with Saki?"
 		},
 		{
 			"key":"EP12_S9113_0023",
-			"value":"アオイさん、怖い気持ちはわかるけど\nそれはサキも一緒なんだ"
+			"value":"Listen, Aoi, I know you’re scared, but that’s\nhow Saki feels too."
 		},
 		{
 			"key":"EP12_S9113_0024",
-			"value":"今頃、食堂でアオイさんの帰りを待ってる\nお願いだから、サキと一緒にいてあげて"
+			"value":"Right now, she’s in the cafeteria waiting for\nyou to come back. Can you go stay with her?"
 		},
 		{
 			"key":"EP12_S9113_0025",
-			"value":"そ、そう……そうよね"
+			"value":"Yes... Yes, I can do that."
 		},
 		{
 			"key":"EP12_S9113_0026",
-			"value":"サキさんを不安にさせられないわ！\n早く帰ってあげなきゃ！"
+			"value":"I shouldn’t let Saki worry. I’d better go\nback right away!"
 		},
 		{
 			"key":"EP12_S9113_0027",
-			"value":"ありがとうタクマくん\n私、もう怖くないわ！"
+			"value":"Thanks, Takuma. I’m not scared anymore!"
 		},
 		{
 			"key":"EP12_S9113_0028",
-			"value":"（怖がってても、芯は強いんだな\n　やっぱりアオイさんは頼れる人だ）"
+			"value":"(Even when she’s upset, Aoi has a lot of\ninner strength. You can always count on her.)"
 		},
 		{
 			"key":"EP12_S9113_0029",
-			"value":"幽霊なんていないよ"
+			"value":"It’s not real."
 		},
 		{
 			"key":"EP12_S9113_0030",
-			"value":"大丈夫、幽霊なんていないよ\n怖がることないって"
+			"value":"Hey, don’t worry, it’s not like there’s\nreally a ghost. You don’t have to be scared."
 		},
 		{
 			"key":"EP12_S9113_0031",
-			"value":"そ、そうよね……\n幽霊なんていない、幽霊なんていない……"
+			"value":"Yes...you’re right. There’s no such things as\nghosts. There couldn’t really be..."
 		},
 		{
 			"key":"EP12_S9113_0032",
-			"value":"あれ？　でも、本当に幽霊はいないの……？\nラブラモンたちだっているし、幽霊だって……"
+			"value":"But wait, is that true? Labramon and the\nothers are real. Maybe there are ghosts, too."
 		},
 		{
 			"key":"EP12_S9113_0033",
-			"value":"（しまった。アオイさん、頭いいから\n　こんなことでは誤魔化せないか……）"
+			"value":"(Oops. I forgot how smart Aoi is. Guess\nI shouldn’t have tried to fool her.)"
 		},
 		{
 			"key":"EP12_S9113_0034",
-			"value":"と、とにかく、急いで\nサキさんのところに行かないと！"
+			"value":"Anyway, I’d better get back to Saki as soon\nas I can!"
 		},
 		{
 			"key":"EP12_S9113_0035",
-			"value":"うん、サキのこと、お願いね"
+			"value":"Yeah, take care of her, okay?"
 		},
 		{
 			"key":"EP12_S9113_0036",
-			"value":"ええ、まかせて！"
+			"value":"Don’t worry, I will!"
 		},
 		{
 			"key":"EP12_S9113_0037",
-			"value":"ゆ、幽霊なんていないのはわかってるわ？\nけど、サキさんが怖がってるから、行かないと、ね？"
+			"value":"I...I know there’s no such things as ghosts,\nbut...if Saki’s scared, I’d better go."
 		}
 	]
 }

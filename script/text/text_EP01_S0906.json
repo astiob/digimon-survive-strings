@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0906_0001",
-			"value":"リョウ……？\nいない、のか……？"
+			"value":"Ryo? You here...?"
 		},
 		{
 			"key":"EP01_S0906_0002",
-			"value":"クネモンもいないよ……\nさらわれちゃったのかな……？"
+			"value":"I don’t see him, or Kunemon... Do you think\nthey were taken, too?"
 		},
 		{
 			"key":"EP01_S0906_0003",
-			"value":"まさか、アオイさんをさらったのと同じヤツか……？"
+			"value":"You don’t think the same thing that took Aoi\ngot them, too?"
 		},
 		{
 			"key":"EP01_S0906_0004",
-			"value":"多分……"
+			"value":"Yeah..."
 		},
 		{
 			"key":"EP01_S0906_0005",
-			"value":"くそっ！　ここに残しておくんじゃなかった！"
+			"value":"Shoot, I shouldn’t have left him here!"
 		},
 		{
 			"key":"EP01_S0906_0006",
-			"value":"（教室の隅、リョウがうずくまってたところだけ\n　ホコリが払われてる。そこ、だけ……）"
+			"value":"(Dust has only been disturbed in the corner\nwhere Ryo was sitting. Nowhere else...)"
 		},
 		{
 			"key":"EP01_S0906_0007",
-			"value":"（抵抗するヒマもなかったのか\n　まるで、一瞬のうちに連れ去られたみたいな……）"
+			"value":"(He didn’t even have time to fight back? It’s\nlike they were snatched in an instant...)"
 		},
 		{
 			"key":"EP01_S0906_0008",
-			"value":"敵は、いったいなんなんだ……\nどうすればいいんだ……"
+			"value":"What’s with this enemy...? What can we do\nagainst it?"
 		},
 		{
 			"key":"EP01_S0906_0009",
-			"value":"タクマ！　しっかりして！"
+			"value":"Hang in there, Takuma!"
 		},
 		{
 			"key":"EP01_S0906_0010",
-			"value":"大丈夫！　ボク、もっと気をつける！\nだから急いでみんな助けよう！"
+			"value":"It’s okay, I’ll keep my eyes peeled wide\nopen! So c’mon, let’s go and save everyone!"
 		},
 		{
 			"key":"EP01_S0906_0011",
-			"value":"アグモン……"
+			"value":"Agumon..."
 		},
 		{
 			"key":"EP01_S0906_0012",
-			"value":"そうだな。助け出そう！"
+			"value":"Yeah. Yeah, we’ll save them!"
 		}
 	]
 }

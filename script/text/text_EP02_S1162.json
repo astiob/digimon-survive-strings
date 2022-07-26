@@ -2,31 +2,31 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1162_0001",
-			"value":"この辺りにもいないなー"
+			"value":"Nothing here either."
 		},
 		{
 			"key":"EP02_S1162_0002",
-			"value":"足跡とかもないってことは\nここには来てないのかな？"
+			"value":"There’s not even any footprints or anything.\nI guess they didn’t come this way."
 		},
 		{
 			"key":"EP02_S1162_0003",
-			"value":"うーん……\n何かありそうな気はするんだけど……"
+			"value":"I don’t know... I get the feeling there’s\nsomething here..."
 		},
 		{
 			"key":"EP02_S1162_0004",
-			"value":"何かって？"
+			"value":"Oh? What kind of “something”?"
 		},
 		{
 			"key":"EP02_S1162_0005",
-			"value":"うーん……ごめん、わかんない"
+			"value":"Mmm... Sorry, I’m not sure."
 		},
 		{
 			"key":"EP02_S1162_0006",
-			"value":"そうか……"
+			"value":"Oh. Okay..."
 		},
 		{
 			"key":"EP02_S1162_0007",
-			"value":"何かありそうな気はするんだけどな……"
+			"value":"I really do feel like there’s something\nhere..."
 		}
 	]
 }

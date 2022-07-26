@@ -2,39 +2,39 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1008_0001",
-			"value":"ミノルは探索したい派だったよな\nアグモンは、外に出ることどう思う？"
+			"value":"Minoru’s in favor of exploring. What do you\nthink of leaving here, Agumon?"
 		},
 		{
 			"key":"EP03_S1008_0002",
-			"value":"う～ん……？　わかんないなぁ"
+			"value":"Uhhh, I dunno."
 		},
 		{
 			"key":"EP03_S1008_0003",
-			"value":"わかんないってのは、何がわかんないんだ？"
+			"value":"What’s keeping you from making up your mind?"
 		},
 		{
 			"key":"EP03_S1008_0004",
-			"value":"えっとね……タクマが出たいって言うなら出たいし\nここにいたいって言うならボクもいたい"
+			"value":"Well, if you wanted to go explore, I’d want\nto go too. If you wanted to stay, so would I."
 		},
 		{
 			"key":"EP03_S1008_0005",
-			"value":"どっちだってボクはタクマを守るよ！"
+			"value":"Either way, I’d protect you!"
 		},
 		{
 			"key":"EP03_S1008_0006",
-			"value":"はぁ……そういうことを聞きたいんじゃないけど"
+			"value":"*sigh*... Not exactly the kind of answer\nI was looking for."
 		},
 		{
 			"key":"EP03_S1008_0007",
-			"value":"ま、ありがとな、アグモン"
+			"value":"Still, thanks, Agumon."
 		},
 		{
 			"key":"EP03_S1008_0008",
-			"value":"へへへ～"
+			"value":"Eheheh..."
 		},
 		{
 			"key":"EP03_S1008_0009",
-			"value":"どうしたタクマ？\nミノルに話しかけないのか？"
+			"value":"What’s wrong, Takuma? Aren’t you going to\ntalk with Minoru?"
 		}
 	]
 }

@@ -2,139 +2,139 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S7106_0001",
-			"value":"え、メール？"
+			"value":"Huh? A text?"
 		},
 		{
 			"key":"EP12_S7106_0002",
-			"value":"お兄ちゃんの携帯に、メールが届いてたの？"
+			"value":"Kaito got one just now?"
 		},
 		{
 			"key":"EP12_S7106_0003",
-			"value":"そうなんだ。それもいきなり……\nしかも文字化けも少なくなっててさ"
+			"value":"Yeah, completely out of nowhere. And it was\nless garbled than before."
 		},
 		{
 			"key":"EP12_S7106_0004",
-			"value":"なにそれ！\nどんなメールだったの？"
+			"value":"Are you serious? What did it say?"
 		},
 		{
 			"key":"EP12_S7106_0005",
-			"value":"えーと、なんかミウのお迎えがどうとか\n牛乳がどうとかだったような……？"
+			"value":"Uh, something about picking you up and\ngetting milk?"
 		},
 		{
 			"key":"EP12_S7106_0006",
-			"value":"お母さんからのメール！？"
+			"value":"So it was from Mom?!"
 		},
 		{
 			"key":"EP12_S7106_0007",
-			"value":"そう……なのかな？\nミウのところには、届いてない？"
+			"value":"I...guess? Did you get one too?"
 		},
 		{
 			"key":"EP12_S7106_0008",
-			"value":"まって、今確認する！\nお兄ちゃんにきてるなら、ウチにも――！"
+			"value":"Hold on, I’ll check! If Kaito got one, then\nI’m sure I..."
 		},
 		{
 			"key":"EP12_S7106_0009",
-			"value":"あ……ウチには、届いてない……"
+			"value":"Oh... I...didn’t get anything."
 		},
 		{
 			"key":"EP12_S7106_0010",
-			"value":"（どうしよう、泣きそうな顔してる）\n　ここは、何とかして励ますべきだよな）"
+			"value":"(Oh no, she looks like she’s about to cry.\nI should say something to cheer her up.)"
 		},
 		{
 			"key":"EP12_S7106_0011",
-			"value":"（きっと単なる偶然だろうから\n　そう言うのが一番かな……）"
+			"value":"(Probably the best thing to do would be to\nsay it was just some weird coincidence,)"
 		},
 		{
 			"key":"EP12_S7106_0012",
-			"value":"（それとも、もしかして寂しいの？　って\n　聞いてみるとか……）"
+			"value":"(though I could ask if she’s actually feeling\njealous about this.)"
 		},
 		{
 			"key":"EP12_S7106_Q1",
-			"value":"（ミウをどう励まそう？）"
+			"value":"(How should I cheer up Miu?)"
 		},
 		{
 			"key":"EP12_S7106_Q1_A1",
-			"value":"単なる偶然だと慰めよう"
+			"value":"Say it’s coincidence."
 		},
 		{
 			"key":"EP12_S7106_Q1_A2",
-			"value":"もしかして寂しい？　と聞こう"
+			"value":"Ask if she’s jealous."
 		},
 		{
 			"key":"EP12_S7106_0013",
-			"value":"単なる偶然だと慰める"
+			"value":"Say it’s coincidence."
 		},
 		{
 			"key":"EP12_S7106_0014",
-			"value":"た、単なる偶然だよ"
+			"value":"Listen, I’m sure it’s just some weird\ncoincidence."
 		},
 		{
 			"key":"EP12_S7106_0015",
-			"value":"でも……"
+			"value":"I don’t know..."
 		},
 		{
 			"key":"EP12_S7106_0016",
-			"value":"ほ、ほら！　こっちの世界と元の世界じゃ\n時間の流れが違うしさ……！"
+			"value":"No, really! Remember how time works\ndifferently in this world than in ours?"
 		},
 		{
 			"key":"EP12_S7106_0017",
-			"value":"それに、僕の携帯にも\nメールは入ってなかったし……！"
+			"value":"And hey, I didn’t get a message on my phone\neither."
 		},
 		{
 			"key":"EP12_S7106_0018",
-			"value":"タクマさんも……？"
+			"value":"You...you didn’t?"
 		},
 		{
 			"key":"EP12_S7106_0019",
-			"value":"うん！　だから、気にすることじゃないって！"
+			"value":"No, I didn’t. So I don’t think you should be\nconcerned about not getting one."
 		},
 		{
 			"key":"EP12_S7106_0020",
-			"value":"もしかして寂しい？　と聞く"
+			"value":"Ask if she’s jealous."
 		},
 		{
 			"key":"EP12_S7106_0021",
-			"value":"もしかして、カイトにだけメールが届いて\n寂しいとか？　なーんて……ははっ"
+			"value":"Wait, are you actually jealous about this?\nYou’re not really feeling left out, are you?"
 		},
 		{
 			"key":"EP12_S7106_0022",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP12_S7106_0023",
-			"value":"（しまった、ほっぺた膨らませてる……）"
+			"value":"(Oh no, she looks really upset...)"
 		},
 		{
 			"key":"EP12_S7106_0024",
-			"value":"お兄ちゃんだけ……"
+			"value":"This is... This is messed up!"
 		},
 		{
 			"key":"EP12_S7106_0025",
-			"value":"（う……や、やっぱり泣く……？）"
+			"value":"(Oh no...now she’s definitely going to cry.)"
 		},
 		{
 			"key":"EP12_S7106_0026",
-			"value":"ずるいなぁーもうっ！"
+			"value":"It’s not fair!"
 		},
 		{
 			"key":"EP12_S7106_0027",
-			"value":"お家に帰ったら、お母さんに文句言っちゃうんだから！\nお兄ちゃんばっかー！　って！"
+			"value":"I’m so yelling at Mom when we get back home!\nTelling her she’s too worried about Kaito!"
 		},
 		{
 			"key":"EP12_S7106_0028",
-			"value":"（な、泣かなかった……！\n　けど……本当はやっぱり寂しいのかな）"
+			"value":"(Well...she didn’t cry. But I guess she\nreally was feeling left out.)"
 		},
 		{
 			"key":"EP12_S7106_0029",
-			"value":"そうだな……家に帰ったら\nいっぱい言ってやりなよ……！"
+			"value":"You do that! Really give her a piece of your\nmind when you get back home."
 		},
 		{
 			"key":"EP12_S7106_0030",
-			"value":"えへへ……うん！"
+			"value":"Eheheh, I will!"
 		},
 		{
 			"key":"EP12_S7106_0031",
-			"value":"なんでウチにはメールしないのーって、お家に帰ったら\nお母さんに文句言ってやるんだから……！"
+			"value":"I’m yelling at Mom when we get back! I’m\ngonna tell her she should text me too!"
 		}
 	]
 }

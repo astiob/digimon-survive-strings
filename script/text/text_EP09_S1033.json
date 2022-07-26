@@ -2,375 +2,375 @@
 	"scenario_text":[
 		{
 			"key":"EP09_S1033_0001",
-			"value":"タクマ、教授いたぞ～！"
+			"value":"Hey Takuma, the professor’s over there!"
 		},
 		{
 			"key":"EP09_S1033_0002",
-			"value":"本当だ\n教授ー！"
+			"value":"Oh, you’re right. Hey, Professor!"
 		},
 		{
 			"key":"EP09_S1033_0003",
-			"value":"おや、タクマくんにアグモン"
+			"value":"Ah! Takuma, Agumon."
 		},
 		{
 			"key":"EP09_S1033_0004",
-			"value":"あぁ、すまない\nもしかして捜させてしまったかな？"
+			"value":"Apologies, were you searching for me,\nperhaps?"
 		},
 		{
 			"key":"EP09_S1033_0005",
-			"value":"あ、いえ、見当たらなかったので\nつい捜してしまいました……"
+			"value":"Ah, not exactly. I didn’t see you, so I just\nended up looking..."
 		},
 		{
 			"key":"EP09_S1033_0006",
-			"value":"壁画……\n調べていたんですか？"
+			"value":"The murals... Did you get to look into them?"
 		},
 		{
 			"key":"EP09_S1033_0007",
-			"value":"うむ、ここ１層目と一つ下の２層目のものについては\nかなり調査が進んだと思うよ"
+			"value":"Indeed. I’ve done extensive research on the\nfirst level here, and the second one below."
 		},
 		{
 			"key":"EP09_S1033_0008",
-			"value":"更に、つい先日３層目も発見し\nそこでも壁画を見つけたんだ"
+			"value":"I only just found the third level the other\nday. There’s a mural there, too."
 		},
 		{
 			"key":"EP09_S1033_0009",
-			"value":"すごい！\nもしかして、何かわかったんですか！？"
+			"value":"Wow! Does that mean you’ve figured something\nout?!"
 		},
 		{
 			"key":"EP09_S1033_0010",
-			"value":"う～ん、どうかな……\n今の状況に役立つかわからないが"
+			"value":"Hmm, I wonder... I don’t know if this will\nhelp the present situation, but..."
 		},
 		{
 			"key":"EP09_S1033_0011",
-			"value":"よければ聞かせてもらえませんか？"
+			"value":"Would you tell me about your findings?"
 		},
 		{
 			"key":"EP09_S1033_0012",
-			"value":"では、どこから説明しようか？"
+			"value":"Now then, where should I start?"
 		},
 		{
 			"key":"EP09_S1033_Q1",
-			"value":"（どの階層について訊ねよう？）"
+			"value":"(Which level should I ask about?)"
 		},
 		{
 			"key":"EP09_S1033_Q1_A1",
-			"value":"１層目"
+			"value":"The first level."
 		},
 		{
 			"key":"EP09_S1033_Q1_A2",
-			"value":"２層目"
+			"value":"The second level."
 		},
 		{
 			"key":"EP09_S1033_Q1_A3",
-			"value":"３層目"
+			"value":"The third level."
 		},
 		{
 			"key":"EP09_S1033_0013",
-			"value":"１層目"
+			"value":"The first level."
 		},
 		{
 			"key":"EP09_S1033_0014",
-			"value":"ここに描かれているのは、ケモノガミに祈りを捧げる\n人間たちと巫女の様子だね"
+			"value":"This depicts humans and a maiden praying to\nthe Kemonogami."
 		},
 		{
 			"key":"EP09_S1033_0015",
-			"value":"人間とケモノガミが共存していたんですか！？"
+			"value":"Humans and Kemonogami coexisted?!"
 		},
 		{
 			"key":"EP09_S1033_0016",
-			"value":"この壁画を信じるなら、そういうことになる"
+			"value":"Apparently, if you believe this mural."
 		},
 		{
 			"key":"EP09_S1033_0017",
-			"value":"注目すべきはここ、巫女だ\n他に比べて明らかに詳細に描かれている"
+			"value":"The maiden is of particular note here. She is\ndepicted with much more detail than the rest."
 		},
 		{
 			"key":"EP09_S1033_0018",
-			"value":"古来より巫女は神の代弁者としての側面もあった\n恐らくケモノガミと人間を繋ぐ存在だったんだろうね"
+			"value":"Traditionally, they serve as intermediaries.\nShe may have been one for the Kemonogami."
 		},
 		{
 			"key":"EP09_S1033_0019",
-			"value":"ケモノガミと人間を繋ぐ、巫女……"
+			"value":"A maiden acting as intermediary between\nKemonogami and humans..."
 		},
 		{
 			"key":"EP09_S1033_0020",
-			"value":"そしてこの壁画……\nタクマくん、君にはどう見える？"
+			"value":"As for this mural... What do you see here, my\nboy?"
 		},
 		{
 			"key":"EP09_S1033_0021",
-			"value":"えっと……凶暴なケモノたちが、暴れまわっている？"
+			"value":"Umm... Vicious monsters on a rampage?"
 		},
 		{
 			"key":"EP09_S1033_0022",
-			"value":"う～ん、五十点といったところかな\nよく見てごらん？　家や人の姿があるだろう"
+			"value":"Hmm, I’ll give you half credit. Look closer,\nwould you? You can see houses and humans."
 		},
 		{
 			"key":"EP09_S1033_0023",
-			"value":"あ、本当だ……なんだかまるで\nケモノたちから逃げ回っているような……"
+			"value":"Ah, you’re right... It’s almost like they’re\nrunning away from the monsters..."
 		},
 		{
 			"key":"EP09_S1033_0024",
-			"value":"そうだね、私にもそのように見える"
+			"value":"Yes, I view it the same way."
 		},
 		{
 			"key":"EP09_S1033_0025",
-			"value":"恐らくこれは、私たちの世界で暴れたケモノの姿を\n描いたものだろう"
+			"value":"Perhaps these are monsters that ran rampant\nin our world."
 		},
 		{
 			"key":"EP09_S1033_0026",
-			"value":"世界中に残る神話や伝承には、時に怪物が登場するが\nその怪物とはケモノガミではないか、と考えている"
+			"value":"I think the monsters that appear in legends\naround our world are based on Kemonogami."
 		},
 		{
 			"key":"EP09_S1033_0027",
-			"value":"そ、そうなんですか！？"
+			"value":"Wh-what?! Are you serious?!"
 		},
 		{
 			"key":"EP09_S1033_0028",
-			"value":"まぁ、この壁画を根拠にすれば\nそうも考えられる、という程度の仮説ではあるがね"
+			"value":"Well, that hypothesis relies on this mural as\nsupporting evidence, but it’s plausible."
 		},
 		{
 			"key":"EP09_S1033_0029",
-			"value":"２層目"
+			"value":"The second level."
 		},
 		{
 			"key":"EP09_S1033_0030",
-			"value":"区切られた二つの領域と\nそれぞれに立つ人型とケモノたち……"
+			"value":"The two areas are demarcated, with humans and\nmonsters standing on respective sides..."
 		},
 		{
 			"key":"EP09_S1033_0031",
-			"value":"この壁画に描かれているのは恐らく\n我々の世界とこの世界、ということだろう"
+			"value":"This mural could delineate the two worlds—\nour world, and the one we’re in right now."
 		},
 		{
 			"key":"EP09_S1033_0032",
-			"value":"なるほど、人間とケモノガミ\n互いに別々の世界で暮らしているんですね"
+			"value":"Oh okay, so the humans and Kemonogami each\nlive in their own world."
 		},
 		{
 			"key":"EP09_S1033_0033",
-			"value":"ただ違う世界というわけではないよ\n世界の間を繋ぐように、何かあるだろう？"
+			"value":"It’s not just about different worlds. What’s\nthat in the middle, connecting the two?"
 		},
 		{
 			"key":"EP09_S1033_0034",
-			"value":"世界を繋ぐもの……これってもしかして\nゲートですか！？"
+			"value":"Connecting the two... Could this be a gate?!"
 		},
 		{
 			"key":"EP09_S1033_0035",
-			"value":"だろうね……ピエモンはこのゲートを開いて\n私たちの世界へ侵攻しようとしていたのだろう"
+			"value":"Most likely... Piedmon opened this gate to\nlead an attack on our world, I’d say."
 		},
 		{
 			"key":"EP09_S1033_0036",
-			"value":"ゲート……ミユキの他にも、世界を繋げられる人が\nいたってことでしょうか？"
+			"value":"A gate... Does that mean there were others\nlike Miyuki who could connect the worlds?"
 		},
 		{
 			"key":"EP09_S1033_0037",
-			"value":"個人なのか、広く伝わる技術なのか……\nいずれにせよ失われた技なのだろうね"
+			"value":"Perhaps people, or a technique passed down...\nAt any rate, the method has been lost."
 		},
 		{
 			"key":"EP09_S1033_0038",
-			"value":"これをご覧\n非常に重要なことが描かれていると思わないかね？"
+			"value":"Look at this. Don’t you think something\nincredibly important is depicted here?"
 		},
 		{
 			"key":"EP09_S1033_0039",
-			"value":"えっ！？\n人間とケモノが、ゲートに吸いこまれてる……？"
+			"value":"What?! Humans and monsters are getting...\nsucked into the gate?"
 		},
 		{
 			"key":"EP09_S1033_0040",
-			"value":"そう。何かしらの原因でゲートに不具合が生じ\n二つの世界へ飛ばされる者が出たのだろう"
+			"value":"Indeed. Some were flung between the worlds,\ndue to some unknown malfunction in the gate.  "
 		},
 		{
 			"key":"EP09_S1033_0041",
-			"value":"姿を消した者は、もう一つの世界へ渡ったのだ"
+			"value":"Those who disappeared simply crossed over to\nthe adjoining world."
 		},
 		{
 			"key":"EP09_S1033_0042",
-			"value":"それって、僕たちみたいな……"
+			"value":"You mean, like we did..."
 		},
 		{
 			"key":"EP09_S1033_0043",
-			"value":"ああ。神隠しと呼ばれる現象のいくつかは\nゲートの不具合によるものなのだろう……"
+			"value":"Indeed. No doubt some of the disappearances\noccurred when the gate malfunctioned."
 		},
 		{
 			"key":"EP09_S1033_0044",
-			"value":"……ゲートが開いた原因って、何なんでしょう？"
+			"value":"So then...what causes the gate to open in the\nfirst place?"
 		},
 		{
 			"key":"EP09_S1033_0045",
-			"value":"さぁ……単なる事故なのか、それともミユキくんの\nようにゲートを操作できる者がいたのか……"
+			"value":"Who knows? Might be a simple accident, or\nsomeone like Miyuki controlling the gate..."
 		},
 		{
 			"key":"EP09_S1033_0046",
-			"value":"今の段階では、何とも言えないね"
+			"value":"I cannot say at this juncture."
 		},
 		{
 			"key":"EP09_S1033_0047",
-			"value":"そうですか……"
+			"value":"I see..."
 		},
 		{
 			"key":"EP09_S1033_0048",
-			"value":"３層目"
+			"value":"The third level."
 		},
 		{
 			"key":"EP09_S1033_0049",
-			"value":"実は、この階層の調査は\nまだほとんどできていなくてね"
+			"value":"I’ve barely started my investigation into\nthis level."
 		},
 		{
 			"key":"EP09_S1033_0050",
-			"value":"壁画についても、わかっていることは少ないんだよ"
+			"value":"I don’t know much about the contents of this\nmural, either."
 		},
 		{
 			"key":"EP09_S1033_0051",
-			"value":"その上で解説すると……\nこの壁画は、何やら物騒に見えるね"
+			"value":"Analyzing the top part here... This mural\nseems to depict some kind of disturbance."
 		},
 		{
 			"key":"EP09_S1033_0052",
-			"value":"そうですね……人間とケモノ、でしょうか？\nみんな慌ててるように見えます"
+			"value":"Yeah... You mean the humans and monsters,\nright? They’re all freaking out."
 		},
 		{
 			"key":"EP09_S1033_0053",
-			"value":"うむ、何か大きな力によって\n多くの者が悲しむような事態になった……"
+			"value":"Yes, many of them are upset due to some\nincredible power..."
 		},
 		{
 			"key":"EP09_S1033_0054",
-			"value":"見ただけでわかるのはそこまでだね"
+			"value":"That’s all I can tell from observation alone."
 		},
 		{
 			"key":"EP09_S1033_0055",
-			"value":"それぞれの壁画には繋がりがあるようにも思えるのだが\nそうすると時系列がどうなっているのか……"
+			"value":"Each of the murals seem connected, but the\ntimeline is hard to pin down, and..."
 		},
 		{
 			"key":"EP09_S1033_0056",
-			"value":"あ、あの、教授？"
+			"value":"Um, Earth to Professor?"
 		},
 		{
 			"key":"EP09_S1033_0057",
-			"value":"あぁ、すまない。思考に没頭してしまった\n次の壁画に移ろう"
+			"value":"Oh, pardon me. Adrift in the ocean of my own\nthoughts again. Come, onto the next mural."
 		},
 		{
 			"key":"EP09_S1033_0058",
-			"value":"とは言え、だ……この壁画はあまりに謎が多い"
+			"value":"Or so I would like to say, but...this mural\nis simply replete with mysteries."
 		},
 		{
 			"key":"EP09_S1033_0059",
-			"value":"何でしょうか……下の方では人間たちが苦しんでて\n上の方は……これもケモノガミでしょうか？"
+			"value":"Let’s see... Humans are suffering on the\nbottom, and on the top...are Kemonogami?"
 		},
 		{
 			"key":"EP09_S1033_0060",
-			"value":"ふむ……大陸から伝わった伝承に四神というものがある\nこのケモノガミはその四神の特徴と合致するような……"
+			"value":"Hrrm... These Kemonogami share aspects of the\nfour god-like beings in ancient legends..."
 		},
 		{
 			"key":"EP09_S1033_0061",
-			"value":"それに、この上下に別れた構図も気になる\n古来より、上は楽園、下は冥府を意味するものだが……"
+			"value":"This composition bothers me. Traditionally,\nheaven would be on top, hell on bottom..."
 		},
 		{
 			"key":"EP09_S1033_0062",
-			"value":"……ふぅ、何とも言えんな\nこじつけレベルの解釈しかできない"
+			"value":"...Goodness, I’m truly at a loss. The most\nI could offer is slipshod conjecture."
 		},
 		{
 			"key":"EP09_S1033_0063",
-			"value":"他も見てみるかい？"
+			"value":"Want to look at anything else?"
 		},
 		{
 			"key":"EP09_S1033_Q2",
-			"value":"（教授に何て答えよう？）"
+			"value":"(What should I say?)"
 		},
 		{
 			"key":"EP09_S1033_Q2_A1",
-			"value":"見る"
+			"value":"Look."
 		},
 		{
 			"key":"EP09_S1033_Q2_A2",
-			"value":"見ない"
+			"value":"Don’t look."
 		},
 		{
 			"key":"EP09_S1033_0064",
-			"value":"さて、今説明できるのはこのくらいかな"
+			"value":"Well now, I believe that’s as far as I can\nexplain things for now."
 		},
 		{
 			"key":"EP09_S1033_0065",
-			"value":"ありがとうございました\n勉強になりました"
+			"value":"Thank you very much! I learned a lot."
 		},
 		{
 			"key":"EP09_S1033_0066",
-			"value":"まぁ、このサバイバル生活に役立つ情報では\nなさそうだがねぇ……"
+			"value":"Well, I doubt much of what you learned will\nhelp increase our chances for survival..."
 		},
 		{
 			"key":"EP09_S1033_0067",
-			"value":"（そうだ、あの団地でのこと……\n　ミユキとの関係を教授に聞きたかったんだ）"
+			"value":"(Oh yeah... I wanted to ask the professor how\nthe apartment complex is related to Miyuki.)"
 		},
 		{
 			"key":"EP09_S1033_0068",
-			"value":"あの、教授……ミユキは――"
+			"value":"Hey Professor, about Miyuki..."
 		},
 		{
 			"key":"EP09_S1033_0069",
-			"value":"っ！"
+			"value":"Ah!"
 		},
 		{
 			"key":"EP09_S1033_0070",
-			"value":"あぁ、そろそろ約束の時間だね\n校舎に戻らなくては"
+			"value":"Would you look at the time! We have to get\nback to the school building."
 		},
 		{
 			"key":"EP09_S1033_0071",
-			"value":"え？　あ、あの、教授……！"
+			"value":"Huh? Hey, Professor..."
 		},
 		{
 			"key":"EP09_S1033_0072",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP09_S1033_0073",
-			"value":"聞きたいことが何なのかはわかっているが\nそれは些細な話に過ぎないよ"
+			"value":"I know you have questions, but the answers\nwould be paltry at best."
 		},
 		{
 			"key":"EP09_S1033_0074",
-			"value":"今は目的の為だけになることを知っていればいい"
+			"value":"You should stick to knowledge that will\nassist in achieving our current goal."
 		},
 		{
 			"key":"EP09_S1033_0075",
-			"value":"ど、どういうことですか……？"
+			"value":"Wh-what makes you say that?"
 		},
 		{
 			"key":"EP09_S1033_0076",
-			"value":"何だったんだ……？"
+			"value":"What was that all about?"
 		},
 		{
 			"key":"EP09_S1033_0077",
-			"value":"わっ！？"
+			"value":"Wah!"
 		},
 		{
 			"key":"EP09_S1033_0078",
-			"value":"あ、なんだメールか"
+			"value":"Oh, it’s just a text."
 		},
 		{
 			"key":"EP09_S1033_0079",
-			"value":"……えっ！？　メール！？\nなんで、電波はないはずじゃ……！"
+			"value":"...Wait, what?! A text?! I thought we didn’t\nget any reception here!"
 		},
 		{
 			"key":"EP09_S1033_0080",
-			"value":"……また文字化けメールか"
+			"value":"Oh...another garbled text."
 		},
 		{
 			"key":"EP09_S1033_0081",
-			"value":"んん……？　前よりも少しだけ読めるようになってる？\nところどころ、読めなくもないような……"
+			"value":"Wait a... I can read a little, now? Only bits\nand pieces, but still..."
 		},
 		{
 			"key":"EP09_S1033_0082",
-			"value":"タクマー？\nみんな待ってるんじゃないのかー？"
+			"value":"Hey Takuma? Everyone’s waiting, aren’t they?"
 		},
 		{
 			"key":"EP09_S1033_0083",
-			"value":"あ、そうだった！\nすぐ行こう！"
+			"value":"Oh, you’re right! We’d better go!"
 		},
 		{
 			"key":"EP09_S1033_0084",
-			"value":"お～う！"
+			"value":"Aye aye!"
 		},
 		{
 			"key":"EP09_S1033_0085",
-			"value":"（教授の意味深な言葉と\n　文字化けメール……）"
+			"value":"(The professor’s intriguing words, and now\nthis garbled text...)"
 		},
 		{
 			"key":"EP09_S1033_0086",
-			"value":"（何か大事なことのような気がするけど……\n　駄目だ、よくわからないや）"
+			"value":"(Something big might be going down here...\nBut man, I honestly can’t tell what.)"
 		}
 	]
 }

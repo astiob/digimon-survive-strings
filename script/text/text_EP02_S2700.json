@@ -2,103 +2,103 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2700_0001",
-			"value":"ふぅ……食料はどこにあるのかしら？"
+			"value":"Where would there be food?"
 		},
 		{
 			"key":"EP02_S2700_0002",
-			"value":"ん～？　今、変な音がしたぞ～？"
+			"value":"What? Did you hear that?"
 		},
 		{
 			"key":"EP02_S2700_0003",
-			"value":"アオイさん……今の音、聞いた？"
+			"value":"Did you hear that, Aoi?"
 		},
 		{
 			"key":"EP02_S2700_0004",
-			"value":"ええ……\nまるで、水道の蛇口を捻った音のようだったけど……"
+			"value":"I did. It sounded like someone was turning\noff a water faucet..."
 		},
 		{
 			"key":"EP02_S2700_0007",
-			"value":"あれ？　みんな……\nどうしてここに？"
+			"value":"Oh, it’s you guys...\nWhat’re you doing here?"
 		},
 		{
 			"key":"EP02_S2700_0008",
-			"value":"え……ハルくん？"
+			"value":"Haru? Is that you?!"
 		},
 		{
 			"key":"EP02_S2700_0009",
-			"value":"わ～、ハルだ～！"
+			"value":"It’s Haru!"
 		},
 		{
 			"key":"EP02_S2700_0010",
-			"value":"ハル、もしかしてだけど\nさっき水道を使った？"
+			"value":"Haru, did you just use the water faucet over\nthere?"
 		},
 		{
 			"key":"EP02_S2700_0011",
-			"value":"うん、いけなかった？"
+			"value":"Yes. Why, shouldn’t I?"
 		},
 		{
 			"key":"EP02_S2700_0012",
-			"value":"水が使えるの？"
+			"value":"Is there water?"
 		},
 		{
 			"key":"EP02_S2700_0013",
-			"value":"え？　……うん、普通に水は出るよ"
+			"value":"What? It comes out like it always does."
 		},
 		{
 			"key":"EP02_S2700_0014",
-			"value":"つまり……水道は生きてる！？"
+			"value":"Which means...we have plumbing?!"
 		},
 		{
 			"key":"EP02_S2700_0015",
-			"value":"なんだ……こんなにあっけなく水が手に入っちゃった"
+			"value":"That was easy! \nWe have water, all of a sudden!"
 		},
 		{
 			"key":"EP02_S2700_Q1",
-			"value":"（アオイさん、拍子抜けしてるみたいだ）"
+			"value":"(Aoi seems a bit deflated.)"
 		},
 		{
 			"key":"EP02_S2700_Q1_A1",
-			"value":"素直に喜ぼう"
+			"value":"Try to be happy here."
 		},
 		{
 			"key":"EP02_S2700_Q1_A2",
-			"value":"確かにおかしい……"
+			"value":"Kinda weird, huh?"
 		},
 		{
 			"key":"EP02_S2700_0016",
-			"value":"まぁ、目的は一つ達成できたんだから\nここは素直に喜ぼうよ"
+			"value":"Well, we met one of our goals, so let’s be\nhappy about that for now."
 		},
 		{
 			"key":"EP02_S2700_0017",
-			"value":"え、ええ、そうね……\n大切な飲み水が見つかったのだもの"
+			"value":"Okay, sure...\nDrinking water is important."
 		},
 		{
 			"key":"EP02_S2700_0018",
-			"value":"水道って、素晴らしいわね……"
+			"value":"And it’s amazing that the water even works..."
 		},
 		{
 			"key":"EP02_S2700_0019",
-			"value":"おかしいよね？　壁も床もボロボロで\n誰もいない雰囲気なのに、なんで水道だけ？"
+			"value":"Weird, huh? The walls and floors are a mess,\neverything looks abandoned, but water?"
 		},
 		{
 			"key":"EP02_S2700_0020",
-			"value":"そういえばシーツや毛布も、\n風化したりカビてる様子もなかったわね……"
+			"value":"Now that I think about it, none of the sheets\nor blankets showed any wear or mildew..."
 		},
 		{
 			"key":"EP02_S2700_0021",
-			"value":"ひょっとして誰か管理している人がいる？\nいえ、この荒れようはそんな感じでは……"
+			"value":"Is someone maintaining everything?\nBut it all seems so worn down..."
 		},
 		{
 			"key":"EP02_S2700_0022",
-			"value":"なんにせよ、よかったわ\nこれでライフラインの一つは確保ね"
+			"value":"It’s all good.\nWe needed this lifeline."
 		},
 		{
 			"key":"EP02_S2700_0023",
-			"value":"ひょっとしてこのタテモノの中に、\nまだ何か使える物があるかもよ！？"
+			"value":"Maybe that means there’s something we can use\ninside this building!"
 		},
 		{
 			"key":"EP02_S2700_0024",
-			"value":"そうね、他にも探してみましょう"
+			"value":"Anyway, let’s keep looking."
 		}
 	]
 }

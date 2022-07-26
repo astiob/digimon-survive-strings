@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1711_0001",
-			"value":"危ない！"
+			"value":"Look out!"
 		},
 		{
 			"key":"EP02_S1711_0002",
-			"value":"な、なんだ！？"
+			"value":"What the—?!"
 		},
 		{
 			"key":"EP02_S1711_0003",
-			"value":"チ……勘のいいやつだ"
+			"value":"Whoa. Good instincts!"
 		},
 		{
 			"key":"EP02_S1711_0004",
-			"value":"よくオレに気づいたな……"
+			"value":"You're lucky you noticed me..."
 		},
 		{
 			"key":"EP02_S1711_0005",
-			"value":"ひぃぃっ……！"
+			"value":"Yeeep...!"
 		},
 		{
 			"key":"EP02_S1711_0006",
-			"value":"さっきの怪物！"
+			"value":"That monster!"
 		},
 		{
 			"key":"EP02_S1711_0007",
-			"value":"んのやろー！　よくもタクマを！"
+			"value":"Hey! Leave Takuma alone!"
 		},
 		{
 			"key":"EP02_S1711_0008",
-			"value":"……ふん"
+			"value":"...Hmph."
 		},
 		{
 			"key":"EP02_S1711_0009",
-			"value":"次は仕留めるぜ"
+			"value":"Next time I'll finish you!"
 		},
 		{
 			"key":"EP02_S1711_0010",
-			"value":"行ったみたいだな……\n大丈夫かタクマ"
+			"value":"Seems like the coast is clear...\nAre you okay, Takuma?"
 		},
 		{
 			"key":"EP02_S1711_0011",
-			"value":"あ、ありがとう……\n危なかった……"
+			"value":"Thank you...\nThat was close..."
 		},
 		{
 			"key":"EP02_S1711_0012",
-			"value":"ヤツはまた襲ってくるだろう\n十分に注意していこう"
+			"value":"It’ll probably attack again.\nWe have to be careful."
 		}
 	]
 }

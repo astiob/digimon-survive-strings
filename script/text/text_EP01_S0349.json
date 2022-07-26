@@ -2,43 +2,43 @@
     "scenario_text": [
         {
             "key": "EP01_S0349_0001",
-            "value": "アオイ～！　アオイ、どこなの！？\n返事して～！"
+            "value": "Aoi? Aoi, where are you?! Answer meee!"
         },
         {
             "key": "EP01_S0349_0002",
-            "value": "ラブラモン！　アオイさんは！？"
+            "value": "Labramon! Still no sign of Aoi?"
         },
         {
             "key": "EP01_S0349_0003",
-            "value": "いない……いないわ！\nうっ、うぅ……どこに行ったの？"
+            "value": "No...nothing at all! Oh, Aoi...where could\nyou have gone?!"
         },
         {
             "key": "EP01_S0349_0004",
-            "value": "（ラブラモン、焦ってる……\n　アオイさんのことをものすごく心配してるんだな）"
+            "value": "(Labramon’s in a panic. She’s incredibly\nworried about Aoi...)"
         },
         {
             "key": "EP01_S0349_0005",
-            "value": "大丈夫、みんな捜してるんだ\nすぐに見つかるよ"
+            "value": "It’s gonna be okay, we’re all looking for\nher. We’ll find her in no time!"
         },
         {
             "key": "EP01_S0349_0006",
-            "value": "そ、そうね……私ももっと頑張るわ！\n絶対助けるもの！"
+            "value": "Yeah, you’re right... I’ll turn it up\na notch! We’ll definitely save her!"
         },
         {
             "key": "EP01_S0349_0007",
-            "value": "（ラブラモン、あんなに必死になって……\n　絶対にアオイさんを見つけなきゃ！）"
+            "value": "(Look how desperate she is... We’ve gotta\ntrack down Aoi!)"
         },
         {
             "key": "EP01_S0349_0008",
-            "value": "ラブラモン、僕、<color=#B41919>他のところ</color>を捜してくるよ！"
+            "value": "I’ll go check <color=#B41919>somewhere else</color>, Labramon!"
         },
         {
             "key": "EP01_S0349_0009",
-            "value": "ええ、お願い！"
+            "value": "Okay, go for it!"
         },
         {
             "key": "EP01_S0349_0010",
-            "value": "（ラブラモンは必死に捜してる\n　僕も他のところを捜そう！）"
+            "value": "(Labramon is searching frantically. I’ll try\nmy luck in another spot!)"
         }
     ]
 }

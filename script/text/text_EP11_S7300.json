@@ -2,215 +2,215 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S7300_0001",
-			"value":"私……どうして、あの時のこと……"
+			"value":"Why am I remembering that now?"
 		},
 		{
 			"key":"EP11_S7300_0002",
-			"value":"アオイ？\n大丈夫？　顔色が良くないわ"
+			"value":"Aoi? Are you okay? Your face looks pale..."
 		},
 		{
 			"key":"EP11_S7300_0003",
-			"value":"平気……よ"
+			"value":"I’m...fine."
 		},
 		{
 			"key":"EP11_S7300_0004",
-			"value":"そんなこと言って……昨日から全然寝てないのよ？\n森の中を、一晩中歩き続けて……"
+			"value":"If you say so. But you’ve haven’t slept after\nwalking all night in the forest..."
 		},
 		{
 			"key":"EP11_S7300_0005",
-			"value":"（そう……だったかしら……\n　なんだか、時間の感覚がよくわからない）"
+			"value":"(That’s true... Time feels a little strange\nright now.)"
 		},
 		{
 			"key":"EP11_S7300_0006",
-			"value":"（ついさっきまで、あの図書館にいたような\n　気がしたけれど……）"
+			"value":"(It feels like only moments ago I was in the\nlibrary.)"
 		},
 		{
 			"key":"EP11_S7300_0007",
-			"value":"（そもそも、私……どうして\n　こんな所を歩き続けてるのかしら……）"
+			"value":"(Why was I walking out here in the first\nplace...?)"
 		},
 		{
 			"key":"EP11_S7300_0008",
-			"value":"ねえ……もうみんなの所に戻りましょう？\nきっと心配してるわ"
+			"value":"Maybe we should go back to the others.\nThey’re probably worried."
 		},
 		{
 			"key":"EP11_S7300_0009",
-			"value":"みんな……？"
+			"value":"The others...?"
 		},
 		{
 			"key":"EP11_S7300_0010",
-			"value":"そうよ、みんなよ！\nタクマや、ミノル、カイトにミウ！　教授だって……！"
+			"value":"Yes, the others! Takuma, Minoru, and Kaito!\nAnd the professor!"
 		},
 		{
 			"key":"EP11_S7300_0011",
-			"value":"みんな、アオイを待ってるはずよ"
+			"value":"I bet they’re waiting anxiously for you."
 		},
 		{
 			"key":"EP11_S7300_0012",
-			"value":"私だって……図書館でアオイの姿が消えてるのに\n気づいた時、どれほど心配したか……"
+			"value":"Do you know how worried I was when you\ndisappeared from the library?"
 		},
 		{
 			"key":"EP11_S7300_0013",
-			"value":"サキ……さんは……"
+			"value":"And what about...Saki?"
 		},
 		{
 			"key":"EP11_S7300_0014",
-			"value":"え……？"
+			"value":"Huh...?"
 		},
 		{
 			"key":"EP11_S7300_0015",
-			"value":"（いやだ……私、今何を言ったの？\n　サキさんはもうとっくに……！）"
+			"value":"(What am I saying? Why did Saki pop into my\nhead?)"
 		},
 		{
 			"key":"EP11_S7300_0016",
-			"value":"（そう……そうだったわ。サキさんが死んでしまって\n　私、悲しくて悔しくて……！）"
+			"value":"(Oh, now I remember... Saki died, and I felt\nso sad, so much regret...)"
 		},
 		{
 			"key":"EP11_S7300_0017",
-			"value":"（そしたら、あの図書館でサキさんに再会して……\n　でも、サキさんはまた消えてしまって……）"
+			"value":"(I saw her at the library... But then she\ndisappeared again.)"
 		},
 		{
 			"key":"EP11_S7300_0018",
-			"value":"（違う……あのサキさんは、本物じゃなかった\n　だけど、私がサキさんを救えなかったのは事実で……）"
+			"value":"(No! That wasn’t the real Saki... But it’s\nstill true that I failed to save her.)"
 		},
 		{
 			"key":"EP11_S7300_0019",
-			"value":"（サキさんを失ったのは、私のせい……だから……）"
+			"value":"(Saki is gone because of me. That’s why I’m\nout here...)"
 		},
 		{
 			"key":"EP11_S7300_0020",
-			"value":"ダメよ。私、みんなに合わせる顔なんてない……"
+			"value":"I can’t bear to see everyone now. Not like\nthis."
 		},
 		{
 			"key":"EP11_S7300_0021",
-			"value":"どうして、そんなこと……"
+			"value":"Why would you say that?"
 		},
 		{
 			"key":"EP11_S7300_0022",
-			"value":"（本当は……ラブラモンにだって……）"
+			"value":"(Even Labramon doesn’t really...)"
 		},
 		{
 			"key":"EP11_S7300_0023",
-			"value":"（いいえ……わかってる\n　ラブラモンは、私を大切に思ってくれてるから）"
+			"value":"(No. Labramon cares about me. I know that\nmuch.)"
 		},
 		{
 			"key":"EP11_S7300_0024",
-			"value":"（だから、わざわざ私を追いかけてきてくれたのよ\n　ラブラモンの優しさを、むげにするわけには……）"
+			"value":"(That’s why Labramon came looking for me.\nI can’t reject that kindness.)"
 		},
 		{
 			"key":"EP11_S7300_0025",
-			"value":"（……あれ？　でも、じゃあ……サキさんは……？）"
+			"value":"(Hm... But then what about Saki?)"
 		},
 		{
 			"key":"EP11_S7300_0026",
-			"value":"（サキさんは、私の手を……離した\n　私の思いを……サキさんは、拒絶したの……？）"
+			"value":"(Saki let go of my hand. She rejected me...\n...and my feelings.)"
 		},
 		{
 			"key":"EP11_S7300_0027",
-			"value":"アオイ……サキのことで、あなたがとても\n悲しんでるのはわかってる"
+			"value":"Listen, Aoi. I know you’re sad about Saki."
 		},
 		{
 			"key":"EP11_S7300_0028",
-			"value":"でも……ひとりで思い悩まないで\n私には、本音を言って……全部話して"
+			"value":"But you can’t keep it all pent up inside.\nTell me what you’re feeling..."
 		},
 		{
 			"key":"EP11_S7300_0029",
-			"value":"私の、本音……"
+			"value":"What I’m feeling...?"
 		},
 		{
 			"key":"EP11_S7300_0030",
-			"value":"そうよ。アオイが不安に思うこと、つらいこと\n悲しいこと……私には、話してほしいの"
+			"value":"Yes. Tell me what’s bothering you, what\nhurts, what makes you sad... Everything."
 		},
 		{
 			"key":"EP11_S7300_0031",
-			"value":"（そんな……そんなの……\n　それができていれば、とっくに私は……）"
+			"value":"(No... No. If I’d saved Saki, none of this\nwould be happening...)"
 		},
 		{
 			"key":"EP11_S7300_0032",
-			"value":"でも……私が本音を伝えたら、和が乱れるじゃない\n先生も、クラスのみんなも、困るじゃない"
+			"value":"I don’t want to burden my teacher and\nclassmates with my personal feelings."
 		},
 		{
 			"key":"EP11_S7300_0033",
-			"value":"あ、アオイ……？\n先生……？　クラスって……？"
+			"value":"Your teacher and classmates? What are you\ntalking about, Aoi?"
 		},
 		{
 			"key":"EP11_S7300_0034",
-			"value":"そうよ……私が……私が全部飲み込んで我慢することで\n私は、クラスのみんなを守ったの"
+			"value":"Now I understand. I was able to protect them\nby keeping everything bottled up inside..."
 		},
 		{
 			"key":"EP11_S7300_0035",
-			"value":"（だけど、今回は……\n　サキさんを守れなかった）"
+			"value":"(But that didn’t protect Saki...)"
 		},
 		{
 			"key":"EP11_S7300_0036",
-			"value":"（私が弱いから……\n　私が……どこかでサキさんに遠慮してたから……）"
+			"value":"(Because I’m weak. I held back too much from\nher.)"
 		},
 		{
 			"key":"EP11_S7300_0037",
-			"value":"（私が……『私』のままだったから……\n　私が『元の世界の私』を、引きずっていたから……）"
+			"value":"(Because I was the same old me. I was the me\nfrom before, from our world...)"
 		},
 		{
 			"key":"EP11_S7300_0038",
-			"value":"だから……今度こそ、私は私を卒業するべきなのよ……\nもう二度と間違わないように……"
+			"value":"Now it’s finally time for me to graduate.\nI won’t make the same mistake twice."
 		},
 		{
 			"key":"EP11_S7300_0039",
-			"value":"あ、アオイ……？"
+			"value":"Um, Aoi...?"
 		},
 		{
 			"key":"EP11_S7300_0040",
-			"value":"我慢するだけの私……遠慮するだけの私……\nそんなもの……みんなを守るのに、邪魔……だもの"
+			"value":"I’m done with holding back. That won’t help\nme protect the others."
 		},
 		{
 			"key":"EP11_S7300_0041",
-			"value":"そう……そうだわ\n最初から、もっと強く主張すべきだったのよね"
+			"value":"Yes... I should’ve been more assertive, from\nthe very beginning."
 		},
 		{
 			"key":"EP11_S7300_0042",
-			"value":"みんなを、世界を守るためには\n全員がわかり合って、等しく助け合うべきだったって"
+			"value":"We all should’ve been more understanding,\nhelped each other more..."
 		},
 		{
 			"key":"EP11_S7300_0043",
-			"value":"そうすれば、絶対にサキさんを助けられたもの……！"
+			"value":"Then we would’ve been able to save Saki!"
 		},
 		{
 			"key":"EP11_S7300_0044",
-			"value":"アオイ……！\nさっきから何を言ってるの？"
+			"value":"Aoi! What are you talking about?"
 		},
 		{
 			"key":"EP11_S7300_0045",
-			"value":"私たちが救われる方法よ"
+			"value":"A way to save us all."
 		},
 		{
 			"key":"EP11_S7300_0046",
-			"value":"そう……やっぱり私は間違ってない\nなによりも大事なのは、調和と協調……！"
+			"value":"I wasn’t wrong... Harmony and cooperation ARE\nthe most important things!"
 		},
 		{
 			"key":"EP11_S7300_0047",
-			"value":"つまり、みんなが私と同じ『気持ち』になること……\nそうすれば、争いも、誰かの死もおとずれない"
+			"value":"If everyone felt the same as me, there’d be\nno more fighting... No more death."
 		},
 		{
 			"key":"EP11_S7300_0048",
-			"value":"だって、私の理想は……全員が助け合って\n穏やかに平和に生きることだもの"
+			"value":"I just want a world where everyone works\ntogether. A calm, and peaceful world."
 		},
 		{
 			"key":"EP11_S7300_0049",
-			"value":"アオ、イ……？"
+			"value":"Are you sure you’re okay, Aoi?"
 		},
 		{
 			"key":"EP11_S7300_0050",
-			"value":"（そのために必要なのは、みんなに私の考えを\n　理解してもらうことだわ）"
+			"value":"(I just need everyone to understand exactly\nhow I feel.)"
 		},
 		{
 			"key":"EP11_S7300_0051",
-			"value":"（そう……全員でひとつになるの！）"
+			"value":"(We must all...become one.)"
 		},
 		{
 			"key":"EP11_S7300_0052",
-			"value":"（私の考えを……調和を拒否するのは間違ってる\n　間違ってるから、サキさんのような結末を生む）"
+			"value":"(I was wrong to reject the idea of group\nharmony. That’s why Saki had to die.)"
 		},
 		{
 			"key":"EP11_S7300_0053",
-			"value":"（それを防ぐには……みんなのほうが\n　私と同じになればいいんだわ）"
+			"value":"(The only way to prevent that...is for\neveryone to be the same as me.)"
 		}
 	]
 }

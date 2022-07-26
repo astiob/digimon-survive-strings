@@ -2,31 +2,31 @@
     "scenario_text": [
         {
             "key": "EP05_S2003_0001",
-            "value": "あ、ねぇタクマ！"
+            "value": "Hey, Takuma?"
         },
         {
             "key": "EP05_S2003_0002",
-            "value": "どうしたの、ラブラモン？"
+            "value": "What is it, Labramon?"
         },
         {
             "key": "EP05_S2003_0003",
-            "value": "あそこ！　水の中に何かあるの！"
+            "value": "There! There’s something in the water!"
         },
         {
             "key": "EP05_S2003_0004",
-            "value": "え、どこ？　……見えないよ？"
+            "value": "Really? Where? I don’t see a thing."
         },
         {
             "key": "EP05_S2003_0005",
-            "value": "本当にあるの！　ニンゲンには見えづらいのかしら？\nなんだか大事なもののような気がするのよ！"
+            "value": "I’m sure I saw something! Maybe it’s hard for\nhumans to see? My nose says it’s important!"
         },
         {
             "key": "EP05_S2003_0006",
-            "value": "（人間には見えづらいもの……\n　あ、そうだ。<color=#B41919>カメラ</color>で見えるかもしれない）"
+            "value": "(Humans can’t see it... Oh, I know. I’ll try\n<color=#B41919>looking with my camera</color>.)"
         },
         {
             "key": "EP05_S2003_0007",
-            "value": "シュウジには関係ないかもしれないけど\n水の中、調べてみて！"
+            "value": "It may be related to Shuuji somehow. Maybe\nyou can check in the water?"
         }
     ]
 }

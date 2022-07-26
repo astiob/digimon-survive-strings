@@ -2,207 +2,207 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1410_0001",
-			"value":"あれ？　ハル、とミユキも一緒か\n何をしてるんだ？"
+			"value":"Hm? Haru, oh, and Miyuki too. What are you\ntwo doing?"
 		},
 		{
 			"key":"EP03_S1410_0002",
-			"value":"（紐を指に巻きつけてる……？\n　見たことあるような……何だったっけ？）"
+			"value":"(He’s...wrapping string around his fingers?\nIt almost seems familiar, but why?)"
 		},
 		{
 			"key":"EP03_S1410_0003",
-			"value":"あやとり"
+			"value":"Cat’s cradle."
 		},
 		{
 			"key":"EP03_S1410_0004",
-			"value":"そうだ、あやとり！　それって昔の遊びだよね？\nよく知ってるな？"
+			"value":"Oh, right! That old game you play with\nstring. I’m surprised you know how to do it."
 		},
 		{
 			"key":"EP03_S1410_0005",
-			"value":"うん。お姉ちゃんが、これ好きだから"
+			"value":"My sister loves this game."
 		},
 		{
 			"key":"EP03_S1410_0006",
-			"value":"……"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S1410_0007",
-			"value":"そうなんだ……"
+			"value":"Oh, okay..."
 		},
 		{
 			"key":"EP03_S1410_0008",
-			"value":"（その割には遊んでるのはハルだけで\n　ミユキは見てるだけのように見えるけど）"
+			"value":"(He says that, but it looks to me like he’s\nplaying and Miyuki is just watching.)"
 		},
 		{
 			"key":"EP03_S1410_0009",
-			"value":"それってどう遊ぶんだ？\nボクもやりたい！"
+			"value":"How does it work? I want to play too!"
 		},
 		{
 			"key":"EP03_S1410_0010",
-			"value":"わっかにしたひもを、指でいろんな形にするの"
+			"value":"You tie a string into a loop, then use your\nfingers to make shapes."
 		},
 		{
 			"key":"EP03_S1410_0011",
-			"value":"でも、きみの指じゃむずかしいかも"
+			"value":"But it might be hard with fingers like yours."
 		},
 		{
 			"key":"EP03_S1410_0012",
-			"value":"そうなのかー……"
+			"value":"Oh, man..."
 		},
 		{
 			"key":"EP03_S1410_0013",
-			"value":"（呑気だな……これからのこと\n　ちゃんと考えてるのかな？）"
+			"value":"(Haru sure seems relaxed. Has he given any\nthought to what might happen next?)"
 		},
 		{
 			"key":"EP03_S1410_0014",
-			"value":"（あぁ、でも、ハルはまだ小さいし\n　静かに遊んでるくらいがちょうどいいのかな）"
+			"value":"(Then again, he’s still pretty young. Maybe\nit’s best that he plays quietly by himself.)"
 		},
 		{
 			"key":"EP03_S1410_Q1",
-			"value":"（二人になんて声をかけようか……）"
+			"value":"(What should I say to those two?)"
 		},
 		{
 			"key":"EP03_S1410_Q1_A1",
-			"value":"遊んでいる場合じゃない……"
+			"value":"Stop playing games!"
 		},
 		{
 			"key":"EP03_S1410_Q1_A2",
-			"value":"僕もやってみたいな"
+			"value":"Let me play, too."
 		},
 		{
 			"key":"EP03_S1410_Q1_A3",
-			"value":"ミユキに意見を聞いてみるか"
+			"value":"Any thoughts, Miyuki?"
 		},
 		{
 			"key":"EP03_S1410_0015",
-			"value":"遊んでいることを叱る"
+			"value":"Scold them."
 		},
 		{
 			"key":"EP03_S1410_0016",
-			"value":"二人とも、今どういう状況かわかってる？\nどうやって生き残るか、みんな真剣に考えてるんだぞ？"
+			"value":"Do you even realize the situation we’re in?!\nWe’re all trying to think of how to survive!"
 		},
 		{
 			"key":"EP03_S1410_0017",
-			"value":"二人はまだ小さいからって\n遊んでばかりいたらダメじゃないか"
+			"value":"I don’t care if you are little kids, you\ncan’t just spend all your time playing games!"
 		},
 		{
 			"key":"EP03_S1410_0018",
-			"value":"どっちでも変わらないよ"
+			"value":"It doesn’t matter what we do."
 		},
 		{
 			"key":"EP03_S1410_0019",
-			"value":"え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP03_S1410_0020",
-			"value":"ここにいても、外に出ても、見つかればおしまい"
+			"value":"Whether we stay in here or go outside. If we\nget found out, we’re done for."
 		},
 		{
 			"key":"EP03_S1410_0021",
-			"value":"息を殺して隠れるのが一番だけど\n見つかったらすぐ逃げる。それだけ"
+			"value":"The best thing to do is hide, then run if\nwe’re found out. That’s all there is to it."
 		},
 		{
 			"key":"EP03_S1410_0022",
-			"value":"見つかる……って、誰に？\n誰から逃げるんだ？"
+			"value":"Found out...by who? Who are you running from?"
 		},
 		{
 			"key":"EP03_S1410_0023",
-			"value":"……ん、お姉ちゃん？"
+			"value":"Hm? Miyuki?"
 		},
 		{
 			"key":"EP03_S1410_0024",
-			"value":"遊びに交ぜてもらう"
+			"value":"Ask to play."
 		},
 		{
 			"key":"EP03_S1410_0025",
-			"value":"僕もやってみたいな\nやり方、教えてくれないか？"
+			"value":"I’d like to try playing, too. Would you teach\nme how?"
 		},
 		{
 			"key":"EP03_S1410_0026",
-			"value":"ん……いいよ"
+			"value":"Yeah, sure."
 		},
 		{
 			"key":"EP03_S1410_0027",
-			"value":"最初はこうで……この指でひっかけて\nこっちははずす"
+			"value":"You start out like this, then catch the\nstring with this finger, and let go here."
 		},
 		{
 			"key":"EP03_S1410_0028",
-			"value":"おー！　タクマ上手ー！"
+			"value":"Whoa! You’re really good at that, Takuma!"
 		},
 		{
 			"key":"EP03_S1410_0029",
-			"value":"（おぉ、星型になった……\n　意外と楽しいな）"
+			"value":"(Huh, now it looks like a star. This is\nsurprisingly fun.)"
 		},
 		{
 			"key":"EP03_S1410_0030",
-			"value":"（二人のことまだよくわからないから、仲良くなれれば\n　って思ったけど、こうしてると普通の子供みたいだな）"
+			"value":"(I was hoping to learn more about these two,\nbut right now they seem like ordinary kids.)"
 		},
 		{
 			"key":"EP03_S1410_0031",
-			"value":"ねぇ、ミユキもできる？　何かやってみて\n……あれ？"
+			"value":"Can you do this too, Miyuki? Why don’t you\nshow me...huh?"
 		},
 		{
 			"key":"EP03_S1410_0032",
-			"value":"ミユキに意見を聞く"
+			"value":"Ask Miyuki’s opinion."
 		},
 		{
 			"key":"EP03_S1410_0033",
-			"value":"ミユキは……何か考えはある？"
+			"value":"So, Miyuki...any thoughts?"
 		},
 		{
 			"key":"EP03_S1410_0034",
-			"value":"…………"
+			"value":"..."
 		},
 		{
 			"key":"EP03_S1410_0035",
-			"value":"えーっと、つまり……外に出るか、ここにいるか\nどっちがいいかな、って"
+			"value":"Uh, you know, about whether we should stay in\nhere or look around outside?"
 		},
 		{
 			"key":"EP03_S1410_0036",
-			"value":"どっちでもいいんじゃない？"
+			"value":"Does it really matter?"
 		},
 		{
 			"key":"EP03_S1410_0037",
-			"value":"あー……ハル？　今はミユキに聞いてるから"
+			"value":"Um, Haru, I was asking Miyuki just now."
 		},
 		{
 			"key":"EP03_S1410_0038",
-			"value":"ここにいても、外に出ても……彼らに襲われるし\n何も見つからない……どちらも同じよ"
+			"value":"In here, out there... They’ll attack. We’ll\nfind nothing. Either way, it’s the same. "
 		},
 		{
 			"key":"EP03_S1410_0039",
-			"value":"え……！\n今、喋った……？"
+			"value":"Wha...?! You actaully answered?"
 		},
 		{
 			"key":"EP03_S1410_0040",
-			"value":"お姉ちゃん……？"
+			"value":"Miyuki...?"
 		},
 		{
 			"key":"EP03_S1410_0041",
-			"value":"すー……すー……"
+			"value":"Zzz... Zzz..."
 		},
 		{
 			"key":"EP03_S1410_0042",
-			"value":"（寝てる……？　突然だな）"
+			"value":"(She’s...asleep? That was fast.)"
 		},
 		{
 			"key":"EP03_S1410_0043",
-			"value":"お姉ちゃん、つかれてたみたい\nおこさないであげて"
+			"value":"My sister is tired. You should let her sleep."
 		},
 		{
 			"key":"EP03_S1410_0044",
-			"value":"あ、ああ、そうなのか……"
+			"value":"Uh, yeah. I guess..."
 		},
 		{
 			"key":"EP03_S1410_0045",
-			"value":"それじゃあアグモン、僕たちは他のところに行こうか\n静かにね"
+			"value":"All right, Agumon, we’d better head somewhere\nelse. You know, quietly."
 		},
 		{
 			"key":"EP03_S1410_0046",
-			"value":"お～う"
+			"value":"You got it!"
 		},
 		{
 			"key":"EP03_S1410_0047",
-			"value":"お姉ちゃん、おこさないであげて\n他のみんなの話、聞いてきたら？"
+			"value":"You should let my sister sleep. Why don’t you\ngo talk to the others?"
 		}
 	]
 }

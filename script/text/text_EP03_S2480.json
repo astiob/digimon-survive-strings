@@ -2,127 +2,127 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S2480_0001",
-			"value":"おぉ、マジでロープウェイだ……"
+			"value":"Wow, it’s an actual cable car."
 		},
 		{
 			"key":"EP03_S2480_0002",
-			"value":"ほほう、これが……"
+			"value":"What a curious device."
 		},
 		{
 			"key":"EP03_S2480_0003",
-			"value":"ここも校舎に負けず劣らず朽ちかけてるのね"
+			"value":"It looks every bit as run down and decrepit\nas that school."
 		},
 		{
 			"key":"EP03_S2480_0004",
-			"value":"これ、ロープウェイは動いてるのか？"
+			"value":"Does this thing actually work?"
 		},
 		{
 			"key":"EP03_S2480_0005",
-			"value":"決まった時間ごとに自動で動いているんです\nもう少ししたら来ると思いますよ"
+			"value":"The cars run automatically on a schedule.\nOne should be here soon."
 		},
 		{
 			"key":"EP03_S2480_0100",
-			"value":"え、電気が通ってるんですか！？\nあの校舎では電気も点かなかったのに……"
+			"value":"Wait, you mean there’s electricity here?!\nThere wasn’t any at the school..."
 		},
 		{
 			"key":"EP03_S2480_0101",
-			"value":"電気じゃなくて不思議な力で動いてたりして\nファルコモンたちもいるし、そういうのもあんじゃね？"
+			"value":"I bet it’s some other weird power source. Not\nso far-fetched compared to our little pals."
 		},
 		{
 			"key":"EP03_S2480_0102",
-			"value":"自動で動くって、ほ、本当に大丈夫なのか？\n途中で落ちたりしないだろうね？"
+			"value":"So this thing runs...automatically? Are you\nsure it won’t drop us halfway to the top?"
 		},
 		{
 			"key":"EP03_S2480_0006",
-			"value":"自動運転？　ほ、本当に大丈夫なのか？\n途中で落ちたりしないだろうね？"
+			"value":"They run...automatically? Are you sure that’s\nsafe? I’d hate for it to snap partway up."
 		},
 		{
 			"key":"EP03_S2480_0007",
-			"value":"えぇっ！？　そ、そんなのムリ～！"
+			"value":"What?! There is no way I’m getting on that\nthing!"
 		},
 		{
 			"key":"EP03_S2480_0008",
-			"value":"あんな高い所から落ちたら\n私もぺしゃんこだわ"
+			"value":"Yeah, a fall from that height and even I’d be\ndone for."
 		},
 		{
 			"key":"EP03_S2480_0009",
-			"value":"お、落ちるの！？　そんなのダメよ！\n乗るのやめましょう！"
+			"value":"We could fall?! That would be terrible!\nWe’d better not ride on it."
 		},
 		{
 			"key":"EP03_S2480_0010",
-			"value":"安心してください。乗り物もロープもかなり頑丈です\n今までこれを壊したモノはいませんでした"
+			"value":"Don’t worry. The cars and the cable are both\nquite sturdy. Nothing’s ever broken them."
 		},
 		{
 			"key":"EP03_S2480_0011",
-			"value":"ほっ……よかったぁ"
+			"value":"Phew... That’s a relief."
 		},
 		{
 			"key":"EP03_S2480_0012",
-			"value":"ここ、他に人はいないんでしょうか？\n整備をする人や管理人くらいいてもいいと思いますが"
+			"value":"Is there no one else here? I’d expect there\nwould at least be a maintenance worker."
 		},
 		{
 			"key":"EP03_S2480_0013",
-			"value":"いえ、誰もいませんでしたよ？"
+			"value":"No, I never found anyone else."
 		},
 		{
 			"key":"EP03_S2480_0014",
-			"value":"それが……何か？"
+			"value":"Is that a problem?"
 		},
 		{
 			"key":"EP03_S2480_0015",
-			"value":"いえ……少し、気になっただけです"
+			"value":"No, just something I was wondering about."
 		},
 		{
 			"key":"EP03_S2480_0016",
-			"value":"ちょっとちょっとアオイさ～ん\nまだ疑ってんの？"
+			"value":"Aoi, you’re not still suspicious, are you?"
 		},
 		{
 			"key":"EP03_S2480_0017",
-			"value":"この人の話は本当だってわかったじゃん\n信じようよ"
+			"value":"You can see she’s been telling the truth.\nIsn’t it about time we started trusting her?"
 		},
 		{
 			"key":"EP03_S2480_0018",
-			"value":"そう、かしら……"
+			"value":"I’m...not so sure."
 		},
 		{
 			"key":"EP03_S2480_0019",
-			"value":"ほら、リョウを見てみなって\nあんなに懐いちゃってさ"
+			"value":"Well, just look at Ryo. He seems to have\nwarmed right up to her."
 		},
 		{
 			"key":"EP03_S2480_0020",
-			"value":"ま、ママ……ふへ、へへ……"
+			"value":"Mommy... Heheheh..."
 		},
 		{
 			"key":"EP03_S2480_0021",
-			"value":"あら……うふふ"
+			"value":"Oh, my... Heheh."
 		},
 		{
 			"key":"EP03_S2480_0022",
-			"value":"キュゥ……"
+			"value":"Kew..."
 		},
 		{
 			"key":"EP03_S2480_0023",
-			"value":"な？　信じてやろうよ"
+			"value":"See? What’s not to trust?\nShe’s been nothing but helpful."
 		},
 		{
 			"key":"EP03_S2480_0024",
-			"value":"あんだけカイトに疑われても\nオレらに協力してくれてるんだぜ？　いい人じゃん"
+			"value":"And that’s after the way Kaito treated her.\nShe’s gotta be really nice."
 		},
 		{
 			"key":"EP03_S2480_0025",
-			"value":"それは、まぁ、そうね……"
+			"value":"Well, I suppose."
 		},
 		{
 			"key":"EP03_S2480_0026",
-			"value":"皆さん、来ましたよ"
+			"value":"Okay, everyone, the car’s here."
 		},
 		{
 			"key":"EP03_S2480_0027",
-			"value":"私、ロープウェイ乗るの初めてだなぁ\n楽しみ～"
+			"value":"I’ve never ridden on a cable car before.\nThis is kind of exciting!"
 		},
 		{
 			"key":"EP03_S2480_0028",
-			"value":"さぁ、乗ってください\n目的地へ行きましょう"
+			"value":"Get in, everybody. This will take us straight\nto the tower."
 		}
 	]
 }

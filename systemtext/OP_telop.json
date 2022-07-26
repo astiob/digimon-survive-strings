@@ -2,199 +2,199 @@
 	"OP_telop":[
 		{
 			"key":"OP_000_01",
-			"value":"おはよう"
+			"value":"Morning!"
 		},
 		{
 			"key":"OP_000_02",
-			"value":"昨日 寝れた？"
+			"value":"You get any sleep last night?"
 		},
 		{
 			"key":"OP_000_03",
-			"value":"今朝 地震あったよな"
+			"value":"How about that quake this morning?"
 		},
 		{
 			"key":"OP_000_04",
-			"value":"ああ マジでビビった"
+			"value":"Sure woke me up!"
 		},
 		{
 			"key":"OP_000_05",
-			"value":"今日行く史跡って どの辺でしたっけ？"
+			"value":"Where are these ruins we’re going to again?"
 		},
 		{
 			"key":"OP_000_06",
-			"value":"ちょっと待ってね　こっちに詳しい地図－"
+			"value":"Hold on. I have a map in here somewhere..."
 		},
 		{
 			"key":"OP_000_07",
-			"value":"おっはよう！"
+			"value":"Gooooood mornin’!"
 		},
 		{
 			"key":"OP_000_08",
-			"value":"もう びっくりさせないでよ　ミノルくん！"
+			"value":"Minoru! Don’t scare me like that!"
 		},
 		{
 			"key":"OP_000_09",
-			"value":"あっはっはっはっは－"
+			"value":"Ahahaha!"
 		},
 		{
 			"key":"OP_000_10",
-			"value":"ごめんごめん"
+			"value":"Yeah, my bad."
 		},
 		{
 			"key":"OP_000_11",
-			"value":"あっははは－"
+			"value":"Hahaha!"
 		},
 		{
 			"key":"OP_000_12",
-			"value":"朝から元気だなあ"
+			"value":"Off to an early start, huh?"
 		},
 		{
 			"key":"OP_000_13",
-			"value":"はあ…"
+			"value":"*sigh*"
 		},
 		{
 			"key":"OP_000_14",
-			"value":"ミウー"
+			"value":"Miu."
 		},
 		{
 			"key":"OP_000_15",
-			"value":"そろそろ起きろよ"
+			"value":"Time to get up."
 		},
 		{
 			"key":"OP_000_16",
-			"value":"おいミウ"
+			"value":"Come on."
 		},
 		{
 			"key":"OP_000_17",
-			"value":"メシが冷めるだろ"
+			"value":"Your food’s gonna get cold."
 		},
 		{
 			"key":"OP_000_18",
-			"value":"あいつ　また一人で！"
+			"value":"Oh no, she went by herself again!"
 		},
 		{
 			"key":"OP_000_19",
-			"value":"フフフフ"
+			"value":"Heheheh..."
 		},
 		{
 			"key":"OP_000_20",
-			"value":"べーーー"
+			"value":"Nyah nyah!"
 		},
 		{
 			"key":"OP_000_21",
-			"value":"雪？"
+			"value":"It’s...snowing?"
 		},
 		{
 			"key":"OP_000_22",
-			"value":"じゃあ 撮るよー"
+			"value":"Okay... Three, two, one..."
 		},
 		{
 			"key":"OP_000_23",
-			"value":"おい ジャマだろ"
+			"value":"Hey, move it."
 		},
 		{
 			"key":"OP_000_24",
-			"value":"ご ごめんなさい"
+			"value":"Sorry!"
 		},
 		{
 			"key":"OP_000_25",
-			"value":"チッ！"
+			"value":"Tch!"
 		},
 		{
 			"key":"OP_000_26",
-			"value":"態度わるー"
+			"value":"Wow, you’re such a charmer."
 		},
 		{
 			"key":"OP_000_27",
-			"value":"そんなんじゃ 女子に嫌われるよ"
+			"value":"No wonder all the girls love you."
 		},
 		{
 			"key":"OP_000_28",
-			"value":"うっせーな"
+			"value":"Oh, shut up."
 		},
 		{
 			"key":"OP_000_29",
-			"value":"続いてニュースです"
+			"value":"Which brings us to the news."
 		},
 		{
 			"key":"OP_000_30",
-			"value":"今朝５時頃 鹿野辺市で"
+			"value":"At roughly five o’clock this morning,"
 		},
 		{
 			"key":"OP_000_31",
-			"value":"震度３の地震がありました－"
+			"value":"a magnitude 3 earthquake hit Kanobe City."
 		},
 		{
 			"key":"OP_000_32",
-			"value":"これ ここじゃない？"
+			"value":"Wait, isn’t that here?"
 		},
 		{
 			"key":"OP_000_33",
-			"value":"一部で崖崩れや落石事故が起きており"
+			"value":"It caused a landslide in part of the region,"
 		},
 		{
 			"key":"OP_000_34",
-			"value":"警察や消防では地域に警戒を促しています"
+			"value":"and police and fire departments urge caution."
 		},
 		{
 			"key":"OP_000_35",
-			"value":"うう"
+			"value":"Ooh..."
 		},
 		{
 			"key":"OP_000_36",
-			"value":"ここは　いったい"
+			"value":"Where...am I?"
 		},
 		{
 			"key":"OP_000_37",
-			"value":"群発する地震により 土砂災害の危険がありますので－"
+			"value":"Due to the risk of further seismic activity,"
 		},
 		{
 			"key":"OP_000_38",
-			"value":"引き続き 鹿野辺市近隣にお住まいの方は－"
+			"value":"everyone in the Kanobe area is encouraged..."
 		},
 		{
 			"key":"OP_000_39",
-			"value":"おいおい"
+			"value":"This is crazy."
 		},
 		{
 			"key":"OP_000_40",
-			"value":"見学先の安全性とか大丈夫なのかよ"
+			"value":"Is it really safe for us to go on this trip?"
 		},
 		{
 			"key":"OP_000_41",
-			"value":"よーし みんな"
+			"value":"All right, everyone."
 		},
 		{
 			"key":"OP_000_42",
-			"value":"そろそろ出発の時間だ"
+			"value":"It’s time for us to head out."
 		},
 		{
 			"key":"OP_000_43",
-			"value":"引率のOBの言うことを よく聞くように"
+			"value":"Make sure you listen to your group leaders."
 		},
 		{
 			"key":"OP_000_44",
-			"value":"遊びにきたんじゃないんだぞ"
+			"value":"Remember, this isn’t a vacation."
 		},
 		{
 			"key":"OP_000_45",
-			"value":"時間厳守で行動すること"
+			"value":"Make sure you stick to the schedule."
 		},
 		{
 			"key":"OP_000_46",
-			"value":"たりー"
+			"value":"This sucks..."
 		},
 		{
 			"key":"OP_000_47",
-			"value":"タクマー？"
+			"value":"Takuma?"
 		},
 		{
 			"key":"OP_000_48",
-			"value":"あ ああ－"
+			"value":"Ah, sorry."
 		},
 		{
 			"key":"OP_000_49",
-			"value":"なんでもない"
+			"value":"Just got a little distracted."
 		}
 	]
 }

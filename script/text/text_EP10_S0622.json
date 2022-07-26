@@ -2,75 +2,75 @@
 	"scenario_text":[
 		{
 			"key":"EP10_S0622_0001",
-			"value":"待ってタクマ！\nそこにさっき草むらから飛び出したやつがいる！！"
+			"value":"Hold on, Takuma! That one just popped out of\nthe underbrush!"
 		},
 		{
 			"key":"EP10_S0622_0002",
-			"value":"ガァァァッ！！"
+			"value":"GAAAAAAH!!!"
 		},
 		{
 			"key":"EP10_S0622_0003",
-			"value":"（怒ってる……というよりは\n　威嚇してきてるみたいだ）"
+			"value":"(It looks pissed... Or maybe it’s trying to\nthreaten us.)"
 		},
 		{
 			"key":"EP10_S0622_0004",
-			"value":"（怖がる必要はないって\n　どうにか上手く伝えられないかな？）"
+			"value":"(Is there some way to convey that there’s no\nneed to be scared?)"
 		},
 		{
 			"key":"EP10_S0622_Q1",
-			"value":"（威嚇する相手に対して僕は……）"
+			"value":"(I should tell it...)"
 		},
 		{
 			"key":"EP10_S0622_Q1_A1",
-			"value":"こっちは戦いたくない"
+			"value":"We don’t want a fight."
 		},
 		{
 			"key":"EP10_S0622_Q1_A2",
-			"value":"怖がらないで"
+			"value":"Don’t be scared."
 		},
 		{
 			"key":"EP10_S0622_0005",
-			"value":"こっちは戦いたくない！\n暴力振るったって仕方ないだろ！"
+			"value":"We don’t want to fight! There’s no need to\nresort to violence!"
 		},
 		{
 			"key":"EP10_S0622_0006",
-			"value":"……！！"
+			"value":"Hsss!"
 		},
 		{
 			"key":"EP10_S0622_0007",
-			"value":"（ダメだ……我を忘れているみたいだ）"
+			"value":"(No good... Looks like it’s lost its head.)"
 		},
 		{
 			"key":"EP10_S0622_0008",
-			"value":"タクマ、来る！"
+			"value":"Look out, Takuma!"
 		},
 		{
 			"key":"EP10_S0622_0009",
-			"value":"仕方ない、戦おう！"
+			"value":"Damn, guess we have to fight!"
 		},
 		{
 			"key":"EP10_S0622_0010",
-			"value":"怖がらないで大丈夫だよ\n僕はお前を攻撃するつもりはないから"
+			"value":"You don’t need to be scared. We have no\nintention of harming you."
 		},
 		{
 			"key":"EP10_S0622_0011",
-			"value":"ほ……ホンマに？"
+			"value":"You...you mean it?"
 		},
 		{
 			"key":"EP10_S0622_0012",
-			"value":"うん、本当に\n僕たちとおいでよ"
+			"value":"Yeah, we mean it. Here, come with us."
 		},
 		{
 			"key":"EP10_S0622_0013",
-			"value":"タクマたちの側には、ボクたちみたいな子が\nいっぱいいるんだよ！"
+			"value":"There’s lots of guys like us with Takuma’s\nfriends!"
 		},
 		{
 			"key":"EP10_S0622_0014",
-			"value":"！！　な、なら一緒させてもらいます！"
+			"value":"Really?! Then I’ll come with you!"
 		},
 		{
 			"key":"EP10_S0622_0015",
-			"value":"（ふう……戦わずに済んでよかったな）"
+			"value":"(*whew* We didn’t have to fight, after all.)"
 		}
 	]
 }

@@ -2,23 +2,23 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S9169_0001",
-			"value":"うわっ！　……あ、割れちゃった"
+			"value":"Yikes! Oh no, it broke open."
 		},
 		{
 			"key":"EP12_S9169_0002",
-			"value":"なんともったいない……食材は貴重だというのに"
+			"value":"How terribly wasteful. We need that food."
 		},
 		{
 			"key":"EP12_S9169_0003",
-			"value":"そんな呑気な……"
+			"value":"How can you be so calm?"
 		},
 		{
 			"key":"EP12_S9169_0004",
-			"value":"しかし、意思疎通が図れないとなると\n叱るだけ無駄だからねぇ"
+			"value":"Hm, it seems if we can’t communicate, it’s no\nuse reprimanding this ghost."
 		},
 		{
 			"key":"EP12_S9169_0005",
-			"value":"（叱るつもりだったのか……）"
+			"value":"(So...that was supposed to be a reprimand?)"
 		}
 	]
 }

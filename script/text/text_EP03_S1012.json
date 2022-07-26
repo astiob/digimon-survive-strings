@@ -2,51 +2,51 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1012_0001",
-			"value":"そういえば、アグモンたちって\n普段何を食べてるんだ？"
+			"value":"You know, I’ve never thought about it before,\nbut what do you guys normally eat?"
 		},
 		{
 			"key":"EP03_S1012_0002",
-			"value":"んー、木の実とか、草とか\nそういうの！"
+			"value":"Oh, you know. Grass, fruits, nuts, berries,\nthat sort of thing."
 		},
 		{
 			"key":"EP03_S1012_0003",
-			"value":"草食、ってことなのか？\n見た目は恐竜みたいなのにな"
+			"value":"So, you’re herbivores? That’s kinda funny,\nsince you look like a T-rex."
 		},
 		{
 			"key":"EP03_S1012_0004",
-			"value":"ソーショク？"
+			"value":"What’s an herbivore?"
 		},
 		{
 			"key":"EP03_S1012_0005",
-			"value":"あ、それじゃあたまに僕らの食料を\n一緒に食べる時があるけど、あれマズいんじゃないか？"
+			"value":"But wait, sometimes you eat the same stuff we\ndo. Is that bad?"
 		},
 		{
 			"key":"EP03_S1012_0006",
-			"value":"マズくないよ～、おいしいよ～"
+			"value":"No way! It’s delicious!"
 		},
 		{
 			"key":"EP03_S1012_0007",
-			"value":"いや、そういう意味じゃ……\nあぁいや、そういう意味でもいいのか"
+			"value":"What? No, that’s not what I... Actually,\nI guess it doesn’t matter."
 		},
 		{
 			"key":"EP03_S1012_0008",
-			"value":"確かに、普通に美味しそうに食べてるもんな\n雑食ってことか"
+			"value":"You do seem to like it just fine. Guess that\nmakes you omnivores."
 		},
 		{
 			"key":"EP03_S1012_0009",
-			"value":"まーみんなイロイロだなー\nいっぱい食べるやつもいるし、全然食べないやつもいる"
+			"value":"Well, everybody’s different. Some of us eat\ntons of food, and others don’t eat at all."
 		},
 		{
 			"key":"EP03_S1012_0010",
-			"value":"ボクはおいしいものいっぱい食べた～い！"
+			"value":"I wanna eat lots of yummy stuff!"
 		},
 		{
 			"key":"EP03_S1012_0011",
-			"value":"そ、そっか……相変わらず、お前らは謎だらけだな"
+			"value":"Right... Guess you guys remain a mystery."
 		},
 		{
 			"key":"EP03_S1012_0012",
-			"value":"どうしたタクマ？\nサキに話しかけないのか？"
+			"value":"What’s wrong, Takuma? Aren’t you going to\ntalk with Saki?"
 		}
 	]
 }

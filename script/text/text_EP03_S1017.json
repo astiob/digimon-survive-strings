@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP03_S1017_0001",
-			"value":"ロップモンは何してるんだ？"
+			"value":"Hey, Lopmon. What are you doing?"
 		},
 		{
 			"key":"EP03_S1017_0002",
-			"value":"あ、ボクも、食べ物探してるの……\nいっぱい採って、シュウジにあげる……"
+			"value":"Oh, I’m gathering food. I’m going to get as\nmuch as I can, then give it all to Shuuji."
 		},
 		{
 			"key":"EP03_S1017_0003",
-			"value":"そっか。褒めてもらえるといいな"
+			"value":"That’s nice. I hope he appreciates it."
 		},
 		{
 			"key":"EP03_S1017_0004",
-			"value":"褒めて……えへへ\nそうだと、いいな……"
+			"value":"Yeah... Eheheh. I hope so too..."
 		},
 		{
 			"key":"EP03_S1017_0005",
-			"value":"向こうにもあるんじゃないか？　行ってみよう！"
+			"value":"I bet there’s more over there! Let’s check it\nout!"
 		},
 		{
 			"key":"EP03_S1017_0006",
-			"value":"あ、ダメ……！　あんまり離れると\nシュウジ、危ないから……"
+			"value":"Wait, no! If we get too far away, it might\nput Shuuji in danger..."
 		},
 		{
 			"key":"EP03_S1017_0007",
-			"value":"あ、そっか。ごめんごめん"
+			"value":"Oh, right. Sorry about that."
 		},
 		{
 			"key":"EP03_S1017_0008",
-			"value":"シュウジさんのこと、ちゃんと守ってるんだな"
+			"value":"You really are looking out for Shuuji, aren’t\nyou?"
 		},
 		{
 			"key":"EP03_S1017_0009",
-			"value":"うん。戦うのは怖いけど……\nシュウジは大事、だから……"
+			"value":"Yeah. Fighting scares me, but... Shuuji is...\nimportant to me."
 		},
 		{
 			"key":"EP03_S1017_0010",
-			"value":"（あんな扱いをされてるのに、健気だな\n　シュウジさんもロップモンを認めてあげればいいのに）"
+			"value":"(Given how Shuuji treats him, that’s really\nadmirable. If only he could see that.)"
 		},
 		{
 			"key":"EP03_S1017_0011",
-			"value":"あ、ボク、シュウジのお手伝いしなきゃ、だから……"
+			"value":"Oh, I’d better get back to helping Shuuji..."
 		}
 	]
 }

@@ -2,75 +2,75 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0011_0001",
-			"value":"お、お姉ちゃん！？"
+			"value":"Ah, Miyuki?!"
 		},
 		{
 			"key":"EP01_S0011_0101",
-			"value":"大丈夫！\nあの光へ、向かうのよ……！"
+			"value":"I’m okay! Go, head for that light!"
 		},
 		{
 			"key":"EP01_S0011_0002",
-			"value":"くっ……！！！\nそこから……早く逃げてっ！"
+			"value":"Unngh...\nRun, Haru... Get out of here!"
 		},
 		{
 			"key":"EP01_S0011_0003",
-			"value":"やだ、やだやだ！\nお姉ちゃんと一緒じゃなきゃ――！"
+			"value":"No way!\nI’m not leaving you behind!"
 		},
 		{
 			"key":"EP01_S0011_0004",
-			"value":"なにしてるの！　はやく！"
+			"value":"What are you doing?! Go on, hurry!"
 		},
 		{
 			"key":"EP01_S0011_0005",
-			"value":"ダメだ……\nもう抑えられない！"
+			"value":"It’s no good...\nI can’t hold them back anymore!"
 		},
 		{
 			"key":"EP01_S0011_0006",
-			"value":"危ないッ！！"
+			"value":"Look out!!!"
 		},
 		{
 			"key":"EP01_S0011_0007",
-			"value":"ひゃっ！？"
+			"value":"Yeep!!!"
 		},
 		{
 			"key":"EP01_S0011_0017",
-			"value":"わ、わあぁあっ！？\n吸い込まれ……"
+			"value":"What the—?!\nIt’s sucking me in..."
 		},
 		{
 			"key":"EP01_S0011_0008",
-			"value":"クッ！！\nお前がいなくなったらオレは……"
+			"value":"Unngh!\nIf anything happened to you, I’d—!"
 		},
 		{
 			"key":"EP01_S0011_0014",
-			"value":"あなたはどうか、無事に帰って"
+			"value":"You have to get back safe on your own,\nsomehow."
 		},
 		{
 			"key":"EP01_S0011_0015",
-			"value":"……！"
+			"value":"...!"
 		},
 		{
 			"key":"EP01_S0011_0010",
-			"value":"きゃああああああっ……！"
+			"value":"Aaaaaah!!!"
 		},
 		{
 			"key":"EP01_S0011_0018",
-			"value":"お姉ちゃん！！！"
+			"value":"Miyukiii!"
 		},
 		{
 			"key":"EP01_S0011_0019",
-			"value":"助けなきゃ……\nでもダメだ……進めない"
+			"value":"I gotta save her... But I...\nI can’t..."
 		},
 		{
 			"key":"EP01_S0011_0009",
-			"value":"お姉ちゃ――ッ！！！！"
+			"value":"Miyukiii!"
 		},
 		{
 			"key":"EP01_S0011_0011",
-			"value":"待ってて……"
+			"value":"Wait for me..."
 		},
 		{
 			"key":"EP01_S0011_0012",
-			"value":"お姉ちゃん\n必ず……必ず助けるから！"
+			"value":"I’ll rescue you, Miyuki...\nNo matter what!"
 		}
 	]
 }

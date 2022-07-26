@@ -2,203 +2,203 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S1201_0001",
-			"value":"くっ……！\nコイツ、強い……！"
+			"value":"Gah! This guy’s tough!"
 		},
 		{
 			"key":"EP12_S1201_0002",
-			"value":"ラブラモン！！"
+			"value":"Labramon!"
 		},
 		{
 			"key":"EP12_S1201_0003",
-			"value":"ラブラモン、アオイさん……"
+			"value":"Labramon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0004",
-			"value":"くっ……！\n手ごわい……"
+			"value":"Gah! He’s a tough one..."
 		},
 		{
 			"key":"EP12_S1201_0005",
-			"value":"ドーベルモン！！"
+			"value":"Dobermon!"
 		},
 		{
 			"key":"EP12_S1201_0006",
-			"value":"ドーベルモン、アオイさん……"
+			"value":"Dobermon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0007",
-			"value":"ちっ……！\nコイツ、なかなかやる……！"
+			"value":"Damn! This guy’s not bad..."
 		},
 		{
 			"key":"EP12_S1201_0008",
-			"value":"ケルベロモン！！"
+			"value":"Cerberusmon!"
 		},
 		{
 			"key":"EP12_S1201_0009",
-			"value":"ケルベロモン、アオイさん……"
+			"value":"Cerberusmon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0010",
-			"value":"ほう……！\n侮れぬ相手のようだな"
+			"value":"Well, now... What a formidable foe!"
 		},
 		{
 			"key":"EP12_S1201_0011",
-			"value":"バイフーモン！！"
+			"value":"Baihumon!"
 		},
 		{
 			"key":"EP12_S1201_0012",
-			"value":"バイフーモン、アオイさん……"
+			"value":"Baihumon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0013",
-			"value":"む……！\nやりますね……"
+			"value":"Urgh! Not bad..."
 		},
 		{
 			"key":"EP12_S1201_0014",
-			"value":"アヌビモン！！"
+			"value":"Anubismon!"
 		},
 		{
 			"key":"EP12_S1201_0015",
-			"value":"アヌビモン、アオイさん……"
+			"value":"Anubismon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0016",
-			"value":"…………ッ！\nこれほどの力とは……！"
+			"value":"Gah! Such power..."
 		},
 		{
 			"key":"EP12_S1201_0017",
-			"value":"プルートモン！！"
+			"value":"Plutomon!"
 		},
 		{
 			"key":"EP12_S1201_0018",
-			"value":"プルートモン、アオイさん……"
+			"value":"Plutomon, Aoi!"
 		},
 		{
 			"key":"EP12_S1201_0019",
-			"value":"アオイさん、ラブラモンを一旦引かせるんだ！"
+			"value":"Aoi, you and Labramon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0020",
-			"value":"このままじゃ、ラブラモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0021",
-			"value":"アオイさん、ドーベルモンを一旦引かせるんだ！"
+			"value":"Aoi, you and Dobermon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0022",
-			"value":"このままじゃ\nドーベルモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0023",
-			"value":"アオイさん、ケルベロモンを一旦引かせるんだ！"
+			"value":"Aoi, you and Cerberusmon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0024",
-			"value":"このままじゃ\nケルベロモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0025",
-			"value":"アオイさん、バイフーモンを一旦引かせるんだ！"
+			"value":"Aoi, you and Baihumon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0026",
-			"value":"このままじゃ\nバイフーモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0027",
-			"value":"アオイさん、アヌビモンを一旦引かせるんだ！"
+			"value":"Aoi, you and Anubismon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0028",
-			"value":"このままじゃ\nアヌビモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0029",
-			"value":"アオイさん、プルートモンを\n一旦引かせるんだ！"
+			"value":"Aoi, you and Plutomon pull back for now!"
 		},
 		{
 			"key":"EP12_S1201_0030",
-			"value":"このままじゃ\nプルートモンもアオイさんも危ない！"
+			"value":"If this keeps up, you’ll both be in danger!"
 		},
 		{
 			"key":"EP12_S1201_0031",
-			"value":"ううん……まだやれるわ"
+			"value":"No way! We’re not done yet!"
 		},
 		{
 			"key":"EP12_S1201_0032",
-			"value":"そうよね、ラブラモン？"
+			"value":"Isn’t that right, Labramon?!"
 		},
 		{
 			"key":"EP12_S1201_0033",
-			"value":"もちろんよ！　あんまり甘く見ないでよね！"
+			"value":"You said it, Aoi! Don’t underestimate us!"
 		},
 		{
 			"key":"EP12_S1201_0034",
-			"value":"そうよね、ドーベルモン？"
+			"value":"Isn’t that right, Dobermon?!"
 		},
 		{
 			"key":"EP12_S1201_0035",
-			"value":"ああ。アオイの心が折れぬ限り\nワタシは戦い続けるだろう"
+			"value":"Absolutely. Aoi, as long as your heart\nremains strong, I will keep fighting."
 		},
 		{
 			"key":"EP12_S1201_0036",
-			"value":"そうよね、ケルベロモン？"
+			"value":"Isn’t that right, Cerberusmon?!"
 		},
 		{
 			"key":"EP12_S1201_0037",
-			"value":"わかってるじゃないか、アオイ\nさあ、ここからが本番だ！"
+			"value":"You said it, Aoi! Now, let’s start fighting\nfor real!"
 		},
 		{
 			"key":"EP12_S1201_0038",
-			"value":"そうよね、バイフーモン？"
+			"value":"Isn’t that right, Baihumon?!"
 		},
 		{
 			"key":"EP12_S1201_0039",
-			"value":"我が相棒の願いを叶えるまで、倒れはしない\n今度こそ、悲しみを繰り返したりはしない"
+			"value":"I will not fall until I fulfill my partner’s\nwish. This time it will not end in tragedy."
 		},
 		{
 			"key":"EP12_S1201_0040",
-			"value":"そうよね、アヌビモン？"
+			"value":"Isn’t that right, Anubismon?!"
 		},
 		{
 			"key":"EP12_S1201_0041",
-			"value":"ええ、問題ありません\n敵はすでに我が策の中にあり！"
+			"value":"Right, no problem! I’ve got them right where\nI want them!"
 		},
 		{
 			"key":"EP12_S1201_0042",
-			"value":"そうよね、プルートモン？"
+			"value":"Isn’t that right, Plutomon?!"
 		},
 		{
 			"key":"EP12_S1201_0043",
-			"value":"もちろんです、アオイ\nワタシを信じてくれてありがとう"
+			"value":"You got it, Aoi. Thank you for believing in\nme."
 		},
 		{
 			"key":"EP12_S1201_0044",
-			"value":"でも……"
+			"value":"But..."
 		},
 		{
 			"key":"EP12_S1201_0045",
-			"value":"平気よ、負けたりなんかしないわ\n言ったでしょ、タクマくん"
+			"value":"Don’t worry, we’re not about to lose. Did you\nforget our promise, Takuma?"
 		},
 		{
 			"key":"EP12_S1201_0046",
-			"value":"全員で帰るんだって！！"
+			"value":"We’re all going home together!"
 		},
 		{
 			"key":"EP12_S1201_0047",
-			"value":"アオイさん……"
+			"value":"Aoi..."
 		},
 		{
 			"key":"EP12_S1201_0048",
-			"value":"ああ、頑張ってくれ\nあともう少し！"
+			"value":"All right, just hang in there for a little\nlonger!"
 		},
 		{
 			"key":"EP12_S1201_0049",
-			"value":"そう、もう少し……あと少し……\n私たちの帰る場所は――"
+			"value":"Yes, we’re almost there... Just a bit more...\nOur way home..."
 		},
 		{
 			"key":"EP12_S1201_0050",
-			"value":"あいつの後ろにある！！"
+			"value":"...is right behind him!"
 		}
 	]
 }

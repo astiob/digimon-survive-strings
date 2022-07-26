@@ -2,175 +2,175 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S1050_0001",
-			"value":"さっきの子たち……\n大丈夫だったかしら？"
+			"value":"So...do you think those little guys are okay?"
 		},
 		{
 			"key":"EP04_S1050_0002",
-			"value":"さっきの子って……あの小さいケモノたちのこと？"
+			"value":"You mean the monsters from earlier?"
 		},
 		{
 			"key":"EP04_S1050_0003",
-			"value":"カイトくんとミノルくんに叩かれて\n痛くなかったかなって……"
+			"value":"I hope they weren’t hurt too badly when Kaito\nand Minoru attacked them."
 		},
 		{
 			"key":"EP04_S1050_0004",
-			"value":"それに……あの子たちが怯えてた\n恐ろしい女王様のことも気になるし……"
+			"value":"And I’m worried about that awful queen they\nseemed so scared of..."
 		},
 		{
 			"key":"EP04_S1050_0005",
-			"value":"（アオイさんは、自分も大変な状況なのに\n　そんなにあの子たちが心配なんだ……）"
+			"value":"(Aoi’s got plenty of her own problems right\nnow, but she’s worried about those monsters.)"
 		},
 		{
 			"key":"EP04_S1050_0006",
-			"value":"（やっぱり優しいんだな……）"
+			"value":"(She really is very kind.)"
 		},
 		{
 			"key":"EP04_S1050_0007",
-			"value":"（あ、でも……あの子たちのこと、かわいいって\n　言ってたし、単にカワイイもの好きとか……？）"
+			"value":"(Then again, she did say she thought they\nwere cute. Maybe she just likes cute things?)"
 		},
 		{
 			"key":"EP04_S1050_0008",
-			"value":"あ、あの……タクマくん？\nどうかしたの？"
+			"value":"Uh... Takuma? Is something wrong?"
 		},
 		{
 			"key":"EP04_S1050_0009",
-			"value":"あっ、いや……"
+			"value":"No, not really..."
 		},
 		{
 			"key":"EP04_S1050_Q1",
-			"value":"（何を考えてたって、言おう？）"
+			"value":"(Should I tell her what I was just thinking?)"
 		},
 		{
 			"key":"EP04_S1050_Q1_A1",
-			"value":"優しいなと思って"
+			"value":"You sure are nice."
 		},
 		{
 			"key":"EP04_S1050_Q1_A2",
-			"value":"カワイイものが好きなんだね"
+			"value":"You love cute stuff."
 		},
 		{
 			"key":"EP04_S1050_Q1_A3",
-			"value":"自分の心配をしたほうが……"
+			"value":"Save your concern."
 		},
 		{
 			"key":"EP04_S1050_0010",
-			"value":"優しいなと思って"
+			"value":""
 		},
 		{
 			"key":"EP04_S1050_0011",
-			"value":"そんなに心配してあげるなんて\nやっぱりアオイさんは優しいなと思って"
+			"value":"I was just thinking how kind of you it is to\nbe so worried about them."
 		},
 		{
 			"key":"EP04_S1050_0012",
-			"value":"さすがは、アオイさんだよね"
+			"value":"You sure are nice."
 		},
 		{
 			"key":"EP04_S1050_0013",
-			"value":"そう……かな？"
+			"value":"Really?"
 		},
 		{
 			"key":"EP04_S1050_0014",
-			"value":"（あれ……？\n　なんか、暗い顔になった……？）"
+			"value":"(Huh? Why does she seem upset?)"
 		},
 		{
 			"key":"EP04_S1050_0015",
-			"value":"これって、優しいから……なのかな\n単に……"
+			"value":"You think I’m worried about them because...\nI’m just nice?"
 		},
 		{
 			"key":"EP04_S1050_0016",
-			"value":"僕は、ここにいる誰よりも\nアオイさんは優しいと思うけど"
+			"value":"I mean, I think you’re the nicest person\nhere."
 		},
 		{
 			"key":"EP04_S1050_0017",
-			"value":"ん……そっか"
+			"value":"Oh... Okay."
 		},
 		{
 			"key":"EP04_S1050_0018",
-			"value":"（僕、なんか悪いこと言っちゃったかな……？）"
+			"value":"(Did I say something wrong?)"
 		},
 		{
 			"key":"EP04_S1050_0019",
-			"value":"カワイイものが好きなんだね"
+			"value":""
 		},
 		{
 			"key":"EP04_S1050_0020",
-			"value":"アオイさんって\nすごくカワイイものが好きなんだなと思って"
+			"value":"I was just thinking that you sure must love\ncute stuff."
 		},
 		{
 			"key":"EP04_S1050_0021",
-			"value":"どっ……どうして、そう思うの……！？"
+			"value":"Wh-what makes you say that?"
 		},
 		{
 			"key":"EP04_S1050_0022",
-			"value":"（あ……アオイさんが、真っ赤になった……！？）"
+			"value":"(Her whole face is turning bright red!)"
 		},
 		{
 			"key":"EP04_S1050_0023",
-			"value":"えっと……それはその……\nさっき、自分でもかわいいって言ってたし"
+			"value":"Well, uh, you said yourself you thought those\nlittle guys were cute before..."
 		},
 		{
 			"key":"EP04_S1050_0024",
-			"value":"必死にかばうのは、やっぱりカワイイものが\n好きだからなんだろうなって……"
+			"value":"Then when you got so anxious about them, I\nfigured it was because you liked cute things."
 		},
 		{
 			"key":"EP04_S1050_0025",
-			"value":"うぅ……ごめんなさい\nあの時も、うっかり口走っちゃって……"
+			"value":"Oh, I’m sorry. I shouldn’t have let that\nslip..."
 		},
 		{
 			"key":"EP04_S1050_0026",
-			"value":"あ、謝ることはないよ！\nあの子たちがカワイイのは、本当だと思うし！"
+			"value":"Hey, you don’t have to apologize! Besides,\nthose things were really cute."
 		},
 		{
 			"key":"EP04_S1050_0027",
-			"value":"隠すことじゃないっていうか……\n僕は、全然アリだと思うよ！"
+			"value":"And I don’t see what you have to hide. What’s\nwrong with liking cute things?"
 		},
 		{
 			"key":"EP04_S1050_0028",
-			"value":"ま、真面目ぶってるくせに……とか、思わない？"
+			"value":"You...you don’t think it makes me seem\nfrivolous?"
 		},
 		{
 			"key":"EP04_S1050_0029",
-			"value":"いや、まったく"
+			"value":"Not at all."
 		},
 		{
 			"key":"EP04_S1050_0030",
-			"value":"そっか……よかった……！\nありがとう、タクマくん"
+			"value":"Really? That’s great! Thanks, Takuma."
 		},
 		{
 			"key":"EP04_S1050_0031",
-			"value":"自分の心配をしたほうが……"
+			"value":""
 		},
 		{
 			"key":"EP04_S1050_0032",
-			"value":"あの子たちよりも、自分たちの心配を\nしたほうがいいんじゃないかなと思って……"
+			"value":"I was just thinking you should save your\nconcern for us rather than those things."
 		},
 		{
 			"key":"EP04_S1050_0033",
-			"value":"っ……！"
+			"value":"..."
 		},
 		{
 			"key":"EP04_S1050_0034",
-			"value":"あの子たちは、危ない敵じゃないみたいだったけど\n他にも何が出てくるか、わからない"
+			"value":"They may not have turned out to be a serious\nthreat, but there may still be one out there."
 		},
 		{
 			"key":"EP04_S1050_0035",
-			"value":"特に、女王のことがあるから、なおさら……"
+			"value":"Especially considering what they said about\nthat queen."
 		},
 		{
 			"key":"EP04_S1050_0036",
-			"value":"そ、そうよね……\n私ったら、呑気なこと言って……ごめんなさい"
+			"value":"Yes, you’re right. I’m sorry. I don’t know\nwhat I was saying just now."
 		},
 		{
 			"key":"EP04_S1050_0037",
-			"value":"と、とにかく、おしゃべりしてる場合じゃ\nなかったわよね……！"
+			"value":"But...this is no time for us to be chatting,\nis it?"
 		},
 		{
 			"key":"EP04_S1050_0038",
-			"value":"早くミウちゃんを捜し出す\n手がかりを見つけないと……よね"
+			"value":"We need to track down some clues that will\nhelp us find Miu fast."
 		},
 		{
 			"key":"EP04_S1050_0039",
-			"value":"早くミウちゃんを捜し出すためにも\n手がかりを見つけましょ"
+			"value":"Let’s go track down some clues that will help\nus find Miu fast."
 		}
 	]
 }

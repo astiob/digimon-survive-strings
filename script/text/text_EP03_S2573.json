@@ -1,248 +1,248 @@
 {
-    "scenario_text": [
-        {
-            "key": "EP03_S2573_0001",
-            "value": "（あれから……絶望し、唖然とする僕たちを\n　シュウジさんが宥<space=-1em><voffset=1em><size=50%><mspace=1em>なだ</mspace></size></voffset><space=0em>めて、みんなで校舎に帰ってきた）"
-        },
-        {
-            "key": "EP03_S2573_0002",
-            "value": "（あんな状況で率先してみんなを動かしてくれる辺り\n　流石はシュウジさんだ）"
-        },
-        {
-            "key": "EP03_S2573_0003",
-            "value": "（シュウジさんの次に立ち直ったのはカイトだった）"
-        },
-        {
-            "key": "EP03_S2573_0004",
-            "value": "（ミウを捜しに遊園地へ行くと言いだしたカイトを\n　必死に引き留めて、どうにか一緒に帰ってきたのだ）"
-        },
-        {
-            "key": "EP03_S2573_0005",
-            "value": "（ミウを捜しに行きたがるカイトに、態勢を整えた\n　方がいいというシュウジさんの説得が効いた形だ）"
-        },
-        {
-            "key": "EP03_S2573_0006",
-            "value": "（流石のカイトも、リョウの末路を見て\n　少しは慎重になったみたいだ）"
-        },
-        {
-            "key": "EP03_S2573_0007",
-            "value": "（他のみんなは、リョウの死を目の当たりにしたことで\n　かなり落ち込み、怯えてるようだった）"
-        },
-        {
-            "key": "EP03_S2573_0008",
-            "value": "（校舎に着いた頃にはすっかり暗くなって\n　みんなはご飯も食べずに、倒れるように寝てしまった）"
-        },
-        {
-            "key": "EP03_S2573_0009",
-            "value": "（僕もそうしたかったけど\n　なかなか、寝付けないでいる……）"
-        },
-        {
-            "key": "EP03_S2573_0010",
-            "value": "（どうしても考えてしまうから……）"
-        },
-        {
-            "key": "EP03_S2573_0011",
-            "value": "（リョウが影に飲まれる時\n　もっと何かできたんじゃないのか、って）"
-        },
-        {
-            "key": "EP03_S2573_0012",
-            "value": "（みんなで協力して、あるいはもっと強引に\n　あるいは……）"
-        },
-        {
-            "key": "EP03_S2573_Q1",
-            "value": "（僕は、リョウがピンチだったあの時……）"
-        },
-        {
-            "key": "EP03_S2573_Q1_A1",
-            "value": "みんなで協力していれば……"
-        },
-        {
-            "key": "EP03_S2573_Q1_A2",
-            "value": "もっと強引にしていれば……"
-        },
-        {
-            "key": "EP03_S2573_Q1_A3",
-            "value": "何も思いつかないな……"
-        },
-        {
-            "key": "EP03_S2573_0013",
-            "value": "みんなで協力していれば"
-        },
-        {
-            "key": "EP03_S2573_0014",
-            "value": "（みんなと声を掛け合って協力していれば\n　助けられたんじゃないか？）"
-        },
-        {
-            "key": "EP03_S2573_0015",
-            "value": "（……いや、ダメだ）"
-        },
-        {
-            "key": "EP03_S2573_0016",
-            "value": "（僕らは動けたとしても、アグモンたちは\n　怯えて身動きさえできていなかったじゃないか）"
-        },
-        {
-            "key": "EP03_S2573_0017",
-            "value": "もっと強引にしていれば"
-        },
-        {
-            "key": "EP03_S2573_0018",
-            "value": "（アグモンの制止を振り切ってもっと強引にいけば\n　助けられたんじゃないか？）"
-        },
-        {
-            "key": "EP03_S2573_0019",
-            "value": "（……いや、ダメだ）"
-        },
-        {
-            "key": "EP03_S2573_0020",
-            "value": "（アグモンたちが怖がるモノだぞ？\n　僕一人でどうにかなるとは思えない）"
-        },
-        {
-            "key": "EP03_S2573_0021",
-            "value": "何も思いつかない"
-        },
-        {
-            "key": "EP03_S2573_0022",
-            "value": "（……ダメだ。何も思いつかない）"
-        },
-        {
-            "key": "EP03_S2573_0023",
-            "value": "（あの霧も、影も、わからないことばかりだし\n　それに、何より……）"
-        },
-        {
-            "key": "EP03_S2573_0024",
-            "value": "（アレはどうこうできるモノじゃないって\n　本能的に、わかってしまった……）"
-        },
-        {
-            "key": "EP03_S2573_0025",
-            "value": "（……冷えてきた。このままじゃ風邪ひいちゃうな）"
-        },
-        {
-            "key": "EP03_S2573_0026",
-            "value": "（眠れないけど、せめて、横にはなるか……）"
-        },
-        {
-            "key": "EP03_S2573_0501",
-            "value": "（リョウを助けることができて喜んだ僕たちだけど\n　自分たちの状況にまた暗くなってしまった）"
-        },
-        {
-            "key": "EP03_S2573_0502",
-            "value": "（ここは絶海の孤島で助けなんか来ないこと\n　霧から現れた手のバケモノに殺されそうになったこと）"
-        },
-        {
-            "key": "EP03_S2573_0503",
-            "value": "（今まではなんとなく大丈夫だと思ってたけど\n　今日、死の恐怖が間近にあることを思い知らされた）"
-        },
-        {
-            "key": "EP03_S2573_0504",
-            "value": "（絶望する僕たちだったけど、シュウジさんが\n　宥めてくれて、みんなで校舎に帰ってこれた）"
-        },
-        {
-            "key": "EP03_S2573_0505",
-            "value": "（あんな状況で率先してみんなを動かしてくれる辺り\n　流石はシュウジさんだ）"
-        },
-        {
-            "key": "EP03_S2573_0506",
-            "value": "（シュウジさんの次に立ち直ったのはカイトだった）"
-        },
-        {
-            "key": "EP03_S2573_0507",
-            "value": "（ミウを捜しに遊園地へ行くと言いだしたカイトを\n　必死に引き留めて、どうにか一緒に帰ってきたのだ）"
-        },
-        {
-            "key": "EP03_S2573_0508",
-            "value": "（ミウを捜しに行きたがるカイトに、態勢を整えた\n　方がいいというシュウジさんの説得が効いた形だ）"
-        },
-        {
-            "key": "EP03_S2573_0509",
-            "value": "（流石のカイトも、あの霧のバケモノを見て\n　少しは慎重になったみたいだ）"
-        },
-        {
-            "key": "EP03_S2573_0510",
-            "value": "（他のみんなは、ここが異世界であること\n　死が現実的なものであることに、怯えてるようだった）"
-        },
-        {
-            "key": "EP03_S2573_0511",
-            "value": "（校舎に着いた頃にはすっかり暗くなって\n　みんなはご飯も食べずに、倒れるように寝てしまった）"
-        },
-        {
-            "key": "EP03_S2573_0512",
-            "value": "（僕もそうしたかったけど\n　なかなか、寝付けないでいる……）"
-        },
-        {
-            "key": "EP03_S2573_0513",
-            "value": "（どうしても考えてしまうから……）"
-        },
-        {
-            "key": "EP03_S2573_0514",
-            "value": "（こんな異世界で僕たちは生きていけるのか？\n　あのアルケニモンのようなヤツにまた襲われたら……）"
-        },
-        {
-            "key": "EP03_S2573_0515",
-            "value": "（あの霧のバケモノは何なんだ？\n　リョウがおかしくなったのは、アレのせいなのか？）"
-        },
-        {
-            "key": "EP03_S2573_0516",
-            "value": "（この世界って何なんだ……\n　そもそも、アグモンたちだって何者なんだ？）"
-        },
-        {
-            "key": "EP03_S2573_Q2",
-            "value": "（疑問ばかり頭に浮かぶな……）"
-        },
-        {
-            "key": "EP03_S2573_Q2_A1",
-            "value": "協力したとして、どうなるんだ？"
-        },
-        {
-            "key": "EP03_S2573_Q2_A2",
-            "value": "リョウはすっかり諦めてた……"
-        },
-        {
-            "key": "EP03_S2573_Q2_A3",
-            "value": "そもそもアグモンたちは何なんだ？"
-        },
-        {
-            "key": "EP03_S2573_0517",
-            "value": "（みんなで協力して、困難に立ち向かって……\n　それで、どうなるんだ？）"
-        },
-        {
-            "key": "EP03_S2573_0518",
-            "value": "（ここは異世界だ。助けなんか来ない\n　じゃあ、ずっとここで生きていく？）"
-        },
-        {
-            "key": "EP03_S2573_0519",
-            "value": "（そんなの無理だ。訳の分からないヤツに襲われて\n　大人も、家族もいない世界で生きるなんて……）"
-        },
-        {
-            "key": "EP03_S2573_0520",
-            "value": "（リョウは、諦めたって言ってた\n　諦めて、あの霧に飲まれようとしてたんだ）"
-        },
-        {
-            "key": "EP03_S2573_0521",
-            "value": "（僕も霧に飲まれたら……\n　この苦しさや怖さから、解放されるのかな……）"
-        },
-        {
-            "key": "EP03_S2573_0522",
-            "value": "（いや、何を考えてるんだ僕は！\n　絶望するには早い。諦めたら、おしまいだ……！）"
-        },
-        {
-            "key": "EP03_S2573_0523",
-            "value": "（アグモンたちって何なんだ？\n　この世界の生き物ってことはわかるけど）"
-        },
-        {
-            "key": "EP03_S2573_0524",
-            "value": "（ここには人間はいなくて、アグモンたちが生きてて\n　きっと彼らにも、友達や家族がいて……）"
-        },
-        {
-            "key": "EP03_S2573_0525",
-            "value": "（……家族、か\n　僕も、母さんに、会いたいな……）"
-        },
-        {
-            "key": "EP03_S2573_0526",
-            "value": "（……冷えてきた。このままじゃ風邪ひいちゃうな）"
-        },
-        {
-            "key": "EP03_S2573_0527",
-            "value": "（眠れないけど、せめて、横にはなるか……）"
-        }
-    ]
+	"scenario_text":[
+		{
+			"key":"EP03_S2573_0001",
+			"value":"(After all that, Shuuji eventually got us to\ncalm down, and we returned to the school.)"
+		},
+		{
+			"key":"EP03_S2573_0002",
+			"value":"(Leave it to Shuuji to step up in a situation\nlike that and get us all back safely.)"
+		},
+		{
+			"key":"EP03_S2573_0003",
+			"value":"(Kaito was next to recover. He was all ready\nto go to the amusement park and find Miu,)"
+		},
+		{
+			"key":"EP03_S2573_0004",
+			"value":"(But the rest of us managed to convince him\nto come back to the school instead.)"
+		},
+		{
+			"key":"EP03_S2573_0005",
+			"value":"(Shuuji made the case that we could search\nmore effectively after we’d regrouped.)"
+		},
+		{
+			"key":"EP03_S2573_0006",
+			"value":"(And after seeing what happened to Ryo, even\nKaito must’ve realized the need for caution.)"
+		},
+		{
+			"key":"EP03_S2573_0007",
+			"value":"(Everyone else was pretty upset and shaken\nfrom having witnessed Ryo’s death.)"
+		},
+		{
+			"key":"EP03_S2573_0008",
+			"value":"(It was dark by the time we got back, and we\nwere exhausted. Nobody bothered with dinner.)"
+		},
+		{
+			"key":"EP03_S2573_0009",
+			"value":"(The others mostly seemed to collapse into\nsleep, though I found that impossible.)"
+		},
+		{
+			"key":"EP03_S2573_0010",
+			"value":"(My mind kept coming back to the same\nthought.)"
+		},
+		{
+			"key":"EP03_S2573_0011",
+			"value":"(Surely there must have been something more\nI could have done.)"
+		},
+		{
+			"key":"EP03_S2573_0012",
+			"value":"(Maybe if we’d all worked together, or if I’d\nbeen more determined, or...)"
+		},
+		{
+			"key":"EP03_S2573_Q1",
+			"value":"(When Ryo was in trouble, if only we had...)"
+		},
+		{
+			"key":"EP03_S2573_Q1_A1",
+			"value":"Cooperation."
+		},
+		{
+			"key":"EP03_S2573_Q1_A2",
+			"value":"Determination."
+		},
+		{
+			"key":"EP03_S2573_Q1_A3",
+			"value":"I just don’t know."
+		},
+		{
+			"key":"EP03_S2573_0013",
+			"value":"Cooperation."
+		},
+		{
+			"key":"EP03_S2573_0014",
+			"value":"(Maybe if we’d all found a way to communicate\nand work together, we could’ve saved him.)"
+		},
+		{
+			"key":"EP03_S2573_0015",
+			"value":"(No, it wouldn’t have mattered.)"
+		},
+		{
+			"key":"EP03_S2573_0016",
+			"value":"(Even if we’d been able to do something,\nAgumon and the others were frozen with fear.)"
+		},
+		{
+			"key":"EP03_S2573_0017",
+			"value":"Determination."
+		},
+		{
+			"key":"EP03_S2573_0018",
+			"value":"(If I hadn’t let Agumon stop me, moved with\nmore determination, could I have saved him?)"
+		},
+		{
+			"key":"EP03_S2573_0019",
+			"value":"(No, it wouldn’t have mattered.)"
+		},
+		{
+			"key":"EP03_S2573_0020",
+			"value":"(What could I have done against something\neven Agumon and the others find terrifying?)"
+		},
+		{
+			"key":"EP03_S2573_0021",
+			"value":"I just don’t know."
+		},
+		{
+			"key":"EP03_S2573_0022",
+			"value":"(It’s no use. I can’t think of anything.)"
+		},
+		{
+			"key":"EP03_S2573_0023",
+			"value":"(For one thing, that fog is still a complete\nmystery, not to mention the shadow.)"
+		},
+		{
+			"key":"EP03_S2573_0024",
+			"value":"(And more importantly, deep down, somehow\nI knew there was nothing I could do.)"
+		},
+		{
+			"key":"EP03_S2573_0025",
+			"value":"(It’s starting to get cold. If I stay like\nthis I’ll probably end up getting sick.)"
+		},
+		{
+			"key":"EP03_S2573_0026",
+			"value":"(Even if I can’t sleep, maybe I should just\nlie down for a while...)"
+		},
+		{
+			"key":"EP03_S2573_0501",
+			"value":"(We were all happy we’d saved Ryo, but soon\nthe reality of our situation sank in again.)"
+		},
+		{
+			"key":"EP03_S2573_0502",
+			"value":"(Between learning we were on an island with\nno hope of rescue, and that fog monster,)"
+		},
+		{
+			"key":"EP03_S2573_0503",
+			"value":"(my earlier optimism had faded, and the\nthreat of death suddenly seemed very real.)"
+		},
+		{
+			"key":"EP03_S2573_0504",
+			"value":"(We were all shaken, but Shuuji was able to\ncalm us down, and we returned to the school.)"
+		},
+		{
+			"key":"EP03_S2573_0505",
+			"value":"(Leave it to Shuuji to step up in a situation\nlike that and get us all back safely.)"
+		},
+		{
+			"key":"EP03_S2573_0506",
+			"value":"(Kaito was next to recover. He was all ready\nto go to the amusement park and find Miu,)"
+		},
+		{
+			"key":"EP03_S2573_0507",
+			"value":"(but the rest of us managed to convince him\nto come back to the school instead.)"
+		},
+		{
+			"key":"EP03_S2573_0508",
+			"value":"(Shuuji made the case that we could search\nmore effectively after we’d regrouped.)"
+		},
+		{
+			"key":"EP03_S2573_0509",
+			"value":"(And after seeing that fog monster, even\nKaito must’ve realized the need for caution.)"
+		},
+		{
+			"key":"EP03_S2573_0510",
+			"value":"(Everyone else was still scared from learning\nthis was another world and we might all die.)"
+		},
+		{
+			"key":"EP03_S2573_0511",
+			"value":"(It was dark by the time we got back, and we\nwere exhausted. Nobody bothered with dinner.)"
+		},
+		{
+			"key":"EP03_S2573_0512",
+			"value":"(The others mostly seemed to collapse into\nsleep, but I find that impossible.)"
+		},
+		{
+			"key":"EP03_S2573_0513",
+			"value":"(My mind keeps coming back to the same\nthoughts.)"
+		},
+		{
+			"key":"EP03_S2573_0514",
+			"value":"(Can we survive in this strange world? What\nif a monster like Arukenimon attacks again?)"
+		},
+		{
+			"key":"EP03_S2573_0515",
+			"value":"(And what about that monster in the fog? Was\nit the reason Ryo started to go crazy?)"
+		},
+		{
+			"key":"EP03_S2573_0516",
+			"value":"(What is this world, anyway? And what sort of\ncreatures are Agumon and the others?)"
+		},
+		{
+			"key":"EP03_S2573_Q2",
+			"value":"(So many questions fill my head...)"
+		},
+		{
+			"key":"EP03_S2573_Q2_A1",
+			"value":"What happens next?"
+		},
+		{
+			"key":"EP03_S2573_Q2_A2",
+			"value":"Ryo gave up..."
+		},
+		{
+			"key":"EP03_S2573_Q2_A3",
+			"value":"Just what is Agumon?"
+		},
+		{
+			"key":"EP03_S2573_0517",
+			"value":"(Even if we all work together and overcome\nevery hardship, what happens next?)"
+		},
+		{
+			"key":"EP03_S2573_0518",
+			"value":"(This is a different world. Nobody’s going to\ncome save us. Are we stuck here now?)"
+		},
+		{
+			"key":"EP03_S2573_0519",
+			"value":"(That’d be awful. Living in constant fear of\nattack, with no adults and no family...)"
+		},
+		{
+			"key":"EP03_S2573_0520",
+			"value":"(Ryo said he got overwhelmed. It was all too\nmuch for him, so he walked into the fog.)"
+		},
+		{
+			"key":"EP03_S2573_0521",
+			"value":"(If I did that, and the fog got me, would\nthat be the end of all this fear and pain?)"
+		},
+		{
+			"key":"EP03_S2573_0522",
+			"value":"(No, what am I thinking?! I can’t just give\nup. Not yet. Once I do that, it’s all over.)"
+		},
+		{
+			"key":"EP03_S2573_0523",
+			"value":"(Just what is Agumon? And what are the\nothers? Creatures of this world, I guess.)"
+		},
+		{
+			"key":"EP03_S2573_0524",
+			"value":"(And if they’re all that live here, they\nmust have friends and family of their own.)"
+		},
+		{
+			"key":"EP03_S2573_0525",
+			"value":"(Man, thinking about family makes me realize\nhow much I miss my mom...)"
+		},
+		{
+			"key":"EP03_S2573_0526",
+			"value":"(It’s starting to get cold. If I stay like\nthis I’ll probably end up getting sick.)"
+		},
+		{
+			"key":"EP03_S2573_0527",
+			"value":"(Even if I can’t sleep, maybe I should just\nlie down for a while...)"
+		}
+	]
 }

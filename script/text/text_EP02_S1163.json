@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S1163_0001",
-			"value":"ファルコモン、そっちはどうだ？"
+			"value":"Any luck, Falcomon?"
 		},
 		{
 			"key":"EP02_S1163_0002",
-			"value":"すまない、まだ何も見つけられていない"
+			"value":"Unfortunately, no, I have not found anything."
 		},
 		{
 			"key":"EP02_S1163_0003",
-			"value":"だが……何か、気配のようなものは感じる"
+			"value":"However, I am sensing some sort of presence."
 		},
 		{
 			"key":"EP02_S1163_0004",
-			"value":"気配？　危ないものなのか？"
+			"value":"What do you mean? Is it something dangerous?"
 		},
 		{
 			"key":"EP02_S1163_0005",
-			"value":"どうだろう……どんなものかもわからないから\n上手く説明ができんな……"
+			"value":"I’m not sure. Since I can’t tell what it is,\nit’s hard for me to describe."
 		},
 		{
 			"key":"EP02_S1163_0006",
-			"value":"そうか……ひとまず教授たちの手掛かりとか\n探してみてくれ"
+			"value":"All right, well, our first priority should\nstill be to find some trace of the others."
 		},
 		{
 			"key":"EP02_S1163_0007",
-			"value":"承知した"
+			"value":"Very well."
 		},
 		{
 			"key":"EP02_S1163_0008",
-			"value":"何か感じるが……わからんな"
+			"value":"I’m sensing something, only...it’s unclear."
 		}
 	]
 }

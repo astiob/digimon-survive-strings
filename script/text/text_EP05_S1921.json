@@ -2,47 +2,47 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S1921_0001",
-			"value":"シュウジ、大丈夫だよ\n怖がらないで……"
+			"value":"It’s okay, Shuuji, don’t be scared..."
 		},
 		{
 			"key":"EP05_S1921_0002",
-			"value":"僕は怖がってなどいない！\n的外れなことを言うな！"
+			"value":"I’m not scared! You don’t know what you’re\ntalking about!"
 		},
 		{
 			"key":"EP05_S1921_0003",
-			"value":"ご、ごめん……"
+			"value":"I, I'm sorry..."
 		},
 		{
 			"key":"EP05_S1921_0004",
-			"value":"謝るくらいなら最初から言うな！\n黙っていろ！"
+			"value":"If you’re so sorry, don’t say it in the first\nplace! Just be quiet!"
 		},
 		{
 			"key":"EP05_S1921_0005",
-			"value":"うぅ……"
+			"value":"Rrk..."
 		},
 		{
 			"key":"EP05_S1921_0006",
-			"value":"ロップモン……\nあの、大丈夫……？"
+			"value":"Um... Are you okay, Lopmon?"
 		},
 		{
 			"key":"EP05_S1921_0007",
-			"value":"ボクは大丈夫……\n心配かけて、ごめん……"
+			"value":"I’m fine. Sorry to worry you..."
 		},
 		{
 			"key":"EP05_S1921_0008",
-			"value":"ロップモン……"
+			"value":"Lopmon..."
 		},
 		{
 			"key":"EP05_S1921_0009",
-			"value":"（違うんだ。謝ってほしいわけじゃないんだ）"
+			"value":"(Come on, I wasn’t looking for an apology.)"
 		},
 		{
 			"key":"EP05_S1921_0010",
-			"value":"（で、何て声をかけたらいいか\n　わからない……）"
+			"value":"(I don’t know what I should say here...)"
 		},
 		{
 			"key":"EP05_S1921_0011",
-			"value":"ボクは大丈夫だよ……\nごめんね……"
+			"value":"I’m fine. Sorry..."
 		}
 	]
 }

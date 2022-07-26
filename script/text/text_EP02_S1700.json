@@ -2,107 +2,107 @@
     "scenario_text": [
         {
             "key": "EP02_S1700_0001",
-            "value": "教授が無事でよかったよな"
+            "value": "I’m glad the professor was all right."
         },
         {
             "key": "EP02_S1700_0002",
-            "value": "そうだな\nあれを無事というかは別として"
+            "value": "Yeah. I’m not sure I’d call that “all right,”\nthough."
         },
         {
             "key": "EP02_S1700_0003",
-            "value": "サキとシュウジさんがいるのもわかったし\nあとはちゃんと見つけてやるだけだな！"
+            "value": "We know that Saki and Shuuji are out there.\nWe just need to find them!"
         },
         {
             "key": "EP02_S1700_0004",
-            "value": "うむ！　成し遂げてみせるさ！"
+            "value": "Yeah! Let’s show them!"
         },
         {
             "key": "EP02_S1700_0005",
-            "value": "あれ？　なぁタクマ\nあそこにあるのって足跡じゃね？"
+            "value": "Hey, Takuma?\nAren’t those footprints over there?"
         },
         {
             "key": "EP02_S1700_0006",
-            "value": "え？　どれだ？"
+            "value": "Huh? Where?"
         },
         {
             "key": "EP02_S1700_0007",
-            "value": "ほら、そこの草むらのとこ"
+            "value": "Over there, in the grass."
         },
         {
             "key": "EP02_S1700_Q1",
-            "value": "（ミノルが言う足跡なんて見えないぞ？）"
+            "value": "(I can’t see the prints Minoru is looking at.)"
         },
         {
             "key": "EP02_S1700_Q1_A1",
-            "value": "どうやって見つけたんだ？"
+            "value": "How did you find them?"
         },
         {
             "key": "EP02_S1700_Q1_A2",
-            "value": "本当にあるのか？"
+            "value": "Are they really there?"
         },
         {
             "key": "EP02_S1700_0008",
-            "value": "僕には見えないけど、どうやって見つけたんだ？"
+            "value": "How did you find them? I can’t see them..."
         },
         {
             "key": "EP02_S1700_0009",
-            "value": "ボク見えるかも～"
+            "value": "I think I can see them..."
         },
         {
             "key": "EP02_S1700_0010",
-            "value": "俺もだ。見えるというより、感じる、だが"
+            "value": "Me too. But it’s more of a feeling..."
         },
         {
             "key": "EP02_S1700_0011",
-            "value": "あぁごめん、スマホのカメラで見てたんだ"
+            "value": "Sorry. I saw them through my phone’s camera."
         },
         {
             "key": "EP02_S1700_0012",
-            "value": "ほら、これ"
+            "value": "See?"
         },
         {
             "key": "EP02_S1700_0013",
-            "value": "本当にあるのか？"
+            "value": "Are they really there?"
         },
         {
             "key": "EP02_S1700_0014",
-            "value": "今ウソつくよーなタイミングじゃねーだろ！\nホントにあるんだって！"
+            "value": "This isn’t the time for lies!\nThey’re really there!"
         },
         {
             "key": "EP02_S1700_0015",
-            "value": "でも全然見えないぞ？"
+            "value": "But they’re totally invisible?"
         },
         {
             "key": "EP02_S1700_0016",
-            "value": "またイタズラか～？"
+            "value": "Another prank?"
         },
         {
             "key": "EP02_S1700_0017",
-            "value": "こらこら、いわれのない非難はよせ"
+            "value": "Why are you so suspicious?"
         },
         {
             "key": "EP02_S1700_0018",
-            "value": "カメラで見ればわかりやすいって！\nほら"
+            "value": "You can see it through the camera!\nJust look!"
         },
         {
             "key": "EP02_S1700_0019",
-            "value": "こっからじゃわかりにくいかな？\nアップしてみれば……"
+            "value": "It’s a bit hard to make out from here, I guess?\nMaybe try a close-up..."
         },
         {
             "key": "EP02_S1700_0020",
-            "value": "（ミノルのスマホの画面には\n　確かに足跡のようなものが見えるな）"
+            "value": "(I can definitely see the footprints on\nMinoru’s screen.)"
         },
         {
             "key": "EP02_S1700_0021",
-            "value": "（僕も<color=#B41919>カメラ</color>で見てみよう）"
+            "value": "(I’ll try my <color=#B41919>camera</color>, too.)"
         },
         {
             "key": "EP02_S1700_0022",
-            "value": "な？　足跡みたいだろ？"
+            "value": "See? Doesn’t that look like footprints?"
         },
         {
             "key": "EP02_S1700_0023",
-            "value": "（僕もカメラで見てみよう）"
+            "value": "(I’ll try my camera, too.)"
         }
     ]
 }

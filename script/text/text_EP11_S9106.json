@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9106_0001",
-			"value":"いたか？"
+			"value":"Found ‘im?"
 		},
 		{
 			"key":"EP11_S9106_0002",
-			"value":"いや、いない\nったく、逃げ足の速いヤツだ"
+			"value":"Naw, no luck. Sheesh, that jerk is fast."
 		},
 		{
 			"key":"EP11_S9106_0003",
-			"value":"（ピエモンの残党たちは誰かを捜してる？\n　さっき裏切り者って言ってたよな……）"
+			"value":"(Piedmon’s stragglers are looking for\nsomeone? The traitor they mentioned before?)"
 		},
 		{
 			"key":"EP11_S9106_0004",
-			"value":"（いや、それよりアイツらはここに住んでるんだ\n　何か祠の情報を持ってるかもしれない。聞いてみよう）"
+			"value":"(But wait, those guys live here, right? They\nmight know about the shrine. Let’s ask.)"
 		},
 		{
 			"key":"EP11_S9106_0005",
-			"value":"ね、ねぇ、君たち\nちょっといいかな？"
+			"value":"Hey, you guys... Can I ask you something?"
 		},
 		{
 			"key":"EP11_S9106_0006",
-			"value":"むっ、アイツは、確かピエモン様の敵！"
+			"value":"Wha—?! That jerk’s one of Piedmon’s enemies!"
 		},
 		{
 			"key":"EP11_S9106_0007",
-			"value":"やっちまえー！"
+			"value":"Take ‘im out!"
 		},
 		{
 			"key":"EP11_S9106_0008",
-			"value":"くっ、話を聞きもしないのか！"
+			"value":"Damn, they won’t even listen?!"
 		}
 	]
 }

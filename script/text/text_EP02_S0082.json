@@ -2,295 +2,295 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0082_0001",
-			"value":"教授、無事だったんですか！"
+			"value":"You’re safe!"
 		},
 		{
 			"key":"EP02_S0082_0002",
-			"value":"ああ！　君たちも無事で何よりだ\n……いや、まだ無事ってわけでもないな！"
+			"value":"Yes! Same goes for you, I’m happy to see.\n...Well, not exactly “safe” yet!"
 		},
 		{
 			"key":"EP02_S0082_0003",
-			"value":"待ってろよ、無事で済むよう、\n今オレが助けてやるかんな！"
+			"value":"Wait right there! We’re here to save the day!"
 		},
 		{
 			"key":"EP02_S0082_0004",
-			"value":"な、何デカい態度とってんのよ、ミノル！"
+			"value":"Jeez, Minoru, since when did you grow a pair?"
 		},
 		{
 			"key":"EP02_S0082_0005",
-			"value":"サキさん、それよりその子たちは……？"
+			"value":"More importantly, Saki, these are...?"
 		},
 		{
 			"key":"EP02_S0082_0006",
-			"value":"よくわかんないけど、\n私たちを助けてくれたの！"
+			"value":"Can’t say for sure, but they saved us!"
 		},
 		{
 			"key":"EP02_S0082_0007",
-			"value":"フローラモンにロップモンだ！"
+			"value":"That’s Floramon, and Lopmon!"
 		},
 		{
 			"key":"EP02_S0082_0008",
-			"value":"知り合いなのか？"
+			"value":"You know them?"
 		},
 		{
 			"key":"EP02_S0082_0009",
-			"value":"ううん、初めて見た！\nはじめまして！"
+			"value":"Nope, first time I’ve ever seen ‘em!\nNice to meet you!"
 		},
 		{
 			"key":"EP02_S0082_0010",
-			"value":"挨拶は後、あとーっ！\n今はコイツよ～！！"
+			"value":"Save the introductions for later!\nLet’s handle this first!"
 		},
 		{
 			"key":"EP02_S0082_0011",
-			"value":"ぐるるるるるる……\nおやおや、エモノが更に増えたなぁ？"
+			"value":"Grrr...\nOh ho, more prey!"
 		},
 		{
 			"key":"EP02_S0082_0012",
-			"value":"アイツ……喋れたの！？\nうそぉ……！？"
+			"value":"Wait...it talked?!\nWhat the hell?!"
 		},
 		{
 			"key":"EP02_S0082_0013",
-			"value":"よ、よそ見をしてる場合じゃないっ！"
+			"value":"This is no time to just stand there staring!"
 		},
 		{
 			"key":"EP02_S0082_0014",
-			"value":"えっ？　あ、あらっ！？"
+			"value":"Huh? Ah, whoa!!!"
 		},
 		{
 			"key":"EP02_S0082_0015",
-			"value":"（ヤバい！　サキが転んだ！）"
+			"value":"(Oh no, Saki fell down!)"
 		},
 		{
 			"key":"EP02_S0082_0016",
-			"value":"あいてぇ……\nって、ええっ！？"
+			"value":"Owww... Hey, wait!!!"
 		},
 		{
 			"key":"EP02_S0082_0017",
-			"value":"（ちょっ……シュウジさん！\n　サキを置いたまま走って来るなんて……）"
+			"value":"(Hey, Shuuji! I can’t believe you left Saki\nbehind...)"
 		},
 		{
 			"key":"EP02_S0082_0018",
-			"value":"って、やべえ、\n背後にも別の怪物がウジャウジャ来たぞ！"
+			"value":"Uh oh—more creatures are swarming up behind\nthem!"
 		},
 		{
 			"key":"EP02_S0082_0019",
-			"value":"例の、ファングモンの手下ってヤツか？\nまずい、挟み撃ちになる！"
+			"value":"Are those Fangmon’s henchmen? This is bad,\nthey’ll pin us in on both sides!"
 		},
 		{
 			"key":"EP02_S0082_0020",
-			"value":"こんな連中、ボクたちで十分だよ！"
+			"value":"We can handle these freaks!"
 		},
 		{
 			"key":"EP02_S0082_0021",
-			"value":"ああ。俺たちにまかせろ！"
+			"value":"Right, leave them to us!"
 		},
 		{
 			"key":"EP02_S0082_0022",
-			"value":"あっ、教授！"
+			"value":"Oh, Professor!"
 		},
 		{
 			"key":"EP02_S0082_0023",
-			"value":"え！？　一人でサキを助けるつもりか！？"
+			"value":"What? You think you can save Saki alone?"
 		},
 		{
 			"key":"EP02_S0082_0024",
-			"value":"無茶だ！"
+			"value":"That’s crazy!"
 		},
 		{
 			"key":"EP02_S0082_0025",
-			"value":"ふん……"
+			"value":"Hmph..."
 		},
 		{
 			"key":"EP02_S0082_0026",
-			"value":"大丈夫かね、サキくん！\nさあ、私の肩につかまりたまえ！"
+			"value":"It’s okay, Saki! Here, I’ll help you up!"
 		},
 		{
 			"key":"EP02_S0082_0027",
-			"value":"君たちもこっちに！\nもう心配しないでいいよ"
+			"value":"Come, over here! We’ve got you, don’t worry."
 		},
 		{
 			"key":"EP02_S0082_0028",
-			"value":"あ、ありがとう……"
+			"value":"Thank you..."
 		},
 		{
 			"key":"EP02_S0082_0029",
-			"value":"助かったわ！"
+			"value":"We’re rescued!"
 		},
 		{
 			"key":"EP02_S0082_0030",
-			"value":"教授っ！　後ろーっ！"
+			"value":"Professor! Behind you!"
 		},
 		{
 			"key":"EP02_S0082_0031",
-			"value":"なっ！？"
+			"value":"What the—?!"
 		},
 		{
 			"key":"EP02_S0082_0032",
-			"value":"心配しないで、だと？\nそれは残念だったなァ！"
+			"value":"“Don’t worry,” you say?\nNo, I think you should worry!"
 		},
 		{
 			"key":"EP02_S0082_0033",
-			"value":"う、うわぁああ！"
+			"value":"Uwaaah!"
 		},
 		{
 			"key":"EP02_S0082_0034",
-			"value":"くぅっ！　この子たちだけでも……！"
+			"value":"Right... We’ll take care of these kids...!"
 		},
 		{
 			"key":"EP02_S0082_0035",
-			"value":"ぐぁぁぁぁぁぁぁぁっ……！"
+			"value":"Waaaaaaaaah!!!"
 		},
 		{
 			"key":"EP02_S0082_0036",
-			"value":"え……うそ……"
+			"value":"What? No way!"
 		},
 		{
 			"key":"EP02_S0082_0037",
-			"value":"お～っとぉ、そこのチビを狙ったのに\n手が滑っちまったぜ～。ぐぁっはっはぁ"
+			"value":"Oh, ho? I was after that little one but my\nhand slipped. Hahaha!"
 		},
 		{
 			"key":"EP02_S0082_0038",
-			"value":"ま、マジかよ……\nおち、落ちた……"
+			"value":"Seriously?\nHe fell..."
 		},
 		{
 			"key":"EP02_S0082_0039",
-			"value":"あ、ああぁ……\nおしまいだぁ……へへへ……"
+			"value":"Ahhhh! I’m finished!!! Ah, hahahaaa!"
 		},
 		{
 			"key":"EP02_S0082_0040",
-			"value":"はぁっ、はぁっ……\nな、なんだ？　何が起きたんだ？"
+			"value":"*huff* *huff*...!\nWhat happened?"
 		},
 		{
 			"key":"EP02_S0082_0041",
-			"value":"そんな……\nいや、いやぁ……"
+			"value":"No... NOOOOOOOOO!!!"
 		},
 		{
 			"key":"EP02_S0082_0042",
-			"value":"（嘘、だろ……\n　教授が、落ちた……？）"
+			"value":"(No way... The professor fell?)"
 		},
 		{
 			"key":"EP02_S0082_0043",
-			"value":"さぁて、お前らも全員\nちゃんと順番に落としてやるよ"
+			"value":"And now I’ll drop all of the rest of you,\ntoo. One after the other."
 		},
 		{
 			"key":"EP02_S0082_0044",
-			"value":"（ヤバい、頭が働かない……\n　何も考えられない……）"
+			"value":"(Uh oh. I can’t think... My brain’s stopped!)"
 		},
 		{
 			"key":"EP02_S0082_Q1",
-			"value":"（僕たち、死ぬのか？）"
+			"value":"(Are we going to die?)"
 		},
 		{
 			"key":"EP02_S0082_Q1_A1",
-			"value":"活を入れる"
+			"value":"Offer encouragement."
 		},
 		{
 			"key":"EP02_S0082_Q1_A2",
-			"value":"叫ぶ"
+			"value":"Shout."
 		},
 		{
 			"key":"EP02_S0082_Q1_A3",
-			"value":"立ち上がる"
+			"value":"Stand up."
 		},
 		{
 			"key":"EP02_S0082_0045",
-			"value":"俯くなぁっ！"
+			"value":"Don’t give up!"
 		},
 		{
 			"key":"EP02_S0082_0046",
-			"value":"タクマっ？"
+			"value":"Takuma?"
 		},
 		{
 			"key":"EP02_S0082_0047",
-			"value":"タクマくん……？"
+			"value":"Takuma...?"
 		},
 		{
 			"key":"EP02_S0082_0048",
-			"value":"立ち止まってたら死ぬだけだ！\n生き残りたかったら立て！　顔を上げろ！"
+			"value":"We’ll die if we give up now! Get up if you\nwant to live! Lift your head!"
 		},
 		{
 			"key":"EP02_S0082_0201",
-			"value":"戦えっ！"
+			"value":"Fight!"
 		},
 		{
 			"key":"EP02_S0082_0049",
-			"value":"ふん、無駄なことを"
+			"value":"There’s no way..."
 		},
 		{
 			"key":"EP02_S0082_0050",
-			"value":"ああああああああああああああああああああああ！！！"
+			"value":"Aaaaaaaaaaaarrrrrrgh!!!"
 		},
 		{
 			"key":"EP02_S0082_0202",
-			"value":"きゃっ！？"
+			"value":"Yeep!"
 		},
 		{
 			"key":"EP02_S0082_0051",
-			"value":"ど、どうしたんだ……？"
+			"value":"What happened?"
 		},
 		{
 			"key":"EP02_S0082_0052",
-			"value":"あああああああああああああ……っ！"
+			"value":"Yeeeaaaaaarghhh!"
 		},
 		{
 			"key":"EP02_S0082_0053",
-			"value":"っはぁ、スッキリした"
+			"value":"That’s better!"
 		},
 		{
 			"key":"EP02_S0082_0054",
-			"value":"おい、そこのデカいの！\n僕がビビッてると思ったら大間違いだぞ！"
+			"value":"Hey! Lardbutt! I’m not scared of you!"
 		},
 		{
 			"key":"EP02_S0082_0203",
-			"value":"はぁ？　何だってぇ？"
+			"value":"What was that?!"
 		},
 		{
 			"key":"EP02_S0082_0204",
-			"value":"（よし、ファングモンの注意が僕に向いた\n　この隙にみんなの態勢を立て直すんだ）"
+			"value":"(Perfect. Now that Fangmon’s focused on me,\nthe others will have a chance to recover.)"
 		},
 		{
 			"key":"EP02_S0082_0205",
-			"value":"いいか、お前なんか怖くもなんともない！"
+			"value":"Didn’t you hear me? I said you don’t scare me\nat all, lard-butt!"
 		},
 		{
 			"key":"EP02_S0082_0055",
-			"value":"お前を倒して、僕は生きる！\nそれだけだ！"
+			"value":"You’re going down, and we’re gonna be the\nones walking away afterwards!"
 		},
 		{
 			"key":"EP02_S0082_0206",
-			"value":"へっへっへ、上等じゃねえか……\n次はテメェをぶっ飛ばしてやるぜぇ！"
+			"value":"Heheheh... You’re askin’ for it, kid! I’ll\njust have to smash you next!"
 		},
 		{
 			"key":"EP02_S0082_0207",
-			"value":"（みんなも立ち上がった\n　これなら戦えるぞ！）"
+			"value":"(The others are all back on their feet now.\nWe can do this!)"
 		},
 		{
 			"key":"EP02_S0082_0056",
-			"value":"（なんでだろう。怖くて仕方ないのに\n　頭の中はぐちゃぐちゃなのに）"
+			"value":"(What’s happening? I’m terrified.\nI’m totally confused.)"
 		},
 		{
 			"key":"EP02_S0082_0057",
-			"value":"おいおいおい……バカか？　死にに行くのかよ？"
+			"value":"Hey, now... Are you stupid?"
 		},
 		{
 			"key":"EP02_S0082_0058",
-			"value":"（どうして、足が勝手に動いて\n　まっすぐ敵に向かって歩いてるんだろう？）"
+			"value":"(Why are my legs moving? I’m heading right\nfor the bad guy!)"
 		},
 		{
 			"key":"EP02_S0082_0059",
-			"value":"どうした？　お前から死にたいのか？"
+			"value":"What’s wrong? You want to be the first one to\ndie?"
 		},
 		{
 			"key":"EP02_S0082_0060",
-			"value":"（死にたいわけ……ないだろうっ）"
+			"value":"(I don’t want to die... right?)"
 		},
 		{
 			"key":"EP02_S0082_0061",
-			"value":"行くぞ、アグモン！"
+			"value":"Let’s go, Agumon!"
 		},
 		{
 			"key":"EP02_S0082_0062",
-			"value":"おうっ！"
+			"value":"I’m on it!"
 		}
 	]
 }

@@ -2,63 +2,63 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2215_0001",
-			"value":"ファルコモン、大丈夫か？"
+			"value":"Are you okay, Falcomon?"
 		},
 		{
 			"key":"EP06_S2215_0002",
-			"value":"誰かさんの短慮には迷惑しているが\n俺自身に問題はない"
+			"value":"I cannot stand that short temper of his, but\nI am untroubled."
 		},
 		{
 			"key":"EP06_S2215_0003",
-			"value":"つまり、怒ってるんだね"
+			"value":"In other words, you’re upset."
 		},
 		{
 			"key":"EP06_S2215_0004",
-			"value":"……俺は別に、守る見返りがほしいなどと\n思っているわけではない"
+			"value":"...I have never sought reward or compensation\nfor my efforts to protect him."
 		},
 		{
 			"key":"EP06_S2215_0005",
-			"value":"ただ、地下水道を抜けてから俺たちに\nぶつけられたのは、あまりにも酷い言葉ばかりだ"
+			"value":"Even so, he has hurled a bevy of cruel words\nour way since we exited the waterway."
 		},
 		{
 			"key":"EP06_S2215_0006",
-			"value":"……ごめん"
+			"value":"I’m really sorry..."
 		},
 		{
 			"key":"EP06_S2215_0007",
-			"value":"お前が謝ることではない"
+			"value":"There is no need for you to apologize."
 		},
 		{
 			"key":"EP06_S2215_0008",
-			"value":"これは、俺のせいでもある"
+			"value":"I share culpability for this turn of events."
 		},
 		{
 			"key":"EP06_S2215_0009",
-			"value":"どういう意味？"
+			"value":"What do you mean by that?"
 		},
 		{
 			"key":"EP06_S2215_0010",
-			"value":"……ミノルの言葉を否定しきれないんだ"
+			"value":"...I could not disprove Minoru’s words\ncompletely."
 		},
 		{
 			"key":"EP06_S2215_0011",
-			"value":"え……？"
+			"value":"What?"
 		},
 		{
 			"key":"EP06_S2215_0012",
-			"value":"……他の場所の探索はいいのか？"
+			"value":"...Shall we search somewhere else?"
 		},
 		{
 			"key":"EP06_S2215_0013",
-			"value":"あ、う、うん\nじゃあ行ってこようかな"
+			"value":"Oh, uh, yeah. Then I’ll go do just that."
 		},
 		{
 			"key":"EP06_S2215_0014",
-			"value":"（露骨に話を逸らされてしまった……\n　ファルコモンの言葉、どういう意味なんだろう）"
+			"value":"(Falcomon obviously changed the subject. What\ncould he have meant?)"
 		},
 		{
 			"key":"EP06_S2215_0015",
-			"value":"嫌な気配を感じる\n他の場所を探索するなら気を付けろ"
+			"value":"I feel a foreboding presence. Be careful if\nyou mean to search a different area."
 		}
 	]
 }

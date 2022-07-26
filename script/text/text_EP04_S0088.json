@@ -2,355 +2,355 @@
 	"scenario_text":[
 		{
 			"key":"EP04_S0088_0001",
-			"value":"この道を抜ければ、無事に地上へ着くでの\nもう少しの辛抱じゃぞ"
+			"value":"Hang in there. By the time we reach the end\nof this path, we’ll be at the surface."
 		},
 		{
 			"key":"EP04_S0088_0002",
-			"value":"あっ！"
+			"value":"Yeek!"
 		},
 		{
 			"key":"EP04_S0088_0003",
-			"value":"アオイ、大丈夫！？"
+			"value":"Aoi, are you all right?!"
 		},
 		{
 			"key":"EP04_S0088_0004",
-			"value":"アオイ君、どうしたんだ！？"
+			"value":"What happened?!"
 		},
 		{
 			"key":"EP04_S0088_0005",
-			"value":"な、何でもないです……\nちょっとつまづいただけなので……気を付けます"
+			"value":"Oh... It was nothing. I just tripped. Sorry,\nI’ll be more careful."
 		},
 		{
 			"key":"EP04_S0088_0006",
-			"value":"ちょっと歩きづらいもんね"
+			"value":"It is kind of hard to walk down here, isn’t\nit?"
 		},
 		{
 			"key":"EP04_S0088_0007",
-			"value":"お姉ちゃんも……足元、気を付けてね"
+			"value":"Miyuki, you watch your step too, okay?"
 		},
 		{
 			"key":"EP04_S0088_0008",
-			"value":"うん……"
+			"value":"Okay..."
 		},
 		{
 			"key":"EP04_S0088_0009",
-			"value":"このあたりは、どうにも崩れやすくなっておるからの\n老朽化は止められんじゃろうてのう"
+			"value":"Yes, this area is prone to collapses. I’m\nafraid it’s aging rather poorly."
 		},
 		{
 			"key":"EP04_S0088_0010",
-			"value":"こんだけボロッちい遊園地だもんなー"
+			"value":"Yeah, this place is pretty beat up, isn’t it?"
 		},
 		{
 			"key":"EP04_S0088_0011",
-			"value":"確かに……あの校舎にも驚いたけど\nこの遊園地もボロボロでかなり古いよな"
+			"value":"It is. I remember the state of the school was\na surprise, and this place isn’t much better."
 		},
 		{
 			"key":"EP04_S0088_0012",
-			"value":"ここは、いったい\nいつから建ってるんだろう？"
+			"value":"I wonder when they built this park."
 		},
 		{
 			"key":"EP04_S0088_0013",
-			"value":"そうじゃのう……ワシらがここに住むようになって\n何十年か……"
+			"value":"Yes, well, it’s been decades since we started\nliving here."
 		},
 		{
 			"key":"EP04_S0088_0014",
-			"value":"な、何十年！？"
+			"value":"Wait, did you say decades?"
 		},
 		{
 			"key":"EP04_S0088_0015",
-			"value":"タクマ、それって長いのか？"
+			"value":"Is that a long time, Takuma?"
 		},
 		{
 			"key":"EP04_S0088_0016",
-			"value":"めちゃくちゃ、長いよ……！"
+			"value":"It’s a super long time!"
 		},
 		{
 			"key":"EP04_S0088_0017",
-			"value":"うむ、いや、我々の世界とニンゲンの世界では、\n時のモノサシが違うのかも知れぬが……"
+			"value":"Indeed. But the way time is reckoned here in\nour world may be different than in yours."
 		},
 		{
 			"key":"EP04_S0088_0018",
-			"value":"ワシの記憶では、この地にこの遊園地が出来てから\n間違いなく、何十年も経っておる"
+			"value":"Still, by my recollection, this park has\nstood here for several decades."
 		},
 		{
 			"key":"EP04_S0088_0019",
-			"value":"妙じゃないか？　そんな大昔に\n誰がどうやって遊園地なんて作ったんだよ"
+			"value":"How does that make any sense? Who could’ve\nbuilt this place so long ago? And how?"
 		},
 		{
 			"key":"EP04_S0088_0020",
-			"value":"お前たちの世界では、どうやって作ってんだ？"
+			"value":"How do they make them in your world?"
 		},
 		{
 			"key":"EP04_S0088_0021",
-			"value":"そりゃ……大人が、重機とか使って\n大々的な工事っつーもんを……"
+			"value":"Well...adults use all this heavy machinery.\nIt’s like a huge construction project."
 		},
 		{
 			"key":"EP04_S0088_0022",
-			"value":"つまり、一朝一夕にはできないということか"
+			"value":"In other words, such places are not built in\na day."
 		},
 		{
 			"key":"EP04_S0088_0023",
-			"value":"そうだよ\n遊園地なんて作ろうと思ったら何年もかかるはずだ"
+			"value":"Exactly. It takes years to build an amusement\npark."
 		},
 		{
 			"key":"EP04_S0088_0024",
-			"value":"そもそも、『誰か』が作ったと考えること自体\n間違ってるのかもよ？"
+			"value":"Well, maybe it’s a mistake to think of anyone\nactually building this place."
 		},
 		{
 			"key":"EP04_S0088_0025",
-			"value":"どういう意味だ？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP04_S0088_0026",
-			"value":"この世界では、私たちが信じられないような\nことばかり起こるでしょ？"
+			"value":"Like, all sorts of crazy stuff happens in\nthis world, right?"
 		},
 		{
 			"key":"EP04_S0088_0027",
-			"value":"極端な話、不思議な力で\nある日突然、ポンッと遊園地が出来たんだとしても……"
+			"value":"So what if, to use an extreme example, this\nplace just suddenly appeared one day..."
 		},
 		{
 			"key":"EP04_S0088_0028",
-			"value":"おかしくないんじゃない？"
+			"value":"...because of some mysterious power? Doesn’t\nthat seem like how things work here?"
 		},
 		{
 			"key":"EP04_S0088_0029",
-			"value":"もしかして、あの校舎もそうなのか……？\nその、不思議な力で出てきた……みたいな"
+			"value":"Yeah, maybe the same thing happened with the\nschool. It was created by some strange power."
 		},
 		{
 			"key":"EP04_S0088_0030",
-			"value":"なくはねえ話だな"
+			"value":"It does seem possible."
 		},
 		{
 			"key":"EP04_S0088_0031",
-			"value":"オレらの常識が当てはまるような世界なら\n苦労しねえだろ"
+			"value":"Hey, if this world made any kinda sense, none\nof this would be so bad."
 		},
 		{
 			"key":"EP04_S0088_0032",
-			"value":"クネモンたちみてーな生き物とか霧とか\nあの『手』のバケモノみてーなヤツとか、ワケわかんねえよ"
+			"value":"Instead we’ve got things like Kunemon, the\nfog, that hand monster, and other nonsense."
 		},
 		{
 			"key":"EP04_S0088_0033",
-			"value":"地形だって変わっちまってるんだ\nもし一晩で遊園地が現れたって、オレは驚かねえな"
+			"value":"Even the geography’s messed up. If you said\nthe park popped up overnight, I’d believe it."
 		},
 		{
 			"key":"EP04_S0088_0034",
-			"value":"そうよね……逆に納得しちゃうかも"
+			"value":"Yeah, if anything, I think that’s more\nconvincing."
 		},
 		{
 			"key":"EP04_S0088_0035",
-			"value":"確かに……"
+			"value":"I can see it."
 		},
 		{
 			"key":"EP04_S0088_0036",
-			"value":"もしかして、あの校舎もそうなのか？"
+			"value":"You think the same thing happened with the\nschool?"
 		},
 		{
 			"key":"EP04_S0088_0037",
-			"value":"誰かが作ったとかじゃなくて\n不思議な力でできた……みたいな"
+			"value":"That it wasn’t built, but created by some\nstrange power?"
 		},
 		{
 			"key":"EP04_S0088_0038",
-			"value":"ジジモンさんは、ここができる前から\nこの地に居たんですよね？"
+			"value":"You’ve been around since before this place\nwas here, right Jijimon?"
 		},
 		{
 			"key":"EP04_S0088_0039",
-			"value":"いかにもじゃが？"
+			"value":"Oh, yes, why do you ask?"
 		},
 		{
 			"key":"EP04_S0088_0040",
-			"value":"一体、この遊園地はどんなタイミングで、\nどんな成り立ちで出来たんです？"
+			"value":"Can you tell us anything about how it was\nmade, and how much time it took?"
 		},
 		{
 			"key":"EP04_S0088_0041",
-			"value":"うむ、その話をするには、\nそもそもの、この世の成り立ちからじゃなぁ"
+			"value":"Ah, but first you must first understand the\nnature of this world, and how it came to be."
 		},
 		{
 			"key":"EP04_S0088_0042",
-			"value":"この世って……\nまたスケール大きい話だな！"
+			"value":"The nature of this world? Another huge topic!"
 		},
 		{
 			"key":"EP04_S0088_0043",
-			"value":"我らの住むこの世界は、かつて強い力を持った、\n何者かに創り出された……という伝承があってな"
+			"value":"According to legend, this world was created\nlong ago by a supremely powerful being."
 		},
 		{
 			"key":"EP04_S0088_0044",
-			"value":"言うなれば神のような存在じゃ\nいや、我らにとってはまさに神じゃろう"
+			"value":"You could say this being was like a god.\nIndeed, it was a god from our perspective."
 		},
 		{
 			"key":"EP04_S0088_0045",
-			"value":"世界を創っちゃうような存在なら、\nそりゃ校舎だって遊園地だって作れるよな"
+			"value":"If this being created your world, then\nschools and amusement parks would be easy."
 		},
 		{
 			"key":"EP04_S0088_0046",
-			"value":"じゃあ、ロープウェイが\n何故か動いていたのも……"
+			"value":"That could explain why that cable car was\nrunning, too."
 		},
 		{
 			"key":"EP04_S0088_0047",
-			"value":"ボロボロの校舎なのに、何故か\n食べ物と医療キットが腐ってなかったのも……"
+			"value":"And why the food and medicine are fine, even\nthough the school is old and run-down."
 		},
 		{
 			"key":"EP04_S0088_0048",
-			"value":"えっ、神様の仕業なの！？\n今までの全てって！？"
+			"value":"So, wait... You’re saying this has all been\nthe work of a god?"
 		},
 		{
 			"key":"EP04_S0088_0049",
-			"value":"神様じゃなかったら、何の仕業だと\n思ってたんだよ？"
+			"value":"Who else do you think could do all this?"
 		},
 		{
 			"key":"EP04_S0088_0050",
-			"value":"何のってわけじゃないけど\nさすがに相手が神様だとは思ってなかったかも……"
+			"value":"I mean, I didn’t have anything in mind, but\nI never thought we were dealing with a god."
 		},
 		{
 			"key":"EP04_S0088_0051",
-			"value":"物事はそう単純でもなくてのう\nその、神に等しき存在とて、今は昔……"
+			"value":"I’m afraid it’s not that simple. You see,\nthis god-like being faded away long ago."
 		},
 		{
 			"key":"EP04_S0088_0052",
-			"value":"既にその存在は消え失せ、この世界を管理する者は、\nあるべき形に整えようとしておるのじゃろう"
+			"value":"And the current caretaker of our world likely\nwishes to reshape it into its preferred form."
 		},
 		{
 			"key":"EP04_S0088_0053",
-			"value":"（つまり創造神と、管理する者ってのが\n　別にいるって話なのかな？）"
+			"value":"(So he’s saying the creator of this world and\nits caretaker are two different beings?)"
 		},
 		{
 			"key":"EP04_S0088_0054",
-			"value":"（とはいえ……）"
+			"value":"(Then maybe we’re not dealing with a god. But\nstill...)"
 		},
 		{
 			"key":"EP04_S0088_0055",
-			"value":"ゴメン、意味わかんない！"
+			"value":"Sorry, but I don’t get it."
 		},
 		{
 			"key":"EP04_S0088_0056",
-			"value":"え、そうなの？\nてっきりサキはわかってるのかと……"
+			"value":"Really? You don’t? I thought for sure you\nwere following all this."
 		},
 		{
 			"key":"EP04_S0088_0057",
-			"value":"だって、結局何がどうなってるのか\n全然わかんないもん"
+			"value":"How could I? I mean, I don’t see how any of\nthis fits together."
 		},
 		{
 			"key":"EP04_S0088_0058",
-			"value":"ごめんなさい……ボクもわかんなかった"
+			"value":"I...didn’t get it either. Sorry..."
 		},
 		{
 			"key":"EP04_S0088_0059",
-			"value":"いや、全員理解不能だって！"
+			"value":"Nah, don’t worry about it. This is beyond all\nof us."
 		},
 		{
 			"key":"EP04_S0088_0060",
-			"value":"うむ……こればかりは\nワシも、これ以上説明できんでの……"
+			"value":"I see... Well, I’m afraid I can’t explain\nthings any more clearly than I already have."
 		},
 		{
 			"key":"EP04_S0088_0061",
-			"value":"この世界のことが少しわかったような\nますますわからなくなったような……"
+			"value":"I’m not sure if I learned something from all\nthat or if I’m more confused than ever."
 		},
 		{
 			"key":"EP04_S0088_0062",
-			"value":"アグモンなんて、すげーうんうん唸ってるじゃん"
+			"value":"Agumon, you seem like you’ve been thinking\nthings over for a while now."
 		},
 		{
 			"key":"EP04_S0088_0063",
-			"value":"うう～ん……"
+			"value":"Hmm..."
 		},
 		{
 			"key":"EP04_S0088_0064",
-			"value":"ほんとだ、唸ってる"
+			"value":"You’re right, he does seem thoughtful."
 		},
 		{
 			"key":"EP04_S0088_0065",
-			"value":"よっぽど話が難しかったんだろうな"
+			"value":"I guess the conversation was just that hard\nto follow."
 		},
 		{
 			"key":"EP04_S0088_0066",
-			"value":"おかしいなぁ……"
+			"value":"It’s funny..."
 		},
 		{
 			"key":"EP04_S0088_0067",
-			"value":"（ん……？　おかしいな？）"
+			"value":"(Hm? What’s funny?)"
 		},
 		{
 			"key":"EP04_S0088_0068",
-			"value":"んん～、なんでだろ～？"
+			"value":"I wonder why..."
 		},
 		{
 			"key":"EP04_S0088_0069",
-			"value":"アグモン、何がおかしいんだ？"
+			"value":"What is it, Agumon?"
 		},
 		{
 			"key":"EP04_S0088_0070",
-			"value":"もしかして、今のジジモンさんの話で\n何か気づいたことがあるの？"
+			"value":"Did something Jijimon said make you realize\nsomething?"
 		},
 		{
 			"key":"EP04_S0088_0071",
-			"value":"ちがうよー\nボクが言ってるのは、モヤモヤした感じだよ"
+			"value":"Oh, no. I’m talking about this funny feeling\nI’ve got."
 		},
 		{
 			"key":"EP04_S0088_0072",
-			"value":"って、全然違うこと考えてたのかよ！"
+			"value":"You mean you haven’t even been paying\nattention?!"
 		},
 		{
 			"key":"EP04_S0088_0073",
-			"value":"それでアグモン、モヤモヤって……？"
+			"value":"Never mind that, what’s this feeling of\nyours?"
 		},
 		{
 			"key":"EP04_S0088_0074",
-			"value":"このあたり、なんか……気になるっていうか……"
+			"value":"Something around here just...isn’t right."
 		},
 		{
 			"key":"EP04_S0088_0075",
-			"value":"む……？　言われてみれば、何やら……"
+			"value":"Hm? Now that you mention it, I sense it too."
 		},
 		{
 			"key":"EP04_S0088_0076",
-			"value":"確かに……ちょっとアレね？"
+			"value":"Yes, something is off."
 		},
 		{
 			"key":"EP04_S0088_0077",
-			"value":"なになに、どういうこと？"
+			"value":"Oh? Like what?"
 		},
 		{
 			"key":"EP04_S0088_0078",
-			"value":"この感じ、何かしら"
+			"value":"I feel it too, but I’m not sure what it is."
 		},
 		{
 			"key":"EP04_S0088_0079",
-			"value":"こう……とは、言えない感じだけど……"
+			"value":"It’s like... It’s hard to describe."
 		},
 		{
 			"key":"EP04_S0088_0080",
-			"value":"気になるっちゃ、気になるな！"
+			"value":"I don’t like it!"
 		},
 		{
 			"key":"EP04_S0088_0081",
-			"value":"ラブラモンたちが口をそろえて言うなんて……\n何があるのかしら？"
+			"value":"There must be something to it if you can all\nfeel it, but...what could it be?"
 		},
 		{
 			"key":"EP04_S0088_0082",
-			"value":"それが、ハッキリわからないんだ……"
+			"value":"We don’t really know..."
 		},
 		{
 			"key":"EP04_S0088_0083",
-			"value":"調べてみたほうがいいのかな……"
+			"value":"You think we should look around?"
 		},
 		{
 			"key":"EP04_S0088_0084",
-			"value":"タクマ、悪いが今は早くミウのところに\n戻りてえ"
+			"value":"Sorry, Takuma, but I want to get back to Miu\nas soon as we can."
 		},
 		{
 			"key":"EP04_S0088_0085",
-			"value":"そ、そうか……！\nそうだな……！"
+			"value":"Oh, right! We should do that."
 		},
 		{
 			"key":"EP04_S0088_0086",
-			"value":"（ゆっくり調べるのは、あとでもいいはずだ）"
+			"value":"(We can always take the time to investigate\nlater.)"
 		},
 		{
 			"key":"EP04_S0088_0087",
-			"value":"ごめんカイト、まずはミウのところへ戻ろう"
+			"value":"My bad, Kaito. Let’s start by going back to\nsee Miu."
 		},
 		{
 			"key":"EP04_S0088_0088",
-			"value":"出口まではもうすぐじゃて\nしっかりついて来るんじゃぞ"
+			"value":"We’re approaching the exit now, but don’t get\ntoo far behind!"
 		}
 	]
 }

@@ -2,595 +2,595 @@
     "DS_Tips": [
         {
             "key": "TIPS_TITLE_001",
-            "value": "Tips 『選択肢』"
+            "value": "Tip: Decisions"
         },
         {
             "key": "TIPS_TITLE_002",
-            "value": "Tips 『カルマ値』"
+            "value": "Tip: Karma"
         },
         {
             "key": "TIPS_TITLE_003",
-            "value": "Tips 『カルマ値による進化の影響』"
+            "value": "Tip: Karma and Evolution"
         },
         {
             "key": "TIPS_TITLE_004",
-            "value": "Tips 『親密度』"
+            "value": "Tip: Affinity"
         },
         {
             "key": "TIPS_TITLE_005",
-            "value": "Tips 『親密度の進化影響』"
+            "value": "Tip: Affinity and Evolution"
         },
         {
             "key": "TIPS_TITLE_006",
-            "value": "Tips 『自由行動』"
+            "value": "Tip: Free Actions"
         },
         {
             "key": "TIPS_TITLE_007",
-            "value": "Tips 『自由行動の回数制限』"
+            "value": "Tip: Free Action Move Limit"
         },
         {
             "key": "TIPS_TITLE_008",
-            "value": "Tips 『行動回数の消費』"
+            "value": "Tip: Using Moves"
         },
         {
             "key": "TIPS_TITLE_009",
-            "value": "Tips 『フリーバトル』"
+            "value": "Tip: Free Battle"
         },
         {
             "key": "TIPS_TITLE_010",
-            "value": "Tips 『探索行動』"
+            "value": "Tip: Exploration"
         },
         {
             "key": "TIPS_TITLE_011",
-            "value": "Tips 『探索行動の操作と進行』"
+            "value": "Tip: Exploration Control & Progress"
         },
         {
             "key": "TIPS_TITLE_012",
-            "value": "Tips 『調べる』"
+            "value": "Tip: Investigation"
         },
         {
             "key": "TIPS_TITLE_013",
-            "value": "Tips 『カメラモード』"
+            "value": "Tip: Camera Mode"
         },
         {
             "key": "TIPS_TITLE_014",
-            "value": "Tips 『敵との遭遇』"
+            "value": "Tip: Enemy Encounters"
         },
         {
             "key": "TIPS_TITLE_015",
-            "value": "Tips 『メニュー画面の呼び出し』"
+            "value": "Tip: Opening the Pause Menu"
         },
         {
             "key": "TIPS_TITLE_016",
-            "value": "Tips 『MAP移動』"
+            "value": "Tip: Map Movement"
         },
         {
             "key": "TIPS_TITLE_017",
-            "value": "Tips 『イベント発生地点』"
+            "value": "Tip: Event Points"
         },
         {
             "key": "TIPS_TITLE_018",
-            "value": "Tips 『その他のアイコン』"
+            "value": "Tip: Other Icons"
         },
         {
             "key": "TIPS_TITLE_019",
-            "value": "Tips 『勝利条件と敗北条件』"
+            "value": "Tip: Victory and Defeat Conditions"
         },
         {
             "key": "TIPS_TITLE_020",
-            "value": "Tips 『難易度選択』"
+            "value": "Tip: Difficulty Selection"
         },
         {
             "key": "TIPS_TITLE_021",
-            "value": "Tips 『フリーカーソルとカメラの操作』"
+            "value": "Tip: Free Cursor and Camera Controls"
         },
         {
             "key": "TIPS_TITLE_022",
-            "value": "Tips 『ユニットの基本能力』"
+            "value": "Tip: Basic Abilities"
         },
         {
             "key": "TIPS_TITLE_023",
-            "value": "Tips 『ユニットのパッシブスキル』"
+            "value": "Tip: Passive Skills"
         },
         {
             "key": "TIPS_TITLE_024",
-            "value": "Tips 『ユニットの行動順』"
+            "value": "Tip: Turn Order"
         },
         {
             "key": "TIPS_TITLE_025",
-            "value": "Tips 『移動コマンド』"
+            "value": "Tip: Move Command"
         },
         {
             "key": "TIPS_TITLE_026",
-            "value": "Tips 『高低差による移動制限』"
+            "value": "Tip: Elevation and Movement"
         },
         {
             "key": "TIPS_TITLE_027",
-            "value": "Tips 『攻撃コマンド』"
+            "value": "Tip: Attack Command"
         },
         {
             "key": "TIPS_TITLE_028",
-            "value": "Tips 『攻撃効果の予測』"
+            "value": "Tip: Attack Effect Predictions"
         },
         {
             "key": "TIPS_TITLE_029",
-            "value": "Tips 『スキル属性への耐性』"
+            "value": "Tip: Resistance Effects in Battle"
         },
         {
             "key": "TIPS_TITLE_030",
-            "value": "Tips 『攻防における方向補正』"
+            "value": "Tip: Orientation in Battle"
         },
         {
             "key": "TIPS_TITLE_031",
-            "value": "Tips 『攻防における高低差補正』"
+            "value": "Tip: Elevation in Battle"
         },
         {
             "key": "TIPS_TITLE_032",
-            "value": "Tips 『仲間との戦闘サポート』"
+            "value": "Tip: Battle Backup with Friends"
         },
         {
             "key": "TIPS_TITLE_033",
-            "value": "Tips 『戦闘サポート：援護』"
+            "value": "Tip: Battle Backup - Encouragement"
         },
         {
             "key": "TIPS_TITLE_034",
-            "value": "Tips 『戦闘サポート：追撃』"
+            "value": "Tip: Battle Backup - Team Attack"
         },
         {
             "key": "TIPS_TITLE_035",
-            "value": "Tips 『戦闘サポート：支援』"
+            "value": "Tip: Battle Backup - Support"
         },
         {
             "key": "TIPS_TITLE_036",
-            "value": "Tips 『アイテムコマンド』"
+            "value": "Tip: Item Command"
         },
         {
             "key": "TIPS_TITLE_037",
-            "value": "Tips 『進化コマンド』"
+            "value": "Tip: Evolve Command"
         },
         {
             "key": "TIPS_TITLE_038",
-            "value": "Tips 『進化中のSP消費と退化』"
+            "value": "Tip: Evolution, Devolution, and SP"
         },
         {
             "key": "TIPS_TITLE_039",
-            "value": "Tips 『会話コマンド』"
+            "value": "Tip: Talk Command"
         },
         {
             "key": "TIPS_TITLE_040",
-            "value": "Tips 『仲間との会話と効果』"
+            "value": "Tip: Talking with Friends"
         },
         {
             "key": "TIPS_TITLE_041",
-            "value": "Tips 『敵との会話と結果』"
+            "value": "Tip: Talking with Enemies"
         },
         {
             "key": "TIPS_TITLE_042",
-            "value": "Tips 『ターン終了コマンド』"
+            "value": "Tip: End Turn Command"
         },
         {
             "key": "TIPS_TITLE_043",
-            "value": "Tips 『防御の発動』"
+            "value": "Tip: Activating Defense"
         },
         {
             "key": "TIPS_TITLE_044",
-            "value": "Tips 『ターン終了時のSP回復』"
+            "value": "Tip: End Turn SP Recovery"
         },
         {
             "key": "TIPS_TITLE_045",
-            "value": "Tips 『バトルメニュー』"
+            "value": "Tip: Battle Menu"
         },
         {
             "key": "TIPS_TITLE_046",
-            "value": "Tips 『オートバトル』"
+            "value": "Tip: Auto-Battle"
         },
         {
             "key": "TIPS_TITLE_047",
-            "value": "Tips 『中断』"
+            "value": "Tip: Suspending Battles"
         },
         {
             "key": "TIPS_TITLE_048",
-            "value": "Tips 『味方のステータス』"
+            "value": "Tip: Stats"
         },
         {
             "key": "TIPS_TITLE_049",
-            "value": "Tips 『スキルの確認』"
+            "value": "Tip: Checking Skills"
         },
         {
             "key": "TIPS_TITLE_050",
-            "value": "Tips 『装備の変更』"
+            "value": "Tip: Changing Equipment"
         },
         {
             "key": "TIPS_TITLE_051",
-            "value": "Tips 『モンスターの育成』"
+            "value": "Tip: Training Monsters"
         },
         {
             "key": "TIPS_TITLE_052",
-            "value": "Tips 『進化の確認』"
+            "value": "Tip: Checking Evolution"
         },
         {
             "key": "TIPS_TITLE_053",
-            "value": "Tips 『プロフィール』"
+            "value": "Tip: Profiles"
         },
         {
             "key": "TIPS_TITLE_054",
-            "value": "Tips 『人物情報やエピソード』"
+            "value": "Tip: Character Info and Episodes"
         },
         {
             "key": "TIPS_TITLE_055",
-            "value": "Tips 『アイテム』"
+            "value": "Tip: Items"
         },
         {
             "key": "TIPS_TITLE_056",
-            "value": "Tips 『ユニットのモンスター属性』"
+            "value": "Tip: Monster Types"
         },
         {
             "key": "TIPS_DETAIL_001",
-            "value": "ストーリー中に選択肢が発生することがあります\nプレイヤーは明示された選択肢から1つを選べます\n選択の結果により、『カルマ値』もしくは対象キャラ\nクターとの『親密度』が変動する場合があります"
+            "value": "Decisions will have to be made at certain points in the\nstory. You can select one of the options displayed\non-screen, affecting your Karma or Affinity to the target\ncharacter depending on the choices you make."
         },
         {
             "key": "TIPS_DETAIL_002",
-            "value": "選択結果で変動する、プレイヤーの性質的な傾向を表す値です\n現在の状況はメニュー内のプロフィール画面で確認できます\n『調和』『激情』『道義』の3種が存在し、この値により\n物語の展開が変化します"
+            "value": "A value showing the player’s dispositional tendencies that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. There are three\ntypes of Karma: Harmonious, Wrathful, and Moral. This value\nwill change how the story unfolds."
         },
         {
             "key": "TIPS_DETAIL_003",
-            "value": "カルマ値はアグモンの進化にも影響を与えます\n進化時点で最も高いカルマ値によって、アグモンが進化する\nモンスターが決定します"
+            "value": "Karma will effect Agumon’s Evolution. The highest Karma value at the moment of Evolution will decide what Monster Agumon evolves into."
         },
         {
             "key": "TIPS_DETAIL_004",
-            "value": "選択結果で変動する、仲間との親しさを表す値です\n現在の状況はメニュー内のプロフィール画面で確認ができます\n親密度は仲間モンスターの進化や、バトル中の戦闘サポートの\n発生率などに影響します"
+            "value": "A value showing your intimacy with other characters that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. Affinity affects\nthe evolution of other characters and monsters, the\nfrequency of Battle Backup occurring in battles, and more."
         },
         {
             "key": "TIPS_DETAIL_005",
-            "value": "一定の親密度に達している仲間のモンスターには、\n特定の章以降でMAPに特別な移動先が追加されます\n移動すると進化イベントが発生し、その仲間のモンスターは\n新たな進化が解放されます"
+            "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger an evolution event, unlocking\na new evolution for that character."
         },
         {
             "key": "TIPS_DETAIL_006",
-            "value": "ストーリー中、自由行動というシチュエーションが発生する\nことがあります\n自由行動は、行動回数に制限のある点が特徴です\n主に、仲間たちとの親密度上昇を目的として活動します"
+            "value": "A situation called Free Action can occur during the story.\nFree Action has limited moves, and acts mainly to raise\nAffinity with other characters."
         },
         {
             "key": "TIPS_DETAIL_007",
-            "value": "自由行動には、行動回数に制限があります\n回数はMAP画面右上に、残り回数/初期回数と表示されます\n残り回数が0になる前に、親密度を上げたい仲間に\n話しかけることが重要です"
+            "value": "You have a limited number of moves during Free Action.\nThis limit is displayed at the top-right of the Map screen\n(remaining moves/total moves). When you run out of moves,\nyou must speak to the character whose Affinity you want to\nraise."
         },
         {
             "key": "TIPS_DETAIL_008",
-            "value": "行動回数はキャラクターとの会話や、一部のイベントの発生に\nより消費されます\n行動回数が消費される会話やイベントは、MAP画面のリストや\nフォーカスした対象に<sprite index=4>が表示されます"
+            "value": "Moves are consumed by talking with characters, or by\ntriggering some events. Conversations and events that\nconsume moves have a <sprite index=4> displayed on the map list or\nfocused target."
         },
         {
             "key": "TIPS_DETAIL_009",
-            "value": "MAPに<sprite index=1>が表示されている場所に入るとフリーバトルが発生します\n経験値やアイテム入手を目的として行うほか、敵を会話で説得し\n仲間にすることもできます\n何度でも挑戦できるため、戦力に不安があるときに重要となります"
+            "value": "Entering spots on the map with a <sprite index=1> mark will trigger\na Free Battle. These are opportunities to gain experience\nand items, and you can persuade enemies into becoming\nallies through conversation. You can take these on as many\ntimes as you want, making them an excellent option for\nbolstering your battle strength."
         },
         {
             "key": "TIPS_DETAIL_010",
-            "value": "ストーリー中、探索行動というシチュエーションが発生する\nことがあります\n探索行動ではMAPで移動先を選択し、キャラクターたちとの会話や\n調査で、アイテムや物語を進める手掛かりを見つけていきます"
+            "value": "A situation known as Exploration can occur during the\nstory. In Exploration, you can choose where to move on the\nmap, talk with characters, and investigate, all to obtain\nitems and find clues to advance the plot."
         },
         {
             "key": "TIPS_DETAIL_011",
-            "value": "探索行動では、カーソルを操作して対象と会話や調査をします\n直接対象にフォーカスすることも可能です\n重要なイベントが発生する場合、フォーカスした対象に\n<sprite index=6>が表示されます"
+            "value": "In Exploration, move the cursor to start a conversation or\ninvestigate things. You can focus directly on targets. For\nimportant events, <sprite index=6> is displayed on the focused target."
         },
         {
             "key": "TIPS_DETAIL_012",
-            "value": "探索行動では、人物以外にもフォーカスできる場所があります\nこうした場所を調査すると、隠されたアイテムを発見できる\n場合があります"
+            "value": "During Exploration you can also focus on areas other than characters. Investigate such places and you may discover hidden items."
         },
         {
             "key": "TIPS_DETAIL_013",
-            "value": "探索行動中、カメラモードに切り替えることができます\nカメラモードでは、画面にノイズが生じることがあります\n画面ノイズを調べると、アイテムを入手できる場合があります\n重要場面では、画面左上にカメラアイコンが表示されます"
+            "value": "During Exploration, you can switch to Camera Mode.\nDistortion may appear on the screen during this mode,\nprogressing the story or letting you obtain items by\ninvestigating it. The camera icon is displayed in the\nupper-left corner for important events."
         },
         {
             "key": "TIPS_DETAIL_014",
-            "value": "カメラモードでノイズを調べた際、敵と遭遇する\n場合があります\nこのバトルでは戦うか、回避するかを任意で決められます\nまた、敵を会話により説得することも可能です"
+            "value": "You may encounter enemies whenever you investigate\ndistortion in Camera Mode. For these battles, you have the\noptions to fight or avoid them altogether. You also have\nthe option to persuade foes through conversation."
         },
         {
             "key": "TIPS_DETAIL_015",
-            "value": "ストーリー中やMAP画面にて、 メインメニューを表示できます\nメインメニューからは『ステータス』『プロフィール』\n『アイテム』『図鑑』『ヘルプ』『セッティング』『データ』の\n各機能が使用できます"
+            "value": "You can open the Pause Menu during the story or on the Map\nscreen. From the Pause Menu, you can access Stats, Profiles,\nItems, Field Guide, Help, Settings and Data functions."
         },
         {
             "key": "TIPS_DETAIL_016",
-            "value": "探索行動と自由行動では、MAPから任意の地点を選択して物語を\n進行させていきます\n移動可能な場所は物語の進行に併せて変化します\n各地点の情報はMAP画面右下に表示されます"
+            "value": "During Free Action or Exploration, you can select any\npoints on the map to advance the story. Places you can go\nchange with story progression. Info on each location is\ndisplayed in the lower-right part of the Map screen."
         },
         {
             "key": "TIPS_DETAIL_017",
-            "value": "MAPのリスト上に<sprite index=0>や<sprite index=2>が表示されている場所では\n物語の進行上、重要なイベントが発生します\n<sprite index=0>はその場所へ移動するとイベントが発生し、<sprite index=2>は\nその場所にいるキャラクターと会話でイベントが発生します"
+            "value": "Important events will occur in places marked with <sprite index=0> or <sprite index=2>\non the map list as the story progresses. <sprite index=0> will trigger\nwhen you move to that location, and <sprite index=2> will trigger events\nwhen you talk with characters in that location."
         },
         {
             "key": "TIPS_DETAIL_018",
-            "value": "<sprite index=3>は、そこにキャラクターがいることを表します\nどのキャラクターがいるのかはMAP画面下部の情報で確認できます\n<sprite index=1>は、フリーバトルが発生する場所を表します\n<sprite index=4>は自由行動の際、その場所で行動回数が消費されます"
+            "value": "<sprite index=3> shows the characters in that location. You can check\nwhat characters are where in the information in the lower\npart of the Map screen. <sprite index=1> shows places where Free Battles\nwill occur. <sprite index=4> consumes moves during Free Action."
         },
         {
             "key": "TIPS_DETAIL_019",
-            "value": "バトル開始時に、勝利条件および敗北条件が表示されます\nこの勝敗条件はバトル中でも、バトルメニューから確認できます\nバトルメニューを開き、『勝利条件』で表示します"
+            "value": "Victory and defeat conditions are displayed at the start\nof battle. You can check victory conditions at any time\nduring battle from the Battle Menu. Victory conditions are\ndisplayed in the Battle Menu."
         },
         {
             "key": "TIPS_DETAIL_020",
-            "value": "バトル開始時に、難易度を選択できます\n『とても易しい』『易しい』『普通』『難しい』の4段階があり\n通常では『普通』に設定されています"
+            "value": "You can select a difficulty at the start of battle. There\nare three difficulties: Easy, Normal and Hard. Battles are\nusually set to Normal difficulty."
         },
         {
             "key": "TIPS_DETAIL_021",
-            "value": "バトル中のコマンド選択時に、フリーカーソルへ移行できます\nフリーカーソルはバトルMAP内を自由に動かせます\nまた、カメラの回転、カメラの距離を変更できます"
+            "value": "You can switch to the free cursor when selecting a command\nin battle, letting you move freely around the battle map.\nYou can also rotate the camera and adjust the camera\ndistance."
         },
         {
             "key": "TIPS_DETAIL_022",
-            "value": "各ユニットは、HP、SP、属性などの\n基本的なステータスのほか、素早さや移動量、耐性といった\nさまざまな能力で構成されます\n各ステータスは、ユニットのステータスで確認できます"
+            "value": "In addition to basic stats like HP, SP and Attribute, each\nunit has various abilities such as speed and mobility, and\nresistances. You can check individual stats on the Stats\npage for each unit."
         },
         {
             "key": "TIPS_DETAIL_023",
-            "value": "各ユニットは1つずつ、パッシブスキルを持っています\nパッシブスキルとは、バトル中、永続的に効果を発揮する\nユニークな能力です\nこの能力は、ユニットのステータスで確認できます"
+            "value": "Each unit has their own Passive Skills, unique abilities\nthat remain active during the entire battle. You can check\nthese abilities on the Stats page for each unit."
         },
         {
             "key": "TIPS_DETAIL_024",
-            "value": "バトル中、ユニットの行動順は、敵・味方すべてのユニットの\n<sprite index=109>素早さに応じて決定します\n状態異常やバフ効果などで、素早さの序列が変動すると\n行動順も入れ替わります"
+            "value": "During battle, unit turn order is determined by the Speed\nof enemy and ally units. Status abnormalities and buffs\nthat alter Speed will change the turn order."
         },
         {
             "key": "TIPS_DETAIL_025",
-            "value": "バトル中、ユニットの行動時に『移動』コマンドを決定すると\nカーソルが表示されます\n移動可能な範囲（青グリッド）から地点を選んで移動します\n移動後でも、次の行動をする前であれば移動をキャンセルできます"
+            "value": "During battle, selecting the Move command during a unit’s\nturn causes a cursor to appear. Select a point within the\nblue grid (your movement range) to move. After moving, you\ncan cancel back to your original position before you take\nany action."
         },
         {
             "key": "TIPS_DETAIL_026",
-            "value": "ユニットには高低差に対する登坂力（降坂も含む）がそれぞれ\n設定されています\nバトル中、この能力を超える段差の上り下りはできません\nユニットのステータスの<sprite index=113>上下移動の項目で確認できます"
+            "value": "Each unit has their own ability to climb (and descend)\ndifferences in elevation. During battle, they cannot climb\nor descend an elevation that exceeds this ability. Hover\nthe cursor over a unit to check their <sprite index=113> Vertical\nMovement (VERT MOVE) stat."
         },
         {
             "key": "TIPS_DETAIL_027",
-            "value": "バトル中、ユニットの行動時に『攻撃』コマンドを選択すると\nスキルリストが表示されます\nリストから任意のスキルを選んで使用します\n1ターン中に、アイテムと同時に行えません"
+            "value": "During battle, selecting the Attack command during a unit’s\nturn displays the Skill List. Select any skill from the\nlist to use it. This command cannot be used with items in\na single turn."
         },
         {
             "key": "TIPS_DETAIL_028",
-            "value": "攻撃のスキルを決定後に対象を選択すると、ダメージ、命中率、\n反撃率などの予測が表示されます\n反撃率が高いと、攻撃後に相手からカウンターを受ける可能性が\n高くなります"
+            "value": "After you choose a skill and select an attack target,\npredictions like damage, accuracy, and counterattack % are\ndisplayed. The higher the counterattack %, the more likely\nan enemy is to counter when attacked."
         },
         {
             "key": "TIPS_DETAIL_029",
-            "value": "ユニットは、<sprite index=114>火、<sprite index=115>水、<sprite index=116>風、<sprite index=117>土、<sprite index=118>光、<sprite index=119>闇の\nスキル属性に対して、それぞれ耐性を持っています\n耐性値が高いほど、その属性のスキルで攻撃されたときの\nダメージが小さくなります"
+            "value": "Units have individual resistances to <sprite index=114> Fire, <sprite index=115> Water,\n<sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark element skills. The\nhigher the resistance, the less damage they receive from\na corresponding skill."
         },
         {
             "key": "TIPS_DETAIL_030",
-            "value": "相手に対し、どの方向から攻撃するかで補正がかかります\n正面＜側面＜背面で、ダメージと命中率が上昇します\nまた、相手が防御の体勢でも、側面と背面から攻撃すれば\n防御の影響を受けることはありません"
+            "value": "The direction from which you attack your opponent will\naffect its strength. Side attacks are stronger and more\naccurate than frontal attacks, and rear attacks are\nstronger and more accurate than side attacks. Also,\nattacks from the side or rear are not affected by\na opponent defending."
         },
         {
             "key": "TIPS_DETAIL_031",
-            "value": "攻撃側が高所から攻撃した場合、クリティカル（会心攻撃）の\n発生率が上昇します\n攻撃側と被弾側の高低差が大きいほど発生率が上がります"
+            "value": "Attacks from higher elevations increase the chance of\na critical hit. The greater the difference in elevation\nbetween the attacker and the attacked, the greater this\nchance becomes."
         },
         {
             "key": "TIPS_DETAIL_032",
-            "value": "攻撃時には、仲間が戦闘をサポートする場合があります\n戦闘サポ－トには『援護』『追撃』『支援』の3種があり\nタクマとの親密度及び、バトルMAP中のユニットの位置関係で\n発生率が変動します"
+            "value": "As you attack, friends may try to back you up. There are\nthree types of battle backup: Encouragement, Team Attack,\nand Support. Battle backup rates change depending on\nTakuma’s affinities, as well as unit relationships to each\nother on the battle map."
         },
         {
             "key": "TIPS_DETAIL_033",
-            "value": "『援護』は、攻撃前に既定の確率で発生します\n攻撃を行うユニットを応援し、その攻撃に限り\n攻撃力を上昇させます"
+            "value": "“Encouragement” has a set chance to occur before an\nattack, as a friend cheers on the attacking unit and raises\ntheir attack power for that attack only."
         },
         {
             "key": "TIPS_DETAIL_034",
-            "value": "『追撃』は、攻撃後に既定の確率で発生します\n攻撃を行ったユニットに続き、自動的に『アタック』を行います\nこの行動による手番の消費は発生しません\n追撃は対象ユニットに近接している場合のみ発生します"
+            "value": "“Team Attack” has a set chance to occur after an attack,\nand automatically adds an Attack after the attacking\nunit. This attack does not use the attacker’s turn. Also,\nTeam Attacks only occur when a friend is close to the\ntarget of the Team Attack."
         },
         {
             "key": "TIPS_DETAIL_035",
-            "value": "『支援』は、ユニットの行動終了後に、規定の確率で発生します\n攻撃を行ったユニットを応援し、HPとSPを一定値回復させます"
+            "value": "“Support” has a set chance to occur after a unit action.\nA friend cheers on a unit after their attack, helping them\nrecover a certain amount of HP and SP."
         },
         {
             "key": "TIPS_DETAIL_036",
-            "value": "バトル中、ユニットの行動時に『アイテム』コマンドを選択すると\n回復アイテムリストが表示されます\nリストから任意のアイテムを選んで使用します\n1ターン中に、攻撃と同時に行えません"
+            "value": "During battle, selecting the Item command during a unit’s\nturn opens the Recovery Item List. Select an item from the\nlist to use it. Cannot be used with attacks in a single\nturn."
         },
         {
             "key": "TIPS_DETAIL_037",
-            "value": "バトル中、主要な登場人物をパートナーとするユニットに限り、\n『進化』コマンドを選択すると進化の系統樹が表示されます\n進化にはSPが必要ですが、能力が向上し、スキルも変化します\nなお、HPは進化前ダメージを比率で継承します"
+            "value": "During battle, using the Evolve command on a main character\npartner unit displays their Evolution tree. Evolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nevolution."
         },
         {
             "key": "TIPS_DETAIL_038",
-            "value": "バトル中、進化コマンドで進化したユニットは、1ターンごとに\n進化時に消費したSPと同量のSPを消費します\nSPが0になると初期状態（成長期）に戻ってしまいます\n自発的に初期状態に戻すこと（退化）も可能です"
+            "value": "During battle, units evolved through the Evolve command\nconsume the same amount of SP used to initially evolve each\nturn in order to maintain their form, and return to their\noriginal (Rookie) form when SP runs out. You can also\nreturn them to their original form (aka Devolve them)\nvoluntarily."
         },
         {
             "key": "TIPS_DETAIL_039",
-            "value": "バトル中、主要な登場人物をパートナーとするユニットが\n行動するときのみ、『会話』コマンドを使用できます\n会話対象は味方と敵に区分されており、敵との会話は\nフリーバトルおよび、探索中の遭遇でのみ行うことができます"
+            "value": "During battle, the Talk command is only available on the\nturns of main character partner units. Subjects of\nconversation are divided into enemies and allies, and you\ncan only talk to enemies in Free Battles or during\nencounters while exploring."
         },
         {
             "key": "TIPS_DETAIL_040",
-            "value": "バトル中、『会話』コマンドを味方へ使用すると\n仲間のユニットは応援を受け、さまざまな効果を得ます\n効果はそれぞれ異なり、会話対象リスト上部に表示されます\nなお、会話コマンドはバトル中、仲間ごとに一度のみ実行できます"
+            "value": "During battle, use the Talk command to receive\nencouragement from your friends, gaining a variety of\neffects. The effects are shown under the list of\nconversation subjects. Also, you can only use the Talk\ncommand once per child in battle."
         },
         {
             "key": "TIPS_DETAIL_041",
-            "value": "バトル中、『会話』コマンドを敵へ使用すると\n敵から質問を受け、選択肢で回答していくことになります\n回答で一定以上の共感を得られると、要望を伝えることができます\nただし要望の『仲間になってほしい』は、失敗することもあります"
+            "value": "Using the Talk command during battle with enemies lets you\nanswer their questions from a list of options. Garnering\na certain amount of sympathy from your answers will make\nthem hear you out. Note that the “Be my friend!” request\nmay not succeed."
         },
         {
             "key": "TIPS_DETAIL_042",
-            "value": "バトル中、ユニットにさせたい行動がなくなった場合は\n『ターン終了』コマンドを選択すると、そのユニットの行動が\n終了し、次のユニットの行動へ移ります\nターン終了時には、方向を選ぶことができます"
+            "value": "During a battle, select the End Turn command to end the\nturn of a unit that has run out of actions you wish to\nperform, and move on to the next unit’s action. When ending\na unit’s turn, you can pick the direction that unit will\nface."
         },
         {
             "key": "TIPS_DETAIL_043",
-            "value": "バトル中、攻撃、アイテムを行わずにターン終了したユニットは\n自動的に防御状態となります\n防御状態は、1ターンで自動的に解除されます"
+            "value": "During battle, units that end a turn without attacking or\nusing items will automatically take a defensive stance.\nUnits automatically stop defending in one turn."
         },
         {
             "key": "TIPS_DETAIL_044",
-            "value": "バトル中、仲間のユニットが成長期状態で（フリーモンスターは\nすべての成長段階において）攻撃、アイテムを行わなかった場合\nターン終了時にSPの10％を回復します\n移動も行わなかった場合、ターン終了時にSPの30％を回復します"
+            "value": "During battle, while an ally unit is in Rookie form (and\nfor all Rookie-level Free Monsters), ending a turn without\nattacking or using items will recover 10% of their SP. If\nsaid monster also does not move, they recover 30% of their\nSP instead."
         },
         {
             "key": "TIPS_DETAIL_045",
-            "value": "バトル中、移動や攻撃等の演出中を除き、バトルメニューを\n開けます\nバトルメニューは『勝利条件』『オート』『中断』『ギブアップ』\n『リトライ』『ヘルプ』『セッティング』の各機能を利用できます"
+            "value": "During battle, you can open the Battle Menu at any time\nexcept during animations such as movements or attacks. You\ncan use the following functions from the Battle Menu:\nVictory Conditions, Auto, Suspend, Give Up, Retry, Help and\nSettings."
         },
         {
             "key": "TIPS_DETAIL_046",
-            "value": "特徴の異なる5種類の作戦から1つを選び、バトルをAIに任せる\nことができます\nそれぞれの作戦の概要は、作戦リストの下部に表示されます\nまた、オートバトル中、任意のタイミングで中断できます"
+            "value": "Select one of five strategies with different\ncharacteristics, then leave battles to the AI. A summary\nof each strategy is shown under the Strategies list. Also,\nyou can suspend a strategy at any time during auto-battle."
         },
         {
             "key": "TIPS_DETAIL_047",
-            "value": "バトルを中断し、状況をデータ保存してタイトルに戻ります\n中断データは一時的なセーブのため、次回プレイ時に使用しない\n場合は失われます"
+            "value": "Suspend a battle, save situation data, and return to the\ntitle screen. Suspended battle data is only a temporary\nsave, and is lost if not used in subsequent play."
         },
         {
             "key": "TIPS_DETAIL_048",
-            "value": "メインメニューの『ステータス』から味方モンスターの\nステータスを確認できます\nモンスターを各種ステータス順に並び替えたり、\n任意のモンスターとお別れしたりもできます"
+            "value": "You can check the stats of ally monsters with Stats in the\nPause Menu. Organize monsters by individual stats, \nor release any monster."
         },
         {
             "key": "TIPS_DETAIL_049",
-            "value": "メインメニューの『ステータス』画面で任意のモンスターを\n決定後、上部タブから『スキル』を選ぶと、スキル確認ができます\n保持しているスキルおよび、装備中のスキルが表示されます\nそれぞれ効力、消費SP、射程距離、効果範囲の確認ができます"
+            "value": "After choosing any monster on the Pause Menu’s Stats screen,\nselect Skills from the top tabs to check their skills.\nOriginal or equipped skills are displayed. You can check\neach skill’s effect, SP used, range, and effect area."
         },
         {
             "key": "TIPS_DETAIL_050",
-            "value": "メインメニューの『ステータス』画面で任意のモンスターを\n決定後、上部タブから『装備』を選ぶと、装備の確認ができます\n装備枠は各モンスター2つずつで、『変更』を押下すると\n所有中のスキルアイテムや強化アイテムを装備できます"
+            "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Equipment from the top tabs to \ncheck their equipment. All monsters have two equipment slots. With Change, choose and equip \nSkill or Enhancement items."
         },
         {
             "key": "TIPS_DETAIL_051",
-            "value": "メインメニューの『ステータス』画面で任意のモンスターを\n決定後、上部タブから『育成』を選ぶと、育成ができます\n育成アイテムリストの中からアイテムを選んで与えることで\nモンスターのステータスを育成できます"
+            "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Training from the top tabs to \ntrain them. Select and give training items from the \nlist to raise monster stats."
         },
         {
             "key": "TIPS_DETAIL_052",
-            "value": "メインメニューの『ステータス』画面で任意のモンスターを\n決定後、上部タブから『進化』を選ぶと、進化の確認ができます\n各モンスターに系統樹が表示され、進化先を確認できます"
+            "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Evolution from the top tabs to \ncheck evolutions. Evolution trees are displayed for \neach monster, letting you check their evolution paths."
         },
         {
             "key": "TIPS_DETAIL_053",
-            "value": "メインメニューの『プロフィール』画面では、タクマの現在の\nカルマ値や、主要な登場人物との親密度を確認することができます\nタクマ以外の人物を選択すると、バトル時の戦闘サポートの\n発生度が確認できます"
+            "value": "On the Pause Menu’s Profile screen, you can check\nTakuma’s Karma and Affinity with main characters. \nSelecting a character besides Takuma lets you check\ntheir Battle Backup rate in battle."
         },
         {
             "key": "TIPS_DETAIL_054",
-            "value": "メインメニューの『プロフィール』画面でキャラクターを決定後\n上部タブから『人物』の情報や『エピソード』、『仲間』の\nモンスターの情報を確認できます\nエピソードは物語の進行などに応じて解放されていきます"
+            "value": "After selecting a character from the Pause Menu’s \nProfile screen, you can check character information, \nepisodes and partner monster information from the \ntop tabs. Episodes are gradually unlocked through \nstory progression."
         },
         {
             "key": "TIPS_DETAIL_055",
-            "value": "メインメニューの『アイテム』画面では、バトルや探索で\n手に入れたアイテムを確認できます\nアイテムには『回復』『強化』『スキル』『育成』『大事』が\nあります"
+            "value": "On the Pause Menu’s Items screen, you can check \nitems obtained during battles or exploration. Items \nare divided into Recovery Items, Enhancement \nItems, Skill Items, Training Items, and Key Items."
         },
         {
             "key": "TIPS_DETAIL_056",
-            "value": "バトルに登場するユニットは一部を除き、\n<sprite index=102>道義（ワクチン）・<sprite index=100>激情（ウィルス）・<sprite index=101>調和（データ）の\nいずれかのモンスター属性を持っています"
+            "value": "Aside from specific monsters, all units that appear in\nbattle fall into <sprite index=102> Moral (Vaccine), <sprite index=100> Wrathful (Virus) or <sprite index=101>\nHarmonious (Data) types."
         },
         {
             "key": "TIPS_TITLE_057",
-            "value": "Tips 『防御の効果』"
+            "value": "Tip: Effect of Defending"
         },
         {
             "key": "TIPS_DETAIL_057",
-            "value": "バトル中の防御状態には、正面からの攻撃を半減させる効果が\nあります\nなお、側面と背面からの攻撃には効果がありません"
+            "value": "During battle, defending reduces frontal attack damage\nreceived by half. Attacks from the side or rear are\nunaffected."
         },
         {
             "key": "TIPS_TITLE_058",
-            "value": "Tips 『モンスター属性の有利・不利』"
+            "value": "Tip: Type Strengths & Weaknesses"
         },
         {
             "key": "TIPS_TITLE_059",
-            "value": "Tips 『移動タイプによる移動制限』"
+            "value": "Tip: Movement and Move Type"
         },
         {
             "key": "TIPS_TITLE_060",
-            "value": "Tips 『スキル』"
+            "value": "Tip: Skills"
         },
         {
             "key": "TIPS_TITLE_061",
-            "value": "Tips 『スキルとSP』"
+            "value": "Tip: Skills and SP"
         },
         {
             "key": "TIPS_TITLE_062",
-            "value": "Tips 『スキルの射程と範囲』"
+            "value": "Tip: Skill Range and Area"
         },
         {
             "key": "TIPS_TITLE_063",
-            "value": "Tips 『状態異常』"
+            "value": "Tip: Status Abnormalities"
         },
         {
             "key": "TIPS_TITLE_064",
-            "value": "Tips 『状態異常の種類』"
+            "value": "Tip: Status Abnormality Types"
         },
         {
             "key": "TIPS_TITLE_065",
-            "value": "Tips 『ギブアップとリトライ』"
+            "value": "Tip: Give Up and Retry"
         },
         {
             "key": "TIPS_TITLE_066",
-            "value": "Tips 『フリーモンスターの進化』"
+            "value": "Tip: Free Monster Evolution"
         },
         {
             "key": "TIPS_TITLE_067",
-            "value": "Tips 『回復アイテム』"
+            "value": "Tip: Recovery Items"
         },
         {
             "key": "TIPS_TITLE_068",
-            "value": "Tips 『強化アイテム』"
+            "value": "Tip: Enhancement Items"
         },
         {
             "key": "TIPS_TITLE_069",
-            "value": "Tips 『スキルアイテム』"
+            "value": "Tip: Skill Items"
         },
         {
             "key": "TIPS_TITLE_070",
-            "value": "Tips 『育成アイテム』"
+            "value": "Tip: Training Items"
         },
         {
             "key": "TIPS_TITLE_071",
-            "value": "Tips 『大事なアイテム』"
+            "value": "Tip: Key Items"
         },
         {
             "key": "TIPS_TITLE_072",
-            "value": "Tips 『スキル属性』"
+            "value": "Tip: Skill Attributes"
         },
         {
             "key": "TIPS_DETAIL_058",
-            "value": "属性は三すくみの関係にあり、バトルでのダメージに影響します\n<sprite index=102>道義（ワクチン）＞<sprite index=100>激情（ウィルス）\n<sprite index=100>激情（ウィルス）＞<sprite index=101>調和（データ）\n<sprite index=101>調和（データ）＞<sprite index=102>道義（ワクチン）"
+            "value": "The three monster types have a rock-paper-scissors\nrelationship with each other, boosting attack damage\nagainst weak types and reducing it against strong types.\n<sprite index=102> Moral (Vaccine) is strong against <sprite index=100> Wrathful (Virus),\n<sprite index=100> Wrathful (Virus) is strong against <sprite index=101> Harmonious (Data),\nand <sprite index=101> Harmonious (Data) is strong against <sprite index=102> Moral\n(Vaccine)."
         },
         {
             "key": "TIPS_DETAIL_059",
-            "value": "ユニットには<sprite index=110>歩行か<sprite index=111>飛行、どちらかの移動タイプが\n設定されています\n移動タイプが飛行の場合、地面が途切れている場所でも\n進むことができます"
+            "value": "Units have one of two Move Types: <sprite index=110> Land or <sprite index=111> Air. Air\nMove Types can even move over disconnected ground."
         },
         {
             "key": "TIPS_DETAIL_060",
-            "value": "スキルはユニット固有の技で、<sprite index=105>物理攻撃と<sprite index=107>特殊攻撃に\n分類されます\nまた、ユニットのステータスには<sprite index=106>物理防御、<sprite index=108>特殊防御があり\nスキルによる攻撃を受けたときの、効果の大きさに影響します"
+            "value": "Skills are moves unique to each unit, and are classified\nas <sprite index=105> Physical Attacks (PHYS ATK) or <sprite index=107> Special Attacks\n(SP ATK). Unit stats include <sprite index=106> Physical Defense (PHYS DEF)\nand <sprite index=108> Special Defense (SP DEF), affecting the damage received\nfrom skills."
         },
         {
             "key": "TIPS_DETAIL_061",
-            "value": "ユニットがスキルを使うとき、スキルごとに\n規定のSPを消費します\nなお、各ユニットは必ず『アタック』という\nSPを消費しないスキルを持っています"
+            "value": "When units use skills, each one consumes a set amount of\nSP. Each unit always has the Attack skill, which doesn’t\nconsume SP."
         },
         {
             "key": "TIPS_DETAIL_062",
-            "value": "スキルの『射程』は、スキルで狙える場所を示します\n『範囲』は、スキルが着弾した場所を中心に、スキルの効果が\nどこまで広がるかを示します"
+            "value": "A skill’s Range is shows the places said skill can target.\nArea shows how far a skill’s effect spreads around the\npoint of impact."
         },
         {
             "key": "TIPS_DETAIL_063",
-            "value": "バトル中、状態異常になると、行動不能、スキル使用不可などの\n制限を受けます\n数ターン経過するか、回復アイテムを使用することで解除されます\n気絶、氷結、混乱は攻撃を受けることでも解除されます"
+            "value": "During battle, gaining a status abnormality restricts\na unit somehow, preventing them from moving, using skills\nand more. Said monster will recover after a set number of\nturns, or by using a Recovery item. Asleep, Frozen and\nConfused abnormalities are canceled when the afflicted\nunit gets attacked."
         },
         {
             "key": "TIPS_DETAIL_064",
-            "value": "<sprite index=120>気絶、<sprite index=121>氷結、<sprite index=123>麻痺は行動不能になります\n<sprite index=122>猛毒は毎ターンに一定ダメージを受けます\n<sprite index=124>封印は「アタック」以外のスキルが使用不可となります\n<sprite index=125>混乱は操作不可になり、味方もしくは自身に攻撃を行います"
+            "value": "<sprite index=120> Asleep, <sprite index=121> Frozen, and <sprite index=123> Paralyzed render a unit unable\nto move. <sprite index=122> Poisoned inflicts a set amount of damage\nevery turn, and <sprite index=124> Sealed prevents a unit from using any\nskill besides Attack. <sprite index=125> Confused renders a unit\nuncontrollable, causing it to attack itself and its allies."
         },
         {
             "key": "TIPS_DETAIL_065",
-            "value": "ギブアップは、バトルを諦めてゲームのタイトル画面へ戻ります\nフリーバトルの場合は、直前のマップ画面へ戻ります\nリトライは、バトルの初めに戻ります\n（バトル中に消費・獲得していたものはリセットされます）"
+            "value": "The Give Up option ends the current battle and returns you\nto the game’s title screen. In Free Battles, you return back\nto the Map screen. Retry returns you to the start of the\ncurrent battle. (Note that all items obtained or consumed\nduring the battle are reset.)"
         },
         {
             "key": "TIPS_DETAIL_066",
-            "value": "フリーモンスターを進化させる際は、メインメニューの\n『ステータス』画面でモンスターを決定後、進化の系統樹で\n進化先を選択し、決定します（退化はできません）\nなお、進化には特定のアイテムが必要です"
+            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an Evolution path from\nthe Evolution tree (note that they cannot be devolved).\nEvolution also requires specific items."
         },
         {
             "key": "TIPS_DETAIL_067",
-            "value": "バトル中に使用すると、ユニットのHPやSPを回復できます\n使用する際はユニットの『アイテム』コマンドでリストを開き\n任意のアイテムを選択します"
+            "value": "Use these during battle to restore unit HP and SP. To use\none, select a unit’s Item command to open the list, then\nselect any item."
         },
         {
             "key": "TIPS_DETAIL_068",
-            "value": "モンスターに装備させると、ステータスが上昇したり\n特殊な効果が付与されたりします\n装備させる際はステータス画面で任意のモンスターを決定後\n上部タブから『装備』を選択します"
+            "value": "Putting equipment on monsters boosts their stats and\nbestows special effects. To equip items, choose any monster\nfrom the Stats screen and select Equipment from the top\ntabs."
         },
         {
             "key": "TIPS_DETAIL_069",
-            "value": "モンスターに装備させると、バトルでそのスキルを使用できる\nようになります\n装備させる際はステータス画面で任意のモンスターを決定後\n上部タブから『装備』を選択します"
+            "value": "Putting equipment on monsters lets you use that equipment’s\nskills in battle. To equip items, choose any monster from\nthe Stats screen and select Equipment from the top tabs."
         },
         {
             "key": "TIPS_DETAIL_070",
-            "value": "モンスターに使用すると、ステータスを上昇させたり\nフリーモンスターを進化させたりすることができます\n使用する際はステータス画面で任意のモンスターを決定後\n上部タブから『育成』あるいは『進化』を選択します"
+            "value": "Use these on monsters to boost their stats, evolve Free\nMonsters, and more. To use them, choose any monster from\nthe Stats screen and select Training or Evolution from the\ntop tabs."
         },
         {
             "key": "TIPS_DETAIL_071",
-            "value": "ストーリー進行に必要なアイテムです"
+            "value": "Items needed to progress the plot."
         },
         {
             "key": "TIPS_DETAIL_072",
-            "value": "スキルには<sprite index=114>火、<sprite index=115>水、<sprite index=116>風、<sprite index=117>土、<sprite index=118>光、<sprite index=119>闇の\nスキル属性があります（無属性のスキルもあります）\nスキル名の横の<sprite index=105>や<sprite index=107>アイコンの色は、スキル属性の色と一致します"
+            "value": "Skills are divided into different Skill Attributes:\n<sprite index=114> Fire, <sprite index=115> Water, <sprite index=116> Wind, <sprite index=117> Earth, <sprite index=118> Light and <sprite index=119> Dark.\n(There are non-elemental skills as well). The color of\nthe <sprite index=105> or <sprite index=107> icon next to a skill name represents its\nattribute."
         },
         {
             "key": "TIPS_TITLE_073",
-            "value": "Tips 『フリーモンスター』"
+            "value": "Tip: Free Monsters"
         },
         {
             "key": "TIPS_DETAIL_073",
-            "value": "主要人物のパートナーではないモンスターのことです\nフリーバトルや探索中の遭遇で敵として現れます\n会話コマンドで説得すると、味方になってくれることがあります"
+            "value": "This refers to monsters that aren’t main character\npartners. They appear as enemies in Free Battles, or\nencounters during exploration. Persuading them with the\nTalk command may turn them into allies."
         },
         {
             "key": "TIPS_TITLE_074",
-            "value": "Tips 『ステータスの傾向』"
+            "value": "Tip: Stat Tendencies"
         },
         {
             "key": "TIPS_DETAIL_074",
-            "value": "『万能型』のモンスターは全体的にバランスの良いステータスです\n『機動型』は移動量や上下移動に優れる傾向があります\n『攻撃型』は物理攻撃、『必殺型』は特殊攻撃、\n『防御型』は物理防御・特殊防御の値が高い傾向にあります"
+            "value": "Among the monsters, All-Rounder types are balanced overall,\nwhile Mobility types are specialized in MOVE AMT and VERT\nMOVE. Attack types have high PHYS ATK, Special Attack types\nhave high SP ATK, and Defense types have high PHYS DEF and\nSP DEF."
         }
     ]
 }

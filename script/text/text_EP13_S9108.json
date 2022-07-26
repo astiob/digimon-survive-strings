@@ -2,139 +2,139 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9108_0001",
-			"value":"なぁガブモン、ちょっといいか？"
+			"value":"Gabumon, can I talk with you?"
 		},
 		{
 			"key":"EP13_S9108_0002",
-			"value":"オレか？　なんだ？"
+			"value":"With me? About what?"
 		},
 		{
 			"key":"EP13_S9108_Q1",
-			"value":"（ガブモンに、何て声をかけよう……？）"
+			"value":"(What should I say to Gabumon?)"
 		},
 		{
 			"key":"EP13_S9108_Q1_A1",
-			"value":"最後までよろしくな"
+			"value":"We’re counting on you."
 		},
 		{
 			"key":"EP13_S9108_Q1_A2",
-			"value":"必ず主に勝とうな"
+			"value":"Let’s beat the Master!"
 		},
 		{
 			"key":"EP13_S9108_Q1_A3",
-			"value":"教授のことを頼むよ"
+			"value":"Protect the professor."
 		},
 		{
 			"key":"EP13_S9108_0003",
-			"value":"最後までよろしくな"
+			"value":"We’re counting on you."
 		},
 		{
 			"key":"EP13_S9108_0004",
-			"value":"もうすぐこの戦いも終わる\n最後までよろしくな"
+			"value":"Pretty soon this will all be over, and we’ll\nbe counting on you to the very end."
 		},
 		{
 			"key":"EP13_S9108_0005",
-			"value":"ああ、わかってる"
+			"value":"Yeah, I know."
 		},
 		{
 			"key":"EP13_S9108_0006",
-			"value":"今までお前たちには色々してきた\nその借りを、ここですべて返す"
+			"value":"You’ve all done so much for me, and I intend\nto repay you for that now."
 		},
 		{
 			"key":"EP13_S9108_0007",
-			"value":"全力で主に立ち向かうさ\nお前らと一緒に、な"
+			"value":"I am going to fight against the Master with\nall I have, together with all of you."
 		},
 		{
 			"key":"EP13_S9108_0008",
-			"value":"ありがとう、すごく頼もしいよ"
+			"value":"Thanks, that means a lot."
 		},
 		{
 			"key":"EP13_S9108_0009",
-			"value":"必ず主に勝とう"
+			"value":"Let’s beat the Master!"
 		},
 		{
 			"key":"EP13_S9108_0010",
-			"value":"必ず、主に勝とう"
+			"value":"Let’s go out there and beat the Master!"
 		},
 		{
 			"key":"EP13_S9108_0011",
-			"value":"ああ、もちろんだ"
+			"value":"Yeah, you said it!"
 		},
 		{
 			"key":"EP13_S9108_0012",
-			"value":"アキハルと、お前らと一緒なら\nあの主相手でもどうにかできそうだよ"
+			"value":"With Akiharu and all of you fighting at my\nside, I think we can actually do it!"
 		},
 		{
 			"key":"EP13_S9108_0013",
-			"value":"教授のこと頼む"
+			"value":"Protect the professor."
 		},
 		{
 			"key":"EP13_S9108_0014",
-			"value":"教授のこと、頼む"
+			"value":"We’ll be counting on you to protect the\nprofessor."
 		},
 		{
 			"key":"EP13_S9108_0015",
-			"value":"何かと思ったら……言われるまでもない"
+			"value":"Hah, of all the things for you to say. You\nknow I’ll keep him safe."
 		},
 		{
 			"key":"EP13_S9108_0016",
-			"value":"例えお前たちが全滅しても\nアキハルだけは守り通してみせる"
+			"value":"Even if all the rest of you fall, I’ll\nprotect Akiharu if it’s the last thing I do!"
 		},
 		{
 			"key":"EP13_S9108_0017",
-			"value":"そ、それは……"
+			"value":"Uh... That’s...good?"
 		},
 		{
 			"key":"EP13_S9108_0018",
-			"value":"……すまん、今のは言い過ぎた"
+			"value":"Sorry, that’s taking things a bit far."
 		},
 		{
 			"key":"EP13_S9108_0019",
-			"value":"もちろんお前たちも守る\n……オレも、お前たちには感謝してるからな"
+			"value":"I’ll look out for all of you too. After all,\nI owe you a lot."
 		},
 		{
 			"key":"EP13_S9108_0020",
-			"value":"ガブモン……"
+			"value":"Gabumon..."
 		},
 		{
 			"key":"EP13_S9108_0021",
-			"value":"ちっ、なんかこっぱずかしいこと言っちまった！\n今のは忘れろ！"
+			"value":"Ugh, what an embarrassing thing to say!\nForget I mentioned that!"
 		},
 		{
 			"key":"EP13_S9108_0022",
-			"value":"お前さぁ、オレなんかと喋ってていいのか？"
+			"value":"Hey, you sure I’m the one you should be\ntalking to right now?"
 		},
 		{
 			"key":"EP13_S9108_0023",
-			"value":"どういうこと？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP13_S9108_0024",
-			"value":"いや……オレよりももっと\n仲間たちと話してこいよ"
+			"value":"It’s just...why don’t you go talk more with\nyour friends?"
 		},
 		{
 			"key":"EP13_S9108_0025",
-			"value":"何言ってんのさ\nガブモンだって僕らの仲間だよ"
+			"value":"Don’t be ridiculous. You’re one of our\nfriends, too."
 		},
 		{
 			"key":"EP13_S9108_0026",
-			"value":"っ！　……そ、そうかよ\nそれは、なんつーか、そのぉ……"
+			"value":"What?! You mean, you really think... That is,\nuh..."
 		},
 		{
 			"key":"EP13_S9108_0027",
-			"value":"っあーもう！　なんだこの気持ち！？"
+			"value":"Gah, what is wrong with me? What even is this\nfeeling?!"
 		},
 		{
 			"key":"EP13_S9108_0028",
-			"value":"おら、最後の戦いはもうすぐだ\n集中しとけ！"
+			"value":"Look, we’re coming up on the final battle.\nFocus on that!"
 		},
 		{
 			"key":"EP13_S9108_0029",
-			"value":"はは、わかったよ"
+			"value":"Haha, okay."
 		},
 		{
 			"key":"EP13_S9108_0030",
-			"value":"オレはいいから、他のヤツと喋ってこいよ"
+			"value":"Forget about me. Go talk with the others."
 		}
 	]
 }

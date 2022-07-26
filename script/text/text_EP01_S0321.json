@@ -2,243 +2,243 @@
     "scenario_text": [
         {
             "key": "EP01_S0321_0101",
-            "value": "リョウ！　無事か！？"
+            "value": "Ryo! Are you all right?!"
         },
         {
             "key": "EP01_S0321_0001",
-            "value": "ひぃぃ、来るなあ～！"
+            "value": "D-Don’t come any closer!"
         },
         {
             "key": "EP01_S0321_0002",
-            "value": "へ……？\nおいおい、これ何が起きてんの？"
+            "value": "Uhhh hold up. What the heck is this?"
         },
         {
             "key": "EP01_S0321_0003",
-            "value": "リョウくんの前に……大きなイモムシ？"
+            "value": "Is that a...giant caterpillar in front of\nRyo?"
         },
         {
             "key": "EP01_S0321_0004",
-            "value": "な、何だあいつは……！？\nアグモン、知ってるか？"
+            "value": "What is that?! Agumon, do you know?"
         },
         {
             "key": "EP01_S0321_0005",
-            "value": "ううん、知らない\nでも……怒っているようにはみえないよ？"
+            "value": "Hmm, I don’t know this one. But it doesn’t\nlook mad or anything, y’know?"
         },
         {
             "key": "EP01_S0321_0006",
-            "value": "あいつの名前はたしか……\nクネモンのはずだ"
+            "value": "I believe this one is called... Kunemon."
         },
         {
             "key": "EP01_S0321_0007",
-            "value": "クネモン……！"
+            "value": "Kunemon!"
         },
         {
             "key": "EP01_S0321_0102",
-            "value": "（確かに、クネモンは\n　襲いかかってるようには見えないな）"
+            "value": "(It’s true, Kunemon doesn’t look like he’s\ntrying to attack him.)"
         },
         {
             "key": "EP01_S0321_0103",
-            "value": "（でも、リョウはクネモンに対して\n　怯えてるみたいだけど……）"
+            "value": "(Even so, Ryo looks pretty scared of him...)"
         },
         {
             "key": "EP01_S0321_Q1",
-            "value": "（どう声を掛けたらいいんだろう？）"
+            "value": "(What should somebody say at a time like\nthis?)"
         },
         {
             "key": "EP01_S0321_Q1_A1",
-            "value": "アグモンならわかるかな"
+            "value": "Maybe let Agumon talk?"
         },
         {
             "key": "EP01_S0321_Q1_A2",
-            "value": "ミノルに任せてみようか"
+            "value": "Leave it to Minoru."
         },
         {
             "key": "EP01_S0321_0104",
-            "value": "ねえキミ、大丈夫？\nその子はたぶん遊びたいんだよ？"
+            "value": "Hey, are you all right?\nI think it just wants to play!"
         },
         {
             "key": "EP01_S0321_0105",
-            "value": "わっ、うわっ！\nきょ、恐竜のバケモノだ～！"
+            "value": "Yikes! Now there’s a dinosaur monster?!"
         },
         {
             "key": "EP01_S0321_0106",
-            "value": "バケモノじゃないよ！\nアグモンだよ！"
+            "value": "I’m not a monster! I’m Agumon!"
         },
         {
             "key": "EP01_S0321_0107",
-            "value": "バケモノなんて失礼しちゃうわ"
+            "value": "Calling us monsters is pretty rude!"
         },
         {
             "key": "EP01_S0321_0108",
-            "value": "まったくだ"
+            "value": "I concur."
         },
         {
             "key": "EP01_S0321_0109",
-            "value": "ひ、ひぃ～！\nしゃ、喋ったぁ～！？"
+            "value": "Argh! Th-they all talk?!"
         },
         {
             "key": "EP01_S0321_0110",
-            "value": "リョウ、とにかくアグモンも敵じゃないから\nさあ、落ち着いて！"
+            "value": "Hey Ryo, Agumon’s not gonna hurt you.\nChill out!"
         },
         {
             "key": "EP01_S0321_0111",
-            "value": "な、何だよおめー\nか、下級生のクセに上級生呼び捨てかよ！"
+            "value": "“Chill out”? Who the hell do you think you’re\ntalking to?!"
         },
         {
             "key": "EP01_S0321_0112",
-            "value": "こんな状況でお前ら\nよくそんなことができるな……！"
+            "value": "You guys sure got a lot of attitude at a time\nlike this..."
         },
         {
             "key": "EP01_S0321_0113",
-            "value": "（リョウはまだ怯えたままで\n　無理に連れて行くのは難しそうだ……）"
+            "value": "(It’ll be tough to get Ryo to come with us\nwhile he’s still panicking...)"
         },
         {
             "key": "EP01_S0321_0114",
-            "value": "この子、タクマたちの仲間なのか～？"
+            "value": "This guy is a friend of yours, Takuma?"
         },
         {
             "key": "EP01_S0321_0115",
-            "value": "どうやらニンゲンのようだし、そうなのだろうが……"
+            "value": "He is human, that is for certain..."
         },
         {
             "key": "EP01_S0321_0116",
-            "value": "なんだか情けないわね！"
+            "value": "He’s kinda pathetic, isn’t he!"
         },
         {
             "key": "EP01_S0321_0117",
-            "value": "こんな時でもやっぱイヤなヤツのままで\n安心しましたよ、リョウセンパイ！"
+            "value": "What a relief! You must be okay if you can\nstill be the same old jerk."
         },
         {
             "key": "EP01_S0321_0118",
-            "value": "う、うるせぇ……い、いいか？\nコイツだけじゃないんだぞ、ここのバケモノは！"
+            "value": "Shut your pie hole... Listen, this isn’t the\nonly thing I saw!"
         },
         {
             "key": "EP01_S0321_0119",
-            "value": "幽霊もいたし……\n何かスゲーでっかいバケモノも、この先に……"
+            "value": "There was this ghost, man... I even saw some\nhuge monster over there."
         },
         {
             "key": "EP01_S0321_0120",
-            "value": "この先って、どこら辺です？"
+            "value": "Over there? Where?"
         },
         {
             "key": "EP01_S0321_0121",
-            "value": "（とにかく、リョウとクネモンも\n　これで仲間として合流できたみたいだ）"
+            "value": "(At any rate, it looks like Ryo’s got a new\nfriend in Kunemon.)"
         },
         {
             "key": "EP01_S0321_0122",
-            "value": "（……だけど）"
+            "value": "(...Kind of.)"
         },
         {
             "key": "EP01_S0321_0123",
-            "value": "（リョウが言っている幽霊やバケモノって\n　何のことなんだ……？）"
+            "value": "(What’s with the ghost and monster Ryo was\ntaking about, though...?)"
         },
         {
             "key": "EP01_S0321_0124",
-            "value": "（それになんだろう？\n　……さっきからなにかの視線を感じる）"
+            "value": "(And what’s this feeling? It’s like...\nsomeone’s been watching us for a while.)"
         },
         {
             "key": "EP01_S0321_0125",
-            "value": "（ここに、何かいるのか……？）"
+            "value": "(Is something else here with us?)"
         },
         {
             "key": "EP01_S0321_0126",
-            "value": "キシキシキシ……"
+            "value": "Shee-hee-hee-hee..."
         },
         {
             "key": "EP01_S0321_0127",
-            "value": "ひいぃ！　な、何だよ、今の音は！？"
+            "value": "Yeek! Wha- what the heck was that sound?!"
         },
         {
             "key": "EP01_S0321_0128",
-            "value": "も、もしかしてこれってラップ音とか！？\nどこから鳴っているんだろうな……？"
+            "value": "You think it was a g-ghost just now? Where’d\nit come from?"
         },
         {
             "key": "EP01_S0321_0129",
-            "value": "あっちか……？　それとも……"
+            "value": "Over there? Or maybe..."
         },
         {
             "key": "EP01_S0321_0130",
-            "value": "ふ、ふざけんなよっ！　てめえ！\nそんなことがあるわけ……"
+            "value": "Hey, stop screwing around! There ain’t no\nway that—"
         },
         {
             "key": "EP01_S0321_0131",
-            "value": "……っ！！"
+            "value": "...What?!"
         },
         {
             "key": "EP01_S0321_0132",
-            "value": "……"
+            "value": "..."
         },
         {
             "key": "EP01_S0321_0133",
-            "value": "（確かに音は聞こえたけど、ラップ音か？\n　少し様子を見た方がよさそうだ……）"
+            "value": "(I definitely heard something, but a ghost?\nMaybe we should wait and see what happens...)"
         },
         {
             "key": "EP01_S0321_0134",
-            "value": "リョウのやつ、ずいぶん怯えているな"
+            "value": "Ryo is pretty freaked out, ain’t he?"
         },
         {
             "key": "EP01_S0321_0135",
-            "value": "ビビりすぎて幻覚でも見てんじゃねーの？"
+            "value": "You think he’s just imagining things?"
         },
         {
             "key": "EP01_S0321_0136",
-            "value": "いや、確かにこの者が言うように\nこの建物内に怪しい気配が漂っている"
+            "value": "I fear it’s as he says. Something suspicious\nwafts throughout this building."
         },
         {
             "key": "EP01_S0321_0137",
-            "value": "マジで！？"
+            "value": "For real?!"
         },
         {
             "key": "EP01_S0321_0138",
-            "value": "そうね……いや～な匂いがするわ"
+            "value": "Yeah... Something stinks in here."
         },
         {
             "key": "EP01_S0321_0139",
-            "value": "いったい何がいるんだろうな……"
+            "value": "What could be so suspiciously stinky?"
         },
         {
             "key": "EP01_S0321_0140",
-            "value": "こんなに蜘蛛の巣だらけだったなんて……\nなんで気付かなかったんだろう？"
+            "value": "This place is covered in spiderwebs... How\ncome we never noticed?"
         },
         {
             "key": "EP01_S0321_0141",
-            "value": "なあ、タクマ……\nあっちの方、写真を撮ってみようぜ？"
+            "value": "Hey, Takuma... Why don’t you try snapping\na pic over there?"
         },
         {
             "key": "EP01_S0321_0142",
-            "value": "あっち……？"
+            "value": "Over there...?"
         },
         {
             "key": "EP01_S0321_0143",
-            "value": "（さっきミノルが見ていた場所か……）"
+            "value": "(The place he was looking at before, huh?)"
         },
         {
             "key": "EP01_S0321_0144",
-            "value": "神社の時も何か変なもんが写ったし\nもしかしたらここでも写るかもしれないじゃん？"
+            "value": "We saw some weird stuff in the pics from the\nshrine, maybe it’ll happen again here, right?"
         },
         {
             "key": "EP01_S0321_0145",
-            "value": "ちょっと……ミノルくん！\nこんな時にふざけている場合じゃないでしょう？"
+            "value": "Minoru! This is no time to be joking around,\nyou know!"
         },
         {
             "key": "EP01_S0321_0146",
-            "value": "待って、アオイさん\n何もわからない状況だから試してみようよ"
+            "value": "Hold on, Aoi. We have no idea what’s going on\nhere, so there’s no harm in trying it out."
         },
         {
             "key": "EP01_S0321_0147",
-            "value": "もう、タクマくんまで……\nわかったわ……"
+            "value": "Not you too, Takuma! *sigh* Very well..."
         },
         {
             "key": "EP01_S0321_0148",
-            "value": "こんな時にカメラかよ……呑気なもんだな\nチッ、勝手にしろ……"
+            "value": "Sightseeing at a time like this... Ain’t you\njust easy-breezy. Fine, do what you want..."
         },
         {
             "key": "EP01_S0321_0149",
-            "value": "（特に気になるところはないけど……\n　この辺りを<color=#B41919>カメラ</color>で見ると何かわかるかも……）"
+            "value": "(Nothing really stands out to me here. Maybe\nI’ll learn something if I use my <color=#B41919>camera</color>...)"
         },
         {
             "key": "EP01_S0321_0150",
-            "value": "何か写るかな？\n早く試してみようぜ！"
+            "value": "Who knows what’ll show up? Come on, get\nsnappy with the snapping!"
         }
     ]
 }

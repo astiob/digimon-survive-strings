@@ -2,35 +2,35 @@
 	"scenario_text":[
 		{
 			"key":"EP13_S9105_0001",
-			"value":"また一つ降りたけど……"
+			"value":"Well, that takes us down another level."
 		},
 		{
 			"key":"EP13_S9105_0002",
-			"value":"私が知る限り、ここが最下層のはずだ\n主の居場所はやはり隠されているようだが"
+			"value":"As far as I know, this is the lowest one. The\nMaster must be in some secret location."
 		},
 		{
 			"key":"EP13_S9105_0003",
-			"value":"周りに敵は……とりあえずいないみたいだね"
+			"value":"It...doesn’t seem like there are any enemies\naround. At least not right now."
 		},
 		{
 			"key":"EP13_S9105_0004",
-			"value":"あ、あれ……壁画じゃね！？"
+			"value":"Oh, hey! Are those...more murals?!"
 		},
 		{
 			"key":"EP13_S9105_0005",
-			"value":"ふむ……ここが最下層ならば最後の壁画というわけか\nどれ、何が描かれているのやら"
+			"value":"If this is the lowest level, these must be\nthe last of them. Let me get a closer look."
 		},
 		{
 			"key":"EP13_S9105_0006",
-			"value":"あ、教授待ってください！\n僕も行きます！"
+			"value":"Professor, wait! I’ll go with you!"
 		},
 		{
 			"key":"EP13_S9105_0007",
-			"value":"あらら、行っちゃったよ……"
+			"value":"And there they go..."
 		},
 		{
 			"key":"EP13_S9105_0008",
-			"value":"ま、まぁ仕方ないよ\n壁画も含めて、色々と調べてみよう"
+			"value":"I guess that settles it. Let’s all start\nlooking into things, including those murals."
 		}
 	]
 }

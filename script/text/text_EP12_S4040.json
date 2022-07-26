@@ -2,207 +2,207 @@
 	"scenario_text":[
 		{
 			"key":"EP12_S4040_0001",
-			"value":"ねえ、タクマくん\n最後に少しだけ、話をさせて"
+			"value":"Hey Takuma, can I talk with you about one\nlast thing?"
 		},
 		{
 			"key":"EP12_S4040_0002",
-			"value":"いいよ、どうしたの？"
+			"value":"Sure, what is it?"
 		},
 		{
 			"key":"EP12_S4040_0003",
-			"value":"教授から融合の話を聞いて\n私、カイトくんに掛ける言葉を考えていてね"
+			"value":"I’ve been thinking about what to say to Kaito\nsince the professor told us about fusion."
 		},
 		{
 			"key":"EP12_S4040_0004",
-			"value":"でも、なんだかうまくまとまらなくて……\n何を言いたいかより、後悔が先に出てきてしまうの"
+			"value":"Only I can’t seem to come up with anything,\nand I end up focusing on my regrets instead."
 		},
 		{
 			"key":"EP12_S4040_0005",
-			"value":"私、もっとカイトくんに対して\nできることがあったかもしれない"
+			"value":"I just can’t help feeling like there was more\nI could’ve done for Kaito."
 		},
 		{
 			"key":"EP12_S4040_0006",
-			"value":"ミウちゃんがいなくなった後も\nもっとフォローしてあげられたかもって"
+			"value":"Like, even after we lost Miu, I could’ve been\nthere for him more than I was."
 		},
 		{
 			"key":"EP12_S4040_0007",
-			"value":"ああすればよかった、こうすればよかったって\n私、いつも後悔ばっかり"
+			"value":"I keep thinking of all these things\nI should’ve done. It’s all that’s on my mind."
 		},
 		{
 			"key":"EP12_S4040_0008",
-			"value":"過ぎたことを言っていたって\n何にもならないのにね"
+			"value":"Even though I know it’s pointless to dwell on\nwhat’s in the past."
 		},
 		{
 			"key":"EP12_S4040_0009",
-			"value":"（何にもならない……本当にそうかな）"
+			"value":"(Is it really pointless, though? I feel like\nthat’s not true.)"
 		},
 		{
 			"key":"EP12_S4040_0010",
-			"value":"（後悔は苦しいことだけど、アオイさんは\n　味わった後悔を無駄にしないことだってできるはず）"
+			"value":"(Regrets can be painful, but there must be\nsome way Aoi can put them to good use.)"
 		},
 		{
 			"key":"EP12_S4040_Q1",
-			"value":"（アオイさんの後悔はカイトにとって何だろう？）"
+			"value":"(For Kaito, Aoi’s regrets...)"
 		},
 		{
 			"key":"EP12_S4040_Q1_A1",
-			"value":"無駄じゃない"
+			"value":"aren’t pointless."
 		},
 		{
 			"key":"EP12_S4040_Q1_A2",
-			"value":"必要なものだ"
+			"value":"are necessary."
 		},
 		{
 			"key":"EP12_S4040_Q1_A3",
-			"value":"未来に繋げよう"
+			"value":"can shape the future."
 		},
 		{
 			"key":"EP12_S4040_0011",
-			"value":"無駄じゃない"
+			"value":"aren’t pointless."
 		},
 		{
 			"key":"EP12_S4040_0012",
-			"value":"アオイさんの後悔は無駄じゃない"
+			"value":"Aoi, your regrets aren’t pointless."
 		},
 		{
 			"key":"EP12_S4040_0013",
-			"value":"後悔は、同じ失敗を繰り返さないために……\n未来に役立てるためにするんだ"
+			"value":"They can help keep you from making the same\nmistakes. You just have to learn from them."
 		},
 		{
 			"key":"EP12_S4040_0014",
-			"value":"そして、カイトはまだ世界を滅ぼしてない\nまだできることはたくさんある"
+			"value":"Besides, Kaito hasn’t destroyed the world\nyet. You can still do things for him."
 		},
 		{
 			"key":"EP12_S4040_0015",
-			"value":"後悔は無駄じゃない\n無駄にしちゃいけないんだ"
+			"value":"Regrets are only a waste of time if you\nchoose to let them go to waste."
 		},
 		{
 			"key":"EP12_S4040_0016",
-			"value":"……タクマくんはすごいわ\nあなたの言葉で、私の心はいつも軽くなってしまう"
+			"value":"I don’t know how you do it, Takuma. Talking\nwith you always makes me feel better."
 		},
 		{
 			"key":"EP12_S4040_0017",
-			"value":"必要なものだ"
+			"value":"are necessary."
 		},
 		{
 			"key":"EP12_S4040_0018",
-			"value":"後悔は必要なものだよ\n次に同じ失敗をしないためにさ"
+			"value":"I don’t know, I think we need to feel regrets\nso we don’t repeat the same mistakes."
 		},
 		{
 			"key":"EP12_S4040_0019",
-			"value":"ええ、そうね……本当は、失敗なんか\n一度だってしたくないのに"
+			"value":"Yes, I know. I just wish I didn’t have to\nmake any mistakes in the first place."
 		},
 		{
 			"key":"EP12_S4040_0020",
-			"value":"ああ、ダメダメ、また後ろ向きになっちゃう\n元気を出さなきゃ"
+			"value":"Oh, but I’m going to talk myself into feeling\ndown again. I need to keep my spirits up!"
 		},
 		{
 			"key":"EP12_S4040_0021",
-			"value":"未来に繋げよう"
+			"value":"can shape the future."
 		},
 		{
 			"key":"EP12_S4040_0022",
-			"value":"後悔してしまうのは仕方ないよ\nその代わりちゃんと未来に繋げよう"
+			"value":"Well, you can’t help how you feel, but you\ncan use your regrets to shape the future."
 		},
 		{
 			"key":"EP12_S4040_0023",
-			"value":"最初から全部正解できる人なんていない\nだからこそ、過ぎたことを振り返るのは大事なんだ"
+			"value":"Nobody gets everything right on the first\ntry. That’s why it’s so important to reflect."
 		},
 		{
 			"key":"EP12_S4040_0024",
-			"value":"アオイさんなら次は必ず一番いい手が取れるよ"
+			"value":"I’m sure that next time you’ll know enough to\nmake the right choice."
 		},
 		{
 			"key":"EP12_S4040_0025",
-			"value":"タクマくん……ええ、そうよね\nどうせ後悔してしまうなら、前に繋げなきゃ"
+			"value":"That’s very kind of you to say. And you’re\nright, I should try to learn from my regrets."
 		},
 		{
 			"key":"EP12_S4040_0026",
-			"value":"あのさ、僕、今のアオイさんの話を聞いて\n思ったことがあって"
+			"value":"You know, I think talking with you about this\nhas made me realize something."
 		},
 		{
 			"key":"EP12_S4040_0027",
-			"value":"カイトは逆に、後悔をしないようにしていたから\n今こうなってしまってるんじゃないかって"
+			"value":"Maybe things turned out like this for Kaito\nbecause he tried not to have any regrets."
 		},
 		{
 			"key":"EP12_S4040_0028",
-			"value":"どういうこと？"
+			"value":"What do you mean?"
 		},
 		{
 			"key":"EP12_S4040_0029",
-			"value":"例えばミウに関して、ミウが嫌がっても\nそこで立ち止まらず過保護にし続けたりさ"
+			"value":"Well, take Miu. He was always overprotective\nof her, no matter how much she hated it."
 		},
 		{
 			"key":"EP12_S4040_0030",
-			"value":"周りが嫌がっても自分のやったことが正しいって\n信じるのは、強い心を持っていると思うけど"
+			"value":"And it takes strength to believe what you did\nwas right despite what others think."
 		},
 		{
 			"key":"EP12_S4040_0031",
-			"value":"でも、同時に脆い心の在り方でもあると思う"
+			"value":"Well, it feels like it’s a kind of strength.\nThe strength of a fragile heart."
 		},
 		{
 			"key":"EP12_S4040_0032",
-			"value":"だって、自分が正しくないってわかった途端に\nすごくつらくなっちゃうだろうからさ"
+			"value":"Because once you realize you were wrong about\nsomething, it’s going to hurt that much more."
 		},
 		{
 			"key":"EP12_S4040_0033",
-			"value":"そうね……私、カイトくんって自信があって\nとっても強い人なんだって思ってた"
+			"value":"That’s a good point. You know, I’ve always\nthought of Kaito as confident and strong."
 		},
 		{
 			"key":"EP12_S4040_0034",
-			"value":"でも、見方を変えればカイトくんって\n弱さを抱えた人だったのかもしれな――"
+			"value":"But looked at another way, maybe he had his\nown weaknesses that—"
 		},
 		{
 			"key":"EP12_S4040_0035",
-			"value":"きゃっ！？"
+			"value":"Yeep!"
 		},
 		{
 			"key":"EP12_S4040_0036",
-			"value":"な、なになに！？\n何の音？"
+			"value":"What happened?! What was that sound?"
 		},
 		{
 			"key":"EP12_S4040_0037",
-			"value":"あの、携帯が鳴って……\nメールが来たみたい"
+			"value":"Uh, my phone went off. Apparently I got\na text!"
 		},
 		{
 			"key":"EP12_S4040_0038",
-			"value":"……え？"
+			"value":"Huh?"
 		},
 		{
 			"key":"EP12_S4040_0039",
-			"value":"どーしたんだよ\n前にもあった文字化けメールだろ？"
+			"value":"Hey, what’s the big deal? It’s just another\none of those garbled messages, right?"
 		},
 		{
 			"key":"EP12_S4040_0040",
-			"value":"う、ううん、それが、文字化けはしてるけど\nところどころ読めるみたいなの"
+			"value":"Actually, no. I mean, parts of it are still\ngarbled, but I can read some of it."
 		},
 		{
 			"key":"EP12_S4040_0041",
-			"value":"そうなの？　見てもいい？"
+			"value":"Wait, really? Can I see?"
 		},
 		{
 			"key":"EP12_S4040_0042",
-			"value":"ええ、これよ"
+			"value":"Sure, here."
 		},
 		{
 			"key":"EP12_S4040_0043",
-			"value":"（どうか無事……なたのことが、心……）"
+			"value":"(It’s something about being worried for Aoi.)"
 		},
 		{
 			"key":"EP12_S4040_0044",
-			"value":"これ……親からのメールな気がするわ"
+			"value":"I feel like this was probably from one of my\nparents."
 		},
 		{
 			"key":"EP12_S4040_0045",
-			"value":"（こんな地下深くでメールを受信できて、しかも\n　中身が読めるなんて……どういうことなんだろう）"
+			"value":"(This makes no sense. How is there reception\nso far underground? Why’s the text readable?)"
 		},
 		{
 			"key":"EP12_S4040_0046",
-			"value":"（他にメールが来てる人がいないか\n　聞いてみた方がいいかもな）"
+			"value":"(Maybe I’d better ask the others to see if\nanyone else got a message.)"
 		},
 		{
 			"key":"EP12_S4040_0047",
-			"value":"このメール、どういうことなのかしら……"
+			"value":"I don’t understand what’s going on with this\ntext..."
 		}
 	]
 }

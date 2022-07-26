@@ -2,131 +2,131 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S2704_0001",
-			"value":"そこそこ食べれるものはありそうだぜ"
+			"value":"There seems to be some edible food."
 		},
 		{
 			"key":"EP02_S2704_0002",
-			"value":"わ～、どれもおいしそ～"
+			"value":"It all looks so good!"
 		},
 		{
 			"key":"EP02_S2704_0003",
-			"value":"ちょっとアグモン、よだれ垂れてるわよ\nはしたないったら……"
+			"value":"You’re drooling, Agumon!\nThat’s disgusting..."
 		},
 		{
 			"key":"EP02_S2704_0004",
-			"value":"そう言うお前もよだれが垂れてるぞ、ラブラモン"
+			"value":"And yet you’re drooling too, Labramon."
 		},
 		{
 			"key":"EP02_S2704_0005",
-			"value":"お前ら、勝手に食べないでくれよ？"
+			"value":"Don’t go eating any of that, you two!"
 		},
 		{
 			"key":"EP02_S2704_0006",
-			"value":"たださ……なんか森の遠くのほうから\n動物みたいな声が聞こえてくんだよ"
+			"value":"By the way... I can hear animal sounds \nfrom somewhere deeper in the forest."
 		},
 		{
 			"key":"EP02_S2704_0007",
-			"value":"だからあんまし食べ物のために遠出っていうのは\nやめた方がいいかもな"
+			"value":"So we need to be careful searching for food\ntoo far from here."
 		},
 		{
 			"key":"EP02_S2704_0008",
-			"value":"ひぇ～、こわ～い"
+			"value":"That’s scary!"
 		},
 		{
 			"key":"EP02_S2704_0009",
-			"value":"水も出るし、食べ物も少しはある\n食堂には調味料やガスコンロもあったから、少しは……"
+			"value":"We’ve got water and some food. If there are\nspices and a grill in the cafeteria..."
 		},
 		{
 			"key":"EP02_S2704_0010",
-			"value":"（生きるのに最低限必要なものは揃ってる）"
+			"value":"(We’ve got the minimum we’ll need to\nsurvive.)"
 		},
 		{
 			"key":"EP02_S2704_Q1",
-			"value":"（でも、本当にそれだけでいいんだろうか？）"
+			"value":"(But will this really be enough?)"
 		},
 		{
 			"key":"EP02_S2704_Q1_A1",
-			"value":"みんなのことも気になるな……"
+			"value":"Worried about others."
 		},
 		{
 			"key":"EP02_S2704_Q1_A2",
-			"value":"しばらくは大丈夫かな"
+			"value":"Should be okay for now."
 		},
 		{
 			"key":"EP02_S2704_Q1_A3",
-			"value":"ここが何なのかを調べないと"
+			"value":"What is this place?"
 		},
 		{
 			"key":"EP02_S2704_0011",
-			"value":"他のみんなも気になるな……\nサキやシュウジさん、カイト、ミウ、教授……"
+			"value":"I’m worried about the others...\nSaki, Shuuji, Kaito, Miu, the professor..."
 		},
 		{
 			"key":"EP02_S2704_0012",
-			"value":"ええ、そうよね"
+			"value":"You’re right."
 		},
 		{
 			"key":"EP02_S2704_0013",
-			"value":"私たちだってここまで来れたんだから\nみんなもここを目指しているとは思うけど……"
+			"value":"We’ve made it this far, and I’d think they’ll\nbe looking for this place too..."
 		},
 		{
 			"key":"EP02_S2704_0014",
-			"value":"アオイの仲間ならきっと大丈夫よ！"
+			"value":"Aoi’s friends are going to be fine!"
 		},
 		{
 			"key":"EP02_S2704_0015",
-			"value":"うん、まぁそんな長くいるわけでもないし\nこれでしばらく大丈夫だろう"
+			"value":"We won’t be here long.\nThis should be good for a while."
 		},
 		{
 			"key":"EP02_S2704_0016",
-			"value":"いやいや、甘いよタクマ"
+			"value":"That’s naive, Takuma."
 		},
 		{
 			"key":"EP02_S2704_0017",
-			"value":"これはただの遭難じゃなくて\n未知のバケモノがさまようサバイバルなんだぜ？"
+			"value":"This is no coincidence. There’re some\nunknown monsters wandering around out there."
 		},
 		{
 			"key":"EP02_S2704_0018",
-			"value":"バケモノと呼ばれるのは心外だが\n確かに今の状況は油断できないな"
+			"value":"They are not monsters!\nBut we cannot let our guard down."
 		},
 		{
 			"key":"EP02_S2704_0019",
-			"value":"ここって何なんだ？　水も食料もある\nでも電気や電波は無くて、バケモノまで出る"
+			"value":"What is this place? There’s food and water.\nNo power or signal, and monsters too?"
 		},
 		{
 			"key":"EP02_S2704_0020",
-			"value":"あまりに不自然じゃないか？"
+			"value":"It’s all too weird!"
 		},
 		{
 			"key":"EP02_S2704_0021",
-			"value":"だから何だってんだ！　ここが何だかわかって\nオレらが助かるってのかよ！"
+			"value":"That’s what I’m wondering about! We need to\nknow just what this place is!"
 		},
 		{
 			"key":"EP02_S2704_0022",
-			"value":"オレらはどうにかして助けを呼ぶしかねーんだよ！"
+			"value":"We need to get some help!"
 		},
 		{
 			"key":"EP02_S2704_0023",
-			"value":"キュゥ……"
+			"value":"..."
 		},
 		{
 			"key":"EP02_S2704_0024",
-			"value":"てかよ、引率の大人や先輩はなにしてやがんだ！"
+			"value":"And where are all the adults?"
 		},
 		{
 			"key":"EP02_S2704_0025",
-			"value":"そんな遠くに来ちまったってわけでもねえし\nその辺うろついてんじゃねえか？"
+			"value":"We didn’t go that far. They’ve got to be\naround here somewhere!"
 		},
 		{
 			"key":"EP02_S2704_0026",
-			"value":"そうだよな。気づいたらわけわかんねー状況になってて\nまだ道に迷ってる奴もいるかもしれないんだよな"
+			"value":"You’re right. We woke up here, but maybe the\nothers are just lost out there, too."
 		},
 		{
 			"key":"EP02_S2704_0027",
-			"value":"オレらは学校に辿り着けたけど……"
+			"value":"We found our way back to the school..."
 		},
 		{
 			"key":"EP02_S2704_0028",
-			"value":"……とりあえず今は、もう少し探索してみよう"
+			"value":"We should look around a bit longer for now."
 		}
 	]
 }

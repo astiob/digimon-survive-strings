@@ -2,195 +2,195 @@
 	"scenario_text":[
 		{
 			"key":"EP11_S9530_0001",
-			"value":"……ダメね\n何も見つからないわ"
+			"value":"...Shoot. I can’t find anything."
 		},
 		{
 			"key":"EP11_S9530_0002",
-			"value":"この辺りにはないのかな……？"
+			"value":"Is there nothing here...?"
 		},
 		{
 			"key":"EP11_S9530_0003",
-			"value":"そうかもしれないわ……\n他の場所を探した方がいいのかも"
+			"value":"It’s possible... Maybe we should search\nsomewhere else."
 		},
 		{
 			"key":"EP11_S9530_0004",
-			"value":"無駄足だったってことは\nねぇよな……？"
+			"value":"Did we come here for nothing, then?"
 		},
 		{
 			"key":"EP11_S9530_0005",
-			"value":"時間がねぇのに、そんなことになったら……"
+			"value":"We have so little time. What a waste..."
 		},
 		{
 			"key":"EP11_S9530_0006",
-			"value":"大丈夫だよ。今までだってちゃんと\n四聖獣に会えたんだからさ"
+			"value":"Don’t worry. We’ve been able to find the\nother Sovereign Monsters up to now."
 		},
 		{
 			"key":"EP11_S9530_0007",
-			"value":"そうだけどよぉ……"
+			"value":"Well that’s true.."
 		},
 		{
 			"key":"EP11_S9530_0008",
-			"value":"（リョウが不安になる気持ちもわかるけど\n　ここで諦めたってどうにもならない）"
+			"value":"(I get why Ryo feels uneasy, but we won’t get\nanywhere if we give up here.)"
 		},
 		{
 			"key":"EP11_S9530_0009",
-			"value":"（励ますか、叱ってみるか……\n　アオイさんもいるし、任せてみようか？）"
+			"value":"(I could encourage him, or scold him... Or\nheck, I could leave it to Aoi here.)"
 		},
 		{
 			"key":"EP11_S9530_Q1",
-			"value":"（僕はどうしようかな……）"
+			"value":"(What should I do?)"
 		},
 		{
 			"key":"EP11_S9530_Q1_A1",
-			"value":"リョウを励まそう"
+			"value":"Encourage Ryo."
 		},
 		{
 			"key":"EP11_S9530_Q1_A2",
-			"value":"アオイさんに任せよう"
+			"value":"Leave it to Aoi."
 		},
 		{
 			"key":"EP11_S9530_Q1_A3",
-			"value":"リョウを叱ろう"
+			"value":"Scold him."
 		},
 		{
 			"key":"EP11_S9530_0010",
-			"value":"リョウを励ます"
+			"value":"Encourage Ryo."
 		},
 		{
 			"key":"EP11_S9530_0011",
-			"value":"大丈夫。祠はきっとこの辺りにあるよ\nレナモンを信じよう"
+			"value":"Don’t worry, the shrine must be around here.\nLet’s believe in Renamon."
 		},
 		{
 			"key":"EP11_S9530_0012",
-			"value":"……そうだな\n暗くなっても仕方ねぇしな……"
+			"value":"...Yeah, true. Getting down in the dumps\nabout it won’t help anything."
 		},
 		{
 			"key":"EP11_S9530_0013",
-			"value":"リョウくんってやっぱり……\n変わったわね"
+			"value":"Ryo... You really have changed, haven’t you?"
 		},
 		{
 			"key":"EP11_S9530_0014",
-			"value":"な、なんだよいきなり？"
+			"value":"What, did I say something funny?"
 		},
 		{
 			"key":"EP11_S9530_0015",
-			"value":"だって、そうやってポジティブに\n考えること、できなかったでしょう？"
+			"value":"It’s just, you were never such a constructive\nthinker before."
 		},
 		{
 			"key":"EP11_S9530_0016",
-			"value":"ポ、ポジティブぅ？　オレがぁ？\nな、なんだそりゃ……"
+			"value":"Constructive wh—? What, y-you tryin’ to\nbuild up my ego or something?"
 		},
 		{
 			"key":"EP11_S9530_0017",
-			"value":"だからリョウくん\n成長しているってこと"
+			"value":"I’m just saying you’ve grown, that’s all."
 		},
 		{
 			"key":"EP11_S9530_0018",
-			"value":"う、うるせぇ！\nほら、探すぞ！"
+			"value":"Oh, shut up! Come on, let’s keep moving!"
 		},
 		{
 			"key":"EP11_S9530_0019",
-			"value":"ふふ、そうやって照れる姿を隠さなくなったところも\n成長なのかしらね"
+			"value":"Hehe, he’s not even trying to hide his\nembarrassment. I definitely call that growth."
 		},
 		{
 			"key":"EP11_S9530_0020",
-			"value":"アオイさんに任せる"
+			"value":"Leave it to Aoi."
 		},
 		{
 			"key":"EP11_S9530_0021",
-			"value":"リョウくん、気持ちはわかるけど\nもう少し頑張りましょう？"
+			"value":"I understand how you feel, Ryo, but let’s\nkeep at it a bit longer, okay?"
 		},
 		{
 			"key":"EP11_S9530_0022",
-			"value":"私たちが諦めてしまったら\n誰もこの世界を救えなくなってしまうわ"
+			"value":"If we give up, who’s going to save this\nworld?"
 		},
 		{
 			"key":"EP11_S9530_0023",
-			"value":"大丈夫。きっと何かしらの成果は\n見つかるわよ"
+			"value":"Don’t worry, our efforts will be rewarded,\nI promise you."
 		},
 		{
 			"key":"EP11_S9530_0024",
-			"value":"ん……まぁ、二人にそこまで言われたら\n愚痴ってるのもダセえよな……"
+			"value":"Well... If you two’re gonna go that far, it’d\nbe lame of me to keep complaining."
 		},
 		{
 			"key":"EP11_S9530_0025",
-			"value":"わかったよ。もう少しやってみるよ"
+			"value":"Fine, I’ll keep going a while longer."
 		},
 		{
 			"key":"EP11_S9530_0026",
-			"value":"ありがとう、リョウくん\n偉いわ！"
+			"value":"Thanks, Ryo. I’m proud of you!"
 		},
 		{
 			"key":"EP11_S9530_0027",
-			"value":"あ、あのなぁ！　お前オレのこと\nガキ扱いしてねえか！？"
+			"value":"Yo, don’t praise me like some brat on a swing\nset!"
 		},
 		{
 			"key":"EP11_S9530_0028",
-			"value":"えぇっ！？　そ、そんなつもりは……"
+			"value":"What?! No, I, I didn’t mean to—"
 		},
 		{
 			"key":"EP11_S9530_0029",
-			"value":"（僕もそんな気はしてたけど\n　面白かったし、黙ってよう）"
+			"value":"(I got the same feeling but, eh, I’ll keep my\nmouth shut. It was pretty funny, after all.)"
 		},
 		{
 			"key":"EP11_S9530_0030",
-			"value":"叱ってみる"
+			"value":"Scold him."
 		},
 		{
 			"key":"EP11_S9530_0031",
-			"value":"弱気はダメだよ\n気持ちだけでも、明るくいなきゃ"
+			"value":"Don’t be spineless, man. You gotta cheer up,\nat least."
 		},
 		{
 			"key":"EP11_S9530_0032",
-			"value":"わかってるけどよ……"
+			"value":"I know that..."
 		},
 		{
 			"key":"EP11_S9530_0033",
-			"value":"そううまくいかねぇだろ……"
+			"value":"It’s just not that easy."
 		},
 		{
 			"key":"EP11_S9530_0034",
-			"value":"そうね。こうも何も見つからないと……"
+			"value":"Yes. We have to find something..."
 		},
 		{
 			"key":"EP11_S9530_0035",
-			"value":"二人とも！　明るく行こう！\nね？"
+			"value":"C’mon, you two, keep it together! Seriously!"
 		},
 		{
 			"key":"EP11_S9530_0036",
-			"value":"……ええ。がんばってみるわ"
+			"value":"...Yes, I’ll try my best."
 		},
 		{
 			"key":"EP11_S9530_0037",
-			"value":"……だな"
+			"value":"...Sure."
 		},
 		{
 			"key":"EP11_S9530_0038",
-			"value":"（……元気にはなってない、よなぁ）"
+			"value":"(...These guys have no spirit.)"
 		},
 		{
 			"key":"EP11_S9530_0039",
-			"value":"んじゃ、探索再開といくか"
+			"value":"Well, are we gonna get back to it or what?"
 		},
 		{
 			"key":"EP11_S9530_0040",
-			"value":"そうね、もう一度頑張りましょう"
+			"value":"Yes, let’s give it one more try!"
 		},
 		{
 			"key":"EP11_S9530_0041",
-			"value":"そうね、もう一度頑張りましょう"
+			"value":"Yes, let’s give it one more try!"
 		},
 		{
 			"key":"EP11_S9530_0042",
-			"value":"（この辺りにあるのは間違いないと思うんだけど\n　一体、どこにあるんだ……？）"
+			"value":"(It’s definitely gotta be around here. So\nwhere the heck is it?!)"
 		},
 		{
 			"key":"EP11_S9530_0043",
-			"value":"悪いな、まだ見つかってねえ"
+			"value":"Sorry man, I ain’t found nothing."
 		},
 		{
 			"key":"EP11_S9530_0044",
-			"value":"私たちはもう少しここを探してみるから\nタクマくんは他を見てきて"
+			"value":"We’ll keep looking around here. Why don’t you\ncheck another area, Takuma?"
 		}
 	]
 }
