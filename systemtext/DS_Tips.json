@@ -10,7 +10,7 @@
         },
         {
             "key": "TIPS_TITLE_003",
-            "value": "Tip: Karma and Evolution"
+            "value": "Tip: Karma and Digivolution"
         },
         {
             "key": "TIPS_TITLE_004",
@@ -18,7 +18,7 @@
         },
         {
             "key": "TIPS_TITLE_005",
-            "value": "Tip: Affinity and Evolution"
+            "value": "Tip: Affinity and Digivolution"
         },
         {
             "key": "TIPS_TITLE_006",
@@ -146,11 +146,11 @@
         },
         {
             "key": "TIPS_TITLE_037",
-            "value": "Tip: Evolve Command"
+            "value": "Tip: Digivolve Command"
         },
         {
             "key": "TIPS_TITLE_038",
-            "value": "Tip: Evolution, Devolution, and SP"
+            "value": "Tip: Digivolution, DDigivolution, and SP"
         },
         {
             "key": "TIPS_TITLE_039",
@@ -206,7 +206,7 @@
         },
         {
             "key": "TIPS_TITLE_052",
-            "value": "Tip: Checking Evolution"
+            "value": "Tip: Checking Digivolution"
         },
         {
             "key": "TIPS_TITLE_053",
@@ -234,15 +234,15 @@
         },
         {
             "key": "TIPS_DETAIL_003",
-            "value": "Karma will effect Agumon’s evolution."
+            "value": "Karma will effect Agumon’s Digivolution."
         },
         {
             "key": "TIPS_DETAIL_004",
-            "value": "A value showing your intimacy with other characters that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. Affinity affects\nthe evolution of other characters and monsters, the\nfrequency of Battle Backup occurring in battles, and more."
+            "value": "A value showing your intimacy with other characters that\nchanges with your decisions. You can check your current\nstatus on the Profile screen in the menu. Affinity affects\nthe Digivolution of other characters and monsters, the\nfrequency of Battle Backup occurring in battles, and more."
         },
         {
             "key": "TIPS_DETAIL_005",
-            "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger an evolution event, unlocking\na new evolution for that character."
+            "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger an Digivolution event, unlocking\na new Digivolution for that character."
         },
         {
             "key": "TIPS_DETAIL_006",
@@ -370,11 +370,11 @@
         },
         {
             "key": "TIPS_DETAIL_037",
-            "value": "During battle, using the Evolve command on a main character\npartner unit displays their Evolution tree. Evolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nevolution."
+            "value": "During battle, using the Digivolve command on a main character\npartner unit displays their Digivolution tree. Digivolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nDigivolution."
         },
         {
             "key": "TIPS_DETAIL_038",
-            "value": "During battle, monsters evolved through the Evolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (devolve them) voluntarily."
+            "value": "During battle, monsters Digivolved through the Digivolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (dDigivolve them) voluntarily."
         },
         {
             "key": "TIPS_DETAIL_039",
@@ -430,7 +430,7 @@
         },
         {
             "key": "TIPS_DETAIL_052",
-            "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Evolution from the top tabs to \ncheck evolutions. Evolution trees are displayed for \neach monster, letting you check their evolution paths."
+            "value": "After choosing any monster on the Pause Menu’s \nStats screen, select Digivolution from the top tabs to \ncheck Digivolutions. Digivolution trees are displayed for \neach monster, letting you check their Digivolution paths."
         },
         {
             "key": "TIPS_DETAIL_053",
@@ -490,7 +490,7 @@
         },
         {
             "key": "TIPS_TITLE_066",
-            "value": "Tip: Free Monster Evolution"
+            "value": "Tip: Free Monster Digivolution"
         },
         {
             "key": "TIPS_TITLE_067",
@@ -550,7 +550,7 @@
         },
         {
             "key": "TIPS_DETAIL_066",
-            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an Evolution path from\nthe Evolution tree (note that they cannot be devolved).\nEvolution also requires specific items."
+            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an Digivolution path from\nthe Digivolution tree (note that they cannot be dDigivolved).\nDigivolution also requires specific items."
         },
         {
             "key": "TIPS_DETAIL_067",
@@ -566,7 +566,7 @@
         },
         {
             "key": "TIPS_DETAIL_070",
-            "value": "Use these on monsters to boost their stats, evolve Free\nMonsters, and more. To use them, choose any monster from\nthe Stats screen and select Training or Evolution from the\ntop tabs."
+            "value": "Use these on monsters to boost their stats, Digivolve Free\nMonsters, and more. To use them, choose any monster from\nthe Stats screen and select Training or Digivolution from the\ntop tabs."
         },
         {
             "key": "TIPS_DETAIL_071",

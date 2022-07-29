@@ -10,7 +10,7 @@
         },
         {
             "key": "HELP_NAME_ADV_03",
-            "value": "Karma and Evolution"
+            "value": "Karma and Digivolution"
         },
         {
             "key": "HELP_NAME_ADV_04",
@@ -18,7 +18,7 @@
         },
         {
             "key": "HELP_NAME_ADV_05",
-            "value": "Unlocking Evolutions"
+            "value": "Unlocking Digivolutions"
         },
         {
             "key": "HELP_NAME_ADV_06",
@@ -106,15 +106,15 @@
         },
         {
             "key": "HELP_DETAIL_ADV_03",
-            "value": "Karma will effect Agumon’s evolution."
+            "value": "Karma will effect Agumon’s Digivolution."
         },
         {
             "key": "HELP_DETAIL_ADV_04",
-            "value": "Affinity is a value showing your intimacy with other characters, and changes with your decisions. You can check your current status on the Profile screen in the menu. Affinity affects the evolution of other characters’ monsters, the frequency of battle backup in combat, and more."
+            "value": "Affinity is a value showing your intimacy with other characters, and changes with your decisions. You can check your current status on the Profile screen in the menu. Affinity affects the Digivolution of other characters’ monsters, the frequency of battle backup in combat, and more."
         },
         {
             "key": "HELP_DETAIL_ADV_05",
-            "value": "Special destinations for partner monsters of characters with a certain level of Affinity will be added to the Map after specific chapters. Moving to one of these destinations will trigger an evolution event, unlocking a new evolution for that character."
+            "value": "Special destinations for partner monsters of characters with a certain level of Affinity will be added to the Map after specific chapters. Moving to one of these destinations will trigger an Digivolution event, unlocking a new Digivolution for that character."
         },
         {
             "key": "HELP_DETAIL_ADV_06",
@@ -350,11 +350,11 @@
         },
         {
             "key": "HELP_NAME_SLG_34",
-            "value": "Evolve Command"
+            "value": "Digivolve Command"
         },
         {
             "key": "HELP_NAME_SLG_35",
-            "value": "Evolution and SP Use"
+            "value": "Digivolution and SP Use"
         },
         {
             "key": "HELP_NAME_SLG_36",
@@ -550,11 +550,11 @@
         },
         {
             "key": "HELP_DETAIL_SLG_34",
-            "value": "When Takuma and friends use the Evolve command on a partner unit, an Evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
+            "value": "When Takuma and friends use the Digivolve command on a partner unit, an Digivolution chart will appear. Digivolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Digivolution carries over."
         },
         {
             "key": "HELP_DETAIL_SLG_35",
-            "value": "Evolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (devolve them) voluntarily to conserve SP."
+            "value": "Digivolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (dDigivolve them) voluntarily to conserve SP."
         },
         {
             "key": "HELP_DETAIL_SLG_36",
@@ -614,7 +614,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_50",
-            "value": "Agumon’s Evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Vaccine (Moral), Data (Harmonious), and Virus (Chaotic)."
+            "value": "Agumon’s Digivolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Vaccine (Moral), Data (Harmonious), and Virus (Chaotic)."
         },
         {
             "key": "HELP_DETAIL_SLG_42_p4",
@@ -650,7 +650,7 @@
         },
         {
             "key": "HELP_NAME_MENU_07",
-            "value": "Monster Evolution"
+            "value": "Monster Digivolution"
         },
         {
             "key": "HELP_NAME_MENU_08",
@@ -698,7 +698,7 @@
         },
         {
             "key": "HELP_DETAIL_MENU_07",
-            "value": "After choosing any monster on the Stats screen, you can check Evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their Evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
+            "value": "After choosing any monster on the Stats screen, you can check Digivolutions from the top tabs. Digivolution trees are displayed for each monster, letting you check their Digivolution paths. *When a Free Monster Digivolves, their level is maintained but the EXP to their next level is reset."
         },
         {
             "key": "HELP_DETAIL_MENU_08",
@@ -706,7 +706,7 @@
         },
         {
             "key": "HELP_DETAIL_MENU_09",
-            "value": "After selecting any character from the Profile screen, you can check episode and ally monster information in the top tabs. Episodes are unlocked through story progression or monster evolution."
+            "value": "After selecting any character from the Profile screen, you can check episode and ally monster information in the top tabs. Episodes are unlocked through story progression or monster Digivolution."
         },
         {
             "key": "HELP_DETAIL_MENU_10",

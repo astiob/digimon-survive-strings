@@ -282,7 +282,7 @@
         },
         {
             "key": "SYS_WORD_0022",
-            "value": "Evolution"
+            "value": "Digivolution"
         },
         {
             "key": "SYS_WORD_0023",
@@ -934,11 +934,11 @@
         },
         {
             "key": "SYS_WORD_0185",
-            "value": "Evolution"
+            "value": "Digivolution"
         },
         {
             "key": "SYS_WORD_0186",
-            "value": "Evolve"
+            "value": "Digivolve"
         },
         {
             "key": "SYS_WORD_0187",
@@ -5174,23 +5174,23 @@
         },
         {
             "key": "NAME_ITEM_0011",
-            "value": "Evolution Seed"
+            "value": "Digivolution Seed"
         },
         {
             "key": "NAME_ITEM_0012",
-            "value": "Evolution Seed+"
+            "value": "Digivolution Seed+"
         },
         {
             "key": "NAME_ITEM_0013",
-            "value": "Evolution Seed++"
+            "value": "Digivolution Seed++"
         },
         {
             "key": "NAME_ITEM_0014",
-            "value": "Evolution Bushel"
+            "value": "Digivolution Bushel"
         },
         {
             "key": "NAME_ITEM_0015",
-            "value": "Evolution Bushel+"
+            "value": "Digivolution Bushel+"
         },
         {
             "key": "NAME_ITEM_0016",
@@ -5578,15 +5578,15 @@
         },
         {
             "key": "NAME_ITEM_1201",
-            "value": "Evolves a Free Monster to Champion.\nI don’t think I can read this... Is it\nan incantation from this world?"
+            "value": "Digivolves a Free Monster to Champion.\nI don’t think I can read this... Is it\nan incantation from this world?"
         },
         {
             "key": "NAME_ITEM_1202",
-            "value": "Evolves a Free Monster to Ultimate.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
+            "value": "Digivolves a Free Monster to Ultimate.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
         },
         {
             "key": "NAME_ITEM_1203",
-            "value": "Evolves a Free Monster to Mega.\nThe middle of the disc rotates, but why?\nIs something written here?"
+            "value": "Digivolves a Free Monster to Mega.\nThe middle of the disc rotates, but why?\nIs something written here?"
         },
         {
             "key": "NAME_ITEM_1301",
@@ -8290,7 +8290,7 @@
         },
         {
             "key": "SYS_WORD_8014",
-            "value": "Use 1/{0} item(s) to evolve (note that\nFree Monsters cannot be devolved)."
+            "value": "Use 1/{0} item(s) to Digivolve (note that\nFree Monsters cannot be dDigivolved)."
         },
         {
             "key": "SYS_WORD_8015",
@@ -8302,7 +8302,7 @@
         },
         {
             "key": "SYS_WORD_8017",
-            "value": "Evolution complete!"
+            "value": "Digivolution complete!"
         },
         {
             "key": "SYS_WORD_8018",
@@ -8334,11 +8334,11 @@
         },
         {
             "key": "SYS_WORD_8025",
-            "value": "Evolution"
+            "value": "Digivolution"
         },
         {
             "key": "SYS_WORD_8026",
-            "value": "Evolution Chart"
+            "value": "Digivolution Chart"
         },
         {
             "key": "SYS_WORD_8027",
@@ -8366,7 +8366,7 @@
         },
         {
             "key": "SYS_WORD_8033",
-            "value": "Unable to evolve further."
+            "value": "Unable to Digivolve further."
         },
         {
             "key": "SYS_WORD_8034",
@@ -8646,7 +8646,7 @@
         },
         {
             "key": "NAME_TACTICS_012",
-            "value": "Add proactive Evolution to use the Destroy\ntactic at full force."
+            "value": "Add proactive Digivolution to use the Destroy\ntactic at full force."
         },
         {
             "key": "NAME_TACTICS_013",
@@ -10342,7 +10342,7 @@
         },
         {
             "key": "SYS_WORD_8069",
-            "value": "Insufficient items for evolution."
+            "value": "Insufficient items for Digivolution."
         },
         {
             "key": "SYS_WORD_8070",
@@ -11194,7 +11194,7 @@
         },
         {
             "key": "Tutorial_Adv_055",
-            "value": "This screen shows your team members’ abilities\nand equipment, plus their Evolution level."
+            "value": "This screen shows your team members’ abilities\nand equipment, plus their Digivolution level."
         },
         {
             "key": "Tutorial_Adv_056",
@@ -11334,7 +11334,7 @@
         },
         {
             "key": "Tutorial_Map_025",
-            "value": "Your Affinities influence Battle Backup actions\nin battle and play a large role in Evolution,"
+            "value": "Your Affinities influence Battle Backup actions\nin battle and play a large role in Digivolution,"
         },
         {
             "key": "Tutorial_Map_026",
@@ -13790,7 +13790,7 @@
         },
         {
             "key": "AOC_TEXT_0009",
-            "value": "Evolution Sup. Set"
+            "value": "Digivolution Sup. Set"
         },
         {
             "key": "AOC_TEXT_0010",
@@ -13962,11 +13962,11 @@
         },
         {
             "key": "SYS_WORD_8239",
-            "value": "Kaito’s Dracmon has unlocked evolution to Boltboutamon."
+            "value": "Kaito’s Dracmon has unlocked Digivolution to Boltboutamon."
         },
         {
             "key": "SYS_WORD_8240",
-            "value": "Aoi’s Labramon has unlocked evolution to Plutomon."
+            "value": "Aoi’s Labramon has unlocked Digivolution to Plutomon."
         },
         {
             "key": "AOC_TEXT_0011",
@@ -14002,23 +14002,23 @@
         },
         {
             "key": "SYS_WORD_8244",
-            "value": "Takuma’s Agumon has unlocked evolution to Fanglongmon."
+            "value": "Takuma’s Agumon has unlocked Digivolution to Fanglongmon."
         },
         {
             "key": "SYS_WORD_8245",
-            "value": "Aoi’s Labramon has unlocked evolution to Baihumon."
+            "value": "Aoi’s Labramon has unlocked Digivolution to Baihumon."
         },
         {
             "key": "SYS_WORD_8246",
-            "value": "Minoru’s Falcomon has unlocked evolution to Zhuqiaomon."
+            "value": "Minoru’s Falcomon has unlocked Digivolution to Zhuqiaomon."
         },
         {
             "key": "SYS_WORD_8247",
-            "value": "Miu’s Syakomon has unlocked evolution to Azulongmon."
+            "value": "Miu’s Syakomon has unlocked Digivolution to Azulongmon."
         },
         {
             "key": "SYS_WORD_8248",
-            "value": "Saki’s Floramon has unlocked evolution to Ebonwumon."
+            "value": "Saki’s Floramon has unlocked Digivolution to Ebonwumon."
         },
         {
             "key": "SAVE_INFO_SYSTEMDATA_TITLE_xbox",
