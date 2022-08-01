@@ -626,7 +626,7 @@
         },
         {
             "key": "SYS_WORD_0108",
-            "value": "Free Bat."
+            "value": "Free Battle"
         },
         {
             "key": "SYS_WORD_0109",
@@ -854,19 +854,19 @@
         },
         {
             "key": "SYS_WORD_0165",
-            "value": "Win Cond."
+            "value": "Win Condition"
         },
         {
             "key": "SYS_WORD_0166",
-            "value": "Loss Cond."
+            "value": "Loss Condition"
         },
         {
             "key": "SYS_WORD_0167",
-            "value": "Start Bat."
+            "value": "Battle Start"
         },
         {
             "key": "SYS_WORD_0168",
-            "value": "Start Battle"
+            "value": "Battle Start"
         },
         {
             "key": "SYS_WORD_0169",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "SYS_WORD_0225",
-            "value": "Start Bat."
+            "value": "Battle Start"
         },
         {
             "key": "SYS_WORD_0226",
@@ -1214,7 +1214,7 @@
         },
         {
             "key": "SYS_WORD_0255",
-            "value": "Win Cond."
+            "value": "Win Condition"
         },
         {
             "key": "SYS_WORD_0256",
@@ -6026,7 +6026,7 @@
         },
         {
             "key": "NAME_LOCATION_051",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_052",
@@ -6166,7 +6166,7 @@
         },
         {
             "key": "NAME_LOCATION_079",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_080",
@@ -6346,7 +6346,7 @@
         },
         {
             "key": "NAME_LOCATION_717",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_521",
@@ -9350,7 +9350,7 @@
         },
         {
             "key": "NAME_LOCATION_FB",
-            "value": "Free Bat."
+            "value": "Free Battle"
         },
         {
             "key": "DESC_LOCATION_FB",
