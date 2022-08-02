@@ -14175,6 +14175,94 @@
         {
             "key": "SAVE_DEFUI_EXISTS_CURRUPTED_DATA_Common",
             "value": "破損したセーブデータがあります"
+        },
+        {
+            "key": "SYS_WORD_8253",
+            "value": "制限"
+        },
+        {
+            "key": "SYS_WORD_8254",
+            "value": "このバトルでは、以下のパートナーユニットは\n会話コマンドが使用できません。"
+        },
+        {
+            "key": "SYS_WORD_8255",
+            "value": "システム1"
+        },
+        {
+            "key": "SYS_WORD_8256",
+            "value": "システム2"
+        },
+        {
+            "key": "SYS_WORD_8257",
+            "value": "振動設定"
+        },
+        {
+            "key": "SYS_WORD_8258",
+            "value": "振動"
+        },
+        {
+            "key": "SYS_WORD_8258_sw",
+            "value": "振動機能"
+        },
+        {
+            "key": "SYS_WORD_8259",
+            "value": "AIバトルは立ち往生しています。\nオートバトルを解除します。"
+        },
+        {
+            "key": "SYS_WORD_8255_xb",
+            "value": "コンソール1"
+        },
+        {
+            "key": "SYS_WORD_8256_xb",
+            "value": "コンソール2"
+        },
+        {
+            "key": "SYS_WORD_8260",
+            "value": "キーボード"
+        },
+        {
+            "key": "SYS_WORD_8261",
+            "value": "ゲームパッド"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02",
+            "value": "ダウンロードコンテンツ使用可能"
+        },
+        {
+            "key": "AOC_GET_FAILURE_04",
+            "value": "以下のダウンロードコンテンツが\n使用可能ですが、モンスター所持数が\n限界の為、整理してください"
+        },
+        {
+            "key": "SYS_WORD_8262",
+            "value": "RSボタン"
+        },
+        {
+            "key": "SYS_WORD_8263",
+            "value": "LSボタン"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_ps",
+            "value": "ダウンロードコンテンツ使用可能"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_sw",
+            "value": "ダウンロードコンテンツ使用可能"
+        },
+        {
+            "key": "AOC_EXISTS_INFO_02_xb",
+            "value": "ダウンロードコンテンツ使用可能"
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_ps",
+            "value": "以下のダウンロードコンテンツが\n使用可能ですが、モンスター所持数が\n限界の為、整理してください"
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_sw",
+            "value": "以下のダウンロードコンテンツが\n使用可能ですが、モンスター所持数が\n限界の為、整理してください"
+        },
+        {
+            "key": "AOC_GET_FAILURE_04_xb",
+            "value": "以下のダウンロードコンテンツが\n使用可能ですが、モンスター所持数が\n限界の為、整理してください"
         }
     ]
 }
