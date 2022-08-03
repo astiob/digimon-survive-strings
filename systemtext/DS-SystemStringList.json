@@ -14158,7 +14158,7 @@
         },
         {
             "key": "SAVE_DEFUI_NEWGAME_CONFIRM_Common",
-            "value": "Delete all autosave data and suspended battle data?"
+            "value": "Autosave and suspended battle data will be deleted.\nProceed?"
         },
         {
             "key": "SYS_AUTOSAVE_WARNING_Common",
