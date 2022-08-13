@@ -1390,7 +1390,7 @@
         },
         {
             "key": "SYS_AUTOSAVE_WARNING",
-            "value": "Initiating autosave."
+            "value": "Loading Autosave..."
         },
         {
             "key": "SYS_SPLASH_AUTO_SAVING",
@@ -7622,7 +7622,7 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0009",
-            "value": "Initialize"
+            "value": "Default Settings"
         },
         {
             "key": "STEAM_SETTING_TEXT_0010",
@@ -7794,7 +7794,7 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0052",
-            "value": "This will return all settings to their initial values."
+            "value": "This will return all settings to their default values."
         },
         {
             "key": "STEAM_SETTING_TEXT_0053",
@@ -8034,7 +8034,7 @@
         },
         {
             "key": "SYS_WORD_4024",
-            "value": "Initialize"
+            "value": "Default Settings"
         },
         {
             "key": "SYS_WORD_4025",
@@ -8050,11 +8050,11 @@
         },
         {
             "key": "SYS_WORD_4028",
-            "value": "Unread"
+            "value": "All Text"
         },
         {
             "key": "SYS_WORD_4029",
-            "value": "Read"
+            "value": "Previously Read"
         },
         {
             "key": "SYS_WORD_4030",
@@ -10046,7 +10046,7 @@
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_002",
-            "value": "All annihilated."
+            "value": "All allies annihilated."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_003",
@@ -14162,7 +14162,7 @@
         },
         {
             "key": "SYS_AUTOSAVE_WARNING_Common",
-            "value": "Initiating autosave."
+            "value": "Loading System Data..."
         },
         {
             "key": "SYS_WORD_4060_Common",
