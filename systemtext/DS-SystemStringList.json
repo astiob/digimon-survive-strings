@@ -214,7 +214,7 @@
         },
         {
             "key": "SYS_WORD_0005",
-            "value": "Item"
+            "value": "Items"
         },
         {
             "key": "SYS_WORD_0006",
@@ -258,7 +258,7 @@
         },
         {
             "key": "SYS_WORD_0016",
-            "value": "Skill"
+            "value": "Skills"
         },
         {
             "key": "SYS_WORD_0017",
@@ -9426,7 +9426,7 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_001",
-            "value": "Monster"
+            "value": "Monsters"
         },
         {
             "key": "SYS_WORD_LIBRARY_002",
