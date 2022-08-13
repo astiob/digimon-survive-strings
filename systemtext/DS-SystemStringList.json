@@ -8014,7 +8014,7 @@
         },
         {
             "key": "SYS_WORD_4019",
-            "value": "Steam Settings"
+            "value": "PC Settings"
         },
         {
             "key": "SYS_WORD_4020",
@@ -8030,7 +8030,7 @@
         },
         {
             "key": "SYS_WORD_4023",
-            "value": "Change Steam settings."
+            "value": "Change PC settings."
         },
         {
             "key": "SYS_WORD_4024",
@@ -14186,11 +14186,11 @@
         },
         {
             "key": "SYS_WORD_8255",
-            "value": "System 1"
+            "value": "Game Settings 1"
         },
         {
             "key": "SYS_WORD_8256",
-            "value": "System 2"
+            "value": "Game Settings 2"
         },
         {
             "key": "SYS_WORD_8257",
