@@ -9434,11 +9434,11 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_003",
-            "value": "Skill-Equip Items"
+            "value": "Skill Items"
         },
         {
             "key": "SYS_WORD_LIBRARY_004",
-            "value": "Enhanc-Equip Items"
+            "value": "Enhancement Items"
         },
         {
             "key": "SYS_WORD_LIBRARY_005",
@@ -9462,7 +9462,7 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_010",
-            "value": "Skill-Equip Items"
+            "value": "Skill Items"
         },
         {
             "key": "SYS_WORD_LIBRARY_011",
