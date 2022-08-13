@@ -118,7 +118,7 @@
         },
         {
             "key": "EP07_S9003_0026",
-            "value": "We’ll take a look around here, so Takuma, you\ncan go search <color=#B41919>somewhere else</color>."
+            "value": "We’ll take a look around here, so Takuma, you\ncan go search <color=#D61E1E>somewhere else</color>."
         },
         {
             "key": "EP07_S9003_0027",
@@ -150,7 +150,7 @@
         },
         {
             "key": "EP07_S9003_0034",
-            "value": "We’ll take a look around here, so you can go\nsearch <color=#B41919>elsewhere</color>."
+            "value": "We’ll take a look around here, so you can go\nsearch <color=#D61E1E>elsewhere</color>."
         }
     ]
 }
