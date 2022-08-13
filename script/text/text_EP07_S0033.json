@@ -1,36 +1,36 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP07_S0033_0001",
-			"value":"I am sensing nothing else now."
-		},
-		{
-			"key":"EP07_S0033_0002",
-			"value":"It was like that before the corpse showed up,\nright? Don’t take any chances."
-		},
-		{
-			"key":"EP07_S0033_0003",
-			"value":"Erm..."
-		},
-		{
-			"key":"EP07_S0033_0004",
-			"value":"What’s wrong, Labramon?"
-		},
-		{
-			"key":"EP07_S0033_0005",
-			"value":"I have a bad feeling..."
-		},
-		{
-			"key":"EP07_S0033_0006",
-			"value":"Like a creeping chill when we stand here..."
-		},
-		{
-			"key":"EP07_S0033_0007",
-			"value":"I can’t sense anything. But you think there’s\nsomething here, too?"
-		},
-		{
-			"key":"EP07_S0033_0008",
-			"value":"(Let’s check with the camera.\nSomething must be here.)"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP07_S0033_0001",
+            "value": "I am sensing nothing else now."
+        },
+        {
+            "key": "EP07_S0033_0002",
+            "value": "It was like that before the corpse showed up,\nright? Don’t take any chances."
+        },
+        {
+            "key": "EP07_S0033_0003",
+            "value": "Erm..."
+        },
+        {
+            "key": "EP07_S0033_0004",
+            "value": "What’s wrong, Labramon?"
+        },
+        {
+            "key": "EP07_S0033_0005",
+            "value": "I have a bad feeling..."
+        },
+        {
+            "key": "EP07_S0033_0006",
+            "value": "Like a creeping chill when we stand here..."
+        },
+        {
+            "key": "EP07_S0033_0007",
+            "value": "I can’t sense anything. But you think there’s\nsomething here, too?"
+        },
+        {
+            "key": "EP07_S0033_0008",
+            "value": "(Let’s check with the camera.\nSomething must be here.)"
+        }
+    ]
 }

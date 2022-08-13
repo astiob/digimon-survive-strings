@@ -1,88 +1,88 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP07_S3113_0001",
-			"value":"Get out of the way, Garurumon!\nMiyuki’s up ahead, right?!"
-		},
-		{
-			"key":"EP07_S3113_0002",
-			"value":"How foolish you are. Are you still obsessed\nwith that human child?"
-		},
-		{
-			"key":"EP07_S3113_0003",
-			"value":"As if a thing like you could understand!"
-		},
-		{
-			"key":"EP07_S3113_0004",
-			"value":"I neither understand nor trust humans."
-		},
-		{
-			"key":"EP07_S3113_0005",
-			"value":"You know how I was betrayed, and yet you\nstill expect me to trust a human?"
-		},
-		{
-			"key":"EP07_S3113_0006",
-			"value":"Miyuki has nothing to do with the cold-\nhearted human who betrayed you!"
-		},
-		{
-			"key":"EP07_S3113_0007",
-			"value":"Of course you were betrayed.\nWhat did you think was going to happen?!"
-		},
-		{
-			"key":"EP07_S3113_0008",
-			"value":"I thought you’d say that."
-		},
-		{
-			"key":"EP07_S3113_0009",
-			"value":"What has your favorite human ever done for\nyou?"
-		},
-		{
-			"key":"EP07_S3113_0010",
-			"value":"She has returned none of your kindness. You\nhave earned nothing but pain and suffering!"
-		},
-		{
-			"key":"EP07_S3113_0011",
-			"value":"But no matter what becomes of me, there is no\nvalue in protecting humans!"
-		},
-		{
-			"key":"EP07_S3113_0012",
-			"value":"What’s your point? That I should help you?"
-		},
-		{
-			"key":"EP07_S3113_0013",
-			"value":"I’m saying to reconsider your allegiances!\nIs the Master worthy of your trust?"
-		},
-		{
-			"key":"EP07_S3113_0014",
-			"value":"...!"
-		},
-		{
-			"key":"EP07_S3113_0015",
-			"value":"Can you really save your world with\na sacrifice?"
-		},
-		{
-			"key":"EP07_S3113_0016",
-			"value":"Does the Master have such power? Is the\nMaster a god?!"
-		},
-		{
-			"key":"EP07_S3113_0017",
-			"value":"I know you have doubts, Garurumon!"
-		},
-		{
-			"key":"EP07_S3113_0018",
-			"value":"Shut up! Shut! Up!\nYou are only thinking of revenge!"
-		},
-		{
-			"key":"EP07_S3113_0019",
-			"value":"The world, the Master—none of that stuff\nmotivates me in the least!"
-		},
-		{
-			"key":"EP07_S3113_0020",
-			"value":"If that’s true, then—"
-		},
-		{
-			"key":"EP07_S3113_0021",
-			"value":"Guys!"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP07_S3113_0001",
+            "value": "Get out of the way, Garurumon!\nMiyuki’s up ahead, right?!"
+        },
+        {
+            "key": "EP07_S3113_0002",
+            "value": "How foolish you are. Are you still obsessed\nwith that human child?"
+        },
+        {
+            "key": "EP07_S3113_0003",
+            "value": "As if a thing like you could understand!"
+        },
+        {
+            "key": "EP07_S3113_0004",
+            "value": "I neither understand nor trust humans."
+        },
+        {
+            "key": "EP07_S3113_0005",
+            "value": "You know how I was betrayed, and yet you\nstill expect me to trust a human?"
+        },
+        {
+            "key": "EP07_S3113_0006",
+            "value": "Miyuki has nothing to do with the cold-\nhearted human who betrayed you!"
+        },
+        {
+            "key": "EP07_S3113_0007",
+            "value": "Of course you were betrayed.\nWhat did you think was going to happen?!"
+        },
+        {
+            "key": "EP07_S3113_0008",
+            "value": "I thought you’d say that."
+        },
+        {
+            "key": "EP07_S3113_0009",
+            "value": "What has your favorite human ever done for\nyou?"
+        },
+        {
+            "key": "EP07_S3113_0010",
+            "value": "She has returned none of your kindness. You\nhave earned nothing but pain and suffering!"
+        },
+        {
+            "key": "EP07_S3113_0011",
+            "value": "But no matter what becomes of me, there is no\nvalue in protecting humans!"
+        },
+        {
+            "key": "EP07_S3113_0012",
+            "value": "What’s your point? That I should help you?"
+        },
+        {
+            "key": "EP07_S3113_0013",
+            "value": "I’m saying to reconsider your allegiances!\nIs the Master worthy of your trust?"
+        },
+        {
+            "key": "EP07_S3113_0014",
+            "value": "...!"
+        },
+        {
+            "key": "EP07_S3113_0015",
+            "value": "Can you really save your world with\na sacrifice?"
+        },
+        {
+            "key": "EP07_S3113_0016",
+            "value": "Does the Master have such power? Is the\nMaster a god?!"
+        },
+        {
+            "key": "EP07_S3113_0017",
+            "value": "I know you have doubts, Garurumon!"
+        },
+        {
+            "key": "EP07_S3113_0018",
+            "value": "Shut up! Shut! Up!\nYou are only thinking of revenge!"
+        },
+        {
+            "key": "EP07_S3113_0019",
+            "value": "The world, the Master—none of that stuff\nmotivates me in the least!"
+        },
+        {
+            "key": "EP07_S3113_0020",
+            "value": "If that’s true, then—"
+        },
+        {
+            "key": "EP07_S3113_0021",
+            "value": "Guys!"
+        }
+    ]
 }

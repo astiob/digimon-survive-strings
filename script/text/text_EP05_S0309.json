@@ -1,16 +1,16 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP05_S0309_0001",
-			"value":"This is...where we started?"
-		},
-		{
-			"key":"EP05_S0309_0002",
-			"value":"We’ve gone in a circle... That means I messed\nup somewhere."
-		},
-		{
-			"key":"EP05_S0309_0003",
-			"value":"Dammit, I’m not throwing in the towel yet.\nI’ll find the right path for sure!"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP05_S0309_0001",
+            "value": "This is...where we started?"
+        },
+        {
+            "key": "EP05_S0309_0002",
+            "value": "We’ve gone in a circle... That means I messed\nup somewhere."
+        },
+        {
+            "key": "EP05_S0309_0003",
+            "value": "Dammit, I’m not throwing in the towel yet.\nI’ll find the right path for sure!"
+        }
+    ]
 }

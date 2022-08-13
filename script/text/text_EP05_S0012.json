@@ -1,28 +1,28 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP05_S0012_0001",
-			"value":"It... It was a dream? I see...\nJust a dream..."
-		},
-		{
-			"key":"EP05_S0012_0002",
-			"value":"Ah..."
-		},
-		{
-			"key":"EP05_S0012_0003",
-			"value":"Zzz...zzzzzz..."
-		},
-		{
-			"key":"EP05_S0012_0004",
-			"value":"Why don’t you change?"
-		},
-		{
-			"key":"EP05_S0012_0005",
-			"value":"I see... You’re the same."
-		},
-		{
-			"key":"EP05_S0012_0006",
-			"value":"You’re just like I was when my dad chewed me\nout...and had to abandon me."
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP05_S0012_0001",
+            "value": "It... It was a dream? I see...\nJust a dream..."
+        },
+        {
+            "key": "EP05_S0012_0002",
+            "value": "Ah..."
+        },
+        {
+            "key": "EP05_S0012_0003",
+            "value": "Zzz...zzzzzz..."
+        },
+        {
+            "key": "EP05_S0012_0004",
+            "value": "Why don’t you change?"
+        },
+        {
+            "key": "EP05_S0012_0005",
+            "value": "I see... You’re the same."
+        },
+        {
+            "key": "EP05_S0012_0006",
+            "value": "You’re just like I was when my dad chewed me\nout...and had to abandon me."
+        }
+    ]
 }

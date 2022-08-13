@@ -1,16 +1,16 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP01_S0438_0001",
-			"value":"Kewww..."
-		},
-		{
-			"key":"EP01_S0438_0002",
-			"value":"(I don’t know what it’s saying, but it seems\nkinda sad...)"
-		},
-		{
-			"key":"EP01_S0438_0003",
-			"value":"Kewww..."
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP01_S0438_0001",
+            "value": "Kewww..."
+        },
+        {
+            "key": "EP01_S0438_0002",
+            "value": "(I don’t know what it’s saying, but it seems\nkinda sad...)"
+        },
+        {
+            "key": "EP01_S0438_0003",
+            "value": "Kewww..."
+        }
+    ]
 }

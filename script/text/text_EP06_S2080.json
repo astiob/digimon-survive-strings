@@ -1,24 +1,24 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP06_S2080_0001",
-			"value":"I’ve been waiting for this!"
-		},
-		{
-			"key":"EP06_S2080_0002",
-			"value":"Kaito, and Dracmon!\nAwesome! Thanks for coming!"
-		},
-		{
-			"key":"EP06_S2080_0003",
-			"value":"You should’ve seen his face when he heard the\nsounds of battle. He was worried sick!"
-		},
-		{
-			"key":"EP06_S2080_0004",
-			"value":"Did you really need to bring that up?\nDon’t make me kick your butt, Dracmon!"
-		},
-		{
-			"key":"EP06_S2080_0005",
-			"value":"Hah!\nI’d like to see you try!"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP06_S2080_0001",
+            "value": "I’ve been waiting for this!"
+        },
+        {
+            "key": "EP06_S2080_0002",
+            "value": "Kaito, and Dracmon!\nAwesome! Thanks for coming!"
+        },
+        {
+            "key": "EP06_S2080_0003",
+            "value": "You should’ve seen his face when he heard the\nsounds of battle. He was worried sick!"
+        },
+        {
+            "key": "EP06_S2080_0004",
+            "value": "Did you really need to bring that up?\nDon’t make me kick your butt, Dracmon!"
+        },
+        {
+            "key": "EP06_S2080_0005",
+            "value": "Hah!\nI’d like to see you try!"
+        }
+    ]
 }

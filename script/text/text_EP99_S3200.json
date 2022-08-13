@@ -1,8 +1,8 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP99_S3200_Q1_A3",
-			"value":"I shouldn’t pry."
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP99_S3200_Q1_A3",
+            "value": "I shouldn’t pry."
+        }
+    ]
 }

@@ -1,24 +1,24 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP01_S0328_0001",
-			"value":"That voice came from the second floor...but\nwhere, exactly?"
-		},
-		{
-			"key":"EP01_S0328_0002",
-			"value":"Yeeeeeek!"
-		},
-		{
-			"key":"EP01_S0328_0003",
-			"value":"This way, Takuma!"
-		},
-		{
-			"key":"EP01_S0328_0004",
-			"value":"Yeah, it definitely came from a classroom!"
-		},
-		{
-			"key":"EP01_S0328_0005",
-			"value":"Let’s go!"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP01_S0328_0001",
+            "value": "That voice came from the second floor...but\nwhere, exactly?"
+        },
+        {
+            "key": "EP01_S0328_0002",
+            "value": "Yeeeeeek!"
+        },
+        {
+            "key": "EP01_S0328_0003",
+            "value": "This way, Takuma!"
+        },
+        {
+            "key": "EP01_S0328_0004",
+            "value": "Yeah, it definitely came from a classroom!"
+        },
+        {
+            "key": "EP01_S0328_0005",
+            "value": "Let’s go!"
+        }
+    ]
 }

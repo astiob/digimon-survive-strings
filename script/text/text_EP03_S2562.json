@@ -1,16 +1,16 @@
 {
-	"scenario_text":[
-		{
-			"key":"EP03_S2562_0001",
-			"value":"A little help, here!"
-		},
-		{
-			"key":"EP03_S2562_0002",
-			"value":"Tch, what a pain. Hold your horses, we’re\ncoming to help!"
-		},
-		{
-			"key":"EP03_S2562_0003",
-			"value":"I’m closest, so guess I’m up first. Lemme\nat ‘em!"
-		}
-	]
+    "scenario_text": [
+        {
+            "key": "EP03_S2562_0001",
+            "value": "A little help, here!"
+        },
+        {
+            "key": "EP03_S2562_0002",
+            "value": "Tch, what a pain. Hold your horses, we’re\ncoming to help!"
+        },
+        {
+            "key": "EP03_S2562_0003",
+            "value": "I’m closest, so guess I’m up first. Lemme\nat ‘em!"
+        }
+    ]
 }
