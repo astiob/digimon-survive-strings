@@ -430,7 +430,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_04",
-            "value": "Press <sprite index=11> at the start of battle to select a difficulty. There are three difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+            "value": "Press <sprite index=11> at the start of battle to select a difficulty. There are four difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
         },
         {
             "key": "HELP_DETAIL_SLG_05",
