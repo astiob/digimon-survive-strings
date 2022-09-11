@@ -2214,7 +2214,7 @@
         },
         {
             "key": "NAME_CHARACTER_305_01",
-            "value": "Varodurumon"
+            "value": "Valdurmon"
         },
         {
             "key": "NAME_CHARACTER_306_01",
@@ -2310,7 +2310,7 @@
         },
         {
             "key": "NAME_CHARACTER_328_01",
-            "value": "Maid Mode Sakuyamon"
+            "value": "Sakuyamon Maid Mode"
         },
         {
             "key": "NAME_CHARACTER_329_01",
@@ -2338,7 +2338,7 @@
         },
         {
             "key": "NAME_CHARACTER_402_01",
-            "value": "Omegamon"
+            "value": "Omnimon"
         },
         {
             "key": "NAME_CHARACTER_500_01",
@@ -2402,7 +2402,7 @@
         },
         {
             "key": "NAME_SKILL_0010",
-            "value": "Eye of Nightmares"
+            "value": "Eye of Nightmare"
         },
         {
             "key": "NAME_SKILL_0011",
@@ -2410,7 +2410,7 @@
         },
         {
             "key": "NAME_SKILL_0012",
-            "value": "Air Shot"
+            "value": "Boom Bubble"
         },
         {
             "key": "NAME_SKILL_0013",
@@ -2442,11 +2442,11 @@
         },
         {
             "key": "NAME_SKILL_0020",
-            "value": "Fire Ball"
+            "value": "Pyro Sphere"
         },
         {
             "key": "NAME_SKILL_0021",
-            "value": "Fox Fire"
+            "value": "Howling Blaster"
         },
         {
             "key": "NAME_SKILL_0022",
@@ -2462,7 +2462,7 @@
         },
         {
             "key": "NAME_SKILL_0025",
-            "value": "Mega Flame"
+            "value": "Nova Blast"
         },
         {
             "key": "NAME_SKILL_0026",
@@ -2486,7 +2486,7 @@
         },
         {
             "key": "NAME_SKILL_0031",
-            "value": "Heaven’s Knuckle"
+            "value": "Hand of Fate"
         },
         {
             "key": "NAME_SKILL_0032",
@@ -2510,7 +2510,7 @@
         },
         {
             "key": "NAME_SKILL_0037",
-            "value": "Tiida Iya"
+            "value": "Sun's Courage"
         },
         {
             "key": "NAME_SKILL_0038",
@@ -2558,15 +2558,15 @@
         },
         {
             "key": "NAME_SKILL_0049",
-            "value": "Destruction Grenade"
+            "value": "Grenade Destroyer"
         },
         {
             "key": "NAME_SKILL_0050",
-            "value": "Exhaust Flame"
+            "value": "Pyro Blaster"
         },
         {
             "key": "NAME_SKILL_0051",
-            "value": "Grau Lärm"
+            "value": "Grey Noise"
         },
         {
             "key": "NAME_SKILL_0052",
@@ -2582,7 +2582,7 @@
         },
         {
             "key": "NAME_SKILL_0055",
-            "value": "Love Serenade"
+            "value": "Concert Crush"
         },
         {
             "key": "NAME_SKILL_0056",
@@ -2606,15 +2606,15 @@
         },
         {
             "key": "NAME_SKILL_0061",
-            "value": "Oblivion Bird"
+            "value": "Dark Shot"
         },
         {
             "key": "NAME_SKILL_0062",
-            "value": "Eradication Attack"
+            "value": "Darkside Attack"
         },
         {
             "key": "NAME_SKILL_0063",
-            "value": "Heaven’s Gate"
+            "value": "Gate of Destiny"
         },
         {
             "key": "NAME_SKILL_0064",
@@ -2622,7 +2622,7 @@
         },
         {
             "key": "NAME_SKILL_0065",
-            "value": "Shadow Wing"
+            "value": "Wing Blade"
         },
         {
             "key": "NAME_SKILL_0066",
@@ -2642,7 +2642,7 @@
         },
         {
             "key": "NAME_SKILL_0070",
-            "value": "Night Raid"
+            "value": "Grisly Wing"
         },
         {
             "key": "NAME_SKILL_0071",
@@ -2670,7 +2670,7 @@
         },
         {
             "key": "NAME_SKILL_0077",
-            "value": "Fist of Ice"
+            "value": "Frozen Fury"
         },
         {
             "key": "NAME_SKILL_0078",
@@ -2678,7 +2678,7 @@
         },
         {
             "key": "NAME_SKILL_0079",
-            "value": "Spiral Sword"
+            "value": "Lightning Blade"
         },
         {
             "key": "NAME_SKILL_0080",
@@ -2686,7 +2686,7 @@
         },
         {
             "key": "NAME_SKILL_0081",
-            "value": "Genocidal Gears"
+            "value": "Genocide Gear"
         },
         {
             "key": "NAME_SKILL_0082",
@@ -2694,7 +2694,7 @@
         },
         {
             "key": "NAME_SKILL_0083",
-            "value": "Freezing Breath"
+            "value": "Metal Wolf Claw"
         },
         {
             "key": "NAME_SKILL_0084",
@@ -2718,19 +2718,19 @@
         },
         {
             "key": "NAME_SKILL_0089",
-            "value": "Kongou"
+            "value": "Vajra"
         },
         {
             "key": "NAME_SKILL_0090",
-            "value": "Sourai"
+            "value": "Blue Thunder"
         },
         {
             "key": "NAME_SKILL_0091",
-            "value": "Mugen"
+            "value": "Misty Illusion"
         },
         {
             "key": "NAME_SKILL_0092",
-            "value": "Taikyoku"
+            "value": "Taiji"
         },
         {
             "key": "NAME_SKILL_0093",
@@ -2738,7 +2738,7 @@
         },
         {
             "key": "NAME_SKILL_0094",
-            "value": "Giga Blaster"
+            "value": "Mega Electro Shocker"
         },
         {
             "key": "NAME_SKILL_0095",
@@ -2750,7 +2750,7 @@
         },
         {
             "key": "NAME_SKILL_0097",
-            "value": "Sorrow Blue"
+            "value": "Sad Water Blast"
         },
         {
             "key": "NAME_SKILL_0098",
