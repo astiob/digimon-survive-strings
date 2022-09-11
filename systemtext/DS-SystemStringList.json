@@ -1878,7 +1878,7 @@
         },
         {
             "key": "NAME_CHARACTER_004_01",
-            "value": "Agumon"
+            "value": "BlackAgumon"
         },
         {
             "key": "NAME_CHARACTER_005_01",
@@ -1958,7 +1958,7 @@
         },
         {
             "key": "NAME_CHARACTER_105_01",
-            "value": "Greymon"
+            "value": "BlueGreymon"
         },
         {
             "key": "NAME_CHARACTER_106_01",
@@ -2078,7 +2078,7 @@
         },
         {
             "key": "NAME_CHARACTER_203_01",
-            "value": "MetalGreymon"
+            "value": "BlueMetalGreymon"
         },
         {
             "key": "NAME_CHARACTER_204_01",
@@ -2206,7 +2206,7 @@
         },
         {
             "key": "NAME_CHARACTER_303_01",
-            "value": "WarGreymon"
+            "value": "BlackWarGreymon"
         },
         {
             "key": "NAME_CHARACTER_304_01",
@@ -2702,7 +2702,7 @@
         },
         {
             "key": "NAME_SKILL_0085",
-            "value": "Terra Force"
+            "value": "Terra Destroyer"
         },
         {
             "key": "NAME_SKILL_0086",
@@ -10054,11 +10054,11 @@
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_004",
-            "value": "Agumon dies."
+            "value": "BlackAgumon dies."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_005",
-            "value": "Agumon or Labramon dies."
+            "value": "BlackAgumon or Labramon dies."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_006",
@@ -10354,7 +10354,7 @@
         },
         {
             "key": "ANNOUNCE_909_13",
-            "value": "Agumon powered up!"
+            "value": "BlackAgumon powered up!"
         },
         {
             "key": "NAME_LOCATION_FB2",
@@ -12126,7 +12126,7 @@
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_042",
-            "value": "Agumon or Gabumon dies."
+            "value": "BlackAgumon or Gabumon dies."
         },
         {
             "key": "AOC_TILTE_NOTICE_01",
@@ -12230,7 +12230,7 @@
         },
         {
             "key": "SYS_WORD_8111",
-            "value": "Agumon or Gabumon dies."
+            "value": "BlackAgumon or Gabumon dies."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_043",
@@ -14002,7 +14002,7 @@
         },
         {
             "key": "SYS_WORD_8244",
-            "value": "Takuma’s Agumon has unlocked Digivolution to Fanglongmon."
+            "value": "Takuma’s BlackAgumon has unlocked Digivolution to Fanglongmon."
         },
         {
             "key": "SYS_WORD_8245",
@@ -14078,7 +14078,7 @@
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_046",
-            "value": "Agumon, Gabumon, or Renamon dies."
+            "value": "BlackAgumon, Gabumon, or Renamon dies."
         },
         {
             "key": "NAME_DLC_ITEM_0001",
