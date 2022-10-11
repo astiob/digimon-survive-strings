@@ -830,11 +830,11 @@
         },
         {
             "key": "SYS_WORD_0159",
-            "value": "No Skill Anim."
+            "value": "No Skill Animation"
         },
         {
             "key": "SYS_WORD_0160",
-            "value": "No Move Anim."
+            "value": "No Move Animation"
         },
         {
             "key": "SYS_WORD_0161",
@@ -846,7 +846,7 @@
         },
         {
             "key": "SYS_WORD_0163",
-            "value": "Bat. Units"
+            "value": "Battle Units"
         },
         {
             "key": "SYS_WORD_0164",
