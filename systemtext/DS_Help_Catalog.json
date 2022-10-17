@@ -550,7 +550,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_34",
-            "value": "When Takuma and friends use the Evolve command on a partner unit, an Evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
+            "value": "When Takuma and friends use the Evolve command on a partner unit, an evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
         },
         {
             "key": "HELP_DETAIL_SLG_35",
@@ -614,7 +614,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_50",
-            "value": "Agumon’s Evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Vaccine (Moral), Data (Harmonious), and Virus (Chaotic)."
+            "value": "Agumon’s evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Vaccine (Moral), Data (Harmonious), and Virus (Chaotic)."
         },
         {
             "key": "HELP_DETAIL_SLG_42_p4",
@@ -698,7 +698,7 @@
         },
         {
             "key": "HELP_DETAIL_MENU_07",
-            "value": "After choosing any monster on the Stats screen, you can check Evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their Evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
+            "value": "After choosing any monster on the Stats screen, you can check evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
         },
         {
             "key": "HELP_DETAIL_MENU_08",
