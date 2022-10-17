@@ -5642,7 +5642,7 @@
         },
         {
             "key": "NAME_ITEM_1314",
-            "value": "Light Resistance+II\nThe shining light pattern is surrounded.\nLike a shield guarding against it."
+            "value": "Light Resistance+II\nThe shining light pattern is framed.\nLike a shield guarding against it."
         },
         {
             "key": "NAME_ITEM_1315",
@@ -5650,7 +5650,7 @@
         },
         {
             "key": "NAME_ITEM_1316",
-            "value": "Fire Resistance+I, Sleep Resistance\nA mark of star and flame. They’re\nsurrounded, it protects against them?"
+            "value": "Fire Resistance+I, Sleep Resistance\nA mark of star and flame. They’re\nframed. It protects against them?"
         },
         {
             "key": "NAME_ITEM_1317",
@@ -5670,7 +5670,7 @@
         },
         {
             "key": "NAME_ITEM_1321",
-            "value": "Dark Resistance+I, Confusion Resistance\nA dark sun and question mark surrounded.\nThe hexagonal mark protects."
+            "value": "Dark Resistance+I, Confusion Resistance\nA dark sun and question mark framed.\nThe hexagonal mark protects."
         },
         {
             "key": "NAME_ITEM_1322",
@@ -5678,11 +5678,11 @@
         },
         {
             "key": "NAME_ITEM_1323",
-            "value": "Sleep/Poison/Seal Resistance\nStars, foam and a seal, surrounded. So\nthose three things are fenced in?"
+            "value": "Sleep/Poison/Seal Resistance\nStars, foam and a seal, framed. So\nthose three things are fenced in?"
         },
         {
             "key": "NAME_ITEM_1324",
-            "value": "Freeze/Paralysis/Confusion Resistance\nA crystal, lightning and question mark,\nsurrounded. Guards against all three?"
+            "value": "Freeze/Paralysis/Confusion Resistance\nA crystal, lightning and question mark,\nframed. Guards against all three?"
         },
         {
             "key": "NAME_ITEM_1325",
@@ -10562,7 +10562,7 @@
         },
         {
             "key": "NAME_ITEM_1352",
-            "value": "Light Resistance+III\nThe shining light pattern is surrounded.\nLike a shield guarding against it."
+            "value": "Light Resistance+III\nThe shining light pattern is framed.\nLike a shield guarding against it."
         },
         {
             "key": "NAME_ITEM_1353",
