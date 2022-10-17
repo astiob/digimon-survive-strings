@@ -4410,7 +4410,7 @@
         },
         {
             "key": "NAME_SKILL_1241",
-            "value": "Increases SPD one rank, and vertical jump distance one level."
+            "value": "Increases SPD one rank and vertical jump distance one level."
         },
         {
             "key": "NAME_SKILL_1242",
@@ -4450,7 +4450,7 @@
         },
         {
             "key": "NAME_SKILL_1251",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to get frozen."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to get frozen."
         },
         {
             "key": "NAME_SKILL_1252",
@@ -4458,7 +4458,7 @@
         },
         {
             "key": "NAME_SKILL_1253",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Less likely to get put to sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Less likely to get put to sleep."
         },
         {
             "key": "NAME_SKILL_1254",
@@ -4466,7 +4466,7 @@
         },
         {
             "key": "NAME_SKILL_1255",
-            "value": "Raises damage dealt by Wind attacks two ranks, and Wind resistance one rank. Less likely to get paralyzed."
+            "value": "Raises damage dealt by Wind attacks two ranks and Wind resistance one rank. Less likely to get paralyzed."
         },
         {
             "key": "NAME_SKILL_1256",
@@ -4490,11 +4490,11 @@
         },
         {
             "key": "NAME_SKILL_1261",
-            "value": "Raises damage dealt by Fire attacks two ranks, and by Dark attacks one rank."
+            "value": "Raises damage dealt by Fire attacks two ranks and by Dark attacks one rank."
         },
         {
             "key": "NAME_SKILL_1262",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Less likely to get confused."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Less likely to get confused."
         },
         {
             "key": "NAME_SKILL_1263",
@@ -4506,7 +4506,7 @@
         },
         {
             "key": "NAME_SKILL_1265",
-            "value": "Raises damage dealt by Earth two ranks, and by Wind attacks one rank."
+            "value": "Raises damage dealt by Earth two ranks and by Wind attacks one rank."
         },
         {
             "key": "NAME_SKILL_1266",
@@ -4522,11 +4522,11 @@
         },
         {
             "key": "NAME_SKILL_1269",
-            "value": "Raises damage dealt by Dark attacks two ranks,\nand Dark resistance one rank. Less likely to get\nconfused."
+            "value": "Raises damage dealt by Dark attacks two ranks\nand Dark resistance one rank. Less likely to get\nconfused."
         },
         {
             "key": "NAME_SKILL_1270",
-            "value": "Raises PHYS DEF and SP DEF one rank, and recovers HP at the start of the turn."
+            "value": "Raises PHYS DEF and SP DEF one rank and recovers HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1271",
@@ -4542,15 +4542,15 @@
         },
         {
             "key": "NAME_SKILL_1274",
-            "value": "Makes it easier for allies to provide Battle Backup, and increases its effect two ranks."
+            "value": "Makes it easier for allies to provide Battle Backup and increases its effect two ranks."
         },
         {
             "key": "NAME_SKILL_1275",
-            "value": "Raises damage dealt by Light and Dark attacks one rank, and increases all elemental resistances one rank."
+            "value": "Raises damage dealt by Light and Dark attacks one rank and increases all elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1276",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to be put to sleep or confused."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to be put to sleep or confused."
         },
         {
             "key": "NAME_SKILL_1277",
@@ -4570,7 +4570,7 @@
         },
         {
             "key": "NAME_SKILL_1281",
-            "value": "Raises PHYS ATK one rank, and increases damage dealt by Fire attacks two ranks."
+            "value": "Raises PHYS ATK one rank and increases damage dealt by Fire attacks two ranks."
         },
         {
             "key": "NAME_SKILL_1282",
@@ -4582,7 +4582,7 @@
         },
         {
             "key": "NAME_SKILL_1284",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep."
         },
         {
             "key": "NAME_SKILL_1285",
@@ -4614,7 +4614,7 @@
         },
         {
             "key": "NAME_SKILL_1292",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Prevents sealing and confusion."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Prevents sealing and confusion."
         },
         {
             "key": "NAME_SKILL_1293",
@@ -4622,7 +4622,7 @@
         },
         {
             "key": "NAME_SKILL_1294",
-            "value": "Raises damage dealt by Light attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1295",
@@ -4662,7 +4662,7 @@
         },
         {
             "key": "NAME_SKILL_1304",
-            "value": "Raises damage dealt by Light attacks two ranks, and raises strength of recovery effects two ranks. Prevents sealing."
+            "value": "Raises damage dealt by Light attacks two ranks and raises strength of recovery effects two ranks. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1305",
@@ -5606,7 +5606,7 @@
         },
         {
             "key": "NAME_ITEM_1305",
-            "value": "PHYS ATK+II, SP ATK+II, Taunt\nI see sparks and eyeballs. Does this\naffect attacking, or attraction?"
+            "value": "PHYS ATK+II, SP ATK+II, Taunt\nI see sparks and eyeballs. Does this\naffect attacking or attraction?"
         },
         {
             "key": "NAME_ITEM_1306",
@@ -5666,7 +5666,7 @@
         },
         {
             "key": "NAME_ITEM_1320",
-            "value": "Light Resistance+I, Seal Resistance\nA light mark, and some kind of seal?\nDoes this protect against those things?"
+            "value": "Light Resistance+I, Seal Resistance\nA light mark and some kind of seal?\nDoes this protect against those things?"
         },
         {
             "key": "NAME_ITEM_1321",
@@ -6958,7 +6958,7 @@
         },
         {
             "key": "DESC_LOCATION_042",
-            "value": "The crest of the dam. It has a height of\nabout 300 ft, and spans more than 800 ft\nfrom end to end."
+            "value": "The crest of the dam. It has a height of\nabout 300 ft and spans more than 800 ft\nfrom end to end."
         },
         {
             "key": "DESC_LOCATION_306",
@@ -7266,7 +7266,7 @@
         },
         {
             "key": "DESC_LOCATION_505",
-            "value": "The door to the gym. It doesn’t fit well\nin its frame, and is difficult to open\nor close."
+            "value": "The door to the gym. It doesn’t fit well\nin its frame and is difficult to open\nor close."
         },
         {
             "key": "DESC_LOCATION_511",
@@ -10518,7 +10518,7 @@
         },
         {
             "key": "NAME_ITEM_1341",
-            "value": "PHYS ATK+III, SP ATK+III, Taunt\nI see sparks and eyeballs. Does this\naffect attacking, or attraction?"
+            "value": "PHYS ATK+III, SP ATK+III, Taunt\nI see sparks and eyeballs. Does this\naffect attacking or attraction?"
         },
         {
             "key": "NAME_ITEM_1342",
@@ -11650,7 +11650,7 @@
         },
         {
             "key": "Tutorial_Battle_078",
-            "value": "Your Affinity will change based on choices you\nmake in the story, and can be crucial in battle."
+            "value": "Your Affinity will change based on choices you\nmake in the story and can be crucial in battle."
         },
         {
             "key": "Tutorial_Battle_079",
@@ -12362,7 +12362,7 @@
         },
         {
             "key": "NAME_SKILL_1538",
-            "value": "Raise damage dealt by Water attacks two ranks, and Water resistance one rank. Raises SP ATK one rank."
+            "value": "Raise damage dealt by Water attacks two ranks and Water resistance one rank. Raises SP ATK one rank."
         },
         {
             "key": "NAME_SKILL_1539",
@@ -12418,7 +12418,7 @@
         },
         {
             "key": "NAME_SKILL_1552",
-            "value": "Increases SPD one rank, and vertical jump distance one level. Low chance of putting opponent to sleep when attacked."
+            "value": "Increases SPD one rank and vertical jump distance one level. Low chance of putting opponent to sleep when attacked."
         },
         {
             "key": "NAME_SKILL_1553",
@@ -12458,7 +12458,7 @@
         },
         {
             "key": "NAME_SKILL_1562",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to get frozen. If you haven’t moved, use two skills."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to get frozen. If you haven’t moved, use two skills."
         },
         {
             "key": "NAME_SKILL_1563",
@@ -12502,7 +12502,7 @@
         },
         {
             "key": "NAME_SKILL_1573",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Less likely to get confused. Two more ranks of damage against Wrathful types."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Less likely to get confused. Two more ranks of damage against Wrathful types."
         },
         {
             "key": "NAME_SKILL_1574",
@@ -12530,11 +12530,11 @@
         },
         {
             "key": "NAME_SKILL_1580",
-            "value": "Raises damage dealt by Dark attacks two ranks, and Dark resistance one rank. Less likely to get confused. Ignores a monster’s poor affinity."
+            "value": "Raises damage dealt by Dark attacks two ranks and Dark resistance one rank. Less likely to get confused. Ignores a monster’s poor affinity."
         },
         {
             "key": "NAME_SKILL_1581",
-            "value": "Raises PHYS DEF and SP DEF one rank, and recovers HP and SP at the start of the turn."
+            "value": "Raises PHYS DEF and SP DEF one rank and recovers HP and SP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1582",
@@ -12550,19 +12550,19 @@
         },
         {
             "key": "NAME_SKILL_1585",
-            "value": "Makes it easier for allies to provide Battle Backup, and increases its effect two ranks. Makes it easier to provide allies with Battle Backup. Raises the strength of recovery effects two ranks."
+            "value": "Makes it easier for allies to provide Battle Backup and increases its effect two ranks. Makes it easier to provide allies with Battle Backup. Raises the strength of recovery effects two ranks."
         },
         {
             "key": "NAME_SKILL_1586",
-            "value": "Raises damage dealt by Light and Dark attacks two ranks, and increases all elemental resistances one rank. Prevents all stat reductions."
+            "value": "Raises damage dealt by Light and Dark attacks two ranks and increases all elemental resistances one rank. Prevents all stat reductions."
         },
         {
             "key": "NAME_SKILL_1587",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Prevents sleep and confusion."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Prevents sleep and confusion."
         },
         {
             "key": "NAME_SKILL_1588",
-            "value": "Raises strength of recovery effects two ranks. Less likely to be afflicted by status abnormalities, and prevents stat reductions. Restores HP at the start of the turn."
+            "value": "Raises strength of recovery effects two ranks. Less likely to be afflicted by status abnormalities and prevents stat reductions. Restores HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1589",
@@ -12570,7 +12570,7 @@
         },
         {
             "key": "NAME_SKILL_1590",
-            "value": "Raises damage dealt by Fire and Water attacks two ranks, and increases all elemental resistances one rank. Low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises damage dealt by Fire and Water attacks two ranks and increases all elemental resistances one rank. Low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1591",
@@ -12578,7 +12578,7 @@
         },
         {
             "key": "NAME_SKILL_1592",
-            "value": "Raises PHYS ATK and SP ATK one rank, and increases damage dealt by Fire attacks two ranks. Ignores a monster’s poor affinity."
+            "value": "Raises PHYS ATK and SP ATK one rank and increases damage dealt by Fire attacks two ranks. Ignores a monster’s poor affinity."
         },
         {
             "key": "NAME_SKILL_1593",
@@ -12602,15 +12602,15 @@
         },
         {
             "key": "NAME_SKILL_1598",
-            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting sleep when attacked, and of unleashing three attacks when attacking."
+            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting sleep when attacked and of unleashing three attacks when attacking."
         },
         {
             "key": "NAME_SKILL_1599",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep. Raises both damage dealt and taken two ranks."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep. Raises both damage dealt and taken two ranks."
         },
         {
             "key": "NAME_SKILL_1600",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep. Randomly reduces one target stat one rank when attacking."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep. Randomly reduces one target stat one rank when attacking."
         },
         {
             "key": "NAME_SKILL_1601",
@@ -12666,15 +12666,15 @@
         },
         {
             "key": "NAME_SKILL_1614",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1615",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1616",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1617",
@@ -13170,7 +13170,7 @@
         },
         {
             "key": "NAME_SKILL_1740",
-            "value": "Deals Wind damage to target(s), and raises your SPD two ranks."
+            "value": "Deals Wind damage to target(s) and raises your SPD two ranks."
         },
         {
             "key": "NAME_SKILL_1741",
@@ -13294,11 +13294,11 @@
         },
         {
             "key": "NAME_SKILL_1771",
-            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square, and a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square and a moderate chance of putting them to sleep."
         },
         {
             "key": "NAME_SKILL_1772",
-            "value": "Deals Wind damage to target(s), with a moderate chance of raising your PHYS ATK and SP ATK one rank, and SPD two ranks."
+            "value": "Deals Wind damage to target(s), with a moderate chance of raising your PHYS ATK and SP ATK one rank and SPD two ranks."
         },
         {
             "key": "NAME_SKILL_1773",
@@ -13510,11 +13510,11 @@
         },
         {
             "key": "NAME_SKILL_1825",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1826",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1827",
@@ -13582,11 +13582,11 @@
         },
         {
             "key": "NAME_SKILL_1843",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1844",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1845",
