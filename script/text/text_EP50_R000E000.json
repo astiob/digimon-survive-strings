@@ -806,11 +806,11 @@
         },
         {
             "key": "EP50_E10S07R010F1_0001",
-            "value": "(They said Agumon ran this way... Should\nI take a look around?)"
+            "value": "(Agumon said they ran this way... Should\nI take a look around?)"
         },
         {
             "key": "EP50_E10S07R012F1_0001",
-            "value": "(He might’ve fled over here. I should take\na look around.)"
+            "value": "(They might’ve fled over here. I should take\na look around.)"
         },
         {
             "key": "EP50_E10S07R015F0_0001",
@@ -890,7 +890,7 @@
         },
         {
             "key": "EP50_E10S19R048F0_0001",
-            "value": "(Not here either... Should I talk to Agumon\nabout what to do next?)"
+            "value": "(There’s nobody here... Should I talk\nto Agumon about what to do next?)"
         },
         {
             "key": "EP50_E10S20R048F0_0001",
