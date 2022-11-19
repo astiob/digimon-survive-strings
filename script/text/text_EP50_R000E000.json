@@ -354,7 +354,7 @@
         },
         {
             "key": "EP50_E04S34R105F0_0001",
-            "value": "(Wh-what happened to the little kid?)"
+            "value": "(Wh-what happened to that little one?)"
         },
         {
             "key": "EP50_E04S35R105F0_0001",
@@ -610,11 +610,11 @@
         },
         {
             "key": "EP50_E07S03R006F0_0001",
-            "value": "(It’s Miyuki and Haru... We’ve got a fight\ncoming up, should I talk to them beforehand?)"
+            "value": "(It’s Miyuki and Haru... We’ve got a fight\ncoming up. Should I talk to them beforehand?)"
         },
         {
             "key": "EP50_E07S03R010F1_0001",
-            "value": "(It’s Shuuji... He’s preparing for the final\nbattle, maybe I should talk to him.)"
+            "value": "(It’s Shuuji... He’s preparing for the final\nbattle. Maybe I should talk to him.)"
         },
         {
             "key": "EP50_E07S03R013F0_0001",
@@ -622,19 +622,19 @@
         },
         {
             "key": "EP50_E07S03R015F0_0001",
-            "value": "(There’s Aoi. She might have some worries,\nI ought to talk to her.)"
+            "value": "(There’s Aoi. She might have some worries.\nI ought to talk to her.)"
         },
         {
             "key": "EP50_E07S03R050F0_0001",
-            "value": "(Oh, it’s Minoru. We’ve got the final battle\ncoming up, maybe we should talk first.)"
+            "value": "(Oh, it’s Minoru. We’ve got the final battle\ncoming up. Maybe we should talk first.)"
         },
         {
             "key": "EP50_E07S03R050F1_0001",
-            "value": "(Minoru and Ryo... We’ve got the final battle\ncoming up, maybe we should talk before.)"
+            "value": "(Minoru and Ryo... We’ve got the final battle\ncoming up. Maybe we should talk before.)"
         },
         {
             "key": "EP50_E07S03R055F0_0001",
-            "value": "(Kaito, huh? We may have a tough fight ahead\nof us, I should talk to him beforehand.)"
+            "value": "(Kaito, huh? We may have a tough fight ahead\nof us. I should talk to him beforehand.)"
         },
         {
             "key": "EP50_E07S03R073F0_0001",
@@ -642,11 +642,11 @@
         },
         {
             "key": "EP50_E07S07R050F0_0001",
-            "value": "(Kaito and Minoru... We’re close to the final\nbattle, I ought to talk to them.)"
+            "value": "(Kaito and Minoru... We’re close to the final\nbattle. I ought to talk to them.)"
         },
         {
             "key": "EP50_E07S07R073F0_0001",
-            "value": "(Is that Aoi and Saki? They’re getting ready\nfor the final battle, I should talk to them.)"
+            "value": "(Is that Aoi and Saki? They’re getting ready\nfor the final battle. I should talk to them.)"
         },
         {
             "key": "EP50_E07S24R041F0_0001",
@@ -806,11 +806,11 @@
         },
         {
             "key": "EP50_E10S07R010F1_0001",
-            "value": "(They said Agumon ran this way... Should\nI take a look around?)"
+            "value": "(Agumon said they ran this way... Should\nI take a look around?)"
         },
         {
             "key": "EP50_E10S07R012F1_0001",
-            "value": "(He might’ve fled over here. I should take\na look around.)"
+            "value": "(They might’ve fled over here. I should take\na look around.)"
         },
         {
             "key": "EP50_E10S07R015F0_0001",
@@ -890,7 +890,7 @@
         },
         {
             "key": "EP50_E10S19R048F0_0001",
-            "value": "(Not here either... Should I talk to Agumon\nabout what to do next?)"
+            "value": "(There’s nobody here... Should I talk\nto Agumon about what to do next?)"
         },
         {
             "key": "EP50_E10S20R048F0_0001",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "EP50_E13S02R050F0_0001",
-            "value": "(Minoru’s with Ryo... What're they doing?)"
+            "value": "(Minoru’s with Ryo... What’re they doing?)"
         },
         {
             "key": "EP50_E13S02R073F0_0001",
@@ -3038,7 +3038,7 @@
         },
         {
             "key": "EP50_R901E001_0002",
-            "value": "(Not again! That consciousness is flooding\nback into my head…)"
+            "value": "(Not again! That consciousness is flooding\nback into my head...)"
         },
         {
             "key": "EP50_R901E002_0001",
@@ -3130,7 +3130,7 @@
         },
         {
             "key": "EP98_GET_ITEM_EVENT04",
-            "value": "Hold onto this, Takuma. I’m sure it will be\nsome use to you."
+            "value": "Hold on to this, Takuma. I’m sure it will be\nsome use to you."
         },
         {
             "key": "EP98_GET_ITEM_EVENT05",
@@ -3174,7 +3174,7 @@
         },
         {
             "key": "EP98_GET_ITEM_EVENT15",
-            "value": "Hold onto this, Takuma. I’m sure it will help\nyou out down the line."
+            "value": "Hold on to this, Takuma. I’m sure it will help\nyou out down the line."
         },
         {
             "key": "EP98_GET_ITEM_EVENT16",

@@ -106,7 +106,7 @@
         },
         {
             "key": "HELP_DETAIL_ADV_03",
-            "value": "Karma will effect Agumon’s Digivolution."
+            "value": "Karma will affect Agumon’s Digivolution. When the time comes for Agumon to Digivolve, your highest Karma will determine which monster he becomes."
         },
         {
             "key": "HELP_DETAIL_ADV_04",
@@ -430,7 +430,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_04",
-            "value": "Press <sprite index=11> at the start of battle to select a difficulty. There are three difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
+            "value": "Press <sprite index=11> at the start of battle to select a difficulty. There are four difficulties: Very Easy, Easy, Normal and Hard. Battles are usually set to Normal difficulty."
         },
         {
             "key": "HELP_DETAIL_SLG_05",

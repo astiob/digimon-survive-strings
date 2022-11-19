@@ -166,7 +166,7 @@
 		},
 		{
 			"key":"EM01_C0009",
-			"value":"You're not an enemy?\nWhat on earth...?"
+			"value":"You’re not an enemy?\nWhat on earth...?"
 		},
 		{
 			"key":"EM01_C0010",
@@ -778,7 +778,7 @@
 		},
 		{
 			"key":"EM05_C0002",
-			"value":"Supreme beings can't be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
+			"value":"Supreme beings can’t be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
 		},
 		{
 			"key":"EM05_C0002_Q1_A1",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"key":"EM06_C0007_Q1_A1",
-			"value":"You’re a nice ‘mon."
+			"value":"You’re a nice ’mon."
 		},
 		{
 			"key":"EM06_C0007_Q1_A2",
@@ -1090,7 +1090,7 @@
 		},
 		{
 			"key":"EM06_C0010",
-			"value":"I like you! Today I made a new best friend!"
+			"value":"I like you! Today I found a new soul mate!"
 		},
 		{
 			"key":"EM06_C0011",
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"key":"EM08_C0002",
-			"value":"Next! Whaddaya think’d be a good prank?"
+			"value":"Whaddaya think’d be good as my next prank?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A1",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"key":"EM12_C0003_Q1_A4",
-			"value":"What a cool ‘mon!"
+			"value":"What a cool ’mon!"
 		},
 		{
 			"key":"EM12_C0004",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"key":"EM14_C0006_Q1_A2",
-			"value":"What a nice ‘mon."
+			"value":"What a nice ’mon."
 		},
 		{
 			"key":"EM14_C0006_Q1_A3",
@@ -2818,7 +2818,7 @@
 		},
 		{
 			"key":"EM15_C0005",
-			"value":"You may think of those around you as friends, \nbut perhaps you're actually alone?"
+			"value":"You may think of those around you as friends, \nbut perhaps you’re actually alone?"
 		},
 		{
 			"key":"EM15_C0005_Q1_A1",
@@ -2926,7 +2926,7 @@
 		},
 		{
 			"key":"EM00_C0003",
-			"value":"Shoot, almost had them! Now they’re off in\nthe wind somewhere."
+			"value":"Shoot, almost had it! Now it’s off in\nthe wind somewhere."
 		}
 	]
 }
