@@ -114,7 +114,7 @@
         },
         {
             "key": "HELP_DETAIL_ADV_05",
-            "value": "Special destinations for partner monsters of characters with a certain level of Affinity will be added to the Map after specific chapters. Moving to one of these destinations will trigger an Digivolution event, unlocking a new Digivolution for that character."
+            "value": "Special destinations for partner monsters of characters with a certain level of Affinity will be added to the Map after specific chapters. Moving to one of these destinations will trigger a Digivolution event, unlocking a new Digivolution for that character."
         },
         {
             "key": "HELP_DETAIL_ADV_06",
@@ -550,11 +550,11 @@
         },
         {
             "key": "HELP_DETAIL_SLG_34",
-            "value": "When Takuma and friends use the Digivolve command on a partner unit, an Digivolution chart will appear. Digivolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Digivolution carries over."
+            "value": "When Takuma and friends use the Digivolve command on a partner unit, a Digivolution chart will appear. Digivolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Digivolution carries over."
         },
         {
             "key": "HELP_DETAIL_SLG_35",
-            "value": "Digivolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (dDigivolve them) voluntarily to conserve SP."
+            "value": "Digivolved units consume a fixed amount of SP each turn in order to maintain their form, and return to their original (Rookie) form when SP runs out. You can also return them to their original form (de-Digivolve them) voluntarily to conserve SP."
         },
         {
             "key": "HELP_DETAIL_SLG_36",

@@ -150,7 +150,7 @@
         },
         {
             "key": "TIPS_TITLE_038",
-            "value": "Tip: Digivolution, DDigivolution, and SP"
+            "value": "Tip: Digivolution, De-Digivolution, and SP"
         },
         {
             "key": "TIPS_TITLE_039",
@@ -242,7 +242,7 @@
         },
         {
             "key": "TIPS_DETAIL_005",
-            "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger an Digivolution event, unlocking\na new Digivolution for that character."
+            "value": "Special destinations for partner monsters of characters\nwith a certain level of Affinity will be added to the Map\nafter specific chapters. Moving to one of these\ndestinations will trigger a Digivolution event, unlocking\na new Digivolution for that character."
         },
         {
             "key": "TIPS_DETAIL_006",
@@ -374,7 +374,7 @@
         },
         {
             "key": "TIPS_DETAIL_038",
-            "value": "During battle, monsters Digivolved through the Digivolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (dDigivolve them) voluntarily."
+            "value": "During battle, monsters Digivolved through the Digivolve command\nconsume a fixed amount of SP each turn in order to maintain\ntheir form, and return to their original (Rookie) form when\nSP runs out. You can also return them to their original\nform (de-Digivolve them) voluntarily."
         },
         {
             "key": "TIPS_DETAIL_039",
@@ -550,7 +550,7 @@
         },
         {
             "key": "TIPS_DETAIL_066",
-            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an Digivolution path from\nthe Digivolution tree (note that they cannot be dDigivolved).\nDigivolution also requires specific items."
+            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select a Digivolution path from\nthe Digivolution tree (note that they cannot be de-Digivolved).\nDigivolution also requires specific items."
         },
         {
             "key": "TIPS_DETAIL_067",

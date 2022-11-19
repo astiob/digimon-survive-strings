@@ -8290,7 +8290,7 @@
         },
         {
             "key": "SYS_WORD_8014",
-            "value": "Use 1/{0} item(s) to Digivolve (note that\nFree Monsters cannot be dDigivolved)."
+            "value": "Use 1/{0} item(s) to Digivolve (note that\nFree Monsters cannot be de-Digivolved)."
         },
         {
             "key": "SYS_WORD_8015",
