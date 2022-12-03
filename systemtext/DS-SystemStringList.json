@@ -1390,7 +1390,7 @@
         },
         {
             "key": "SYS_AUTOSAVE_WARNING",
-            "value": "Initiating autosave."
+            "value": "In this game, progress is saved automatically."
         },
         {
             "key": "SYS_SPLASH_AUTO_SAVING",
@@ -14162,7 +14162,7 @@
         },
         {
             "key": "SYS_AUTOSAVE_WARNING_Common",
-            "value": "Initiating autosave."
+            "value": "In this game, progress is saved automatically."
         },
         {
             "key": "SYS_WORD_4060_Common",
