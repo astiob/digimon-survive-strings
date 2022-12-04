@@ -106,7 +106,7 @@
         },
         {
             "key": "HELP_DETAIL_ADV_03",
-            "value": "Karma will affect Agumon’s evolution. When the time comes for Agumon to evolve, your highest Karma will determine which monster he becomes."
+            "value": "Karma will affect Agumon’s evolution."
         },
         {
             "key": "HELP_DETAIL_ADV_04",
@@ -214,7 +214,7 @@
         },
         {
             "key": "HELP_DETAIL_MAP_03",
-            "value": "<sprite index=3> shows the characters in that location. You can check which characters are where with the character icons in the lower-right part of the Map screen. Agumon isn’t shown since he’s always with you. A character may appear in multiple locations when you split up or when certain events occur. <sprite index=1> shows places where Free Battles will occur. <sprite index=4> displays areas that will use up moves during Free Action."
+            "value": "<sprite index=3> shows the characters in that location. You can check which characters are where with the character icons in the lower-right part of the Map screen. Agumon is usually with you and isn’t shown. A character may appear in multiple locations when you split up or when certain events occur. <sprite index=1> shows places where Free Battles will occur. <sprite index=4> displays areas that will use up moves during Free Action."
         },
         {
             "key": "HELP_NAME_SLG_01",
