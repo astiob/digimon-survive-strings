@@ -286,19 +286,19 @@
         },
         {
             "key": "SYS_WORD_0023",
-            "value": "Rookie"
+            "value": "Child"
         },
         {
             "key": "SYS_WORD_0024",
-            "value": "Champion"
+            "value": "Adult"
         },
         {
             "key": "SYS_WORD_0025",
-            "value": "Ultimate"
+            "value": "Perfect"
         },
         {
             "key": "SYS_WORD_0026",
-            "value": "Mega"
+            "value": "Ultimate"
         },
         {
             "key": "SYS_WORD_0027",
@@ -5578,15 +5578,15 @@
         },
         {
             "key": "NAME_ITEM_1201",
-            "value": "Evolves a Free Monster to Champion.\nI don’t think I can read this... Is it\nan incantation from this world?"
+            "value": "Evolves a Free Monster to Adult.\nI don’t think I can read this... Is it\nan incantation from this world?"
         },
         {
             "key": "NAME_ITEM_1202",
-            "value": "Evolves a Free Monster to Ultimate.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
+            "value": "Evolves a Free Monster to Perfect.\nCan residents of this world read this?\nI think I’ve seen this shape somewhere."
         },
         {
             "key": "NAME_ITEM_1203",
-            "value": "Evolves a Free Monster to Mega.\nThe middle of the disc rotates, but why?\nIs something written here?"
+            "value": "Evolves a Free Monster to Ultimate.\nThe middle of the disc rotates, but why?\nIs something written here?"
         },
         {
             "key": "NAME_ITEM_1301",
@@ -8154,7 +8154,7 @@
         },
         {
             "key": "SYS_WORD_4054",
-            "value": "In-Training II"
+            "value": "Baby II"
         },
         {
             "key": "SYS_WORD_4055",
