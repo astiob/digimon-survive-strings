@@ -610,7 +610,7 @@
         },
         {
             "key": "SYS_WORD_0104",
-            "value": "Event Bat."
+            "value": "Event Battle"
         },
         {
             "key": "SYS_WORD_0105",
@@ -626,7 +626,7 @@
         },
         {
             "key": "SYS_WORD_0108",
-            "value": "Free Bat."
+            "value": "Free Battle"
         },
         {
             "key": "SYS_WORD_0109",
@@ -646,7 +646,7 @@
         },
         {
             "key": "SYS_WORD_0113",
-            "value": "Descr."
+            "value": "Description"
         },
         {
             "key": "SYS_WORD_0114",
@@ -854,15 +854,15 @@
         },
         {
             "key": "SYS_WORD_0165",
-            "value": "Win Cond."
+            "value": "Win Condition"
         },
         {
             "key": "SYS_WORD_0166",
-            "value": "Loss Cond."
+            "value": "Loss Condition"
         },
         {
             "key": "SYS_WORD_0167",
-            "value": "Start Bat."
+            "value": "Start Battle"
         },
         {
             "key": "SYS_WORD_0168",
@@ -1094,7 +1094,7 @@
         },
         {
             "key": "SYS_WORD_0225",
-            "value": "Start Bat."
+            "value": "Start Battle"
         },
         {
             "key": "SYS_WORD_0226",
@@ -1214,7 +1214,7 @@
         },
         {
             "key": "SYS_WORD_0255",
-            "value": "Win Cond."
+            "value": "Win Condition"
         },
         {
             "key": "SYS_WORD_0256",
@@ -9350,7 +9350,7 @@
         },
         {
             "key": "NAME_LOCATION_FB",
-            "value": "Free Bat."
+            "value": "Free Battle"
         },
         {
             "key": "DESC_LOCATION_FB",
@@ -10278,7 +10278,7 @@
         },
         {
             "key": "SYS_WORD_8064",
-            "value": "Descr."
+            "value": "Description"
         },
         {
             "key": "SYS_WORD_8065",
