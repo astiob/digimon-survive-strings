@@ -2978,7 +2978,7 @@
         },
         {
             "key": "NAME_SKILL_0200",
-            "value": "Need for Speed"
+            "value": "Boastful Speed"
         },
         {
             "key": "NAME_SKILL_0201",
@@ -3018,11 +3018,11 @@
         },
         {
             "key": "NAME_SKILL_0210",
-            "value": "Hidden Power"
+            "value": "Hidden Holy Power"
         },
         {
             "key": "NAME_SKILL_0211",
-            "value": "Wind Attribute Resistance"
+            "value": "Wind Resistance"
         },
         {
             "key": "NAME_SKILL_0212",
@@ -3030,7 +3030,7 @@
         },
         {
             "key": "NAME_SKILL_0213",
-            "value": "Water Attribute Resistance"
+            "value": "Water Resistance"
         },
         {
             "key": "NAME_SKILL_0214",
@@ -3242,7 +3242,7 @@
         },
         {
             "key": "NAME_SKILL_0266",
-            "value": "Tall Hammer"
+            "value": "Thor’s Hammer"
         },
         {
             "key": "NAME_SKILL_0267",
@@ -3278,7 +3278,7 @@
         },
         {
             "key": "NAME_SKILL_0275",
-            "value": "Taoist"
+            "value": "Onmyodo"
         },
         {
             "key": "NAME_SKILL_0276",
@@ -4790,7 +4790,7 @@
         },
         {
             "key": "NAME_SKILL_0422",
-            "value": "Awesome Quake"
+            "value": "Earthquake"
         },
         {
             "key": "NAME_SKILL_0430",
@@ -4818,7 +4818,7 @@
         },
         {
             "key": "NAME_SKILL_0450",
-            "value": "Destruction Cannon"
+            "value": "Destroyer Cannon"
         },
         {
             "key": "NAME_SKILL_0451",
@@ -4902,11 +4902,11 @@
         },
         {
             "key": "NAME_SKILL_0478",
-            "value": "Acceleration Charge"
+            "value": "Accel Charge"
         },
         {
             "key": "NAME_SKILL_0479",
-            "value": "Acceleration Charge+"
+            "value": "Accel Charge+"
         },
         {
             "key": "NAME_SKILL_0480",
@@ -5154,23 +5154,23 @@
         },
         {
             "key": "NAME_ITEM_0006",
-            "value": "Ribs"
+            "value": "Meat"
         },
         {
             "key": "NAME_ITEM_0007",
-            "value": "Choice Ribs"
+            "value": "Choice Meat"
         },
         {
             "key": "NAME_ITEM_0008",
-            "value": "Prime Ribs"
+            "value": "Prime Meat"
         },
         {
             "key": "NAME_ITEM_0009",
-            "value": "Rib Platter"
+            "value": "Meat Platter"
         },
         {
             "key": "NAME_ITEM_0010",
-            "value": "Rib Party Set"
+            "value": "Meat Party Set"
         },
         {
             "key": "NAME_ITEM_0011",
@@ -5210,7 +5210,7 @@
         },
         {
             "key": "NAME_ITEM_0101",
-            "value": "Giant Mushroom"
+            "value": "Odd Mushroom"
         },
         {
             "key": "NAME_ITEM_0102",
