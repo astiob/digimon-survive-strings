@@ -8418,203 +8418,203 @@
         },
         {
             "key": "NAME_DTYPE_001",
-            "value": "Bird"
+            "value": "bird"
         },
         {
             "key": "NAME_DTYPE_002",
-            "value": "Beast"
+            "value": "beast"
         },
         {
             "key": "NAME_DTYPE_003",
-            "value": "Vegetation"
+            "value": "plant"
         },
         {
             "key": "NAME_DTYPE_004",
-            "value": "Reptile"
+            "value": "reptile"
         },
         {
             "key": "NAME_DTYPE_005",
-            "value": "Crustacean"
+            "value": "crustacean"
         },
         {
             "key": "NAME_DTYPE_006",
-            "value": "Larva"
+            "value": "larva"
         },
         {
             "key": "NAME_DTYPE_007",
-            "value": "Undead"
+            "value": "undead"
         },
         {
             "key": "NAME_DTYPE_008",
-            "value": "Mammal"
+            "value": "mammal"
         },
         {
             "key": "NAME_DTYPE_009",
-            "value": "Insectoid"
+            "value": "insect"
         },
         {
             "key": "NAME_DTYPE_010",
-            "value": "Chick"
+            "value": "chick"
         },
         {
             "key": "NAME_DTYPE_011",
-            "value": "Sea Beast"
+            "value": "marine animal"
         },
         {
             "key": "NAME_DTYPE_012",
-            "value": "Ore"
+            "value": "ore"
         },
         {
             "key": "NAME_DTYPE_013",
-            "value": "Beast Humanoid"
+            "value": "beastman"
         },
         {
             "key": "NAME_DTYPE_014",
-            "value": "Amphibian"
+            "value": "amphibian"
         },
         {
             "key": "NAME_DTYPE_015",
-            "value": "Mollusk"
+            "value": "mollusk"
         },
         {
             "key": "NAME_DTYPE_016",
-            "value": "Fire"
+            "value": "flame"
         },
         {
             "key": "NAME_DTYPE_017",
-            "value": "Composite"
+            "value": "composite"
         },
         {
             "key": "NAME_DTYPE_018",
-            "value": "Dinosaur"
+            "value": "dinosaur"
         },
         {
             "key": "NAME_DTYPE_019",
-            "value": "Insectivorous Plant"
+            "value": "insectivorous plant"
         },
         {
             "key": "NAME_DTYPE_020",
-            "value": "Demon Beast"
+            "value": "demon beast"
         },
         {
             "key": "NAME_DTYPE_021",
-            "value": "Aquatic"
+            "value": "aquatic"
         },
         {
             "key": "NAME_DTYPE_022",
-            "value": "Ancient Bird"
+            "value": "ancient bird"
         },
         {
             "key": "NAME_DTYPE_023",
-            "value": "Angel"
+            "value": "angel"
         },
         {
             "key": "NAME_DTYPE_024",
-            "value": "Gigantic Bird"
+            "value": "giant bird"
         },
         {
             "key": "NAME_DTYPE_025",
-            "value": "Holy Beast"
+            "value": "holy beast"
         },
         {
             "key": "NAME_DTYPE_026",
-            "value": "Mysterious Beast"
+            "value": "bewitching beast"
         },
         {
             "key": "NAME_DTYPE_027",
-            "value": "Dragon Humanoid"
+            "value": "dragon man"
         },
         {
             "key": "NAME_DTYPE_028",
-            "value": "Machine"
+            "value": "machine"
         },
         {
             "key": "NAME_DTYPE_029",
-            "value": "Wizard Dragon"
+            "value": "demonic dragon"
         },
         {
             "key": "NAME_DTYPE_030",
-            "value": "Aquatic Beast Humanoid"
+            "value": "aquatic beastman"
         },
         {
             "key": "NAME_DTYPE_031",
-            "value": "Android"
+            "value": "cyborg"
         },
         {
             "key": "NAME_DTYPE_032",
-            "value": "Puppet"
+            "value": "puppet"
         },
         {
             "key": "NAME_DTYPE_033",
-            "value": "Mysterious Bird"
+            "value": "bewitching bird"
         },
         {
             "key": "NAME_DTYPE_034",
-            "value": "High Angel"
+            "value": "archangel"
         },
         {
             "key": "NAME_DTYPE_035",
-            "value": "Bird Humanoid"
+            "value": "bird man"
         },
         {
             "key": "NAME_DTYPE_036",
-            "value": "Pixie"
+            "value": "fairy"
         },
         {
             "key": "NAME_DTYPE_037",
-            "value": "Ceratopsian"
+            "value": "ceratopsian"
         },
         {
             "key": "NAME_DTYPE_038",
-            "value": "Wizard"
+            "value": "demon man"
         },
         {
             "key": "NAME_DTYPE_039",
-            "value": "Bird"
+            "value": "bird"
         },
         {
             "key": "NAME_DTYPE_040",
-            "value": "Holy Bird"
+            "value": "holy bird"
         },
         {
             "key": "NAME_DTYPE_041",
-            "value": "Holy Dragon"
+            "value": "holy dragon"
         },
         {
             "key": "NAME_DTYPE_042",
-            "value": "God Beast"
+            "value": "holy beast"
         },
         {
             "key": "NAME_DTYPE_043",
-            "value": "Seraph"
+            "value": "seraph"
         },
         {
             "key": "NAME_DTYPE_044",
-            "value": "Plesiosaur"
+            "value": "plesiosaur"
         },
         {
             "key": "NAME_DTYPE_045",
-            "value": "Ancient Beast"
+            "value": "ancient beast"
         },
         {
             "key": "NAME_DTYPE_046",
-            "value": "Evil King"
+            "value": "demon lord"
         },
         {
             "key": "NAME_DTYPE_047",
-            "value": "Cherub"
+            "value": "cherub"
         },
         {
             "key": "NAME_DTYPE_048",
-            "value": "Deity"
+            "value": "godlike"
         },
         {
             "key": "NAME_DTYPE_049",
-            "value": "Holy Knight"
+            "value": "holy knight"
         },
         {
             "key": "NAME_DTYPE_050",
-            "value": "Lesser"
+            "value": "lesser"
         },
         {
             "key": "NAME_DTYPE_051",
