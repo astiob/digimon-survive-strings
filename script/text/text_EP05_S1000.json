@@ -106,11 +106,11 @@
 		},
 		{
 			"key":"EP05_S1000_Q1_A1",
-			"value":"I’ll talk to Aoi."
+			"value":"I’ll talk to Aoi. (Aoi +3)"
 		},
 		{
 			"key":"EP05_S1000_Q1_A2",
-			"value":"I’ll talk to Ryo."
+			"value":"I’ll talk to Ryo. (Ryo +7)"
 		},
 		{
 			"key":"EP05_S1000_0027",
@@ -318,7 +318,7 @@
 		},
 		{
 			"key":"EP05_S1000_Q2_A3",
-			"value":"Cute..."
+			"value":"Cute... (Aoi +3)"
 		},
 		{
 			"key":"EP05_S1000_0077",

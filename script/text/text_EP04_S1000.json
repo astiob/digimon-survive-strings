@@ -86,11 +86,11 @@
 		},
 		{
 			"key":"EP04_S1000_Q1_A2",
-			"value":"Aoi, any thoughts?"
+			"value":"Aoi, any thoughts? (Aoi +3)"
 		},
 		{
 			"key":"EP04_S1000_Q1_A3",
-			"value":"Saki, any thoughts?"
+			"value":"Saki, any thoughts? (Saki +6)"
 		},
 		{
 			"key":"EP04_S1000_0017",
@@ -270,7 +270,7 @@
 		},
 		{
 			"key":"EP04_S1000_Q2_A2",
-			"value":"We’re all responsible."
+			"value":"We’re all responsible. (Aoi +3)"
 		},
 		{
 			"key":"EP04_S1000_Q2_A3",
@@ -450,7 +450,7 @@
 		},
 		{
 			"key":"EP04_S1000_Q3_A3",
-			"value":"Have you had it rough?"
+			"value":"Have you had it rough? (Saki +6)"
 		},
 		{
 			"key":"EP04_S1000_0099",
