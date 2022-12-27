@@ -906,7 +906,7 @@
 		},
 		{
 			"key":"EM05_C0010",
-			"value":"I see, so this is how humans are? \nFascinating..."
+			"value":"I see, so this is how humans are?\nFascinating..."
 		},
 		{
 			"key":"EM05_C0011",
@@ -2818,7 +2818,7 @@
 		},
 		{
 			"key":"EM15_C0005",
-			"value":"You may think of those around you as friends, \nbut perhaps you're actually alone?"
+			"value":"You may think of those around you as friends,\nbut perhaps you're actually alone?"
 		},
 		{
 			"key":"EM15_C0005_Q1_A1",
