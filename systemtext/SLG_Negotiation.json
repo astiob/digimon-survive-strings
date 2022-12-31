@@ -26,19 +26,19 @@
 		},
 		{
 			"key":"EM01_C0001_Q1_A1",
-			"value":"You got it all wrong."
+			"value":"You got it all wrong. (Others)"
 		},
 		{
 			"key":"EM01_C0001_Q1_A2",
-			"value":"Yeah, so?"
+			"value":"Yeah, so? (Garuda/Panjya/Metal)"
 		},
 		{
 			"key":"EM01_C0001_Q1_A3",
-			"value":"YOU’RE the bad guy!"
+			"value":"YOU’RE the bad guy! (Holydramon)"
 		},
 		{
 			"key":"EM01_C0001_Q1_A4",
-			"value":"[Just stare at them.]"
+			"value":"[Just stare at them.] (Leomon)"
 		},
 		{
 			"key":"EM01_C0002",
@@ -46,19 +46,19 @@
 		},
 		{
 			"key":"EM01_C0002_Q1_A1",
-			"value":"Power, of course."
+			"value":"Power, of course. (Zudo/Saber)"
 		},
 		{
 			"key":"EM01_C0002_Q1_A2",
-			"value":"Never considered it."
+			"value":"Never considered it. (MetalGarurumon)"
 		},
 		{
 			"key":"EM01_C0002_Q1_A3",
-			"value":"The answer’s in you."
+			"value":"The answer’s in you. (Panjya/Holy)"
 		},
 		{
 			"key":"EM01_C0002_Q1_A4",
-			"value":"Acting with kindness."
+			"value":"Acting with kindness. (Others)"
 		},
 		{
 			"key":"EM01_C0003",
@@ -66,7 +66,7 @@
 		},
 		{
 			"key":"EM01_C0003_Q1_A1",
-			"value":"Save the kid, duh!"
+			"value":"Save the kid, duh! (Others)"
 		},
 		{
 			"key":"EM01_C0003_Q1_A2",
@@ -74,11 +74,11 @@
 		},
 		{
 			"key":"EM01_C0003_Q1_A3",
-			"value":"Depends, really."
+			"value":"Depends, really. (Were/Saber/Holy)"
 		},
 		{
 			"key":"EM01_C0003_Q1_A4",
-			"value":"Yell “save yourself!”"
+			"value":"Yell “save yourself!” (Zudomon)"
 		},
 		{
 			"key":"EM01_C0004",
@@ -86,19 +86,19 @@
 		},
 		{
 			"key":"EM01_C0004_Q1_A1",
-			"value":"Strength is justice."
+			"value":"Strength is justice. (Zudo/Saber)"
 		},
 		{
 			"key":"EM01_C0004_Q1_A2",
-			"value":"There are other ways."
+			"value":"There are other ways. (Others)"
 		},
 		{
 			"key":"EM01_C0004_Q1_A3",
-			"value":"That’s my line!"
+			"value":"That’s my line! (Holydramon)"
 		},
 		{
 			"key":"EM01_C0004_Q1_A4",
-			"value":"Not at all."
+			"value":"Not at all. (Garuru/Leo)"
 		},
 		{
 			"key":"EM01_C0005",
@@ -106,7 +106,7 @@
 		},
 		{
 			"key":"EM01_C0005_Q1_A1",
-			"value":"You seem serious."
+			"value":"You seem serious. (Others)"
 		},
 		{
 			"key":"EM01_C0005_Q1_A2",
@@ -118,7 +118,7 @@
 		},
 		{
 			"key":"EM01_C0005_Q1_A4",
-			"value":"[Remain silent.]"
+			"value":"[Remain silent.] (Leo/Holy/Metal/Saber)"
 		},
 		{
 			"key":"EM01_C0006",
@@ -126,19 +126,19 @@
 		},
 		{
 			"key":"EM01_C0006_Q1_A1",
-			"value":"You can and should!"
+			"value":"You can and should! (Leo/Panjya/Were)"
 		},
 		{
 			"key":"EM01_C0006_Q1_A2",
-			"value":"Get to know us first."
+			"value":"Get to know us first. (Garuru/Garuda/Holy)"
 		},
 		{
 			"key":"EM01_C0006_Q1_A3",
-			"value":"They may betray you..."
+			"value":"They may betray you... (Zudomon)"
 		},
 		{
 			"key":"EM01_C0006_Q1_A4",
-			"value":"Not sure what to say."
+			"value":"Not sure what to say. (MetalGarurumon)"
 		},
 		{
 			"key":"EM01_C0007",
@@ -146,19 +146,19 @@
 		},
 		{
 			"key":"EM01_C0007_Q1_A1",
-			"value":"A weak one’s easier!"
+			"value":"A weak one’s easier! (SaberLeomon)"
 		},
 		{
 			"key":"EM01_C0007_Q1_A2",
-			"value":"Gimme a strong one."
+			"value":"Gimme a strong one. (Holy/Metal)"
 		},
 		{
 			"key":"EM01_C0007_Q1_A3",
-			"value":"Does it matter?"
+			"value":"Does it matter? (Garuru/Leo/Were)"
 		},
 		{
 			"key":"EM01_C0007_Q1_A4",
-			"value":"Fighting is barbaric."
+			"value":"Fighting is barbaric. (Garuda/Panjya/Zudo)"
 		},
 		{
 			"key":"EM01_C0008",
@@ -210,15 +210,15 @@
 		},
 		{
 			"key":"EM02_C0001_Q1_A1",
-			"value":"To return to my world."
+			"value":"To return to my world. (Angewomon)"
 		},
 		{
 			"key":"EM02_C0001_Q1_A2",
-			"value":"I just like to fight!"
+			"value":"I just like to fight! (Sakuyamon)"
 		},
 		{
 			"key":"EM02_C0001_Q1_A3",
-			"value":"For the sake of peace."
+			"value":"For the sake of peace. (Rosemon)"
 		},
 		{
 			"key":"EM02_C0001_Q1_A4",
@@ -230,7 +230,7 @@
 		},
 		{
 			"key":"EM02_C0002_Q1_A1",
-			"value":"Yeah, it’s refreshing."
+			"value":"Yeah, it’s refreshing. (Rosemon)"
 		},
 		{
 			"key":"EM02_C0002_Q1_A2",
@@ -238,11 +238,11 @@
 		},
 		{
 			"key":"EM02_C0002_Q1_A3",
-			"value":"I’m a night owl."
+			"value":"I’m a night owl. (Sakuyamon)"
 		},
 		{
 			"key":"EM02_C0002_Q1_A4",
-			"value":"Good start to the day."
+			"value":"Good start to the day. (Angewomon)"
 		},
 		{
 			"key":"EM02_C0003",
@@ -250,7 +250,7 @@
 		},
 		{
 			"key":"EM02_C0003_Q1_A1",
-			"value":"I have that, too."
+			"value":"I have that, too. (All)"
 		},
 		{
 			"key":"EM02_C0003_Q1_A2",
@@ -274,15 +274,15 @@
 		},
 		{
 			"key":"EM02_C0004_Q1_A2",
-			"value":"Yeah, so exciting!"
+			"value":"Yeah, so exciting! (Rosemon)"
 		},
 		{
 			"key":"EM02_C0004_Q1_A3",
-			"value":"Gives me cold feet..."
+			"value":"Gives me cold feet... (Sakuyamon)"
 		},
 		{
 			"key":"EM02_C0004_Q1_A4",
-			"value":"Wish I felt the same."
+			"value":"Wish I felt the same. (Angewomon)"
 		},
 		{
 			"key":"EM02_C0005",
@@ -290,7 +290,7 @@
 		},
 		{
 			"key":"EM02_C0005_Q1_A1",
-			"value":"So much free time!"
+			"value":"So much free time! (Rose/Sakuya)"
 		},
 		{
 			"key":"EM02_C0005_Q1_A2",
@@ -302,7 +302,7 @@
 		},
 		{
 			"key":"EM02_C0005_Q1_A4",
-			"value":"Water sure is calming."
+			"value":"Water sure is calming. (Angewomon)"
 		},
 		{
 			"key":"EM02_C0006",
@@ -318,11 +318,11 @@
 		},
 		{
 			"key":"EM02_C0006_Q1_A3",
-			"value":"I think it fits!"
+			"value":"I think it fits! (Ange/Rose)"
 		},
 		{
 			"key":"EM02_C0006_Q1_A4",
-			"value":"Do whatever you like."
+			"value":"Do whatever you like. (Sakuyamon)"
 		},
 		{
 			"key":"EM02_C0007",
@@ -334,7 +334,7 @@
 		},
 		{
 			"key":"EM02_C0007_Q1_A2",
-			"value":"A clear blue sky!"
+			"value":"A clear blue sky! (Angewomon)"
 		},
 		{
 			"key":"EM02_C0007_Q1_A3",
@@ -342,7 +342,7 @@
 		},
 		{
 			"key":"EM02_C0007_Q1_A4",
-			"value":"It’s hard to choose."
+			"value":"It’s hard to choose. (Rose/Sakuya)"
 		},
 		{
 			"key":"EM02_C0008",
@@ -394,19 +394,19 @@
 		},
 		{
 			"key":"EM03_C0001_Q1_A1",
-			"value":"Not if I beat you!"
+			"value":"Not if I beat you! (Tusk/Megadra)"
 		},
 		{
 			"key":"EM03_C0001_Q1_A2",
-			"value":"Nice, a tough one!"
+			"value":"Nice, a tough one! (Agu/Mera/MSea/War)"
 		},
 		{
 			"key":"EM03_C0001_Q1_A3",
-			"value":"Scary! But I’ll win."
+			"value":"Scary! But I’ll win. (Others)"
 		},
 		{
 			"key":"EM03_C0001_Q1_A4",
-			"value":"This’ll be your grave."
+			"value":"This’ll be your grave. (Giga/Mugen)"
 		},
 		{
 			"key":"EM03_C0002",
@@ -414,19 +414,19 @@
 		},
 		{
 			"key":"EM03_C0002_Q1_A1",
-			"value":"Calm down already!"
+			"value":"Calm down already! (Delta/Tusk/Megadra/Giga)"
 		},
 		{
 			"key":"EM03_C0002_Q1_A2",
-			"value":"We can’t live alone."
+			"value":"We can’t live alone. (Dino/MSea)"
 		},
 		{
 			"key":"EM03_C0002_Q1_A3",
-			"value":"That’s crazy talk."
+			"value":"That’s crazy talk. (Wendi/Blue/War/Mugen)"
 		},
 		{
 			"key":"EM03_C0002_Q1_A4",
-			"value":"[Let it simmer down.]"
+			"value":"[Let it simmer down.] (Others)"
 		},
 		{
 			"key":"EM03_C0003",
@@ -434,19 +434,19 @@
 		},
 		{
 			"key":"EM03_C0003_Q1_A1",
-			"value":"Not really."
+			"value":"Not really. (Gigadramon)"
 		},
 		{
 			"key":"EM03_C0003_Q1_A2",
-			"value":"I prefer vegetables."
+			"value":"I prefer vegetables. (Blue/MSea)"
 		},
 		{
 			"key":"EM03_C0003_Q1_A3",
-			"value":"I eat everything!"
+			"value":"I eat everything! (Others)"
 		},
 		{
 			"key":"EM03_C0003_Q1_A4",
-			"value":"You look strong."
+			"value":"You look strong. (Delta/Mera/Spino/Dino)"
 		},
 		{
 			"key":"EM03_C0004",
@@ -454,19 +454,19 @@
 		},
 		{
 			"key":"EM03_C0004_Q1_A1",
-			"value":"You give ME food!"
+			"value":"You give ME food! (Megadra/MSea/Spino/Mugen)"
 		},
 		{
 			"key":"EM03_C0004_Q1_A2",
-			"value":"Hunt for yourself!"
+			"value":"Hunt for yourself! (Agu/Grey/Delta/Tusk)"
 		},
 		{
 			"key":"EM03_C0004_Q1_A3",
-			"value":"I need this food."
+			"value":"I need this food. (Wendi/Dino)"
 		},
 		{
 			"key":"EM03_C0004_Q1_A4",
-			"value":"I’ll think about it."
+			"value":"I’ll think about it. (Others)"
 		},
 		{
 			"key":"EM03_C0005",
@@ -474,19 +474,19 @@
 		},
 		{
 			"key":"EM03_C0005_Q1_A1",
-			"value":"I’m not like you."
+			"value":"I’m not like you. (Blue/Megadra)"
 		},
 		{
 			"key":"EM03_C0005_Q1_A2",
-			"value":"You know your stuff!"
+			"value":"You know your stuff! (Grey/Mera/Delta/Mugen)"
 		},
 		{
 			"key":"EM03_C0005_Q1_A3",
-			"value":"Grin and bear it."
+			"value":"Grin and bear it. (Wendi/Gigadra/Spino)"
 		},
 		{
 			"key":"EM03_C0005_Q1_A4",
-			"value":"Even more than you!"
+			"value":"Even more than you! (Others)"
 		},
 		{
 			"key":"EM03_C0006",
@@ -494,19 +494,19 @@
 		},
 		{
 			"key":"EM03_C0006_Q1_A1",
-			"value":"I know what you mean."
+			"value":"I know what you mean. (Others)"
 		},
 		{
 			"key":"EM03_C0006_Q1_A2",
-			"value":"Can’t say the same..."
+			"value":"Can’t say the same... (Tusk/Megadra/MSea/Mugen)"
 		},
 		{
 			"key":"EM03_C0006_Q1_A3",
-			"value":"Have more patience!"
+			"value":"Have more patience! (Wendi/War)"
 		},
 		{
 			"key":"EM03_C0006_Q1_A4",
-			"value":"[Stare in amazement.]"
+			"value":"[Stare in amazement.] (Mera/Blue/Giga/Dino)"
 		},
 		{
 			"key":"EM03_C0007",
@@ -514,19 +514,19 @@
 		},
 		{
 			"key":"EM03_C0007_Q1_A1",
-			"value":"Yeah, the best!"
+			"value":"Yeah, the best! (Agu/Grey/Mera/Mugen)"
 		},
 		{
 			"key":"EM03_C0007_Q1_A2",
-			"value":"It’s bad for your gut."
+			"value":"It’s bad for your gut. (Tusk/MSea/Blue/Dino)"
 		},
 		{
 			"key":"EM03_C0007_Q1_A3",
-			"value":"Really? I can’t sleep."
+			"value":"Really? I can’t sleep. (Megadramon)"
 		},
 		{
 			"key":"EM03_C0007_Q1_A4",
-			"value":"Thanks for the lesson!"
+			"value":"Thanks for the lesson! (Others)"
 		},
 		{
 			"key":"EM03_C0008",
@@ -578,19 +578,19 @@
 		},
 		{
 			"key":"EM04_C0001_Q1_A1",
-			"value":"And yet fight we must."
+			"value":"And yet fight we must. (Guardro/Cerberu)"
 		},
 		{
 			"key":"EM04_C0001_Q1_A2",
-			"value":"There’s no such thing!"
+			"value":"There’s no such thing! (Birdra/Metal/Plesio)"
 		},
 		{
 			"key":"EM04_C0001_Q1_A3",
-			"value":"Get ready."
+			"value":"Get ready. (Rena/Kyubi/Dober)"
 		},
 		{
 			"key":"EM04_C0001_Q1_A4",
-			"value":"Then let’s retreat."
+			"value":"Then let’s retreat. (Others)"
 		},
 		{
 			"key":"EM04_C0002",
@@ -598,15 +598,15 @@
 		},
 		{
 			"key":"EM04_C0002_Q1_A1",
-			"value":"Get annoyed!"
+			"value":"Get annoyed! (Beta/Guardro/Tao/Yata)"
 		},
 		{
 			"key":"EM04_C0002_Q1_A2",
-			"value":"Thank that person."
+			"value":"Thank that person. (Others)"
 		},
 		{
 			"key":"EM04_C0002_Q1_A3",
-			"value":"I’d be embarrassed."
+			"value":"I’d be embarrassed. (Rena/Birdra/Anubi)"
 		},
 		{
 			"key":"EM04_C0002_Q1_A4",
@@ -618,19 +618,19 @@
 		},
 		{
 			"key":"EM04_C0003_Q1_A1",
-			"value":"That sounds dangerous."
+			"value":"That sounds dangerous. (Rena/Dober/Tao/Anubi)"
 		},
 		{
 			"key":"EM04_C0003_Q1_A2",
-			"value":"Leap before you look!"
+			"value":"Leap before you look! (Cerberu/Plesio)"
 		},
 		{
 			"key":"EM04_C0003_Q1_A3",
-			"value":"Be true to yourself."
+			"value":"Be true to yourself. (Others)"
 		},
 		{
 			"key":"EM04_C0003_Q1_A4",
-			"value":"Efficiency is key."
+			"value":"Efficiency is key. (Guardro/Yata)"
 		},
 		{
 			"key":"EM04_C0004",
@@ -638,15 +638,15 @@
 		},
 		{
 			"key":"EM04_C0004_Q1_A1",
-			"value":"With my fists!"
+			"value":"With my fists! (Guardro/Plesio)"
 		},
 		{
 			"key":"EM04_C0004_Q1_A2",
-			"value":"I’d protect my friend."
+			"value":"I’d protect my friend. (Others)"
 		},
 		{
 			"key":"EM04_C0004_Q1_A3",
-			"value":"I’d scold them!"
+			"value":"I’d scold them! (Beta/Rena/Kyubi/Anubi)"
 		},
 		{
 			"key":"EM04_C0004_Q1_A4",
@@ -658,19 +658,19 @@
 		},
 		{
 			"key":"EM04_C0005_Q1_A1",
-			"value":"No, but it’s not easy."
+			"value":"No, but it’s not easy. (Others)"
 		},
 		{
 			"key":"EM04_C0005_Q1_A2",
-			"value":"You should go for it!"
+			"value":"You should go for it! (Dober/Birdra/Anubi)"
 		},
 		{
 			"key":"EM04_C0005_Q1_A3",
-			"value":"I prefer fun."
+			"value":"I prefer fun. (Cerberu/Yata)"
 		},
 		{
 			"key":"EM04_C0005_Q1_A4",
-			"value":"Yeah, shame on you!"
+			"value":"Yeah, shame on you! (Guardromon)"
 		},
 		{
 			"key":"EM04_C0006",
@@ -682,15 +682,15 @@
 		},
 		{
 			"key":"EM04_C0006_Q1_A2",
-			"value":"I wanna ride one!"
+			"value":"I wanna ride one! (Beta/Guardro/Tao)"
 		},
 		{
 			"key":"EM04_C0006_Q1_A3",
-			"value":"Always transforming."
+			"value":"Always transforming. (Birdra/Dober/Kyubi)"
 		},
 		{
 			"key":"EM04_C0006_Q1_A4",
-			"value":"Makes you think, huh?"
+			"value":"Makes you think, huh? (Others)"
 		},
 		{
 			"key":"EM04_C0007",
@@ -698,11 +698,11 @@
 		},
 		{
 			"key":"EM04_C0007_Q1_A1",
-			"value":"Not for me, nope."
+			"value":"Not for me, nope. (Guardro/Tao/Yata)"
 		},
 		{
 			"key":"EM04_C0007_Q1_A2",
-			"value":"They’re so cute!"
+			"value":"They’re so cute! (Kyubi/Cerberu/Anubi)"
 		},
 		{
 			"key":"EM04_C0007_Q1_A3",
@@ -710,7 +710,7 @@
 		},
 		{
 			"key":"EM04_C0007_Q1_A4",
-			"value":"What a gentle soul!"
+			"value":"What a gentle soul! (Others)"
 		},
 		{
 			"key":"EM04_C0008",
@@ -762,19 +762,19 @@
 		},
 		{
 			"key":"EM05_C0001_Q1_A1",
-			"value":"Like I’d believe that!"
+			"value":"Like I’d believe that! (Others)"
 		},
 		{
 			"key":"EM05_C0001_Q1_A2",
-			"value":"Humans ain’t inferior!"
+			"value":"Humans ain’t inferior! (Sang/Beel)"
 		},
 		{
 			"key":"EM05_C0001_Q1_A3",
-			"value":"Surrender’s an option."
+			"value":"Surrender’s an option. (Delumon)"
 		},
 		{
 			"key":"EM05_C0001_Q1_A4",
-			"value":"How about YOU give up?"
+			"value":"How about YOU give up? (Jewelbeemon)"
 		},
 		{
 			"key":"EM05_C0002",
@@ -786,15 +786,15 @@
 		},
 		{
 			"key":"EM05_C0002_Q1_A2",
-			"value":"A lone wolf, huh?"
+			"value":"A lone wolf, huh? (Others)"
 		},
 		{
 			"key":"EM05_C0002_Q1_A3",
-			"value":"I get it. Me too."
+			"value":"I get it. Me too. (Cyclomon)"
 		},
 		{
 			"key":"EM05_C0002_Q1_A4",
-			"value":"[Look on with pity.]"
+			"value":"[Look on with pity.] (Jewelbeemon)"
 		},
 		{
 			"key":"EM05_C0003",
@@ -802,7 +802,7 @@
 		},
 		{
 			"key":"EM05_C0003_Q1_A1",
-			"value":"You mean power?"
+			"value":"You mean power? (Others)"
 		},
 		{
 			"key":"EM05_C0003_Q1_A2",
@@ -810,11 +810,11 @@
 		},
 		{
 			"key":"EM05_C0003_Q1_A3",
-			"value":"Talent, right?"
+			"value":"Talent, right? (Delu/Jewel)"
 		},
 		{
 			"key":"EM05_C0003_Q1_A4",
-			"value":"There’s no such thing!"
+			"value":"There’s no such thing! (Sangloupmon)"
 		},
 		{
 			"key":"EM05_C0004",
@@ -822,19 +822,19 @@
 		},
 		{
 			"key":"EM05_C0004_Q1_A1",
-			"value":"Friends help friends!"
+			"value":"Friends help friends! (Sangloupmon)"
 		},
 		{
 			"key":"EM05_C0004_Q1_A2",
-			"value":"It’s a way to survive."
+			"value":"It’s a way to survive. (Jewelbeemon)"
 		},
 		{
 			"key":"EM05_C0004_Q1_A3",
-			"value":"We needs servants!"
+			"value":"We needs servants! (Cyclo/Pie)"
 		},
 		{
 			"key":"EM05_C0004_Q1_A4",
-			"value":"It’s common interests."
+			"value":"It’s common interests. (Others)"
 		},
 		{
 			"key":"EM05_C0005",
@@ -842,15 +842,15 @@
 		},
 		{
 			"key":"EM05_C0005_Q1_A1",
-			"value":"I respect your spirit!"
+			"value":"I respect your spirit! (Cyclo/Bancho)"
 		},
 		{
 			"key":"EM05_C0005_Q1_A2",
-			"value":"Hearts will waver."
+			"value":"Hearts will waver. (Jewel/Pie)"
 		},
 		{
 			"key":"EM05_C0005_Q1_A3",
-			"value":"Never happened to me."
+			"value":"Never happened to me. (Others)"
 		},
 		{
 			"key":"EM05_C0005_Q1_A4",
@@ -862,7 +862,7 @@
 		},
 		{
 			"key":"EM05_C0006_Q1_A1",
-			"value":"Reminds you of you?"
+			"value":"Reminds you of you? (Sang/Cyclo/Bancho)"
 		},
 		{
 			"key":"EM05_C0006_Q1_A2",
@@ -870,11 +870,11 @@
 		},
 		{
 			"key":"EM05_C0006_Q1_A3",
-			"value":"Makes me feel alive!"
+			"value":"Makes me feel alive! (Jewel/Beel/Pie)"
 		},
 		{
 			"key":"EM05_C0006_Q1_A4",
-			"value":"Its light is useful."
+			"value":"Its light is useful. (Delumon)"
 		},
 		{
 			"key":"EM05_C0007",
@@ -882,19 +882,19 @@
 		},
 		{
 			"key":"EM05_C0007_Q1_A1",
-			"value":"Two birds, one stone."
+			"value":"Two birds, one stone. (Piemon)"
 		},
 		{
 			"key":"EM05_C0007_Q1_A2",
-			"value":"Survival of fittest."
+			"value":"Survival of fittest. (Cyclomon)"
 		},
 		{
 			"key":"EM05_C0007_Q1_A3",
-			"value":"Steady progress."
+			"value":"Steady progress. (Sang/Delu)"
 		},
 		{
 			"key":"EM05_C0007_Q1_A4",
-			"value":"Can’t say I have one."
+			"value":"Can’t say I have one. (Others)"
 		},
 		{
 			"key":"EM05_C0008",
@@ -950,11 +950,11 @@
 		},
 		{
 			"key":"EM06_C0001_Q1_A2",
-			"value":"I’m not gonna lose!"
+			"value":"I’m not gonna lose! (Palmon/Patamon)"
 		},
 		{
 			"key":"EM06_C0001_Q1_A3",
-			"value":"Nice, so energetic!"
+			"value":"Nice, so energetic! (Piyomon)"
 		},
 		{
 			"key":"EM06_C0001_Q1_A4",
@@ -966,15 +966,15 @@
 		},
 		{
 			"key":"EM06_C0002_Q1_A1",
-			"value":"Climbing trees."
+			"value":"Climbing trees. (Patamon)"
 		},
 		{
 			"key":"EM06_C0002_Q1_A2",
-			"value":"Hide and seek."
+			"value":"Hide and seek. (Palmon)"
 		},
 		{
 			"key":"EM06_C0002_Q1_A3",
-			"value":"Tag!"
+			"value":"Tag! (Piyomon)"
 		},
 		{
 			"key":"EM06_C0002_Q1_A4",
@@ -986,11 +986,11 @@
 		},
 		{
 			"key":"EM06_C0003_Q1_A1",
-			"value":"Good to have goals."
+			"value":"Good to have goals. (Palmon)"
 		},
 		{
 			"key":"EM06_C0003_Q1_A2",
-			"value":"Let me work for you!"
+			"value":"Let me work for you! (Patamon)"
 		},
 		{
 			"key":"EM06_C0003_Q1_A3",
@@ -998,7 +998,7 @@
 		},
 		{
 			"key":"EM06_C0003_Q1_A4",
-			"value":"Not a chance!"
+			"value":"Not a chance! (Piyomon)"
 		},
 		{
 			"key":"EM06_C0004",
@@ -1006,7 +1006,7 @@
 		},
 		{
 			"key":"EM06_C0004_Q1_A1",
-			"value":"To make people calm."
+			"value":"To make people calm. (Palmon)"
 		},
 		{
 			"key":"EM06_C0004_Q1_A2",
@@ -1014,11 +1014,11 @@
 		},
 		{
 			"key":"EM06_C0004_Q1_A3",
-			"value":"It’s the chlorophyll."
+			"value":"It’s the chlorophyll. (Piyomon)"
 		},
 		{
 			"key":"EM06_C0004_Q1_A4",
-			"value":"Can’t say, really."
+			"value":"Can’t say, really. (Patamon)"
 		},
 		{
 			"key":"EM06_C0005",
@@ -1026,11 +1026,11 @@
 		},
 		{
 			"key":"EM06_C0005_Q1_A1",
-			"value":"Once, for a friend."
+			"value":"Once, for a friend. (Patamon)"
 		},
 		{
 			"key":"EM06_C0005_Q1_A2",
-			"value":"Never ever."
+			"value":"Never ever. (Piyomon)"
 		},
 		{
 			"key":"EM06_C0005_Q1_A3",
@@ -1038,7 +1038,7 @@
 		},
 		{
 			"key":"EM06_C0005_Q1_A4",
-			"value":"I don’t want to say."
+			"value":"I don’t want to say. (Palmon)"
 		},
 		{
 			"key":"EM06_C0006",
@@ -1046,11 +1046,11 @@
 		},
 		{
 			"key":"EM06_C0006_Q1_A1",
-			"value":"My friends."
+			"value":"My friends. (Palmon)"
 		},
 		{
 			"key":"EM06_C0006_Q1_A2",
-			"value":"Food!"
+			"value":"Food! (Piyomon)"
 		},
 		{
 			"key":"EM06_C0006_Q1_A3",
@@ -1058,7 +1058,7 @@
 		},
 		{
 			"key":"EM06_C0006_Q1_A4",
-			"value":"Myself."
+			"value":"Myself. (Patamon)"
 		},
 		{
 			"key":"EM06_C0007",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"key":"EM06_C0007_Q1_A1",
-			"value":"You’re a nice ‘mon."
+			"value":"You’re a nice ‘mon. (Palmon)"
 		},
 		{
 			"key":"EM06_C0007_Q1_A2",
@@ -1074,11 +1074,11 @@
 		},
 		{
 			"key":"EM06_C0007_Q1_A3",
-			"value":"You don’t wanna fight."
+			"value":"You don’t wanna fight. (Patamon)"
 		},
 		{
 			"key":"EM06_C0007_Q1_A4",
-			"value":"You’re a scaredy-cat."
+			"value":"You’re a scaredy-cat. (Piyomon)"
 		},
 		{
 			"key":"EM06_C0008",
@@ -1130,7 +1130,7 @@
 		},
 		{
 			"key":"EM07_C0001_Q1_A1",
-			"value":"Yeah, pretty cute."
+			"value":"Yeah, pretty cute. (All)"
 		},
 		{
 			"key":"EM07_C0001_Q1_A2",
@@ -1150,11 +1150,11 @@
 		},
 		{
 			"key":"EM07_C0002_Q1_A1",
-			"value":"You’re captivating!"
+			"value":"You’re captivating! (Lilimon)"
 		},
 		{
 			"key":"EM07_C0002_Q1_A2",
-			"value":"No, don’t be scared."
+			"value":"No, don’t be scared. (Mermaimon)"
 		},
 		{
 			"key":"EM07_C0002_Q1_A3",
@@ -1170,7 +1170,7 @@
 		},
 		{
 			"key":"EM07_C0003_Q1_A1",
-			"value":"[Let the bug go.]"
+			"value":"[Let the bug go.] (All)"
 		},
 		{
 			"key":"EM07_C0003_Q1_A2",
@@ -1190,7 +1190,7 @@
 		},
 		{
 			"key":"EM07_C0004_Q1_A1",
-			"value":"[Sing with them.]"
+			"value":"[Sing with them.] (Lilimon)"
 		},
 		{
 			"key":"EM07_C0004_Q1_A2",
@@ -1198,7 +1198,7 @@
 		},
 		{
 			"key":"EM07_C0004_Q1_A3",
-			"value":"[Dance like crazy.]"
+			"value":"[Dance like crazy.] (Mermaimon)"
 		},
 		{
 			"key":"EM07_C0004_Q1_A4",
@@ -1210,11 +1210,11 @@
 		},
 		{
 			"key":"EM07_C0005_Q1_A1",
-			"value":"To fly in the sky!"
+			"value":"To fly in the sky! (Mermaimon)"
 		},
 		{
 			"key":"EM07_C0005_Q1_A2",
-			"value":"To make people happy!"
+			"value":"To make people happy! (Lilimon)"
 		},
 		{
 			"key":"EM07_C0005_Q1_A3",
@@ -1230,7 +1230,7 @@
 		},
 		{
 			"key":"EM07_C0006_Q1_A1",
-			"value":"Yeah, let’s do it!"
+			"value":"Yeah, let’s do it! (Lilimon)"
 		},
 		{
 			"key":"EM07_C0006_Q1_A2",
@@ -1242,7 +1242,7 @@
 		},
 		{
 			"key":"EM07_C0006_Q1_A4",
-			"value":"No, let’s keep going!"
+			"value":"No, let’s keep going! (Mermaimon)"
 		},
 		{
 			"key":"EM07_C0007",
@@ -1254,7 +1254,7 @@
 		},
 		{
 			"key":"EM07_C0007_Q1_A2",
-			"value":"You want one?"
+			"value":"You want one? (All)"
 		},
 		{
 			"key":"EM07_C0007_Q1_A3",
@@ -1314,19 +1314,19 @@
 		},
 		{
 			"key":"EM08_C0001_Q1_A1",
-			"value":"Love me some meat!"
+			"value":"Love me some meat! (Gazi/Gottsu)"
 		},
 		{
 			"key":"EM08_C0001_Q1_A2",
-			"value":"Veggies all the way."
+			"value":"Veggies all the way. (Tail/Vegi)"
 		},
 		{
 			"key":"EM08_C0001_Q1_A3",
-			"value":"Fruit’s my favorite!"
+			"value":"Fruit’s my favorite! (Goma/Pinochi)"
 		},
 		{
 			"key":"EM08_C0001_Q1_A4",
-			"value":"Why should I tell you?"
+			"value":"Why should I tell you? (Flymon)"
 		},
 		{
 			"key":"EM08_C0002",
@@ -1334,19 +1334,19 @@
 		},
 		{
 			"key":"EM08_C0002_Q1_A1",
-			"value":"A pit trap?"
+			"value":"A pit trap? (Others)"
 		},
 		{
 			"key":"EM08_C0002_Q1_A2",
-			"value":"Water balloons?"
+			"value":"Water balloons? (Gomamon)"
 		},
 		{
 			"key":"EM08_C0002_Q1_A3",
-			"value":"Tripping someone?"
+			"value":"Tripping someone? (Vegimon)"
 		},
 		{
 			"key":"EM08_C0002_Q1_A4",
-			"value":"Pranks are bad!"
+			"value":"Pranks are bad! (Tailmon)"
 		},
 		{
 			"key":"EM08_C0003_01",
@@ -1358,19 +1358,19 @@
 		},
 		{
 			"key":"EM08_C0003_Q1_A1",
-			"value":"Whoa, you scared me!"
+			"value":"Whoa, you scared me! (Gottsu/Vegi)"
 		},
 		{
 			"key":"EM08_C0003_Q1_A2",
-			"value":"I’m glad you’re okay."
+			"value":"I’m glad you’re okay. (Others)"
 		},
 		{
 			"key":"EM08_C0003_Q1_A3",
-			"value":"What awful acting..."
+			"value":"What awful acting... (Flymon)"
 		},
 		{
 			"key":"EM08_C0003_Q1_A4",
-			"value":"That was lame!"
+			"value":"That was lame! (Tailmon)"
 		},
 		{
 			"key":"EM08_C0004",
@@ -1378,19 +1378,19 @@
 		},
 		{
 			"key":"EM08_C0004_Q1_A1",
-			"value":"I’m too busy living."
+			"value":"I’m too busy living. (Others)"
 		},
 		{
 			"key":"EM08_C0004_Q1_A2",
-			"value":"Makes me wanna yawn."
+			"value":"Makes me wanna yawn. (Gottsumon)"
 		},
 		{
 			"key":"EM08_C0004_Q1_A3",
-			"value":"Let’s go do something!"
+			"value":"Let’s go do something! (Gazi/Goma)"
 		},
 		{
 			"key":"EM08_C0004_Q1_A4",
-			"value":"Wanna fight for fun?"
+			"value":"Wanna fight for fun? (Pinochimon)"
 		},
 		{
 			"key":"EM08_C0005",
@@ -1398,19 +1398,19 @@
 		},
 		{
 			"key":"EM08_C0005_Q1_A1",
-			"value":"That I’m cool?"
+			"value":"That I’m cool? (Gottsu/Vegi)"
 		},
 		{
 			"key":"EM08_C0005_Q1_A2",
-			"value":"That I’m easygoing?"
+			"value":"That I’m easygoing? (Gazi/Pinochi)"
 		},
 		{
 			"key":"EM08_C0005_Q1_A3",
-			"value":"That I’m trouble..."
+			"value":"That I’m trouble... "
 		},
 		{
 			"key":"EM08_C0005_Q1_A4",
-			"value":"That I’m funny!"
+			"value":"That I’m funny! (Others)"
 		},
 		{
 			"key":"EM08_C0006",
@@ -1418,19 +1418,19 @@
 		},
 		{
 			"key":"EM08_C0006_Q1_A1",
-			"value":"Have more confidence!"
+			"value":"Have more confidence! (Others)"
 		},
 		{
 			"key":"EM08_C0006_Q1_A2",
-			"value":"I’d definitely lose."
+			"value":"I’d definitely lose. (Gottsumon)"
 		},
 		{
 			"key":"EM08_C0006_Q1_A3",
-			"value":"We’d probably tie."
+			"value":"We’d probably tie. (Gazimon)"
 		},
 		{
 			"key":"EM08_C0006_Q1_A4",
-			"value":"Why don’t we find out?"
+			"value":"Why don’t we find out? (Fly/Tail)"
 		},
 		{
 			"key":"EM08_C0007",
@@ -1438,15 +1438,15 @@
 		},
 		{
 			"key":"EM08_C0007_Q1_A1",
-			"value":"I’ll earn your trust!"
+			"value":"I’ll earn your trust! (Gottsu/Vegi)"
 		},
 		{
 			"key":"EM08_C0007_Q1_A2",
-			"value":"I trust you."
+			"value":"I trust you. (Goma/Tail)"
 		},
 		{
 			"key":"EM08_C0007_Q1_A3",
-			"value":"What can I do, then?"
+			"value":"What can I do, then? (Others)"
 		},
 		{
 			"key":"EM08_C0007_Q1_A4",
@@ -1502,19 +1502,19 @@
 		},
 		{
 			"key":"EM09_C0001_Q1_A1",
-			"value":"I’ll come out on top!"
+			"value":"I’ll come out on top! (Others)"
 		},
 		{
 			"key":"EM09_C0001_Q1_A2",
-			"value":"Fighting sounds scary."
+			"value":"Fighting sounds scary. (Tric/Valdur/Marin)"
 		},
 		{
 			"key":"EM09_C0001_Q1_A3",
-			"value":"I’m the stronger one!"
+			"value":"I’m the stronger one! (Andi/Seraph/Cherub)"
 		},
 		{
 			"key":"EM09_C0001_Q1_A4",
-			"value":"Who has time for that?"
+			"value":"Who has time for that? (Kiwi/Siesa)"
 		},
 		{
 			"key":"EM09_C0002",
@@ -1522,19 +1522,19 @@
 		},
 		{
 			"key":"EM09_C0002_Q1_A1",
-			"value":"There must be."
+			"value":"There must be. (Others)"
 		},
 		{
 			"key":"EM09_C0002_Q1_A2",
-			"value":"I really can’t say."
+			"value":"I really can’t say. (Andi/Tric)"
 		},
 		{
 			"key":"EM09_C0002_Q1_A3",
-			"value":"Not a chance."
+			"value":"Not a chance. (Seraphimon)"
 		},
 		{
 			"key":"EM09_C0002_Q1_A4",
-			"value":"Why should I answer?"
+			"value":"Why should I answer? (Siesa/Houou)"
 		},
 		{
 			"key":"EM09_C0003",
@@ -1542,19 +1542,19 @@
 		},
 		{
 			"key":"EM09_C0003_Q1_A1",
-			"value":"Look before you leap!"
+			"value":"Look before you leap! (Tric/Seraph/Cherub)"
 		},
 		{
 			"key":"EM09_C0003_Q1_A2",
-			"value":"Clean your own messes."
+			"value":"Clean your own messes. (Hououmon)"
 		},
 		{
 			"key":"EM09_C0003_Q1_A3",
-			"value":"Gotta move forward."
+			"value":"Gotta move forward. (Others)"
 		},
 		{
 			"key":"EM09_C0003_Q1_A4",
-			"value":"I’ll do the same!"
+			"value":"I’ll do the same! (Ikkaku/Siesa/Marin)"
 		},
 		{
 			"key":"EM09_C0004",
@@ -1562,19 +1562,19 @@
 		},
 		{
 			"key":"EM09_C0004_Q1_A1",
-			"value":"To meet you."
+			"value":"To meet you. (Ikkaku/Kiwi/Tric)"
 		},
 		{
 			"key":"EM09_C0004_Q1_A2",
-			"value":"I was guided here."
+			"value":"I was guided here. (Others)"
 		},
 		{
 			"key":"EM09_C0004_Q1_A3",
-			"value":"Trying to get home."
+			"value":"Trying to get home. (Andi/Houou/Marin)"
 		},
 		{
 			"key":"EM09_C0004_Q1_A4",
-			"value":"To defeat monsters."
+			"value":"To defeat monsters. (Siesamon)"
 		},
 		{
 			"key":"EM09_C0005",
@@ -1582,15 +1582,15 @@
 		},
 		{
 			"key":"EM09_C0005_Q1_A1",
-			"value":"A friendly human!"
+			"value":"A friendly human! (Ange/Andi/Seraph/Valdur)"
 		},
 		{
 			"key":"EM09_C0005_Q1_A2",
-			"value":"My own kind of human."
+			"value":"My own kind of human. (Ikkaku/Kiwi/Holy/Cherub)"
 		},
 		{
 			"key":"EM09_C0005_Q1_A3",
-			"value":"A cowardly human..."
+			"value":"A cowardly human... (Siesa/Tric/Marin)"
 		},
 		{
 			"key":"EM09_C0005_Q1_A4",
@@ -1602,7 +1602,7 @@
 		},
 		{
 			"key":"EM09_C0006_Q1_A1",
-			"value":"Trusting your partner."
+			"value":"Trusting your partner. (Others)"
 		},
 		{
 			"key":"EM09_C0006_Q1_A2",
@@ -1610,7 +1610,7 @@
 		},
 		{
 			"key":"EM09_C0006_Q1_A3",
-			"value":"Opening up..."
+			"value":"Opening up... (Ange/Kiwi/Tric/Houou/Valdur)"
 		},
 		{
 			"key":"EM09_C0006_Q1_A4",
@@ -1622,19 +1622,19 @@
 		},
 		{
 			"key":"EM09_C0007_Q1_A1",
-			"value":"You’re super cool!"
+			"value":"You’re super cool! (Ikkaku/Andi)"
 		},
 		{
 			"key":"EM09_C0007_Q1_A2",
-			"value":"Thanks for being kind."
+			"value":"Thanks for being kind. (Others)"
 		},
 		{
 			"key":"EM09_C0007_Q1_A3",
-			"value":"You’re in my way..."
+			"value":"You’re in my way... (Triceramon)"
 		},
 		{
 			"key":"EM09_C0007_Q1_A4",
-			"value":"Don’t kill me!"
+			"value":"Don’t kill me! (Kiwi/Siesa/Houou)"
 		},
 		{
 			"key":"EM09_C0008",
@@ -1690,19 +1690,19 @@
 		},
 		{
 			"key":"EM10_C0001_Q1_A1",
-			"value":"[Give them candy.]"
+			"value":"[Give them candy.] (Dokugumon)"
 		},
 		{
 			"key":"EM10_C0001_Q1_A2",
-			"value":"[Give them water.]"
+			"value":"[Give them water.] (Shell/Oku/Herk)"
 		},
 		{
 			"key":"EM10_C0001_Q1_A3",
-			"value":"[Give them fruit.]"
+			"value":"[Give them fruit.] (GranKuwagamon)"
 		},
 		{
 			"key":"EM10_C0001_Q1_A4",
-			"value":"[Give them vegetables.]"
+			"value":"[Give them vegetables.] (Kabu/Kuwa)"
 		},
 		{
 			"key":"EM10_C0002_01",
@@ -1714,19 +1714,19 @@
 		},
 		{
 			"key":"EM10_C0002_Q1_A1",
-			"value":"[Take a stance.]"
+			"value":"[Take a stance.] (Shell/Oku)"
 		},
 		{
 			"key":"EM10_C0002_Q1_A2",
-			"value":"[Take a step back.]"
+			"value":"[Take a step back.] (Kabu/Kuwa/Gran)"
 		},
 		{
 			"key":"EM10_C0002_Q1_A3",
-			"value":"[Act harmless.]"
+			"value":"[Act harmless.] (HerakleKabuterimon)"
 		},
 		{
 			"key":"EM10_C0002_Q1_A4",
-			"value":"[Glare at them.]"
+			"value":"[Glare at them.] (Dokugumon)"
 		},
 		{
 			"key":"EM10_C0003_01",
@@ -1738,19 +1738,19 @@
 		},
 		{
 			"key":"EM10_C0003_Q1_A1",
-			"value":"[Taunt them.]"
+			"value":"[Taunt them.] (GranKuwagamon)"
 		},
 		{
 			"key":"EM10_C0003_Q1_A2",
-			"value":"[Smile and wave.]"
+			"value":"[Smile and wave.] (Kabu/Kuwa/Shell)"
 		},
 		{
 			"key":"EM10_C0003_Q1_A3",
-			"value":"[Sigh at them.]"
+			"value":"[Sigh at them.] (Okuwamon)"
 		},
 		{
 			"key":"EM10_C0003_Q1_A4",
-			"value":"[Strut around.]"
+			"value":"[Strut around.] (Oku/Herk)"
 		},
 		{
 			"key":"EM10_C0004_01",
@@ -1762,19 +1762,19 @@
 		},
 		{
 			"key":"EM10_C0004_Q1_A1",
-			"value":"[Throw something.]"
+			"value":"[Throw something.] (Dokugumon)"
 		},
 		{
 			"key":"EM10_C0004_Q1_A2",
-			"value":"[Keep talking to them.]"
+			"value":"[Keep talking to them.] (Kabu/Kuwa)"
 		},
 		{
 			"key":"EM10_C0004_Q1_A3",
-			"value":"[Lure them with food.]"
+			"value":"[Lure them with food.] (Others)"
 		},
 		{
 			"key":"EM10_C0004_Q1_A4",
-			"value":"[Pretend to cry.]"
+			"value":"[Pretend to cry.] (HerakleKabuterimon)"
 		},
 		{
 			"key":"EM10_C0005_01",
@@ -1786,19 +1786,19 @@
 		},
 		{
 			"key":"EM10_C0005_Q1_A1",
-			"value":"[Calm them down.]"
+			"value":"[Calm them down.] (Others)"
 		},
 		{
 			"key":"EM10_C0005_Q1_A2",
-			"value":"[Yell threateningly.]"
+			"value":"[Yell threateningly.] (Kuwagamon)"
 		},
 		{
 			"key":"EM10_C0005_Q1_A3",
-			"value":"[Just wait.]"
+			"value":"[Just wait.] (Kabu/Gran)"
 		},
 		{
 			"key":"EM10_C0005_Q1_A4",
-			"value":"[Stare coldly at them.]"
+			"value":"[Stare coldly at them.] (Dokugumon)"
 		},
 		{
 			"key":"EM10_C0006",
@@ -1806,19 +1806,19 @@
 		},
 		{
 			"key":"EM10_C0006_Q1_A1",
-			"value":"I’m afraid not."
+			"value":"I’m afraid not. (Okuwamon)"
 		},
 		{
 			"key":"EM10_C0006_Q1_A2",
-			"value":"Try it, if you dare."
+			"value":"Try it, if you dare. (Others)"
 		},
 		{
 			"key":"EM10_C0006_Q1_A3",
-			"value":"Yes, you eat now!"
+			"value":"Yes, you eat now! (Shellmon)"
 		},
 		{
 			"key":"EM10_C0006_Q1_A4",
-			"value":"Don’t make me mad."
+			"value":"Don’t make me mad. (Kuwa/Herk)"
 		},
 		{
 			"key":"EM10_C0007",
@@ -1826,19 +1826,19 @@
 		},
 		{
 			"key":"EM10_C0007_Q1_A1",
-			"value":"Please listen to me."
+			"value":"Please listen to me. (Kabuterimon)"
 		},
 		{
 			"key":"EM10_C0007_Q1_A2",
-			"value":"I wanna be friends!"
+			"value":"I wanna be friends! (Kuwa/Shell)"
 		},
 		{
 			"key":"EM10_C0007_Q1_A3",
-			"value":"You’re in my way."
+			"value":"You’re in my way. (Okuwamon)"
 		},
 		{
 			"key":"EM10_C0007_Q1_A4",
-			"value":"Sorry to bother you."
+			"value":"Sorry to bother you. (Others)"
 		},
 		{
 			"key":"EM10_C0008_01",
@@ -1938,19 +1938,19 @@
 		},
 		{
 			"key":"EM11_C0001_Q1_A1",
-			"value":"[Try to soothe them.]"
+			"value":"[Try to soothe them.] (Skull/Metal)"
 		},
 		{
 			"key":"EM11_C0001_Q1_A2",
-			"value":"[Prepare to fight.]"
+			"value":"[Prepare to fight.] (Nume/Andro)"
 		},
 		{
 			"key":"EM11_C0001_Q1_A3",
-			"value":"[Chicken out.]"
+			"value":"[Chicken out.] (AtlurKabuterimon)"
 		},
 		{
 			"key":"EM11_C0001_Q1_A4",
-			"value":"[Smile back.]"
+			"value":"[Smile back.] (Toge/Seadra)"
 		},
 		{
 			"key":"EM11_C0002_01",
@@ -1970,11 +1970,11 @@
 		},
 		{
 			"key":"EM11_C0002_Q1_A3",
-			"value":"[Gesture.]"
+			"value":"[Gesture.] (Nume/Toge/Andro)"
 		},
 		{
 			"key":"EM11_C0002_Q1_A4",
-			"value":"[Stand silently.]"
+			"value":"[Stand silently.] (Others)"
 		},
 		{
 			"key":"EM11_C0003_01",
@@ -1986,19 +1986,19 @@
 		},
 		{
 			"key":"EM11_C0003_Q1_A1",
-			"value":"[Talk to them slowly.]"
+			"value":"[Talk to them slowly.] (Others)"
 		},
 		{
 			"key":"EM11_C0003_Q1_A2",
-			"value":"[Rattle on and on.]"
+			"value":"[Rattle on and on.] (MetalSeadramon)"
 		},
 		{
 			"key":"EM11_C0003_Q1_A3",
-			"value":"[Howl like a beast.]"
+			"value":"[Howl like a beast.] (Seadramon)"
 		},
 		{
 			"key":"EM11_C0003_Q1_A4",
-			"value":"[Stay quiet.]"
+			"value":"[Stay quiet.] (Atlur/Skull)"
 		},
 		{
 			"key":"EM11_C0004_01",
@@ -2010,19 +2010,19 @@
 		},
 		{
 			"key":"EM11_C0004_Q1_A1",
-			"value":"[Take a step forward.]"
+			"value":"[Take a step forward.] (Togemon)"
 		},
 		{
 			"key":"EM11_C0004_Q1_A2",
-			"value":"[Stare right back.]"
+			"value":"[Stare right back.] (Others)"
 		},
 		{
 			"key":"EM11_C0004_Q1_A3",
-			"value":"[Look away.]"
+			"value":"[Look away.] (AtlurKabuterimon)"
 		},
 		{
 			"key":"EM11_C0004_Q1_A4",
-			"value":"[Grin and wave.]"
+			"value":"[Grin and wave.] (Seadra/Skull)"
 		},
 		{
 			"key":"EM11_C0005_01",
@@ -2034,7 +2034,7 @@
 		},
 		{
 			"key":"EM11_C0005_Q1_A1",
-			"value":"[Show your confusion.]"
+			"value":"[Show your confusion.] (SkullGreymon)"
 		},
 		{
 			"key":"EM11_C0005_Q1_A2",
@@ -2042,11 +2042,11 @@
 		},
 		{
 			"key":"EM11_C0005_Q1_A3",
-			"value":"[Give it some food.]"
+			"value":"[Give it some food.] (Nume/Toge/Andro)"
 		},
 		{
 			"key":"EM11_C0005_Q1_A4",
-			"value":"[Go “Nyooww” back.]"
+			"value":"[Go “Nyooww” back.] (Seadra/Atlur/Metal)"
 		},
 		{
 			"key":"EM11_C0006_01",
@@ -2058,19 +2058,19 @@
 		},
 		{
 			"key":"EM11_C0006_Q1_A1",
-			"value":"[Shake your fist.]"
+			"value":"[Shake your fist.] (SkullGreymon)"
 		},
 		{
 			"key":"EM11_C0006_Q1_A2",
-			"value":"[Speak kindly to them.]"
+			"value":"[Speak kindly to them.] (Nume/Metal)"
 		},
 		{
 			"key":"EM11_C0006_Q1_A3",
-			"value":"[Shake your head.]"
+			"value":"[Shake your head.] (Seadramon)"
 		},
 		{
 			"key":"EM11_C0006_Q1_A4",
-			"value":"[Nod your head.]"
+			"value":"[Nod your head.] (Others)"
 		},
 		{
 			"key":"EM11_C0007_01",
@@ -2082,19 +2082,19 @@
 		},
 		{
 			"key":"EM11_C0007_Q1_A1",
-			"value":"[Jump aside.]"
+			"value":"[Jump aside.] (Toge/Skull)"
 		},
 		{
 			"key":"EM11_C0007_Q1_A2",
-			"value":"[Mimic their posture.]"
+			"value":"[Mimic their posture.] (Others)"
 		},
 		{
 			"key":"EM11_C0007_Q1_A3",
-			"value":"[Clap vigorously.]"
+			"value":"[Clap vigorously.] (Seadramon)"
 		},
 		{
 			"key":"EM11_C0007_Q1_A4",
-			"value":"[Look apologetic.]"
+			"value":"[Look apologetic.] (Andromon)"
 		},
 		{
 			"key":"EM11_C0008_01",
@@ -2190,7 +2190,7 @@
 		},
 		{
 			"key":"EM12_C0001_Q1_A1",
-			"value":"You can sing? Wow!"
+			"value":"You can sing? Wow! (Etemon)"
 		},
 		{
 			"key":"EM12_C0001_Q1_A2",
@@ -2210,7 +2210,7 @@
 		},
 		{
 			"key":"EM12_C0002_Q1_A1",
-			"value":"One!"
+			"value":"One! (Etemon)"
 		},
 		{
 			"key":"EM12_C0002_Q1_A2",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"key":"EM12_C0003_Q1_A4",
-			"value":"What a cool ‘mon!"
+			"value":"What a cool ‘mon! (Etemon)"
 		},
 		{
 			"key":"EM12_C0004",
@@ -2258,7 +2258,7 @@
 		},
 		{
 			"key":"EM12_C0004_Q1_A3",
-			"value":"Your crazy strength?"
+			"value":"Your crazy strength? (Etemon)"
 		},
 		{
 			"key":"EM12_C0004_Q1_A4",
@@ -2270,7 +2270,7 @@
 		},
 		{
 			"key":"EM12_C0005_Q1_A1",
-			"value":"Yes, pretty please!"
+			"value":"Yes, pretty please! (Etemon)"
 		},
 		{
 			"key":"EM12_C0005_Q1_A2",
@@ -2290,7 +2290,7 @@
 		},
 		{
 			"key":"EM12_C0006_Q1_A1",
-			"value":"What? Not a chance."
+			"value":"What? Not a chance. (Etemon)"
 		},
 		{
 			"key":"EM12_C0006_Q1_A2",
@@ -2322,7 +2322,7 @@
 		},
 		{
 			"key":"EM12_C0007_Q1_A4",
-			"value":"Let’s keep it secret."
+			"value":"Let’s keep it secret. (Etemon)"
 		},
 		{
 			"key":"EM12_C0008",
@@ -2386,7 +2386,7 @@
 		},
 		{
 			"key":"EM13_C0001_Q1_A4",
-			"value":"You’re pretty smart."
+			"value":"You’re pretty smart. (Tentomon)"
 		},
 		{
 			"key":"EM13_C0002",
@@ -2398,7 +2398,7 @@
 		},
 		{
 			"key":"EM13_C0002_Q1_A2",
-			"value":"From far away."
+			"value":"From far away. (Tentomon)"
 		},
 		{
 			"key":"EM13_C0002_Q1_A3",
@@ -2422,7 +2422,7 @@
 		},
 		{
 			"key":"EM13_C0003_Q1_A3",
-			"value":"That sounds serious."
+			"value":"That sounds serious. (Tentomon)"
 		},
 		{
 			"key":"EM13_C0003_Q1_A4",
@@ -2438,7 +2438,7 @@
 		},
 		{
 			"key":"EM13_C0004_Q1_A2",
-			"value":"Exactly!"
+			"value":"Exactly! (Tentomon)"
 		},
 		{
 			"key":"EM13_C0004_Q1_A3",
@@ -2462,7 +2462,7 @@
 		},
 		{
 			"key":"EM13_C0005_Q1_A3",
-			"value":"You have trust issues."
+			"value":"You have trust issues. (Tentomon)"
 		},
 		{
 			"key":"EM13_C0005_Q1_A4",
@@ -2486,7 +2486,7 @@
 		},
 		{
 			"key":"EM13_C0006_Q1_A4",
-			"value":"Jerks better look out!"
+			"value":"Jerks better look out! (Tentomon)"
 		},
 		{
 			"key":"EM13_C0007",
@@ -2494,7 +2494,7 @@
 		},
 		{
 			"key":"EM13_C0007_Q1_A1",
-			"value":"Yeah, I totally bomb."
+			"value":"Yeah, I totally bomb. (Tentomon)"
 		},
 		{
 			"key":"EM13_C0007_Q1_A2",
@@ -2566,7 +2566,7 @@
 		},
 		{
 			"key":"EM14_C0001_Q1_A3",
-			"value":"That’s a tough sell."
+			"value":"That’s a tough sell. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0001_Q1_A4",
@@ -2586,7 +2586,7 @@
 		},
 		{
 			"key":"EM14_C0002_Q1_A3",
-			"value":"That’s not enough."
+			"value":"That’s not enough. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0002_Q1_A4",
@@ -2598,7 +2598,7 @@
 		},
 		{
 			"key":"EM14_C0003_Q1_A1",
-			"value":"More than anything."
+			"value":"More than anything. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0003_Q1_A2",
@@ -2630,7 +2630,7 @@
 		},
 		{
 			"key":"EM14_C0004_Q1_A4",
-			"value":"Appreciate the advice!"
+			"value":"Appreciate the advice! (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0005",
@@ -2642,7 +2642,7 @@
 		},
 		{
 			"key":"EM14_C0005_Q1_A2",
-			"value":"I don’t want to fight."
+			"value":"I don’t want to fight. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0005_Q1_A3",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"key":"EM14_C0006_Q1_A2",
-			"value":"What a nice ‘mon."
+			"value":"What a nice ‘mon. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0006_Q1_A3",
@@ -2690,7 +2690,7 @@
 		},
 		{
 			"key":"EM14_C0007_Q1_A4",
-			"value":"Try something else."
+			"value":"Try something else. (Monzaemon)"
 		},
 		{
 			"key":"EM14_C0008",
@@ -2742,7 +2742,7 @@
 		},
 		{
 			"key":"EM15_C0001_Q1_A1",
-			"value":"I don’t believe you."
+			"value":"I don’t believe you. (Fang/Vamde)"
 		},
 		{
 			"key":"EM15_C0001_Q1_A2",
@@ -2750,11 +2750,11 @@
 		},
 		{
 			"key":"EM15_C0001_Q1_A3",
-			"value":"I’ll just beat you up."
+			"value":"I’ll just beat you up. (MarinDevimon)"
 		},
 		{
 			"key":"EM15_C0001_Q1_A4",
-			"value":"Interesting proposal!"
+			"value":"Interesting proposal! (Gabu/Archne)"
 		},
 		{
 			"key":"EM15_C0002",
@@ -2762,15 +2762,15 @@
 		},
 		{
 			"key":"EM15_C0002_Q1_A1",
-			"value":"Liar. You’re not weak."
+			"value":"Liar. You’re not weak. (MarinDevimon)"
 		},
 		{
 			"key":"EM15_C0002_Q1_A2",
-			"value":"Strength’s irrelevant."
+			"value":"Strength’s irrelevant. (Others)"
 		},
 		{
 			"key":"EM15_C0002_Q1_A3",
-			"value":"How rude!"
+			"value":"How rude! (Archnemon)"
 		},
 		{
 			"key":"EM15_C0002_Q1_A4",
@@ -2782,7 +2782,7 @@
 		},
 		{
 			"key":"EM15_C0003_Q1_A1",
-			"value":"The deceiver, duh!"
+			"value":"The deceiver, duh! (Others)"
 		},
 		{
 			"key":"EM15_C0003_Q1_A2",
@@ -2790,11 +2790,11 @@
 		},
 		{
 			"key":"EM15_C0003_Q1_A3",
-			"value":"Only dupes get duped!"
+			"value":"Only dupes get duped! (MarinDevimon)"
 		},
 		{
 			"key":"EM15_C0003_Q1_A4",
-			"value":"I don’t like either."
+			"value":"I don’t like either. (Archnemon)"
 		},
 		{
 			"key":"EM15_C0004",
@@ -2802,19 +2802,19 @@
 		},
 		{
 			"key":"EM15_C0004_Q1_A1",
-			"value":"You attacked me!"
+			"value":"You attacked me! (MarinDevimon)"
 		},
 		{
 			"key":"EM15_C0004_Q1_A2",
-			"value":"So let’s call it off."
+			"value":"So let’s call it off. (Fang/Vamde)"
 		},
 		{
 			"key":"EM15_C0004_Q1_A3",
-			"value":"I love peace, myself."
+			"value":"I love peace, myself. (Gabumon)"
 		},
 		{
 			"key":"EM15_C0004_Q1_A4",
-			"value":"You’ll say anything..."
+			"value":"You’ll say anything... (Archnemon)"
 		},
 		{
 			"key":"EM15_C0005",
@@ -2822,15 +2822,15 @@
 		},
 		{
 			"key":"EM15_C0005_Q1_A1",
-			"value":"That’s not true!"
+			"value":"That’s not true! (Archnemon)"
 		},
 		{
 			"key":"EM15_C0005_Q1_A2",
-			"value":"I wouldn’t mind."
+			"value":"I wouldn’t mind. (Fang/Marin)"
 		},
 		{
 			"key":"EM15_C0005_Q1_A3",
-			"value":"Do you have friends?"
+			"value":"Do you have friends? (Gabu/Vamde)"
 		},
 		{
 			"key":"EM15_C0005_Q1_A4",
@@ -2846,15 +2846,15 @@
 		},
 		{
 			"key":"EM15_C0006_Q1_A2",
-			"value":"Secrets? I wonder..."
+			"value":"Secrets? I wonder... (Fangmon)"
 		},
 		{
 			"key":"EM15_C0006_Q1_A3",
-			"value":"I’ve nothing to hide."
+			"value":"I’ve nothing to hide. (Gabu/Marin)"
 		},
 		{
 			"key":"EM15_C0006_Q1_A4",
-			"value":"I’m not telling you."
+			"value":"I’m not telling you. (Archne/Vamde)"
 		},
 		{
 			"key":"EM15_C0007",
@@ -2862,15 +2862,15 @@
 		},
 		{
 			"key":"EM15_C0007_Q1_A1",
-			"value":"Your own beliefs."
+			"value":"Your own beliefs. (Archne/Vamde)"
 		},
 		{
 			"key":"EM15_C0007_Q1_A2",
-			"value":"Reality itself."
+			"value":"Reality itself. (Gabu/Fang)"
 		},
 		{
 			"key":"EM15_C0007_Q1_A3",
-			"value":"Your preferences?"
+			"value":"Your preferences? (MarinDevimon)"
 		},
 		{
 			"key":"EM15_C0007_Q1_A4",
