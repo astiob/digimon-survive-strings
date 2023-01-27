@@ -1270,11 +1270,11 @@
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_SAVING",
-            "value": "Saving Data..."
+            "value": "Saving data..."
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_LOADING",
-            "value": "Loading Data..."
+            "value": "Loading data..."
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_CREATE_NEW",
