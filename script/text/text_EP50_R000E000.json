@@ -22,7 +22,7 @@
         },
         {
             "key": "EP50_E01S14R012F0_0001",
-            "value": "(What a suspicious-looking forest. I should\nlook around, or maybe talk with the others.)"
+            "value": "(What a suspicious-looking forest. I should\nlook around or maybe talk with the others.)"
         },
         {
             "key": "EP50_E01S16R010F0_0001",
@@ -34,7 +34,7 @@
         },
         {
             "key": "EP50_E01S20R011F0_0001",
-            "value": "(This shrine is pretty weird. Maybe I should\ntalk to the professor, or inspect the mural?)"
+            "value": "(This shrine is pretty weird. Maybe I should\ntalk to the professor? Or inspect the mural?)"
         },
         {
             "key": "EP50_E01S21R012F0_0001",
@@ -2322,7 +2322,7 @@
         },
         {
             "key": "EP50_R040E001_0002",
-            "value": "(If it wasn’t, we could head straight back to\nthe school, or maybe other places.)"
+            "value": "(If it wasn’t, we could head straight back to\nthe school...or maybe other places.)"
         },
         {
             "key": "EP50_R040E002_0001",
@@ -3034,7 +3034,7 @@
         },
         {
             "key": "EP50_R901E001_0001",
-            "value": "(What’s this? It feels like a voice, or\nsomeone’s consciousness in my head...)"
+            "value": "(What’s this? It feels like a voice...or\nsomeone’s consciousness in my head...)"
         },
         {
             "key": "EP50_R901E001_0002",
