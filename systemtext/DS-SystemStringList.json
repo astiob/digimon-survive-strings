@@ -3550,7 +3550,7 @@
         },
         {
             "key": "NAME_SKILL_1016",
-            "value": "Deals Earth damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1017",
@@ -3658,7 +3658,7 @@
         },
         {
             "key": "NAME_SKILL_1043",
-            "value": "Deals Dark damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1044",
@@ -3730,7 +3730,7 @@
         },
         {
             "key": "NAME_SKILL_1061",
-            "value": "Deals Fire damage to target(s). Moderate chance of causing sleep. Low chance of reducing PHYS DEF and SP DEF one rank."
+            "value": "Deals Fire damage to target(s). Moderate chance of causing stun. Low chance of reducing PHYS DEF and SP DEF one rank."
         },
         {
             "key": "NAME_SKILL_1062",
@@ -3738,7 +3738,7 @@
         },
         {
             "key": "NAME_SKILL_1063",
-            "value": "Deals Light damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Light damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1064",
@@ -3754,7 +3754,7 @@
         },
         {
             "key": "NAME_SKILL_1067",
-            "value": "Deals Wind damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Wind damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1068",
@@ -3770,7 +3770,7 @@
         },
         {
             "key": "NAME_SKILL_1071",
-            "value": "Deals Earth damage to target(s), with a moderate chance of knocking them back one square and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of knocking them back one square and stunning them."
         },
         {
             "key": "NAME_SKILL_1072",
@@ -3786,7 +3786,7 @@
         },
         {
             "key": "NAME_SKILL_1075",
-            "value": "Deals non-elemental damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals non-elemental damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1076",
@@ -3794,7 +3794,7 @@
         },
         {
             "key": "NAME_SKILL_1077",
-            "value": "Deals Water damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Water damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1078",
@@ -3938,7 +3938,7 @@
         },
         {
             "key": "NAME_SKILL_1113",
-            "value": "Deals Fire damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Fire damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1114",
@@ -4022,11 +4022,11 @@
         },
         {
             "key": "NAME_SKILL_1134",
-            "value": "Deals Earth damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Earth damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1135",
-            "value": "Deals Earth damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1136",
@@ -4126,11 +4126,11 @@
         },
         {
             "key": "NAME_SKILL_1160",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1161",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1162",
@@ -4158,11 +4158,11 @@
         },
         {
             "key": "NAME_SKILL_1168",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1169",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1170",
@@ -4198,11 +4198,11 @@
         },
         {
             "key": "NAME_SKILL_1178",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1179",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1180",
@@ -4230,11 +4230,11 @@
         },
         {
             "key": "NAME_SKILL_1186",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1187",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1188",
@@ -4426,7 +4426,7 @@
         },
         {
             "key": "NAME_SKILL_1245",
-            "value": "Increases Fire resistance one rank, less likely to get put to sleep."
+            "value": "Increases Fire resistance one rank, less likely to get stunned."
         },
         {
             "key": "NAME_SKILL_1246",
@@ -4458,7 +4458,7 @@
         },
         {
             "key": "NAME_SKILL_1253",
-            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Less likely to get put to sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Less likely to get stunned."
         },
         {
             "key": "NAME_SKILL_1254",
@@ -4550,7 +4550,7 @@
         },
         {
             "key": "NAME_SKILL_1276",
-            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to be put to sleep or confused."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to be stunned or confused."
         },
         {
             "key": "NAME_SKILL_1277",
@@ -4558,7 +4558,7 @@
         },
         {
             "key": "NAME_SKILL_1278",
-            "value": "Prevents sleep and confusion."
+            "value": "Prevents stun and confusion."
         },
         {
             "key": "NAME_SKILL_1279",
@@ -4582,7 +4582,7 @@
         },
         {
             "key": "NAME_SKILL_1284",
-            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun."
         },
         {
             "key": "NAME_SKILL_1285",
@@ -4646,7 +4646,7 @@
         },
         {
             "key": "NAME_SKILL_1300",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of\nputting target(s) to sleep when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of\nstunning target(s) when attacking."
         },
         {
             "key": "NAME_SKILL_1301",
@@ -4750,7 +4750,7 @@
         },
         {
             "key": "NAME_SKILL_1326",
-            "value": "Does damage to enemy units on their turn, with\na low chance of inflicting Sleep."
+            "value": "Does damage to enemy units on their turn, with\na low chance of inflicting Stun."
         },
         {
             "key": "NAME_SKILL_1327",
@@ -4946,15 +4946,15 @@
         },
         {
             "key": "NAME_SKILL_1400",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1401",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1402",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1410",
@@ -4970,15 +4970,15 @@
         },
         {
             "key": "NAME_SKILL_1420",
-            "value": "Deals Earth damage. Moderate chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Moderate chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1421",
-            "value": "Deals Earth damage. Low chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1422",
-            "value": "Deals Earth damage. Low chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1430",
@@ -5018,7 +5018,7 @@
         },
         {
             "key": "NAME_SKILL_1460",
-            "value": "Deals non-elemental damage. High\nchance of inflicting sleep."
+            "value": "Deals non-elemental damage. High\nchance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1461",
@@ -5374,7 +5374,7 @@
         },
         {
             "key": "NAME_ITEM_0325",
-            "value": "Anti-Sleep Crystal"
+            "value": "Anti-Stun Crystal"
         },
         {
             "key": "NAME_ITEM_0326",
@@ -5650,7 +5650,7 @@
         },
         {
             "key": "NAME_ITEM_1316",
-            "value": "Fire Resistance+I, Sleep Resistance\nA mark of star and flame. They’re\nframed. It protects against them?"
+            "value": "Fire Resistance+I, Stun Resistance\nA mark of star and flame. They’re\nframed. It protects against them?"
         },
         {
             "key": "NAME_ITEM_1317",
@@ -5678,7 +5678,7 @@
         },
         {
             "key": "NAME_ITEM_1323",
-            "value": "Sleep/Poison/Seal Resistance\nStars, foam and a seal, framed. So\nthose three things are fenced in?"
+            "value": "Stun/Poison/Seal Resistance\nStars, foam and a seal, framed. So\nthose three things are fenced in?"
         },
         {
             "key": "NAME_ITEM_1324",
@@ -5686,7 +5686,7 @@
         },
         {
             "key": "NAME_ITEM_1325",
-            "value": "Nullify Sleep\nA star hovers over a huge X. Does that\nmean the stars won’t work?"
+            "value": "Nullify Stun\nA star hovers over a huge X. Does that\nmean the stars won’t work?"
         },
         {
             "key": "NAME_ITEM_1326",
@@ -9098,7 +9098,7 @@
         },
         {
             "key": "NAME_BAD_STATUS_001",
-            "value": "Asleep"
+            "value": "Stunned"
         },
         {
             "key": "NAME_BAD_STATUS_002",
@@ -10310,7 +10310,7 @@
         },
         {
             "key": "NAME_SKILL_1490",
-            "value": "Deals non-elemental damage. Inflicts\nsleep. Reduces your PHYS DEF and SP\nDEF two ranks."
+            "value": "Deals non-elemental damage. Inflicts\nstun. Reduces your PHYS DEF and SP\nDEF two ranks."
         },
         {
             "key": "NAME_SKILL_1491",
@@ -10810,7 +10810,7 @@
         },
         {
             "key": "NAME_SKILL_1503",
-            "value": "Deals non-elemental damage. Low chance of inflicting sleep."
+            "value": "Deals non-elemental damage. Low chance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1504",
@@ -12342,7 +12342,7 @@
         },
         {
             "key": "NAME_SKILL_1533",
-            "value": "Low chance of unleashing three attacks instead of one when attacking. Low chance of inflicting sleep."
+            "value": "Low chance of unleashing three attacks instead of one when attacking. Low chance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1534",
@@ -12418,7 +12418,7 @@
         },
         {
             "key": "NAME_SKILL_1552",
-            "value": "Increases SPD one rank and vertical jump distance one level. Low chance of putting opponent to sleep when attacked."
+            "value": "Increases SPD one rank and vertical jump distance one level. Low chance of stunning opponent when attacked."
         },
         {
             "key": "NAME_SKILL_1553",
@@ -12434,7 +12434,7 @@
         },
         {
             "key": "NAME_SKILL_1556",
-            "value": "Raises Fire resistance one rank. Less likely to get put to sleep. Restores HP at the start of the turn."
+            "value": "Raises Fire resistance one rank. Less likely to get stunned. Restores HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1557",
@@ -12462,11 +12462,11 @@
         },
         {
             "key": "NAME_SKILL_1563",
-            "value": "Use two attack actions if you haven’t moved. Moderate chance to unleash two attacks when attacking. Low chance to put opponent to sleep when attacked."
+            "value": "Use two attack actions if you haven’t moved. Moderate chance to unleash two attacks when attacking. Low chance to stun opponent when attacked."
         },
         {
             "key": "NAME_SKILL_1564",
-            "value": "Raises damage dealt by Fire attacks two ranks, Fire resistance one rank. Less likely to get put to sleep. Low chance to inflict sleep when attacked."
+            "value": "Raises damage dealt by Fire attacks two ranks, Fire resistance one rank. Less likely to get stunned. Low chance to inflict stun when attacked."
         },
         {
             "key": "NAME_SKILL_1565",
@@ -12498,7 +12498,7 @@
         },
         {
             "key": "NAME_SKILL_1572",
-            "value": "Raises damage dealt by Fire and Dark attacks two ranks. Low chance to inflict sleep when attacked."
+            "value": "Raises damage dealt by Fire and Dark attacks two ranks. Low chance to inflict stun when attacked."
         },
         {
             "key": "NAME_SKILL_1573",
@@ -12558,7 +12558,7 @@
         },
         {
             "key": "NAME_SKILL_1587",
-            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Prevents sleep and confusion."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Prevents stun and confusion."
         },
         {
             "key": "NAME_SKILL_1588",
@@ -12566,7 +12566,7 @@
         },
         {
             "key": "NAME_SKILL_1589",
-            "value": "Prevents sleep and confusion. Ignores a monster’s poor affinity. Raises damage dealt to Wrathful types two more ranks."
+            "value": "Prevents stun and confusion. Ignores a monster’s poor affinity. Raises damage dealt to Wrathful types two more ranks."
         },
         {
             "key": "NAME_SKILL_1590",
@@ -12598,19 +12598,19 @@
         },
         {
             "key": "NAME_SKILL_1597",
-            "value": "Returns a certain amount of damage when hit by a physical attack, with increased damage when guarding. Defends at the end of the turn, raising damage reduction rate two ranks. Low chance of inflicting sleep when attacked."
+            "value": "Returns a certain amount of damage when hit by a physical attack, with increased damage when guarding. Defends at the end of the turn, raising damage reduction rate two ranks. Low chance of inflicting stun when attacked."
         },
         {
             "key": "NAME_SKILL_1598",
-            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting sleep when attacked and of unleashing three attacks when attacking."
+            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting stun when attacked and of unleashing three attacks when attacking."
         },
         {
             "key": "NAME_SKILL_1599",
-            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep. Raises both damage dealt and taken two ranks."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun. Raises both damage dealt and taken two ranks."
         },
         {
             "key": "NAME_SKILL_1600",
-            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents sleep. Randomly reduces one target stat one rank when attacking."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun. Randomly reduces one target stat one rank when attacking."
         },
         {
             "key": "NAME_SKILL_1601",
@@ -12726,15 +12726,15 @@
         },
         {
             "key": "NAME_SKILL_1629",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1630",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1631",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1632",
@@ -12846,15 +12846,15 @@
         },
         {
             "key": "NAME_SKILL_1659",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1660",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1661",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1662",
@@ -12918,7 +12918,7 @@
         },
         {
             "key": "NAME_SKILL_1677",
-            "value": "Deals Dark damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1678",
@@ -13178,7 +13178,7 @@
         },
         {
             "key": "NAME_SKILL_1742",
-            "value": "Deals Earth damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1743",
@@ -13246,7 +13246,7 @@
         },
         {
             "key": "NAME_SKILL_1759",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1760",
@@ -13290,11 +13290,11 @@
         },
         {
             "key": "NAME_SKILL_1770",
-            "value": "Deals Light damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Light damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1771",
-            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square and a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square and a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1772",
@@ -13418,15 +13418,15 @@
         },
         {
             "key": "NAME_SKILL_1802",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1803",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1804",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1805",
@@ -13502,11 +13502,11 @@
         },
         {
             "key": "NAME_SKILL_1823",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1824",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1825",
@@ -13534,11 +13534,11 @@
         },
         {
             "key": "NAME_SKILL_1831",
-            "value": "Deals Earth damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1832",
-            "value": "Deals Earth damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1833",
@@ -13574,11 +13574,11 @@
         },
         {
             "key": "NAME_SKILL_1841",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1842",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1843",
@@ -13606,7 +13606,7 @@
         },
         {
             "key": "NAME_SKILL_1849",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1850",
@@ -13626,11 +13626,11 @@
         },
         {
             "key": "NAME_SKILL_1854",
-            "value": "Deals Water damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Water damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1855",
-            "value": "Deals Water damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Water damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1856",
@@ -13666,19 +13666,19 @@
         },
         {
             "key": "NAME_SKILL_1864",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1865",
-            "value": "Deals Dark damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1866",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1867",
-            "value": "Deals Dark damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1868",
@@ -13738,7 +13738,7 @@
         },
         {
             "key": "NAME_SKILL_1882",
-            "value": "Deals non-elemental damage to target(s), with a\nmoderate chance of putting them to sleep."
+            "value": "Deals non-elemental damage to target(s), with a\nmoderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1883",

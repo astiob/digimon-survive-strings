@@ -950,11 +950,11 @@
         },
         {
             "key": "HELP_DETAIL_SLG_56",
-            "value": "Gaining a status abnormality restricts a unit somehow, preventing them from moving, using skills and more. Said monster will recover after a set number of turns, or by using a Recovery item. Asleep, Frozen and Confused abnormalities are canceled when the afflicted unit gets attacked. Also, equipping certain Enhancement items can raise your resistance to status abnormalities."
+            "value": "Gaining a status abnormality restricts a unit somehow, preventing them from moving, using skills and more. Said monster will recover after a set number of turns, or by using a Recovery item. Stunned, Frozen and Confused abnormalities are canceled when the afflicted unit gets attacked. Also, equipping certain Enhancement items can raise your resistance to status abnormalities."
         },
         {
             "key": "HELP_DETAIL_SLG_57",
-            "value": "<sprite index=120> Asleep, <sprite index=121> Frozen, and <sprite index=123> Paralyzed states render a unit unable to move. <sprite index=122> Poisoned inflicts a set amount of damage every turn, and <sprite index=124> Sealed prevents a unit from using skills. <sprite index=125> Confused renders a unit uncontrollable, causing it to attack itself and its allies."
+            "value": "<sprite index=120> Stunned, <sprite index=121> Frozen, and <sprite index=123> Paralyzed states render a unit unable to move. <sprite index=122> Poisoned inflicts a set amount of damage every turn, and <sprite index=124> Sealed prevents a unit from using skills. <sprite index=125> Confused renders a unit uncontrollable, causing it to attack itself and its allies."
         },
         {
             "key": "HELP_DETAIL_SLG_58",
