@@ -11686,7 +11686,7 @@
         },
         {
             "key": "Tutorial_Battle_087",
-            "value": "Rally Effects last for a set number of turns,\nbut only one character can cheer per battle."
+            "value": "Rally Effects last for a set number of turns, but\neach character can cheer only once per battle."
         },
         {
             "key": "Tutorial_Battle_088",
