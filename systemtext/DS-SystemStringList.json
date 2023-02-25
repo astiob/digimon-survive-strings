@@ -12034,11 +12034,11 @@
         },
         {
             "key": "Tutorial_Battle_022_kb",
-            "value": "Press <sprite index=88> or <sprite index=47> to switch to the cursor."
+            "value": "Press <sprite index=88> to switch to the cursor."
         },
         {
             "key": "Tutorial_Battle_032_kb",
-            "value": "Press <sprite index=88> or <sprite index=47> to switch back from the cursor."
+            "value": "Press <sprite index=88> to switch back from the cursor."
         },
         {
             "key": "Tutorial_Battle_052_kb",
