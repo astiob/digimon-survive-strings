@@ -478,7 +478,7 @@
         },
         {
             "key": "SYS_WORD_0071",
-            "value": "REC"
+            "value": "Recovery"
         },
         {
             "key": "SYS_WORD_0072",
@@ -610,7 +610,7 @@
         },
         {
             "key": "SYS_WORD_0104",
-            "value": "Event Bat."
+            "value": "Event Battle"
         },
         {
             "key": "SYS_WORD_0105",
@@ -618,11 +618,11 @@
         },
         {
             "key": "SYS_WORD_0106",
-            "value": "Expl. Part"
+            "value": "Exploration Part"
         },
         {
             "key": "SYS_WORD_0107",
-            "value": "Free Expl."
+            "value": "Free Explore"
         },
         {
             "key": "SYS_WORD_0108",
@@ -646,7 +646,7 @@
         },
         {
             "key": "SYS_WORD_0113",
-            "value": "Descr."
+            "value": "Description"
         },
         {
             "key": "SYS_WORD_0114",
@@ -674,7 +674,7 @@
         },
         {
             "key": "SYS_WORD_0120",
-            "value": "Res."
+            "value": "Resolution"
         },
         {
             "key": "SYS_WORD_0121",
@@ -702,15 +702,15 @@
         },
         {
             "key": "SYS_WORD_0127",
-            "value": "Key Config."
+            "value": "Key Configuration"
         },
         {
             "key": "SYS_WORD_0128",
-            "value": "BGM/Movie Vol."
+            "value": "BGM/Movie Volume"
         },
         {
             "key": "SYS_WORD_0129",
-            "value": "Env. Volume"
+            "value": "Enviromental Volume"
         },
         {
             "key": "SYS_WORD_0130",
@@ -1642,31 +1642,31 @@
         },
         {
             "key": "NAME_CHARACTER_932_01",
-            "value": "Miyuki Shadow"
+            "value": "Shadow Miyuki"
         },
         {
             "key": "NAME_CHARACTER_933_01",
-            "value": "Haru Shadow"
+            "value": "Shadow Haru"
         },
         {
             "key": "NAME_CHARACTER_934_01",
-            "value": "Kaito Shadow"
+            "value": "Shadow Kaito"
         },
         {
             "key": "NAME_CHARACTER_935_01",
-            "value": "Aoi Shadow"
+            "value": "Shadow Aoi"
         },
         {
             "key": "NAME_CHARACTER_936_01",
-            "value": "Minoru Shadow"
+            "value": "Shadow Minoru"
         },
         {
             "key": "NAME_CHARACTER_937_01",
-            "value": "Saki Shadow"
+            "value": "Shadow Saki"
         },
         {
             "key": "NAME_CHARACTER_938_01",
-            "value": "Miu Shadow"
+            "value": "Shadow Miu"
         },
         {
             "key": "NAME_CHARACTER_940_01",
@@ -7598,11 +7598,11 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0003",
-            "value": "Field Dep."
+            "value": "Field Depth"
         },
         {
             "key": "STEAM_SETTING_TEXT_0004",
-            "value": "Key Config."
+            "value": "Key Configuration"
         },
         {
             "key": "STEAM_SETTING_TEXT_0005",
