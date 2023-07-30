@@ -318,7 +318,7 @@
 		},
 		{
 			"key":"BOOK_bu005",
-			"value":"A monster shaped like a clam and\nsurrounded by a sturdy shell. Thanks\nto its developed shell, its interior\nlooks like an In-Training slime.\nWhen its shell is closed, Syakomon\nboasts a defense high enough to\nrepel small attacks with ease."
+			"value":"A monster shaped like a clam and\nsurrounded by a sturdy shell. Thanks\nto its developed shell, its interior\nlooks like an In-Training slime.\nWhen its shell is closed, Syakomon\nboasts a defense high enough to\nrepel slight attacks with ease."
 		},
 		{
 			"key":"BOOK_bu006",
@@ -546,7 +546,7 @@
 		},
 		{
 			"key":"BOOK_bu211",
-			"value":"A Dark Dragon monster remodeled to destroy everything. Megadramon boasts the strongest and most evil power. Its special move Eradication Attack fires organic missiles from its arms."
+			"value":"A Dark Dragon monster remodeled to destroy everything. Megadramon boasts a most wicked and evil power. Its special move Eradication Attack fires organic missiles from its arms."
 		},
 		{
 			"key":"BOOK_bu212",
@@ -558,7 +558,7 @@
 		},
 		{
 			"key":"BOOK_bu214",
-			"value":"A Bird Humanoid monster with large\ntalons. Garudamon has high\nintelligence and fighting\nfor its type, and it is worshiped\nas a monster only the chosen few\ncan evolve into."
+			"value":"A Bird Humanoid monster with large\ntalons. Garudamon has high\nintelligence and battle prowess\nfor its type, and it is worshiped\nas a monster only the chosen few\ncan evolve into."
 		},
 		{
 			"key":"BOOK_bu215",
@@ -614,11 +614,11 @@
 		},
 		{
 			"key":"BOOK_bu228",
-			"value":"A human-shaped Android monster.\nAndromon’s strength is in a league\nof its own, and it is capable of\ntaking out monsters of Ultimate rank\nor below with a single blow."
+			"value":"A human-shaped Android monster.\nAndromon’s strength is in a league\nof its own, and it is capable of\ntaking out monsters of Ultimate level\nor below with a single blow."
 		},
 		{
 			"key":"BOOK_bu229",
-			"value":"A Fire monster that burns hotter than a Champion-level Meramon. Its special move, Ice Phantom, coats opponents with sub-zero flames."
+			"value":"A Fire monster that burns hotter than the Champion-level Meramon. Its special move, Ice Phantom, coats opponents with sub-zero flames."
 		},
 		{
 			"key":"BOOK_bu230",
@@ -666,7 +666,7 @@
 		},
 		{
 			"key":"BOOK_bu310",
-			"value":"This Emperor monster governs the\nFour Sovereign Monsters and rules\nthe world from its enshrinement in\nthe Center. Fanglongmon’s huge body\nis covered in particles of Fanglong\nOre, a special mineral boasting\nincredible hardness that prevents it\nfrom suffering any injuries."
+			"value":"This Emperor monster governs the\nFour Sovereign Monsters and rules\nthe world from its enshrinement at\nits center. Fanglongmon’s huge body\nis covered in particles of Fanglong\nOre, a special mineral boasting\nincredible hardness that prevents it\nfrom suffering any injuries."
 		},
 		{
 			"key":"BOOK_bu311",
@@ -678,7 +678,7 @@
 		},
 		{
 			"key":"BOOK_bu313",
-			"value":"A Holy monster with four gleaming\ngolden wings. The head of all Bird\nmonsters, it’s said to rule over all\nHoly monsters."
+			"value":"A Holy monster with four gleaming\ngolden wings. The head of all Bird\nmonsters, it’s said to rule over all\nHoly monsters as well."
 		},
 		{
 			"key":"BOOK_bu314",
@@ -746,11 +746,11 @@
 		},
 		{
 			"key":"BOOK_bu330",
-			"value":"Mega form of a Kuwagamon monster.\nParticularly evil for an Insectoid\nmonster, an encounter with\nGranKuwagamon in the spells doom.\nIt normally lives deep within the forests\nof the other world."
+			"value":"Mega form of the Kuwagamon monsters.\nParticularly evil for an Insectoid\nmonster, an encounter with\nGranKuwagamon will spell your doom.\nIt normally lives deep within the forests\nof the other world."
 		},
 		{
 			"key":"BOOK_bu331",
-			"value":"The Mega Puppet monster. Puppetmon\nlooks like a marionette, it can move\nunder its own will. It has a bad\npersonality and often lies."
+			"value":"A Mega Puppet monster. Puppetmon\nlooks like a marionette and can move\nunder its own will. It has a bad\npersonality and often lies."
 		},
 		{
 			"key":"BOOK_bu332",
