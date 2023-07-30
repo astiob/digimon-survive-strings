@@ -302,7 +302,7 @@
 		},
 		{
 			"key":"BOOK_bu001",
-			"value":"A bird-shaped Monster. Its wings are\nnot well-developed, so at most it\ncan only glide. However, its\npowerful legs let it run around\nmountains at breakneck speeds.\nFalcomon excels at swift attacks\nand has a violent disposition."
+			"value":"A bird-shaped monster. Its wings are\nnot well-developed, so at most it\ncan only glide. However, its\npowerful legs let it run around\nmountains at breakneck speeds.\nFalcomon excels at swift attacks\nand has a violent disposition."
 		},
 		{
 			"key":"BOOK_bu002",
@@ -318,7 +318,7 @@
 		},
 		{
 			"key":"BOOK_bu005",
-			"value":"A Monster shaped like a clam and\nsurrounded by a sturdy shell. Thanks\nto its developed shell, its interior\nlooks like an In-Training slime.\nWhen its shell is closed, Syakomon\nboasts a defense high enough to\nrepel small attacks with ease."
+			"value":"A monster shaped like a clam and\nsurrounded by a sturdy shell. Thanks\nto its developed shell, its interior\nlooks like an In-Training slime.\nWhen its shell is closed, Syakomon\nboasts a defense high enough to\nrepel small attacks with ease."
 		},
 		{
 			"key":"BOOK_bu006",
@@ -354,11 +354,11 @@
 		},
 		{
 			"key":"BOOK_bu014",
-			"value":"A Sea Beast Monster covered in warm\nfur that can move on land. The short white\nfur that covers its body grows longer and \nturns brown as it ages."
+			"value":"A Sea Beast monster covered in warm\nfur that can move on land. The short white\nfur that covers its body grows longer and \nturns brown as it ages."
 		},
 		{
 			"key":"BOOK_bu015",
-			"value":"A Rock Monster with powerful\ndefensive abilities, armored in the\nore data from its habitat. This selfish \nMonster becomes a handful when \nangered, rampaging like an \nerupting volcano."
+			"value":"A Rock monster with powerful\ndefensive abilities, armored in the\nore data from its habitat. This selfish \nmonster becomes a handful when \nangered, rampaging like an \nerupting volcano."
 		},
 		{
 			"key":"BOOK_bu016",
@@ -366,7 +366,7 @@
 		},
 		{
 			"key":"BOOK_bu017",
-			"value":"An Amphibian Monster that walks on\nfour legs. Betamon is a docile Monster \nwith a mild temperament, but unleashes\nits special move, Electric Shock, when \nangered, attacking its enemies with \nover a million volts of electric current."
+			"value":"An Amphibian monster that walks on\nfour legs. Betamon is a docile monster \nwith a mild temperament, but unleashes\nits special move, Electric Shock, when \nangered, attacking its enemies with \nover a million volts of electric current."
 		},
 		{
 			"key":"BOOK_bu018",
@@ -374,7 +374,7 @@
 		},
 		{
 			"key":"BOOK_bu019",
-			"value":"This Monster looks like a young\ndinosaur. Guilmon holds both\ngreat potential as the fighting-type\nMonster it originally descended \nfrom and a carnivore’s brutality."
+			"value":"This monster looks like a young\ndinosaur. Guilmon holds both\ngreat potential as the fighting-type\nmonster it originally descended \nfrom and a carnivore’s brutality."
 		},
 		{
 			"key":"BOOK_bu101",
@@ -382,7 +382,7 @@
 		},
 		{
 			"key":"BOOK_bu102",
-			"value":"A slug-like Mollusk Monster.\nIt likes damp, dark places and\nlacks both strength and \nintelligence. It flings its own poop\nto repel enemies."
+			"value":"A slug-like Mollusk monster.\nIt likes damp, dark places and\nlacks both strength and \nintelligence. It flings its own poop\nto repel enemies."
 		},
 		{
 			"key":"BOOK_bu103",
@@ -406,7 +406,7 @@
 		},
 		{
 			"key":"BOOK_bu108",
-			"value":"A monster resembling a dog or wolf. Once\nFangmon sets it sight on prey, it won’t\nlet it get away. It is a heretical\nexistence among Dog or Wolf Monsters,\na true being of darkness."
+			"value":"A monster resembling a dog or wolf. Once\nFangmon sets it sight on prey, it won’t\nlet it get away. It is a heretical\nexistence among Dog or Wolf monsters,\na true being of darkness."
 		},
 		{
 			"key":"BOOK_bu109",
@@ -426,7 +426,7 @@
 		},
 		{
 			"key":"BOOK_bu113",
-			"value":"A Monster shaped like a rhinoceros\nbeetle. The details of its\nevolution to an Insectoid-type\nare unclear, but Kabuterimon boasts\nboth the raw power of an ant and\nthe flawless defense of a beetle.\nIts head is made of metal, offering\nimpregnable protection."
+			"value":"A monster shaped like a rhinoceros\nbeetle. The details of its\nevolution to an Insectoid-type\nare unclear, but Kabuterimon boasts\nboth the raw power of an ant and\nthe flawless defense of a beetle.\nIts head is made of metal, offering\nimpregnable protection."
 		},
 		{
 			"key":"BOOK_bu114",
@@ -502,7 +502,7 @@
 		},
 		{
 			"key":"BOOK_bu132",
-			"value":"Originally Wrathful, this Hunter Monster\nmutated into a Moral type. A brutal\nbeast, they say Dobermon is difficult to\nbring to heel. Its special move is Grau\nLärm."
+			"value":"Originally Wrathful, this Hunter monster\nmutated into a Moral type. A brutal\nbeast, they say Dobermon is difficult to\nbring to heel. Its special move is Grau\nLärm."
 		},
 		{
 			"key":"BOOK_bu201",
@@ -526,7 +526,7 @@
 		},
 		{
 			"key":"BOOK_bu206",
-			"value":"A Vegetation Monster shaped like\na giant flower with countless\ntentacles growing from its body. It has\nan extremely long life span for a plant. \nAs the seasons change, it sheds\nthe petals around its body and is \ncapable of growing new ones."
+			"value":"A Vegetation monster shaped like\na giant flower with countless\ntentacles growing from its body. It has\nan extremely long life span for a plant. \nAs the seasons change, it sheds\nthe petals around its body and is \ncapable of growing new ones."
 		},
 		{
 			"key":"BOOK_bu207",
@@ -534,7 +534,7 @@
 		},
 		{
 			"key":"BOOK_bu208",
-			"value":"A mutated Mysterious Bird Monster\nwith three legs. Its special move,\nSavage Emperor, is a blast of energy \nconcentrated through the tokkosho on\nits wings then shot from its foreleg."
+			"value":"A mutated Mysterious Bird monster\nwith three legs. Its special move,\nSavage Emperor, is a blast of energy \nconcentrated through the tokkosho on\nits wings then shot from its foreleg."
 		},
 		{
 			"key":"BOOK_bu209",
@@ -554,7 +554,7 @@
 		},
 		{
 			"key":"BOOK_bu213",
-			"value":"An evolution of Kabuterimon.\nMegaKabuterimon is very large, 150%\nthe size of your average Insectoid\nMonster. It is renowned for its\nchivalrous nature and is well-known\nfor protecting weaker creatures."
+			"value":"An evolution of Kabuterimon.\nMegaKabuterimon is very large, 150%\nthe size of your average Insectoid\nmonster. It is renowned for its\nchivalrous nature and is well-known\nfor protecting weaker creatures."
 		},
 		{
 			"key":"BOOK_bu214",
@@ -562,7 +562,7 @@
 		},
 		{
 			"key":"BOOK_bu215",
-			"value":"A Pixie Monster born from beautiful\nflower petals. At first glance Lillymon \nlooks like a small child, but it is in fact \na Monster with immeasurable power."
+			"value":"A Pixie monster born from beautiful\nflower petals. At first glance Lillymon \nlooks like a small child, but it is in fact \na monster with immeasurable power."
 		},
 		{
 			"key":"BOOK_bu216",
@@ -574,15 +574,15 @@
 		},
 		{
 			"key":"BOOK_bu218",
-			"value":"A Beast Humanoid Monster that\nevolved from Garurumon, learning\nto walk on two legs. This reduced its\nspeed, but turned it into a \nCommando-type Monster with enhanced\noffensive and defensive power, as well as \na knack for tactics."
+			"value":"A Beast Humanoid monster that\nevolved from Garurumon, learning\nto walk on two legs. This reduced its\nspeed, but turned it into a \nCommando-type Monster with enhanced\noffensive and defensive power, as well as \na knack for tactics."
 		},
 		{
 			"key":"BOOK_bu219",
-			"value":"The king of Undead Monsters that was\nresurrected through the dark arts,\nobtaining mighty powers in the\nprocess. Myotismon has a cruel and\ncunning personality and is quite\nthe difficult Monster to destroy."
+			"value":"The king of Undead monsters that was\nresurrected through the dark arts,\nobtaining mighty powers in the\nprocess. Myotismon has a cruel and\ncunning personality and is quite\nthe difficult monster to destroy."
 		},
 		{
 			"key":"BOOK_bu220",
-			"value":"A bipedal Dinosaur Monster\nresembling a triceratops, with power\ncomparable to that of an herbivorous\ndinosaur. The durability of Triceramon’s \nhide is top class among organic Monsters."
+			"value":"A bipedal Dinosaur monster\nresembling a triceratops, with power\ncomparable to that of an herbivorous\ndinosaur. The durability of Triceramon’s \nhide is top class among organic monsters."
 		},
 		{
 			"key":"BOOK_bu221",
@@ -598,7 +598,7 @@
 		},
 		{
 			"key":"BOOK_bu224",
-			"value":"A Monster resembling a mermaid from\nlegends. Unlike most Monsters,\nsinging is Mermaimon’s forte, and\nshe offers up a charming tune when\nthe occasion warrants."
+			"value":"A monster resembling a mermaid from\nlegends. Unlike most monsters,\nsinging is Mermaimon’s forte, and\nshe offers up a charming tune when\nthe occasion warrants."
 		},
 		{
 			"key":"BOOK_bu225",
@@ -606,15 +606,15 @@
 		},
 		{
 			"key":"BOOK_bu226",
-			"value":"A Beast Humanoid Monster with a\nstrong sense of justice. IceLeomon’s\nwill and body have been tempered by\nthe freezing cold, and no attack can\ncrush it. Its special move, Fist of\nIce, is a freezing punch."
+			"value":"A Beast Humanoid monster with a\nstrong sense of justice. IceLeomon’s\nwill and body have been tempered by\nthe freezing cold, and no attack can\ncrush it. Its special move, Fist of\nIce, is a freezing punch."
 		},
 		{
 			"key":"BOOK_bu227",
-			"value":"At first this seems like a Bird\nMonster, but lush vegetation sprouts\nfrom its back. Deramon is extremely\nprideful and considers itself to be\nof high class, but its inability to \nfly frustrates it."
+			"value":"At first this seems like a Bird\nmonster, but lush vegetation sprouts\nfrom its back. Deramon is extremely\nprideful and considers itself to be\nof high class, but its inability to \nfly frustrates it."
 		},
 		{
 			"key":"BOOK_bu228",
-			"value":"A human-shaped Android Monster.\nAndromon’s strength is in a league\nof its own, and it is capable of\ntaking out Monsters of Ultimate rank\nor below with a single blow."
+			"value":"A human-shaped Android monster.\nAndromon’s strength is in a league\nof its own, and it is capable of\ntaking out monsters of Ultimate rank\nor below with a single blow."
 		},
 		{
 			"key":"BOOK_bu229",
@@ -626,7 +626,7 @@
 		},
 		{
 			"key":"BOOK_bu231",
-			"value":"An Android Monster known as a \"Giant\nGrowlmon.” As its name suggests,\nWarGrowlmon is huge, with half of\nits body made of a powerful chrome-like\nmaterial. The muzzle-like restraints on its\njaw are there to control its immense power."
+			"value":"An Android monster known as a \"Giant\nGrowlmon.” As its name suggests,\nWarGrowlmon is huge, with half of\nits body made of a powerful chrome-like\nmaterial. The muzzle-like restraints on its\njaw are there to control its immense power."
 		},
 		{
 			"key":"BOOK_bu301",
@@ -638,11 +638,11 @@
 		},
 		{
 			"key":"BOOK_bu303",
-			"value":"The strongest Dragon Monster covered\nin a chrome-like armor. WarGreymon is \nmore humanoid than the normally large\nbodies of Greymon types, with vastly \nimproved power and speed."
+			"value":"The strongest Dragon monster covered\nin a chrome-like armor. WarGreymon is \nmore humanoid than the normally large\nbodies of Greymon types, with vastly \nimproved power and speed."
 		},
 		{
 			"key":"BOOK_bu304",
-			"value":"This final form of a Seadramon is\ncompletely covered in the an\nextremely strong metal.\nMetalSeadramon’s metal body can\nreflect any attack, and it has\nthe fastest speed of any Aquatic\nMonster."
+			"value":"This final form of a Seadramon is\ncompletely covered in the an\nextremely strong metal.\nMetalSeadramon’s metal body can\nreflect any attack, and it has\nthe fastest speed of any Aquatic\nmonster."
 		},
 		{
 			"key":"BOOK_bu305",
@@ -670,7 +670,7 @@
 		},
 		{
 			"key":"BOOK_bu311",
-			"value":"With its ten golden wings clad in\nglittering silver holy armor,\nSeraphimon is the greatest of all\nAngel Monsters."
+			"value":"With its ten golden wings clad in\nglittering silver holy armor,\nSeraphimon is the greatest of all\nAngel monsters."
 		},
 		{
 			"key":"BOOK_bu312",
@@ -678,15 +678,15 @@
 		},
 		{
 			"key":"BOOK_bu313",
-			"value":"A Holy Monster with four gleaming\ngolden wings. The head of all Bird\nMonsters, it’s said to rule over all\nHoly Monsters."
+			"value":"A Holy monster with four gleaming\ngolden wings. The head of all Bird\nmonsters, it’s said to rule over all\nHoly monsters."
 		},
 		{
 			"key":"BOOK_bu314",
-			"value":"A Pixie Monster with rose-like\nfeatures, Rosemon is known as the\nqueen of all flowers. With the \nappearance of a lovely woman, \nthis Monster desires eternal\nbeauty."
+			"value":"A Pixie monster with rose-like\nfeatures, Rosemon is known as the\nqueen of all flowers. With the \nappearance of a lovely woman, \nthis monster desires eternal\nbeauty."
 		},
 		{
 			"key":"BOOK_bu315",
-			"value":"This mystical Monster has a refined,\nglistening white appearance. Its\nspecial move, Sorrow Blue, unleashes\na shrill, crystal-clear voice that makes\nthe enemy sorrowful, stripping\ntheir will to fight."
+			"value":"This mystical monster has a refined,\nglistening white appearance. Its\nspecial move, Sorrow Blue, unleashes\na shrill, crystal-clear voice that makes\nthe enemy sorrowful, stripping\ntheir will to fight."
 		},
 		{
 			"key":"BOOK_bu316",
@@ -722,7 +722,7 @@
 		},
 		{
 			"key":"BOOK_bu324",
-			"value":"An absolutely conceited Insectoid\nMonster that lives by overpowering\nthose around it. BanchoStingmon\nprioritizes its pride above all\nelse and is said to be the most\narrogant of all Monsters."
+			"value":"An absolutely conceited Insectoid\nmonster that lives by overpowering\nthose around it. BanchoStingmon\nprioritizes its pride above all\nelse and is said to be the most\narrogant of all monsters."
 		},
 		{
 			"key":"BOOK_bu325",
@@ -734,7 +734,7 @@
 		},
 		{
 			"key":"BOOK_bu327",
-			"value":"A Monster resembling the Egyptian\ngod Anubis, possessing power to\ndetermine if a Monster lives or\ndies. Its special move, Amemit,\nsummons a dark beast from the\nunderworld to devour evil Monsters."
+			"value":"A monster resembling the Egyptian\ngod Anubis, possessing power to\ndetermine if a monster lives or\ndies. Its special move, Amemit,\nsummons a dark beast from the\nunderworld to devour evil monsters."
 		},
 		{
 			"key":"BOOK_bu328",
@@ -746,7 +746,7 @@
 		},
 		{
 			"key":"BOOK_bu330",
-			"value":"Mega form of a Kuwagamon Monster.\nParticularly evil for an Insectoid\nMonster, an encounter with\nGranKuwagamon in the spells doom.\nIt normally lives deep within the forests\nof the other world."
+			"value":"Mega form of a Kuwagamon monster.\nParticularly evil for an Insectoid\nmonster, an encounter with\nGranKuwagamon in the spells doom.\nIt normally lives deep within the forests\nof the other world."
 		},
 		{
 			"key":"BOOK_bu331",
@@ -754,7 +754,7 @@
 		},
 		{
 			"key":"BOOK_bu332",
-			"value":"A Holy Knight Monster. Gallantmon is\nclad in holy armor and wields the\nholy lance Gram in his right hand\nand the holy shield Aegis in his\nleft. His special move, Shield of \nthe Just, fires a purifying beam \nfrom the Aegis."
+			"value":"A Holy Knight monster. Gallantmon is\nclad in holy armor and wields the\nholy lance Gram in his right hand\nand the holy shield Aegis in his\nleft. His special move, Shield of \nthe Just, fires a purifying beam \nfrom the Aegis."
 		},
 		{
 			"key":"BOOK_bu333",
@@ -762,7 +762,7 @@
 		},
 		{
 			"key":"BOOK_bu401",
-			"value":"A tiny Monster that shed the fuzz\ncovering its body and grew even\nbigger. Koromon has learned to move\naround more actively, but is still\nunable to fight. It can produce\nbubbles from its mouth to intimidate\nopponents."
+			"value":"A tiny monster that shed the fuzz\ncovering its body and grew even\nbigger. Koromon has learned to move\naround more actively, but is still\nunable to fight. It can produce\nbubbles from its mouth to intimidate\nopponents."
 		},
 		{
 			"key":"BOOK_bu402",
