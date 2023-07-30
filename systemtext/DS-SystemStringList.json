@@ -1226,23 +1226,23 @@
         },
         {
             "key": "SYS_WORD_0258",
-            "value": "Enable auto-battle."
+            "value": "Enable auto-battle"
         },
         {
             "key": "SYS_WORD_0259",
-            "value": "Suspend the battle and save."
+            "value": "Suspend the battle and save"
         },
         {
             "key": "SYS_WORD_0260",
-            "value": "Display victory and defeat conditions."
+            "value": "Display victory/defeat conditions"
         },
         {
             "key": "SYS_WORD_0261",
-            "value": "Display help."
+            "value": "Display help"
         },
         {
             "key": "SYS_WORD_0262",
-            "value": "Display settings."
+            "value": "Display settings"
         },
         {
             "key": "SAVE_INFO_GAMETITLE",
@@ -10402,7 +10402,7 @@
         },
         {
             "key": "SYS_WORD_8076",
-            "value": "Give up and return to the map.\n*Rewards and items will be lost."
+            "value": "Give up and return to the map\n*Rewards and items will be lost"
         },
         {
             "key": "SYS_WORD_8077",
@@ -10414,7 +10414,7 @@
         },
         {
             "key": "SYS_WORD_8079",
-            "value": "Give up and return to the title screen."
+            "value": "Give up and return to title screen"
         },
         {
             "key": "SYS_WORD_8080",
@@ -10886,7 +10886,7 @@
         },
         {
             "key": "SYS_WORD_8094",
-            "value": "Restart from Beginning"
+            "value": "Restart from beginning"
         },
         {
             "key": "SYS_WORD_8095",
