@@ -2,7 +2,7 @@
     "scenario_text": [
         {
             "key": "EP01_S0630_0100",
-            "value": "(Huh? The snowfall is slowing down?)"
+            "value": "(Huh? The snowfall stopped?)"
         },
         {
             "key": "EP01_S0630_0034",
@@ -50,7 +50,7 @@
         },
         {
             "key": "EP01_S0630_0107",
-            "value": "(Hmm? Has Aoi figured something out?)"
+            "value": "(Hmm? Is Aoi worried about something?)"
         },
         {
             "key": "EP01_S0630_0037",

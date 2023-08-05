@@ -106,7 +106,7 @@
         },
         {
             "key": "HELP_DETAIL_ADV_03",
-            "value": "Karma will effect Agumon’s evolution."
+            "value": "Karma will affect Agumon’s evolution."
         },
         {
             "key": "HELP_DETAIL_ADV_04",
@@ -214,7 +214,7 @@
         },
         {
             "key": "HELP_DETAIL_MAP_03",
-            "value": "<sprite index=3> shows the characters in that location. You can check which characters are where with the character icons in the lower-right part of the Map screen. Agumon isn’t shown since he’s always with you. He may appear in multiple locations when you split up, or when certain events occur. <sprite index=1> shows places where Free Battles will occur. <sprite index=4> displays areas that will use up moves during Free Action."
+            "value": "<sprite index=3> shows the characters in that location. You can check which characters are where with the character icons in the lower-right part of the Map screen. Agumon is usually with you and isn’t shown. A character may appear in multiple locations when you split up or when certain events occur. <sprite index=1> shows places where Free Battles will occur. <sprite index=4> displays areas that will use up moves during Free Action."
         },
         {
             "key": "HELP_NAME_SLG_01",
@@ -550,7 +550,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_34",
-            "value": "When Takuma and friends use the Evolve command on a partner unit, an Evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
+            "value": "When Takuma and friends use the Evolve command on a partner unit, an evolution chart will appear. Evolution requires a certain amount of SP, in exchange for dramatically boosting abilities and changing skills. HP also increases dramatically, but the percentage of damage received before Evolution carries over."
         },
         {
             "key": "HELP_DETAIL_SLG_35",
@@ -614,7 +614,7 @@
         },
         {
             "key": "HELP_DETAIL_SLG_50",
-            "value": "Agumon’s Evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Vaccine (Moral), Data (Harmonious), and Virus (Chaotic)."
+            "value": "Agumon’s evolution is influenced by Takuma’s Karma. Each Karma is linked to a monster type: Moral (Vaccine), Harmony (Data), and Wrathful (Virus)."
         },
         {
             "key": "HELP_DETAIL_SLG_42_p4",
@@ -698,7 +698,7 @@
         },
         {
             "key": "HELP_DETAIL_MENU_07",
-            "value": "After choosing any monster on the Stats screen, you can check Evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their Evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
+            "value": "After choosing any monster on the Stats screen, you can check evolutions from the top tabs. Evolution trees are displayed for each monster, letting you check their evolution paths. *When a Free Monster evolves, their level is maintained but the EXP to their next level is reset."
         },
         {
             "key": "HELP_DETAIL_MENU_08",
@@ -950,11 +950,11 @@
         },
         {
             "key": "HELP_DETAIL_SLG_56",
-            "value": "Gaining a status abnormality restricts a unit somehow, preventing them from moving, using skills and more. Said monster will recover after a set number of turns, or by using a Recovery item. Asleep, Frozen and Confused abnormalities are canceled when the afflicted unit gets attacked. Also, equipping certain Enhancement items can raise your resistance to status abnormalities."
+            "value": "Gaining a status abnormality restricts a unit somehow, preventing them from moving, using skills and more. Said monster will recover after a set number of turns, or by using a Recovery item. Stunned, Frozen and Confused abnormalities are canceled when the afflicted unit gets attacked. Also, equipping certain Enhancement items can raise your resistance to status abnormalities."
         },
         {
             "key": "HELP_DETAIL_SLG_57",
-            "value": "<sprite index=120> Asleep, <sprite index=121> Frozen, and <sprite index=123> Paralyzed states render a unit unable to move. <sprite index=122> Poisoned inflicts a set amount of damage every turn, and <sprite index=124> Sealed prevents a unit from using skills. <sprite index=125> Confused renders a unit uncontrollable, causing it to attack itself and its allies."
+            "value": "<sprite index=120> Stunned, <sprite index=121> Frozen, and <sprite index=123> Paralyzed states render a unit unable to move. <sprite index=122> Poisoned inflicts a set amount of damage every turn, and <sprite index=124> Sealed prevents a unit from using skills. <sprite index=125> Confused renders a unit uncontrollable, causing it to attack itself and its allies."
         },
         {
             "key": "HELP_DETAIL_SLG_58",

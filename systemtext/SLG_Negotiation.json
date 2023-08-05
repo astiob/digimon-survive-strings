@@ -38,7 +38,7 @@
 		},
 		{
 			"key":"EM01_C0001_Q1_A4",
-			"value":"[Just stare at them.]"
+			"value":"[Just stare at it.]"
 		},
 		{
 			"key":"EM01_C0002",
@@ -166,7 +166,7 @@
 		},
 		{
 			"key":"EM01_C0009",
-			"value":"You're not an enemy?\nWhat on earth...?"
+			"value":"You’re not an enemy?\nWhat on earth...?"
 		},
 		{
 			"key":"EM01_C0010",
@@ -778,7 +778,7 @@
 		},
 		{
 			"key":"EM05_C0002",
-			"value":"Supreme beings can't be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
+			"value":"Supreme beings can’t be understood by others.\nBut that doesn’t mean I’m lonely or anything!"
 		},
 		{
 			"key":"EM05_C0002_Q1_A1",
@@ -1066,7 +1066,7 @@
 		},
 		{
 			"key":"EM06_C0007_Q1_A1",
-			"value":"You’re a nice ‘mon."
+			"value":"You’re a nice ’mon."
 		},
 		{
 			"key":"EM06_C0007_Q1_A2",
@@ -1090,7 +1090,7 @@
 		},
 		{
 			"key":"EM06_C0010",
-			"value":"I like you! Today I made a new best friend!"
+			"value":"I like you! Today I found a new soul mate!"
 		},
 		{
 			"key":"EM06_C0011",
@@ -1190,7 +1190,7 @@
 		},
 		{
 			"key":"EM07_C0004_Q1_A1",
-			"value":"[Sing with her.]"
+			"value":"[Sing with it.]"
 		},
 		{
 			"key":"EM07_C0004_Q1_A2",
@@ -1330,7 +1330,7 @@
 		},
 		{
 			"key":"EM08_C0002",
-			"value":"Next! Whaddaya think’d be a good prank?"
+			"value":"Whaddaya think’d be good as my next prank?"
 		},
 		{
 			"key":"EM08_C0002_Q1_A1",
@@ -1690,19 +1690,19 @@
 		},
 		{
 			"key":"EM10_C0001_Q1_A1",
-			"value":"[Give him candy.]"
+			"value":"[Give it candy.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A2",
-			"value":"[Give him water.]"
+			"value":"[Give it water.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A3",
-			"value":"[Give him fruit.]"
+			"value":"[Give it fruit.]"
 		},
 		{
 			"key":"EM10_C0001_Q1_A4",
-			"value":"[Give him vegetables.]"
+			"value":"[Give it vegetables.]"
 		},
 		{
 			"key":"EM10_C0002_01",
@@ -1726,7 +1726,7 @@
 		},
 		{
 			"key":"EM10_C0002_Q1_A4",
-			"value":"[Glare at him.]"
+			"value":"[Glare at it.]"
 		},
 		{
 			"key":"EM10_C0003_01",
@@ -1738,7 +1738,7 @@
 		},
 		{
 			"key":"EM10_C0003_Q1_A1",
-			"value":"Taunt him."
+			"value":"[Taunt it.]"
 		},
 		{
 			"key":"EM10_C0003_Q1_A2",
@@ -1746,11 +1746,11 @@
 		},
 		{
 			"key":"EM10_C0003_Q1_A3",
-			"value":"Sigh at him."
+			"value":"[Sigh at it.]"
 		},
 		{
 			"key":"EM10_C0003_Q1_A4",
-			"value":"Strut around."
+			"value":"[Strut around.]"
 		},
 		{
 			"key":"EM10_C0004_01",
@@ -1766,11 +1766,11 @@
 		},
 		{
 			"key":"EM10_C0004_Q1_A2",
-			"value":"[Keep talking to him.]"
+			"value":"[Keep talking to it.]"
 		},
 		{
 			"key":"EM10_C0004_Q1_A3",
-			"value":"[Lure him with food.]"
+			"value":"[Lure it with food.]"
 		},
 		{
 			"key":"EM10_C0004_Q1_A4",
@@ -1786,7 +1786,7 @@
 		},
 		{
 			"key":"EM10_C0005_Q1_A1",
-			"value":"[Calm him down.]"
+			"value":"[Calm it down.]"
 		},
 		{
 			"key":"EM10_C0005_Q1_A2",
@@ -1798,7 +1798,7 @@
 		},
 		{
 			"key":"EM10_C0005_Q1_A4",
-			"value":"[Stare coldly at him.]"
+			"value":"[Stare coldly at it.]"
 		},
 		{
 			"key":"EM10_C0006",
@@ -1938,7 +1938,7 @@
 		},
 		{
 			"key":"EM11_C0001_Q1_A1",
-			"value":"[Try to soothe him.]"
+			"value":"[Try to soothe it.]"
 		},
 		{
 			"key":"EM11_C0001_Q1_A2",
@@ -1986,7 +1986,7 @@
 		},
 		{
 			"key":"EM11_C0003_Q1_A1",
-			"value":"[Talk to him slowly.]"
+			"value":"[Talk to it slowly.]"
 		},
 		{
 			"key":"EM11_C0003_Q1_A2",
@@ -2054,7 +2054,7 @@
 		},
 		{
 			"key":"EM11_C0006_02",
-			"value":"(The monster shakes his head as he starts\nto leave.)"
+			"value":"(The monster shakes its head as it starts\nto leave.)"
 		},
 		{
 			"key":"EM11_C0006_Q1_A1",
@@ -2062,7 +2062,7 @@
 		},
 		{
 			"key":"EM11_C0006_Q1_A2",
-			"value":"[Speak kindly to him.]"
+			"value":"[Speak kindly to it.]"
 		},
 		{
 			"key":"EM11_C0006_Q1_A3",
@@ -2086,7 +2086,7 @@
 		},
 		{
 			"key":"EM11_C0007_Q1_A2",
-			"value":"[Mimic his posture.]"
+			"value":"[Mimic its posture.]"
 		},
 		{
 			"key":"EM11_C0007_Q1_A3",
@@ -2242,7 +2242,7 @@
 		},
 		{
 			"key":"EM12_C0003_Q1_A4",
-			"value":"What a cool ‘mon!"
+			"value":"What a cool ’mon!"
 		},
 		{
 			"key":"EM12_C0004",
@@ -2662,7 +2662,7 @@
 		},
 		{
 			"key":"EM14_C0006_Q1_A2",
-			"value":"What a nice ‘mon."
+			"value":"What a nice ’mon."
 		},
 		{
 			"key":"EM14_C0006_Q1_A3",
@@ -2818,7 +2818,7 @@
 		},
 		{
 			"key":"EM15_C0005",
-			"value":"You may think of those around you as friends, \nbut perhaps you're actually alone?"
+			"value":"You may think of those around you as friends, \nbut perhaps you’re actually alone?"
 		},
 		{
 			"key":"EM15_C0005_Q1_A1",
@@ -2926,7 +2926,7 @@
 		},
 		{
 			"key":"EM00_C0003",
-			"value":"Shoot, almost had them! Now they’re off in\nthe wind somewhere."
+			"value":"Shoot, almost had it! Now it’s off in\nthe wind somewhere."
 		}
 	]
 }

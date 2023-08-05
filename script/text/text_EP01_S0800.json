@@ -46,7 +46,7 @@
 		},
 		{
 			"key":"EP01_S0800_0012",
-			"value":"A piano, sheet music... Is this a music room?"
+			"value":"A piano, sheet music... Is this the music room?"
 		},
 		{
 			"key":"EP01_S0800_0013",
@@ -122,7 +122,7 @@
 		},
 		{
 			"key":"EP01_S0800_0031",
-			"value":"Yeah. If it hunts you down, you guys won’t\nbe able to even resist."
+			"value":"Yeah. If you get hunted down, you guys\nwon’t be able to even resist."
 		},
 		{
 			"key":"EP01_S0800_0032",
@@ -174,15 +174,15 @@
 		},
 		{
 			"key":"EP01_S0800_0044",
-			"value":"You’re being preyed on by a giant spider. It\nsuddenly took over this place a while back."
+			"value":"The one after you is a giant spider. It moved\nin recently out of the blue and poses as boss."
 		},
 		{
 			"key":"EP01_S0800_0045",
-			"value":"Ohhh, that must be Dokugumon. I hate that\nguy!"
+			"value":"Ohhh, that must be Dokugumon.\nThat guy is nasty!"
 		},
 		{
 			"key":"EP01_S0800_0046",
-			"value":"Its den is in the gym, but the whole place\nis gummed up with webs."
+			"value":"Their den is in the gym, but it is gummed up\nwith webs."
 		},
 		{
 			"key":"EP01_S0800_0047",
@@ -190,7 +190,7 @@
 		},
 		{
 			"key":"EP01_S0800_0048",
-			"value":"It moves in the crawl space and under the\nfloors to get around the school."
+			"value":"They use the crawl space above the ceilings\nand under the floors to get around the school."
 		},
 		{
 			"key":"EP01_S0800_0049",
@@ -198,7 +198,7 @@
 		},
 		{
 			"key":"EP01_S0800_0050",
-			"value":"There’s a secret passage to the routes it\nuses under the cafeteria. Go look for it."
+			"value":"There’s an entrance to the routes they use\nunder the cafeteria floor. Go look for it."
 		},
 		{
 			"key":"EP01_S0800_0051",
@@ -226,7 +226,7 @@
 		},
 		{
 			"key":"EP01_S0800_0057",
-			"value":"Be careful, it won’t give up its prey without\na fight."
+			"value":"Be careful. It won’t give up its prey without\na fight."
 		},
 		{
 			"key":"EP01_S0800_0058",
@@ -258,7 +258,7 @@
 		},
 		{
 			"key":"EP01_S0800_0061",
-			"value":"We’ll be fine. We’ve been in this school long\nbefore it came, so we know where to hide."
+			"value":"We’ll be fine. We’ve been in this school long\nbefore they came, so we know where to hide."
 		},
 		{
 			"key":"EP01_S0800_0062",
@@ -334,7 +334,7 @@
 		},
 		{
 			"key":"EP01_S0800_0080",
-			"value":"Let’s head over to the cafeteria!"
+			"value":"Let’s hurry to the cafeteria, Agumon!"
 		},
 		{
 			"key":"EP01_S0800_0081",

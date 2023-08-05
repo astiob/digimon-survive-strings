@@ -190,7 +190,7 @@
         },
         {
             "key": "SYS_KEY_0048",
-            "value": "Voices On"
+            "value": "Replay Voice"
         },
         {
             "key": "SYS_KEY_0049",
@@ -214,7 +214,7 @@
         },
         {
             "key": "SYS_WORD_0005",
-            "value": "Item"
+            "value": "Items"
         },
         {
             "key": "SYS_WORD_0006",
@@ -258,7 +258,7 @@
         },
         {
             "key": "SYS_WORD_0016",
-            "value": "Skill"
+            "value": "Skills"
         },
         {
             "key": "SYS_WORD_0017",
@@ -558,7 +558,7 @@
         },
         {
             "key": "SYS_WORD_0091",
-            "value": "Reason for Joining"
+            "value": "Reason for joining camp"
         },
         {
             "key": "SYS_WORD_0092",
@@ -618,11 +618,11 @@
         },
         {
             "key": "SYS_WORD_0106",
-            "value": "Expl. Part"
+            "value": "Exploration Part"
         },
         {
             "key": "SYS_WORD_0107",
-            "value": "Free Expl."
+            "value": "Free Exploration"
         },
         {
             "key": "SYS_WORD_0108",
@@ -674,7 +674,7 @@
         },
         {
             "key": "SYS_WORD_0120",
-            "value": "Res."
+            "value": "Resolution"
         },
         {
             "key": "SYS_WORD_0121",
@@ -702,15 +702,15 @@
         },
         {
             "key": "SYS_WORD_0127",
-            "value": "Key Config."
+            "value": "Key Configuration"
         },
         {
             "key": "SYS_WORD_0128",
-            "value": "BGM/Movie Vol."
+            "value": "BGM/Movie Volume"
         },
         {
             "key": "SYS_WORD_0129",
-            "value": "Env. Volume"
+            "value": "Enviromental Volume"
         },
         {
             "key": "SYS_WORD_0130",
@@ -766,7 +766,7 @@
         },
         {
             "key": "SYS_WORD_0143",
-            "value": "Cont."
+            "value": "Continue"
         },
         {
             "key": "SYS_WORD_0144",
@@ -830,11 +830,11 @@
         },
         {
             "key": "SYS_WORD_0159",
-            "value": "No Skill Anim."
+            "value": "Skip Skill Animation"
         },
         {
             "key": "SYS_WORD_0160",
-            "value": "No Move Anim."
+            "value": "Skip Move Animation"
         },
         {
             "key": "SYS_WORD_0161",
@@ -846,7 +846,7 @@
         },
         {
             "key": "SYS_WORD_0163",
-            "value": "Bat. Units"
+            "value": "Battle Units"
         },
         {
             "key": "SYS_WORD_0164",
@@ -1198,7 +1198,7 @@
         },
         {
             "key": "SYS_WORD_0251",
-            "value": "Skip Scene"
+            "value": "Skip scene?"
         },
         {
             "key": "SYS_WORD_0252",
@@ -1226,23 +1226,23 @@
         },
         {
             "key": "SYS_WORD_0258",
-            "value": "Enable auto-battle."
+            "value": "Enable auto-battle"
         },
         {
             "key": "SYS_WORD_0259",
-            "value": "Suspend the battle and save."
+            "value": "Suspend the battle and save"
         },
         {
             "key": "SYS_WORD_0260",
-            "value": "Display victory and defeat conditions."
+            "value": "Display victory/defeat conditions"
         },
         {
             "key": "SYS_WORD_0261",
-            "value": "Display help."
+            "value": "Display help"
         },
         {
             "key": "SYS_WORD_0262",
-            "value": "Display settings."
+            "value": "Display settings"
         },
         {
             "key": "SAVE_INFO_GAMETITLE",
@@ -1270,11 +1270,11 @@
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_SAVING",
-            "value": "Saving Data..."
+            "value": "Saving data..."
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_LOADING",
-            "value": "Loading Data..."
+            "value": "Loading data..."
         },
         {
             "key": "SAVE_UI_SYSTEMDATA_CREATE_NEW",
@@ -1390,7 +1390,7 @@
         },
         {
             "key": "SYS_AUTOSAVE_WARNING",
-            "value": "Initiating autosave."
+            "value": "In this game, progress is saved automatically."
         },
         {
             "key": "SYS_SPLASH_AUTO_SAVING",
@@ -3550,7 +3550,7 @@
         },
         {
             "key": "NAME_SKILL_1016",
-            "value": "Deals Earth damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1017",
@@ -3658,7 +3658,7 @@
         },
         {
             "key": "NAME_SKILL_1043",
-            "value": "Deals Dark damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1044",
@@ -3730,7 +3730,7 @@
         },
         {
             "key": "NAME_SKILL_1061",
-            "value": "Deals Fire damage to target(s). Moderate chance of causing sleep. Low chance of reducing PHYS DEF and SP DEF one rank."
+            "value": "Deals Fire damage to target(s). Moderate chance of causing stun. Low chance of reducing PHYS DEF and SP DEF one rank."
         },
         {
             "key": "NAME_SKILL_1062",
@@ -3738,7 +3738,7 @@
         },
         {
             "key": "NAME_SKILL_1063",
-            "value": "Deals Light damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Light damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1064",
@@ -3754,7 +3754,7 @@
         },
         {
             "key": "NAME_SKILL_1067",
-            "value": "Deals Wind damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Wind damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1068",
@@ -3770,7 +3770,7 @@
         },
         {
             "key": "NAME_SKILL_1071",
-            "value": "Deals Earth damage to target(s), with a moderate chance of knocking them back one square and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of knocking them back one square and stunning them."
         },
         {
             "key": "NAME_SKILL_1072",
@@ -3786,7 +3786,7 @@
         },
         {
             "key": "NAME_SKILL_1075",
-            "value": "Deals non-elemental damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals non-elemental damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1076",
@@ -3794,7 +3794,7 @@
         },
         {
             "key": "NAME_SKILL_1077",
-            "value": "Deals Water damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Water damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1078",
@@ -3938,7 +3938,7 @@
         },
         {
             "key": "NAME_SKILL_1113",
-            "value": "Deals Fire damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Fire damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1114",
@@ -4022,11 +4022,11 @@
         },
         {
             "key": "NAME_SKILL_1134",
-            "value": "Deals Earth damage to target(s), with\na moderate chance of putting them to\nsleep."
+            "value": "Deals Earth damage to target(s), with\na moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1135",
-            "value": "Deals Earth damage to target(s), with\na low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with\na low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1136",
@@ -4126,11 +4126,11 @@
         },
         {
             "key": "NAME_SKILL_1160",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1161",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1162",
@@ -4158,11 +4158,11 @@
         },
         {
             "key": "NAME_SKILL_1168",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1169",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1170",
@@ -4198,11 +4198,11 @@
         },
         {
             "key": "NAME_SKILL_1178",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1179",
-            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1180",
@@ -4230,11 +4230,11 @@
         },
         {
             "key": "NAME_SKILL_1186",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1187",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1188",
@@ -4410,7 +4410,7 @@
         },
         {
             "key": "NAME_SKILL_1241",
-            "value": "Increases SPD one rank, and vertical jump distance one level."
+            "value": "Increases SPD one rank and vertical jump distance one level."
         },
         {
             "key": "NAME_SKILL_1242",
@@ -4426,7 +4426,7 @@
         },
         {
             "key": "NAME_SKILL_1245",
-            "value": "Increases Fire resistance one rank, less likely to get put to sleep."
+            "value": "Increases Fire resistance one rank, less likely to get stunned."
         },
         {
             "key": "NAME_SKILL_1246",
@@ -4450,7 +4450,7 @@
         },
         {
             "key": "NAME_SKILL_1251",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to get frozen."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to get frozen."
         },
         {
             "key": "NAME_SKILL_1252",
@@ -4458,7 +4458,7 @@
         },
         {
             "key": "NAME_SKILL_1253",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Less likely to get put to sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Less likely to get stunned."
         },
         {
             "key": "NAME_SKILL_1254",
@@ -4466,7 +4466,7 @@
         },
         {
             "key": "NAME_SKILL_1255",
-            "value": "Raises damage dealt by Wind attacks two ranks, and Wind resistance one rank. Less likely to get paralyzed."
+            "value": "Raises damage dealt by Wind attacks two ranks and Wind resistance one rank. Less likely to get paralyzed."
         },
         {
             "key": "NAME_SKILL_1256",
@@ -4490,11 +4490,11 @@
         },
         {
             "key": "NAME_SKILL_1261",
-            "value": "Raises damage dealt by Fire attacks two ranks, and by Dark attacks one rank."
+            "value": "Raises damage dealt by Fire attacks two ranks and by Dark attacks one rank."
         },
         {
             "key": "NAME_SKILL_1262",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Less likely to get confused."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Less likely to get confused."
         },
         {
             "key": "NAME_SKILL_1263",
@@ -4506,7 +4506,7 @@
         },
         {
             "key": "NAME_SKILL_1265",
-            "value": "Raises damage dealt by Earth two ranks, and by Wind attacks one rank."
+            "value": "Raises damage dealt by Earth two ranks and by Wind attacks one rank."
         },
         {
             "key": "NAME_SKILL_1266",
@@ -4522,11 +4522,11 @@
         },
         {
             "key": "NAME_SKILL_1269",
-            "value": "Raises damage dealt by Dark attacks two ranks,\nand Dark resistance one rank. Less likely to get\nconfused."
+            "value": "Raises damage dealt by Dark attacks two ranks\nand Dark resistance one rank. Less likely to get\nconfused."
         },
         {
             "key": "NAME_SKILL_1270",
-            "value": "Raises PHYS DEF and SP DEF one rank, and recovers HP at the start of the turn."
+            "value": "Raises PHYS DEF and SP DEF one rank and recovers HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1271",
@@ -4542,15 +4542,15 @@
         },
         {
             "key": "NAME_SKILL_1274",
-            "value": "Makes it easier for allies to provide Battle Backup, and increases its effect two ranks."
+            "value": "Makes it easier for allies to provide Battle Backup and increases its effect two ranks."
         },
         {
             "key": "NAME_SKILL_1275",
-            "value": "Raises damage dealt by Light and Dark attacks one rank, and increases all elemental resistances one rank."
+            "value": "Raises damage dealt by Light and Dark attacks one rank and increases all elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1276",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to be put to sleep or confused."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to be stunned or confused."
         },
         {
             "key": "NAME_SKILL_1277",
@@ -4558,7 +4558,7 @@
         },
         {
             "key": "NAME_SKILL_1278",
-            "value": "Prevents sleep and confusion."
+            "value": "Prevents stun and confusion."
         },
         {
             "key": "NAME_SKILL_1279",
@@ -4570,7 +4570,7 @@
         },
         {
             "key": "NAME_SKILL_1281",
-            "value": "Raises PHYS ATK one rank, and increases damage dealt by Fire attacks two ranks."
+            "value": "Raises PHYS ATK one rank and increases damage dealt by Fire attacks two ranks."
         },
         {
             "key": "NAME_SKILL_1282",
@@ -4582,7 +4582,7 @@
         },
         {
             "key": "NAME_SKILL_1284",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun."
         },
         {
             "key": "NAME_SKILL_1285",
@@ -4614,7 +4614,7 @@
         },
         {
             "key": "NAME_SKILL_1292",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Prevents sealing and confusion."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Prevents sealing and confusion."
         },
         {
             "key": "NAME_SKILL_1293",
@@ -4622,7 +4622,7 @@
         },
         {
             "key": "NAME_SKILL_1294",
-            "value": "Raises damage dealt by Light attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1295",
@@ -4646,7 +4646,7 @@
         },
         {
             "key": "NAME_SKILL_1300",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of\nputting target(s) to sleep when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of\nstunning target(s) when attacking."
         },
         {
             "key": "NAME_SKILL_1301",
@@ -4662,7 +4662,7 @@
         },
         {
             "key": "NAME_SKILL_1304",
-            "value": "Raises damage dealt by Light attacks two ranks, and raises strength of recovery effects two ranks. Prevents sealing."
+            "value": "Raises damage dealt by Light attacks two ranks and raises strength of recovery effects two ranks. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1305",
@@ -4750,7 +4750,7 @@
         },
         {
             "key": "NAME_SKILL_1326",
-            "value": "Does damage to enemy units on their turn, with\na low chance of inflicting Sleep."
+            "value": "Does damage to enemy units on their turn, with\na low chance of inflicting Stun."
         },
         {
             "key": "NAME_SKILL_1327",
@@ -4946,15 +4946,15 @@
         },
         {
             "key": "NAME_SKILL_1400",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1401",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1402",
-            "value": "Deals Fire damage. Low chance of\ninflicting sleep."
+            "value": "Deals Fire damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1410",
@@ -4970,15 +4970,15 @@
         },
         {
             "key": "NAME_SKILL_1420",
-            "value": "Deals Earth damage. Moderate chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Moderate chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1421",
-            "value": "Deals Earth damage. Low chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1422",
-            "value": "Deals Earth damage. Low chance of\ninflicting sleep."
+            "value": "Deals Earth damage. Low chance of\ninflicting stun."
         },
         {
             "key": "NAME_SKILL_1430",
@@ -5018,7 +5018,7 @@
         },
         {
             "key": "NAME_SKILL_1460",
-            "value": "Deals non-elemental damage. High\nchance of inflicting sleep."
+            "value": "Deals non-elemental damage. High\nchance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1461",
@@ -5374,7 +5374,7 @@
         },
         {
             "key": "NAME_ITEM_0325",
-            "value": "Anti-Sleep Crystal"
+            "value": "Anti-Stun Crystal"
         },
         {
             "key": "NAME_ITEM_0326",
@@ -5606,7 +5606,7 @@
         },
         {
             "key": "NAME_ITEM_1305",
-            "value": "PHYS ATK+II, SP ATK+II, Taunt\nI see sparks and eyeballs. Does this\naffect attacking, or attraction?"
+            "value": "PHYS ATK+II, SP ATK+II, Taunt\nI see sparks and eyeballs. Does this\naffect attacking or attraction?"
         },
         {
             "key": "NAME_ITEM_1306",
@@ -5642,7 +5642,7 @@
         },
         {
             "key": "NAME_ITEM_1314",
-            "value": "Light Resistance+II\nThe shining light pattern is surrounded.\nLike a shield guarding against it."
+            "value": "Light Resistance+II\nThe shining light pattern is framed.\nLike a shield guarding against it."
         },
         {
             "key": "NAME_ITEM_1315",
@@ -5650,7 +5650,7 @@
         },
         {
             "key": "NAME_ITEM_1316",
-            "value": "Fire Resistance+I, Sleep Resistance\nA mark of star and flame. They’re\nsurrounded, it protects against them?"
+            "value": "Fire Resistance+I, Stun Resistance\nA mark of star and flame. They’re\nframed. It protects against them?"
         },
         {
             "key": "NAME_ITEM_1317",
@@ -5666,11 +5666,11 @@
         },
         {
             "key": "NAME_ITEM_1320",
-            "value": "Light Resistance+I, Seal Resistance\nA light mark, and some kind of seal?\nDoes this protect against those things?"
+            "value": "Light Resistance+I, Seal Resistance\nA light mark and some kind of seal?\nDoes this protect against those things?"
         },
         {
             "key": "NAME_ITEM_1321",
-            "value": "Dark Resistance+I, Confusion Resistance\nA dark sun and question mark surrounded.\nThe hexagonal mark protects."
+            "value": "Dark Resistance+I, Confusion Resistance\nA dark sun and question mark framed.\nThe hexagonal mark protects."
         },
         {
             "key": "NAME_ITEM_1322",
@@ -5678,15 +5678,15 @@
         },
         {
             "key": "NAME_ITEM_1323",
-            "value": "Sleep/Poison/Seal Resistance\nStars, foam and a seal, surrounded. So\nthose three things are fenced in?"
+            "value": "Stun/Poison/Seal Resistance\nStars, foam and a seal, framed. So\nthose three things are fenced in?"
         },
         {
             "key": "NAME_ITEM_1324",
-            "value": "Freeze/Paralysis/Confusion Resistance\nA crystal, lightning and question mark,\nsurrounded. Guards against all three?"
+            "value": "Freeze/Paralysis/Confusion Resistance\nA crystal, lightning and question mark,\nframed. Guards against all three?"
         },
         {
             "key": "NAME_ITEM_1325",
-            "value": "Nullify Sleep\nA star hovers over a huge X. Does that\nmean the stars won’t work?"
+            "value": "Nullify Stun\nA star hovers over a huge X. Does that\nmean the stars won’t work?"
         },
         {
             "key": "NAME_ITEM_1326",
@@ -6026,7 +6026,7 @@
         },
         {
             "key": "NAME_LOCATION_051",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_052",
@@ -6146,7 +6146,7 @@
         },
         {
             "key": "NAME_LOCATION_075",
-            "value": "Ruined Apartment"
+            "value": "Ruined Apartment Complexes"
         },
         {
             "key": "NAME_LOCATION_076",
@@ -6166,7 +6166,7 @@
         },
         {
             "key": "NAME_LOCATION_079",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_080",
@@ -6246,7 +6246,7 @@
         },
         {
             "key": "NAME_LOCATION_094",
-            "value": "Master's World+"
+            "value": "Master’s World+"
         },
         {
             "key": "NAME_LOCATION_095",
@@ -6346,7 +6346,7 @@
         },
         {
             "key": "NAME_LOCATION_717",
-            "value": "Inner Shrine Ent."
+            "value": "Inner Shrine Entrance"
         },
         {
             "key": "NAME_LOCATION_521",
@@ -6662,7 +6662,7 @@
         },
         {
             "key": "NAME_LOCATION_668",
-            "value": "Woods by Apartment"
+            "value": "Woods by Apartments"
         },
         {
             "key": "NAME_LOCATION_669",
@@ -6958,7 +6958,7 @@
         },
         {
             "key": "DESC_LOCATION_042",
-            "value": "The crest of the dam. It has a height of\nabout 300 ft, and spans more than 800 ft\nfrom end to end."
+            "value": "The crest of the dam. It has a height of\nabout 300 ft and spans more than 800 ft\nfrom end to end."
         },
         {
             "key": "DESC_LOCATION_306",
@@ -7130,7 +7130,7 @@
         },
         {
             "key": "DESC_LOCATION_076",
-            "value": "The western end of the complex. There\nare signs of where children once played,\nand old cars, but it too is abandoned."
+            "value": "The western end of the complex. There\nare signs of where children once played\nand old cars, but it too is abandoned."
         },
         {
             "key": "DESC_LOCATION_077",
@@ -7234,19 +7234,19 @@
         },
         {
             "key": "DESC_LOCATION_096",
-            "value": "Master's World"
+            "value": "Master’s World"
         },
         {
             "key": "DESC_LOCATION_097",
-            "value": "Master's World"
+            "value": "Master’s World"
         },
         {
             "key": "DESC_LOCATION_098",
-            "value": "Master's World"
+            "value": "Master’s World"
         },
         {
             "key": "DESC_LOCATION_099",
-            "value": "Master's World"
+            "value": "Master’s World"
         },
         {
             "key": "DESC_LOCATION_501",
@@ -7266,7 +7266,7 @@
         },
         {
             "key": "DESC_LOCATION_505",
-            "value": "The door to the gym. It doesn’t fit well\nin its frame, and is difficult to open\nor close."
+            "value": "The door to the gym. It doesn’t fit well\nin its frame and is difficult to open\nor close."
         },
         {
             "key": "DESC_LOCATION_511",
@@ -7598,11 +7598,11 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0003",
-            "value": "Field Dep."
+            "value": "Field Depth"
         },
         {
             "key": "STEAM_SETTING_TEXT_0004",
-            "value": "Key Config."
+            "value": "Key Configuration"
         },
         {
             "key": "STEAM_SETTING_TEXT_0005",
@@ -7622,7 +7622,7 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0009",
-            "value": "Initialize"
+            "value": "Reset to defaults"
         },
         {
             "key": "STEAM_SETTING_TEXT_0010",
@@ -7658,63 +7658,63 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0018",
-            "value": "16:9 1,280 x 720"
+            "value": "16:9 1280×720"
         },
         {
             "key": "STEAM_SETTING_TEXT_0019",
-            "value": "16:9 1,366 x 768"
+            "value": "16:9 1366×768"
         },
         {
             "key": "STEAM_SETTING_TEXT_0020",
-            "value": "16:9 1,600 x 900"
+            "value": "16:9 1600×900"
         },
         {
             "key": "STEAM_SETTING_TEXT_0021",
-            "value": "16:9 1,920 x 1,080"
+            "value": "16:9 1920×1080"
         },
         {
             "key": "STEAM_SETTING_TEXT_0022",
-            "value": "16:9 2,048 x 1,152"
+            "value": "16:9 2048×1152"
         },
         {
             "key": "STEAM_SETTING_TEXT_0023",
-            "value": "16:9 2,560 x 1,440"
+            "value": "16:9 2560×1440"
         },
         {
             "key": "STEAM_SETTING_TEXT_0024",
-            "value": "16:9 2,880 x 1,620"
+            "value": "16:9 2880×1620"
         },
         {
             "key": "STEAM_SETTING_TEXT_0025",
-            "value": "16:9 3,200 x 1,800"
+            "value": "16:9 3200×1800"
         },
         {
             "key": "STEAM_SETTING_TEXT_0026",
-            "value": "16:9 3,840 x 2,160"
+            "value": "16:9 3840×2160"
         },
         {
             "key": "STEAM_SETTING_TEXT_0027",
-            "value": "16:10 1,280 x 800"
+            "value": "16:10 1280×800"
         },
         {
             "key": "STEAM_SETTING_TEXT_0028",
-            "value": "16:10 1,440 x 900"
+            "value": "16:10 1440×900"
         },
         {
             "key": "STEAM_SETTING_TEXT_0029",
-            "value": "16:10 1,680 x 1,050"
+            "value": "16:10 1680×1050"
         },
         {
             "key": "STEAM_SETTING_TEXT_0030",
-            "value": "16:10 1,920 x 1,200"
+            "value": "16:10 1920×1200"
         },
         {
             "key": "STEAM_SETTING_TEXT_0031",
-            "value": "16:10 2,560 x 1,600"
+            "value": "16:10 2560×1600"
         },
         {
             "key": "STEAM_SETTING_TEXT_0032",
-            "value": "16:10 3,830 x 2,400"
+            "value": "16:10 3830×2400"
         },
         {
             "key": "STEAM_SETTING_TEXT_0033",
@@ -7734,67 +7734,67 @@
         },
         {
             "key": "STEAM_SETTING_TEXT_0037",
-            "value": "1,280 x 720"
+            "value": "1280×720"
         },
         {
             "key": "STEAM_SETTING_TEXT_0038",
-            "value": "1,366 x 768"
+            "value": "1366×768"
         },
         {
             "key": "STEAM_SETTING_TEXT_0039",
-            "value": "1,600 x 900"
+            "value": "1600×900"
         },
         {
             "key": "STEAM_SETTING_TEXT_0040",
-            "value": "1,920 x 1,080"
+            "value": "1920×1080"
         },
         {
             "key": "STEAM_SETTING_TEXT_0041",
-            "value": "2,048 x 1,152"
+            "value": "2048×1152"
         },
         {
             "key": "STEAM_SETTING_TEXT_0042",
-            "value": "2,560 x 1,440"
+            "value": "2560×1440"
         },
         {
             "key": "STEAM_SETTING_TEXT_0043",
-            "value": "2,880 x 1,620"
+            "value": "2880×1620"
         },
         {
             "key": "STEAM_SETTING_TEXT_0044",
-            "value": "3,200 x 1,800"
+            "value": "3200×1800"
         },
         {
             "key": "STEAM_SETTING_TEXT_0045",
-            "value": "3,840 x 2,160"
+            "value": "3840×2160"
         },
         {
             "key": "STEAM_SETTING_TEXT_0046",
-            "value": "1,280 x 800"
+            "value": "1280×800"
         },
         {
             "key": "STEAM_SETTING_TEXT_0047",
-            "value": "1,440 x 900"
+            "value": "1440×900"
         },
         {
             "key": "STEAM_SETTING_TEXT_0048",
-            "value": "1,680 x 1,050"
+            "value": "1680×1050"
         },
         {
             "key": "STEAM_SETTING_TEXT_0049",
-            "value": "1,920 x 1,200"
+            "value": "1920×1200"
         },
         {
             "key": "STEAM_SETTING_TEXT_0050",
-            "value": "2,560 x 1,600"
+            "value": "2560×1600"
         },
         {
             "key": "STEAM_SETTING_TEXT_0051",
-            "value": "3,830 x 2,400"
+            "value": "3830×2400"
         },
         {
             "key": "STEAM_SETTING_TEXT_0052",
-            "value": "This will return all settings to their initial values."
+            "value": "Return all settings to their default values?"
         },
         {
             "key": "STEAM_SETTING_TEXT_0053",
@@ -8034,7 +8034,7 @@
         },
         {
             "key": "SYS_WORD_4024",
-            "value": "Initialize"
+            "value": "Reset to defaults"
         },
         {
             "key": "SYS_WORD_4025",
@@ -8050,11 +8050,11 @@
         },
         {
             "key": "SYS_WORD_4028",
-            "value": "Unread"
+            "value": "All Text"
         },
         {
             "key": "SYS_WORD_4029",
-            "value": "Read"
+            "value": "Previously Read"
         },
         {
             "key": "SYS_WORD_4030",
@@ -8130,15 +8130,15 @@
         },
         {
             "key": "SYS_WORD_4048",
-            "value": "Quit Game"
+            "value": "Quit game?"
         },
         {
             "key": "SYS_WORD_4049",
-            "value": "Save and quit."
+            "value": "Save and quit?"
         },
         {
             "key": "SYS_WORD_4050",
-            "value": "Quit without saving."
+            "value": "Quit without saving?"
         },
         {
             "key": "SYS_WORD_4051",
@@ -8646,11 +8646,11 @@
         },
         {
             "key": "NAME_TACTICS_012",
-            "value": "Add proactive Evolution to use the Destroy\ntactic at full force."
+            "value": "Same as “Destroy” with added proactive evolution to fight at full force."
         },
         {
             "key": "NAME_TACTICS_013",
-            "value": "Add recovery skills to use the Destroy tactic with\ncaution."
+            "value": "Same as “Destroy” with added use of recovery skills when the situation calls for it."
         },
         {
             "key": "NAME_TACTICS_014",
@@ -9098,7 +9098,7 @@
         },
         {
             "key": "NAME_BAD_STATUS_001",
-            "value": "Asleep"
+            "value": "Stunned"
         },
         {
             "key": "NAME_BAD_STATUS_002",
@@ -9250,7 +9250,7 @@
         },
         {
             "key": "SYS_WORD_4100",
-            "value": "Characters"
+            "value": "Character"
         },
         {
             "key": "SYS_WORD_ROUTE_01",
@@ -9426,7 +9426,7 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_001",
-            "value": "Monster"
+            "value": "Monsters"
         },
         {
             "key": "SYS_WORD_LIBRARY_002",
@@ -9434,11 +9434,11 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_003",
-            "value": "Skill-Equip Items"
+            "value": "Skill Items"
         },
         {
             "key": "SYS_WORD_LIBRARY_004",
-            "value": "Enhanc-Equip Items"
+            "value": "Enhancements"
         },
         {
             "key": "SYS_WORD_LIBRARY_005",
@@ -9462,7 +9462,7 @@
         },
         {
             "key": "SYS_WORD_LIBRARY_010",
-            "value": "Skill-Equip Items"
+            "value": "Skill Items"
         },
         {
             "key": "SYS_WORD_LIBRARY_011",
@@ -9594,7 +9594,7 @@
         },
         {
             "key": "LANGUAGE_CHANGE_CONFIRM_01",
-            "value": "Switch to selected\nlanguage?"
+            "value": "Switch to selected language?"
         },
         {
             "key": "LANGUAGE_CHANGE_CONFIRM_02",
@@ -10046,7 +10046,7 @@
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_002",
-            "value": "All annihilated."
+            "value": "All allies annihilated."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_003",
@@ -10230,7 +10230,7 @@
         },
         {
             "key": "SYS_WORD_0091_02",
-            "value": "Reason for camping"
+            "value": "Before meeting Takuma"
         },
         {
             "key": "SYS_WORD_8053",
@@ -10310,7 +10310,7 @@
         },
         {
             "key": "NAME_SKILL_1490",
-            "value": "Deals non-elemental damage. Inflicts\nsleep. Reduces your PHYS DEF and SP\nDEF two ranks."
+            "value": "Deals non-elemental damage. Inflicts\nstun. Reduces your PHYS DEF and SP\nDEF two ranks."
         },
         {
             "key": "NAME_SKILL_1491",
@@ -10382,7 +10382,7 @@
         },
         {
             "key": "NAME_ITEM_1336",
-            "value": "Double Attack (Doesn't Stack), Stats Boost\nThis crystal gives off a real violent\nvibe... Baddies better beware!"
+            "value": "Double Attack (Doesn’t Stack), Stats Boost\nThis crystal gives off a real violent\nvibe... Baddies better beware!"
         },
         {
             "key": "SYS_WORD_8072",
@@ -10402,7 +10402,7 @@
         },
         {
             "key": "SYS_WORD_8076",
-            "value": "Give up and return to the map.\n*Rewards and items will be lost."
+            "value": "Give up and return to the map\n*Rewards and items will be lost"
         },
         {
             "key": "SYS_WORD_8077",
@@ -10414,7 +10414,7 @@
         },
         {
             "key": "SYS_WORD_8079",
-            "value": "Give up and return to the title."
+            "value": "Give up and return to title screen"
         },
         {
             "key": "SYS_WORD_8080",
@@ -10518,7 +10518,7 @@
         },
         {
             "key": "NAME_ITEM_1341",
-            "value": "PHYS ATK+III, SP ATK+III, Taunt\nI see sparks and eyeballs. Does this\naffect attacking, or attraction?"
+            "value": "PHYS ATK+III, SP ATK+III, Taunt\nI see sparks and eyeballs. Does this\naffect attacking or attraction?"
         },
         {
             "key": "NAME_ITEM_1342",
@@ -10562,7 +10562,7 @@
         },
         {
             "key": "NAME_ITEM_1352",
-            "value": "Light Resistance+III\nThe shining light pattern is surrounded.\nLike a shield guarding against it."
+            "value": "Light Resistance+III\nThe shining light pattern is framed.\nLike a shield guarding against it."
         },
         {
             "key": "NAME_ITEM_1353",
@@ -10630,7 +10630,7 @@
         },
         {
             "key": "NAME_ITEM_1514",
-            "value": "A ring Aoi’s father gave to her. It didn’t \nfit when she was a kid. She’s held \nontoit ever since, looking forward to \nthe day it fits."
+            "value": "A ring Aoi’s father gave to her. It didn’t \nfit when she was a kid. She’s held \non to it ever since, looking forward to \nthe day it fits."
         },
         {
             "key": "NAME_ITEM_1515",
@@ -10650,7 +10650,7 @@
         },
         {
             "key": "NAME_ITEM_1519",
-            "value": "A mysterious talisman of the Shinonome \nfamily. She says her grandpa could see \nthings. I don’t get it, but her family’s held \nonto it for generations."
+            "value": "A mysterious talisman of the Shinonome \nfamily. She says her grandpa could see \nthings. I don’t get it, but her family’s held \non to it for generations."
         },
         {
             "key": "NAME_ITEM_1520",
@@ -10682,7 +10682,7 @@
         },
         {
             "key": "SYS_WORD_PRESS_ANY_BUTTON",
-            "value": "Press Any Button"
+            "value": "Press any button"
         },
         {
             "key": "NAME_LOCATION_103",
@@ -10810,7 +10810,7 @@
         },
         {
             "key": "NAME_SKILL_1503",
-            "value": "Deals non-elemental damage. Low chance of inflicting sleep."
+            "value": "Deals non-elemental damage. Low chance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1504",
@@ -10886,11 +10886,11 @@
         },
         {
             "key": "SYS_WORD_8094",
-            "value": "Restart from Beginning"
+            "value": "Restart from beginning"
         },
         {
             "key": "SYS_WORD_8095",
-            "value": "Return to Start of Battle"
+            "value": "Return to start of battle?"
         },
         {
             "key": "SYS_WORD_8096",
@@ -10918,7 +10918,7 @@
         },
         {
             "key": "NAME_ITEM_1115",
-            "value": "Slightly boosts target's EXP.\nFor some reason, those guys seem to get\nstronger when we give them this stone."
+            "value": "Slightly boosts target’s EXP.\nFor some reason, those guys seem to get\nstronger when we give them this stone."
         },
         {
             "key": "NAME_ITEM_0116",
@@ -10926,7 +10926,7 @@
         },
         {
             "key": "NAME_ITEM_1116",
-            "value": "Boosts target's EXP.\nMaybe this stone will give our buddies\nmore of a fighting chance."
+            "value": "Boosts target’s EXP.\nMaybe this stone will give our buddies\nmore of a fighting chance."
         },
         {
             "key": "NAME_ITEM_0117",
@@ -10934,7 +10934,7 @@
         },
         {
             "key": "NAME_ITEM_1117",
-            "value": "Greatly boosts target's EXP.\nWhat'll a stone this big even do to one\nof those guys?"
+            "value": "Greatly boosts target’s EXP.\nWhat’ll a stone this big even do to one\nof those guys?"
         },
         {
             "key": "NAME_DTYPE_052",
@@ -10974,7 +10974,7 @@
         },
         {
             "key": "Tutorial_002",
-            "value": "Skip the tutorial."
+            "value": "Skip the tutorial?"
         },
         {
             "key": "Tutorial_Adv_001",
@@ -11194,7 +11194,7 @@
         },
         {
             "key": "Tutorial_Adv_055",
-            "value": "This screen shows your team members’ abilities\nand equipment, plus their Evolution level."
+            "value": "This screen shows your team members’ abilities\nand equipment, plus their evolution level."
         },
         {
             "key": "Tutorial_Adv_056",
@@ -11334,7 +11334,7 @@
         },
         {
             "key": "Tutorial_Map_025",
-            "value": "Your Affinities influence Battle Backup actions\nin battle and play a large role in Evolution,"
+            "value": "Your Affinities influence Battle Backup actions\nin battle and play a large role in evolution,"
         },
         {
             "key": "Tutorial_Map_026",
@@ -11650,7 +11650,7 @@
         },
         {
             "key": "Tutorial_Battle_078",
-            "value": "Your Affinity will change based on choices you\nmake in the story, and can be crucial in battle."
+            "value": "Your Affinity will change based on choices you\nmake in the story and can be crucial in battle."
         },
         {
             "key": "Tutorial_Battle_079",
@@ -11686,7 +11686,7 @@
         },
         {
             "key": "Tutorial_Battle_087",
-            "value": "Rally Effects last for a set number of turns,\nbut only one character can cheer per battle."
+            "value": "Rally Effects last for a set number of turns, but\neach character can cheer only once per battle."
         },
         {
             "key": "Tutorial_Battle_088",
@@ -12162,11 +12162,11 @@
         },
         {
             "key": "SYS_WORD_PRESS_ANY_BUTTON_sw",
-            "value": "Press Any Button"
+            "value": "Press any button"
         },
         {
             "key": "SYS_WORD_PRESS_ANY_BUTTON_xb",
-            "value": "Press Any Button"
+            "value": "Press any button"
         },
         {
             "key": "SYS_KEY_0052",
@@ -12194,11 +12194,11 @@
         },
         {
             "key": "SYS_WORD_8104",
-            "value": "SK ATK"
+            "value": "SP ATK"
         },
         {
             "key": "SYS_WORD_8105",
-            "value": "SK DEF"
+            "value": "SP DEF"
         },
         {
             "key": "SYS_WORD_8106",
@@ -12342,7 +12342,7 @@
         },
         {
             "key": "NAME_SKILL_1533",
-            "value": "Low chance of unleashing three attacks instead of one when attacking. Low chance of inflicting sleep."
+            "value": "Low chance of unleashing three attacks instead of one when attacking. Low chance of inflicting stun."
         },
         {
             "key": "NAME_SKILL_1534",
@@ -12362,7 +12362,7 @@
         },
         {
             "key": "NAME_SKILL_1538",
-            "value": "Raise damage dealt by Water attacks two ranks, and Water resistance one rank. Raises SP ATK one rank."
+            "value": "Raise damage dealt by Water attacks two ranks and Water resistance one rank. Raises SP ATK one rank."
         },
         {
             "key": "NAME_SKILL_1539",
@@ -12418,7 +12418,7 @@
         },
         {
             "key": "NAME_SKILL_1552",
-            "value": "Increases SPD one rank, and vertical jump distance one level. Low chance of putting opponent to sleep when attacked."
+            "value": "Increases SPD one rank and vertical jump distance one level. Low chance of stunning opponent when attacked."
         },
         {
             "key": "NAME_SKILL_1553",
@@ -12434,7 +12434,7 @@
         },
         {
             "key": "NAME_SKILL_1556",
-            "value": "Raises Fire resistance one rank. Less likely to get put to sleep. Restores HP at the start of the turn."
+            "value": "Raises Fire resistance one rank. Less likely to get stunned. Restores HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1557",
@@ -12458,15 +12458,15 @@
         },
         {
             "key": "NAME_SKILL_1562",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Less likely to get frozen. If you haven’t moved, use two skills."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Less likely to get frozen. If you haven’t moved, use two skills."
         },
         {
             "key": "NAME_SKILL_1563",
-            "value": "Use two attack actions if you haven’t moved. Moderate chance to unleash two attacks when attacking. Low chance to put opponent to sleep when attacked."
+            "value": "Use two attack actions if you haven’t moved. Moderate chance to unleash two attacks when attacking. Low chance to stun opponent when attacked."
         },
         {
             "key": "NAME_SKILL_1564",
-            "value": "Raises damage dealt by Fire attacks two ranks, Fire resistance one rank. Less likely to get put to sleep. Low chance to inflict sleep when attacked."
+            "value": "Raises damage dealt by Fire attacks two ranks, Fire resistance one rank. Less likely to get stunned. Low chance to inflict stun when attacked."
         },
         {
             "key": "NAME_SKILL_1565",
@@ -12498,11 +12498,11 @@
         },
         {
             "key": "NAME_SKILL_1572",
-            "value": "Raises damage dealt by Fire and Dark attacks two ranks. Low chance to inflict sleep when attacked."
+            "value": "Raises damage dealt by Fire and Dark attacks two ranks. Low chance to inflict stun when attacked."
         },
         {
             "key": "NAME_SKILL_1573",
-            "value": "Raises damage dealt by Light attacks two ranks, and Dark resistance one rank. Less likely to get confused. Two more ranks of damage against Wrathful types."
+            "value": "Raises damage dealt by Light attacks two ranks and Dark resistance one rank. Less likely to get confused. Two more ranks of damage against Wrathful types."
         },
         {
             "key": "NAME_SKILL_1574",
@@ -12530,11 +12530,11 @@
         },
         {
             "key": "NAME_SKILL_1580",
-            "value": "Raises damage dealt by Dark attacks two ranks, and Dark resistance one rank. Less likely to get confused. Ignores a monster’s poor affinity."
+            "value": "Raises damage dealt by Dark attacks two ranks and Dark resistance one rank. Less likely to get confused. Ignores a monster’s poor affinity."
         },
         {
             "key": "NAME_SKILL_1581",
-            "value": "Raises PHYS DEF and SP DEF one rank, and recovers HP and SP at the start of the turn."
+            "value": "Raises PHYS DEF and SP DEF one rank and recovers HP and SP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1582",
@@ -12550,27 +12550,27 @@
         },
         {
             "key": "NAME_SKILL_1585",
-            "value": "Makes it easier for allies to provide Battle Backup, and increases its effect two ranks. Makes it easier to provide allies with Battle Backup. Raises the strength of recovery effects two ranks."
+            "value": "Makes it easier for allies to provide Battle Backup and increases its effect two ranks. Makes it easier to provide allies with Battle Backup. Raises the strength of recovery effects two ranks."
         },
         {
             "key": "NAME_SKILL_1586",
-            "value": "Raises damage dealt by Light and Dark attacks two ranks, and increases all elemental resistances one rank. Prevents all stat reductions."
+            "value": "Raises damage dealt by Light and Dark attacks two ranks and increases all elemental resistances one rank. Prevents all stat reductions."
         },
         {
             "key": "NAME_SKILL_1587",
-            "value": "Raises damage dealt by Water attacks two ranks, and Water resistance one rank. Prevents sleep and confusion."
+            "value": "Raises damage dealt by Water attacks two ranks and Water resistance one rank. Prevents stun and confusion."
         },
         {
             "key": "NAME_SKILL_1588",
-            "value": "Raises strength of recovery effects two ranks. Less likely to be afflicted by status abnormalities, and prevents stat reductions. Restores HP at the start of the turn."
+            "value": "Raises strength of recovery effects two ranks. Less likely to be afflicted by status abnormalities and prevents stat reductions. Restores HP at the start of the turn."
         },
         {
             "key": "NAME_SKILL_1589",
-            "value": "Prevents sleep and confusion. Ignores a monster’s poor affinity. Raises damage dealt to Wrathful types two more ranks."
+            "value": "Prevents stun and confusion. Ignores a monster’s poor affinity. Raises damage dealt to Wrathful types two more ranks."
         },
         {
             "key": "NAME_SKILL_1590",
-            "value": "Raises damage dealt by Fire and Water attacks two ranks, and increases all elemental resistances one rank. Low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises damage dealt by Fire and Water attacks two ranks and increases all elemental resistances one rank. Low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1591",
@@ -12578,7 +12578,7 @@
         },
         {
             "key": "NAME_SKILL_1592",
-            "value": "Raises PHYS ATK and SP ATK one rank, and increases damage dealt by Fire attacks two ranks. Ignores a monster’s poor affinity."
+            "value": "Raises PHYS ATK and SP ATK one rank and increases damage dealt by Fire attacks two ranks. Ignores a monster’s poor affinity."
         },
         {
             "key": "NAME_SKILL_1593",
@@ -12598,19 +12598,19 @@
         },
         {
             "key": "NAME_SKILL_1597",
-            "value": "Returns a certain amount of damage when hit by a physical attack, with increased damage when guarding. Defends at the end of the turn, raising damage reduction rate two ranks. Low chance of inflicting sleep when attacked."
+            "value": "Returns a certain amount of damage when hit by a physical attack, with increased damage when guarding. Defends at the end of the turn, raising damage reduction rate two ranks. Low chance of inflicting stun when attacked."
         },
         {
             "key": "NAME_SKILL_1598",
-            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting sleep when attacked, and of unleashing three attacks when attacking."
+            "value": "Returns an amount of damage back to the opponent when hit by a physical attack. Damage increased when guarding. Defends at turn end. Low chance of inflicting stun when attacked and of unleashing three attacks when attacking."
         },
         {
             "key": "NAME_SKILL_1599",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep. Raises both damage dealt and taken two ranks."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun. Raises both damage dealt and taken two ranks."
         },
         {
             "key": "NAME_SKILL_1600",
-            "value": "Raises damage dealt by Fire attacks two ranks, and Fire resistance one rank. Prevents sleep. Randomly reduces one target stat one rank when attacking."
+            "value": "Raises damage dealt by Fire attacks two ranks and Fire resistance one rank. Prevents stun. Randomly reduces one target stat one rank when attacking."
         },
         {
             "key": "NAME_SKILL_1601",
@@ -12666,15 +12666,15 @@
         },
         {
             "key": "NAME_SKILL_1614",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1615",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1616",
-            "value": "Raises damage dealt by Light and Fire attacks two ranks, and Fire resistance one rank. Prevents sealing."
+            "value": "Raises damage dealt by Light and Fire attacks two ranks and Fire resistance one rank. Prevents sealing."
         },
         {
             "key": "NAME_SKILL_1617",
@@ -12726,15 +12726,15 @@
         },
         {
             "key": "NAME_SKILL_1629",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1630",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1631",
-            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting sleep, low chance of unleashing three attacks instead of one when attacking."
+            "value": "Raises PHYS ATK and SPD one rank. Low chance of inflicting stun, low chance of unleashing three attacks instead of one when attacking."
         },
         {
             "key": "NAME_SKILL_1632",
@@ -12846,15 +12846,15 @@
         },
         {
             "key": "NAME_SKILL_1659",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1660",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1661",
-            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting sleep when attacked. Attack to break opponent’s guard."
+            "value": "Raises SPD one rank. Moderate chance of unleashing two attacks instead of one when attacking. Low chance of inflicting stun when attacked. Attack to break opponent’s guard."
         },
         {
             "key": "NAME_SKILL_1662",
@@ -12918,7 +12918,7 @@
         },
         {
             "key": "NAME_SKILL_1677",
-            "value": "Deals Dark damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1678",
@@ -13170,7 +13170,7 @@
         },
         {
             "key": "NAME_SKILL_1740",
-            "value": "Deals Wind damage to target(s), and raises your SPD two ranks."
+            "value": "Deals Wind damage to target(s) and raises your SPD two ranks."
         },
         {
             "key": "NAME_SKILL_1741",
@@ -13178,7 +13178,7 @@
         },
         {
             "key": "NAME_SKILL_1742",
-            "value": "Deals Earth damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1743",
@@ -13246,7 +13246,7 @@
         },
         {
             "key": "NAME_SKILL_1759",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1760",
@@ -13290,15 +13290,15 @@
         },
         {
             "key": "NAME_SKILL_1770",
-            "value": "Deals Light damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Light damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1771",
-            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square, and a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a high chance of knocking them back one square and a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1772",
-            "value": "Deals Wind damage to target(s), with a moderate chance of raising your PHYS ATK and SP ATK one rank, and SPD two ranks."
+            "value": "Deals Wind damage to target(s), with a moderate chance of raising your PHYS ATK and SP ATK one rank and SPD two ranks."
         },
         {
             "key": "NAME_SKILL_1773",
@@ -13418,15 +13418,15 @@
         },
         {
             "key": "NAME_SKILL_1802",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1803",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1804",
-            "value": "Deals Fire damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Fire damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1805",
@@ -13502,19 +13502,19 @@
         },
         {
             "key": "NAME_SKILL_1823",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1824",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1825",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1826",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1827",
@@ -13534,11 +13534,11 @@
         },
         {
             "key": "NAME_SKILL_1831",
-            "value": "Deals Earth damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1832",
-            "value": "Deals Earth damage to target(s), with a low chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1833",
@@ -13574,19 +13574,19 @@
         },
         {
             "key": "NAME_SKILL_1841",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1842",
-            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a low chance of poisoning them and stunning them."
         },
         {
             "key": "NAME_SKILL_1843",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1844",
-            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank, and a low chance of raising all your elemental resistances one rank."
+            "value": "Deals Wind damage to target(s), with a moderate chance of reducing their SPD one rank and a low chance of raising all your elemental resistances one rank."
         },
         {
             "key": "NAME_SKILL_1845",
@@ -13606,7 +13606,7 @@
         },
         {
             "key": "NAME_SKILL_1849",
-            "value": "Deals Earth damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Earth damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1850",
@@ -13626,11 +13626,11 @@
         },
         {
             "key": "NAME_SKILL_1854",
-            "value": "Deals Water damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Water damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1855",
-            "value": "Deals Water damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Water damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1856",
@@ -13666,19 +13666,19 @@
         },
         {
             "key": "NAME_SKILL_1864",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1865",
-            "value": "Deals Dark damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1866",
-            "value": "Deals Dark damage to target(s), with a moderate chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a moderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1867",
-            "value": "Deals Dark damage to target(s), with a high chance of putting them to sleep."
+            "value": "Deals Dark damage to target(s), with a high chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1868",
@@ -13738,7 +13738,7 @@
         },
         {
             "key": "NAME_SKILL_1882",
-            "value": "Deals non-elemental damage to target(s), with a\nmoderate chance of putting them to sleep."
+            "value": "Deals non-elemental damage to target(s), with a\nmoderate chance of stunning them."
         },
         {
             "key": "NAME_SKILL_1883",
@@ -14074,7 +14074,7 @@
         },
         {
             "key": "DESC_LOCATION_609",
-            "value": "You haven't beaten this battle in the\nstory. If you find this battle difficult,\ntry using Free Battles to level up."
+            "value": "You haven’t beaten this battle in the\nstory. If you find this battle difficult,\ntry using Free Battles to level up."
         },
         {
             "key": "SYS_WORD_BATTLE_CONDITION_046",
@@ -14158,11 +14158,11 @@
         },
         {
             "key": "SAVE_DEFUI_NEWGAME_CONFIRM_Common",
-            "value": "Delete all autosave data and suspended battle data?"
+            "value": "Autosave and suspended battle data will be deleted.\nProceed?"
         },
         {
             "key": "SYS_AUTOSAVE_WARNING_Common",
-            "value": "Initiating autosave."
+            "value": "In this game, progress is saved automatically."
         },
         {
             "key": "SYS_WORD_4060_Common",

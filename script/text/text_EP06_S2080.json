@@ -2,11 +2,11 @@
 	"scenario_text":[
 		{
 			"key":"EP06_S2080_0001",
-			"value":"I’ve been waiting for this!"
+			"value":"Sorry we’re late!"
 		},
 		{
 			"key":"EP06_S2080_0002",
-			"value":"Kaito, and Dracumon!\nAwesome! Thanks for coming!"
+			"value":"Kaito...and Dracumon!\nAwesome! Thanks for coming!"
 		},
 		{
 			"key":"EP06_S2080_0003",
@@ -14,11 +14,11 @@
 		},
 		{
 			"key":"EP06_S2080_0004",
-			"value":"Did you really need to bring that up?\nDon’t make me kick your butt, Dracumon!"
+			"value":"Did you really need to bring that up?\nGo kick their butt, Dracumon!"
 		},
 		{
 			"key":"EP06_S2080_0005",
-			"value":"Hah!\nI’d like to see you try!"
+			"value":"Coming right up!\nYou stay here and watch me!"
 		}
 	]
 }
