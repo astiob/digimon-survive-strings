@@ -2,7 +2,7 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0032_0001",
-			"value":"We don’t know how long we’ll be here. We’ll\nneed food and water, so look around."
+			"value":"We don’t know how long we’ll be here. We’ll\nneed food and water, so let’s look around."
 		},
 		{
 			"key":"EP02_S0032_Q1",
@@ -26,7 +26,7 @@
 		},
 		{
 			"key":"EP02_S0032_0004",
-			"value":"It’s just Aoi’s opinion, right?\nTakuma made the right decision."
+			"value":"Well, Aoi is Aoi, after all.\nGood choice, Takuma."
 		},
 		{
 			"key":"EP02_S0032_0005",
@@ -34,7 +34,7 @@
 		},
 		{
 			"key":"EP02_S0032_0006",
-			"value":"I just thought Aoi was right too."
+			"value":"Well, I thought your opinion was right."
 		},
 		{
 			"key":"EP02_S0032_0007",
@@ -50,7 +50,7 @@
 		},
 		{
 			"key":"EP02_S0032_0010",
-			"value":"We need to find some food. Let me know if you\nfind something, Takuma."
+			"value":"Right. I’ll look for some food. Let me\nknow if you find something, Takuma."
 		},
 		{
 			"key":"EP02_S0032_0011",
