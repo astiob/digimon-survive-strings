@@ -310,7 +310,7 @@
 		},
 		{
 			"key":"BOOK_bu003",
-			"value":"A plant monster with a tropical\nflower growing on its head. During\nthe day, it opens its flower and\nleaf-like appendages to perform\nphotosynthesis. Palmon’s root-like\nfeet are usually buried in the\nground absorbing nutrients, but\nit can also use them to walk."
+			"value":"A vegetation monster with a tropical\nflower growing on its head. During\nthe day, it opens its flower and\nleaf-like appendages to perform\nphotosynthesis. Palmon’s root-like\nfeet are usually buried in the\nground absorbing nutrients, but\nit can also use them to walk."
 		},
 		{
 			"key":"BOOK_bu004",
@@ -406,7 +406,7 @@
 		},
 		{
 			"key":"BOOK_bu108",
-			"value":"A monster resembling a dog or wolf. Once\nFangmon sets it sight on prey, it won’t\nlet it get away. It is a heretical\nexistence among dog or wolf monsters,\na true being of darkness."
+			"value":"A monster resembling a dog or wolf. Once\nFangmon sets it sight on prey, it won’t\nlet it get away. It is a heretical\nexistence among canine monsters,\na true being of darkness."
 		},
 		{
 			"key":"BOOK_bu109",
@@ -498,11 +498,11 @@
 		},
 		{
 			"key":"BOOK_bu131",
-			"value":"A demonic dragon monster.\nThe childishness from its time as\nGuilmon is gone, having evolved\ninto a wild, ferocious monster.\nGrowmon unleashes a roar mighty\nenough to shake the ground before\nbattle to intimidate the enemy."
+			"value":"A demonic dragon monster.\nThe childishness from its time as\nGuilmon is gone, having evolved\ninto a wild, ferocious monster.\nGrowlmon unleashes a roar mighty\nenough to shake the ground before\nbattle to intimidate the enemy."
 		},
 		{
 			"key":"BOOK_bu132",
-			"value":"Originally Wrathful, this hunter monster\nmutated into a Moral type. A brutal\nbeast, they say Dobermon is difficult to\nbring to heel. Its special move is Grau\nLärm."
+			"value":"Originally Wrathful, this hunter monster\nmutated into a Moral-type. A brutal\nbeast, they say Dobermon is difficult to\nbring to heel. Its special move is Grau\nLärm."
 		},
 		{
 			"key":"BOOK_bu201",
@@ -550,7 +550,7 @@
 		},
 		{
 			"key":"BOOK_bu212",
-			"value":"An archangel monster with eight\nsparkling silver wings. When\nHolyAngemon changes into battle\nmode, it consigns foes to oblivion\nwith the energy shield on its left\narm and the holy sword Excalibur\nin its right hand."
+			"value":"An archangel monster with eight\nsparkling silver wings. When\nMagnaAngemon changes into battle\nmode, it consigns foes to oblivion\nwith the energy shield on its left\narm and the holy sword Excalibur\nin its right hand."
 		},
 		{
 			"key":"BOOK_bu213",
@@ -558,7 +558,7 @@
 		},
 		{
 			"key":"BOOK_bu214",
-			"value":"A bird man monster with large\ntalons. Garudamon has high\nintelligence and battle prowess\nfor its type, and it is worshiped\nas a monster only the chosen few\ncan evolve into."
+			"value":"A birdman monster with large\ntalons. Garudamon has high\nintelligence and battle prowess\nfor its type, and it is worshiped\nas a monster only the chosen few\ncan evolve into."
 		},
 		{
 			"key":"BOOK_bu215",
@@ -602,7 +602,7 @@
 		},
 		{
 			"key":"BOOK_bu225",
-			"value":"A demon man monster that uses all the\nskills of its faith to defeat\nopponents. Taomon is particularly\ntalented at curses and charms. This\nmonster doesn’t say much and usually\nresides in the dark."
+			"value":"A fiend monster that uses all the\nskills of its faith to defeat\nopponents. Taomon is particularly\ntalented at curses and charms. This\nmonster doesn’t say much and usually\nresides in the dark."
 		},
 		{
 			"key":"BOOK_bu226",
@@ -694,7 +694,7 @@
 		},
 		{
 			"key":"BOOK_bu317",
-			"value":"A strange-looking and elusive demon man\nmonster shrouded in mystery.\nDemon man monsters are extradimensional\nbeings of neither of the demonic nor undead\ntype, and Piemon’s true identity is\nunknown."
+			"value":"A strange-looking and elusive fiend\nmonster shrouded in mystery.\nFiend monsters are extradimensional\nbeings of neither demon nor undead\ntype, and Piemon’s true identity is\nunknown."
 		},
 		{
 			"key":"BOOK_bu318",
@@ -758,7 +758,7 @@
 		},
 		{
 			"key":"BOOK_bu333",
-			"value":"A gigantic and monstrous bird\nmonster that carries Karpos Hulē,\na forest containing sweet and\nfamous fruits. Rocks and fertile\nground cover Ceresmon’s body,\nmaking it look like a floating\nisland when it flies."
+			"value":"A gigantic and monstrous bird\nmonster that carries Karpos Hulē,\na forest containing sweets and\nfamous fruits. Rocks and fertile\nground cover Ceresmon’s body,\nmaking it look like a floating\nisland when it flies."
 		},
 		{
 			"key":"BOOK_bu401",
