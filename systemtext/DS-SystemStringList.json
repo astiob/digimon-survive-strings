@@ -8462,7 +8462,7 @@
         },
         {
             "key": "NAME_DTYPE_012",
-            "value": "Ore"
+            "value": "Mineral"
         },
         {
             "key": "NAME_DTYPE_013",
@@ -8494,7 +8494,7 @@
         },
         {
             "key": "NAME_DTYPE_020",
-            "value": "Demon Beast"
+            "value": "Demonic Beast"
         },
         {
             "key": "NAME_DTYPE_021",
@@ -8510,7 +8510,7 @@
         },
         {
             "key": "NAME_DTYPE_024",
-            "value": "Giant Bird"
+            "value": "Gigantic Bird"
         },
         {
             "key": "NAME_DTYPE_025",
@@ -8522,7 +8522,7 @@
         },
         {
             "key": "NAME_DTYPE_027",
-            "value": "Dragon Man"
+            "value": "Draconic Beastman"
         },
         {
             "key": "NAME_DTYPE_028",
@@ -8538,7 +8538,7 @@
         },
         {
             "key": "NAME_DTYPE_031",
-            "value": "Cyborg"
+            "value": "Android"
         },
         {
             "key": "NAME_DTYPE_032",
@@ -8554,7 +8554,7 @@
         },
         {
             "key": "NAME_DTYPE_035",
-            "value": "Bird Man"
+            "value": "Birdman"
         },
         {
             "key": "NAME_DTYPE_036",
@@ -8566,7 +8566,7 @@
         },
         {
             "key": "NAME_DTYPE_038",
-            "value": "Demon Man"
+            "value": "Fiend"
         },
         {
             "key": "NAME_DTYPE_039",
@@ -8606,7 +8606,7 @@
         },
         {
             "key": "NAME_DTYPE_048",
-            "value": "Godlike"
+            "value": "Deity"
         },
         {
             "key": "NAME_DTYPE_049",
