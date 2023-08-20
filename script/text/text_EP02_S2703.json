@@ -54,7 +54,7 @@
 		},
 		{
 			"key":"EP02_S2703_0010",
-			"value":"Hang on...\nMy phone hasn’t lost power..."
+			"value":"Anyway...\nMy phone hasn’t even lost power..."
 		},
 		{
 			"key":"EP02_S2703_0011",
@@ -66,23 +66,23 @@
 		},
 		{
 			"key":"EP02_S2703_0013",
-			"value":"Of course I was trying to call for help.\nI’ve been much calmer than all of you."
+			"value":"I was trying to call for help, of course.\nI’ve been much calmer than all of you."
 		},
 		{
 			"key":"EP02_S2703_Q1",
-			"value":"(Ryo’s been using his phone the whole time.)"
+			"value":"(Ryo’s been using his phone the whole time?)"
 		},
 		{
 			"key":"EP02_S2703_Q1_A1",
-			"value":"Who were you calling?"
+			"value":"Who was he calling?"
 		},
 		{
 			"key":"EP02_S2703_Q1_A2",
-			"value":"Phones don’t work."
+			"value":"That let him discover that it doesn’t work."
 		},
 		{
 			"key":"EP02_S2703_0014",
-			"value":"Who’re you calling?"
+			"value":"Who were you calling?"
 		},
 		{
 			"key":"EP02_S2703_0015",
@@ -90,7 +90,7 @@
 		},
 		{
 			"key":"EP02_S2703_0016",
-			"value":"Fine. I’ll try calling, too."
+			"value":"It’s just that I could try calling them, too."
 		},
 		{
 			"key":"EP02_S2703_0017",
@@ -106,7 +106,7 @@
 		},
 		{
 			"key":"EP02_S2703_0020",
-			"value":"Thanks for noticing.\nWell done, Ryo."
+			"value":"It’s good that you noticed this.\nWell done, Ryo."
 		},
 		{
 			"key":"EP02_S2703_0021",
@@ -134,15 +134,15 @@
 		},
 		{
 			"key":"EP02_S2703_0027",
-			"value":"We still can’t reach anyone.\nThis is hopeless..."
+			"value":"Anyway, we can’t reach anyone,\nso this is hopeless..."
 		},
 		{
 			"key":"EP02_S2703_0028",
-			"value":"We can’t call the professor?\nWhat’ll happen to us?"
+			"value":"We can’t even call the professor?\nWhat’ll happen to us?"
 		},
 		{
 			"key":"EP02_S2703_0029",
-			"value":"Why aren’t we getting a signal here?"
+			"value":"Why is this place without signal?"
 		}
 	]
 }
