@@ -38,7 +38,7 @@
 		},
 		{
 			"key":"EP10_S1020_0010",
-			"value":"I did a cursory scouting of the entrance, but\ndidn’t see anyone inside."
+			"value":"I only did a cursory scouting of the entrance,\nso I don’t know if there was anyone inside."
 		},
 		{
 			"key":"EP10_S1020_0011",
@@ -54,11 +54,11 @@
 		},
 		{
 			"key":"EP10_S1020_0014",
-			"value":"Well, perhaps we should discuss this with the\nothers. Shall we return to the school?"
+			"value":"I suppose it would be faster to have everyone\nhear this. Shall we return to the school?"
 		},
 		{
 			"key":"EP10_S1020_0015",
-			"value":"Yeah... Yeah, of course you’re right. Okay,\nback to the school, then."
+			"value":"Uh... Yeah, of course. Okay,\nback to the school, then."
 		}
 	]
 }

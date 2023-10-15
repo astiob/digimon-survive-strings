@@ -2,7 +2,7 @@
 	"scenario_text":[
 		{
 			"key":"EP01_S0150_0009",
-			"value":"(We cleared the tree-lined path and when we\nheaded up the trail...)"
+			"value":"(We cleared the tree-lined path and headed\nup the trail, but then...)"
 		},
 		{
 			"key":"EP01_S0150_0010",
@@ -22,7 +22,7 @@
 		},
 		{
 			"key":"EP01_S0150_0200",
-			"value":"Hmm... Maybe it’s related to the rockslide\nMinoru was talking about?"
+			"value":"Hmm... Maybe it’s related to the rockslide\nyou were talking about?"
 		},
 		{
 			"key":"EP01_S0150_0021",
@@ -42,15 +42,15 @@
 		},
 		{
 			"key":"EP01_S0150_0007",
-			"value":"Those “Kemonogami” things don’t really ring\na bell. You mean the Beast Gods?"
+			"value":"“Kemonogami” meant “Beast Gods”, right?\nBut those things don’t really ring a bell."
 		},
 		{
 			"key":"EP01_S0150_0013",
-			"value":"Nothing we can do about it. Our only option\nis to head back for now..."
+			"value":"Well, we can’t do anything here. Our only\noption is to head back for now..."
 		},
 		{
 			"key":"EP01_S0150_0011",
-			"value":"We’ve come all this way, might as well get\nthe low-down on what went down here!"
+			"value":"We’ve come all this way. Might as well get\nthe low-down on what went down here!"
 		},
 		{
 			"key":"EP01_S0150_0012",
