@@ -2,7 +2,7 @@
 	"scenario_text":[
 		{
 			"key":"EP05_S0040_0001",
-			"value":"This is how we got close to the enemy base."
+			"value":"We’re now approaching the enemy base."
 		},
 		{
 			"key":"EP05_S0040_0002",
@@ -42,7 +42,7 @@
 		},
 		{
 			"key":"EP05_S0040_0011",
-			"value":"That might work. I’m a bit worried about\ntaking Miyuki and Haru up ahead."
+			"value":"That might work. I’m also worried about\ntaking Miyuki and Haru up ahead."
 		},
 		{
 			"key":"EP05_S0040_0012",
@@ -50,7 +50,7 @@
 		},
 		{
 			"key":"EP05_S0040_0013",
-			"value":"Then let’s give it a shot. Who knows, he\nmight even like the idea."
+			"value":"Then let’s give it a shot. Who knows, he\nmight even like the idea, tired as he is."
 		},
 		{
 			"key":"EP05_S0040_0014",
@@ -74,7 +74,7 @@
 		},
 		{
 			"key":"EP05_S0040_0019",
-			"value":"What about you, Aoi? Will you and Labramon\nstay back, too?"
+			"value":"You and Labramon are staying back, too?"
 		},
 		{
 			"key":"EP05_S0040_0020",
@@ -82,7 +82,7 @@
 		},
 		{
 			"key":"EP05_S0040_0021",
-			"value":"My thoughts exactly! We can survive without\none of you..."
+			"value":"My thoughts exactly! We could make do\nwithout one of you..."
 		},
 		{
 			"key":"EP05_S0040_0022",
@@ -118,7 +118,7 @@
 		},
 		{
 			"key":"EP05_S0040_0030",
-			"value":"We definitely can’t leave things as they are,\nbut...hmm, I wonder."
+			"value":"It’s true that he isn’t in a good state...\nBut what should we do?"
 		},
 		{
 			"key":"EP05_S0040_0031",
@@ -318,7 +318,7 @@
 		},
 		{
 			"key":"EP05_S0040_0079",
-			"value":"I... I don’t know. I’m feeling kinda shaky..."
+			"value":"I... I don’t know. I’m feeling pretty shaky..."
 		},
 		{
 			"key":"EP05_S0040_0080",
@@ -362,7 +362,7 @@
 		},
 		{
 			"key":"EP05_S0040_0090",
-			"value":"I think so... I felt something kinda dark\nback there."
+			"value":"I think so... I got the feeling of complete\ndarkness."
 		},
 		{
 			"key":"EP05_S0040_0091",

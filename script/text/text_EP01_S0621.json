@@ -26,11 +26,11 @@
 		},
 		{
 			"key":"EP01_S0621_0036",
-			"value":"Yes, she’s a bit frail, but likes to go off\non her own..."
+			"value":"Yes, she’s a bit frail but likes to go off\non her own..."
 		},
 		{
 			"key":"EP01_S0621_0103",
-			"value":"My sister is...how do I put this...like a\ntiny animal. Timid, and needing protection..."
+			"value":"My sister is...how do I put this...like a\ntiny animal. Timid and needing protection..."
 		},
 		{
 			"key":"EP01_S0621_0104",
@@ -62,7 +62,7 @@
 		},
 		{
 			"key":"EP01_S0621_0111",
-			"value":"H-hey, don't be rude, Minoru..."
+			"value":"H-hey, don’t be rude, Minoru..."
 		},
 		{
 			"key":"EP01_S0621_0112",
@@ -90,7 +90,7 @@
 		},
 		{
 			"key":"EP01_S0621_0079",
-			"value":"And after I told her she’s not allowed to go\nin there...!"
+			"value":"And after everyone kept telling her\nnot to go in there...!"
 		},
 		{
 			"key":"EP01_S0621_0044",
@@ -122,7 +122,7 @@
 		},
 		{
 			"key":"EP01_S0621_0050",
-			"value":"(From the looks of him I thought Kaito was an\nadult, but he’s the same age as me.)"
+			"value":"(Kaito sounds like an adult, but it looks\nlike he’s the same age as Minoru and me.)"
 		},
 		{
 			"key":"EP01_S0621_0115",
@@ -182,11 +182,11 @@
 		},
 		{
 			"key":"EP01_S0621_0066",
-			"value":"It’s too dangerous to keep going. I’ll go\ntake a look, so why don’t you all go back?"
+			"value":"It’s too dangerous to stay here. I’ll go\ntake a look, so why don’t you all go back?"
 		},
 		{
 			"key":"EP01_S0621_0067",
-			"value":"Why don’t we duck back into that tunnel? Who\nknows what’d happen before we made it back."
+			"value":"Why don’t we duck into that tunnel? Who\nknows what’d happen before we made it back."
 		},
 		{
 			"key":"EP01_S0621_0068",
@@ -194,7 +194,7 @@
 		},
 		{
 			"key":"EP01_S0621_0069",
-			"value":"That’s true... Okay, let’s retreat to the\ntunnel for now."
+			"value":"That’s true... Okay, let’s shelter in the\ntunnel for now."
 		}
 	]
 }

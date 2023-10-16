@@ -234,7 +234,7 @@
         },
         {
             "key": "TIPS_DETAIL_003",
-            "value": "Karma will effect Agumon’s evolution."
+            "value": "Karma will affect Agumon’s evolution."
         },
         {
             "key": "TIPS_DETAIL_004",
@@ -370,7 +370,7 @@
         },
         {
             "key": "TIPS_DETAIL_037",
-            "value": "During battle, using the Evolve command on a main character\npartner unit displays their Evolution tree. Evolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nevolution."
+            "value": "During battle, using the Evolve command on a main character\npartner unit displays their evolution tree. Evolution\nrequires a certain amount of SP, in exchange for\ndramatically boosting abilities and changing skills.\nRemaining HP stays at the same percentage as before the\nevolution."
         },
         {
             "key": "TIPS_DETAIL_038",
@@ -538,11 +538,11 @@
         },
         {
             "key": "TIPS_DETAIL_063",
-            "value": "During battle, gaining a status abnormality restricts\na unit somehow, preventing them from moving, using skills\nand more. Said monster will recover after a set number of\nturns, or by using a Recovery item. Asleep, Frozen and\nConfused abnormalities are canceled when the afflicted\nunit gets attacked."
+            "value": "During battle, gaining a status abnormality restricts\na unit somehow, preventing them from moving, using skills\nand more. Said monster will recover after a set number of\nturns, or by using a Recovery item. Stunned, Frozen and\nConfused abnormalities are canceled when the afflicted\nunit gets attacked."
         },
         {
             "key": "TIPS_DETAIL_064",
-            "value": "<sprite index=120> Asleep, <sprite index=121> Frozen, and <sprite index=123> Paralyzed render a unit unable\nto move. <sprite index=122> Poisoned inflicts a set amount of damage\nevery turn, and <sprite index=124> Sealed prevents a unit from using any\nskill besides Attack. <sprite index=125> Confused renders a unit\nuncontrollable, causing it to attack itself and its allies."
+            "value": "<sprite index=120> Stunned, <sprite index=121> Frozen, and <sprite index=123> Paralyzed render a unit unable\nto move. <sprite index=122> Poisoned inflicts a set amount of damage\nevery turn, and <sprite index=124> Sealed prevents a unit from using any\nskill besides Attack. <sprite index=125> Confused renders a unit\nuncontrollable, causing it to attack itself and its allies."
         },
         {
             "key": "TIPS_DETAIL_065",
@@ -550,7 +550,7 @@
         },
         {
             "key": "TIPS_DETAIL_066",
-            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an Evolution path from\nthe Evolution tree (note that they cannot be devolved).\nEvolution also requires specific items."
+            "value": "When evolving a Free Monster, choose a monster on the Main\nMenu’s Stats screen, then select an evolution path from\nthe evolution tree (note that they cannot be devolved).\nEvolution also requires specific items."
         },
         {
             "key": "TIPS_DETAIL_067",
