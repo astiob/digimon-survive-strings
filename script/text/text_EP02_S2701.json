@@ -42,11 +42,11 @@
 		},
 		{
 			"key":"EP02_S2701_0008",
-			"value":"It was a piece of cake!\nWere you looking for more peeps?"
+			"value":"It was a piece of cake! Wouldn’t hurt to\ndo this while looking for more peeps, right?"
 		},
 		{
 			"key":"EP02_S2701_0009",
-			"value":"We found some food by chance at first,\nbefore focusing our efforts on finding more."
+			"value":"We found some food by chance at first,\nso then we did our utmost to gather more."
 		},
 		{
 			"key":"EP02_S2701_0010",
@@ -54,7 +54,7 @@
 		},
 		{
 			"key":"EP02_S2701_0011",
-			"value":"We can concentrate on finding people now!"
+			"value":"Uh, well, this should let us concentrate\non finding people now!"
 		},
 		{
 			"key":"EP02_S2701_0012",
@@ -74,11 +74,11 @@
 		},
 		{
 			"key":"EP02_S2701_0016",
-			"value":"Go look somewhere else, Takuma.\nI’ve got plants enough for us all."
+			"value":"Go look for something else, Takuma.\nI’ll get plants enough for us all."
 		},
 		{
 			"key":"EP02_S2701_0017",
-			"value":"Let’s keep looking around here!"
+			"value":"I’ll keep looking around here!"
 		}
 	]
 }
