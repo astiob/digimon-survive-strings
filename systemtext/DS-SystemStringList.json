@@ -10402,7 +10402,7 @@
         },
         {
             "key": "SYS_WORD_8076",
-            "value": "Give up and return to the map.\n*Rewards and items will be lost."
+            "value": "Give up and return to the map\n*Rewards and items will be lost"
         },
         {
             "key": "SYS_WORD_8077",
@@ -10414,7 +10414,7 @@
         },
         {
             "key": "SYS_WORD_8079",
-            "value": "Give up and return to title screen."
+            "value": "Give up and return to title screen"
         },
         {
             "key": "SYS_WORD_8080",
