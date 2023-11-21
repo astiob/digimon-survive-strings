@@ -18,7 +18,7 @@
 		},
 		{
 			"key":"EP02_S2704_0005",
-			"value":"Don’t go eating any of that, you two!"
+			"value":"Don’t just go eating that, you two!"
 		},
 		{
 			"key":"EP02_S2704_0006",
@@ -34,7 +34,7 @@
 		},
 		{
 			"key":"EP02_S2704_0009",
-			"value":"We’ve got water and some food. If there are\nspices and a grill in the cafeteria..."
+			"value":"We’ve got water and some food. There were\nspices and a gas stove in the cafeteria..."
 		},
 		{
 			"key":"EP02_S2704_0010",
@@ -46,11 +46,11 @@
 		},
 		{
 			"key":"EP02_S2704_Q1_A1",
-			"value":"Worried about others."
+			"value":"I’m worried about others."
 		},
 		{
 			"key":"EP02_S2704_Q1_A2",
-			"value":"Should be okay for now."
+			"value":"We should be okay for now."
 		},
 		{
 			"key":"EP02_S2704_Q1_A3",
@@ -82,7 +82,7 @@
 		},
 		{
 			"key":"EP02_S2704_0017",
-			"value":"This is no coincidence. There’re some\nunknown monsters wandering around out there."
+			"value":"We aren’t just lost. We gotta survive among\nunknown monsters wandering around out there."
 		},
 		{
 			"key":"EP02_S2704_0018",
@@ -98,11 +98,11 @@
 		},
 		{
 			"key":"EP02_S2704_0021",
-			"value":"That’s what I’m wondering about! We need to\nknow just what this place is!"
+			"value":"So what? Knowing what this place is\nwon’t get us out of here, will it?!"
 		},
 		{
 			"key":"EP02_S2704_0022",
-			"value":"We need to get some help!"
+			"value":"What we need to do is somehow call for help!"
 		},
 		{
 			"key":"EP02_S2704_0023",
@@ -118,15 +118,15 @@
 		},
 		{
 			"key":"EP02_S2704_0026",
-			"value":"You’re right. We woke up here, but maybe the\nothers are just lost out there, too."
+			"value":"That’s right. Maybe more people are still lost\nout there due to all this sudden weirdness."
 		},
 		{
 			"key":"EP02_S2704_0027",
-			"value":"We found our way back to the school..."
+			"value":"We did find our way to the school, though..."
 		},
 		{
 			"key":"EP02_S2704_0028",
-			"value":"We should look around a bit longer for now."
+			"value":"Well, we should look around a bit more for now."
 		}
 	]
 }
