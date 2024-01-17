@@ -2,7 +2,7 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0082_0001",
-			"value":"You’re safe!"
+			"value":"Professor! You’re safe!"
 		},
 		{
 			"key":"EP02_S0082_0002",
@@ -70,7 +70,7 @@
 		},
 		{
 			"key":"EP02_S0082_0018",
-			"value":"Uh oh—more creatures are swarming up behind\nthem!"
+			"value":"Uh oh—more creatures are swarming up behind\nus!"
 		},
 		{
 			"key":"EP02_S0082_0019",
@@ -270,7 +270,7 @@
 		},
 		{
 			"key":"EP02_S0082_0057",
-			"value":"Hey, now... Are you stupid?"
+			"value":"Hey, now... Are you stupid?\nYou just gonna go and get killed?"
 		},
 		{
 			"key":"EP02_S0082_0058",
@@ -282,7 +282,7 @@
 		},
 		{
 			"key":"EP02_S0082_0060",
-			"value":"(I don’t want to die... right?)"
+			"value":"(Dying...isn’t in my plans!)"
 		},
 		{
 			"key":"EP02_S0082_0061",
