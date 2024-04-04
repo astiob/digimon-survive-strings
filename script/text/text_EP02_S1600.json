@@ -130,7 +130,7 @@
 		},
 		{
 			"key":"EP02_S1600_0029",
-			"value":"Just see if you can find help.\nI’ll be back."
+			"value":"Well, just step in if I need help.\nI’m going for now."
 		},
 		{
 			"key":"EP02_S1600_0030",
@@ -174,7 +174,7 @@
 		},
 		{
 			"key":"EP02_S1600_0040",
-			"value":"Uh oh! They’re all looking at Minoru!"
+			"value":"Uh oh! They were ignoring Minoru until now,\nbut now they’re all suddenly looking at him!"
 		},
 		{
 			"key":"EP02_S1600_0041",
@@ -206,7 +206,7 @@
 		},
 		{
 			"key":"EP02_S1600_0048",
-			"value":"The monster that’s speaking is invisible!\nIt’s a really dangerous one..."
+			"value":"The monster that’s howling is invisible!\nIt’s a really dangerous one..."
 		},
 		{
 			"key":"EP02_S1600_0049",
@@ -286,7 +286,7 @@
 		},
 		{
 			"key":"EP02_S1600_0068",
-			"value":"Yes, let’s do this! All of us!"
+			"value":"Yes, let’s do this!"
 		}
 	]
 }
