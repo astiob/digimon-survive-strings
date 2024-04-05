@@ -18,11 +18,11 @@
 		},
 		{
 			"key":"EP05_S1800_0005",
-			"value":"Sure did! They looked a bit weirded out,\nis something wrong?"
+			"value":"Sure did! They looked troubled, though.\nDid something happen?"
 		},
 		{
 			"key":"EP05_S1800_0006",
-			"value":"There’s a lot we don’t know, after all.\nEveryone’s a bit on edge."
+			"value":"There’s a lot of unknowns, after all.\nEveryone’s a bit on edge."
 		},
 		{
 			"key":"EP05_S1800_0007",
@@ -30,7 +30,7 @@
 		},
 		{
 			"key":"EP05_S1800_0008",
-			"value":"My sentiments exactly! We can deal with\nanything that comes our way!"
+			"value":"Right, I think so too! We can deal with\nanything that comes our way!"
 		},
 		{
 			"key":"EP05_S1800_0009",
@@ -62,7 +62,7 @@
 		},
 		{
 			"key":"EP05_S1800_Q1_A1",
-			"value":"Say thanks honestly."
+			"value":"Thank them properly."
 		},
 		{
 			"key":"EP05_S1800_Q1_A2",
@@ -110,7 +110,7 @@
 		},
 		{
 			"key":"EP05_S1800_0026",
-			"value":"I appreciate you thinking of us, but we won’t\nget anywhere with you guys propping us up."
+			"value":"I appreciate you thinking of us, but right now\nthere’s not much you can do to cheer us up."
 		},
 		{
 			"key":"EP05_S1800_0027",
@@ -146,7 +146,7 @@
 		},
 		{
 			"key":"EP05_S1800_0036",
-			"value":"Yep, that’s what I said! We’ll be sure to\ncheer you guys on!"
+			"value":"Yep, that’s right! We’ll get you guys to cheer\nup!"
 		},
 		{
 			"key":"EP05_S1800_0037",

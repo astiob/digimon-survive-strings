@@ -10,11 +10,11 @@
 		},
 		{
 			"key":"EP05_S1610_0003",
-			"value":"I spotted a monster I’ve never seen before."
+			"value":"We spotted an unfamiliar monster a few\nmoments ago."
 		},
 		{
 			"key":"EP05_S1610_0004",
-			"value":"Could be a new enemy...\nOr maybe it doesn’t give a crap about us."
+			"value":"So it could be a monster that doesn’t like\nus, or even another one of the enemies?"
 		},
 		{
 			"key":"EP05_S1610_0005",
@@ -34,11 +34,11 @@
 		},
 		{
 			"key":"EP05_S1610_0009",
-			"value":"Okay! You two hide, there’s no telling what\nmight happen!"
+			"value":"Okay! You two hide. There’s no telling what\nmight happen!"
 		},
 		{
 			"key":"EP05_S1610_0010",
-			"value":"Some monster I’ve never seen was over there.\nIt’s already gone, though."
+			"value":"An unfamiliar monster was over in the hall.\nIt might be already gone, though."
 		}
 	]
 }
