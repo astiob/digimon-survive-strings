@@ -186,7 +186,7 @@
         },
         {
             "key": "EP50_E02S22R012F0_0001",
-            "value": "(Not here... Should I head to the waterway?)"
+            "value": "(Not here... Should I head to the canal?)"
         },
         {
             "key": "EP50_E02S22R096F0_0001",
@@ -254,7 +254,7 @@
         },
         {
             "key": "EP50_E03S19R018F0_0001",
-            "value": "(First, I should talk to Kaito and that\ngirl...)"
+            "value": "(First, I should hear out Kaito and that\nwoman...)"
         },
         {
             "key": "EP50_E03S20R014F0_0001",
@@ -282,7 +282,7 @@
         },
         {
             "key": "EP50_E04S03R013F1_0001",
-            "value": "(It sounds like Agumon was heading for the\nshrine?)"
+            "value": "(It seems Agumon headed for the shrine?)"
         },
         {
             "key": "EP50_E04S03R015F0_0001",
@@ -294,7 +294,7 @@
         },
         {
             "key": "EP50_E04S03R055F1_0001",
-            "value": "(Agumon... They say he headed into the\nwoods...)"
+            "value": "(Agumon... I guess he headed into the\nwoods...)"
         },
         {
             "key": "EP50_E04S03R073F0_0001",
@@ -322,7 +322,7 @@
         },
         {
             "key": "EP50_E04S21R201F0_0001",
-            "value": "(It’s that little kid! Should I hear him\nout?)"
+            "value": "(It’s that little one! Should I hear him\nout?)"
         },
         {
             "key": "EP50_E04S22R200F0_0001",
@@ -334,7 +334,7 @@
         },
         {
             "key": "EP50_E04S24R026F0_0001",
-            "value": "(I should try and find out where those little\nkids went off to.)"
+            "value": "(I should try and find out where those little\nones went off to.)"
         },
         {
             "key": "EP50_E04S25R027F0_0001",
@@ -366,7 +366,7 @@
         },
         {
             "key": "EP50_E04S36R026F1_0001",
-            "value": "(Miu must be in that castle somewhere. I have\nto look for her!)"
+            "value": "(Miu must be in the castle somewhere. I have\nto look for her!)"
         },
         {
             "key": "EP50_E04S36R028F0_0001",
@@ -382,7 +382,7 @@
         },
         {
             "key": "EP50_E04S36R028F3_0001",
-            "value": "(Miu should be hiding in a treasure chest.\nMaybe I should take another look.)"
+            "value": "(Miu must be hiding in the treasure chest.\nMaybe I should take another look.)"
         },
         {
             "key": "EP50_E05S04R001F0_0001",
@@ -4690,7 +4690,7 @@
         },
         {
             "key": "T04801_0001",
-            "value": "The waterway just goes on and on..."
+            "value": "The waterway just goes on without end..."
         },
         {
             "key": "T04802_0001",

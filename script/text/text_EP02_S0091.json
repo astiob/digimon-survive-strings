@@ -2,7 +2,7 @@
 	"scenario_text":[
 		{
 			"key":"EP02_S0091_0001",
-			"value":"Oh, and there was a canal down there."
+			"value":"Oh right, below the dam was the canal."
 		},
 		{
 			"key":"EP02_S0091_0002",
@@ -14,7 +14,7 @@
 		},
 		{
 			"key":"EP02_S0091_0004",
-			"value":"He might be able to hear us, then!\nCall out to him!"
+			"value":"And he might be able to hear us,\nso call out to him!"
 		},
 		{
 			"key":"EP02_S0091_0005",
@@ -46,7 +46,7 @@
 		},
 		{
 			"key":"EP02_S0091_0012",
-			"value":"It’s okay. I’m just going to have a look\naround. I’ll be extra careful."
+			"value":"I know. We’re just going to check it out\nso we don’t get taken by surprise."
 		}
 	]
 }

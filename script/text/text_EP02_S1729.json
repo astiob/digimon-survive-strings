@@ -6,11 +6,11 @@
 		},
 		{
 			"key":"EP02_S1729_0002",
-			"value":"There are more footprints. They must have\ncome this way..."
+			"value":"The footprints led us here, so they must have\ncome this way..."
 		},
 		{
 			"key":"EP02_S1729_0003",
-			"value":"Are there footprints on the other side?"
+			"value":"But there are no footprints on the other side!"
 		},
 		{
 			"key":"EP02_S1729_0004",
@@ -18,7 +18,7 @@
 		},
 		{
 			"key":"EP02_S1729_0005",
-			"value":"Maybe they drowned?"
+			"value":"Didn’t they just get swept away?"
 		},
 		{
 			"key":"EP02_S1729_0006",
@@ -26,15 +26,15 @@
 		},
 		{
 			"key":"EP02_S1729_0007",
-			"value":"No! We have to save them!"
+			"value":"Oh no! We have to save them!"
 		},
 		{
 			"key":"EP02_S1729_0008",
-			"value":"Yes, we need to find them right away!"
+			"value":"Yes, let’s hurry!"
 		},
 		{
 			"key":"EP02_S1729_0009",
-			"value":"Hang on! They might’ve gotten away!\nWe need to find them!"
+			"value":"Hang on! They might’ve gotten away!\nWe should look for another path!"
 		},
 		{
 			"key":"EP02_S1729_0010",
@@ -50,7 +50,7 @@
 		},
 		{
 			"key":"EP02_S1729_0013",
-			"value":"(They either drowned or found another way...\nOr something else entirely?)"
+			"value":"(Did they get swept away or find another path?\nDoes this even look plausible to begin with?)"
 		},
 		{
 			"key":"EP02_S1729_Q1",
@@ -58,19 +58,19 @@
 		},
 		{
 			"key":"EP02_S1729_Q1_A1",
-			"value":"Maybe they drowned."
+			"value":"Maybe they got swept away."
 		},
 		{
 			"key":"EP02_S1729_Q1_A2",
-			"value":"They fooled us, too?"
+			"value":"Did we fall for a trick?"
 		},
 		{
 			"key":"EP02_S1729_Q1_A3",
-			"value":"Look somewhere else."
+			"value":"Let’s look for another path."
 		},
 		{
 			"key":"EP02_S1729_0014",
-			"value":"It would be terrible if they drowned.\nWe need to make sure."
+			"value":"It would be terrible if they were swept away.\nLet’s go check."
 		},
 		{
 			"key":"EP02_S1729_0015",
@@ -142,7 +142,7 @@
 		},
 		{
 			"key":"EP02_S1729_0032",
-			"value":"There’s only one way to the dam.\nThe <color=#B41919>canal</color> is over here!"
+			"value":"There’s only one way to the dam:\nthe <color=#B41919>canal</color> over here!"
 		},
 		{
 			"key":"EP02_S1729_0033",
