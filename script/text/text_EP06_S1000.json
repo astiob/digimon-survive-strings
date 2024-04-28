@@ -38,7 +38,7 @@
 		},
 		{
 			"key":"EP06_S1000_0010",
-			"value":"If I hadn’t suggested going to the shrine\nwe wouldn’t have ended up in this world..."
+			"value":"If I hadn’t suggested going to the shrine,\nwe wouldn’t have ended up in this world..."
 		},
 		{
 			"key":"EP06_S1000_0011",
@@ -98,11 +98,11 @@
 		},
 		{
 			"key":"EP06_S1000_Q1_A2",
-			"value":"You’re overworrying."
+			"value":"Don’t think of it too much."
 		},
 		{
 			"key":"EP06_S1000_Q1_A3",
-			"value":"Don’t regret the past."
+			"value":"You have nothing to regret."
 		},
 		{
 			"key":"EP06_S1000_0024",
@@ -134,11 +134,11 @@
 		},
 		{
 			"key":"EP06_S1000_0031",
-			"value":"No, it’s okay.\nI feel better now."
+			"value":"No, it’s okay.\nI’m sure she’s relieved."
 		},
 		{
 			"key":"EP06_S1000_0032",
-			"value":"I just need a little time, that’s all.\nThank you, Takuma."
+			"value":"She just needs a little time, that’s all.\nThank you, Takuma."
 		},
 		{
 			"key":"EP06_S1000_0034",
@@ -146,15 +146,15 @@
 		},
 		{
 			"key":"EP06_S1000_0035",
-			"value":"You’re overworrying.\nYou didn’t do it on purpose."
+			"value":"Don’t think of it too much.\nYou didn’t do it on purpose."
 		},
 		{
 			"key":"EP06_S1000_0036",
-			"value":"Regret won’t bring Ryo back.\nLook ahead to the future, and..."
+			"value":"Regretting it now won’t bring Ryo back.\nLook ahead to the future, and..."
 		},
 		{
 			"key":"EP06_S1000_0037",
-			"value":"*sob* You’re right, but...\nBecause of me, Ryo is... He’s..."
+			"value":"*sob* That’s right, but then...\nIt’s really my fault that Ryo is... He’s..."
 		},
 		{
 			"key":"EP06_S1000_0038",
@@ -162,7 +162,7 @@
 		},
 		{
 			"key":"EP06_S1000_0039",
-			"value":"Hey, it’s not your fault, okay?\nThere’s no use crying about it!"
+			"value":"Hey! It’s not Miu’s fault!\nLook, you’ve gone and made her cry!"
 		},
 		{
 			"key":"EP06_S1000_0040",
@@ -174,7 +174,7 @@
 		},
 		{
 			"key":"EP06_S1000_0043",
-			"value":"You didn’t bring us here on purpose.\nDon’t regret the past."
+			"value":"You didn’t bring us here on purpose.\nYou have nothing to regret."
 		},
 		{
 			"key":"EP06_S1000_0044",
@@ -206,7 +206,7 @@
 		},
 		{
 			"key":"EP06_S1000_0051",
-			"value":"Got it.\nSorry I couldn’t help more."
+			"value":"Got it.\nSorry I couldn’t help much."
 		},
 		{
 			"key":"EP06_S1000_0052",
